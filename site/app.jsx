@@ -1,6 +1,7 @@
 import * as React from "react"
 import ReactDOM from "react-dom"
+import { createRoot } from "react-dom/client"
 import { Home } from "./src/home.jsx";
 import "./src/app.css";
 
-ReactDOM.render(<Home />, document.querySelector("#root"))
+createRoot(document.querySelector("#root")).render(<Home />);
