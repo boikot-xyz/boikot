@@ -24,5 +24,32 @@
     },
     "score": 20,
     "ownedBy": null
+  },
+  "c67da1c2-9df7-42d3-a1e2-efb2b84a422d": {
+    "names": [
+      "hsbc",
+      "hsbc bank",
+      "hsbc holdings",
+      "hongkong and shanghai banking corporation",
+      "the hongkong and shanghai banking corporation",
+      "the hongkong and shanghai banking corporation limited",
+      "hsbc group",
+      "hong kong bank",
+      "hongkongbank",
+      "hong kong shanghai bank",
+      "hsbc holdings plc"
+    ],
+    "comment": "HSBC is a british bank founded in colonial Hong Kong, which has been fined over $2 billion by various governments for providing services to money laundering groups [1][2][3], has assisted Iran and North Korea in circumventing US nuclear-weapons sanctions [4], and has been fined over $600 million for tax avoidance [5]. HSBC has pleged to reach net zero carbon emisssions by 2050 [6], and has committed to end financing of the coal industry [7].",
+    "sources": {
+      "1": "https://web.archive.org/web/20231127195037/https://www.reuters.com/business/hsbc-fined-85-mln-uk-anti-money-laundering-failings-2021-12-17/",
+      "2": "https://web.archive.org/web/20231024090948/https://www.theguardian.com/business/2015/jun/04/hsbc-fined-278m-over-money-laundering-claims",
+      "3": "https://www.independent.co.uk/news/business/news/terrorists-and-drug-lords-targeted-hsbc-bosses-admit-8483303.html",
+      "4": "https://web.archive.org/web/20220331180747/https://www.bbc.co.uk/news/business-20673466",
+      "5": "https://web.archive.org/web/20221221080911/https://www.reuters.com/article/us-hsbc-france-swiss-idUKKBN1DE1Z1/",
+      "6": "https://web.archive.org/web/20231108184928/https://www.reuters.com/article/hsbc-hldg-climatechange/exclusive-hsbc-targets-net-zero-emissions-by-2050-earmarks-1-trln-green-financing-idINL8N2GZ31Q/",
+      "7": "https://web.archive.org/web/20231117144315/https://shareaction.org/news/hsbc-sends-shockwaves-as-it-commits-to-end-coal-financing"
+    },
+    "score": 50,
+    "ownedBy": null
   }
 }
