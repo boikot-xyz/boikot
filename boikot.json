@@ -52,5 +52,17 @@
     },
     "score": 35,
     "ownedBy": null
+  },
+  "e7d27b4b-7944-4da3-9895-206e0f2d46a9": {
+    "names": [
+      "samsung",
+	  "samsung group"
+    ],
+    "comment": "COMMENT",
+    "sources": {
+      "1": "SOURCE"
+    },
+    "score": 0,
+    "ownedBy": null
   }
 }
