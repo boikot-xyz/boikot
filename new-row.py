@@ -24,7 +24,7 @@ def new_row():
     rows[ str(uuid.uuid4()) ] = new_entry()
 
     with open("boikot.json", "w") as json_file:
-        json.dump(rows, json_file, indent=2)
+        json.dump(rows, json_file, indent=2, ensure_ascii=False)
     
 
 new_row()
