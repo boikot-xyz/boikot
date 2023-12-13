@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
+if( !crypto.randomUUID ) crypto.randomUUID = () => "";
 
 const initialState = {
     comment: "",
@@ -12,7 +13,7 @@ const initialState = {
 
 function tojson(state) {
     const result = { ...state, score: parseFloat(state.score) };
-    return `"${crypto.randomUUID()}.":` +
+    return `"${crypto.randomUUID()}":` +
         JSON.stringify(result, null, 2) + ",";
 }
 
