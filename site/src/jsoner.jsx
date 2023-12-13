@@ -20,6 +20,7 @@ function makeSources(comment, oldSources) {
 
 const Inputs = styled.div`
     display: grid;
+    gap: 1rem;
 `;
 
 const copy = text =>
@@ -48,9 +49,9 @@ export function Jsoner() {
 
 
     return <Inputs>
-        <h4> comment </h4>
+        <h2> comment </h2>
         <textarea value={state.comment} onChange={setComment} />
-        <h4> sources </h4>
+        <h2> sources </h2>
         { Object.keys(state.sources).map(key =>
             <label>
                 {key}
