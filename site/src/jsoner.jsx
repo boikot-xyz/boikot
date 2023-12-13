@@ -6,7 +6,7 @@ const initialState = {
     comment: "",
     sources: {},
     tags: [],
-    score: 0,
+    score: "",
     ownedBy: null,
 };
 
