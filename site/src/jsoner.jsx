@@ -118,9 +118,6 @@ export function Jsoner() {
         <button onClick={() => copy(tojson(state))}>
             copy
         </button>
-        <button onClick={() => setState(initialState)}>
-            clear
-        </button>
     </Inputs>;
 }
 
