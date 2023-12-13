@@ -5,6 +5,9 @@ import styled from "styled-components";
 const initialState = {
     comment: "",
     sources: {},
+    tags: [],
+    score: 0,
+    ownedBy: null,
 };
 
 function tojson(state) {
