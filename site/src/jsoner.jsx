@@ -53,7 +53,7 @@ export function Jsoner() {
         <textarea value={state.comment} onChange={setComment} />
         <h2> sources </h2>
         { Object.keys(state.sources).map(key =>
-            <label>
+            <label key={key}>
                 {key}
                 <input
                     value={state.sources[key]}
