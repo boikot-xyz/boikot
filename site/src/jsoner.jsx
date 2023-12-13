@@ -29,6 +29,12 @@ const Inputs = styled.div`
     gap: 1rem;
 `;
 
+const Entry = styled.label`
+    display: grid;
+    gap: .6rem;
+    grid-template-columns: min-content auto;
+`;
+
 const ifCtrlC = f => e =>
     (e.ctrlKey || e.metaKey) && e.key == "c" && f();
 
@@ -68,32 +74,34 @@ export function Jsoner() {
             score: e.target.value,
         }) );
 
-
     return <Inputs onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
         <h2> comment </h2>
-        <textarea value={state.comment} onChange={setComment} />
+        <textarea
+            style={{ height: "8rem" }}
+            value={state.comment}
+            onChange={setComment} />
         <h2> sources </h2>
         { Object.keys(state.sources).map(key =>
-            <label key={key}>
+            <Entry key={key}>
                 {key}
                 <input
                     value={state.sources[key]}
                     onChange={setSource(key)} />
-            </label>
+            </Entry>
         )}
-        <label>
+        <Entry>
             tags
             <input
                 value={state.tags.join(" ")}
                 onChange={setTags} />
-        </label>
-        <label>
+        </Entry>
+        <Entry>
             score
             <input
                 value={state.score}
                 onChange={setScore} />
-        </label>
-        <pre style={{maxWidth: "100vw"}}>{tojson(state)}</pre>
+        </Entry>
+        <pre style={{width: "0"}}>{tojson(state)}</pre>
         <button onClick={() => copy(tojson(state))}>
             copy
         </button>
