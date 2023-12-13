@@ -7,12 +7,14 @@ const initialState = {
     sources: {},
     tags: [],
     score: "",
+
     ownedBy: null,
 };
 
 function tojson(state) {
     const result = { ...state, score: parseFloat(state.score) };
-    return JSON.stringify(result, null, 2) + ",";
+    return `"${crypto.randomUUID()}.":` +
+        JSON.stringify(result, null, 2) + ",";
 }
 
 function makeSources(comment, oldSources) {
