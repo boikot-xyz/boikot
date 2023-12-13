@@ -26,6 +26,9 @@ const Inputs = styled.div`
     gap: 1rem;
 `;
 
+const ifCtrlC = e =>
+    (e.ctrlKey || e.metaKey) && e.key == "c" && f => f();
+
 const copy = text =>
     navigator.clipboard.writeText(text);
 
@@ -51,7 +54,7 @@ export function Jsoner() {
         }) );
 
 
-    return <Inputs>
+    return <Inputs onKeyPress={ifCtrlC( () => copy(tojson(state)) )}>
         <h2> comment </h2>
         <textarea value={state.comment} onChange={setComment} />
         <h2> sources </h2>
