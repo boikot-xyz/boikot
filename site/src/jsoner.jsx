@@ -11,7 +11,8 @@ const initialState = {
 };
 
 function tojson(state) {
-    return `${ JSON.stringify(state, null, 2) },`;
+    const result = { ...state, score: parseFloat(state.score) };
+    return JSON.stringify(result, null, 2) + ",";
 }
 
 function makeSources(comment, oldSources) {
@@ -53,6 +54,18 @@ export function Jsoner() {
             },
         }) );
 
+    const setTags = e =>
+        setState( oldState => ({
+            ...oldState,
+            tags: e.target.value.split(" "),
+        }) );
+
+    const setScore = e =>
+        setState( oldState => ({
+            ...oldState,
+            score: e.target.value,
+        }) );
+
 
     return <Inputs onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
         <h2> comment </h2>
@@ -66,7 +79,19 @@ export function Jsoner() {
                     onChange={setSource(key)} />
             </label>
         )}
-        <pre>{tojson(state)}</pre>
+        <label>
+            tags
+            <input
+                value={state.tags.join(" ")}
+                onChange={setTags} />
+        </label>
+        <label>
+            score
+            <input
+                value={state.score}
+                onChange={setScore} />
+        </label>
+        <pre style={{maxWidth: "100vw"}}>{tojson(state)}</pre>
         <button onClick={() => copy(tojson(state))}>
             copy
         </button>
