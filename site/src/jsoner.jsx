@@ -1,4 +1,5 @@
 import React from "react";
+import styled from "styled-components";
 
 
 const initialState = {
@@ -17,6 +18,10 @@ function makeSources(comment, oldSources) {
         ({...res, [key]: oldSources[key] ?? ""}), {} );
 }
 
+const Inputs = styled.div`
+    display: grid;
+`;
+
 export function Jsoner() {
     const [state, setState] = React.useState(initialState);
 
@@ -29,7 +34,7 @@ export function Jsoner() {
             }
         ));
 
-    return <div>
+    return <Inputs>
         <textarea value={state.comment} onChange={setComment} />
         { Object.keys(state.sources).map(key =>
             <label>
@@ -38,6 +43,6 @@ export function Jsoner() {
             </label>
         )}
         <pre>{tojson(state)}</pre>
-    </div>;
+    </Inputs>;
 }
 
