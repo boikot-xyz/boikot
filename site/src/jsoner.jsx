@@ -72,7 +72,7 @@ export function Jsoner() {
     const setTags = e =>
         setState( oldState => ({
             ...oldState,
-            tags: e.target.value.split(" "),
+            tags: e.target.value.split(", "),
         }) );
 
     const setScore = e =>
@@ -105,7 +105,7 @@ export function Jsoner() {
         <Entry>
             tags
             <input
-                value={state.tags.join(" ")}
+                value={state.tags.join(", ")}
                 onChange={setTags} />
         </Entry>
         <Entry>
