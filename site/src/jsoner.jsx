@@ -7,7 +7,6 @@ const initialState = {
     sources: {},
     tags: [],
     score: "",
-
     ownedBy: null,
 };
 
