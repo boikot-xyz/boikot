@@ -34,12 +34,26 @@ export function Jsoner() {
             }
         ));
 
+    const setSource = key => e =>
+        setState( oldState => ({
+            ...oldState,
+            sources: {
+                ...oldState.sources,
+                [key]: e.target.value,
+            },
+        }) );
+
+
     return <Inputs>
+        <h4> comment </h4>
         <textarea value={state.comment} onChange={setComment} />
+        <h4> sources </h4>
         { Object.keys(state.sources).map(key =>
             <label>
                 {key}
-                <input value={state.sources[key]} />
+                <input
+                    value={state.sources[key]}
+                    onChange={setSource(key)} />
             </label>
         )}
         <pre>{tojson(state)}</pre>
