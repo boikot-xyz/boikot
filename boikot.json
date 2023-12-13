@@ -60,16 +60,28 @@
     "score": 35,
     "ownedBy": null
   },
-  "e7d27b4b-7944-4da3-9895-206e0f2d46a9": {
+  "d0b1b614-d4b8-41ca-a3b8-a2210f3fbe9e":{
     "names": [
-      "samsung",
-	  "samsung group"
+      "Samsung",
+      "Samsung Group"
     ],
-    "comment": "COMMENT",
+    "comment": "Samsung is a South Korean conglomerate which is the world's largest mobile phone and microchip manufacturer [1][2]. Samsung accounts for over 20% of South Korean exports [3] and has an outsized influence in the nation [4], and has been involved in bribery [5], anti-union activities [6], and price fixing [7].",
     "sources": {
-      "1": "SOURCE"
+      "1": "https://web.archive.org/web/20120428062632/http://www.isuppli.com/Mobile-and-Wireless-Communications/News/Pages/Samsung-Overtakes-Nokia-for-Cellphone-Lead.aspx",
+      "2": "https://web.archive.org/web/20180525234650/https://techcrunch.com/2018/01/30/samsung-intel-worlds-largest-chipmaker/",
+      "3": "https://web.archive.org/web/20110503224019/http://business.timesonline.co.uk/tol/business/industry_sectors/technology/article3764352.ece",
+      "4": "https://web.archive.org/web/20130921061502/http://articles.washingtonpost.com/2012-12-09/world/35721716_1_samsung-chairman-smartphone-market-samsung-credit-card",
+      "5": "https://web.archive.org/web/20170701085942/http://www.nytimes.com/2007/11/06/business/worldbusiness/06iht-samsung.1.8210181.html?pagewanted=all&_r=0",
+      "6": "https://web.archive.org/web/20190627140032/http://english.hani.co.kr/arti/english_edition/e_international/899427.html",
+      "7": "https://web.archive.org/web/20100707041505/http://europa.eu/rapid/pressReleasesAction.do?reference=IP/10/586"
     },
-    "score": 0,
+    "tags": [
+      "electronics",
+      "phones",
+      "computers",
+      "southkorea"
+    ],
+    "score": 45,
     "ownedBy": null
   }
 }
