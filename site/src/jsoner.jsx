@@ -11,10 +11,10 @@ function tojson(state) {
 }
 
 function makeSources(comment, oldSources) {
-    const nSources = comment.match(/\[a-z\]/g).length;
-    return {
-        "1": nSources,
-    };
+    const matches = comment.match(/\[(\d+)\]/g) ?? [];
+    const keys = matches.map( m => m.match(/\d+/)[0] );
+    return keys.reduce( (res,key) =>
+        ({...res, [key]: oldSources[key] ?? ""}), {} );
 }
 
 export function Jsoner() {
@@ -31,6 +31,12 @@ export function Jsoner() {
 
     return <div>
         <textarea value={state.comment} onChange={setComment} />
+        { Object.keys(state.sources).map(key =>
+            <label>
+                {key}
+                <input value={state.sources[key]} />
+            </label>
+        )}
         <pre>{tojson(state)}</pre>
     </div>;
 }
