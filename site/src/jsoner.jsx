@@ -8,7 +8,7 @@ const initialState = {
 };
 
 function tojson(state) {
-    return JSON.stringify(state, null, 2);
+    return `${ JSON.stringify(state, null, 2) },`;
 }
 
 function makeSources(comment, oldSources) {
@@ -21,6 +21,9 @@ function makeSources(comment, oldSources) {
 const Inputs = styled.div`
     display: grid;
 `;
+
+const copy = text =>
+    navigator.clipboard.writeText(text);
 
 export function Jsoner() {
     const [state, setState] = React.useState(initialState);
@@ -57,6 +60,9 @@ export function Jsoner() {
             </label>
         )}
         <pre>{tojson(state)}</pre>
+        <button onClick={() => copy(tojson(state))}>
+            copy
+        </button>
     </Inputs>;
 }
 
