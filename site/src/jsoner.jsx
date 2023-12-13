@@ -4,6 +4,7 @@ import styled from "styled-components";
 if( !crypto.randomUUID ) crypto.randomUUID = () => "";
 
 const initialState = {
+    names: [],
     comment: "",
     sources: {},
     tags: [],
@@ -44,6 +45,12 @@ const copy = text =>
 export function Jsoner() {
     const [state, setState] = React.useState(initialState);
 
+	const setNames = e =>
+        setState( oldState => ({
+            ...oldState,
+            names: e.target.value.split(", "),
+        }) );
+
     const setComment = e =>
         setState( oldState => (
             {
@@ -75,6 +82,12 @@ export function Jsoner() {
         }) );
 
     return <Inputs onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
+        <Entry>
+            names
+            <input
+                value={state.names.join(", ")}
+                onChange={setNames} />
+        </Entry>
         <h2> comment </h2>
         <textarea
             style={{ height: "8rem" }}
