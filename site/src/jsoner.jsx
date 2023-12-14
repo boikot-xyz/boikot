@@ -30,6 +30,16 @@ function makeSources(comment, oldSources) {
         ({...res, [key]: oldSources[key] ?? ""}), {} );
 }
 
+const sortSources = setState => () => setState( state => {
+    const matches = state.comment.match(/\[(\d+)\]/g) ?? [];
+    const keys = matches.map( m => m.match(/\d+/)[0] );
+
+    if( (new Set(keys)).size !== keys.length )
+        return alert("duplicate source numbers detected!");
+
+
+});
+
 const Inputs = styled.div`
     display: grid;
     gap: 1rem;
@@ -49,6 +59,7 @@ const copy = text =>
 
 export function Jsoner() {
     const [state, setState] = React.useState(initialState);
+    const showSources = !!Object.keys(state.sources).length;
 
 	const setNames = e =>
         setState( oldState => ({
@@ -98,7 +109,7 @@ export function Jsoner() {
             style={{ height: "8rem" }}
             value={state.comment}
             onChange={setComment} />
-        { !!Object.keys(state.sources).length && <h2> sources </h2> }
+        { showSources && <h2> sources </h2> }
         { Object.keys(state.sources).map(key =>
             <Entry key={key}>
                 {key}
@@ -107,6 +118,10 @@ export function Jsoner() {
                     onChange={setSource(key)} />
             </Entry>
         )}
+        { showSources &&
+            <button onClick={sortSources(setState)}>
+                sort sources
+            </button> }
         <div/>
         <Entry>
             tags
