@@ -12,7 +12,7 @@ const initialState = {
     ownedBy: null,
 };
 
-function tojson(state) {
+export function tojson(state) {
     const result = { ...state, score: parseFloat(state.score) };
     return `"${crypto.randomUUID()}":` +
         JSON.stringify(result, null, 2) + ",";
@@ -115,7 +115,7 @@ export function Jsoner() {
                 value={state.score}
                 onChange={setScore} />
         </Entry>
-        <pre style={{width: "0"}}>{tojson(state)}</pre>
+        <pre style={{whiteSpace: "pre-wrap"}}>{tojson(state)}</pre>
         <button onClick={() => copy(tojson(state))}>
             copy
         </button>
