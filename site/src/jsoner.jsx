@@ -32,12 +32,28 @@ function makeSources(comment, oldSources) {
 
 const sortSources = setState => () => setState( state => {
     const matches = state.comment.match(/\[(\d+)\]/g) ?? [];
-    const keys = matches.map( m => m.match(/\d+/)[0] );
+    const keys = matches.map( m => +m.match(/\d+/)[0] );
 
-    if( (new Set(keys)).size !== keys.length )
-        return alert("duplicate source numbers detected!");
+    if( (new Set(keys)).size !== keys.length ) {
+        alert("duplicate source numbers detected!");
+        return state;
+    }
 
+    const newKeyMap = keys.reduce( (res,key,i) => ({
+        ...res,
+        [key]: i+1,
+    }), {} );
 
+    for( const key of keys ) {
+        if( key == newKeyMap[key] ) continue;
+        state.comment = state.comment.replace(
+            `[${key}]`, `[${newKeyMap[key]}]`
+        );
+        state.sources[newKeyMap[key]] = state.sources[key];
+        delete state.sources[key];
+    }
+
+    return structuredClone(state);
 });
 
 const Inputs = styled.div`
