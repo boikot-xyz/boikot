@@ -12,7 +12,7 @@ const initialState = {
     ownedBy: null,
 };
 
-export function tojson(state) {
+function tojson(state) {
     const result = { ...state, score: parseFloat(state.score) };
     return `"${crypto.randomUUID()}":` +
         JSON.stringify(result, null, 2) + ",";

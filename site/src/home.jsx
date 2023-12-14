@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import { tojson, Jsoner } from "./jsoner.jsx";
+import { Jsoner } from "./jsoner.jsx";
 import { Blog } from "./blog/blog.jsx";
 import boikot from "../../boikot.json";
 
@@ -17,7 +17,7 @@ export function Home() {
         <Jsoner/>
         <Blog />
         <pre style={{ whiteSpace: "pre-wrap" }}>
-            { tojson(boikot) }
+            { JSON.stringify(boikot, null, 2) }
         </pre>
     </Stack>;
 }
