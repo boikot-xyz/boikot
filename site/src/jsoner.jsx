@@ -44,16 +44,21 @@ const sortSources = setState => () => setState( state => {
         [key]: i+1,
     }), {} );
 
+    const newSources = {};
+    let newComment = state.comment;
     for( const key of keys ) {
-        if( key == newKeyMap[key] ) continue;
-        state.comment = state.comment.replace(
-            `[${key}]`, `[${newKeyMap[key]}]`
+        newComment = newComment.replace(
+            `[${key}]`, `[%${newKeyMap[key]}]`
         );
-        state.sources[newKeyMap[key]] = state.sources[key];
-        delete state.sources[key];
+        newSources[newKeyMap[key]] = state.sources[key];
+    }
+    for( const key of keys ) {
+        newComment = newComment.replace(
+            `[%${newKeyMap[key]}]`, `[${newKeyMap[key]}]`
+        );
     }
 
-    return structuredClone(state);
+    return { ...state, comment: newComment, sources: newSources };
 });
 
 const Inputs = styled.div`
