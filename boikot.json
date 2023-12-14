@@ -83,5 +83,35 @@
     ],
     "score": 45,
     "ownedBy": null
+  },
+  "21abbdac-e522-49b4-a61c-a70ca7c0b92d":{
+    "names": [
+      "Apple",
+      "Apple Inc.",
+      "Apple Computer Company",
+      "Apple Computer Inc."
+    ],
+    "comment": "Apple is an American technology company credited with innovation in personal computing [1] which has a generally pro-consumer stance on privacy [2][3][4] and a proactive climate policy [5][6][7]. Apple has engaged in anti-competetive practices [8], its factories have seen abusive working conditions [9][10], and its climate claims have been called misleading [11].",
+    "sources": {
+      "1": "https://www.forbes.com/sites/susanadams/2013/09/27/is-apple-the-worlds-most-innovative-company-still",
+      "2": "https://www.wired.com/2015/06/apples-latest-selling-point-little-knows",
+      "3": "https://www.gizbot.com/mobile/news/apple-app-tracking-transparency-becomes-facebook-nightmare-only-4-percent-allow-tracking-074217.html",
+      "4": "https://money.cnn.com/2016/02/22/technology/apple-privacy-icloud/index.html",
+      "5": "http://9to5mac.com/2016/06/09/apple-energy-company",
+      "6": "https://web.archive.org/web/20131202223855/http://www.businessweek.com/news/2013-03-21/apple-says-data-centers-now-use-100-percent-renewable-energy",
+      "7": "https://www.apple.com/newsroom/2016/06/global-apps-for-earth-campaign-with-wwf-raises-more-than--8m.html",
+      "8": "https://ghostarchive.org/archive/20221210/https://www.ft.com/content/e9bb4da1-867a-40ba-abc0-4a63d3421e31",
+      "9": "https://www.reuters.com/article/idUSTRE6A41M920101105",
+      "10": "https://www.huffpost.com/entry/foxconn-suffers-10th-deat_n_588524",
+      "11": "https://www.seattletimes.com/business/report-corporate-climate-pledges-are-weaker-than-they-seem/"
+    },
+    "tags": [
+      "tech",
+      "electronics",
+      "phones",
+      "computers"
+    ],
+    "score": 55,
+    "ownedBy": null
   }
 }
