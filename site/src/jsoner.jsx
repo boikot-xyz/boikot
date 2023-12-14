@@ -115,7 +115,9 @@ export function Jsoner() {
                 value={state.score}
                 onChange={setScore} />
         </Entry>
-        <pre style={{whiteSpace: "pre-wrap"}}>{tojson(state)}</pre>
+        <pre style={{whiteSpace: "pre-wrap", wordWrap: "anywhere"}}>
+            {tojson(state)}
+        </pre>
         <button onClick={() => copy(tojson(state))}>
             copy
         </button>

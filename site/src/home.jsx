@@ -16,7 +16,7 @@ export function Home() {
         <h1 style={{ marginBottom: "1rem" }}>boikot 🙅‍♀️ </h1>
         <Jsoner/>
         <Blog />
-        <pre style={{ whiteSpace: "pre-wrap" }}>
+        <pre style={{ whiteSpace: "pre-wrap", wordWrap: "anywhere" }}>
             { JSON.stringify(boikot, null, 2) }
         </pre>
     </Stack>;
