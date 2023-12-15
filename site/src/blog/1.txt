@@ -1,3 +1,4 @@
 # boikot
 
+boikot is an initiative to make available data on the ethics of companies.
 
