@@ -3,12 +3,8 @@ import styled from "styled-components";
 
 import { Jsoner } from "./jsoner.jsx";
 import { Blog } from "./blog/blog.jsx";
+import { Stack } from "./components.jsx";
 import boikot from "../../boikot.json";
-
-export const Stack = styled.div`
-    display: grid;
-    gap: 1rem;
-`;
 
 
 export function Home() {

@@ -1,6 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 
+import { Stack } from "../components.jsx";
+
 import blog1 from "./1.txt";
 
 const blogs = [
@@ -8,9 +10,9 @@ const blogs = [
 ];
 
 export function Blog() {
-    return <div>
+    return <Stack>
         <h1> blog </h1>
         { blogs.map( blog =>
             <pre>{ blog }</pre> ) }
-    </div>;
+    </Stack>;
 }

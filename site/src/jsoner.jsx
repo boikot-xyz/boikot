@@ -1,6 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 
+import { Stack } from "./components.jsx";
+
 if( !crypto.randomUUID ) crypto.randomUUID = () => "";
 
 window.addEventListener('beforeunload', e => {
@@ -64,11 +66,6 @@ const sortSources = setState => () => setState( state => {
     return { ...state, comment: newComment, sources: newSources };
 });
 
-const Inputs = styled.div`
-    display: grid;
-    gap: 1rem;
-`;
-
 const Entry = styled.label`
     display: grid;
     gap: .6rem;
@@ -125,7 +122,7 @@ export function Jsoner() {
             [fieldName]: e.target.value,
         }) );
 
-    return <Inputs onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
+    return <Stack onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
         <Entry>
             names + ticker
             <input
@@ -181,6 +178,6 @@ export function Jsoner() {
         <button onClick={() => copy(tojson(state))}>
             copy
         </button>
-    </Inputs>;
+    </Stack>;
 }
 
