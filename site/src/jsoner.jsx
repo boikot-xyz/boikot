@@ -17,6 +17,7 @@ const initialState = {
     ownedBy: null,
     logoUrl: "",
     siteUrl: "",
+    updatedAt: (new Date()).toISOString(),
 };
 
 function tojson(state) {
