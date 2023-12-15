@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import { Stack } from "../components.jsx";
+import { Stack, WrappingPre } from "../components.jsx";
 
 import blog1 from "./1.txt";
 
@@ -13,6 +13,6 @@ export function Blog() {
     return <Stack>
         <h1> blog </h1>
         { blogs.map( blog =>
-            <pre>{ blog }</pre> ) }
+            <WrappingPre>{ blog }</WrappingPre> ) }
     </Stack>;
 }

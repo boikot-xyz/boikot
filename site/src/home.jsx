@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 import { Jsoner } from "./jsoner.jsx";
 import { Blog } from "./blog/blog.jsx";
-import { Stack } from "./components.jsx";
+import { Stack, WrappingPre } from "./components.jsx";
 import boikot from "../../boikot.json";
 
 
@@ -12,9 +12,9 @@ export function Home() {
         <h1 style={{ marginBottom: "1rem" }}>boikot 🙅‍♀️ </h1>
         <Jsoner/>
         <Blog />
-        <pre style={{ whiteSpace: "pre-wrap", wordWrap: "anywhere" }}>
+        <WrappingPre>
             { JSON.stringify(boikot, null, 2) }
-        </pre>
+        </WrappingPre>
     </Stack>;
 }
 

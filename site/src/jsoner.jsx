@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import { Stack } from "./components.jsx";
+import { Stack, WrappingPre } from "./components.jsx";
 
 if( !crypto.randomUUID ) crypto.randomUUID = () => "";
 
@@ -172,9 +172,9 @@ export function Jsoner() {
                 value={state.siteUrl}
                 onChange={setStateField("siteUrl")} />
         </Entry>
-        <pre style={{whiteSpace: "pre-wrap", wordWrap: "anywhere"}}>
+        <WrappingPre>
             {tojson(state)}
-        </pre>
+        </WrappingPre>
         <button onClick={() => copy(tojson(state))}>
             copy
         </button>
