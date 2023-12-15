@@ -123,5 +123,36 @@
     "ownedBy": null,
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
     "siteUrl": "https://www.apple.com/"
+  },
+  "77c6b652-9ab5-47cf-896b-b446102d2101":{
+    "names": [
+      "Tesla",
+      "Tesla Inc.",
+      "Tesla Automation",
+      "Tesla Energy",
+      "TSLA"
+    ],
+    "comment": "Tesla is an American automotive and sustainable energy company which is the world's biggest manufacturer of electric vehicles [1] and is a major installer of solar power systems [2] and battery storage [3]. Tesla has engaged in anti-union practices [4], received claims of workplace sexual harassment [5], committed environmental waste violations [6], and been accused of anticompetitive repair policies in several lawsuits [7].",
+    "sources": {
+      "1": "https://web.archive.org/web/20210904115030/https://cleantechnica.com/2021/08/26/tesla-model-3-has-passed-1-million-sales/",
+      "2": "https://web.archive.org/web/20230420155738/https://www.pv-tech.org/tesla-2022-solar-installs-inched-up-to-348mw/",
+      "3": "https://web.archive.org/web/20230820094909/https://finance.yahoo.com/news/tesla-battery-backup-systems-manage-142235080.html",
+      "4": "https://www.nytimes.com/2023/03/31/business/tesla-union-musk-twitter.html",
+      "5": "https://www.forbes.com/sites/alanohnsman/2021/12/14/tesla-hit-by-6-more-sexual-harassment-claims/",
+      "6": "https://www.thedrive.com/tech/28413/tesla-in-settlement-proceedings-over-19-air-quality-violations-as-investigation-continues",
+      "7": "https://www.theregister.com/2023/03/16/dual_tesla_lawsuits_brings_musk/"
+    },
+    "tags": [
+      "electricvehicles",
+      "us",
+      "cars",
+      "tech",
+      "solarpower",
+      "batteries"
+    ],
+    "score": 85,
+    "ownedBy": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg",
+    "siteUrl": "http://tesla.com/"
   }
 }
