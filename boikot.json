@@ -24,7 +24,9 @@
     },
     "tags": [
       "bank",
-      "uk"
+      "uk",
+      "unsustainable",
+      "anticompetetive"
     ],
     "score": 20,
     "ownedBy": null,
@@ -59,7 +61,9 @@
     },
     "tags": [
       "bank",
-      "uk"
+      "uk",
+      "corruption",
+      "greenwashing"
     ],
     "score": 35,
     "ownedBy": null,
@@ -86,7 +90,10 @@
       "electronics",
       "phones",
       "computers",
-      "southkorea"
+      "southkorea",
+      "corruption",
+      "anticompetetive",
+      "antiunion"
     ],
     "score": 45,
     "ownedBy": null,
@@ -120,7 +127,9 @@
       "tech",
       "electronics",
       "phones",
-      "computers"
+      "computers",
+      "proprivacy",
+      "anticompetetive"
     ],
     "score": 55,
     "ownedBy": null,
@@ -152,7 +161,11 @@
       "cars",
       "tech",
       "solarpower",
-      "batteries"
+      "batteries",
+      "cleanenergy",
+      "antiunion",
+      "anticompetetive",
+      "harassment"
     ],
     "score": 85,
     "ownedBy": null,
