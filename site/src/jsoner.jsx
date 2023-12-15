@@ -16,6 +16,7 @@ const initialState = {
     score: "",
     ownedBy: null,
     logoUrl: "",
+    siteUrl: "",
 };
 
 function tojson(state) {
@@ -117,16 +118,10 @@ export function Jsoner() {
             tags: e.target.value.split(", "),
         }) );
 
-    const setScore = e =>
+    const setStateField = fieldName => e =>
         setState( oldState => ({
             ...oldState,
-            score: e.target.value,
-        }) );
-
-    const setLogoUrl = e =>
-        setState( oldState => ({
-            ...oldState,
-            logoUrl: e.target.value,
+            [fieldName]: e.target.value,
         }) );
 
     return <Inputs onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
@@ -165,13 +160,19 @@ export function Jsoner() {
             score
             <input
                 value={state.score}
-                onChange={setScore} />
+                onChange={setStateField("score")} />
         </Entry>
         <Entry>
             logoUrl
             <input
                 value={state.logoUrl}
-                onChange={setLogoUrl} />
+                onChange={setStateField("logoUrl")} />
+        </Entry>
+        <Entry>
+            siteUrl
+            <input
+                value={state.siteUrl}
+                onChange={setStateField("siteUrl")} />
         </Entry>
         <pre style={{whiteSpace: "pre-wrap", wordWrap: "anywhere"}}>
             {tojson(state)}
