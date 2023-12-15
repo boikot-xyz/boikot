@@ -71,7 +71,7 @@ const Inputs = styled.div`
 const Entry = styled.label`
     display: grid;
     gap: .6rem;
-    grid-template-columns: min-content auto;
+    grid-template-columns: max-content auto;
     align-items: center;
     * {
         padding: 0.2rem 0.4rem;
@@ -126,7 +126,7 @@ export function Jsoner() {
 
     return <Inputs onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
         <Entry>
-            names
+            names + ticker
             <input
                 value={state.names.join(", ")}
                 onChange={setNames} />
