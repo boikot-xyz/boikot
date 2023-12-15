@@ -70,6 +70,10 @@ const Entry = styled.label`
     display: grid;
     gap: .6rem;
     grid-template-columns: min-content auto;
+    align-items: center;
+    * {
+        padding: 0.2rem 0.4rem;
+    }
 `;
 
 const ifCtrlC = f => e =>
@@ -127,7 +131,7 @@ export function Jsoner() {
         </Entry>
         <h2> comment </h2>
         <textarea
-            style={{ height: "8rem" }}
+            style={{ height: "8rem", padding: "0.2rem 0.4rem" }}
             value={state.comment}
             onChange={setComment} />
         { showSources && <h2> sources </h2> }
