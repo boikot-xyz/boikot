@@ -87,7 +87,7 @@ export function Jsoner() {
     const [state, setState] = React.useState(initialState);
     const showSources = !!Object.keys(state.sources).length;
 
-	const setNames = e =>
+    const setNames = e =>
         setState( oldState => ({
             ...oldState,
             names: e.target.value.split(", "),
