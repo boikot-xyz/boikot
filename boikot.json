@@ -173,5 +173,29 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg",
     "siteUrl": "http://tesla.com/",
     "updatedAt": "2023-12-15T22:09:30.315Z"
+  },
+  "b5ca0643-9da0-4e48-ba99-13eb0e84a583":{
+    "names": [
+      "Github",
+      "Github Inc.",
+      "Logical Volcano"
+    ],
+    "comment": "Github is an American software and version control platform owned by Microsoft which offers free services to software developers [1] and students [2][3]. A past Github CEO resigned over claims of workplace harassment [4].",
+    "sources": {
+      "1": "https://web.archive.org/web/20200414193839/https://github.blog/2020-04-14-github-is-now-free-for-teams/",
+      "2": "https://web.archive.org/web/20210322042209/https://techcrunch.com/2014/10/07/github-partners-with-digital-ocean-unreal-engine-and-others-to-give-students-free-access-to-developer-tools/",
+      "3": "https://web.archive.org/web/20190123010650/https://github.blog/2016-06-25-github-campus-experts-technology-leadership-at-your-school/",
+      "4": "https://web.archive.org/web/20210322042246/https://www.wired.com/2014/04/tom-pw/"
+    },
+    "tags": [
+      "tech",
+      "software",
+      "ai"
+    ],
+    "score": 80,
+    "ownedBy": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg",
+    "siteUrl": "https://github.com/",
+    "updatedAt": "2023-12-15T22:56:44.080Z"
   }
 }
