@@ -27,7 +27,8 @@
       "uk"
     ],
     "score": 20,
-    "ownedBy": null
+    "ownedBy": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/Barclays_logo.svg"
   },
   "c67da1c2-9df7-42d3-a1e2-efb2b84a422d": {
     "names": [
@@ -58,7 +59,8 @@
       "uk"
     ],
     "score": 35,
-    "ownedBy": null
+    "ownedBy": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/HSBC_logo_%282018%29.svg"
   },
   "d0b1b614-d4b8-41ca-a3b8-a2210f3fbe9e":{
     "names": [
@@ -82,7 +84,8 @@
       "southkorea"
     ],
     "score": 45,
-    "ownedBy": null
+    "ownedBy": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Samsung_wordmark.svg"
   },
   "21abbdac-e522-49b4-a61c-a70ca7c0b92d":{
     "names": [
@@ -112,6 +115,7 @@
       "computers"
     ],
     "score": 55,
-    "ownedBy": null
+    "ownedBy": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
   }
 }
