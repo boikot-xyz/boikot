@@ -20,10 +20,12 @@ const initialState = {
     logoUrl: "",
     siteUrl: "",
     updatedAt: (new Date()).toISOString(),
+    jsondump: "",
 };
 
 function tojson(state) {
     const result = { ...state, score: parseFloat(state.score) };
+    delete result.jsondump;
     return `"${crypto.randomUUID()}":` +
         JSON.stringify(result, null, 2) + ",";
 }
@@ -121,6 +123,19 @@ export function Jsoner() {
             ...oldState,
             [fieldName]: e.target.value,
         }) );
+
+    const mergeJSONDump = () => {
+        try {
+            const newObj = JSON.parse(state.jsondump);
+            setState( oldState => ({
+                ...oldState,
+                ...newObj,
+                jsondump: ""
+            }) );
+        } catch(error) {
+            alert("Could not parse JSON 😩");
+        }
+    };
 
     return <Stack onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
         <Entry>
