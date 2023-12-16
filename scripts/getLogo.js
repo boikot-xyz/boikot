@@ -1,8 +1,13 @@
+#!/usr/bin/env node
+
 const { JSDOM } = require("jsdom");
 
 // document.querySelector(".infobox-image.logo img").src.match(/.+?\.svg/)[0].replace("thumb/", "");
 
 async function getLogo(url) {
+
+    if( !url ) return console.log("No url provided!");
+
     const page = await (await fetch(url)).text();
     const dom = new JSDOM(page);
 
