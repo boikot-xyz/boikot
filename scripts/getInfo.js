@@ -46,24 +46,32 @@ function getSiteUrl( pageDOM ) {
     return siteUrl;
 }
 
-async function getInfo( searchQuery ) {
+async function getInfo( searchQuery, showExtraInfo = false ) {
 
     const page = await getWikipediaPage( searchQuery );
     const pageHTML = await (await fetch(page.fullurl)).text();
     const pageDOM = new JSDOM( pageHTML );
 
-    return {
+    const extraInfo = {
         searchQuery: searchQuery,
-        logoUrl: getLogoUrl( pageDOM ),
-        siteUrl: getSiteUrl( pageDOM ),
         wikipediaUrl: page.fullurl,
         wikipediaTitle: page.title,
         wikipediaDescription: page.description,
+    };
+
+    return {
+        logoUrl: getLogoUrl( pageDOM ),
+        siteUrl: getSiteUrl( pageDOM ),
+        ...( showExtraInfo ? extraInfo : {} ),
     };
 }
 
 ( async () => {
     const info = await getInfo( process.argv[2] );
-    console.log( "\n\n\n\n", info, "\n\n\n\n" );
+    console.log(
+        "\n\n\n\n",
+        JSON.stringify(info, null, 2),
+        "\n\n\n\n"
+    );
 } )();
 
