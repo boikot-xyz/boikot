@@ -24,7 +24,7 @@ function getLogoUrl( pageDOM ) {
         document.querySelector(".infobox-image.logo img") ??
         document.querySelector(".infobox-image img");
 
-    const logoUrl = logoImg.src
+    const logoUrl = logoImg?.src
         .match(/.+?\.svg/)[0]
         .replace("thumb/", "")
         .replace("//upload", "https://upload");
@@ -41,7 +41,7 @@ function getSiteUrl( pageDOM ) {
     const siteLabel = infoBoxLabels.filter( 
         el => el.innerHTML.includes("Website")
     )[0];
-    const siteUrl = siteLabel.parentElement.querySelector("a").href;
+    const siteUrl = siteLabel?.parentElement.querySelector("a").href;
 
     return siteUrl;
 }
