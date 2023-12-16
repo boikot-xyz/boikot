@@ -64,6 +64,6 @@ async function getInfo( searchQuery ) {
 
 ( async () => {
     const info = await getInfo( process.argv[2] );
-    console.log( info );
+    console.log( "\n\n\n\n", info, "\n\n\n\n" );
 } )();
 
