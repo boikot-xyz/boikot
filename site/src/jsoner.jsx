@@ -187,14 +187,22 @@ export function Jsoner() {
                 value={state.siteUrl}
                 onChange={setStateField("siteUrl")} />
         </Entry>
+        <h2> jsondump </h2>
+        <textarea
+            style={{ height: "4rem", padding: "0.2rem 0.4rem" }}
+            value={state.jsondump}
+            onChange={setStateField("jsondump")} />
+        <button onClick={mergeJSONDump}>
+            merge 🖇️
+        </button>
         <WrappingPre>
             {tojson(state)}
         </WrappingPre>
         <button onClick={() => copy(tojson(state))}>
-            copy
+            copy 📋
         </button>
         <button onClick={() => window.location.reload()}>
-            clear
+            clear 🧽
         </button>
     </Stack>;
 }
