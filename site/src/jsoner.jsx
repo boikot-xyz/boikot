@@ -32,7 +32,10 @@ function tojson(state) {
 
 function makeSources(comment, oldSources) {
     const matches = comment.match(/\[(\d+)\]/g) ?? [];
-    const keys = matches.map( m => m.match(/\d+/)[0] );
+    const keys = [
+        ...Object.keys(oldSources),
+        ...matches.map( m => m.match(/\d+/)[0] )
+    ];
     return keys.reduce( (res,key) =>
         ({...res, [key]: oldSources[key] ?? ""}), {} );
 }
