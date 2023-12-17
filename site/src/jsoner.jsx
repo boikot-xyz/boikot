@@ -44,15 +44,11 @@ const sortSources = setState => () => setState( state => {
     const matches = state.comment.match(/\[(\d+)\]/g) ?? [];
     const keys = matches.map( m => +m.match(/\d+/)[0] );
 
-    if( (new Set(keys)).size !== keys.length ) {
-        alert("duplicate source numbers detected!");
-        return state;
+    const newKeyMap = {};
+    for( const key of keys ) {
+        if( !newKeyMap[key] )
+            newKeyMap[key] = Object.keys(newKeyMap).length + 1;
     }
-
-    const newKeyMap = keys.reduce( (res,key,i) => ({
-        ...res,
-        [key]: i+1,
-    }), {} );
 
     const newSources = {};
     let newComment = state.comment;
