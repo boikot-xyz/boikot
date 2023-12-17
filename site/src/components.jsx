@@ -11,3 +11,6 @@ export const WrappingPre = styled.pre`
     word-wrap: anywhere;
 `;
 
+export const copy = text =>
+    navigator.clipboard.writeText(text);
+

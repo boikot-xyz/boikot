@@ -1,12 +1,12 @@
 import React from "react";
 import styled from "styled-components";
 
-import { Stack } from "./components.jsx";
+import { Stack, copy } from "./components.jsx";
 
 
-const copyPrompt = info => () => {
-    navigator.clipboard.writeText(info);
-};
+function generatePrompt(info) {
+    return info;
+}
 
 export function Prompter() {
     const [ info, setInfo ] = React.useState("");
@@ -17,7 +17,13 @@ export function Prompter() {
             style={{ height: "12rem", padding: "0.2rem 0.4rem" }}
             value={info}
             onChange={ e => setInfo(e.target.value) } />
-        <button onClick={copyPrompt(info)}> copy prompt 💬 </button>
+        { info && <h2> prompt 💬 </h2> }
+        <p style={{ maxHeight: "10rem", overflow: "scroll" }}>
+            { generatePrompt(info) }
+        </p>
+        <button onClick={() => copy(generatePrompt(info))}>
+            copy prompt 📋
+        </button>
     </Stack>;
 }
 

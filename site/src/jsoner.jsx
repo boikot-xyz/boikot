@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import { Stack, WrappingPre } from "./components.jsx";
+import { Stack, WrappingPre, copy } from "./components.jsx";
 
 if( !crypto.randomUUID ) crypto.randomUUID = () => "";
 
@@ -80,9 +80,6 @@ const Entry = styled.label`
 
 const ifCtrlC = f => e =>
     (e.ctrlKey || e.metaKey) && e.key == "c" && f();
-
-const copy = text =>
-    navigator.clipboard.writeText(text);
 
 export function Jsoner() {
     const [state, setState] = React.useState(initialState);
