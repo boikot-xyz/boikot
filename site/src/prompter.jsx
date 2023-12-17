@@ -4,6 +4,11 @@ import styled from "styled-components";
 import { Stack, copy } from "./components.jsx";
 
 
+const initialState = {
+    infodump: "",
+    sources: {},
+};
+
 function generatePrompt(info) {
     return info;
 }
@@ -23,20 +28,24 @@ const handlePaste = setInfo => e => {
 };
 
 export function Prompter() {
-    const [ info, setInfo ] = React.useState("");
+    const [ state, setState ] = React.useState(initialState);
+
+    const setInfo = newInfodump => setState( oldState =>
+        ({ ...oldState, infodump: newInfodump }) );
 
     return <Stack style={{ marginBottom: "3rem" }}>
         <h2> infodump </h2>
         <textarea
             style={{ height: "15rem", padding: "0.2rem 0.4rem" }}
-            value={info}
+            value={state.infodump}
             onChange={ e => setInfo(e.target.value) }
             onPaste={ handlePaste(setInfo) } />
-        { info && <h2> prompt 💬 </h2> }
+        { state.infodump && <h2> prompt 💬 </h2> }
         <p style={{ maxHeight: "10rem", overflow: "scroll" }}>
-            { generatePrompt(info) }
+            { generatePrompt(state.infodump) }
         </p>
-        <button onClick={() => copy(generatePrompt(info))}>
+        <button onClick={() =>
+            copy(generatePrompt(state.infodump))}>
             copy prompt 📋
         </button>
     </Stack>;
