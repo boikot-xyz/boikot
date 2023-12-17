@@ -4,15 +4,19 @@ const { JSDOM } = require("jsdom");
 
 
 const searchEndpoint = searchQuery =>
-    `https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=description%7Cinfo&inprop=url&generator=prefixsearch&redirects=&gpssearch=${searchQuery}&gpsnamespace=0&gpslimit=1`;
+    `https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=description%7Cinfo&inprop=url&generator=prefixsearch&redirects=&gpssearch=${searchQuery}&gpsnamespace=0&gpslimit=2`;
 
+const isNotDisambiguation = page =>
+    !page.description
+        .includes("Topics referred to by the same term");
 
 async function getWikipediaPage( searchQuery ) {
 
     const response = await (await fetch(
         searchEndpoint(searchQuery))
     ).json();
-    const page = response.query.pages[0];
+    const page = response.query.pages
+        .filter(isNotDisambiguation)[0];
 
     return page;
 }
