@@ -72,7 +72,7 @@
         "siteUrl": "https://www.hsbc.co.uk/",
         "updatedAt": "2023-12-15T22:09:30.315Z"
     },
-    "d0b1b614-d4b8-41ca-a3b8-a2210f3fbe9e":{
+    "d0b1b614-d4b8-41ca-a3b8-a2210f3fbe9e": {
         "names": [
             "Samsung",
             "Samsung Group"
@@ -102,7 +102,7 @@
         "siteUrl": "https://www.samsung.com",
         "updatedAt": "2023-12-15T22:09:30.315Z"
     },
-    "21abbdac-e522-49b4-a61c-a70ca7c0b92d":{
+    "21abbdac-e522-49b4-a61c-a70ca7c0b92d": {
         "names": [
             "Apple",
             "Apple Inc.",
@@ -138,7 +138,7 @@
         "siteUrl": "https://www.apple.com/",
         "updatedAt": "2023-12-15T22:09:30.315Z"
     },
-    "77c6b652-9ab5-47cf-896b-b446102d2101":{
+    "77c6b652-9ab5-47cf-896b-b446102d2101": {
         "names": [
             "Tesla",
             "Tesla Inc.",
@@ -176,7 +176,7 @@
         "siteUrl": "http://tesla.com/",
         "updatedAt": "2023-12-15T22:09:30.315Z"
     },
-    "b5ca0643-9da0-4e48-ba99-13eb0e84a583":{
+    "b5ca0643-9da0-4e48-ba99-13eb0e84a583": {
         "names": [
             "Github",
             "Github Inc.",
@@ -200,7 +200,7 @@
         "siteUrl": "https://github.com/",
         "updatedAt": "2023-12-15T22:56:44.080Z"
     },
-    "37418972-eb6c-4742-98b1-e7635014c3d2":{
+    "37418972-eb6c-4742-98b1-e7635014c3d2": {
         "names": [
             "Microsoft",
             "MicroSoft",
@@ -242,7 +242,7 @@
         "siteUrl": "https://www.microsoft.com/",
         "updatedAt": "2023-12-16T16:14:19.614Z"
     },
-    "ed68b13f-d1db-46d6-9f67-4eb44b2823ac":{
+    "ed68b13f-d1db-46d6-9f67-4eb44b2823ac": {
         "names": [
             "Hugging Face",
             "Hugging Face Inc."
@@ -265,60 +265,60 @@
         "siteUrl": "https://huggingface.co/",
         "updatedAt": "2023-12-17T12:55:21.833Z"
     },
-    "cd46812c-8f45-4792-a13b-57e5bbc5323b":{
-      "names": [
-          "YouTube",
-          "Youtube",
-          "You Tube"
-      ],
-      "comment": "YouTube is an American video streaming platform owned by Google, which is a leading source of free entertainment and educational content online [1][2], and has empowered independent creators to build their audience [3]. Youtube has been fined $170 million for collecting the personal information of minors [4], blocked users' content due to copyright even when fair use applies [5], applied an algorithm that propagates radical content [6][7][8] and showed videos containing violent and disturbing content to children [9].",
-      "sources": {
-          "1": "https://web.archive.org/web/20230614094637/http://www.forbes.com/advisor/business/social-media-statistics/",
-          "2": "https://web.archive.org/web/20121105215846/http://www.forbes.com/sites/michaelnoer/2012/11/02/one-man-one-computer-10-million-students-how-khan-academy-is-reinventing-education/",
-          "3": "https://web.archive.org/web/20140106071553/https://www.reuters.com/article/2007/02/26/us-youtube-idUSN2518918320070226",
-          "4": "https://web.archive.org/web/20190906200850/https://www.techdirt.com/articles/20190905/17343942934/ftcs-latest-fine-youtube-over-coppa-violations-shows-that-coppa-section-230-are-collision-course.shtml",
-          "5": "https://web.archive.org/web/20210422152639/https://www.theverge.com/2019/5/24/18635904/copyright-youtube-creators-dmca-takedown-fair-use-music-cover",
-          "6": "https://www.wsj.com/articles/how-youtube-drives-viewers-to-the-internets-darkest-corners-1518020478",
-          "7": "https://www.cjr.org/the_media_today/youtube-conspiracy-radicalization.php",
-          "8": "https://web.archive.org/web/20190122035903/https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html",
-          "9": "https://news10.com/2017/03/31/report-thousands-of-videos-mimicking-popular-cartoons-on-youtube-kids-contain-inappropriate-content/"
-      },
-      "tags": [
-          "video",
-          "tech",
-          "us",
-          "media",
-          "radicalisation"
-      ],
-      "score": 55,
-      "ownedBy": "google",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg",
-      "siteUrl": "https://www.youtube.com/",
-      "updatedAt": "2023-12-17T15:24:11.664Z"
-  },
-  "be30b4e3-46f6-4e41-9610-9884f9f51624":{
-      "names": [
-          "Ford",
-          "Ford Motor Company",
-          "F"
-      ],
-      "comment": "Ford is an American car company that has committed environmental waste violations [1], sold unsafe vehicles [2][3] and discriminated against minorities in its financing policies [4]. Ford's philanthropic arm contributes millions annually to education and community building [5][6].",
-      "sources": {
-          "1": "https://www.nytimes.com/2007/07/29/business/yourmoney/29spill.html",
-          "2": "http://articles.latimes.com/2013/aug/01/autos/la-fi-hy-autos-nhtsa-ford-with-fine-recall-20130801",
-          "3": "http://www.nytimes.com/2014/12/19/business/ford-recall-of-takata-airbags-to-extend-nationwide.html",
-          "4": "http://www.nytimes.com/2005/03/01/business/01ford.html",
-          "5": "https://web.archive.org/web/20190123223816/https://www.insidephilanthropy.com/grants-for-k-12-education/ford-motor-company-fund-community-services-grants-for-k-12-e.html",
-          "6": "https://web.archive.org/web/20190123224600/https://shareholder.ford.com/investors/sustainability/default.aspx"
-      },
-      "tags": [
-          "cars",
-          "us"
-      ],
-      "score": 50,
-      "ownedBy": null,
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ford_logo_flat.svg",
-      "siteUrl": "https://www.ford.com/",
-      "updatedAt": "2023-12-17T19:20:12.403Z"
-  }
+    "cd46812c-8f45-4792-a13b-57e5bbc5323b": {
+        "names": [
+            "YouTube",
+            "Youtube",
+            "You Tube"
+        ],
+        "comment": "YouTube is an American video streaming platform owned by Google, which is a leading source of free entertainment and educational content online [1][2], and has empowered independent creators to build their audience [3]. Youtube has been fined $170 million for collecting the personal information of minors [4], blocked users' content due to copyright even when fair use applies [5], applied an algorithm that propagates radical content [6][7][8] and showed videos containing violent and disturbing content to children [9].",
+        "sources": {
+            "1": "https://web.archive.org/web/20230614094637/http://www.forbes.com/advisor/business/social-media-statistics/",
+            "2": "https://web.archive.org/web/20121105215846/http://www.forbes.com/sites/michaelnoer/2012/11/02/one-man-one-computer-10-million-students-how-khan-academy-is-reinventing-education/",
+            "3": "https://web.archive.org/web/20140106071553/https://www.reuters.com/article/2007/02/26/us-youtube-idUSN2518918320070226",
+            "4": "https://web.archive.org/web/20190906200850/https://www.techdirt.com/articles/20190905/17343942934/ftcs-latest-fine-youtube-over-coppa-violations-shows-that-coppa-section-230-are-collision-course.shtml",
+            "5": "https://web.archive.org/web/20210422152639/https://www.theverge.com/2019/5/24/18635904/copyright-youtube-creators-dmca-takedown-fair-use-music-cover",
+            "6": "https://www.wsj.com/articles/how-youtube-drives-viewers-to-the-internets-darkest-corners-1518020478",
+            "7": "https://www.cjr.org/the_media_today/youtube-conspiracy-radicalization.php",
+            "8": "https://web.archive.org/web/20190122035903/https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html",
+            "9": "https://news10.com/2017/03/31/report-thousands-of-videos-mimicking-popular-cartoons-on-youtube-kids-contain-inappropriate-content/"
+        },
+        "tags": [
+            "video",
+            "tech",
+            "us",
+            "media",
+            "radicalisation"
+        ],
+        "score": 55,
+        "ownedBy": "google",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg",
+        "siteUrl": "https://www.youtube.com/",
+        "updatedAt": "2023-12-17T15:24:11.664Z"
+    },
+    "be30b4e3-46f6-4e41-9610-9884f9f51624": {
+        "names": [
+            "Ford",
+            "Ford Motor Company",
+            "F"
+        ],
+        "comment": "Ford is an American car company that has committed environmental waste violations [1], sold unsafe vehicles [2][3] and discriminated against minorities in its financing policies [4]. Ford's philanthropic arm contributes millions annually to education and community building [5][6].",
+        "sources": {
+            "1": "https://www.nytimes.com/2007/07/29/business/yourmoney/29spill.html",
+            "2": "http://articles.latimes.com/2013/aug/01/autos/la-fi-hy-autos-nhtsa-ford-with-fine-recall-20130801",
+            "3": "http://www.nytimes.com/2014/12/19/business/ford-recall-of-takata-airbags-to-extend-nationwide.html",
+            "4": "http://www.nytimes.com/2005/03/01/business/01ford.html",
+            "5": "https://web.archive.org/web/20190123223816/https://www.insidephilanthropy.com/grants-for-k-12-education/ford-motor-company-fund-community-services-grants-for-k-12-e.html",
+            "6": "https://web.archive.org/web/20190123224600/https://shareholder.ford.com/investors/sustainability/default.aspx"
+        },
+        "tags": [
+            "cars",
+            "us"
+        ],
+        "score": 50,
+        "ownedBy": null,
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ford_logo_flat.svg",
+        "siteUrl": "https://www.ford.com/",
+        "updatedAt": "2023-12-17T19:20:12.403Z"
+    }
 }
