@@ -4,8 +4,10 @@ import styled from "styled-components";
 import { Stack, WrappingPre } from "../components.jsx";
 
 import blog1 from "./1.txt";
+import blog2 from "./2.txt";
 
 const blogs = [
+    blog2,
     blog1,
 ];
 
