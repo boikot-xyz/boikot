@@ -241,5 +241,28 @@
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg",
       "siteUrl": "https://www.microsoft.com/",
       "updatedAt": "2023-12-16T16:14:19.614Z"
+    },
+  "ed68b13f-d1db-46d6-9f67-4eb44b2823ac":{
+      "names": [
+        "Hugging Face",
+        "Hugging Face Inc."
+      ],
+      "comment": "HuggingFace is a French-American software and artificial intelligence company which provides free access to machine learning models [1]. HuggingFace has campaigned for legislation to support open-source AI development [2].",
+      "sources": {
+        "1": "https://www.pcguide.com/ai/faq/hugging-face/",
+        "2": "https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/"
+      },
+      "tags": [
+        "tech",
+        "france",
+        "us",
+        "ai",
+        "opensource"
+      ],
+      "score": 70,
+      "ownedBy": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/45/Hugging_Face_logo.svg",
+      "siteUrl": "https://huggingface.co/",
+      "updatedAt": "2023-12-17T12:55:21.833Z"
     }
 }
