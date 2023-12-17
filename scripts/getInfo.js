@@ -31,7 +31,7 @@ function getLogoUrl( pageDOM ) {
         document.querySelector(".infobox-image img");
 
     const logoUrl = logoImg?.src
-        .match(/.+?\.svg/)[0]
+        .match(/.+?\.svg/)?.[0]
         .replace("thumb/", "")
         .replace("//upload", "https://upload");
 
