@@ -185,7 +185,7 @@ export function Jsoner() {
         )}
         { showSources &&
             <button onClick={sortSources(setState)}>
-                sort sources
+                sort sources 🃏
             </button> }
         <div/>
         <Entry>
