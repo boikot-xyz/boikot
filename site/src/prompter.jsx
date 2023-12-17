@@ -8,15 +8,30 @@ function generatePrompt(info) {
     return info;
 }
 
+const handlePaste = setInfo => e => {
+    e.preventDefault();
+
+    const pasteStart = e.target.selectionStart;
+    const pasteEnd = e.target.selectionEnd;
+    const pasteContent = e.clipboardData.getData('text/html');
+
+    setInfo( info =>
+        info.slice(0, pasteStart) +
+        pasteContent +
+        info.slice(pasteEnd)
+    );
+};
+
 export function Prompter() {
     const [ info, setInfo ] = React.useState("");
 
     return <Stack style={{ marginBottom: "3rem" }}>
         <h2> infodump </h2>
         <textarea
-            style={{ height: "12rem", padding: "0.2rem 0.4rem" }}
+            style={{ height: "15rem", padding: "0.2rem 0.4rem" }}
             value={info}
-            onChange={ e => setInfo(e.target.value) } />
+            onChange={ e => setInfo(e.target.value) }
+            onPaste={ handlePaste(setInfo) } />
         { info && <h2> prompt 💬 </h2> }
         <p style={{ maxHeight: "10rem", overflow: "scroll" }}>
             { generatePrompt(info) }
