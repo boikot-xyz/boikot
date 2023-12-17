@@ -27,7 +27,7 @@ function tojson(state) {
     const result = { ...state, score: parseFloat(state.score) };
     delete result.jsondump;
     return `"${crypto.randomUUID()}":` +
-        JSON.stringify(result, null, 2) + ",";
+        JSON.stringify(result, null, 4) + ",";
 }
 
 function makeSources(comment, oldSources) {

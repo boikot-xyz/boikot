@@ -19,7 +19,7 @@ export function Home() {
             <Jsoner/>
             <Blog />
             <WrappingPre>
-                { JSON.stringify(boikot, null, 2) }
+                { JSON.stringify(boikot, null, 4) }
             </WrappingPre>
         </Stack>
     </Centerer>
