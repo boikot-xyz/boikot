@@ -1,268 +1,268 @@
 {
-  "_documentation": "This file is a database of the ethical and unethical practices of different companies. https://boikot.xyz © boikot 2023",
-  "0dbb3f83-377b-4be4-9829-e2fe68fcaa4e": {
-    "names": [
-      "Barclays",
-      "Barclays Bank",
-      "Barclays Bank plc",
-      "Barclays plc",
-      "Barclays Group",
-      "Barclays UK",
-      "Barclays International",
-      "Barclay's",
-      "Barclay Bank",
-      "BCLYS",
-      "BARC",
-      "BCS"
-    ],
-    "comment": "Barclays is a UK-based bank which is Europe's largest funder of fracking and coal [1], having invested $85 billion into fossil fuels and $24 billion into expansion. Among other controversies, Barclays has been fined £500 million for tax avoidance by the Treasury [2], illegally manipulated the price of gold [3], attempted to manipulate the US energy market [4], and conducted workplace surveillance on its staff [5].",
-    "sources": {
-      "1": "https://web.archive.org/web/20231210171959/https://www.banktrack.org/article/banking_on_climate_change_fossil_fuel_finance_report_card_2019",
-      "2": "https://web.archive.org/web/20231122051820/https://www.bbc.co.uk/news/business-17181213",
-      "3": "https://web.archive.org/web/20140525200522/http://www.thelondonnews.net/index.php/sid/222273039/scat/3a8a80d6f705f8cc/ht/FCA-fines-Barclays-26mn-pounds-over-gold-price-manipulation",
-      "4": "https://web.archive.org/web/20231031090011/https://www.theguardian.com/business/2013/jul/17/us-energy-regulator-barclays-fine",
-      "5": "https://web.archive.org/web/20231202225949/https://www.theguardian.com/business/2020/feb/20/barlays-using-dytopian-big-brother-tactics-to-spy-on-staff-says-tuc"
+    "_documentation": "This file is a database of the ethical and unethical practices of different companies. https://boikot.xyz © boikot 2023",
+    "0dbb3f83-377b-4be4-9829-e2fe68fcaa4e": {
+        "names": [
+            "Barclays",
+            "Barclays Bank",
+            "Barclays Bank plc",
+            "Barclays plc",
+            "Barclays Group",
+            "Barclays UK",
+            "Barclays International",
+            "Barclay's",
+            "Barclay Bank",
+            "BCLYS",
+            "BARC",
+            "BCS"
+        ],
+        "comment": "Barclays is a UK-based bank which is Europe's largest funder of fracking and coal [1], having invested $85 billion into fossil fuels and $24 billion into expansion. Among other controversies, Barclays has been fined £500 million for tax avoidance by the Treasury [2], illegally manipulated the price of gold [3], attempted to manipulate the US energy market [4], and conducted workplace surveillance on its staff [5].",
+        "sources": {
+            "1": "https://web.archive.org/web/20231210171959/https://www.banktrack.org/article/banking_on_climate_change_fossil_fuel_finance_report_card_2019",
+            "2": "https://web.archive.org/web/20231122051820/https://www.bbc.co.uk/news/business-17181213",
+            "3": "https://web.archive.org/web/20140525200522/http://www.thelondonnews.net/index.php/sid/222273039/scat/3a8a80d6f705f8cc/ht/FCA-fines-Barclays-26mn-pounds-over-gold-price-manipulation",
+            "4": "https://web.archive.org/web/20231031090011/https://www.theguardian.com/business/2013/jul/17/us-energy-regulator-barclays-fine",
+            "5": "https://web.archive.org/web/20231202225949/https://www.theguardian.com/business/2020/feb/20/barlays-using-dytopian-big-brother-tactics-to-spy-on-staff-says-tuc"
+        },
+        "tags": [
+            "bank",
+            "uk",
+            "unsustainable",
+            "anticompetetive"
+        ],
+        "score": 20,
+        "ownedBy": null,
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/Barclays_logo.svg",
+        "siteUrl": "https://www.barclays.co.uk/",
+        "updatedAt": "2023-12-15T22:09:30.315Z"
     },
-    "tags": [
-      "bank",
-      "uk",
-      "unsustainable",
-      "anticompetetive"
-    ],
-    "score": 20,
-    "ownedBy": null,
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/Barclays_logo.svg",
-    "siteUrl": "https://www.barclays.co.uk/",
-    "updatedAt": "2023-12-15T22:09:30.315Z"
-  },
-  "c67da1c2-9df7-42d3-a1e2-efb2b84a422d": {
-    "names": [
-      "HSBC",
-      "HSBC Bank",
-      "HSBC Holdings",
-      "Hongkong and Shanghai Banking Corporation",
-      "the Hongkong and Shanghai Banking Corporation",
-      "HSBC Group",
-      "Hong Kong Bank",
-      "HongKongBank",
-      "Hong Kong Shanghai Bank",
-      "HSBC Holdings plc",
-      "HSBA"
-    ],
-    "comment": "HSBC is a British bank founded in colonial Hong Kong, which has been fined over $2 billion by various governments for providing services to money laundering groups [1][2][3], has assisted Iran and North Korea in circumventing US nuclear-weapons sanctions [4], and has been fined over $600 million for tax avoidance [5]. HSBC has made sustainability pledges such as to end financing of coal power [6][7], but has also invested billions in oil and gas and been accused of greenwashing [8].",
-    "sources": {
-      "1": "https://web.archive.org/web/20231127195037/https://www.reuters.com/business/hsbc-fined-85-mln-uk-anti-money-laundering-failings-2021-12-17/",
-      "2": "https://web.archive.org/web/20231024090948/https://www.theguardian.com/business/2015/jun/04/hsbc-fined-278m-over-money-laundering-claims",
-      "3": "https://www.independent.co.uk/news/business/news/terrorists-and-drug-lords-targeted-hsbc-bosses-admit-8483303.html",
-      "4": "https://web.archive.org/web/20220331180747/https://www.bbc.co.uk/news/business-20673466",
-      "5": "https://web.archive.org/web/20221221080911/https://www.reuters.com/article/us-hsbc-france-swiss-idUKKBN1DE1Z1/",
-      "6": "https://web.archive.org/web/20231108184928/https://www.reuters.com/article/hsbc-hldg-climatechange/exclusive-hsbc-targets-net-zero-emissions-by-2050-earmarks-1-trln-green-financing-idINL8N2GZ31Q/",
-      "7": "https://web.archive.org/web/20231117144315/https://shareaction.org/news/hsbc-sends-shockwaves-as-it-commits-to-end-coal-financing",
-      "8": "https://web.archive.org/web/20231118013509/https://www.thebureauinvestigates.com/stories/2022-10-31/mines-pipelines-and-oil-rigs-what-hsbcs-sustainable-finance-really-pays-for"
+    "c67da1c2-9df7-42d3-a1e2-efb2b84a422d": {
+        "names": [
+            "HSBC",
+            "HSBC Bank",
+            "HSBC Holdings",
+            "Hongkong and Shanghai Banking Corporation",
+            "the Hongkong and Shanghai Banking Corporation",
+            "HSBC Group",
+            "Hong Kong Bank",
+            "HongKongBank",
+            "Hong Kong Shanghai Bank",
+            "HSBC Holdings plc",
+            "HSBA"
+        ],
+        "comment": "HSBC is a British bank founded in colonial Hong Kong, which has been fined over $2 billion by various governments for providing services to money laundering groups [1][2][3], has assisted Iran and North Korea in circumventing US nuclear-weapons sanctions [4], and has been fined over $600 million for tax avoidance [5]. HSBC has made sustainability pledges such as to end financing of coal power [6][7], but has also invested billions in oil and gas and been accused of greenwashing [8].",
+        "sources": {
+            "1": "https://web.archive.org/web/20231127195037/https://www.reuters.com/business/hsbc-fined-85-mln-uk-anti-money-laundering-failings-2021-12-17/",
+            "2": "https://web.archive.org/web/20231024090948/https://www.theguardian.com/business/2015/jun/04/hsbc-fined-278m-over-money-laundering-claims",
+            "3": "https://www.independent.co.uk/news/business/news/terrorists-and-drug-lords-targeted-hsbc-bosses-admit-8483303.html",
+            "4": "https://web.archive.org/web/20220331180747/https://www.bbc.co.uk/news/business-20673466",
+            "5": "https://web.archive.org/web/20221221080911/https://www.reuters.com/article/us-hsbc-france-swiss-idUKKBN1DE1Z1/",
+            "6": "https://web.archive.org/web/20231108184928/https://www.reuters.com/article/hsbc-hldg-climatechange/exclusive-hsbc-targets-net-zero-emissions-by-2050-earmarks-1-trln-green-financing-idINL8N2GZ31Q/",
+            "7": "https://web.archive.org/web/20231117144315/https://shareaction.org/news/hsbc-sends-shockwaves-as-it-commits-to-end-coal-financing",
+            "8": "https://web.archive.org/web/20231118013509/https://www.thebureauinvestigates.com/stories/2022-10-31/mines-pipelines-and-oil-rigs-what-hsbcs-sustainable-finance-really-pays-for"
+        },
+        "tags": [
+            "bank",
+            "uk",
+            "corruption",
+            "greenwashing"
+        ],
+        "score": 35,
+        "ownedBy": null,
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/HSBC_logo_%282018%29.svg",
+        "siteUrl": "https://www.hsbc.co.uk/",
+        "updatedAt": "2023-12-15T22:09:30.315Z"
     },
-    "tags": [
-      "bank",
-      "uk",
-      "corruption",
-      "greenwashing"
-    ],
-    "score": 35,
-    "ownedBy": null,
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/HSBC_logo_%282018%29.svg",
-    "siteUrl": "https://www.hsbc.co.uk/",
-    "updatedAt": "2023-12-15T22:09:30.315Z"
-  },
-  "d0b1b614-d4b8-41ca-a3b8-a2210f3fbe9e":{
-    "names": [
-      "Samsung",
-      "Samsung Group"
-    ],
-    "comment": "Samsung is a South Korean conglomerate which is the world's largest mobile phone and microchip manufacturer [1][2]. Samsung accounts for over 20% of South Korean exports [3] and has an outsized influence in the nation [4], and has been involved in bribery [5], anti-union activities [6], and price fixing [7].",
-    "sources": {
-      "1": "https://web.archive.org/web/20120428062632/http://www.isuppli.com/Mobile-and-Wireless-Communications/News/Pages/Samsung-Overtakes-Nokia-for-Cellphone-Lead.aspx",
-      "2": "https://web.archive.org/web/20180525234650/https://techcrunch.com/2018/01/30/samsung-intel-worlds-largest-chipmaker/",
-      "3": "https://web.archive.org/web/20110503224019/http://business.timesonline.co.uk/tol/business/industry_sectors/technology/article3764352.ece",
-      "4": "https://web.archive.org/web/20130921061502/http://articles.washingtonpost.com/2012-12-09/world/35721716_1_samsung-chairman-smartphone-market-samsung-credit-card",
-      "5": "https://web.archive.org/web/20170701085942/http://www.nytimes.com/2007/11/06/business/worldbusiness/06iht-samsung.1.8210181.html?pagewanted=all&_r=0",
-      "6": "https://web.archive.org/web/20190627140032/http://english.hani.co.kr/arti/english_edition/e_international/899427.html",
-      "7": "https://web.archive.org/web/20100707041505/http://europa.eu/rapid/pressReleasesAction.do?reference=IP/10/586"
+    "d0b1b614-d4b8-41ca-a3b8-a2210f3fbe9e":{
+        "names": [
+            "Samsung",
+            "Samsung Group"
+        ],
+        "comment": "Samsung is a South Korean conglomerate which is the world's largest mobile phone and microchip manufacturer [1][2]. Samsung accounts for over 20% of South Korean exports [3] and has an outsized influence in the nation [4], and has been involved in bribery [5], anti-union activities [6], and price fixing [7].",
+        "sources": {
+            "1": "https://web.archive.org/web/20120428062632/http://www.isuppli.com/Mobile-and-Wireless-Communications/News/Pages/Samsung-Overtakes-Nokia-for-Cellphone-Lead.aspx",
+            "2": "https://web.archive.org/web/20180525234650/https://techcrunch.com/2018/01/30/samsung-intel-worlds-largest-chipmaker/",
+            "3": "https://web.archive.org/web/20110503224019/http://business.timesonline.co.uk/tol/business/industry_sectors/technology/article3764352.ece",
+            "4": "https://web.archive.org/web/20130921061502/http://articles.washingtonpost.com/2012-12-09/world/35721716_1_samsung-chairman-smartphone-market-samsung-credit-card",
+            "5": "https://web.archive.org/web/20170701085942/http://www.nytimes.com/2007/11/06/business/worldbusiness/06iht-samsung.1.8210181.html?pagewanted=all&_r=0",
+            "6": "https://web.archive.org/web/20190627140032/http://english.hani.co.kr/arti/english_edition/e_international/899427.html",
+            "7": "https://web.archive.org/web/20100707041505/http://europa.eu/rapid/pressReleasesAction.do?reference=IP/10/586"
+        },
+        "tags": [
+            "electronics",
+            "phones",
+            "computers",
+            "southkorea",
+            "corruption",
+            "anticompetetive",
+            "antiunion"
+        ],
+        "score": 45,
+        "ownedBy": null,
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Samsung_wordmark.svg",
+        "siteUrl": "https://www.samsung.com",
+        "updatedAt": "2023-12-15T22:09:30.315Z"
     },
-    "tags": [
-      "electronics",
-      "phones",
-      "computers",
-      "southkorea",
-      "corruption",
-      "anticompetetive",
-      "antiunion"
-    ],
-    "score": 45,
-    "ownedBy": null,
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Samsung_wordmark.svg",
-    "siteUrl": "https://www.samsung.com",
-    "updatedAt": "2023-12-15T22:09:30.315Z"
-  },
-  "21abbdac-e522-49b4-a61c-a70ca7c0b92d":{
-    "names": [
-      "Apple",
-      "Apple Inc.",
-      "Apple Computer Company",
-      "Apple Computer Inc.",
-      "AAPL"
-    ],
-    "comment": "Apple is an American technology company credited with innovation in personal computing [1] which has a generally pro-consumer stance on privacy [2][3][4] and a proactive climate policy [5][6][7]. Apple has engaged in anti-competetive practices [8], its factories have seen abusive working conditions [9][10], and its climate claims have been called misleading [11].",
-    "sources": {
-      "1": "https://www.forbes.com/sites/susanadams/2013/09/27/is-apple-the-worlds-most-innovative-company-still",
-      "2": "https://www.wired.com/2015/06/apples-latest-selling-point-little-knows",
-      "3": "https://www.gizbot.com/mobile/news/apple-app-tracking-transparency-becomes-facebook-nightmare-only-4-percent-allow-tracking-074217.html",
-      "4": "https://money.cnn.com/2016/02/22/technology/apple-privacy-icloud/index.html",
-      "5": "http://9to5mac.com/2016/06/09/apple-energy-company",
-      "6": "https://web.archive.org/web/20131202223855/http://www.businessweek.com/news/2013-03-21/apple-says-data-centers-now-use-100-percent-renewable-energy",
-      "7": "https://www.apple.com/newsroom/2016/06/global-apps-for-earth-campaign-with-wwf-raises-more-than--8m.html",
-      "8": "https://ghostarchive.org/archive/20221210/https://www.ft.com/content/e9bb4da1-867a-40ba-abc0-4a63d3421e31",
-      "9": "https://www.reuters.com/article/idUSTRE6A41M920101105",
-      "10": "https://www.huffpost.com/entry/foxconn-suffers-10th-deat_n_588524",
-      "11": "https://www.seattletimes.com/business/report-corporate-climate-pledges-are-weaker-than-they-seem/"
+    "21abbdac-e522-49b4-a61c-a70ca7c0b92d":{
+        "names": [
+            "Apple",
+            "Apple Inc.",
+            "Apple Computer Company",
+            "Apple Computer Inc.",
+            "AAPL"
+        ],
+        "comment": "Apple is an American technology company credited with innovation in personal computing [1] which has a generally pro-consumer stance on privacy [2][3][4] and a proactive climate policy [5][6][7]. Apple has engaged in anti-competetive practices [8], its factories have seen abusive working conditions [9][10], and its climate claims have been called misleading [11].",
+        "sources": {
+            "1": "https://www.forbes.com/sites/susanadams/2013/09/27/is-apple-the-worlds-most-innovative-company-still",
+            "2": "https://www.wired.com/2015/06/apples-latest-selling-point-little-knows",
+            "3": "https://www.gizbot.com/mobile/news/apple-app-tracking-transparency-becomes-facebook-nightmare-only-4-percent-allow-tracking-074217.html",
+            "4": "https://money.cnn.com/2016/02/22/technology/apple-privacy-icloud/index.html",
+            "5": "http://9to5mac.com/2016/06/09/apple-energy-company",
+            "6": "https://web.archive.org/web/20131202223855/http://www.businessweek.com/news/2013-03-21/apple-says-data-centers-now-use-100-percent-renewable-energy",
+            "7": "https://www.apple.com/newsroom/2016/06/global-apps-for-earth-campaign-with-wwf-raises-more-than--8m.html",
+            "8": "https://ghostarchive.org/archive/20221210/https://www.ft.com/content/e9bb4da1-867a-40ba-abc0-4a63d3421e31",
+            "9": "https://www.reuters.com/article/idUSTRE6A41M920101105",
+            "10": "https://www.huffpost.com/entry/foxconn-suffers-10th-deat_n_588524",
+            "11": "https://www.seattletimes.com/business/report-corporate-climate-pledges-are-weaker-than-they-seem/"
+        },
+        "tags": [
+            "tech",
+            "electronics",
+            "phones",
+            "computers",
+            "proprivacy",
+            "anticompetetive"
+        ],
+        "score": 55,
+        "ownedBy": null,
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+        "siteUrl": "https://www.apple.com/",
+        "updatedAt": "2023-12-15T22:09:30.315Z"
     },
-    "tags": [
-      "tech",
-      "electronics",
-      "phones",
-      "computers",
-      "proprivacy",
-      "anticompetetive"
-    ],
-    "score": 55,
-    "ownedBy": null,
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
-    "siteUrl": "https://www.apple.com/",
-    "updatedAt": "2023-12-15T22:09:30.315Z"
-  },
-  "77c6b652-9ab5-47cf-896b-b446102d2101":{
-    "names": [
-      "Tesla",
-      "Tesla Inc.",
-      "Tesla Automation",
-      "Tesla Energy",
-      "TSLA"
-    ],
-    "comment": "Tesla is an American automotive and sustainable energy company which is the world's biggest manufacturer of electric vehicles [1] and is a major installer of solar power systems [2] and battery storage [3]. Tesla has engaged in anti-union practices [4], received claims of workplace sexual harassment [5], committed environmental waste violations [6], and been accused of anticompetitive repair policies in several lawsuits [7].",
-    "sources": {
-      "1": "https://web.archive.org/web/20210904115030/https://cleantechnica.com/2021/08/26/tesla-model-3-has-passed-1-million-sales/",
-      "2": "https://web.archive.org/web/20230420155738/https://www.pv-tech.org/tesla-2022-solar-installs-inched-up-to-348mw/",
-      "3": "https://web.archive.org/web/20230820094909/https://finance.yahoo.com/news/tesla-battery-backup-systems-manage-142235080.html",
-      "4": "https://www.nytimes.com/2023/03/31/business/tesla-union-musk-twitter.html",
-      "5": "https://www.forbes.com/sites/alanohnsman/2021/12/14/tesla-hit-by-6-more-sexual-harassment-claims/",
-      "6": "https://www.thedrive.com/tech/28413/tesla-in-settlement-proceedings-over-19-air-quality-violations-as-investigation-continues",
-      "7": "https://www.theregister.com/2023/03/16/dual_tesla_lawsuits_brings_musk/"
+    "77c6b652-9ab5-47cf-896b-b446102d2101":{
+        "names": [
+            "Tesla",
+            "Tesla Inc.",
+            "Tesla Automation",
+            "Tesla Energy",
+            "TSLA"
+        ],
+        "comment": "Tesla is an American automotive and sustainable energy company which is the world's biggest manufacturer of electric vehicles [1] and is a major installer of solar power systems [2] and battery storage [3]. Tesla has engaged in anti-union practices [4], received claims of workplace sexual harassment [5], committed environmental waste violations [6], and been accused of anticompetitive repair policies in several lawsuits [7].",
+        "sources": {
+            "1": "https://web.archive.org/web/20210904115030/https://cleantechnica.com/2021/08/26/tesla-model-3-has-passed-1-million-sales/",
+            "2": "https://web.archive.org/web/20230420155738/https://www.pv-tech.org/tesla-2022-solar-installs-inched-up-to-348mw/",
+            "3": "https://web.archive.org/web/20230820094909/https://finance.yahoo.com/news/tesla-battery-backup-systems-manage-142235080.html",
+            "4": "https://www.nytimes.com/2023/03/31/business/tesla-union-musk-twitter.html",
+            "5": "https://www.forbes.com/sites/alanohnsman/2021/12/14/tesla-hit-by-6-more-sexual-harassment-claims/",
+            "6": "https://www.thedrive.com/tech/28413/tesla-in-settlement-proceedings-over-19-air-quality-violations-as-investigation-continues",
+            "7": "https://www.theregister.com/2023/03/16/dual_tesla_lawsuits_brings_musk/"
+        },
+        "tags": [
+            "electricvehicles",
+            "us",
+            "cars",
+            "tech",
+            "ai",
+            "solarpower",
+            "batteries",
+            "cleanenergy",
+            "sustainable",
+            "antiunion",
+            "anticompetetive",
+            "harassment"
+        ],
+        "score": 85,
+        "ownedBy": null,
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg",
+        "siteUrl": "http://tesla.com/",
+        "updatedAt": "2023-12-15T22:09:30.315Z"
     },
-    "tags": [
-      "electricvehicles",
-      "us",
-      "cars",
-      "tech",
-      "ai",
-      "solarpower",
-      "batteries",
-      "cleanenergy",
-      "sustainable",
-      "antiunion",
-      "anticompetetive",
-      "harassment"
-    ],
-    "score": 85,
-    "ownedBy": null,
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg",
-    "siteUrl": "http://tesla.com/",
-    "updatedAt": "2023-12-15T22:09:30.315Z"
-  },
-  "b5ca0643-9da0-4e48-ba99-13eb0e84a583":{
-    "names": [
-      "Github",
-      "Github Inc.",
-      "Logical Volcano"
-    ],
-    "comment": "Github is an American software and version control platform owned by Microsoft which offers free services to software developers [1] and students [2][3]. A past Github CEO resigned over claims of workplace harassment [4].",
-    "sources": {
-      "1": "https://web.archive.org/web/20200414193839/https://github.blog/2020-04-14-github-is-now-free-for-teams/",
-      "2": "https://web.archive.org/web/20210322042209/https://techcrunch.com/2014/10/07/github-partners-with-digital-ocean-unreal-engine-and-others-to-give-students-free-access-to-developer-tools/",
-      "3": "https://web.archive.org/web/20190123010650/https://github.blog/2016-06-25-github-campus-experts-technology-leadership-at-your-school/",
-      "4": "https://web.archive.org/web/20210322042246/https://www.wired.com/2014/04/tom-pw/"
+    "b5ca0643-9da0-4e48-ba99-13eb0e84a583":{
+        "names": [
+            "Github",
+            "Github Inc.",
+            "Logical Volcano"
+        ],
+        "comment": "Github is an American software and version control platform owned by Microsoft which offers free services to software developers [1] and students [2][3]. A past Github CEO resigned over claims of workplace harassment [4].",
+        "sources": {
+            "1": "https://web.archive.org/web/20200414193839/https://github.blog/2020-04-14-github-is-now-free-for-teams/",
+            "2": "https://web.archive.org/web/20210322042209/https://techcrunch.com/2014/10/07/github-partners-with-digital-ocean-unreal-engine-and-others-to-give-students-free-access-to-developer-tools/",
+            "3": "https://web.archive.org/web/20190123010650/https://github.blog/2016-06-25-github-campus-experts-technology-leadership-at-your-school/",
+            "4": "https://web.archive.org/web/20210322042246/https://www.wired.com/2014/04/tom-pw/"
+        },
+        "tags": [
+            "tech",
+            "software",
+            "ai"
+        ],
+        "score": 80,
+        "ownedBy": "37418972-eb6c-4742-98b1-e7635014c3d2",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg",
+        "siteUrl": "https://github.com/",
+        "updatedAt": "2023-12-15T22:56:44.080Z"
     },
-    "tags": [
-      "tech",
-      "software",
-      "ai"
-    ],
-    "score": 80,
-    "ownedBy": "37418972-eb6c-4742-98b1-e7635014c3d2",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg",
-    "siteUrl": "https://github.com/",
-    "updatedAt": "2023-12-15T22:56:44.080Z"
-  },
-  "37418972-eb6c-4742-98b1-e7635014c3d2":{
-    "names": [
-      "Microsoft",
-      "MicroSoft",
-      "Microsoft Corporation",
-      "Microsoft Inc.",
-      "Azure",
-      "Bing",
-      "MSFT"
-    ],
-    "comment": "Microsoft is an American technology company that has received recognition for sustainable practices [1], workplace gender inclusivity [2] and provided cyber security services to Ukraine [3]. Microsoft has avoided billions in tax [4] while replacing journalists with AI [5], abused its monopolistic position [6][7], participated in government surveillance of the public [8][9] and construction of a Microsoft data center destroyed a historic black cemetery [10].",
-    "sources": {
-      "1": "https://www.epa.gov/greenpower/green-power-leadership-awardees",
-      "2": "https://web.archive.org/web/20100703003315/http://www.hrc.org/about_us/7115.htm",
-      "3": "https://blogs.microsoft.com/on-the-issues/2022/06/22/defending-ukraine-early-lessons-from-the-cyber-war/",
-      "4": "https://www.theguardian.com/world/2021/jun/03/microsoft-irish-subsidiary-paid-zero-corporate-tax-on-220bn-profit-last-year",
-      "5": "https://www.seattletimes.com/business/local-business/microsoft-is-cutting-dozens-of-msn-news-production-workers-and-replacing-them-with-artificial-intelligence/",
-      "6": "https://www.usdoj.gov/atr/cases/f2600/2613.htm",
-      "7": "https://web.archive.org/web/20190831090402/https://www.reuters.com/article/microsoft-eu/eu-fines-microsoft-record-899-million-euros-idUSBRU00634320080227",
-      "8": "https://www.webcitation.org/6HEwkERtq?url=http://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html?hpid=z1",
-      "9": "https://web.archive.org/web/20151119014627/http://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data",
-      "10": "https://www.propublica.org/article/how-authorities-erased-historic-black-cemetery-virginia"
+    "37418972-eb6c-4742-98b1-e7635014c3d2":{
+        "names": [
+            "Microsoft",
+            "MicroSoft",
+            "Microsoft Corporation",
+            "Microsoft Inc.",
+            "Azure",
+            "Bing",
+            "MSFT"
+        ],
+        "comment": "Microsoft is an American technology company that has received recognition for sustainable practices [1], workplace gender inclusivity [2] and provided cyber security services to Ukraine [3]. Microsoft has avoided billions in tax [4] while replacing journalists with AI [5], abused its monopolistic position [6][7], participated in government surveillance of the public [8][9] and construction of a Microsoft data center destroyed a historic black cemetery [10].",
+        "sources": {
+            "1": "https://www.epa.gov/greenpower/green-power-leadership-awardees",
+            "2": "https://web.archive.org/web/20100703003315/http://www.hrc.org/about_us/7115.htm",
+            "3": "https://blogs.microsoft.com/on-the-issues/2022/06/22/defending-ukraine-early-lessons-from-the-cyber-war/",
+            "4": "https://www.theguardian.com/world/2021/jun/03/microsoft-irish-subsidiary-paid-zero-corporate-tax-on-220bn-profit-last-year",
+            "5": "https://www.seattletimes.com/business/local-business/microsoft-is-cutting-dozens-of-msn-news-production-workers-and-replacing-them-with-artificial-intelligence/",
+            "6": "https://www.usdoj.gov/atr/cases/f2600/2613.htm",
+            "7": "https://web.archive.org/web/20190831090402/https://www.reuters.com/article/microsoft-eu/eu-fines-microsoft-record-899-million-euros-idUSBRU00634320080227",
+            "8": "https://www.webcitation.org/6HEwkERtq?url=http://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html?hpid=z1",
+            "9": "https://web.archive.org/web/20151119014627/http://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data",
+            "10": "https://www.propublica.org/article/how-authorities-erased-historic-black-cemetery-virginia"
+        },
+        "tags": [
+            "tech",
+            "us",
+            "software",
+            "cloud",
+            "ai",
+            "gaming",
+            "electronics",
+            "anticompetetive",
+            "antiprivacy",
+            "taxavoidance",
+            "sustainable"
+        ],
+        "score": 35,
+        "ownedBy": null,
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg",
+        "siteUrl": "https://www.microsoft.com/",
+        "updatedAt": "2023-12-16T16:14:19.614Z"
     },
-    "tags": [
-      "tech",
-      "us",
-      "software",
-      "cloud",
-      "ai",
-      "gaming",
-      "electronics",
-      "anticompetetive",
-      "antiprivacy",
-      "taxavoidance",
-      "sustainable"
-    ],
-    "score": 35,
-    "ownedBy": null,
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg",
-    "siteUrl": "https://www.microsoft.com/",
-    "updatedAt": "2023-12-16T16:14:19.614Z"
-  },
-  "ed68b13f-d1db-46d6-9f67-4eb44b2823ac":{
-    "names": [
-      "Hugging Face",
-      "Hugging Face Inc."
-    ],
-    "comment": "HuggingFace is a French-American software and artificial intelligence company which provides free access to machine learning models [1]. HuggingFace has campaigned for legislation to support open-source AI development [2].",
-    "sources": {
-      "1": "https://www.pcguide.com/ai/faq/hugging-face/",
-      "2": "https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/"
-    },
-    "tags": [
-      "tech",
-      "france",
-      "us",
-      "ai",
-      "opensource"
-    ],
-    "score": 70,
-    "ownedBy": null,
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/45/Hugging_Face_logo.svg",
-    "siteUrl": "https://huggingface.co/",
-    "updatedAt": "2023-12-17T12:55:21.833Z"
-  }
+    "ed68b13f-d1db-46d6-9f67-4eb44b2823ac":{
+        "names": [
+            "Hugging Face",
+            "Hugging Face Inc."
+        ],
+        "comment": "HuggingFace is a French-American software and artificial intelligence company which provides free access to machine learning models [1]. HuggingFace has campaigned for legislation to support open-source AI development [2].",
+        "sources": {
+            "1": "https://www.pcguide.com/ai/faq/hugging-face/",
+            "2": "https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/"
+        },
+        "tags": [
+            "tech",
+            "france",
+            "us",
+            "ai",
+            "opensource"
+        ],
+        "score": 70,
+        "ownedBy": null,
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/45/Hugging_Face_logo.svg",
+        "siteUrl": "https://huggingface.co/",
+        "updatedAt": "2023-12-17T12:55:21.833Z"
+    }
 }
