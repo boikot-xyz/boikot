@@ -16,7 +16,7 @@ const initialState = {
     sources: {},
     tags: [],
     score: "",
-    ownedBy: null,
+    ownedBy: "",
     logoUrl: "",
     siteUrl: "",
     updatedAt: (new Date()).toISOString(),
