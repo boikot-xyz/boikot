@@ -13,6 +13,8 @@ export function Blog() {
     return <Stack>
         <h1> blog </h1>
         { blogs.map( blog =>
-            <WrappingPre>{ blog }</WrappingPre> ) }
+            <WrappingPre key={blog.slice(0,10)}>
+                { blog }
+            </WrappingPre> ) }
     </Stack>;
 }
