@@ -14,17 +14,7 @@ function generatePrompt(info) {
 }
 
 const handlePaste = setInfo => e => {
-    e.preventDefault();
-
-    const pasteStart = e.target.selectionStart;
-    const pasteEnd = e.target.selectionEnd;
-    const pasteContent = e.clipboardData.getData('text/html');
-
-    setInfo( info =>
-        info.slice(0, pasteStart) +
-        pasteContent +
-        info.slice(pasteEnd)
-    );
+    const pasteHTML = e.clipboardData.getData('text/html');
 };
 
 export function Prompter() {
