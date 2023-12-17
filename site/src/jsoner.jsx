@@ -212,6 +212,12 @@ export function Jsoner() {
                 value={state.siteUrl}
                 onChange={setStateField("siteUrl")} />
         </Entry>
+        <Entry>
+            ownedBy
+            <input
+                value={state.ownedBy}
+                onChange={setStateField("ownedBy")} />
+        </Entry>
         <h2> jsondump </h2>
         <textarea
             style={{ height: "4rem", padding: "0.2rem 0.4rem" }}
