@@ -264,5 +264,36 @@
         "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/45/Hugging_Face_logo.svg",
         "siteUrl": "https://huggingface.co/",
         "updatedAt": "2023-12-17T12:55:21.833Z"
-    }
+    },
+    "cd46812c-8f45-4792-a13b-57e5bbc5323b":{
+      "names": [
+          "YouTube",
+          "Youtube",
+          "You Tube"
+      ],
+      "comment": "YouTube is an American video streaming platform owned by Google, which is a leading source of free entertainment and educational content online [1][2], and has empowered independent creators to build their audience [3]. Youtube has been fined $170 million for collecting the personal information of minors [4], blocked users' content due to copyright even when fair use applies [5], applied an algorithm that propagates radical content [6][7][8] and showed videos containing violent and disturbing content to children [9].",
+      "sources": {
+          "1": "https://web.archive.org/web/20230614094637/http://www.forbes.com/advisor/business/social-media-statistics/",
+          "2": "https://web.archive.org/web/20121105215846/http://www.forbes.com/sites/michaelnoer/2012/11/02/one-man-one-computer-10-million-students-how-khan-academy-is-reinventing-education/",
+          "3": "https://web.archive.org/web/20140106071553/https://www.reuters.com/article/2007/02/26/us-youtube-idUSN2518918320070226",
+          "4": "https://web.archive.org/web/20190906200850/https://www.techdirt.com/articles/20190905/17343942934/ftcs-latest-fine-youtube-over-coppa-violations-shows-that-coppa-section-230-are-collision-course.shtml",
+          "5": "https://web.archive.org/web/20210422152639/https://www.theverge.com/2019/5/24/18635904/copyright-youtube-creators-dmca-takedown-fair-use-music-cover",
+          "6": "https://www.wsj.com/articles/how-youtube-drives-viewers-to-the-internets-darkest-corners-1518020478",
+          "7": "https://www.cjr.org/the_media_today/youtube-conspiracy-radicalization.php",
+          "8": "https://web.archive.org/web/20190122035903/https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html",
+          "9": "https://news10.com/2017/03/31/report-thousands-of-videos-mimicking-popular-cartoons-on-youtube-kids-contain-inappropriate-content/"
+      },
+      "tags": [
+          "video",
+          "tech",
+          "us",
+          "media",
+          "radicalisation"
+      ],
+      "score": 55,
+      "ownedBy": "google",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg",
+      "siteUrl": "https://www.youtube.com/",
+      "updatedAt": "2023-12-17T15:24:11.664Z"
+  }
 }
