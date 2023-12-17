@@ -15,6 +15,8 @@ async function getWikipediaPage( searchQuery ) {
     const response = await (await fetch(
         searchEndpoint(searchQuery))
     ).json();
+    // Log search results
+    // console.log(JSON.stringify(response, null, 4));
     const page = response.query.pages
         .filter(isNotDisambiguation)[0];
 
