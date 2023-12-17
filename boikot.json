@@ -295,5 +295,30 @@
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg",
       "siteUrl": "https://www.youtube.com/",
       "updatedAt": "2023-12-17T15:24:11.664Z"
+  },
+  "be30b4e3-46f6-4e41-9610-9884f9f51624":{
+      "names": [
+          "Ford",
+          "Ford Motor Company",
+          "F"
+      ],
+      "comment": "Ford is an American car company that has committed environmental waste violations [1], sold unsafe vehicles [2][3] and discriminated against minorities in its financing policies [4]. Ford's philanthropic arm contributes millions annually to education and community building [5][6].",
+      "sources": {
+          "1": "https://www.nytimes.com/2007/07/29/business/yourmoney/29spill.html",
+          "2": "http://articles.latimes.com/2013/aug/01/autos/la-fi-hy-autos-nhtsa-ford-with-fine-recall-20130801",
+          "3": "http://www.nytimes.com/2014/12/19/business/ford-recall-of-takata-airbags-to-extend-nationwide.html",
+          "4": "http://www.nytimes.com/2005/03/01/business/01ford.html",
+          "5": "https://web.archive.org/web/20190123223816/https://www.insidephilanthropy.com/grants-for-k-12-education/ford-motor-company-fund-community-services-grants-for-k-12-e.html",
+          "6": "https://web.archive.org/web/20190123224600/https://shareholder.ford.com/investors/sustainability/default.aspx"
+      },
+      "tags": [
+          "cars",
+          "us"
+      ],
+      "score": 50,
+      "ownedBy": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ford_logo_flat.svg",
+      "siteUrl": "https://www.ford.com/",
+      "updatedAt": "2023-12-17T19:20:12.403Z"
   }
 }
