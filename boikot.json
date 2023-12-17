@@ -200,69 +200,69 @@
     "siteUrl": "https://github.com/",
     "updatedAt": "2023-12-15T22:56:44.080Z"
   },
-    "37418972-eb6c-4742-98b1-e7635014c3d2":{
-      "names": [
-        "Microsoft",
-        "MicroSoft",
-        "Microsoft Corporation",
-        "Microsoft Inc.",
-        "Azure",
-        "Bing",
-        "MSFT"
-      ],
-      "comment": "Microsoft is an American technology company that has received recognition for sustainable practices [1], workplace gender inclusivity [2] and provided cyber security services to Ukraine [3]. Microsoft has avoided billions in tax [4] while replacing journalists with AI [5], abused its monopolistic position [6][7], participated in government surveillance of the public [8][9] and construction of a Microsoft data center destroyed a historic black cemetery [10].",
-      "sources": {
-        "1": "https://www.epa.gov/greenpower/green-power-leadership-awardees",
-        "2": "https://web.archive.org/web/20100703003315/http://www.hrc.org/about_us/7115.htm",
-        "3": "https://blogs.microsoft.com/on-the-issues/2022/06/22/defending-ukraine-early-lessons-from-the-cyber-war/",
-        "4": "https://www.theguardian.com/world/2021/jun/03/microsoft-irish-subsidiary-paid-zero-corporate-tax-on-220bn-profit-last-year",
-        "5": "https://www.seattletimes.com/business/local-business/microsoft-is-cutting-dozens-of-msn-news-production-workers-and-replacing-them-with-artificial-intelligence/",
-        "6": "https://www.usdoj.gov/atr/cases/f2600/2613.htm",
-        "7": "https://web.archive.org/web/20190831090402/https://www.reuters.com/article/microsoft-eu/eu-fines-microsoft-record-899-million-euros-idUSBRU00634320080227",
-        "8": "https://www.webcitation.org/6HEwkERtq?url=http://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html?hpid=z1",
-        "9": "https://web.archive.org/web/20151119014627/http://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data",
-        "10": "https://www.propublica.org/article/how-authorities-erased-historic-black-cemetery-virginia"
-      },
-      "tags": [
-        "tech",
-        "us",
-        "software",
-        "cloud",
-        "ai",
-        "gaming",
-        "electronics",
-        "anticompetetive",
-        "antiprivacy",
-        "taxavoidance",
-        "sustainable"
-      ],
-      "score": 35,
-      "ownedBy": null,
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg",
-      "siteUrl": "https://www.microsoft.com/",
-      "updatedAt": "2023-12-16T16:14:19.614Z"
+  "37418972-eb6c-4742-98b1-e7635014c3d2":{
+    "names": [
+      "Microsoft",
+      "MicroSoft",
+      "Microsoft Corporation",
+      "Microsoft Inc.",
+      "Azure",
+      "Bing",
+      "MSFT"
+    ],
+    "comment": "Microsoft is an American technology company that has received recognition for sustainable practices [1], workplace gender inclusivity [2] and provided cyber security services to Ukraine [3]. Microsoft has avoided billions in tax [4] while replacing journalists with AI [5], abused its monopolistic position [6][7], participated in government surveillance of the public [8][9] and construction of a Microsoft data center destroyed a historic black cemetery [10].",
+    "sources": {
+      "1": "https://www.epa.gov/greenpower/green-power-leadership-awardees",
+      "2": "https://web.archive.org/web/20100703003315/http://www.hrc.org/about_us/7115.htm",
+      "3": "https://blogs.microsoft.com/on-the-issues/2022/06/22/defending-ukraine-early-lessons-from-the-cyber-war/",
+      "4": "https://www.theguardian.com/world/2021/jun/03/microsoft-irish-subsidiary-paid-zero-corporate-tax-on-220bn-profit-last-year",
+      "5": "https://www.seattletimes.com/business/local-business/microsoft-is-cutting-dozens-of-msn-news-production-workers-and-replacing-them-with-artificial-intelligence/",
+      "6": "https://www.usdoj.gov/atr/cases/f2600/2613.htm",
+      "7": "https://web.archive.org/web/20190831090402/https://www.reuters.com/article/microsoft-eu/eu-fines-microsoft-record-899-million-euros-idUSBRU00634320080227",
+      "8": "https://www.webcitation.org/6HEwkERtq?url=http://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html?hpid=z1",
+      "9": "https://web.archive.org/web/20151119014627/http://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data",
+      "10": "https://www.propublica.org/article/how-authorities-erased-historic-black-cemetery-virginia"
     },
+    "tags": [
+      "tech",
+      "us",
+      "software",
+      "cloud",
+      "ai",
+      "gaming",
+      "electronics",
+      "anticompetetive",
+      "antiprivacy",
+      "taxavoidance",
+      "sustainable"
+    ],
+    "score": 35,
+    "ownedBy": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg",
+    "siteUrl": "https://www.microsoft.com/",
+    "updatedAt": "2023-12-16T16:14:19.614Z"
+  },
   "ed68b13f-d1db-46d6-9f67-4eb44b2823ac":{
-      "names": [
-        "Hugging Face",
-        "Hugging Face Inc."
-      ],
-      "comment": "HuggingFace is a French-American software and artificial intelligence company which provides free access to machine learning models [1]. HuggingFace has campaigned for legislation to support open-source AI development [2].",
-      "sources": {
-        "1": "https://www.pcguide.com/ai/faq/hugging-face/",
-        "2": "https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/"
-      },
-      "tags": [
-        "tech",
-        "france",
-        "us",
-        "ai",
-        "opensource"
-      ],
-      "score": 70,
-      "ownedBy": null,
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/45/Hugging_Face_logo.svg",
-      "siteUrl": "https://huggingface.co/",
-      "updatedAt": "2023-12-17T12:55:21.833Z"
-    }
+    "names": [
+      "Hugging Face",
+      "Hugging Face Inc."
+    ],
+    "comment": "HuggingFace is a French-American software and artificial intelligence company which provides free access to machine learning models [1]. HuggingFace has campaigned for legislation to support open-source AI development [2].",
+    "sources": {
+      "1": "https://www.pcguide.com/ai/faq/hugging-face/",
+      "2": "https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/"
+    },
+    "tags": [
+      "tech",
+      "france",
+      "us",
+      "ai",
+      "opensource"
+    ],
+    "score": 70,
+    "ownedBy": null,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/45/Hugging_Face_logo.svg",
+    "siteUrl": "https://huggingface.co/",
+    "updatedAt": "2023-12-17T12:55:21.833Z"
+  }
 }
