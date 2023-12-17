@@ -71,6 +71,30 @@ const sortSources = setState => () => setState( state => {
     return { ...state, comment: newComment, sources: newSources };
 });
 
+function generatePrompt(info) {
+    return info;
+}
+
+const getRefKey = ref =>
+    ref.innerHTML.match(/\d+/)[0];
+
+const handlePaste = setState => e => {
+    const pasteHTML = e.clipboardData.getData('text/html');
+    const dummyP = document.createElement("p");
+    dummyP.innerHTML = pasteHTML;
+
+    const refs = [ ...dummyP.querySelectorAll(
+        "sup.reference a"
+    ) ];
+
+    const refMap = refs.reduce( (res,ref) => ({
+        ...res,
+        [ getRefKey(ref) ]: ref.href,
+    }), {} );
+
+    console.log(refMap);
+};
+
 const Entry = styled.label`
     display: grid;
     gap: .6rem;
@@ -146,9 +170,14 @@ export function Jsoner() {
         </Entry>
         <h2> comment </h2>
         <textarea
-            style={{ height: "8rem", padding: "0.2rem 0.4rem" }}
+            style={{ height: "15rem", padding: "0.2rem 0.4rem" }}
             value={state.comment}
-            onChange={setComment} />
+            onChange={setComment}
+            onPaste={handlePaste(setState)} />
+        { state.comment && <button onClick={() =>
+            copy(generatePrompt(state.comment))}>
+            copy summarise prompt 📋
+        </button> }
         { showSources && <h2> sources </h2> }
         { Object.keys(state.sources).map(key =>
             <Entry key={key}>

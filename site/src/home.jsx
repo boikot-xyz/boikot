@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "styled-components";
 
-import { Prompter } from "./prompter.jsx";
 import { Jsoner } from "./jsoner.jsx";
 import { Blog } from "./blog/blog.jsx";
 import { Stack, WrappingPre } from "./components.jsx";
@@ -17,7 +16,6 @@ export function Home() {
     return <Centerer>
         <Stack style={{ padding: "2rem", maxWidth: "50rem" }}>
             <h1 style={{ marginBottom: "1rem" }}>boikot 🙅‍♀️ </h1>
-            <Prompter/>
             <Jsoner/>
             <Blog />
             <WrappingPre>
