@@ -6,6 +6,14 @@ export const Stack = styled.div`
     gap: 1rem;
 `;
 
+export const Row = styled.div`
+    display: grid;
+    gap: 1rem;
+    align-items: center;
+    grid-auto-flow: column;
+    width: max-content;
+`;
+
 export const WrappingPre = styled.pre`
     white-space: pre-wrap;
     word-wrap: anywhere;
