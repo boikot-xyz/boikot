@@ -1,9 +1,10 @@
 import React from "react";
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 
 export const Stack = styled.div`
     display: grid;
     gap: 1rem;
+    ${ props => css`gap: ${props.gap}` }
 `;
 
 export const Row = styled.div`
@@ -12,6 +13,7 @@ export const Row = styled.div`
     align-items: center;
     grid-auto-flow: column;
     width: max-content;
+    ${ props => css`gap: ${props.gap}` }
 `;
 
 export const WrappingPre = styled.pre`

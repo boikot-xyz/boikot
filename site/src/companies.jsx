@@ -40,7 +40,7 @@ function Company({entry}) {
 
 export function Companies() {
 
-    return <Stack>
+    return <Stack gap="3rem">
         <h1 style={{ marginTop: "2rem" }}> Companies </h1>
         { Object.values(boikot).map(
             entry => <Company entry={entry} />
