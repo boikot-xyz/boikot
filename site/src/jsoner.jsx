@@ -158,13 +158,14 @@ export function Jsoner() {
     };
 
     return <Stack onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
+        <h2> Add a New Company </h2>
         <Entry>
             names + ticker
             <input
                 value={state.names.join(", ")}
                 onChange={setNames} />
         </Entry>
-        <h2> comment </h2>
+        <h3> comment </h3>
         <textarea
             style={{ height: "15rem", padding: "0.2rem 0.4rem" }}
             value={state.comment}
@@ -174,7 +175,7 @@ export function Jsoner() {
             copy(generatePrompt(state.comment))}>
             copy summarise prompt 📋
         </button> }
-        { showSources && <h2> sources </h2> }
+        { showSources && <h3> sources </h3> }
         { Object.keys(state.sources).map(key =>
             <Entry key={key}>
                 {key}
@@ -218,7 +219,7 @@ export function Jsoner() {
                 value={state.ownedBy}
                 onChange={setStateField("ownedBy")} />
         </Entry>
-        <h2> jsondump </h2>
+        <h3> jsondump </h3>
         <textarea
             style={{ height: "4rem", padding: "0.2rem 0.4rem" }}
             value={state.jsondump}
@@ -230,7 +231,7 @@ export function Jsoner() {
             {tojson(state)}
         </WrappingPre>
         <button onClick={() => copy(tojson(state))}>
-            copy 📋
+            copy company data 📋
         </button>
         <button onClick={() => window.location.reload()}>
             clear 🧽
