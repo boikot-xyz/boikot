@@ -322,33 +322,60 @@
         "updatedAt": "2023-12-17T19:20:12.403Z"
     },
     "137d7815-04dd-47a2-95b4-fa2ed186ec60": {
-      "names": [
-          "Coca-Cola",
-          "Coca Cola",
-          "CocaCola",
-          "Coke",
-          "The Coca-Cola Company",
-          "KO"
-      ],
-      "comment": "The Coca-Cola Company is an American beverage corporation which has been branded by Forbes as the world's most polluting brand [1], producing 200,000 plastic bottles each minute [2], while depleting water resources in areas that already suffer from drought [3]. The company has made some pledges to reduce its use of plastic [4][5].",
-      "sources": {
-          "1": "https://www.forbes.com/sites/trevornace/2019/10/29/coca-cola-named-the-worlds-most-polluting-brand-in-plastic-waste-audit/",
-          "2": "https://www.indiatimes.com/news/india/pepsico-was-the-biggest-plastic-polluter-in-india-in-2022-coca-cola-globally-584817.html",
-          "3": "https://waronwant.org/news-analysis/coca-cola-drinking-world-dry",
-          "4": "https://www.bloomberg.com/news/articles/2019-11-19/coca-cola-races-ahead-in-sweden-shifting-to-recycled-plastic?leadSource=uverify%20wall#xj4y7vzkg",
-          "5": "https://www.beveragedaily.com/Article/2022/02/15/Coca-Cola-s-25-reusable-packaging-goal-How-will-this-be-achieved"
-      },
-      "tags": [
-          "beveages",
-          "soda",
-          "us",
-          "singleuseplastic",
-          "water"
-      ],
-      "score": 10,
-      "ownedBy": null,
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Coca-Cola_Company_%282020%29.svg",
-      "siteUrl": "https://coca-colacompany.com/",
-      "updatedAt": "2023-12-17T22:18:51.032Z"
-  }
+        "names": [
+            "Coca-Cola",
+            "Coca Cola",
+            "CocaCola",
+            "Coke",
+            "The Coca-Cola Company",
+            "KO"
+        ],
+        "comment": "The Coca-Cola Company is an American beverage corporation which has been branded by Forbes as the world's most polluting brand [1], producing 200,000 plastic bottles each minute [2], while depleting water resources in areas that already suffer from drought [3]. The company has made some pledges to reduce its use of plastic [4][5].",
+        "sources": {
+            "1": "https://www.forbes.com/sites/trevornace/2019/10/29/coca-cola-named-the-worlds-most-polluting-brand-in-plastic-waste-audit/",
+            "2": "https://www.indiatimes.com/news/india/pepsico-was-the-biggest-plastic-polluter-in-india-in-2022-coca-cola-globally-584817.html",
+            "3": "https://waronwant.org/news-analysis/coca-cola-drinking-world-dry",
+            "4": "https://www.bloomberg.com/news/articles/2019-11-19/coca-cola-races-ahead-in-sweden-shifting-to-recycled-plastic?leadSource=uverify%20wall#xj4y7vzkg",
+            "5": "https://www.beveragedaily.com/Article/2022/02/15/Coca-Cola-s-25-reusable-packaging-goal-How-will-this-be-achieved"
+        },
+        "tags": [
+            "beveages",
+            "soda",
+            "us",
+            "singleuseplastic",
+            "water"
+        ],
+        "score": 10,
+        "ownedBy": null,
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Coca-Cola_Company_%282020%29.svg",
+        "siteUrl": "https://coca-colacompany.com/",
+        "updatedAt": "2023-12-17T22:18:51.032Z"
+    },
+    "98fffb07-07a1-46ea-a68f-e4ea915a0693":{
+        "names": [
+            "PepsiCo",
+            "PepsiCo Inc.",
+            "Pepsi",
+            "PEP"
+        ],
+        "comment": "PepsiCo is an American food and beverage conglomerate which is one of the biggest plastic polluters worldwide [1], has contributed to water shortages in drought-affected areas [2], and been complicit in illegal rainforest destruction [3]. The company has aimed to reduce its environmental impact, achieving positive water balance in India [4].",
+        "sources": {
+            "1": "https://www.fastcompany.com/90425011/coca-cola-nestle-and-pepsico-are-the-worlds-biggest-plastic-polluters-again",
+            "2": "https://web.archive.org/web/20070602161948/http://www.businessweek.com/globalbiz/content/may2007/gb20070531_868198.htm",
+            "3": "https://www.theguardian.com/environment/2017/jul/21/pepsico-unilever-and-nestle-accused-of-complicity-in-illegal-rainforest-destruction",
+            "4": "https://web.archive.org/web/20100821142748/http://www.pepsico.com/Download/PepsiCo_2009_Sustainability_Report_Overview.pdf"
+        },
+        "tags": [
+            "beverages",
+            "soda",
+            "us",
+            "plastic",
+            "waterusage"
+        ],
+        "score": 20,
+        "ownedBy": null,
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pepsi_2023.svg",
+        "siteUrl": "pepsico.com",
+        "updatedAt": "2023-12-22T12:14:02.971Z"
+    }
 }
