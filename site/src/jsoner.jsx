@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
+import boikot from '../../boikot.json';
 import { Stack, WrappingPre, copy } from "./components.jsx";
 
 if( !crypto.randomUUID ) crypto.randomUUID = () => "";
@@ -71,8 +72,23 @@ const sortSources = setState => () => setState( state => {
     return { ...state, comment: newComment, sources: newSources };
 });
 
-function generatePrompt(info) {
-    return info;
+function generatePrompt( info, name ) {
+    const preamble =
+        "* Here are some summaries of the ethical and unethical " +
+        "practices of different companies:";
+    const comments =
+        Object.values(boikot).map( entry => entry.comment );
+    const nameOrThisCompany = name || "this company";
+    const request =
+        "\n\n* Please create a summary like those above for " +
+        nameOrThisCompany +
+        " based on the information below. Please make sure you only " +
+        "write two sentences.\n\n";
+    const ending =
+        "\n\n* Please respond with your two-sentence summary of the " +
+        `ethical and unethical practices of ${nameOrThisCompany}.`;
+
+    return preamble + comments.join("\n\n") + request + info + ending;
 }
 
 const getRefKey = ref =>
@@ -176,7 +192,7 @@ export function Jsoner() {
             onChange={setComment}
             onPaste={handlePaste(setState)} />
         { state.comment && <button onClick={() =>
-            copy(generatePrompt(state.comment))}>
+            copy(generatePrompt(state.comment, state.names[0]))}>
             copy summarise prompt 📋
         </button> }
         { showSources && <h3> sources </h3> }
