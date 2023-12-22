@@ -320,5 +320,35 @@
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ford_logo_flat.svg",
         "siteUrl": "https://www.ford.com/",
         "updatedAt": "2023-12-17T19:20:12.403Z"
-    }
+    },
+    "137d7815-04dd-47a2-95b4-fa2ed186ec60": {
+      "names": [
+          "Coca-Cola",
+          "Coca Cola",
+          "CocaCola",
+          "Coke",
+          "The Coca-Cola Company",
+          "KO"
+      ],
+      "comment": "The Coca-Cola Company is an American beverage corporation which has been branded by Forbes as the world's most polluting brand [1], producing 200,000 plastic bottles each minute [2], while depleting water resources in areas that already suffer from drought [3]. The company has made some pledges to reduce its use of plastic [4][5].",
+      "sources": {
+          "1": "https://www.forbes.com/sites/trevornace/2019/10/29/coca-cola-named-the-worlds-most-polluting-brand-in-plastic-waste-audit/",
+          "2": "https://www.indiatimes.com/news/india/pepsico-was-the-biggest-plastic-polluter-in-india-in-2022-coca-cola-globally-584817.html",
+          "3": "https://waronwant.org/news-analysis/coca-cola-drinking-world-dry",
+          "4": "https://www.bloomberg.com/news/articles/2019-11-19/coca-cola-races-ahead-in-sweden-shifting-to-recycled-plastic?leadSource=uverify%20wall#xj4y7vzkg",
+          "5": "https://www.beveragedaily.com/Article/2022/02/15/Coca-Cola-s-25-reusable-packaging-goal-How-will-this-be-achieved"
+      },
+      "tags": [
+          "beveages",
+          "soda",
+          "us",
+          "singleuseplastic",
+          "water"
+      ],
+      "score": 10,
+      "ownedBy": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Coca-Cola_Company_%282020%29.svg",
+      "siteUrl": "https://coca-colacompany.com/",
+      "updatedAt": "2023-12-17T22:18:51.032Z"
+  }
 }
