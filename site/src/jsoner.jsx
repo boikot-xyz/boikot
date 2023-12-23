@@ -1,10 +1,9 @@
 import React from "react";
 import styled from "styled-components";
+import slugify from "slugify";
 
 import boikot from '../../boikot.json';
 import { Stack, WrappingPre, copy } from "./components.jsx";
-
-if( !crypto.randomUUID ) crypto.randomUUID = () => "";
 
 window.addEventListener('beforeunload', e => {
     e.preventDefault();
@@ -31,8 +30,8 @@ function tojson(state) {
         score: parseFloat(state.score),
     };
     delete result.jsondump;
-    return `"${crypto.randomUUID()}": ` +
-        JSON.stringify(result, null, 4) + ",";
+    return `"${slugify(state.names[0] || "").toLowerCase()}": ` +
+        `${JSON.stringify(result, null, 4)},`;
 }
 
 function makeSources(comment, oldSources) {
