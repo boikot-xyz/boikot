@@ -377,5 +377,31 @@
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pepsi_2023.svg",
         "siteUrl": "pepsico.com",
         "updatedAt": "2023-12-22T12:14:02.971Z"
+    },
+    "1a769985-63c0-4a8d-b2e1-a90afc7a6a96": {
+        "names": [
+            "Nestlé",
+            "Nestlé S.A.",
+            "Nestle"
+        ],
+        "comment": "Nestlé is the world's largest food and beverage company which has been named by Ukraine as an International Sponsor of War [1], sourced cocoa produced by child labour in west africa [2][3], and questioned whether access to drinking water should be a human right [4]. The company has made some positive efforts like improving agriculture practices and building schools for the children of their farmers [5].",
+        "sources": {
+            "1": "https://zmina.info/en/news-en/nestle-listed-as-international-war-sponsor-by-ukraines-anti-corruption-agency/",
+            "2": "https://web.archive.org/web/20081226141935/http://news.bbc.co.uk/1/hi/world/africa/1272522.stm",
+            "3": "https://web.archive.org/web/20090114115945/http://news.bbc.co.uk/2/hi/africa/1311982.stm",
+            "4": "https://web.archive.org/web/20170629043128/http://www.thenational.ae/arts-culture/the-human-rights-and-wrongs-of-nestl-and-water-for-all",
+            "5": "https://web.archive.org/web/20160103032603/http://www.mnn.com/food/healthy-eating/stories/what-does-the-cocoa-plan-label-on-chocolate-mean"
+        },
+        "tags": [
+            "food",
+            "beverages",
+            "childlabour",
+            "stillinrussia"
+        ],
+        "score": 10,
+        "ownedBy": null,
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
+        "siteUrl": "https://nestle.com/",
+        "updatedAt": "2023-12-23T00:34:27.776Z"
     }
 }
