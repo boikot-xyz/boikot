@@ -403,5 +403,26 @@
         "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
         "siteUrl": "https://nestle.com/",
         "updatedAt": "2023-12-23T00:34:27.776Z"
+    },
+    "42debe8c-7de1-42e7-86b4-34b5b066b402": {
+        "names": [
+            "Britvic",
+            "Britvic plc",
+            "BVIC"
+        ],
+        "comment": "Britvic is a British beverage company. Britvic produces thousands of tonnes of single-use plastic per year [1] but has invested in sustainable energy sources and increased recycling rates [1].",
+        "sources": {
+            "1": "https://www.britvic.com/media/krpdotmg/britvic-annual-report-and-accounts-2023.pdf"
+        },
+        "tags": [
+            "beverages",
+            "uk",
+            "singleuseplastic"
+        ],
+        "score": 50,
+        "ownedBy": null,
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/ff/Britvic_logo.png",
+        "siteUrl": "http://www.britvic.co.uk/",
+        "updatedAt": "2023-12-23T09:41:38.711Z"
     }
 }
