@@ -1,5 +1,5 @@
 {
-    "0dbb3f83-377b-4be4-9829-e2fe68fcaa4e": {
+    "barclays": {
         "_documentation": "This file is a database of the ethical and unethical practices of different companies. https://boikot.xyz © boikot 2023",
         "names": [
             "Barclays",
@@ -35,7 +35,7 @@
         "siteUrl": "https://www.barclays.co.uk/",
         "updatedAt": "2023-12-15T22:09:30.315Z"
     },
-    "c67da1c2-9df7-42d3-a1e2-efb2b84a422d": {
+    "hsbc": {
         "names": [
             "HSBC",
             "HSBC Bank",
@@ -72,7 +72,7 @@
         "siteUrl": "https://www.hsbc.co.uk/",
         "updatedAt": "2023-12-15T22:09:30.315Z"
     },
-    "d0b1b614-d4b8-41ca-a3b8-a2210f3fbe9e": {
+    "samsung": {
         "names": [
             "Samsung",
             "Samsung Group"
@@ -102,7 +102,7 @@
         "siteUrl": "https://www.samsung.com",
         "updatedAt": "2023-12-15T22:09:30.315Z"
     },
-    "21abbdac-e522-49b4-a61c-a70ca7c0b92d": {
+    "apple": {
         "names": [
             "Apple",
             "Apple Inc.",
@@ -138,7 +138,7 @@
         "siteUrl": "https://www.apple.com/",
         "updatedAt": "2023-12-15T22:09:30.315Z"
     },
-    "77c6b652-9ab5-47cf-896b-b446102d2101": {
+    "tesla": {
         "names": [
             "Tesla",
             "Tesla Inc.",
@@ -176,7 +176,7 @@
         "siteUrl": "http://tesla.com/",
         "updatedAt": "2023-12-15T22:09:30.315Z"
     },
-    "b5ca0643-9da0-4e48-ba99-13eb0e84a583": {
+    "github": {
         "names": [
             "Github",
             "Github Inc.",
@@ -200,7 +200,7 @@
         "siteUrl": "https://github.com/",
         "updatedAt": "2023-12-15T22:56:44.080Z"
     },
-    "37418972-eb6c-4742-98b1-e7635014c3d2": {
+    "microsoft": {
         "names": [
             "Microsoft",
             "MicroSoft",
@@ -242,7 +242,7 @@
         "siteUrl": "https://www.microsoft.com/",
         "updatedAt": "2023-12-16T16:14:19.614Z"
     },
-    "ed68b13f-d1db-46d6-9f67-4eb44b2823ac": {
+    "hugging-face": {
         "names": [
             "Hugging Face",
             "Hugging Face Inc."
@@ -265,7 +265,7 @@
         "siteUrl": "https://huggingface.co/",
         "updatedAt": "2023-12-17T12:55:21.833Z"
     },
-    "cd46812c-8f45-4792-a13b-57e5bbc5323b": {
+    "youtube": {
         "names": [
             "YouTube",
             "Youtube",
@@ -296,7 +296,7 @@
         "siteUrl": "https://www.youtube.com/",
         "updatedAt": "2023-12-17T15:24:11.664Z"
     },
-    "be30b4e3-46f6-4e41-9610-9884f9f51624": {
+    "ford": {
         "names": [
             "Ford",
             "Ford Motor Company",
@@ -321,7 +321,7 @@
         "siteUrl": "https://www.ford.com/",
         "updatedAt": "2023-12-17T19:20:12.403Z"
     },
-    "137d7815-04dd-47a2-95b4-fa2ed186ec60": {
+    "coca-cola": {
         "names": [
             "Coca-Cola",
             "Coca Cola",
@@ -351,7 +351,7 @@
         "siteUrl": "https://coca-colacompany.com/",
         "updatedAt": "2023-12-17T22:18:51.032Z"
     },
-    "98fffb07-07a1-46ea-a68f-e4ea915a0693":{
+    "pepsico": {
         "names": [
             "PepsiCo",
             "PepsiCo Inc.",
@@ -378,7 +378,7 @@
         "siteUrl": "pepsico.com",
         "updatedAt": "2023-12-22T12:14:02.971Z"
     },
-    "1a769985-63c0-4a8d-b2e1-a90afc7a6a96": {
+    "nestle": {
         "names": [
             "Nestlé",
             "Nestlé S.A.",
@@ -404,7 +404,7 @@
         "siteUrl": "https://nestle.com/",
         "updatedAt": "2023-12-23T00:34:27.776Z"
     },
-    "42debe8c-7de1-42e7-86b4-34b5b066b402": {
+    "britvic": {
         "names": [
             "Britvic",
             "Britvic plc",
