@@ -424,5 +424,19 @@
         "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/ff/Britvic_logo.png",
         "siteUrl": "http://www.britvic.co.uk/",
         "updatedAt": "2023-12-23T09:41:38.711Z"
+    },
+    "fruit-shoot": {
+        "names": [
+            "Fruit Shoot",
+            "Fruitshoot"
+        ],
+        "comment": "",
+        "sources": {},
+        "tags": [],
+        "score": null,
+        "ownedBy": "britvic",
+        "logoUrl": "https://fruitshoot.com/media/pshnbkx4/master-nav-logo.svg",
+        "siteUrl": "https://fruitshoot.com/",
+        "updatedAt": "2023-12-23T20:26:43.695Z"
     }
 }
