@@ -14,8 +14,8 @@ const ownerName = ownerKey =>
 const Description = ({ entry }) =>
     <p style={{ lineHeight: "1.5rem" }}>
         { entry.comment }
-        { entry.comment && entry.ownedBy && <br /> }
-        { entry.ownedBy && `${ entry.names[0] } is owned by ${ ownerName(entry.ownedBy) }.`
+        { entry.comment && !!entry.ownedBy.length && <br /> }
+        { !!entry.ownedBy.length && `${ entry.names[0] } is owned by ${ ownerName(entry.ownedBy[0]) }.`
         }
     </p>;
 
