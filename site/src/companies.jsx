@@ -8,6 +8,9 @@ import boikot from "../../boikot.json";
 const scoreColor = x =>
     `hsl(${x}deg 100% 60%)`;
 
+const ownerName = ownerKey =>
+    boikot.companies[ownerKey]?.names[0] || ownerKey;
+
 
 function Company({entry}) {
     if( !entry.names ) return null;
@@ -28,8 +31,9 @@ function Company({entry}) {
             </h3>
         </Row>
         <p style={{ lineHeight: "1.5rem" }}>{entry.comment}</p>
-        { entry.ownedBy &&
-            <p> { entry.names[0] } is owned by { entry.ownedBy }. </p> }
+        { entry.ownedBy && <p>
+            { entry.names[0] } is owned by { ownerName(entry.ownedBy) }.
+        </p> }
         { !!Object.keys(entry.sources).length && <h3> Sources </h3> }
         { Object.entries(entry.sources).map( ([ key, url ]) =>
             <p> [{key}] <a href={url} style={{ wordWrap: "anywhere" }}>
