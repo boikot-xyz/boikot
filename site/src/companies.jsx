@@ -11,6 +11,14 @@ const scoreColor = x =>
 const ownerName = ownerKey =>
     boikot.companies[ownerKey]?.names[0] || ownerKey;
 
+const Description = ({ entry }) =>
+    <p style={{ lineHeight: "1.5rem" }}>
+        { entry.comment }
+        { entry.comment && entry.ownedBy && <br /> }
+        { entry.ownedBy && `${ entry.names[0] } is owned by ${ ownerName(entry.ownedBy) }.`
+        }
+    </p>;
+
 
 function Company({entry}) {
     if( !entry.names ) return null;
@@ -30,10 +38,7 @@ function Company({entry}) {
                 {entry.score}
             </h3>
         </Row>
-        <p style={{ lineHeight: "1.5rem" }}>{entry.comment}</p>
-        { entry.ownedBy && <p>
-            { entry.names[0] } is owned by { ownerName(entry.ownedBy) }.
-        </p> }
+        <Description entry={entry} />
         { !!Object.keys(entry.sources).length && <h3> Sources </h3> }
         { Object.entries(entry.sources).map( ([ key, url ]) =>
             <p> [{key}] <a href={url} style={{ wordWrap: "anywhere" }}>
