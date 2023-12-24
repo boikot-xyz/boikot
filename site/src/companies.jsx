@@ -44,7 +44,7 @@ export function Companies() {
 
     return <Stack gap="3rem">
         <h1 style={{ marginTop: "2rem" }}> Companies </h1>
-        { Object.values(boikot).map(
+        { Object.values(boikot.companies).map(
             entry => <Company entry={entry} />
         ) }
     </Stack>;
