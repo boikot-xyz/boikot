@@ -32,7 +32,7 @@
                 "anticompetetive"
             ],
             "score": 20,
-            "ownedBy": null,
+            "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/Barclays_logo.svg",
             "siteUrl": "https://www.barclays.co.uk/",
             "updatedAt": "2023-12-15T22:09:30.315Z"
@@ -69,7 +69,7 @@
                 "greenwashing"
             ],
             "score": 35,
-            "ownedBy": null,
+            "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/HSBC_logo_%282018%29.svg",
             "siteUrl": "https://www.hsbc.co.uk/",
             "updatedAt": "2023-12-15T22:09:30.315Z"
@@ -99,7 +99,7 @@
                 "antiunion"
             ],
             "score": 45,
-            "ownedBy": null,
+            "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Samsung_wordmark.svg",
             "siteUrl": "https://www.samsung.com",
             "updatedAt": "2023-12-15T22:09:30.315Z"
@@ -135,7 +135,7 @@
                 "anticompetetive"
             ],
             "score": 55,
-            "ownedBy": null,
+            "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
             "siteUrl": "https://www.apple.com/",
             "updatedAt": "2023-12-15T22:09:30.315Z"
@@ -173,7 +173,7 @@
                 "harassment"
             ],
             "score": 85,
-            "ownedBy": null,
+            "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg",
             "siteUrl": "http://tesla.com/",
             "updatedAt": "2023-12-15T22:09:30.315Z"
@@ -197,7 +197,9 @@
                 "ai"
             ],
             "score": 80,
-            "ownedBy": "microsoft",
+            "ownedBy": [
+                "microsoft"
+            ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg",
             "siteUrl": "https://github.com/",
             "updatedAt": "2023-12-15T22:56:44.080Z"
@@ -239,7 +241,7 @@
                 "sustainable"
             ],
             "score": 35,
-            "ownedBy": null,
+            "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg",
             "siteUrl": "https://www.microsoft.com/",
             "updatedAt": "2023-12-16T16:14:19.614Z"
@@ -262,7 +264,7 @@
                 "opensource"
             ],
             "score": 70,
-            "ownedBy": null,
+            "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/45/Hugging_Face_logo.svg",
             "siteUrl": "https://huggingface.co/",
             "updatedAt": "2023-12-17T12:55:21.833Z"
@@ -293,7 +295,9 @@
                 "radicalisation"
             ],
             "score": 55,
-            "ownedBy": "google",
+            "ownedBy": [
+                "google"
+            ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg",
             "siteUrl": "https://www.youtube.com/",
             "updatedAt": "2023-12-17T15:24:11.664Z"
@@ -318,7 +322,7 @@
                 "us"
             ],
             "score": 50,
-            "ownedBy": null,
+            "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ford_logo_flat.svg",
             "siteUrl": "https://www.ford.com/",
             "updatedAt": "2023-12-17T19:20:12.403Z"
@@ -348,7 +352,7 @@
                 "waterusage"
             ],
             "score": 10,
-            "ownedBy": null,
+            "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Coca-Cola_Company_%282020%29.svg",
             "siteUrl": "https://coca-colacompany.com/",
             "updatedAt": "2023-12-17T22:18:51.032Z"
@@ -375,7 +379,7 @@
                 "waterusage"
             ],
             "score": 20,
-            "ownedBy": null,
+            "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pepsi_2023.svg",
             "siteUrl": "pepsico.com",
             "updatedAt": "2023-12-22T12:14:02.971Z"
@@ -401,7 +405,7 @@
                 "stillinrussia"
             ],
             "score": 10,
-            "ownedBy": null,
+            "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
             "siteUrl": "https://nestle.com/",
             "updatedAt": "2023-12-23T00:34:27.776Z"
@@ -422,7 +426,7 @@
                 "singleuseplastic"
             ],
             "score": 50,
-            "ownedBy": null,
+            "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/ff/Britvic_logo.png",
             "siteUrl": "http://www.britvic.co.uk/",
             "updatedAt": "2023-12-23T09:41:38.711Z"
@@ -438,7 +442,9 @@
             },
             "tags": [],
             "score": null,
-            "ownedBy": "britvic",
+            "ownedBy": [
+                "britvic"
+            ],
             "logoUrl": "https://fruitshoot.com/media/pshnbkx4/master-nav-logo.svg",
             "siteUrl": "https://fruitshoot.com/",
             "updatedAt": "2023-12-23T20:26:43.695Z"
@@ -453,7 +459,9 @@
             },
             "tags": [],
             "score": null,
-            "ownedBy": "britvic",
+            "ownedBy": [
+                "britvic"
+            ],
             "logoUrl": "https://www.ballygowan.ie/media/ttybvmzh/ballygowan_logo_all.svg",
             "siteUrl": "https://www.ballygowan.ie/",
             "updatedAt": "2023-12-23T20:26:43.695Z"
@@ -468,7 +476,9 @@
             },
             "tags": [],
             "score": null,
-            "ownedBy": "britvic",
+            "ownedBy": [
+                "britvic"
+            ],
             "logoUrl": "https://www.j2o.co.uk/media/gs3hmorz/j2o_logo_2018.png",
             "siteUrl": "https://www.j2o.co.uk/",
             "updatedAt": "2023-12-23T20:26:43.695Z"
@@ -484,7 +494,9 @@
             },
             "tags": [],
             "score": null,
-            "ownedBy": "britvic",
+            "ownedBy": [
+                "britvic"
+            ],
             "logoUrl": "https://www.rwhites.co.uk/media/xn3ehtcu/logo.png",
             "siteUrl": "https://www.rwhites.co.uk/",
             "updatedAt": "2023-12-24T21:19:13.747Z"
@@ -502,7 +514,9 @@
             },
             "tags": [],
             "score": null,
-            "ownedBy": "britvic",
+            "ownedBy": [
+                "britvic"
+            ],
             "logoUrl": "https://www.jimmysicedcoffee.com/cdn/shop/files/logo-large_300x@3x.png?v=1646849230",
             "siteUrl": "https://www.jimmysicedcoffee.com/",
             "updatedAt": "2023-12-23T20:26:43.695Z"
@@ -519,7 +533,9 @@
             },
             "tags": [],
             "score": null,
-            "ownedBy": "britvic",
+            "ownedBy": [
+                "britvic"
+            ],
             "logoUrl": "https://www.londonessenceco.com/media/3mpllmke/londonessence_logo.svg",
             "siteUrl": "https://www.londonessenceco.com/en",
             "updatedAt": "2023-12-23T20:26:43.695Z"
@@ -534,7 +550,9 @@
             },
             "tags": [],
             "score": null,
-            "ownedBy": "britvic",
+            "ownedBy": [
+                "britvic"
+            ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/40/Teisseire_logo.png",
             "siteUrl": "http://teisseire.com/",
             "updatedAt": "2023-12-23T20:26:43.695Z"
@@ -550,7 +568,9 @@
             },
             "tags": [],
             "score": null,
-            "ownedBy": "britvic",
+            "ownedBy": [
+                "britvic"
+            ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Logo_of_Robinsons.png/400px-Logo_of_Robinsons.png",
             "siteUrl": "http://www.robinsonssquash.co.uk/",
             "updatedAt": "2023-12-23T20:26:43.695Z"
@@ -566,7 +586,9 @@
             },
             "tags": [],
             "score": null,
-            "ownedBy": "britvic",
+            "ownedBy": [
+                "britvic"
+            ],
             "logoUrl": "https://aqualibradrinks.com/media/ad5fob5y/logo-fan_on_white-back.png",
             "siteUrl": "https://aqualibradrinks.com/",
             "updatedAt": "2023-12-23T21:49:32.761Z"
