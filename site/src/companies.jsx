@@ -14,12 +14,12 @@ function Company({entry}) {
 
     return <Stack>
         <Row>
-            <img
+            { entry.logoUrl && <img
                 src={entry.logoUrl}
                 style={{
                     width: "3rem",
                     height: "3rem",
-                    objectFit: "contain" }}/>
+                    objectFit: "contain" }}/> }
             <h2>{entry.names[0]}</h2>
             <h3 style={{
                 paddingTop: "0.15rem",
