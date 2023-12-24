@@ -31,7 +31,7 @@ function Company({entry}) {
                     width: "3rem",
                     height: "3rem",
                     objectFit: "contain" }}/> }
-            <h2>{entry.names[0]}</h2>
+            <h2><a href={entry.siteUrl}>{entry.names[0]}</a></h2>
             <h3 style={{
                 paddingTop: "0.15rem",
                 color: scoreColor(entry.score) }}>
