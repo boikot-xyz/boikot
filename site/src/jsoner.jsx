@@ -16,7 +16,7 @@ const initialState = {
     sources: {},
     tags: [],
     score: "",
-    ownedBy: "",
+    ownedBy: [],
     logoUrl: "",
     siteUrl: "",
     updatedAt: (new Date()).toISOString(),
@@ -127,12 +127,6 @@ export function Jsoner() {
     const [state, setState] = React.useState(initialState);
     const showSources = !!Object.keys(state.sources).length;
 
-    const setNames = e =>
-        setState( oldState => ({
-            ...oldState,
-            names: e.target.value.split(", "),
-        }) );
-
     const setComment = e =>
         setState( oldState => (
             {
@@ -151,16 +145,16 @@ export function Jsoner() {
             },
         }) );
 
-    const setTags = e =>
-        setState( oldState => ({
-            ...oldState,
-            tags: e.target.value.split(", "),
-        }) );
-
     const setStateField = fieldName => e =>
         setState( oldState => ({
             ...oldState,
             [fieldName]: e.target.value,
+        }) );
+
+    const setStateList = fieldName => e =>
+        setState( oldState => ({
+            ...oldState,
+            [fieldName]: e.target.value.split(", "),
         }) );
 
     const mergeJSONDump = () => {
@@ -182,7 +176,7 @@ export function Jsoner() {
             names + ticker
             <input
                 value={state.names.join(", ")}
-                onChange={setNames} />
+                onChange={setStateList("names")} />
         </Entry>
         <h3> comment </h3>
         <textarea
@@ -212,7 +206,7 @@ export function Jsoner() {
             tags
             <input
                 value={state.tags.join(", ")}
-                onChange={setTags} />
+                onChange={setStateList("tags")} />
         </Entry>
         <Entry>
             score
@@ -235,8 +229,8 @@ export function Jsoner() {
         <Entry>
             ownedBy
             <input
-                value={state.ownedBy}
-                onChange={setStateField("ownedBy")} />
+                value={state.ownedBy.join(", ")}
+                onChange={setStateList("ownedBy")} />
         </Entry>
         <h3> jsondump </h3>
         <textarea
