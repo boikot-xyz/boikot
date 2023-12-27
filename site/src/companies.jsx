@@ -41,9 +41,12 @@ function Company({entry}) {
         <Description entry={entry} />
         { !!Object.keys(entry.sources).length && <h3> Sources </h3> }
         { Object.entries(entry.sources).map( ([ key, url ]) =>
-            <p> [{key}] <a href={url} style={{ wordWrap: "anywhere" }}>
-                {url}
-            </a> </p>
+            <p key={key}>
+                [{key}]
+                <a href={url} style={{ wordWrap: "anywhere" }}>
+                    {url}
+                </a>
+            </p>
         ) }
     </Stack>;
 }
@@ -54,7 +57,7 @@ export function Companies() {
     return <Stack gap="3rem">
         <h1 style={{ marginTop: "2rem" }}> Companies </h1>
         { Object.values(boikot.companies).map(
-            entry => <Company entry={entry} />
+            entry => <Company entry={entry} key={entry.names[0]} />
         ) }
     </Stack>;
 }
