@@ -19,8 +19,7 @@ const Description = ({ entry }) =>
         }
     </p>;
 
-
-function Company({entry}) {
+export function Company({entry}) {
     if( !entry.names ) return null;
 
     return <Stack>
