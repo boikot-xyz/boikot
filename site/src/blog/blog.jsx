@@ -5,8 +5,10 @@ import { Stack, WrappingPre } from "../components.jsx";
 
 import blog1 from "./1.txt";
 import blog2 from "./2.txt";
+import blog3 from "./3.txt";
 
 const blogs = [
+    blog3,
     blog2,
     blog1,
 ];
