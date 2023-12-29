@@ -7,6 +7,7 @@ import {
 
 import { Home } from "./home.jsx";
 import { Company } from "./companies.jsx";
+import { Centerer } from "./components.jsx";
 import boikot from "../../boikot.json";
 
 const router = createBrowserRouter([
@@ -23,7 +24,9 @@ const router = createBrowserRouter([
 
 function CompanyRoute() {
     const { key } = useLoaderData();
-    return <Company entry={ boikot.companies[key] } />;
+    return <Centerer>
+        <Company entry={ boikot.companies[key] } />
+    </Centerer>;
 }
 
 export function Router() {
