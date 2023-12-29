@@ -1,6 +1,9 @@
 * {
     margin: 0;
     padding: 0;
+}
+
+body, button, input {
     font-family: 'Source Code Pro', monospace;
 }
 
