@@ -34,6 +34,9 @@ export const Centerer = ({ children }) =>
         </Stack>
     </CentererOuter>;
 
+export const Header = () =>
+    <h1 style={{ marginBottom: "1rem" }}>boikot 🙅‍♀️ </h1>;
+
 export const copy = text =>
     navigator.clipboard.writeText(text);
 
