@@ -19,6 +19,13 @@
   font-display: swap;
   src: url(/source-code-pro.ttf) format('truetype');
 }
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/source-code-pro-bold.ttf) format('truetype');
+}
 
 body, button, input {
     font-family: 'Source Code Pro', monospace;
