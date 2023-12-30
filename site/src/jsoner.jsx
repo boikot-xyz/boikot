@@ -1,5 +1,5 @@
 import React from "react";
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 import slugify from "slugify";
 
 import boikot from '../../boikot.json';
@@ -111,7 +111,11 @@ const Entry = styled.label`
     input, textarea {
         padding: 0.6rem;
         font-size: .9rem;
+        ${ props => css`border-color: ${
+            props.$valid && "var(--success)"
+        }` }
     }
+    ${ props => css`color: ${props.$valid && "var(--success)"}` }
 `;
 
 const ifCtrlC = f => e =>
@@ -176,7 +180,7 @@ export function Jsoner() {
 
     return <Stack onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
         <h1> Company Editor </h1>
-        <Entry>
+        <Entry $valid={state.names.length > 0}>
             names & stock ticker
             <DeleteableBadgeList
                 items={state.names}
@@ -186,7 +190,7 @@ export function Jsoner() {
                 onKeyDown={ifEnter(addToStateList("names"))}
                 onKeyUp={ifEnter(e => e.target.value = "")} />
         </Entry>
-        <Entry>
+        <Entry $valid={state.tags.length > 0}>
             tags
             <DeleteableBadgeList
                 items={state.tags}
@@ -196,7 +200,7 @@ export function Jsoner() {
                 onKeyDown={ifEnter(addToStateList("tags"))}
                 onKeyUp={ifEnter(e => e.target.value = "")} />
         </Entry>
-        <Entry>
+        <Entry $valid={state.ownedBy.length > 0}>
             owned by
             <DeleteableBadgeList
                 items={state.ownedBy}
@@ -206,21 +210,21 @@ export function Jsoner() {
                 onKeyDown={ifEnter(addToStateList("ownedBy"))}
                 onKeyUp={ifEnter(e => e.target.value = "")} />
         </Entry>
-        <Entry>
+        <Entry $valid={!!state.siteUrl}>
             site URL
             <input
                 value={state.siteUrl}
                 placeholder="link to the company's website"
                 onChange={setStateField("siteUrl")} />
         </Entry>
-        <Entry>
+        <Entry $valid={!!state.logoUrl}>
             logo URL
             <input
                 value={state.logoUrl}
                 placeholder="URL of the company's logo"
                 onChange={setStateField("logoUrl")} />
         </Entry>
-        <Entry>
+        <Entry $valid={!!state.comment}>
             comment
             <textarea
                 style={{ height: "15rem" }}
@@ -236,7 +240,7 @@ export function Jsoner() {
         { showSources && <>
             <h3> sources </h3>
             { Object.keys(state.sources).map(key =>
-                <Entry key={key}>
+                <Entry key={key} $valid={!!state.sources[key]}>
                     {key}
                     <input
                         value={state.sources[key]}
@@ -248,7 +252,7 @@ export function Jsoner() {
                 sort sources 🃏
             </PillButton>
         </>}
-        <Entry>
+        <Entry $valid={parseFloat(state.score) <= 100}>
             ethical score
             <input
                 value={state.score}
