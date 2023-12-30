@@ -2,6 +2,12 @@ import React from "react";
 import styled, { css } from "styled-components";
 import { Link } from "react-router-dom";
 
+export const PillButton = styled.button`
+    background: var(--fg);
+    color: var(--bg);
+    border-radius: 0.75rem;
+    padding: 0.25rem;
+`;
 
 export const Stack = styled.div`
     display: grid;

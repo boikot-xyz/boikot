@@ -3,7 +3,7 @@ import styled from "styled-components";
 import slugify from "slugify";
 
 import boikot from '../../boikot.json';
-import { Stack, WrappingPre, copy } from "./components.jsx";
+import { PillButton, Stack, WrappingPre, copy } from "./components.jsx";
 
 window.addEventListener('beforeunload', e => {
     e.preventDefault();
@@ -184,10 +184,10 @@ export function Jsoner() {
             value={state.comment}
             onChange={setComment}
             onPaste={handlePaste(setState)} />
-        { state.comment && <button onClick={() =>
+        { state.comment && <PillButton onClick={() =>
             copy(generatePrompt(state.comment, state.names[0]))}>
             copy summarise prompt 📋
-        </button> }
+        </PillButton> }
         { showSources && <h3> sources </h3> }
         { Object.keys(state.sources).map(key =>
             <Entry key={key}>
@@ -198,9 +198,9 @@ export function Jsoner() {
             </Entry>
         )}
         { showSources &&
-            <button onClick={sortSources(setState)}>
+            <PillButton onClick={sortSources(setState)}>
                 sort sources 🃏
-            </button> }
+            </PillButton> }
         <div/>
         <Entry>
             tags
@@ -237,18 +237,18 @@ export function Jsoner() {
             style={{ height: "4rem", padding: "0.2rem 0.4rem" }}
             value={state.jsondump}
             onChange={setStateField("jsondump")} />
-        <button onClick={mergeJSONDump}>
+        <PillButton onClick={mergeJSONDump}>
             merge 🖇️
-        </button>
+        </PillButton>
         <WrappingPre>
             {tojson(state)}
         </WrappingPre>
-        <button onClick={() => copy(tojson(state))}>
+        <PillButton onClick={() => copy(tojson(state))}>
             copy company data 📋
-        </button>
-        <button onClick={() => window.location.reload()}>
+        </PillButton>
+        <PillButton onClick={() => window.location.reload()}>
             clear 🧽
-        </button>
+        </PillButton>
     </Stack>;
 }
 
