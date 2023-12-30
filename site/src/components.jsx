@@ -52,6 +52,11 @@ export const Header = () =>
         <Icon i="menu" />
     </Row>;
 
+export const Footer = () =>
+    <div>
+        boikot.xyz @ { process.env.VERSION }
+    </div>;
+
 export const copy = text =>
     navigator.clipboard.writeText(text);
 
