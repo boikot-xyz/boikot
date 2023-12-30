@@ -4,8 +4,8 @@
   "description": "boikot.xyz",
   "main": "app.jsx",
   "scripts": {
-    "start": "esbuild app.jsx --bundle --loader:.md=text --loader:.svg=file --servedir=www/ --outdir=www/build --serve-fallback=www/index.html",
-    "build": "esbuild app.jsx --bundle --loader:.md=text --loader:.svg=file --minify --outdir=www/build"
+    "start": "esbuild app.jsx --bundle --loader:.md=text --loader:.svg=file --servedir=www/ --outdir=www/build --public-path=/build --serve-fallback=www/index.html",
+    "build": "esbuild app.jsx --bundle --loader:.md=text --loader:.svg=file --public-path=/build --minify --outdir=www/build"
   },
   "author": "boikot",
   "license": "gpl v3",
