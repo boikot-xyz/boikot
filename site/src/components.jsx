@@ -80,6 +80,7 @@ function Menu({ open, close }) {
                 <h1> menu 🗺️</h1>
                 <Icon i="x" onClick={close} />
             </Row>
+            <Link to="/"> home </Link>
             <Link to="/blog"> blog </Link>
             <VersionNumber />
         </Centerer>
