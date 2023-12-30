@@ -107,11 +107,10 @@ const handlePaste = setState => e => {
 
 const Entry = styled.label`
     display: grid;
-    gap: .6rem;
-    grid-template-columns: max-content auto;
-    align-items: center;
+    gap: .3rem;
     * {
-        padding: 0.2rem 0.4rem;
+        padding: 0.6rem;
+        font-size: .9rem;
     }
 `;
 
@@ -168,82 +167,84 @@ export function Jsoner() {
     return <Stack onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
         <h2> Company Editor </h2>
         <Entry>
-            names + ticker
+            names & stock ticker
             <input
                 value={state.names.join(", ")}
+                placeholder="Type names and press enter after each"
                 onChange={setStateList("names")} />
         </Entry>
-        <h3> comment </h3>
-        <textarea
-            style={{ height: "15rem", padding: "0.2rem 0.4rem" }}
-            value={state.comment}
-            onChange={setComment}
-            onPaste={handlePaste(setState)} />
-        { state.comment && <PillButton onClick={() =>
-            copy(generatePrompt(state.comment, state.names[0]))}>
-            copy summarise prompt 📋
-        </PillButton> }
-        { showSources && <h3> sources </h3> }
-        { Object.keys(state.sources).map(key =>
-            <Entry key={key}>
-                {key}
-                <input
-                    value={state.sources[key]}
-                    onChange={setSource(key)} />
-            </Entry>
-        )}
-        { showSources &&
-            <PillButton onClick={sortSources(setState)}>
-                sort sources 🃏
-            </PillButton> }
-        <div/>
         <Entry>
             tags
             <input
                 value={state.tags.join(", ")}
+                placeholder="Type tags that describe this company and press enter after each"
                 onChange={setStateList("tags")} />
         </Entry>
         <Entry>
-            score
+            owned by
             <input
-                value={state.score}
-                onChange={setStateField("score")} />
+                value={state.ownedBy.join(", ")}
+                placeholder="codes of the companies that own this one"
+                onChange={setStateList("ownedBy")} />
         </Entry>
         <Entry>
-            logoUrl
-            <input
-                value={state.logoUrl}
-                onChange={setStateField("logoUrl")} />
-        </Entry>
-        <Entry>
-            siteUrl
+            site URL
             <input
                 value={state.siteUrl}
+                placeholder="link to the company's website"
                 onChange={setStateField("siteUrl")} />
         </Entry>
         <Entry>
-            ownedBy
+            logo URL
             <input
-                value={state.ownedBy.join(", ")}
-                onChange={setStateList("ownedBy")} />
+                value={state.logoUrl}
+                placeholder="URL of the company's logo"
+                onChange={setStateField("logoUrl")} />
         </Entry>
-        <h3> jsondump </h3>
-        <textarea
-            style={{ height: "4rem", padding: "0.2rem 0.4rem" }}
-            value={state.jsondump}
-            onChange={setStateField("jsondump")} />
-        <PillButton onClick={mergeJSONDump}>
-            merge 🖇️
-        </PillButton>
-        <WrappingPre>
-            {tojson(state)}
-        </WrappingPre>
+        <Entry>
+            comment
+            <textarea
+                style={{ height: "15rem" }}
+                placeholder="Enter a short summary of this company's most and least ethical actions. References can be placed by numbers in square brackets eg. [1], [2]"
+                value={state.comment}
+                onChange={setComment}
+                onPaste={handlePaste(setState)} />
+        </Entry>
+        { state.comment && <PillButton onClick={() =>
+            copy(generatePrompt(state.comment, state.names[0]))}>
+            copy summarise prompt 📋
+        </PillButton> }
+        { showSources && <>
+            <h3> sources </h3>
+            { Object.keys(state.sources).map(key =>
+                <Entry key={key}>
+                    {key}
+                    <input
+                        value={state.sources[key]}
+                        placeholder={`Paste the link for source [${key}] here`}
+                        onChange={setSource(key)} />
+                </Entry>
+            )}
+            <PillButton onClick={sortSources(setState)}>
+                sort sources 🃏
+            </PillButton>
+        </>}
+        <Entry>
+            ethical score
+            <input
+                value={state.score}
+                placeholder="Enter a score from 0 to 100"
+                onChange={setStateField("score")} />
+        </Entry>
         <PillButton onClick={() => copy(tojson(state))}>
             copy company data 📋
         </PillButton>
         <PillButton onClick={() => window.location.reload()}>
             clear 🧽
         </PillButton>
+        <WrappingPre>
+            {tojson(state)}
+        </WrappingPre>
     </Stack>;
 }
 

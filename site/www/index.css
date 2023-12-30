@@ -42,6 +42,7 @@ input, textarea {
     color: var(--fg);
     border: 0.05rem solid var(--fg);
     border-radius: 0.5rem;
+    font-family: 'Sora', sans-serif;
 }
 
 button {
