@@ -46,6 +46,10 @@ input, textarea {
     border-radius: 0.5rem;
     font-family: 'Sora', sans-serif;
 }
+::placeholder {
+    color: var(--fg);
+    opacity: 0.3;
+}
 
 button {
     border: none;
