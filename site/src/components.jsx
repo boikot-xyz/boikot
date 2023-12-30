@@ -28,6 +28,8 @@ const CentererOuter = styled.div`
 `;
 
 const IconInner = styled.img`
+    height: 2rem;
+    ${ props => css`height: ${props.height}` }
 `;
 export const Icon = props =>
     <IconInner
