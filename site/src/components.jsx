@@ -1,5 +1,7 @@
 import React from "react";
 import styled, { css } from "styled-components";
+import { Link } from "react-router-dom";
+
 
 export const Stack = styled.div`
     display: grid;
@@ -50,8 +52,48 @@ export const Header = () =>
         gridTemplateColumns: "auto min-content"
     }}>
         <h1> boikot 🙅‍♀️ </h1>
-        <Icon i="menu" />
+        <MenuButton />
     </Row>;
+
+const ScreenFiller = styled.div`
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+`;
+
+function Menu({ open, close }) {
+    if( !open ) return null;
+
+    return <ScreenFiller style={{
+        backdropFilter: "blur(.4rem)",
+        webkitBackdropFilter: "blur(.4rem)",
+        background: "var(--bg-transparent)",
+    }}>
+        <Centerer>
+            <Row style={{
+                width: "100%",
+                gridTemplateColumns: "auto min-content"
+            }}>
+                <h1> menu 🗺️</h1>
+                <Icon i="x" onClick={close} />
+            </Row>
+            <Link to="/c/apple"> Apple </Link>
+            <VersionNumber />
+        </Centerer>
+    </ScreenFiller>;
+}
+
+export function MenuButton() {
+    const [ open, setOpen ] = React.useState(false);
+
+    return <>
+        <Icon i="menu" onClick={ () => setOpen(true) } />
+        <Menu open={open} close={ () => setOpen(false) } />
+    </>;
+}
 
 export const VersionNumber = () =>
     <span> boikot.xyz @ { process.env.VERSION } </span>;
