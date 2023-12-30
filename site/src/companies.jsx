@@ -1,5 +1,7 @@
 import React from "react";
 import styled from "styled-components";
+import { Link } from "react-router-dom";
+import slugify from "slugify";
 
 import { Centerer, Header, Row, Stack } from "./components.jsx";
 import boikot from "../../boikot.json";
@@ -50,13 +52,33 @@ export function Company({entry}) {
 }
 
 
+export function CompanyHeader({ entry }) {
+    return <Row>
+        { entry.logoUrl && <img
+            src={entry.logoUrl}
+            style={{
+                width: "3rem",
+                height: "3rem",
+                objectFit: "contain" }}/> }
+        <Link to={`/c/${slugify(entry.names[0]).toLowerCase()}`}>
+            <h3>{entry.names[0]}</h3>
+        </Link>
+        <h3 style={{
+            paddingTop: "0.15rem",
+            color: scoreColor(entry.score) }}>
+            {entry.score}
+        </h3>
+    </Row>;
+}
+
+
 export function Companies() {
     return <Centerer>
         <Header />
-        <Stack gap="3rem">
+        <Stack>
             <h1 style={{ marginTop: "2rem" }}> Companies </h1>
-            { Object.values(boikot.companies).map(
-                entry => <Company entry={entry} key={entry.names[0]} />
+            { Object.values(boikot.companies).map( entry =>
+                <CompanyHeader entry={entry} key={entry.names[0]} />
             ) }
         </Stack>
     </Centerer>;
