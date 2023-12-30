@@ -93,6 +93,12 @@ function Menu({ open, close }) {
     </ScreenFiller>;
 }
 
+export function IconButton( props ) {
+    return <button onClick={ props.onClick }>
+        <Icon {...{...props, onClick: undefined}} />
+    </button>;
+}
+
 export function MenuButton() {
     const [ open, setOpen ] = React.useState(false);
 
