@@ -3,9 +3,9 @@ import styled from "styled-components";
 
 import { Stack, WrappingPre } from "../components.jsx";
 
-import blog1 from "./1.txt";
-import blog2 from "./2.txt";
-import blog3 from "./3.txt";
+import blog1 from "./1.md";
+import blog2 from "./2.md";
+import blog3 from "./3.md";
 
 const blogs = [
     blog3,
