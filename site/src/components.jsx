@@ -75,6 +75,15 @@ const ScreenFiller = styled.div`
     right: 0;
 `;
 
+function MenuLink({ to, children }) {
+    let style = {};
+    if( location.pathname === to )
+        style = { color: "white", fontWeight: "600" };
+    return <Link to={to} style={style}>
+        { children }
+    </Link>;
+}
+
 function Menu({ open, close }) {
     if( !open ) return null;
 
@@ -91,10 +100,10 @@ function Menu({ open, close }) {
                 <h1> menu 🗺️</h1>
                 <IconButton i="x" onClick={close} />
             </Row>
-            <Link to="/"> home </Link>
-            <Link to="/companies"> companies </Link>
-            <Link to="/companies/edit"> add a company </Link>
-            <Link to="/blog"> blog </Link>
+            <MenuLink to="/"> home </MenuLink>
+            <MenuLink to="/companies"> companies </MenuLink>
+            <MenuLink to="/companies/edit"> add a company </MenuLink>
+            <MenuLink to="/blog"> blog </MenuLink>
             <VersionNumber />
         </Centerer>
     </ScreenFiller>;
