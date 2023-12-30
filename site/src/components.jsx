@@ -56,9 +56,12 @@ export const Centerer = ({ children, style }) =>
 export const Header = () =>
     <Row style={{
         width: "100%",
-        gridTemplateColumns: "auto min-content"
+        gridTemplateColumns: "max-content auto",
+        justifyItems: "right",
     }}>
-        <h1> boikot 🙅‍♀️ </h1>
+        <Link to="/" style={{ textDecoration: 'none' }}>
+            <h1 style={{ color: "white" }}> boikot 🙅‍♀️ </h1>
+        </Link>
         <MenuButton />
     </Row>;
 
