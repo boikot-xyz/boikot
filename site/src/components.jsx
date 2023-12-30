@@ -24,6 +24,7 @@ export const WrappingPre = styled.pre`
 const CentererOuter = styled.div`
     display: grid;
     place-items: center;
+    justify-items: stretch;
     width: 100vw;
 `;
 
