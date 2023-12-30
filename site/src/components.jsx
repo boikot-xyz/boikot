@@ -84,7 +84,7 @@ function Menu({ open, close }) {
                 gridTemplateColumns: "auto min-content"
             }}>
                 <h1> menu 🗺️</h1>
-                <Icon i="x" onClick={close} />
+                <IconButton i="x" onClick={close} />
             </Row>
             <Link to="/"> home </Link>
             <Link to="/blog"> blog </Link>
@@ -103,7 +103,7 @@ export function MenuButton() {
     const [ open, setOpen ] = React.useState(false);
 
     return <>
-        <Icon i="menu" onClick={ () => setOpen(true) } />
+        <IconButton onClick={ () => setOpen(true) } i="menu" />
         <Menu open={open} close={ () => setOpen(false) } />
     </>;
 }
