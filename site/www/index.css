@@ -3,6 +3,13 @@
     padding: 0;
 }
 
+:root {
+    --bg: #000711;
+    --bg-light: #112;
+    --fg: white;
+    --accent: #4ab;
+}
+
 @font-face {
   font-family: 'Source Code Pro';
   font-style: normal;
@@ -13,5 +20,29 @@
 
 body, button, input {
     font-family: 'Source Code Pro', monospace;
+}
+
+body {
+    background: var(--bg);
+    color: var(--fg);
+}
+
+input, textarea {
+    background: var(--bg-light);
+    color: var(--fg);
+    border: 0.05rem solid var(--fg);
+    border-radius: 0.5rem;
+}
+
+button {
+    background: var(--fg);
+    color: var(--bg);
+    border-radius: 0.75rem;
+    border: none;
+    padding: 0.25rem;
+}
+
+a {
+    color: var(--accent);
 }
 
