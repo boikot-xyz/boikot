@@ -10,6 +10,7 @@
     --bg-transparent: #00071199;
     --fg: white;
     --accent: #4ab;
+    --accent-dark: #055;
 }
 
 @font-face {

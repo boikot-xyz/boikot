@@ -138,3 +138,32 @@ export const VersionNumber = () =>
 export const copy = text =>
     navigator.clipboard.writeText(text);
 
+export const Badge = styled.button`
+    background: var(--accent-dark);
+    border-radius: 1.2rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 0.3rem 0.6rem;
+    color: white;
+`;
+
+function DeleteableBadge({ children, onClick }) {
+    return <Badge onClick={onClick}>
+        <Row gap="0.2rem">
+            { children }
+            <Icon i="x" style={{ height: "0.9rem" }}/>
+        </Row>
+    </Badge>;
+}
+
+export function DeleteableBadgeList({ items, deleteAtIndex = () => {} }) {
+    if( !items?.length ) return null;
+    return <FlexRow>
+        { items.map( (item, i) =>
+            <DeleteableBadge onClick={() => deleteAtIndex(i)} key={item}>
+                { item }
+            </DeleteableBadge>
+        ) }
+    </FlexRow>;
+}
+
