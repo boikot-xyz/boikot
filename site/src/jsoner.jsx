@@ -3,7 +3,7 @@ import styled from "styled-components";
 import slugify from "slugify";
 
 import boikot from '../../boikot.json';
-import { Centerer, Header, PillButton, Stack, WrappingPre, copy } from "./components.jsx";
+import { Centerer, DeleteableBadgeList, FlexRow, Header, Icon, PillButton, Row, Stack, WrappingPre, copy } from "./components.jsx";
 
 const initialState = {
     names: [],
@@ -107,8 +107,8 @@ const handlePaste = setState => e => {
 
 const Entry = styled.label`
     display: grid;
-    gap: .3rem;
-    * {
+    gap: .5rem;
+    input, textarea {
         padding: 0.6rem;
         font-size: .9rem;
     }
@@ -116,6 +116,9 @@ const Entry = styled.label`
 
 const ifCtrlC = f => e =>
     (e.ctrlKey || e.metaKey) && e.key == "c" && f();
+
+const ifEnter = f => e =>
+    e.key == "Enter" && f(e);
 
 export function Jsoner() {
     const [state, setState] = React.useState(initialState);
@@ -145,11 +148,18 @@ export function Jsoner() {
             [fieldName]: e.target.value,
         }) );
 
-    const setStateList = fieldName => e =>
+    const addToStateList = fieldName => e =>
         setState( oldState => ({
             ...oldState,
-            [fieldName]: e.target.value.split(", "),
+            [fieldName]: [...oldState[fieldName], e.target.value],
         }) );
+
+    const removeFromStateList = fieldName => i =>
+        setState( oldState => ({
+            ...oldState,
+            [fieldName]: oldState[fieldName].filter( (_,j) => j != i ),
+        }) );
+
 
     const mergeJSONDump = () => {
         try {
@@ -168,24 +178,33 @@ export function Jsoner() {
         <h1> Company Editor </h1>
         <Entry>
             names & stock ticker
+            <DeleteableBadgeList
+                items={state.names}
+                deleteAtIndex={removeFromStateList("names")} />
             <input
-                value={state.names.join(", ")}
                 placeholder="Type names and press enter after each"
-                onChange={setStateList("names")} />
+                onKeyDown={ifEnter(addToStateList("names"))}
+                onKeyUp={ifEnter(e => e.target.value = "")} />
         </Entry>
         <Entry>
             tags
+            <DeleteableBadgeList
+                items={state.tags}
+                deleteAtIndex={removeFromStateList("tags")} />
             <input
-                value={state.tags.join(", ")}
                 placeholder="Type tags that describe this company and press enter after each"
-                onChange={setStateList("tags")} />
+                onKeyDown={ifEnter(addToStateList("tags"))}
+                onKeyUp={ifEnter(e => e.target.value = "")} />
         </Entry>
         <Entry>
             owned by
+            <DeleteableBadgeList
+                items={state.ownedBy}
+                deleteAtIndex={removeFromStateList("ownedBy")} />
             <input
-                value={state.ownedBy.join(", ")}
                 placeholder="codes of the companies that own this one"
-                onChange={setStateList("ownedBy")} />
+                onKeyDown={ifEnter(addToStateList("ownedBy"))}
+                onKeyUp={ifEnter(e => e.target.value = "")} />
         </Entry>
         <Entry>
             site URL
