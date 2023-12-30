@@ -88,6 +88,7 @@ function Menu({ open, close }) {
                 <IconButton i="x" onClick={close} />
             </Row>
             <Link to="/"> home </Link>
+            <Link to="/companies"> companies </Link>
             <Link to="/blog"> blog </Link>
             <VersionNumber />
         </Centerer>

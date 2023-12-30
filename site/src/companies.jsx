@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import { Row, Stack } from "./components.jsx";
+import { Centerer, Header, Row, Stack } from "./components.jsx";
 import boikot from "../../boikot.json";
 
 
@@ -51,12 +51,14 @@ export function Company({entry}) {
 
 
 export function Companies() {
-
-    return <Stack gap="3rem">
-        <h1 style={{ marginTop: "2rem" }}> Companies </h1>
-        { Object.values(boikot.companies).map(
-            entry => <Company entry={entry} key={entry.names[0]} />
-        ) }
-    </Stack>;
+    return <Centerer>
+        <Header />
+        <Stack gap="3rem">
+            <h1 style={{ marginTop: "2rem" }}> Companies </h1>
+            { Object.values(boikot.companies).map(
+                entry => <Company entry={entry} key={entry.names[0]} />
+            ) }
+        </Stack>
+    </Centerer>;
 }
 

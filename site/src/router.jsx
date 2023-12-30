@@ -6,7 +6,7 @@ import {
 } from "react-router-dom";
 
 import { Home } from "./home.jsx";
-import { Company } from "./companies.jsx";
+import { Companies, Company } from "./companies.jsx";
 import { Blogs, loadBlogs } from "./blog.jsx";
 import { Centerer, Header } from "./components.jsx";
 import boikot from "../../boikot.json";
@@ -15,6 +15,10 @@ const router = createBrowserRouter([
     {
         path:  "/",
         element: <Home />,
+    },
+    {
+        path:  "/companies",
+        element: <Companies />,
     },
     {
         path:  "/c/:key",
