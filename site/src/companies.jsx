@@ -79,6 +79,7 @@ export function Companies() {
         <Header />
         <Stack>
             <h1> Companies </h1>
+            <Link to="/companies/edit"> ➕ add a company </Link>
             { Object.values(boikot.companies).map( entry =>
                 <CompanyHeader entry={entry} key={entry.names[0]} />
             ) }
