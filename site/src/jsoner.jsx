@@ -5,11 +5,6 @@ import slugify from "slugify";
 import boikot from '../../boikot.json';
 import { PillButton, Stack, WrappingPre, copy } from "./components.jsx";
 
-window.addEventListener('beforeunload', e => {
-    e.preventDefault();
-    e.returnValue = '';
-});
-
 const initialState = {
     names: [],
     comment: "",
