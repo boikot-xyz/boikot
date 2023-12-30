@@ -60,7 +60,9 @@ export function CompanyHeader({ entry }) {
                 width: "3rem",
                 height: "3rem",
                 objectFit: "contain" }}/> }
-        <Link to={`/c/${slugify(entry.names[0]).toLowerCase()}`}>
+        <Link to={
+            `/companies/${slugify(entry.names[0]).toLowerCase()}`
+        }>
             <h3>{entry.names[0]}</h3>
         </Link>
         <h3 style={{

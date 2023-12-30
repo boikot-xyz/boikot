@@ -21,7 +21,7 @@ const router = createBrowserRouter([
         element: <Companies />,
     },
     {
-        path:  "/c/:key",
+        path:  "/companies/:key",
         element: <CompanyRoute />,
         loader: ({ params }) => params,
     },
