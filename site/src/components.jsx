@@ -32,7 +32,6 @@ export const WrappingPre = styled.pre`
 const CentererOuter = styled.div`
     display: grid;
     place-items: center;
-    justify-items: stretch;
     width: 100vw;
 `;
 
@@ -47,7 +46,9 @@ export const Icon = props =>
 
 export const Centerer = ({ children, style }) =>
     <CentererOuter style={style}>
-        <Stack style={{ padding: "2rem", maxWidth: "50rem" }}>
+        <Stack style={{
+            padding: "2rem", maxWidth: "50rem", width: "100%"
+        }}>
             { children }
         </Stack>
     </CentererOuter>;
