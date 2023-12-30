@@ -3,6 +3,14 @@
     padding: 0;
 }
 
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/source-code-pro.ttf) format('truetype');
+}
+
 body, button, input {
     font-family: 'Source Code Pro', monospace;
 }
