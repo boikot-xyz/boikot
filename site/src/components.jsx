@@ -37,8 +37,8 @@ export const Icon = props =>
         src={`/icons/${props.i}.svg`}
         {...props} />
 
-export const Centerer = ({ children }) =>
-    <CentererOuter>
+export const Centerer = ({ children, style }) =>
+    <CentererOuter style={style}>
         <Stack style={{ padding: "2rem", maxWidth: "50rem" }}>
             { children }
         </Stack>
