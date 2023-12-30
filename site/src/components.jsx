@@ -76,7 +76,7 @@ function Menu({ open, close }) {
 
     return <ScreenFiller style={{
         backdropFilter: "blur(.4rem)",
-        webkitBackdropFilter: "blur(.4rem)",
+        WebkitBackdropFilter: "blur(.4rem)",
         background: "var(--bg-transparent)",
     }}>
         <Centerer>
