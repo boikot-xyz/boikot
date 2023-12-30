@@ -6,6 +6,7 @@ import {
 } from "react-router-dom";
 
 import { Home } from "./home.jsx";
+import { CompanyEditor } from "./jsoner.jsx";
 import { Companies, Company } from "./companies.jsx";
 import { Blogs, loadBlogs } from "./blog.jsx";
 import { Centerer, Header } from "./components.jsx";
@@ -19,6 +20,10 @@ const router = createBrowserRouter([
     {
         path:  "/companies",
         element: <Companies />,
+    },
+    {
+        path:  "/companies/edit",
+        element: <CompanyEditor />,
     },
     {
         path:  "/companies/:key",

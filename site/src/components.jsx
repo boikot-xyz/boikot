@@ -93,6 +93,7 @@ function Menu({ open, close }) {
             </Row>
             <Link to="/"> home </Link>
             <Link to="/companies"> companies </Link>
+            <Link to="/companies/edit"> add a company </Link>
             <Link to="/blog"> blog </Link>
             <VersionNumber />
         </Centerer>

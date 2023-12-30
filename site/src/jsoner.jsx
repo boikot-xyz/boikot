@@ -3,7 +3,7 @@ import styled from "styled-components";
 import slugify from "slugify";
 
 import boikot from '../../boikot.json';
-import { PillButton, Stack, WrappingPre, copy } from "./components.jsx";
+import { Centerer, Header, PillButton, Stack, WrappingPre, copy } from "./components.jsx";
 
 const initialState = {
     names: [],
@@ -166,7 +166,7 @@ export function Jsoner() {
     };
 
     return <Stack onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
-        <h2> Add a New Company </h2>
+        <h2> Company Editor </h2>
         <Entry>
             names + ticker
             <input
@@ -245,5 +245,12 @@ export function Jsoner() {
             clear 🧽
         </PillButton>
     </Stack>;
+}
+
+export function CompanyEditor() {
+    return <Centerer>
+        <Header />
+        <Jsoner />
+    </Centerer>;
 }
 
