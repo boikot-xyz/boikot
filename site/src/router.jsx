@@ -7,10 +7,9 @@ import {
 
 import { Home } from "./home.jsx";
 import { CompanyEditor } from "./jsoner.jsx";
-import { Companies, Company } from "./companies.jsx";
+import { Companies, CompanyDetail } from "./companies.jsx";
 import { Blogs, loadBlogs } from "./blog.jsx";
 import { Centerer, Header } from "./components.jsx";
-import boikot from "../../boikot.json";
 
 const router = createBrowserRouter([
     {
@@ -27,7 +26,7 @@ const router = createBrowserRouter([
     },
     {
         path:  "/companies/:key",
-        element: <CompanyRoute />,
+        element: <CompanyDetail />,
         loader: ({ params }) => params,
     },
     {
@@ -36,14 +35,6 @@ const router = createBrowserRouter([
         loader: loadBlogs,
     },
 ]);
-
-function CompanyRoute() {
-    const { key } = useLoaderData();
-    return <Centerer>
-        <Header />
-        <Company entry={ boikot.companies[key] } />
-    </Centerer>;
-}
 
 export function Router() {
     return <RouterProvider router={router} />;

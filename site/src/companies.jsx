@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { Link } from "react-router-dom";
+import { Link, useLoaderData } from "react-router-dom";
 import slugify from "slugify";
 
 import { Centerer, Header, Row, Stack } from "./components.jsx";
@@ -50,6 +50,15 @@ export function Company({entry}) {
         ) }
         <Link to="/companies"> ↩️ back to companies </Link>
     </Stack>;
+}
+
+
+export function CompanyDetail() {
+    const { key } = useLoaderData();
+    return <Centerer>
+        <Header />
+        <Company entry={ boikot.companies[key] } />
+    </Centerer>;
 }
 
 
