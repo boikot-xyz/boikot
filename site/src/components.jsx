@@ -33,7 +33,7 @@ const IconInner = styled.img`
 `;
 export const Icon = props =>
     <IconInner
-        src={require(`./icons/${props.i}.svg`)}
+        src={`/icons/${props.i}.svg`}
         {...props} />
 
 export const Centerer = ({ children }) =>
