@@ -7,29 +7,30 @@
 :root {
     --bg: #000711;
     --bg-light: #112;
-    --bg-transparent: #00071177;
+    --bg-transparent: #00071199;
     --fg: white;
     --accent: #4ab;
 }
 
 @font-face {
-  font-family: 'Source Code Pro';
+  font-family: 'Sora';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(/source-code-pro.ttf) format('truetype');
+  src: url(/sora.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Source Code Pro';
+  font-family: 'Sora';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(/source-code-pro-bold.ttf) format('truetype');
+  src: url(/sora-bold.ttf) format('truetype');
 }
 
 body, button, input {
-    font-family: 'Source Code Pro', monospace;
+    font-family: 'Sora', sans-serif;
 }
+
 
 body {
     background: var(--bg);
