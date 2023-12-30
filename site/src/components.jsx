@@ -58,6 +58,7 @@ export const Header = () =>
         width: "100%",
         gridTemplateColumns: "max-content auto",
         justifyItems: "right",
+        marginBottom: "1rem",
     }}>
         <Link to="/" style={{ textDecoration: 'none' }}>
             <h1 style={{ color: "white" }}> boikot 🙅‍♀️ </h1>

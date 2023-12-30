@@ -78,7 +78,7 @@ export function Companies() {
     return <Centerer>
         <Header />
         <Stack>
-            <h1 style={{ marginTop: "2rem" }}> Companies </h1>
+            <h1> Companies </h1>
             { Object.values(boikot.companies).map( entry =>
                 <CompanyHeader entry={entry} key={entry.names[0]} />
             ) }
