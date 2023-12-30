@@ -48,6 +48,7 @@ export function Company({entry}) {
                 </a>
             </p>
         ) }
+        <Link to="/companies"> ↩️ back to companies </Link>
     </Stack>;
 }
 
