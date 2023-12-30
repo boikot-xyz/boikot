@@ -24,6 +24,14 @@ export const Row = styled.div`
     ${ props => css`gap: ${props.gap}` }
 `;
 
+export const FlexRow = styled.div`
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    flex-wrap: wrap;
+    ${ props => css`gap: ${props.gap}` }
+`;
+
 export const WrappingPre = styled.pre`
     white-space: pre-wrap;
     word-wrap: anywhere;
