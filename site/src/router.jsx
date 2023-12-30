@@ -7,7 +7,7 @@ import {
 
 import { Home } from "./home.jsx";
 import { Company } from "./companies.jsx";
-import { Blogs, loadBlogs } from "./blog/blog.jsx";
+import { Blogs, loadBlogs } from "./blog.jsx";
 import { Centerer, Header } from "./components.jsx";
 import boikot from "../../boikot.json";
 

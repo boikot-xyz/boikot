@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { useLoaderData } from "react-router-dom";
 
-import { Stack, WrappingPre } from "../components.jsx";
+import { Stack, WrappingPre } from "./components.jsx";
 
 const blogFiles = [
     "3.md",
