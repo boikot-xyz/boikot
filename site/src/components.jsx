@@ -27,6 +27,13 @@ const CentererOuter = styled.div`
     width: 100vw;
 `;
 
+const IconInner = styled.img`
+`;
+export const Icon = props =>
+    <IconInner
+        src={`/feather-icons/${props.i}.svg`}
+        {...props} />
+
 export const Centerer = ({ children }) =>
     <CentererOuter>
         <Stack style={{ padding: "2rem", maxWidth: "50rem" }}>
