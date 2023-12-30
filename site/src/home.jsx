@@ -8,8 +8,8 @@ import boikot from "../../boikot.json";
 export function Home() {
     return <Centerer>
         <Header />
-        <h2> boikot is a community-led initiative to make
-            data on company ethics transparent and accessible. </h2>
+        <h1> boikot is a community-led initiative to make
+            data on company ethics transparent and accessible. </h1>
         <p> We are building a community-curated, transparent, freely
             accessible collection of corporate ethics records. By
             documenting ethical and unethical business practices,

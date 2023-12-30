@@ -61,7 +61,7 @@ export const Header = () =>
         marginBottom: "1rem",
     }}>
         <Link to="/" style={{ textDecoration: 'none' }}>
-            <h1 style={{ color: "white" }}> boikot 🙅‍♀️ </h1>
+            <h2 style={{ color: "white" }}> boikot 🙅‍♀️ </h2>
         </Link>
         <MenuButton />
     </Row>;

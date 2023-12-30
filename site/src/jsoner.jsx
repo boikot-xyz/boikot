@@ -165,7 +165,7 @@ export function Jsoner() {
     };
 
     return <Stack onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
-        <h2> Company Editor </h2>
+        <h1> Company Editor </h1>
         <Entry>
             names & stock ticker
             <input
