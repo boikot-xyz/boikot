@@ -44,7 +44,13 @@ export const Centerer = ({ children }) =>
     </CentererOuter>;
 
 export const Header = () =>
-    <h1 style={{ marginBottom: "1rem" }}>boikot 🙅‍♀️ </h1>;
+    <Row style={{
+        width: "100%",
+        gridTemplateColumns: "auto min-content"
+    }}>
+        <h1> boikot 🙅‍♀️ </h1>
+        <Icon i="menu" />
+    </Row>;
 
 export const copy = text =>
     navigator.clipboard.writeText(text);
