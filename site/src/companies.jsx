@@ -29,8 +29,9 @@ export function Company({entry}) {
         </p> }
         { !!Object.keys(entry.sources).length && <h3> Sources </h3> }
         { Object.entries(entry.sources).map( ([ key, url ]) =>
-            <p key={key}>
+            <p key={key} style={{ maxWidth: "46rem" }}>
                 [{key}] <a href={url} style={{
+                    overflowWrap: "break-word",
                     overflowWrap: "anywhere",
                 }}>
                     {url}
