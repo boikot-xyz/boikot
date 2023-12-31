@@ -233,13 +233,15 @@ export function Jsoner() {
                 onChange={setComment}
                 onPaste={handlePaste(setState)} />
         </Entry>
-        { state.comment && <PillButton
-            $outline
-            onClick={() => copy(
-                generatePrompt(state.comment, state.names[0])
-            )}>
-            copy summarise prompt 📋
-        </PillButton> }
+        <Row style={{ justifySelf: "right" }}>
+            { state.comment && <PillButton
+                $outline
+                onClick={() => copy(
+                    generatePrompt(state.comment, state.names[0])
+                )}>
+                copy summarise prompt 📋
+            </PillButton> }
+        </Row>
         { showSources && <>
             <h3> sources </h3>
             { Object.keys(state.sources).map(key =>
@@ -251,7 +253,10 @@ export function Jsoner() {
                         onChange={setSource(key)} />
                 </Entry>
             )}
-            <PillButton $outline onClick={sortSources(setState)}>
+            <PillButton
+                $outline
+                style={{ justifySelf: "right" }}
+                onClick={sortSources(setState)}>
                 sort sources 🃏
             </PillButton>
         </>}
@@ -262,12 +267,12 @@ export function Jsoner() {
                 placeholder="Enter a score from 0 to 100"
                 onChange={setStateField("score")} />
         </Entry>
-        <Row>
-            <PillButton onClick={() => copy(tojson(state))}>
-                copy output data 📋
-            </PillButton>
+        <Row style={{ justifySelf: "right" }}>
             <PillButton $outline onClick={() => window.location.reload()}>
                 clear 🧽
+            </PillButton>
+            <PillButton onClick={() => copy(tojson(state))}>
+                copy output data 📋
             </PillButton>
         </Row>
         <WrappingPre>
