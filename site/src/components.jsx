@@ -141,6 +141,7 @@ export const copy = text =>
 export const Badge = styled.button`
     background: var(--accent-dark);
     border-radius: 1.2rem;
+    border: 0.05rem solid var(--accent);
     font-size: 0.85rem;
     font-weight: 600;
     padding: 0.3rem 0.6rem;
