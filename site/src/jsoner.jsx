@@ -233,8 +233,11 @@ export function Jsoner() {
                 onChange={setComment}
                 onPaste={handlePaste(setState)} />
         </Entry>
-        { state.comment && <PillButton onClick={() =>
-            copy(generatePrompt(state.comment, state.names[0]))}>
+        { state.comment && <PillButton
+            $outline
+            onClick={() => copy(
+                generatePrompt(state.comment, state.names[0])
+            )}>
             copy summarise prompt 📋
         </PillButton> }
         { showSources && <>
@@ -248,7 +251,7 @@ export function Jsoner() {
                         onChange={setSource(key)} />
                 </Entry>
             )}
-            <PillButton onClick={sortSources(setState)}>
+            <PillButton $outline onClick={sortSources(setState)}>
                 sort sources 🃏
             </PillButton>
         </>}
@@ -260,9 +263,9 @@ export function Jsoner() {
                 onChange={setStateField("score")} />
         </Entry>
         <PillButton onClick={() => copy(tojson(state))}>
-            copy company data 📋
+            copy output data 📋
         </PillButton>
-        <PillButton onClick={() => window.location.reload()}>
+        <PillButton $outline onClick={() => window.location.reload()}>
             clear 🧽
         </PillButton>
         <WrappingPre>
