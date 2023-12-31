@@ -69,6 +69,9 @@ export function CompanyHeader({ entry }) {
             style={{
                 width: "3rem",
                 height: "3rem",
+                padding: "0.25rem",
+                background: "white",
+                borderRadius: "0.5rem",
                 objectFit: "contain" }}/> }
         <Link to={
             `/companies/${slugify(entry.names[0]).toLowerCase()}`
