@@ -69,9 +69,12 @@ const sortSources = setState => () => setState( state => {
 function generatePrompt( info, name ) {
     const preamble =
         "* Here are some summaries of the ethical and unethical " +
-        "practices of different companies:";
+        "practices of different companies:\n\n";
     const comments =
-        Object.values(boikot).map( entry => entry.comment );
+        Object.values(boikot.companies)
+            .filter( entry => !!entry.comment )
+            .slice(0, 3)
+            .map( entry => entry.comment );
     const nameOrThisCompany = name || "this company";
     const request =
         "\n\n* Please create a summary like those above for " +
