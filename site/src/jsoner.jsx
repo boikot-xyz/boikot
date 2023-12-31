@@ -3,7 +3,7 @@ import styled, { css } from "styled-components";
 import slugify from "slugify";
 
 import boikot from '../../boikot.json';
-import { Centerer, DeleteableBadgeList, FlexRow, Header, Icon, PillButton, Row, Stack, WrappingPre, copy } from "./components.jsx";
+import { Centerer, DeleteableBadgeList, FlexRow, Header, Icon, PillButton, Stack, WrappingPre, copy } from "./components.jsx";
 
 const initialState = {
     names: [],
@@ -261,7 +261,7 @@ export function Jsoner() {
                 onChange={setComment}
                 onPaste={handlePaste(setState)} />
         </Entry>
-        <Row style={{ justifySelf: "right" }}>
+        <FlexRow style={{ justifyContent: "right" }}>
             { state.comment && <PillButton
                 $outline
                 onClick={() => copy(
@@ -272,7 +272,7 @@ export function Jsoner() {
             <PillButton $outline onClick={addSource}>
                 add source 🔗
             </PillButton>
-        </Row>
+        </FlexRow>
         { showSources && <>
             <h3> sources </h3>
             { Object.keys(state.sources).map(key =>
@@ -298,14 +298,14 @@ export function Jsoner() {
                 placeholder="Enter a score from 0 to 100"
                 onChange={setStateField("score")} />
         </Entry>
-        <Row style={{ justifySelf: "right" }}>
+        <FlexRow style={{ justifyContent: "right" }}>
             <PillButton $outline onClick={() => window.location.reload()}>
                 clear 🧽
             </PillButton>
             <PillButton onClick={() => copy(tojson(state))}>
                 copy output data 📋
             </PillButton>
-        </Row>
+        </FlexRow>
         <WrappingPre>
             {tojson(state)}
         </WrappingPre>
