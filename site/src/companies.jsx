@@ -17,20 +17,7 @@ export function Company({entry}) {
     if( !entry.names ) return null;
 
     return <Stack>
-        <Row>
-            { entry.logoUrl && <img
-                src={entry.logoUrl}
-                style={{
-                    width: "3rem",
-                    height: "3rem",
-                    objectFit: "contain" }}/> }
-            <h2><a href={entry.siteUrl}>{entry.names[0]}</a></h2>
-            <h3 style={{
-                paddingTop: "0.15rem",
-                color: scoreColor(entry.score) }}>
-                {entry.score}
-            </h3>
-        </Row>
+        <CompanyHeader entry={entry} />
         <p style={{ lineHeight: "1.5rem" }}>
             { entry.comment }
         </p>
@@ -62,7 +49,7 @@ export function CompanyDetail() {
 }
 
 
-export function CompanyHeader({ entry }) {
+export function CompanyHeader({ entry, link = false }) {
     return <Row>
         { entry.logoUrl && <img
             src={entry.logoUrl}
@@ -73,11 +60,14 @@ export function CompanyHeader({ entry }) {
                 background: "white",
                 borderRadius: "0.5rem",
                 objectFit: "contain" }}/> }
-        <Link to={
-            `/companies/${slugify(entry.names[0]).toLowerCase()}`
-        }>
-            <h3>{entry.names[0]}</h3>
-        </Link>
+        { link
+            ? <Link to={
+                `/companies/${slugify(entry.names[0]).toLowerCase()}`
+            }>
+                <h3>{entry.names[0]}</h3>
+            </Link>
+            : <h3>{entry.names[0]}</h3>
+        }
         <h3 style={{
             paddingTop: "0.15rem",
             color: scoreColor(entry.score) }}>
@@ -94,7 +84,7 @@ export function Companies() {
             <h1> Companies </h1>
             <Link to="/companies/edit"> ➕ add a company </Link>
             { Object.values(boikot.companies).map( entry =>
-                <CompanyHeader entry={entry} key={entry.names[0]} />
+                <CompanyHeader entry={entry} link key={entry.names[0]} />
             ) }
         </Stack>
     </Centerer>;
