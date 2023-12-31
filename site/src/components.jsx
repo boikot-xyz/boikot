@@ -6,7 +6,7 @@ export const PillButton = styled.button`
     background: var(--fg);
     color: var(--bg);
     border-radius: 1.5rem;
-    padding: 0.7rem 5.5rem;
+    padding: 0.7rem 1.5rem;
     font-size: 0.85rem;
     ${ props => props.$outline && css`
         background: var(--bg);
