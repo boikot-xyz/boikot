@@ -105,7 +105,7 @@ const handlePaste = setState => e => {
     console.log(refMap);
 };
 
-const Entry = styled.label`
+const Entry = styled.div`
     display: grid;
     gap: .5rem;
     input, textarea {
