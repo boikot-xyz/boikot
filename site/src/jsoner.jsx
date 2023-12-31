@@ -124,8 +124,21 @@ const ifCtrlC = f => e =>
 const ifEnter = f => e =>
     e.key == "Enter" && f(e);
 
+const lastKey = obj =>
+    Object.keys(obj)[Object.keys(obj).length - 1];
+
+const nextKey = obj =>
+    parseFloat(lastKey(obj) ?? 0) + 1
+
+const insertIntoString = ( originalString, insertIndex, insertionString ) =>
+    originalString.slice(0, insertIndex) +
+    insertionString +
+    originalString.slice(insertIndex);
+
+
 export function Jsoner() {
     const [state, setState] = React.useState(initialState);
+    const textareaRef = React.useRef(null);
     const showSources = !!Object.keys(state.sources).length;
 
     const setComment = e =>
@@ -136,6 +149,20 @@ export function Jsoner() {
                 sources: makeSources(e.target.value, oldState.sources),
             }
         ));
+
+    const addSource = () =>
+        setState( oldState => ({
+            ...oldState,
+            comment: insertIntoString(
+                oldState.comment,
+                textareaRef.current.selectionEnd,
+                `[${nextKey(oldState.sources)}]`,
+            ),
+            sources: {
+                ...oldState.sources,
+                [nextKey(oldState.sources)]: "",
+            },
+        }) );
 
     const setSource = key => e =>
         setState( oldState => ({
@@ -230,6 +257,7 @@ export function Jsoner() {
                 style={{ height: "15rem" }}
                 placeholder="Enter a short summary of this company's most and least ethical actions. References can be placed by numbers in square brackets eg. [1], [2]"
                 value={state.comment}
+                ref={textareaRef}
                 onChange={setComment}
                 onPaste={handlePaste(setState)} />
         </Entry>
@@ -241,6 +269,9 @@ export function Jsoner() {
                 )}>
                 copy summarise prompt 📋
             </PillButton> }
+            <PillButton $outline onClick={addSource}>
+                add source 🔗
+            </PillButton>
         </Row>
         { showSources && <>
             <h3> sources </h3>
