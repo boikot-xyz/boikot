@@ -262,12 +262,14 @@ export function Jsoner() {
                 placeholder="Enter a score from 0 to 100"
                 onChange={setStateField("score")} />
         </Entry>
-        <PillButton onClick={() => copy(tojson(state))}>
-            copy output data 📋
-        </PillButton>
-        <PillButton $outline onClick={() => window.location.reload()}>
-            clear 🧽
-        </PillButton>
+        <Row>
+            <PillButton onClick={() => copy(tojson(state))}>
+                copy output data 📋
+            </PillButton>
+            <PillButton $outline onClick={() => window.location.reload()}>
+                clear 🧽
+            </PillButton>
+        </Row>
         <WrappingPre>
             {tojson(state)}
         </WrappingPre>

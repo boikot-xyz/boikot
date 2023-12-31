@@ -7,14 +7,12 @@ export const PillButton = styled.button`
     color: var(--bg);
     border-radius: 1.5rem;
     padding: 0.7rem 5.5rem;
-    justify-self: center;
     font-size: 0.85rem;
     ${ props => props.$outline && css`
         background: var(--bg);
         color: var(--fg);
         border: 0.05rem solid var(--fg);
         padding: 0.5rem 1.2rem;
-        justify-self: right;
     ` }
 `;
 
