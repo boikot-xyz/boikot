@@ -79,7 +79,7 @@ export const Icon = props =>
 export const Centerer = ({ children, style }) =>
     <CentererOuter style={style}>
         <Stack style={{
-            padding: "2rem", maxWidth: "50rem", width: "100%"
+            padding: "2rem", maxWidth: "50rem", width: "100%",
         }}>
             { children }
         </Stack>
