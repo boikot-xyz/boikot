@@ -301,17 +301,17 @@ export function Jsoner() {
                 placeholder="Enter a score from 0 to 100"
                 onChange={setStateField("score")} />
         </Entry>
+        <WrappingPre>
+            {tojson(state)}
+        </WrappingPre>
         <FlexRow style={{ justifyContent: "right" }}>
             <PillButton $outline onClick={() => window.location.reload()}>
                 clear 🧽
             </PillButton>
             <PillButton onClick={() => copy(tojson(state))}>
-                copy output data 📋
+                copy company data 📋
             </PillButton>
         </FlexRow>
-        <WrappingPre>
-            {tojson(state)}
-        </WrappingPre>
     </Stack>;
 }
 
