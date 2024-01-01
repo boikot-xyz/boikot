@@ -3,7 +3,7 @@ import styled, { css } from "styled-components";
 import slugify from "slugify";
 
 import boikot from '../../boikot.json';
-import { Centerer, DeleteableBadgeList, FlexRow, Header, Icon, PillButton, Stack, WrappingPre, copy } from "./components.jsx";
+import { Centerer, DeleteableBadgeList, FlexRow, Header, Icon, PillButton, Stack, CodeBlock, copy } from "./components.jsx";
 
 const initialState = {
     names: [],
@@ -301,9 +301,12 @@ export function Jsoner() {
                 placeholder="Enter a score from 0 to 100"
                 onChange={setStateField("score")} />
         </Entry>
-        <WrappingPre>
-            {tojson(state)}
-        </WrappingPre>
+        <Entry>
+            output company data
+            <CodeBlock style={{ maxHeight: "10rem", overflow: "scroll" }}>
+                {tojson(state)}
+            </CodeBlock>
+        </Entry>
         <FlexRow style={{ justifyContent: "right" }}>
             <PillButton $outline onClick={() => window.location.reload()}>
                 clear 🧽
