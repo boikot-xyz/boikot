@@ -191,3 +191,18 @@ export function DeleteableBadgeList({ items, deleteAtIndex = () => {} }) {
     </FlexRow>;
 }
 
+export function Page({ children }) {
+    return <CentererOuter style={{ minHeight: "100vh" }}>
+        <Stack style={{
+            padding: "2rem",
+            maxWidth: "50rem",
+            width: "100%",
+            minHeight: "100vh",
+            gridTemplateRows: "min-content 1fr min-content",
+        }}>
+            <Header />
+            <div> { children } </div>
+        </Stack>
+    </CentererOuter>;
+}
+

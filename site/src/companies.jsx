@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Link, useLoaderData } from "react-router-dom";
 import slugify from "slugify";
 
-import { Centerer, Header, Row, Stack, ForceWrap } from "./components.jsx";
+import { Page, Row, Stack, ForceWrap } from "./components.jsx";
 import boikot from "../../boikot.json";
 
 
@@ -42,10 +42,9 @@ export function Company({entry}) {
 
 export function CompanyDetail() {
     const { key } = useLoaderData();
-    return <Centerer>
-        <Header />
+    return <Page>
         <Company entry={ boikot.companies[key] } />
-    </Centerer>;
+    </Page>;
 }
 
 
@@ -78,8 +77,7 @@ export function CompanyHeader({ entry, link = false }) {
 
 
 export function Companies() {
-    return <Centerer>
-        <Header />
+    return <Page>
         <Stack>
             <h1> Companies </h1>
             <Link to="/companies/edit"> ➕ add a company </Link>
@@ -87,6 +85,6 @@ export function Companies() {
                 <CompanyHeader entry={entry} link key={entry.names[0]} />
             ) }
         </Stack>
-    </Centerer>;
+    </Page>;
 }
 

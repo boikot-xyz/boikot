@@ -3,7 +3,7 @@ import styled, { css } from "styled-components";
 import slugify from "slugify";
 
 import boikot from '../../boikot.json';
-import { Centerer, DeleteableBadgeList, FlexRow, Header, Icon, PillButton, Stack, CodeBlock, copy } from "./components.jsx";
+import { CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack } from "./components.jsx";
 
 const initialState = {
     names: [],
@@ -319,14 +319,15 @@ export function Jsoner() {
 }
 
 export function CompanyEditor() {
-    return <Centerer>
-        <Header />
-        <Jsoner />
-        <p> To submit a company record, please fill out the form
-            above and copy-paste the company data into a new Issue on
-            our <a href="https://github.com/boikot-xyz/boikot/issues"
-                target="_blank" rel="noreferrer"> github repo. </a>
-        </p>
-    </Centerer>;
+    return <Page>
+        <Stack>
+            <Jsoner />
+            <p> To submit a company record, please fill out the form
+                above and copy-paste the company data into a new Issue on
+                our <a href="https://github.com/boikot-xyz/boikot/issues"
+                    target="_blank" rel="noreferrer"> github repo. </a>
+            </p>
+        </Stack>
+    </Page>;
 }
 

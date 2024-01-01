@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { useLoaderData } from "react-router-dom";
 
-import { Centerer, Header, Stack, WrappingPre } from "./components.jsx";
+import { Stack, Page, WrappingPre } from "./components.jsx";
 
 const blogFiles = [
     "4.md",
@@ -22,8 +22,7 @@ export async function loadBlogs() {
 
 export function Blogs() {
     const blogs = useLoaderData();
-    return <Centerer>
-        <Header />
+    return <Page>
         <Stack>
             <h1> blog </h1>
             { blogs.map( blog =>
@@ -31,6 +30,6 @@ export function Blogs() {
                     { blog }
                 </WrappingPre> ) }
         </Stack>
-    </Centerer>;
+    </Page>;
 }
 
