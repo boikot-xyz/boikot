@@ -15,18 +15,18 @@
 }
 
 @font-face {
-  font-family: 'Sora';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(/sora.ttf) format('truetype');
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/sora.ttf) format('truetype');
 }
 @font-face {
-  font-family: 'Sora';
-  font-style: normal;
-  font-weight: 600;
-  font-display: swap;
-  src: url(/sora-bold.ttf) format('truetype');
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(/sora-bold.ttf) format('truetype');
 }
 
 body, button, input {
