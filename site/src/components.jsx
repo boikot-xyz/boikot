@@ -202,7 +202,21 @@ export function Page({ children }) {
         }}>
             <Header />
             <div> { children } </div>
+            <Footer />
         </Stack>
     </CentererOuter>;
+}
+
+export function Footer() {
+    return <Stack style={{ marginTop: "3rem", fontSize: "0.9rem" }}>
+        <hr />
+        <FlexRow style={{ paddingLeft: "1rem", gap: "0.75rem 2rem" }}>
+            <a href="https://github.com/boikot-xyz/boikot">
+                <Icon i="github" height="1.75rem" />
+            </a>
+            <Link to="/contact-us"> contact us </Link>
+            <VersionNumber />
+        </FlexRow>
+    </Stack>;
 }
 
