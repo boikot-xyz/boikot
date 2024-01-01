@@ -2,14 +2,12 @@ import React from "react";
 import {
     createBrowserRouter,
     RouterProvider,
-    useLoaderData,
 } from "react-router-dom";
 
 import { Home } from "./home.jsx";
 import { CompanyEditor } from "./jsoner.jsx";
 import { Companies, CompanyDetail } from "./companies.jsx";
 import { Blogs, loadBlogs } from "./blog.jsx";
-import { Centerer, Header } from "./components.jsx";
 
 const router = createBrowserRouter([
     {
