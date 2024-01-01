@@ -308,7 +308,7 @@ export function Jsoner() {
             </CodeBlock>
         </Entry>
         <FlexRow style={{ justifyContent: "right" }}>
-            <PillButton $outline onClick={() => window.location.reload()}>
+            <PillButton $outline onClick={() => setState(initialState)}>
                 clear 🧽
             </PillButton>
             <PillButton onClick={() => copy(tojson(state))}>
