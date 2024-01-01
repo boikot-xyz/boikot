@@ -45,6 +45,15 @@ export const WrappingPre = styled.pre`
     word-wrap: anywhere;
 `;
 
+export const CodeBlock = styled.pre`
+    background: var(--bg-light);
+    border-radius: 0.5rem;
+    padding: 0.6rem;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    overflow-wrap: anywhere;
+`;
+
 export const ForceWrap = styled.div`
     max-width: 100%;
     overflow-wrap: break-word;
