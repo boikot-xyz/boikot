@@ -58,6 +58,15 @@ button {
     cursor: pointer;
 }
 
+hr {
+    border: none;
+    border-top: 0.05rem solid var(--fg);
+    height: 0.37rem;
+    background: transparent;
+    color: var(--fg);
+    overflow: visible;
+}
+
 a {
     color: var(--accent);
 }
