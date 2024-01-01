@@ -41,7 +41,15 @@ export const FlexRow = styled.div`
 
 export const WrappingPre = styled.pre`
     white-space: pre-wrap;
+    word-wrap: break-word;
     word-wrap: anywhere;
+`;
+
+export const ForceWrap = styled.div`
+    max-width: 100%;
+    overflow-wrap: break-word;
+    overflow-wrap: anywhere;
+    overflow: scroll;
 `;
 
 const CentererOuter = styled.div`
