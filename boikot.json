@@ -593,6 +593,59 @@
             "siteUrl": "https://aqualibradrinks.com/",
             "updatedAt": "2023-12-23T21:49:32.761Z"
         },
+        "diet-coke": {
+            "names": [
+                "Diet Coke",
+                "Coca-Cola Light"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": 10,
+            "ownedBy": [
+                "coca-cola"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Diet_Coke_logo.svg",
+            "siteUrl": "",
+            "updatedAt": "2024-01-01T20:11:10.557Z"
+        },
+        "dr-pepper": {
+            "names": [
+                "Dr Pepper",
+                "Dr. Pepper",
+                "Keurig Dr Pepper",
+                "KDP"
+            ],
+            "comment": "Dr Pepper is an American beverage company that produces hundreds of thousands of tonnes of plastic packaging per year [1] and is a major consumer of water [1]. Dr Pepper is distributed by the Coca-Cola company in the UK [2]. ",
+            "sources": {
+                "1": "https://www.keurigdrpepper.com/content/dam/keurig-brand-sites/kdp/files/KDP-CR-Report-2022.pdf.html",
+                "2": "https://www.coca-cola.com/gb/en/brands/dr-pepper"
+            },
+            "tags": [
+                "soda",
+                "beverages",
+                "waterusage",
+                "singleuseplastic"
+            ],
+            "score": 30,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/19/Dr_Pepper_modern.svg",
+            "siteUrl": "https://drpepper.com/en",
+            "updatedAt": "2024-01-01T20:19:02.959Z"
+        },
+        "snapple": {
+            "names": [
+                "Snapple"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": 30,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Snapple_logo_%282020%29.svg",
+            "siteUrl": "",
+            "updatedAt": "2024-01-01T20:41:16.271Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
