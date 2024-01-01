@@ -2,10 +2,10 @@
   "name": "site",
   "version": "0.1.0",
   "description": "boikot.xyz",
-  "main": "app.jsx",
+  "main": "src/app.jsx",
   "scripts": {
-    "start": "esbuild app.jsx --bundle --loader:.md=text --servedir=www/ --outdir=www/build --serve-fallback=www/index.html --define:process.env.VERSION=\\\"$( git rev-parse HEAD | head -c 6 )\\\"",
-    "build": "esbuild app.jsx --bundle --loader:.md=text --minify --outdir=www/build --define:process.env.VERSION=\\\"$( git rev-parse HEAD | head -c 6 )\\\""
+    "start": "esbuild src/app.jsx --bundle --loader:.md=text --servedir=www/ --outdir=www/build --serve-fallback=www/index.html --define:process.env.VERSION=\\\"$( git rev-parse HEAD | head -c 6 )\\\"",
+    "build": "esbuild src/app.jsx --bundle --loader:.md=text --minify --outdir=www/build --define:process.env.VERSION=\\\"$( git rev-parse HEAD | head -c 6 )\\\""
   },
   "author": "boikot",
   "license": "gpl v3",
