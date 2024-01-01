@@ -592,6 +592,40 @@
             "logoUrl": "https://aqualibradrinks.com/media/ad5fob5y/logo-fan_on_white-back.png",
             "siteUrl": "https://aqualibradrinks.com/",
             "updatedAt": "2023-12-23T21:49:32.761Z"
+        },
+        "bbc": {
+            "names": [
+                "BBC",
+                "British Broadcasting Corporation",
+                "BBC News"
+            ],
+            "comment": "The BBC is a British public broadcaster funded by a government tax [1], which has been accused of left-wing [2] and right-wing [3] bias. The BBC represents one of the largest news gathering operations in the world [4] and offers free ducational resources to teachers and children [5][6], but particular criticism has been directed to its treatment of LGBT+ communities [7][8], the Isreal-Palestine conflict [9], and racism [10].",
+            "sources": {
+                "1": "https://web.archive.org/web/20071117105208/http://www.telegraph.co.uk/arts/main.jhtml?xml=%2Farts%2F2006%2F09%2F22%2Fftlicence22.xml",
+                "2": "https://web.archive.org/web/20170807023223/https://www.theguardian.com/media/2012/oct/10/bbc-review-liberal-bias",
+                "3": "https://web.archive.org/web/20181209123856/https://www.theguardian.com/commentisfree/2018/apr/11/bbc-andrew-neil-media-politics",
+                "4": "https://www.bbc.co.uk/news/19888761",
+                "5": "https://archive.is/IbwWv",
+                "6": "https://www.bbc.co.uk/bitesize/articles/zmjdhbk",
+                "7": "https://www.pinknews.co.uk/2020/06/22/bbc-news-institutional-transphobia-kamal-ahmed-crispin-blunt-trans-media-watch/",
+                "8": "https://mermaidsuk.org.uk/news/lgbtq-complaint-to-the-bbc/",
+                "9": "https://web.archive.org/web/20231124032059/https://www.aljazeera.com/news/2023/11/23/as-israel-pounds-gaza-bbc-journalists-accuse-broadcaster-of-bias",
+                "10": "https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/news/2020/07/31/bbc-receives-complaints-white-reporter-uses-n-word-air/"
+            },
+            "tags": [
+                "news",
+                "media",
+                "uk",
+                "tv",
+                "radio",
+                "bias",
+                "antilgbt"
+            ],
+            "score": 75,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/BBC_Logo_2021.svg",
+            "siteUrl": "https://bbc.com/",
+            "updatedAt": "2024-01-01T10:47:27.404Z"
         }
     }
 }
