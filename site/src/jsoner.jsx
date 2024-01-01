@@ -319,6 +319,11 @@ export function CompanyEditor() {
     return <Centerer>
         <Header />
         <Jsoner />
+        <p> To submit a company record, please fill out the form
+            above and copy-paste the company data into a new Issue on
+            our <a href="https://github.com/boikot-xyz/boikot/issues"
+                target="_blank" rel="noreferrer"> github repo. </a>
+        </p>
     </Centerer>;
 }
 
