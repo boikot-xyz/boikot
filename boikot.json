@@ -593,6 +593,21 @@
             "siteUrl": "https://aqualibradrinks.com/",
             "updatedAt": "2023-12-23T21:49:32.761Z"
         },
+        "tango": {
+            "names": [
+                "Tango"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": 50,
+            "ownedBy": [
+                "britvic"
+            ],
+            "logoUrl": "https://tango.co.uk/media/jkkjey2n/tango_logo.png",
+            "siteUrl": "https://tango.co.uk/",
+            "updatedAt": "2024-01-01T20:44:53.157Z"
+        },
         "diet-coke": {
             "names": [
                 "Diet Coke",
@@ -645,6 +660,29 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Snapple_logo_%282020%29.svg",
             "siteUrl": "",
             "updatedAt": "2024-01-01T20:41:16.271Z"
+        },
+        "red-bull": {
+            "names": [
+                "Red Bull",
+                "Red Bull GmbH"
+            ],
+            "comment": "Red Bull is an Austrian energy drink brand, which can be harmful if consumed in excess [1][2]. Red Bull has created opportunities and platforms for artists and creatives [3][4], and has supported sustainability initiatives despite being a major sponsor of Formula 1 [5].",
+            "sources": {
+                "1": "https://doi.org/10.7759%2Fcureus.1322",
+                "2": "https://www.frontiersin.org/articles/10.3389/fpubh.2014.00134/full",
+                "3": "https://www.forbes.com/sites/afdhelaziz/2019/05/01/the-power-of-purpose-how-red-bull-is-giving-social-entrepreneurs-wings/",
+                "4": "https://web.archive.org/web/20210920212838/https://www.metrotimes.com/detroit/red-bull-house-of-art/Content?oid=2145533",
+                "5": "https://www.redbullracing.com/int-en/tackling-global-sustainability-with-global-standard"
+            },
+            "tags": [
+                "soda",
+                "beverages"
+            ],
+            "score": 50,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f5/RedBullEnergyDrink.svg",
+            "siteUrl": "https://www.redbull.com/int-en/energydrink/red-bull-energy-drink",
+            "updatedAt": "2024-01-01T20:44:59.786Z"
         },
         "bbc": {
             "names": [
