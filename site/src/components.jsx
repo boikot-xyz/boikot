@@ -142,7 +142,10 @@ function Menu({ open, close }) {
 
 export function IconButton( props ) {
     return <button onClick={ props.onClick }>
-        <Icon {...{...props, onClick: undefined}} />
+        <Row>
+            <Icon {...{...props, onClick: undefined, children: undefined}} />
+            { props.children }
+        </Row>
     </button>;
 }
 
