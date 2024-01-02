@@ -198,7 +198,7 @@ export function DeleteableBadgeList({ items, deleteAtIndex = () => {} }) {
 export function Page({ children }) {
     return <CentererOuter style={{ minHeight: "100vh" }}>
         <Stack style={{
-            padding: "2rem",
+            padding: "2rem 2rem 1rem 2rem",
             maxWidth: "50rem",
             width: "100%",
             minHeight: "100vh",
