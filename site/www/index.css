@@ -31,6 +31,7 @@
 
 body, button, input {
     font-family: 'Sora', sans-serif;
+    color: var(--fg);
 }
 
 
