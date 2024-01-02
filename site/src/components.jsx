@@ -136,6 +136,7 @@ function Menu({ open, close }) {
             <MenuLink to="/companies"> companies </MenuLink>
             <MenuLink to="/companies/edit"> add a company </MenuLink>
             <MenuLink to="/blog"> blog </MenuLink>
+            <MenuLink to="/contact-us"> contact us </MenuLink>
         </Centerer>
     </ScreenFiller>;
 }
