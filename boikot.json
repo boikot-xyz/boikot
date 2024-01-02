@@ -624,6 +624,24 @@
             "siteUrl": "",
             "updatedAt": "2024-01-01T20:11:10.557Z"
         },
+        "fanta": {
+            "names": [
+                "Fanta"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "soda",
+                "beverage"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "coca-cola"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fanta_2023.svg",
+            "siteUrl": "https://www.fanta.com/",
+            "updatedAt": "2024-01-02T18:49:28.296Z"
+        },
         "dr-pepper": {
             "names": [
                 "Dr Pepper",
@@ -683,6 +701,48 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f5/RedBullEnergyDrink.svg",
             "siteUrl": "https://www.redbull.com/int-en/energydrink/red-bull-energy-drink",
             "updatedAt": "2024-01-01T20:44:59.786Z"
+        },
+        "lipton": {
+            "names": [
+                "Lipton",
+                "Lipton Ice Tea",
+                "Pepsi Lipton International"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "beverages",
+                "icetea"
+            ],
+            "score": null,
+            "ownedBy": [
+                "pepsico",
+                "unilever"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/LIPTON_PRIMARY_RGB_BMT.png/300px-LIPTON_PRIMARY_RGB_BMT.png",
+            "siteUrl": "https://www.lipton.com/us/en/",
+            "updatedAt": "2024-01-02T19:08:02.820Z"
+        },
+        "irn-bru": {
+            "names": [
+                "Irn-Bru",
+                "IrnBru",
+                "Irn Bru",
+                "Iron Brew"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "soda",
+                "beverage"
+            ],
+            "score": null,
+            "ownedBy": [
+                "a.g.-barr"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/9d/Irn-Bru_logo.png",
+            "siteUrl": "https://irn-bru.co.uk/",
+            "updatedAt": "2024-01-02T19:17:01.423Z"
         },
         "bbc": {
             "names": [
