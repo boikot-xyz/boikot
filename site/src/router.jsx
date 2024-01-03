@@ -8,6 +8,7 @@ import { Home } from "./home.jsx";
 import { ContactUs } from "./contact-us.jsx";
 import { CompanyEditor } from "./jsoner.jsx";
 import { Companies, CompanyDetail } from "./companies.jsx";
+import { Search } from "./search.jsx";
 import { Blogs, loadBlogs } from "./blog.jsx";
 
 const router = createBrowserRouter([
@@ -27,6 +28,10 @@ const router = createBrowserRouter([
         path:  "/companies/:key",
         element: <CompanyDetail />,
         loader: ({ params }) => params,
+    },
+    {
+        path:  "/search",
+        element: <Search />,
     },
     {
         path:  "/blog",
