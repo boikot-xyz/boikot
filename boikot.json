@@ -744,6 +744,33 @@
             "siteUrl": "https://irn-bru.co.uk/",
             "updatedAt": "2024-01-02T19:17:01.423Z"
         },
+        "monster-energy": {
+            "names": [
+                "Monster Energy",
+                "Monster Beverage",
+                "Monster Beverage Corporation",
+                "MNST",
+                "Monster"
+            ],
+            "comment": "Monster Energy is an American energy drinks manufacturer that has been accused of cultivating an abusive and discriminatory work environment, involving allegations of sexual harassment, bullying, and retaliation [1][2]. Their drinks may pose health risks, potentially masking alcohol’s effects and contributing to cardiac and psychiatric issues [3][4][5].",
+            "sources": {
+                "1": "https://www.huffpost.com/entry/monster-energy-lawsuits_n_5a6280c1e4b002283002ca27",
+                "2": "https://www.huffpost.com/entry/monster-energy-brent-hamilton-out_n_5cd9c3a9e4b0615b08178297",
+                "3": "http://www.racgp.org.au/download/documents/AFP/2011/March/201103pennay.pdf",
+                "4": "https://doi.org/10.1016%2Fj.cjca.2014.12.019",
+                "5": "https://doi.org/10.1016%2Fj.lpm.2014.07.029"
+            },
+            "tags": [
+                "soda",
+                "energydrinks",
+                "beverages"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e2/Monster_Beverage_logo.png",
+            "siteUrl": "https://www.monsterenergy.com/en-gb/",
+            "updatedAt": "2024-01-03T19:32:45.718Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
