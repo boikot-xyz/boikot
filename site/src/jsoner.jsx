@@ -112,7 +112,6 @@ const Entry = styled.div`
     display: grid;
     gap: .5rem;
     input, textarea {
-        padding: 0.6rem;
         font-size: .9rem;
         ${ props => css`border-color: ${
             props.$valid && "var(--success)"
