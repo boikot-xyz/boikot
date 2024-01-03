@@ -76,9 +76,11 @@ export function Companies() {
         <Stack>
             <h1> Companies </h1>
             <Link to="/companies/edit"> ➕ add a company </Link>
-            { Object.values(boikot.companies).map( entry =>
-                <CompanyHeader entry={entry} link key={entry.names[0]} />
-            ) }
+            { Object.values(boikot.companies)
+                .filter( entry => !!entry.comment )
+                .map( entry =>
+                    <CompanyHeader entry={entry} link key={entry.names[0]} />
+                ) }
         </Stack>
     </Page>;
 }
