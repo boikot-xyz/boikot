@@ -49,6 +49,7 @@ export function CompanyDetail() {
 
 
 export function CompanyHeader({ entry, link = false }) {
+    const LinkOrFrag = link ? Link : React.Fragment;
     return <Row>
         { entry.logoUrl && <img
             src={entry.logoUrl}
@@ -59,16 +60,10 @@ export function CompanyHeader({ entry, link = false }) {
                 background: "white",
                 borderRadius: "0.5rem",
                 objectFit: "contain" }}/> }
-        { link
-            ? <Link to={
-                `/companies/${slugify(entry.names[0]).toLowerCase()}`
-            }>
-                <h3>{entry.names[0]}</h3>
-            </Link>
-            : <h3>{entry.names[0]}</h3>
-        }
+        <LinkOrFrag to={ `/companies/${slugify(entry.names[0]).toLowerCase()}` }>
+            <h3>{entry.names[0]}</h3>
+        </LinkOrFrag>
         <h3 style={{
-            paddingTop: "0.15rem",
             color: scoreColor(entry.score) }}>
             {entry.score}
         </h3>
