@@ -176,7 +176,7 @@ export const Badge = styled.div`
     color: white;
 `;
 
-function IconBadge({ children, i, flip, style }) {
+export function IconBadge({ children, i, flip, style }) {
     return <Badge style={style}>
         <Row gap="0.2rem">
             { flip && children }
