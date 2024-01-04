@@ -166,7 +166,7 @@ export const VersionNumber = () =>
 export const copy = text =>
     navigator.clipboard.writeText(text);
 
-export const Badge = styled.button`
+export const Badge = styled.div`
     background: var(--accent-dark);
     border-radius: 1.2rem;
     border: 0.05rem solid var(--accent);
@@ -176,11 +176,12 @@ export const Badge = styled.button`
     color: white;
 `;
 
-function DeleteableBadge({ children, onClick }) {
-    return <Badge onClick={onClick}>
+function IconBadge({ children, i, flip, style }) {
+    return <Badge style={style}>
         <Row gap="0.2rem">
-            { children }
-            <Icon i="x" style={{ height: "0.9rem" }}/>
+            { flip && children }
+            <Icon i={i} style={{ height: "0.9rem" }}/>
+            { !flip && children }
         </Row>
     </Badge>;
 }
@@ -189,9 +190,11 @@ export function DeleteableBadgeList({ items, deleteAtIndex = () => {} }) {
     if( !items?.length ) return null;
     return <FlexRow>
         { items.map( (item, i) =>
-            <DeleteableBadge onClick={() => deleteAtIndex(i)} key={item}>
-                { item }
-            </DeleteableBadge>
+            <button onClick={() => deleteAtIndex(i)} key={item}>
+                <IconBadge i="x" flip>
+                    { item }
+                </IconBadge>
+            </button>
         ) }
     </FlexRow>;
 }
