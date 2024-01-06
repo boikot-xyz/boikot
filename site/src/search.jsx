@@ -71,8 +71,7 @@ export function Search() {
         <Stack>
             <h1> Search </h1>
             <p> You can use this page to quickly run a number of
-                searches against a company name 👀 <br/>
-                this will open a few new tabs. </p>
+                searches against a company name 👀 </p>
             <input
                 placeholder="enter a company name"
                 value={ companyName }
