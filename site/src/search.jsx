@@ -38,21 +38,22 @@ function runSearches( query ) {
     window.open(searchEngines[2].makeURL("test t.est+{}"), '_blank');
 }
 
+
 function SearchTermRow({
     searches, searchTerm, toggleSearch, getSearch
 }) {
     window.searches = searches
+    const getIcon = label => getSearch(label) ? "check-circle" : "circle";
     return <Stack gap="0.4rem">
         <ForceWrap>
             <p> "{ searchTerm }" </p>
         </ForceWrap>
         <Row style={{ justifySelf: "right", gap: "0.4rem" }}>
             { searchEngines.map( searchEngine =>
-                <button onClick={toggleSearch(searchEngine)}>
-                    <IconBadge i="circle" style={{
-                        background: "transparent", borderColor: "grey",
-                        background: getSearch(searchEngine) ? "red" : "blue"
-                    }}>
+                <button onClick={toggleSearch(searchEngine.label)}>
+                    <IconBadge
+                        i={getIcon(searchEngine.label)}
+                        $inactive={!getSearch(searchEngine.label)}>
                         <p style={{ fontSize: "0.7rem" }}>
                             { searchEngine.label }
                         </p>
@@ -73,9 +74,7 @@ function SearchTerms({ searches, companyName, toggleSearch }) {
                 searches={searches}
                 searchTerm={searchTermMaker(companyName)}
                 toggleSearch={toggleSearch(searchTermMaker)}
-                getSearch={searchEngine =>
-                    searches[searchTermMaker][searchEngine] 
-                } />
+                getSearch={label => searches[searchTermMaker][label] } />
         ) }
     </Stack>;
 }
@@ -83,7 +82,7 @@ function SearchTerms({ searches, companyName, toggleSearch }) {
 const toggleSearch = setSearches => searchTermMaker => urlMaker => () =>
     setSearches( oldSearches => {
         let row = oldSearches[searchTermMaker];
-        row[urlMaker] = !oldRow[urlMaker];
+        row[urlMaker] = !row[urlMaker];
         return {
             ...oldSearches,
             searchTermMaker: row,
@@ -111,7 +110,7 @@ export function Search() {
             <SearchTerms
                 searches={searches}
                 companyName={companyName}
-                toggleSearch={toggleSearch} />
+                toggleSearch={toggleSearch(setSearches)} />
         </Stack>
     </Page>;
 }

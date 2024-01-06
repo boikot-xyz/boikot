@@ -174,10 +174,14 @@ export const Badge = styled.div`
     font-weight: 600;
     padding: 0.3rem 0.6rem;
     color: white;
+    ${ props => props.$inactive && css`
+        background: transparent;
+        border-color: grey;
+    ` }
 `;
 
-export function IconBadge({ children, i, flip, style }) {
-    return <Badge style={style}>
+export function IconBadge({ children, i, flip, ...props }) {
+    return <Badge {...props}>
         <Row gap="0.2rem">
             { flip && children }
             <Icon i={i} style={{ height: "0.9rem" }}/>
