@@ -30,35 +30,25 @@ const searchEngines = [
     },
 ];
 
-const initialState = searchTermMakers.reduce(
-    (acc, val) => ({ ...acc, [val]: {} }), {}
-);
-
-function runSearches( query ) {
-    window.open(searchEngines[2].makeURL("test t.est+{}"), '_blank');
+function runSearch( url ) {
+    window.open(url, '_blank');
 }
 
 
-function SearchTermRow({
-    searches, searchTerm, toggleSearch, getSearch
-}) {
-    window.searches = searches
-    const getIcon = label => getSearch(label) ? "check-circle" : "circle";
+function SearchTermRow({ searchTerm }) {
     return <Stack gap="0.4rem">
         <ForceWrap>
             <p> "{ searchTerm }" </p>
         </ForceWrap>
         <Row style={{ justifySelf: "right", gap: "0.4rem" }}>
             { searchEngines.map( searchEngine =>
-                <button onClick={toggleSearch(searchEngine.label)}>
-                    <IconBadge
-                        i={getIcon(searchEngine.label)}
-                        $inactive={!getSearch(searchEngine.label)}>
+                <a href={searchEngine.makeURL(searchTerm)}>
+                    <IconBadge i="search">
                         <p style={{ fontSize: "0.7rem" }}>
                             { searchEngine.label }
                         </p>
                     </IconBadge>
-                </button>
+                </a>
             ) }
         </Row>
         <hr style={{ opacity: "0.5" }} />
@@ -66,32 +56,17 @@ function SearchTermRow({
 }
 
 
-function SearchTerms({ searches, companyName, toggleSearch }) {
+function SearchTerms({ companyName }) {
     return <Stack gap="1rem">
-        <h2> Search Terms </h2>
         { searchTermMakers.map( searchTermMaker =>
             <SearchTermRow
-                searches={searches}
-                searchTerm={searchTermMaker(companyName)}
-                toggleSearch={toggleSearch(searchTermMaker)}
-                getSearch={label => searches[searchTermMaker][label] } />
+                searchTerm={searchTermMaker(companyName || "...")} />
         ) }
     </Stack>;
 }
 
-const toggleSearch = setSearches => searchTermMaker => urlMaker => () =>
-    setSearches( oldSearches => {
-        let row = oldSearches[searchTermMaker];
-        row[urlMaker] = !row[urlMaker];
-        return {
-            ...oldSearches,
-            searchTermMaker: row,
-        };
-    } );
-
 export function Search() {
     const [ companyName, setCompanyName ] = React.useState("");
-    const [ searches, setSearches ] = React.useState(initialState);
     return <Page>
         <Stack>
             <h1> Search </h1>
@@ -102,15 +77,7 @@ export function Search() {
                 placeholder="enter a company name"
                 value={ companyName }
                 onChange={ e => setCompanyName(e.target.value) } />
-            <PillButton
-                style={{ justifySelf: "right" }}
-                onClick={() => runSearches(companyName)}>
-                search!
-            </PillButton>
-            <SearchTerms
-                searches={searches}
-                companyName={companyName}
-                toggleSearch={toggleSearch(setSearches)} />
+            <SearchTerms companyName={companyName} />
         </Stack>
     </Page>;
 }
