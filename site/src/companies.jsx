@@ -73,7 +73,8 @@ export function CompanyHeader({ entry, link = false }) {
 
 export function Companies() {
     const companies = Object.values(boikot.companies)
-        .filter( entry => !!entry.comment );
+        .filter( entry => !!entry.comment )
+        .toSorted( (a, b) => a.names[0].localeCompare(b.names[0]) );
     return <Page>
         <Stack>
             <h1> Companies </h1>
