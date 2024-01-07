@@ -72,15 +72,16 @@ export function CompanyHeader({ entry, link = false }) {
 
 
 export function Companies() {
+    const companies = Object.values(boikot.companies)
+        .filter( entry => !!entry.comment );
     return <Page>
         <Stack>
             <h1> Companies </h1>
+            <p> displaying { companies.length } records </p>
             <Link to="/companies/edit"> ➕ add a company </Link>
-            { Object.values(boikot.companies)
-                .filter( entry => !!entry.comment )
-                .map( entry =>
-                    <CompanyHeader entry={entry} link key={entry.names[0]} />
-                ) }
+            { companies.map( entry =>
+                <CompanyHeader entry={entry} link key={entry.names[0]} />
+            ) }
         </Stack>
     </Page>;
 }
