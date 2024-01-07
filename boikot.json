@@ -798,6 +798,54 @@
             "siteUrl": "https://www.lego.com/",
             "updatedAt": "2024-01-06T14:46:15.790Z"
         },
+        "sony": {
+            "names": [
+                "Sony",
+                "Sony Group Corporation",
+                "Sony Corporation",
+                "SONY"
+            ],
+            "comment": "Sony Group Corporation is a Japanese technology conglomerate that has engaged in price fixing [1], conducted surveillance on environmental activists [2], and created invasive DRM software [3]. Sony's runs a recycling program that takes back and recycles any of their products at no cost to the consumer [4].",
+            "sources": {
+                "1": "https://web.archive.org/web/20221123183738/https://www.reuters.com/article/tech-eu-video-fines-dc-idUKBFA00056020071120",
+                "2": "https://web.archive.org/web/20201024125232/https://www.motherjones.com/environment/2000/09/sonys-pr-war-activists/",
+                "3": "http://blogs.technet.com/b/markrussinovich/archive/2005/10/31/sony-rootkits-and-digital-rights-management-gone-too-far.aspx",
+                "4": "https://www.sony.com/en_us/SCA/social-responsibility/environment.html"
+            },
+            "tags": [
+                "tech",
+                "videogames",
+                "movies",
+                "electronics"
+            ],
+            "score": 50,
+            "ownedBy": [],
+            "logoUrl": "https://www.sony.com/",
+            "siteUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Sony_logo.svg",
+            "updatedAt": "2024-01-07T10:56:47.816Z"
+        },
+        "john-lewis": {
+            "names": [
+                "John Lewis",
+                "John Lewis & Partners",
+                "John Lewis Partnership plc",
+                "JLP"
+            ],
+            "comment": "John Lewis is a British retailer which violated minimum wage regulations, underpaying around 20,000 workers by approximately £941,356 between 2011 and 2018 [1].",
+            "sources": {
+                "1": "https://www.reuters.com/world/uk/uk-names-john-lewis-others-breaking-minimum-wage-law-2021-08-04/"
+            },
+            "tags": [
+                "retail",
+                "department store",
+                "supermarket"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/John_Lewis_%26_Partners_logo.svg",
+            "siteUrl": "https://www.johnlewispartnership.co.uk/",
+            "updatedAt": "2024-01-06T15:15:10.705Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
