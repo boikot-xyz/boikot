@@ -78,11 +78,11 @@ export function Companies() {
     return <Page>
         <Stack>
             <h1> Companies </h1>
-            <p> displaying { companies.length } records </p>
             <Link to="/companies/edit"> ➕ add a company </Link>
             { companies.map( entry =>
                 <CompanyHeader entry={entry} link key={entry.names[0]} />
             ) }
+            <p> { companies.length } companies </p>
         </Stack>
     </Page>;
 }
