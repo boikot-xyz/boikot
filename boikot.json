@@ -771,6 +771,33 @@
             "siteUrl": "https://www.monsterenergy.com/en-gb/",
             "updatedAt": "2024-01-03T19:32:45.718Z"
         },
+        "lego": {
+            "names": [
+                "LEGO",
+                "The LEGO Group",
+                "Lego"
+            ],
+            "comment": "The LEGO Group is a Danish toy manufacturer which is a major producer of plastic derived from crude oil [1], and has created Shell-branded [2] and gender-stereotypical [3] toys. LEGO has since produced items that promote gender equality [4] and LGBT+ rights [5], while being recognised as a beneficial toy for children's' development [6][7].",
+            "sources": {
+                "1": "https://www.wired.co.uk/article/lego-haunted-by-its-own-plastic",
+                "2": "https://www.theguardian.com/commentisfree/2014/aug/08/lego-child-play-big-business-marketing-toys-shell",
+                "3": "https://web.archive.org/web/20150925050912/http://www.independent.co.uk/life-style/health-and-families/lego-told-off-by-7yearold-girl-for-promoting-gender-stereotypes-9104571.html",
+                "4": "https://web.archive.org/web/20141127130849/http://www.bbc.co.uk/news/magazine-28660069",
+                "5": "https://web.archive.org/web/20210722043242/https://www.lego.com/en-au/page/why-i-designed-everyone-is-awesome?icmp=LP-SHCC-Standard-Project_Rainbow_CC_Block_1-PR-MT-QAXDTRW46D",
+                "6": "https://www.verywellhealth.com/lego-therapy-for-children-with-autism-4169865",
+                "7": "https://www.theguardian.com/commentisfree/2022/apr/20/why-building-playtime-is-crucial-soothing"
+            },
+            "tags": [
+                "toys",
+                "children",
+                "plastic"
+            ],
+            "score": 60,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/LEGO_logo.svg",
+            "siteUrl": "https://www.lego.com/",
+            "updatedAt": "2024-01-06T14:46:15.790Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
