@@ -744,6 +744,37 @@
             "siteUrl": "https://irn-bru.co.uk/",
             "updatedAt": "2024-01-02T19:17:01.423Z"
         },
+        "meta": {
+            "names": [
+                "Meta",
+                "Facebook",
+                "Meta Platforms, Inc.",
+                "TheFacebook, Inc.",
+                "META"
+            ],
+            "comment": "Meta is an American tech company that has fought aginst privacy legistion [1][2], shared user data without consent which was used to sway elections [3], designed software to addict children [4][5] and polarise users in idealogical echo chambers [6][7], avoided billions in tax [8][9] and conducted mass suveillance on the public [10].",
+            "sources": {
+                "1": "https://web.archive.org/web/20190302143109/https://www.theguardian.com/technology/2019/mar/02/facebook-global-lobbying-campaign-against-data-privacy-laws-investment",
+                "2": "https://www.politico.eu/article/inside-story-facebook-fight-against-european-regulation",
+                "3": "https://web.archive.org/web/20210129123154/https://www.businessinsider.com/cambridge-analytica-whistleblower-christopher-wylie-facebook-data-2019-10",
+                "4": "https://web.archive.org/web/20231127192915/https://www.theguardian.com/technology/2023/nov/27/meta-instagram-facebook-kids-addicted-lawsuit",
+                "5": "https://web.archive.org/web/20230629034801/https://www.theguardian.com/technology/2021/oct/05/facebook-harms-children-damaging-democracy-claims-whistleblower",
+                "6": "https://doi.org/10.1111%2Fnpqu.11519",
+                "7": "https://doi.org/10.1111%2Fnpqu.11519",
+                "8": "https://www.theguardian.com/technology/2012/dec/23/facebook-tax-profits-outside-us",
+                "9": "https://www.bbc.co.uk/news/business-34504474",
+                "10": "https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data"
+            },
+            "tags": [
+                "tech",
+                "socialmedia"
+            ],
+            "score": 10,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg",
+            "siteUrl": "https://about.meta.com/",
+            "updatedAt": "2024-01-07T20:47:32.197Z"
+        },
         "monster-energy": {
             "names": [
                 "Monster Energy",
