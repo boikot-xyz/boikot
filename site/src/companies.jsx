@@ -13,24 +13,45 @@ const scoreColor = x =>
 const ownerName = ownerKey =>
     boikot.companies[ownerKey]?.names[0] || ownerKey;
 
+const Comment = styled.p`
+    lineHeight: 1.5rem;
+    sup {
+        color: var(--accent);
+    }
+`;
+
+function renderReferences({ comment, sources }) {
+    const chunks = comment.split(/(?=\[\d+\])|(?<=\[\d+\])/);
+    return chunks.map( chunk =>
+        chunk.match(/\[\d+\]/)
+            ? <sup><a href={sources[chunk.match(/\d+/)]}
+                target="_blank" rel="noreferrer" rel="noopener">
+                { chunk }
+            </a></sup>
+            : <span>{ chunk }</span>
+    );
+}
+
 export function Company({entry}) {
     if( !entry.names ) return null;
 
     return <Stack>
         <CompanyHeader entry={entry} />
-        { entry.comment && <p style={{ lineHeight: "1.5rem" }}>
-            { entry.comment }
-        </p> }
+        { entry.comment && <Comment>
+            { renderReferences(entry) }
+        </Comment> }
         { !!entry.ownedBy.length && <p>
             { entry.names[0] } is owned by{" "}
-            <Link to={`/companies/${slugify(entry.ownedBy[0]).toLowerCase()}`}>
+            <Link to={`
+                /companies/${slugify(entry.ownedBy[0]).toLowerCase()}`
+            }>
                 { ownerName(entry.ownedBy[0]) }
             </Link>.
         </p> }
         { !!Object.keys(entry.sources).length && <h3> Sources </h3> }
         { Object.entries(entry.sources).map( ([ key, url ]) =>
             <ForceWrap key={key}> <p>
-                [{key}] <a href={url}>
+                <strong>[{key}]</strong> <a href={url}>
                     {url}
                 </a>
             </p> </ForceWrap>
