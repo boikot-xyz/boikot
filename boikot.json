@@ -744,6 +744,78 @@
             "siteUrl": "https://irn-bru.co.uk/",
             "updatedAt": "2024-01-02T19:17:01.423Z"
         },
+        "nationwide": {
+            "names": [
+                "Nationwide",
+                "Nationwide Building Society"
+            ],
+            "comment": "Nationwide is a British building society owned by its members [1], who voted to contribute 1% of profits to charity [4]. Nationwide does not invest in fossil fuels [2], although hundreds of its employees have faced redundancy [3].",
+            "sources": {
+                "1": "https://www.nationwide.co.uk/-/assets/nationwidecouk/documents/current-accounts/resources/p4055-current-account-important-information.pdf?rev=5035ecd6acdb468aa67fe5b7e473bbe5#:~:text=Nationwide%20Building%20Society%20is%20a,member%20of%20Nationwide%20Building%20Society",
+                "2": "https://www.nationwide.co.uk/about-us/responsible-business/reducing-environmental-harm/",
+                "3": "https://www.bbc.co.uk/news/uk-england-wiltshire-64567941",
+                "4": "https://www.nationwide.co.uk/about-us/building-a-better-society/"
+            },
+            "tags": [
+                "bank",
+                "buildingsociety"
+            ],
+            "score": 80,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2f/Nationwide_Building_Society_logo_2023.svg",
+            "siteUrl": "https://www.nationwide.co.uk/",
+            "updatedAt": "2024-01-08T15:23:39.205Z"
+        },
+        "natwest": {
+            "names": [
+                "NatWest",
+                "Natwest",
+                "National Westminster Bank",
+                "NatWest Holdings Limited",
+                "NatWest Holdings",
+                "NatWest Group",
+                "NatWest Group plc"
+            ],
+            "comment": "NatWest is a British bank that has invested $2.03 billion in six companies that manufacture nuclear weapons [1] and billions more in fossil fuels [2], has been fined for anti-money laundering failures [3], and executives have been insensitive to the cost of living crisis [4]. NatWest's energy investments comprise 85% sustainable energy [5] and the bank is halting financing for oil and gas ventures in 2026 [6].",
+            "sources": {
+                "1": "https://www.thenational.scot/news/19257311.revealed-billions-invested-big-business-nuclear-arms/",
+                "2": "https://www.theguardian.com/global/2023/feb/09/natwest-to-end-new-business-loans-for-oil-and-gas-extraction",
+                "3": "https://www.fca.org.uk/news/press-releases/natwest-fined-264.8million-anti-money-laundering-failures",
+                "4": "https://www.dailymail.co.uk/news/article-12930165/NatWest-Howard-Davies-banker-difficult-house-homes-property-ladder.html",
+                "5": "https://bank.green/banks/natwest",
+                "6": "https://www.theguardian.com/global/2023/feb/09/natwest-to-end-new-business-loans-for-oil-and-gas-extraction"
+            },
+            "tags": [
+                "bank"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/de/Natwest_logo.svg",
+            "siteUrl": "https://www.natwest.com/",
+            "updatedAt": "2024-01-08T15:23:39.205Z"
+        },
+        "netflix": {
+            "names": [
+                "Netflix",
+                "Netflix, Inc.",
+                "NFLX"
+            ],
+            "comment": "Netflix is an American tech and entertainment company. Netflix has been accused of illegally retaining and using consumer data [1].",
+            "sources": {
+                "1": "https://www.bizjournals.com/sanjose/news/2013/03/25/netflix-settles-9-million-privacy.html"
+            },
+            "tags": [
+                "tech",
+                "entertainment",
+                "tv",
+                "movies"
+            ],
+            "score": 50,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+            "siteUrl": "https://www.netflix.com/",
+            "updatedAt": "2024-01-08T15:23:39.205Z"
+        },
         "meta": {
             "names": [
                 "Meta",
