@@ -18,9 +18,9 @@ export function Company({entry}) {
 
     return <Stack>
         <CompanyHeader entry={entry} />
-        <p style={{ lineHeight: "1.5rem" }}>
+        { entry.comment && <p style={{ lineHeight: "1.5rem" }}>
             { entry.comment }
-        </p>
+        </p> }
         { !!entry.ownedBy.length && <p>
             { entry.names[0] } is owned by{" "}
             <Link to={`/companies/${slugify(entry.ownedBy[0]).toLowerCase()}`}>
