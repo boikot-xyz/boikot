@@ -1043,6 +1043,27 @@
             "siteUrl": "https://www.johnlewispartnership.co.uk/",
             "updatedAt": "2024-01-06T15:15:10.705Z"
         },
+        "bosch": {
+            "names": [
+                "Bosch",
+                "Robert Bosch GmbH",
+                "BOSCH"
+            ],
+            "comment": "Bosch was fined €90 million by prosecutors for its role in the \"Dieselgate\" emissions cheating scandal, having delivered around 17 million devices containing illegal software, resulting in cars emitting more nitrogen oxides than allowed under regulations [1]. The Robert Bosch Stiftung is a charitable foundation established in 1964 by the Bosch family to promote a just and sustainable future through funding initiatives in health, education, global issues, and interdisciplinary exchange, with a focus on addressing social challenges and promoting a fair and high-performing education system [2].",
+            "sources": {
+                "1": "https://www.dw.com/en/bosch-pays-90-million-euro-fine-over-diesel-scandal/a-48843405",
+                "2": "https://www.bosch-stiftung.de/en/about-robert-bosch-stiftung"
+            },
+            "tags": [
+                "engineering",
+                "tech"
+            ],
+            "score": 50,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg",
+            "siteUrl": "https://www.bosch.com/",
+            "updatedAt": "2024-01-17T19:39:48.430Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
