@@ -46,8 +46,7 @@ async function scrape( url ) {
     return text;
 }
 
-async function summarise( ollamaEndpoint, url ) {
-    const text = await scrape(url);
+async function askLlama( ollamaEndpoint, prompt ) {
     const ollamaResponse = await fetch( ollamaEndpoint, {
         method: "POST",
         headers: {
@@ -55,12 +54,31 @@ async function summarise( ollamaEndpoint, url ) {
         },
         body: JSON.stringify({
             model: "llama2",
-            prompt: `Plase summarise this text:\n\n${text}`,
-            stream: false
+            stream: false,
+            prompt: prompt,
         })
     });
-    const summary = ( await ollamaResponse.json() ).response;
+    return ( await ollamaResponse.json() ).response;
+}
+
+const summaryPrompt = text =>
+    `Here is some text:\n\n${text}\n\nPlease summarise that text in one succinct sentence.`;
+
+async function summarise( ollamaEndpoint, url ) {
+    const text = await scrape(url);
+    const summary = await askLlama( ollamaEndpoint, summaryPrompt(text) );
     return { url, summary, text };
+}
+
+const commentPrompt = text =>
+    `Here is some text:\n\n${text}\n\nPlease summarise that text in two sentences, making sure to keep the reference markers (eg. [1]).`;
+
+async function getComment( ollamaEndpoint, summaries ) {
+    const text = summaries.map(
+        (summary, i) => `${summary.summary.replace(/\.$/, '')} [${i+1}].`
+    ).join(" ");
+    //const comment = await askLlama( ollamaEndpoint, commentPrompt(text) );
+    return text;
 }
 
 async function main() {
@@ -76,8 +94,9 @@ async function main() {
     const summaries = await Promise.all( urls.map(
         url => summarise( ollamaEndpoint, url )
     ) );
+    const comment = await getComment( ollamaEndpoint, summaries );
 
-    console.log(summaries);
+    console.log(comment);
 }
 
 main();
