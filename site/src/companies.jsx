@@ -25,7 +25,7 @@ function renderReferences({ comment, sources }) {
     return chunks.map( chunk =>
         chunk.match(/\[\d+\]/)
             ? <sup><a href={sources[chunk.match(/\d+/)]}
-                target="_blank" rel="noreferrer" rel="noopener">
+                target="_blank" rel="noreferrer noopener">
                 { chunk }
             </a></sup>
             : <span>{ chunk }</span>
