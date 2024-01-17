@@ -31,7 +31,7 @@ async function scrape( url ) {
 }
 
 async function main() {
-    console.log("enter urls:\n");
+    console.log("boikot assemble 🧩\nenter urls:\n");
 
     const urls = [];
     while( true ) {
