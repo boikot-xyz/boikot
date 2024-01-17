@@ -4,7 +4,10 @@ const readline = require('readline');
 const { JSDOM } = require("jsdom");
 
 
-async function getUrl() {
+const DEFAULT_OLLAMA_ENDPOINT = "http://localhost:11434/api/generate";
+
+
+async function getInput() {
     const rl = readline.createInterface({
         input: process.stdin,
         output: process.stdout,
@@ -14,6 +17,19 @@ async function getUrl() {
         rl.close();
         resolve(ans);
     }));
+}
+
+async function getUrls() {
+
+    console.log("enter article URLs, blank to finish:");
+    const urls = [];
+    while( true ) {
+        const url = await getInput();
+        if( url ) urls.push(url);
+        else break;
+    }
+
+    return urls;
 }
 
 async function scrape( url ) {
@@ -27,22 +43,41 @@ async function scrape( url ) {
         paragraphs = [...document.querySelectorAll("p")];
 
     const text = paragraphs.map(p => p.textContent.trim()).join(" ");
-    return { text };
+    return text;
+}
+
+async function summarise( ollamaEndpoint, url ) {
+    const text = await scrape(url);
+    const ollamaResponse = await fetch( ollamaEndpoint, {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+            model: "llama2",
+            prompt: `Plase summarise this text:\n\n${text}`,
+            stream: false
+        })
+    });
+    const summary = ( await ollamaResponse.json() ).response;
+    return { url, summary, text };
 }
 
 async function main() {
     console.log("boikot assemble 🧩\nenter urls:\n");
 
-    const urls = [];
-    while( true ) {
-        const url = await getUrl();
-        if( url ) urls.push(url);
-        else break;
-    }
+    console.log(
+        `enter ollama endpoint [ blank for ${DEFAULT_OLLAMA_ENDPOINT} ]:`
+    );
+    const ollamaEndpoint = await getInput() || DEFAULT_OLLAMA_ENDPOINT;
+    console.log(`using ${ollamaEndpoint} as ollama endpoint\n`);
 
-    const scrapes = urls.map( scrape );
-    const texts = await Promise.all(scrapes);
-    console.log(texts);
+    const urls = await getUrls();
+    const summaries = await Promise.all( urls.map(
+        url => summarise( ollamaEndpoint, url )
+    ) );
+
+    console.log(summaries);
 }
 
 main();
