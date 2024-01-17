@@ -208,7 +208,6 @@ export function Jsoner() {
     };
 
     return <Stack onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
-        <h1> Company Editor </h1>
         <Entry $valid={state.names.length > 0}>
             names & stock ticker
             <DeleteableBadgeList
@@ -320,12 +319,13 @@ export function Jsoner() {
 export function CompanyEditor() {
     return <Page>
         <Stack>
-            <Jsoner />
+            <h1> Company Editor </h1>
             <p> To submit a company record, please fill out the form
-                above and copy-paste the company data into a new Issue on
+                below and copy-paste the company data into a new Issue on
                 our <a href="https://github.com/boikot-xyz/boikot/issues"
                     target="_blank" rel="noreferrer"> github repo. </a>
             </p>
+            <Jsoner />
         </Stack>
     </Page>;
 }
