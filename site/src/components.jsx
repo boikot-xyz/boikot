@@ -130,6 +130,7 @@ function Menu({ open, close }) {
         backdropFilter: "blur(.4rem)",
         WebkitBackdropFilter: "blur(.4rem)",
         background: "var(--bg-transparent)",
+        zIndex: 1,
     }}>
         <Centerer>
             <Row style={{
