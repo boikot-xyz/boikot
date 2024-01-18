@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Link, useParams } from "react-router-dom";
 import slugify from "slugify";
 
-import { getKey, Badge, Page, Row, Stack, ForceWrap } from "./components.jsx";
+import { getKey, Badge, IconButton, Page, Row, Stack, ForceWrap } from "./components.jsx";
 import boikot from "../../boikot.json";
 
 
@@ -113,18 +113,44 @@ export function CompanyHeader({ entry, link = false }) {
 }
 
 
+function SearchBar({ value, setValue }) {
+    return <div style={{
+        width: "100%", display: "grid", position: "relative"
+    }}>
+        <input placeholder="search" value={value}
+            onChange={e => setValue(e.target.value)}
+            style={{ paddingRight: "2rem" }}/>
+        { value &&
+            <IconButton i="x" onClick={() => setValue("")}
+                style={{
+                    position: "absolute",
+                    right: ".25rem",
+                    top: ".35rem",
+                    height: "1.6rem"
+                }}
+            />
+        }
+    </div>;
+}
+
+
 export function Companies() {
+    const [ search, setSearch ] = React.useState("");
     const companies = Object.values(boikot.companies)
         .filter( entry => !!entry.comment )
+        .filter( entry =>
+            entry.names.join('').toLowerCase()
+            .includes(search.toLowerCase()) )
         .toSorted( (a, b) => a.names[0].localeCompare(b.names[0]) );
     return <Page>
         <Stack>
             <h1> Companies </h1>
-            <Link to="/companies/edit"> ➕ add a company </Link>
+            <SearchBar value={search} setValue={setSearch} />
             { companies.map( entry =>
                 <CompanyHeader entry={entry} link key={entry.names[0]} />
             ) }
             <p> { companies.length } companies </p>
+            <Link to="/companies/edit"> ➕ add a company </Link>
         </Stack>
     </Page>;
 }
