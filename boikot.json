@@ -1043,6 +1043,29 @@
             "siteUrl": "https://www.johnlewispartnership.co.uk/",
             "updatedAt": "2024-01-06T15:15:10.705Z"
         },
+        "dell": {
+            "names": [
+                "Dell",
+                "Dell Inc.",
+                "DELL",
+                "Dell Computer Corporation",
+                "Dell Technologies, Inc.",
+                "Dell Technologies"
+            ],
+            "comment": "Dell offers convenient trade-in and recycling solutions to help protect the environment by reusing precious materials to make new products [1]. Journalists investigating Dell have uncovered evidence of technical flaws and unethical business practices, including the use of low-quality components and deceptive sales tactics [2].",
+            "sources": {
+                "1": "https://web.archive.org/web/20230425034626/https://www.dell.com/en-us/dt/corporate/social-impact/advancing-sustainability/how-to-recycle.htm#/",
+                "2": "https://www.fastcompany.com/1665003/dell-lawsuit-highlights-broken-pcs-dirty-business-dealings"
+            },
+            "tags": [
+                "tech"
+            ],
+            "score": 55,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Dell_logo_2016.svg",
+            "siteUrl": "https://www.dell.com/",
+            "updatedAt": "2024-01-17T23:57:50.055Z"
+        },
         "bosch": {
             "names": [
                 "Bosch",
