@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Link, useParams } from "react-router-dom";
 import slugify from "slugify";
 
-import { Page, Row, Stack, ForceWrap } from "./components.jsx";
+import { getKey, Page, Row, Stack, ForceWrap } from "./components.jsx";
 import boikot from "../../boikot.json";
 
 
@@ -56,6 +56,7 @@ export function Company({entry}) {
                 </a>
             </p> </ForceWrap>
         ) }
+        <Link to={`/companies/edit/${getKey(entry)}`}> ✏️  edit this company </Link>
         <Link to="/companies"> ↩️ back to companies </Link>
     </Stack>;
 }
