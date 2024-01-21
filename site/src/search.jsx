@@ -37,7 +37,8 @@ function SearchTermRow({ searchTerm }) {
         </ForceWrap>
         <Row style={{ justifySelf: "right", gap: "0.4rem" }}>
             { searchEngines.map( searchEngine =>
-                <a href={searchEngine.makeURL(searchTerm)}>
+                <a href={searchEngine.makeURL(searchTerm)}
+                    target="_blank" rel="noreferrer noopener">
                     <IconBadge i="search">
                         <p style={{ fontSize: "0.7rem" }}>
                             { searchEngine.label }
