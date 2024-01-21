@@ -1,6 +1,13 @@
 import React from "react";
 import styled, { css } from "styled-components";
 import { Link } from "react-router-dom";
+import slugify from "slugify";
+
+export const copy = text =>
+    navigator.clipboard.writeText(text);
+
+export const getKey = entry =>
+    slugify(entry.names[0]).toLowerCase();
 
 export const PillButton = styled.button`
     background: var(--fg);
@@ -162,9 +169,6 @@ export function MenuButton() {
 
 export const VersionNumber = () =>
     <span> boikot.xyz @ { process.env.VERSION } </span>;
-
-export const copy = text =>
-    navigator.clipboard.writeText(text);
 
 export const Badge = styled.div`
     background: var(--accent-dark);
