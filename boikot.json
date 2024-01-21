@@ -1087,6 +1087,29 @@
             "siteUrl": "https://www.bosch.com/",
             "updatedAt": "2024-01-17T19:39:48.430Z"
         },
+        "lg": {
+            "names": [
+                "LG",
+                "LG Corporation",
+                "LG Group",
+                "Lucky-Goldstar",
+                "주식회사 엘지"
+            ],
+            "comment": "LG is a South Korean technology and industrial conglomerate that produces products including electronics, batteries and petrochemicals. In 2020 two fatal accidents at LG Chem facilities resulted in the deaths of thirteen people [1].",
+            "sources": {
+                "1": "https://techxplore.com/news/2020-05-lg-chairman-apologises-gas-leak.html"
+            },
+            "tags": [
+                "tech",
+                "chemicals",
+                "electronics"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/LG_logo_%282015%29.svg",
+            "siteUrl": "https://lgcorp.com/",
+            "updatedAt": "2024-01-21T20:33:02.640Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
