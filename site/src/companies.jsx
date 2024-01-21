@@ -82,7 +82,8 @@ export function CompanyHeader({ entry, link = false }) {
                 background: "white",
                 borderRadius: "0.5rem",
                 objectFit: "contain" }}/> }
-        <LinkOrFrag to={ `/companies/${slugify(entry.names[0]).toLowerCase()}` }>
+        <LinkOrFrag to={
+            `/companies/${slugify(entry.names[0]).toLowerCase()}` }>
             <h3>{entry.names[0]}</h3>
         </LinkOrFrag>
         <h3 style={{
