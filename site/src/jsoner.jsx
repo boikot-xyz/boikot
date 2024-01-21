@@ -1,6 +1,7 @@
 import React from "react";
 import styled, { css } from "styled-components";
 import slugify from "slugify";
+import { useParams } from "react-router";
 
 import boikot from '../../boikot.json';
 import { CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack } from "./components.jsx";
@@ -16,6 +17,11 @@ const initialState = {
     siteUrl: "",
     updatedAt: (new Date()).toISOString(),
     jsondump: "",
+};
+
+const getInitialState = key => {
+    const keyCompanyData = boikot.companies[key] || initialState;
+    return { ...initialState, ...keyCompanyData };
 };
 
 function tojson(state) {
@@ -139,7 +145,8 @@ const insertIntoString = ( originalString, insertIndex, insertionString ) =>
 
 
 export function Jsoner() {
-    const [state, setState] = React.useState(initialState);
+    const { key } = useParams();
+    const [state, setState] = React.useState(getInitialState(key));
     const textareaRef = React.useRef(null);
     const showSources = !!Object.keys(state.sources).length;
 

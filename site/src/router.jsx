@@ -23,6 +23,11 @@ const router = createBrowserRouter([
     {
         path:  "/companies/edit",
         element: <CompanyEditor />,
+        children: [
+            {
+                path: ":key",
+            },
+        ],
     },
     {
         path:  "/companies/:key",
