@@ -27,7 +27,6 @@ const router = createBrowserRouter([
     {
         path:  "/companies/:key",
         element: <CompanyDetail />,
-        loader: ({ params }) => params,
     },
     {
         path:  "/search",

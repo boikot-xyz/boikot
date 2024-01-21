@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { Link, useLoaderData } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import slugify from "slugify";
 
 import { Page, Row, Stack, ForceWrap } from "./components.jsx";
@@ -62,7 +62,7 @@ export function Company({entry}) {
 
 
 export function CompanyDetail() {
-    const { key } = useLoaderData();
+    const { key } = useParams();
     return <Page>
         <Company entry={ boikot.companies[key] } />
     </Page>;
