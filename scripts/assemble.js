@@ -53,7 +53,7 @@ async function askLlama( ollamaEndpoint, prompt ) {
             "Content-Type": "application/json"
         },
         body: JSON.stringify({
-            model: "llama2",
+            model: "openhermes",
             stream: false,
             prompt: prompt,
         })
