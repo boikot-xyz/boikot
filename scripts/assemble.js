@@ -77,8 +77,8 @@ async function getComment( ollamaEndpoint, summaries ) {
     const text = summaries.map(
         (summary, i) => `${summary.summary.replace(/\.$/, '')} [${i+1}].`
     ).join(" ");
-    //const comment = await askLlama( ollamaEndpoint, commentPrompt(text) );
-    return text;
+    const comment = await askLlama( ollamaEndpoint, commentPrompt(text) );
+    return comment;
 }
 
 async function main() {
