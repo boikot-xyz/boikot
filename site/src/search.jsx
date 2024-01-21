@@ -30,11 +30,6 @@ const searchEngines = [
     },
 ];
 
-function runSearch( url ) {
-    window.open(url, '_blank');
-}
-
-
 function SearchTermRow({ searchTerm }) {
     return <Stack gap="0.4rem">
         <ForceWrap>
