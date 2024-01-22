@@ -88,25 +88,28 @@ function Score({ score }) {
 
 export function CompanyHeader({ entry, link = false }) {
     const LinkOrFrag = link ? Link : React.Fragment;
-    return <Row gap="0.5rem">
-        { entry.logoUrl && <img
-            src={entry.logoUrl}
-            style={{
-                width: "3rem",
-                height: "3rem",
-                padding: "0.25rem",
-                background: "white",
-                borderRadius: "0.5rem",
-                objectFit: "contain" }}/> }
-        <LinkOrFrag to={
-            `/companies/${slugify(entry.names[0]).toLowerCase()}` }>
-            <h3>{entry.names[0]}</h3>
-        </LinkOrFrag>
-        <Score {...entry} />
-        <Badge style={{ fontSize: "0.75rem" }}>
-            { entry.tags[0] }
-        </Badge>
-    </Row>;
+    const companyURL =
+        `/companies/${slugify(entry.names[0]).toLowerCase()}`;
+    return <LinkOrFrag to={companyURL}
+        style={{ textDecoration: "none" }}>
+        <Row gap="0.5rem">
+            <img src={entry.logoUrl}
+                style={{
+                    width: "3rem",
+                    height: "3rem",
+                    padding: "0.25rem",
+                    background: "white",
+                    borderRadius: "0.5rem",
+                    objectFit: "contain" }}/>
+            <LinkOrFrag to={companyURL}>
+                <h3>{entry.names[0]}</h3>
+            </LinkOrFrag>
+            <Score {...entry} />
+            <Badge style={{ fontSize: "0.75rem" }}>
+                { entry.tags[0] }
+            </Badge>
+        </Row>
+    </LinkOrFrag>;
 }
 
 
