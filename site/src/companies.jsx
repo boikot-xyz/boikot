@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Link, useParams } from "react-router-dom";
 import slugify from "slugify";
 
-import { getKey, Page, Row, Stack, ForceWrap } from "./components.jsx";
+import { getKey, Badge, Page, Row, Stack, ForceWrap } from "./components.jsx";
 import boikot from "../../boikot.json";
 
 
@@ -88,7 +88,7 @@ function Score({ score }) {
 
 export function CompanyHeader({ entry, link = false }) {
     const LinkOrFrag = link ? Link : React.Fragment;
-    return <Row>
+    return <Row gap="0.5rem">
         { entry.logoUrl && <img
             src={entry.logoUrl}
             style={{
@@ -103,6 +103,9 @@ export function CompanyHeader({ entry, link = false }) {
             <h3>{entry.names[0]}</h3>
         </LinkOrFrag>
         <Score {...entry} />
+        <Badge style={{ fontSize: "0.75rem" }}>
+            { entry.tags[0] }
+        </Badge>
     </Row>;
 }
 
