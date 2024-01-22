@@ -70,6 +70,22 @@ export function CompanyDetail() {
 }
 
 
+function Score({ score }) {
+    return <div style={{
+        width: "2rem",
+        height: "2rem",
+        padding: "0.2rem",
+        color: scoreColor(score),
+        border: `0.175rem solid ${scoreColor(score)}`,
+        borderRadius: "1.4rem",
+        display: "grid",
+        placeItems: "center",
+    }}>
+        <span style={{ fontSize: "0.8rem", fontWeight: "600" }}>{ score }</span>
+    </div>
+}
+
+
 export function CompanyHeader({ entry, link = false }) {
     const LinkOrFrag = link ? Link : React.Fragment;
     return <Row>
@@ -86,10 +102,7 @@ export function CompanyHeader({ entry, link = false }) {
             `/companies/${slugify(entry.names[0]).toLowerCase()}` }>
             <h3>{entry.names[0]}</h3>
         </LinkOrFrag>
-        <h3 style={{
-            color: scoreColor(entry.score) }}>
-            {entry.score}
-        </h3>
+        <Score {...entry} />
     </Row>;
 }
 
