@@ -1110,6 +1110,37 @@
             "siteUrl": "https://lgcorp.com/",
             "updatedAt": "2024-01-21T20:33:02.640Z"
         },
+        "unilever": {
+            "names": [
+                "Unilever",
+                "Unilever plc",
+                "ULVR",
+                "UNA",
+                "UL"
+            ],
+            "comment": "Unilever is a British food and beverage and consumer products conglomerate that has been named by Ukraine as a sponsor of war [1], continued selling Ben & Jerry's in Israeli settlements depite the brands's intent to withdraw [2], hired security that assaulted peaceful protestors [3], aggressively pushed skin lightening products [4], engaged in price fixing [5], opposed legislation against single-use plastic [6], caused deforestation [7] and sourced palm oil from a supplier that used child labour [8].",
+            "sources": {
+                "1": "https://archive.is/v01oO",
+                "2": "https://archive.is/dwpFn",
+                "3": "https://web.archive.org/web/20211206070632/https://www.ethicalconsumer.org/food-drink/unilever-still-failing-respect-its-workers-rights",
+                "4": "https://web.archive.org/web/20201103064806/https://www.buzzfeednews.com/article/meghara/unilever-sri-lankan-influencers-skin-whiteners",
+                "5": "https://web.archive.org/web/20180509100638/http://www.bbc.co.uk/news/business-13064928",
+                "6": "https://www.reuters.com/investigates/special-report/global-plastic-unilever/",
+                "7": "https://web.archive.org/web/20140508042719/http://www.greenpeace.org.uk/media/press-releases/unilever-admits-toxic-dumping-will-clean-up-but-not-come-clean",
+                "8": "https://web.archive.org/web/20180423210624/https://www.amnesty.org/en/documents/asa21/5184/2016/en/"
+            },
+            "tags": [
+                "food",
+                "beverages",
+                "pharmaceuticals",
+                "cleaning"
+            ],
+            "score": 5,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e4/Unilever.svg",
+            "siteUrl": "https://www.unilever.com/",
+            "updatedAt": "2024-01-25T07:25:34.031Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
