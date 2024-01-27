@@ -71,7 +71,7 @@ export function CompanyDetail() {
 
 
 function Score({ score }) {
-    return <div style={{
+    return <div title={`Ethical Score: ${score}/100`} style={{
         width: "2rem",
         height: "2rem",
         padding: "0.2rem",
