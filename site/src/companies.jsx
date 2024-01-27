@@ -139,7 +139,7 @@ function SearchBar({ value, setValue }) {
 export function Companies() {
     const [ search, setSearch ] = React.useState("");
     const companies = Object.values(boikot.companies)
-        .filter( entry => !!entry.comment )
+        .filter( entry => search || !!entry.comment )
         .filter( entry =>
             entry.names.join('').toLowerCase()
             .includes(search.toLowerCase()) )
