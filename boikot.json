@@ -679,6 +679,271 @@
             "siteUrl": "",
             "updatedAt": "2024-01-01T20:41:16.271Z"
         },
+        "hellman's": {
+            "names": [
+                "Hellman's",
+                "Best Foods"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://1000logos.net/wp-content/uploads/2020/09/Hellmanns-Logo-2004-1024x585.jpg",
+            "siteUrl": "http://www.hellmanns.com/",
+            "updatedAt": "2024-01-27T01:40:56.316Z"
+        },
+        "marmite": {
+            "names": [
+                "Marmite"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://i.pinimg.com/originals/aa/05/e1/aa05e1c98241eefd076b4f996ef87482.jpg",
+            "siteUrl": "https://www.marmite.co.uk/",
+            "updatedAt": "2024-01-27T01:40:56.316Z"
+        },
+        "ben-and-jerry's": {
+            "names": [
+                "Ben & Jerry's",
+                "Ben and Jerry's",
+                "Ben & Jerrys",
+                "Ben and Jerrys"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ben_%26_Jerry%27s.svg",
+            "siteUrl": "https://www.benjerry.com/",
+            "updatedAt": "2024-01-27T01:40:56.316Z"
+        },
+        "wall's": {
+            "names": [
+                "Wall's"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Wall%27s_Logo.svg",
+            "siteUrl": "https://www.wallsicecream.com/",
+            "updatedAt": "2024-01-27T01:40:56.316Z"
+        },
+        "pot-noodle": {
+            "names": [
+                "Pot Noodle"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://www.potnoodle.com/sk-eu/content/dam/brands/all_brand_positions/global_use/1724553-pot-noodle-logo.png.rendition.380.380.png",
+            "siteUrl": "https://www.potnoodle.com/",
+            "updatedAt": "2024-01-27T01:40:56.316Z"
+        },
+        "cif": {
+            "names": [
+                "Cif"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/Cif_logo.png",
+            "siteUrl": "http://www.cifclean.co.uk/",
+            "updatedAt": "2024-01-27T01:40:56.316Z"
+        },
+        "persil": {
+            "names": [
+                "Persil"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Persil-Logo.svg",
+            "siteUrl": "https://www.persil.com/",
+            "updatedAt": "2024-01-27T01:40:56.316Z"
+        },
+        "surf": {
+            "names": [
+                "Surf"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/36/Surf-logo.png",
+            "siteUrl": "https://www.unilever.co.uk/brands/home-care/surf/",
+            "updatedAt": "2024-01-27T01:40:56.316Z"
+        },
+        "lynx": {
+            "names": [
+                "LYNX",
+                "AXE"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Lynx_logo_2021.svg",
+            "siteUrl": "https://www.axe.com/",
+            "updatedAt": "2024-01-27T01:40:56.316Z"
+        },
+        "radox": {
+            "names": [
+                "Radox"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/1f/Radox_logo.png",
+            "siteUrl": "http://radox.co.uk/",
+            "updatedAt": "2024-01-27T01:40:56.316Z"
+        },
+        "dove": {
+            "names": [
+                "Dove"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Dove_logo.png",
+            "siteUrl": "https://dove.com/",
+            "updatedAt": "2024-01-27T01:40:56.316Z"
+        },
+        "toni-and-guy": {
+            "names": [
+                "Toni & Guy",
+                "Toni and Guy"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/83/Toni_and_Guy_logo.png",
+            "siteUrl": "Toni & Guy",
+            "updatedAt": "2024-01-27T12:29:37.086Z"
+        },
+        "tresemme": {
+            "names": [
+                "TRESemmé",
+                "TRESemme"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tresemme_new_logo.png",
+            "siteUrl": "https://www.tresemme.com/",
+            "updatedAt": "2024-01-27T12:29:37.086Z"
+        },
+        "glow-and-lovely": {
+            "names": [
+                "Glow & Lovely",
+                "Glow and Lovely",
+                "Fair & Lovely",
+                "Fair and Lovely"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://www.hul.co.in/content-images/8fedf5de81dce8eb469cda95ef2cc960e6bbc5ce-1080x1080.jpg",
+            "siteUrl": "https://www.hul.co.in/brands/beauty-wellbeing/glow-lovely/",
+            "updatedAt": "2024-01-27T01:40:56.316Z"
+        },
+        "calippo": {
+            "names": [
+                "Calippo"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "http://img4.wikia.nocookie.net/__cb20091229190706/logopedia/images/e/ed/Calippo_logo.png",
+            "siteUrl": "",
+            "updatedAt": "2024-01-27T01:40:56.316Z"
+        },
+        "klondike": {
+            "names": [
+                "Klondike"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d5/Klondike_logo.svg",
+            "siteUrl": "http://klondikebar.com/",
+            "updatedAt": "2024-01-27T01:40:56.316Z"
+        },
+        "magnum": {
+            "names": [
+                "Magnum"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://assets.unileversolutions.com/v1/85851330.png?im=AspectCrop=(400,140);Resize=(400,140)",
+            "siteUrl": "https://www.magnumicecream.com/",
+            "updatedAt": "2024-01-27T01:40:56.316Z"
+        },
         "red-bull": {
             "names": [
                 "Red Bull",
@@ -1167,6 +1432,51 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e4/Unilever.svg",
             "siteUrl": "https://www.unilever.com/",
             "updatedAt": "2024-01-25T07:25:34.031Z"
+        },
+        "knorr": {
+            "names": [
+                "Knorr"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": "",
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Knorr_Logo_2020.svg",
+            "siteUrl": "https://www.knorr.com/",
+            "updatedAt": "2024-01-25T22:09:42.603Z"
+        },
+        "vaseline": {
+            "names": [
+                "Vaseline"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": "",
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Vaseline_new_logo.png/640px-Vaseline_new_logo.png",
+            "siteUrl": "https://vaseline.com/",
+            "updatedAt": "2024-01-25T22:09:42.603Z"
+        },
+        "colman's": {
+            "names": [
+                "Colman's"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://www.colmans.co.uk/sk-eu/content/dam/brands/colmans/united_kingdom/1468566-colmans-logo.png.rendition.466.242.png",
+            "siteUrl": "https://www.colmans.co.uk/",
+            "updatedAt": "2024-01-27T01:34:37.705Z"
         },
         "bbc": {
             "names": [
