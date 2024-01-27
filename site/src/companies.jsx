@@ -42,8 +42,8 @@ export function Company({entry}) {
         </Comment> }
         { !!entry.ownedBy.length && <p>
             { entry.names[0] } is owned by{" "}
-            <Link to={`
-                /companies/${slugify(entry.ownedBy[0]).toLowerCase()}`
+            <Link to={
+                `/companies/${slugify(entry.ownedBy[0]).toLowerCase()}`
             }>
                 { ownerName(entry.ownedBy[0]) }
             </Link>.
