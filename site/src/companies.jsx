@@ -105,9 +105,11 @@ export function CompanyHeader({ entry, link = false }) {
                 <h3>{entry.names[0]}</h3>
             </LinkOrFrag>
             <Score {...entry} />
-            <Badge style={{ fontSize: "0.75rem" }}>
-                { entry.tags[0] }
-            </Badge>
+            { !!entry.tags.length &&
+                <Badge style={{ fontSize: "0.75rem" }}>
+                    { entry.tags[0] }
+                </Badge>
+            }
         </Row>
     </LinkOrFrag>;
 }
