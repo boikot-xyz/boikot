@@ -1110,6 +1110,33 @@
             "siteUrl": "https://lgcorp.com/",
             "updatedAt": "2024-01-21T20:33:02.640Z"
         },
+        "spotify": {
+            "names": [
+                "Spotify",
+                "Spotify Technology S.A.",
+                "SPOT",
+                "Spotify Ltd",
+                "Spotify USA Inc.",
+                "Spotify AB"
+            ],
+            "comment": "Spotify is a music streaming service that has been accused of unfairly compensating artists [1][2] and whose CEO has donated millions to military artificial intelligence research [3][4]. Although spotify has reduced piracy it has also reduced music sales [5] limiting benefit to artists.",
+            "sources": {
+                "1": "https://www.digitalmusicnews.com/2021/06/29/spotify-executive-entitled-pay-penny-per-stream/",
+                "2": "http://www.huffingtonpost.com/2012/03/28/black-keys-sean-parker-spotify-asshole_n_1384882.html",
+                "3": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/",
+                "4": "https://www.billboard.com/pro/daniel-ek-defense-tech-investment-boycott-spotify-helsing/",
+                "5": "https://www.engadget.com/2015-10-28-spotify-piracy-study.html?guccounter=1"
+            },
+            "tags": [
+                "tech",
+                "music"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg",
+            "siteUrl": "https://spotify.com/",
+            "updatedAt": "2024-01-26T18:00:16.127Z"
+        },
         "unilever": {
             "names": [
                 "Unilever",
