@@ -1352,6 +1352,66 @@
             "siteUrl": "https://www.bosch.com/",
             "updatedAt": "2024-01-17T19:39:48.430Z"
         },
+        "nike": {
+            "names": [
+                "Nike",
+                "Nike, Inc.",
+                "NIKE",
+                "NKE",
+                "Blue Ribbon Sports"
+            ],
+            "comment": "Nike is an American sportswear company that has benefited from child labour [1] and forced Uyghur labour [2], has avoided tax [3] and failed to take responsibility for hazardous waste dumping in its supply chain [4]. Nike has invested in sustainable materials research [5] and clothing recycling programs [6].",
+            "sources": {
+                "1": "http://news.bbc.co.uk/1/hi/programmes/panorama/970385.stm",
+                "2": "https://fashionunited.com/news/fashion/nike-patagonia-named-in-european-lawsuit-as-being-complicit-in-forced-labour-practices-in-xinjiang-china/2021120644306",
+                "3": "https://www.icij.org/investigations/paradise-papers/explore-politicians-paradise-papers/",
+                "4": "https://web.archive.org/web/20200401155311/http://p3-raw.greenpeace.org/international/en/campaigns/detox/fashion/detox-catwalk/",
+                "5": "https://hypebeast.com/2021/9/newlight-technologies-aircarbon-negative-nike-sustainable-shoes-what-the-tech",
+                "6": "https://theecobahn.com/ideas/nike-reuse-a-shoe-digital-upcycling-shift/"
+            },
+            "tags": [
+                "sportswear",
+                "clothing",
+                "sports"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg",
+            "siteUrl": "https://www.nike.com/",
+            "updatedAt": "2024-01-29T21:48:22.741Z"
+        },
+        "converse": {
+            "names": [
+                "Converse"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "nike"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Converse_logo.svg",
+            "siteUrl": "http://converse.com/",
+            "updatedAt": "2024-01-29T21:48:22.741Z"
+        },
+        "jordans": {
+            "names": [
+                "Jordans",
+                "Air Jordan",
+                "Jordan Brand"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "nike"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/37/Jumpman_logo.svg",
+            "siteUrl": "https://www.nike.com/jordan",
+            "updatedAt": "2024-01-29T21:48:22.741Z"
+        },
         "lg": {
             "names": [
                 "LG",
