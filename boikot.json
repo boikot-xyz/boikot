@@ -1380,6 +1380,27 @@
             "siteUrl": "https://www.nike.com/",
             "updatedAt": "2024-01-29T21:48:22.741Z"
         },
+        "adidas": {
+            "names": [
+                "Adidas",
+                "Adidas AG",
+                "ADS"
+            ],
+            "comment": "Adidas is a German sportswear manufacturer that has selected suppliers subjecting employees to sweatshop-like conditions [1] and whose head of HR resigned after inaction against racial discrimination within the company [2].",
+            "sources": {
+                "1": "http://www.oxfam.org.au/explore/workers-rights/adidas",
+                "2": "https://www.reuters.com/article/us-adidas-race/adidas-human-resources-head-steps-down-after-race-row-idUSKBN241332?il=0"
+            },
+            "tags": [
+                "sportswear",
+                "footwear"
+            ],
+            "score": 42,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Adidas_2022_logo.svg",
+            "siteUrl": "https://www.adidas.com/",
+            "updatedAt": "2024-01-29T21:48:22.741Z"
+        },
         "converse": {
             "names": [
                 "Converse"
