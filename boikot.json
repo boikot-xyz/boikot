@@ -1456,6 +1456,31 @@
             "siteUrl": "https://lgcorp.com/",
             "updatedAt": "2024-01-21T20:33:02.640Z"
         },
+        "procter-and-gamble": {
+            "names": [
+                "Procter & Gamble",
+                "P&G",
+                "Procter and Gamble",
+                "The Procter & Gamble Company",
+                "P & G",
+                "PG"
+            ],
+            "comment": "Procter and Gamble is an American consumer goods company that has profited from child labour in palm oil production [1] and has been named by Ukraine as an international sponsor of war [2].\nThe company's advertising has addressed issues including police brutality and has won an Emmy award [3][4].",
+            "sources": {
+                "1": "https://web.archive.org/web/20180423210624/https://www.amnesty.org/en/documents/asa21/5184/2016/en/",
+                "2": "https://sanctions.nazk.gov.ua/en/boycott/14/",
+                "3": "https://web.archive.org/web/20190216195636/https://www.cbsnews.com/amp/news/the-talk-ad-procter-and-gamble-commercial-racial-stereotypes-stirs-debate/",
+                "4": "https://web.archive.org/web/20180913074041/https://www.shootonline.com/news/pgs-talk%C2%A0wins-primetime-commercial-emmy-award"
+            },
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Procter_%26_Gamble_logo.svg",
+            "siteUrl": "https://pg.com/",
+            "updatedAt": "2024-01-31T19:00:57.998Z"
+        },
         "spotify": {
             "names": [
                 "Spotify",
