@@ -440,7 +440,9 @@
             "sources": {
                 "1": "https://www.britvic.com/media/krpdotmg/britvic-annual-report-and-accounts-2023.pdf#page=5"
             },
-            "tags": [],
+            "tags": [
+                "beverages"
+            ],
             "score": 50,
             "ownedBy": [
                 "britvic"
@@ -457,7 +459,9 @@
             "sources": {
                 "1": "https://www.britvic.com/media/krpdotmg/britvic-annual-report-and-accounts-2023.pdf#page=5"
             },
-            "tags": [],
+            "tags": [
+                "beverages"
+            ],
             "score": 50,
             "ownedBy": [
                 "britvic"
@@ -474,7 +478,9 @@
             "sources": {
                 "1": "https://www.britvic.com/media/krpdotmg/britvic-annual-report-and-accounts-2023.pdf#page=5"
             },
-            "tags": [],
+            "tags": [
+                "beverages"
+            ],
             "score": 50,
             "ownedBy": [
                 "britvic"
@@ -492,7 +498,9 @@
             "sources": {
                 "1": "https://www.britvic.com/media/krpdotmg/britvic-annual-report-and-accounts-2023.pdf#page=5"
             },
-            "tags": [],
+            "tags": [
+                "beverages"
+            ],
             "score": 50,
             "ownedBy": [
                 "britvic"
@@ -512,7 +520,9 @@
             "sources": {
                 "1": "http://web.archive.org/web/20231223224400/https://www.britvic.com/our-news/performance/britvic-acquires-jimmy-s-iced-coffee/"
             },
-            "tags": [],
+            "tags": [
+                "beverages"
+            ],
             "score": 50,
             "ownedBy": [
                 "britvic"
@@ -531,7 +541,9 @@
             "sources": {
                 "1": "http://web.archive.org/web/20230324214813/https://www.londonessenceco.com/en/privacy-policy/"
             },
-            "tags": [],
+            "tags": [
+                "beverages"
+            ],
             "score": 50,
             "ownedBy": [
                 "britvic"
@@ -548,7 +560,9 @@
             "sources": {
                 "1": "https://www.en.teisseire.com/our-history"
             },
-            "tags": [],
+            "tags": [
+                "beverages"
+            ],
             "score": 50,
             "ownedBy": [
                 "britvic"
@@ -566,7 +580,9 @@
             "sources": {
                 "1": "https://www.britvic.com/media/krpdotmg/britvic-annual-report-and-accounts-2023.pdf#page=5"
             },
-            "tags": [],
+            "tags": [
+                "beverages"
+            ],
             "score": 50,
             "ownedBy": [
                 "britvic"
@@ -584,7 +600,9 @@
             "sources": {
                 "1": "https://www.britvic.com/media/krpdotmg/britvic-annual-report-and-accounts-2023.pdf#page=5"
             },
-            "tags": [],
+            "tags": [
+                "beverages"
+            ],
             "score": 50,
             "ownedBy": [
                 "britvic"
@@ -599,7 +617,9 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
+            "tags": [
+                "beverages"
+            ],
             "score": 50,
             "ownedBy": [
                 "britvic"
@@ -615,7 +635,9 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
+            "tags": [
+                "beverages"
+            ],
             "score": 10,
             "ownedBy": [
                 "coca-cola"
@@ -672,9 +694,13 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
+            "tags": [
+                "soda"
+            ],
             "score": 30,
-            "ownedBy": ["dr-pepper"],
+            "ownedBy": [
+                "dr-pepper"
+            ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Snapple_logo_%282020%29.svg",
             "siteUrl": "",
             "updatedAt": "2024-01-01T20:41:16.271Z"
@@ -686,8 +712,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -701,8 +729,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -719,8 +749,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -734,8 +766,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -749,8 +783,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -764,8 +800,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -779,8 +817,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -794,8 +834,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -810,8 +852,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -825,8 +869,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -840,8 +886,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -856,8 +904,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -872,8 +922,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -890,8 +942,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -905,8 +959,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -920,8 +976,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -935,8 +993,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -979,7 +1039,7 @@
                 "beverages",
                 "icetea"
             ],
-            "score": null,
+            "score": 20,
             "ownedBy": [
                 "pepsico",
                 "unilever"
@@ -1121,7 +1181,7 @@
             "tags": [
                 "detergent"
             ],
-            "score": null,
+            "score": 35,
             "ownedBy": [
                 "procter-and-gamble"
             ],
@@ -1138,7 +1198,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 35,
             "ownedBy": [
                 "procter-and-gamble"
             ],
@@ -1155,7 +1215,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 35,
             "ownedBy": [
                 "procter-and-gamble"
             ],
@@ -1172,7 +1232,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 35,
             "ownedBy": [
                 "procter-and-gamble"
             ],
@@ -1190,7 +1250,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 35,
             "ownedBy": [
                 "procter-and-gamble"
             ],
@@ -1207,7 +1267,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 35,
             "ownedBy": [
                 "procter-and-gamble"
             ],
@@ -1224,7 +1284,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 35,
             "ownedBy": [
                 "procter-and-gamble"
             ],
@@ -1241,7 +1301,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 35,
             "ownedBy": [
                 "procter-and-gamble"
             ],
@@ -1258,7 +1318,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 35,
             "ownedBy": [
                 "procter-and-gamble"
             ],
@@ -1275,7 +1335,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 35,
             "ownedBy": [
                 "procter-and-gamble"
             ],
@@ -1292,7 +1352,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 35,
             "ownedBy": [
                 "procter-and-gamble"
             ],
@@ -1309,7 +1369,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 35,
             "ownedBy": [
                 "procter-and-gamble"
             ],
@@ -1327,7 +1387,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 35,
             "ownedBy": [
                 "procter-and-gamble"
             ],
@@ -1345,7 +1405,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 35,
             "ownedBy": [
                 "procter-and-gamble"
             ],
@@ -1362,7 +1422,7 @@
             "tags": [
                 "air freshener"
             ],
-            "score": null,
+            "score": 35,
             "ownedBy": [
                 "procter-and-gamble"
             ],
@@ -1803,8 +1863,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": "",
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -1818,8 +1880,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": "",
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -1833,8 +1897,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "food"
+            ],
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
