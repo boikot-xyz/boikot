@@ -1112,6 +1112,264 @@
             "siteUrl": "https://about.meta.com/",
             "updatedAt": "2024-01-07T20:47:32.197Z"
         },
+        "fairy": {
+            "names": [
+                "Fairy"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "detergent"
+            ],
+            "score": null,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/59/Fairy_logo.png",
+            "siteUrl": "https://www.supersavvyme.co.uk/brands/fairy",
+            "updatedAt": "2024-01-31T19:01:06.524Z"
+        },
+        "old-spice": {
+            "names": [
+                "Old Spice"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/94/Current_Old_Spice_Logo_2016.svg",
+            "siteUrl": "https://oldspice.com/",
+            "updatedAt": "2024-01-31T19:01:06.524Z"
+        },
+        "ariel": {
+            "names": [
+                "Ariel"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/37/Ariel_Logo.png",
+            "siteUrl": "http://www.ariel.co.uk/",
+            "updatedAt": "2024-01-31T19:01:06.524Z"
+        },
+        "herbal-essences": {
+            "names": [
+                "Herbal Essences"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/14/Herbal_Essences_Hair_Care.png",
+            "siteUrl": "https://herbalessences.com/",
+            "updatedAt": "2024-01-31T19:01:06.524Z"
+        },
+        "braun": {
+            "names": [
+                "Braun",
+                "Braun GmbH"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Braun_Logo.svg",
+            "siteUrl": "http://www.braun.com/",
+            "updatedAt": "2024-01-31T19:01:06.524Z"
+        },
+        "aussie": {
+            "names": [
+                "Aussie"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/48/Aussie_logo.png",
+            "siteUrl": "http://www.aussie.com/",
+            "updatedAt": "2024-01-31T19:01:06.524Z"
+        },
+        "vicks": {
+            "names": [
+                "Vicks"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/VicksLogo.png",
+            "siteUrl": "http://vicks.com/",
+            "updatedAt": "2024-01-31T19:01:06.524Z"
+        },
+        "tide": {
+            "names": [
+                "Tide"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Tide_Logo_RGB_2014.png",
+            "siteUrl": "https://www.tide.com/",
+            "updatedAt": "2024-01-31T19:01:06.524Z"
+        },
+        "pantene": {
+            "names": [
+                "Pantene"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Pantene_Header_logo.png",
+            "siteUrl": "",
+            "updatedAt": "2024-01-31T19:01:06.524Z"
+        },
+        "pampers": {
+            "names": [
+                "Pampers"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/17/Pampers_logo.svg",
+            "siteUrl": "http://www.pampers.com/",
+            "updatedAt": "2024-01-31T19:01:06.524Z"
+        },
+        "oral-b": {
+            "names": [
+                "Oral-B"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Oral-B_logo.svg",
+            "siteUrl": "https://oralb.com/",
+            "updatedAt": "2024-01-31T19:01:06.524Z"
+        },
+        "olay": {
+            "names": [
+                "Olay"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Olay.png",
+            "siteUrl": "http://www.olay.com/",
+            "updatedAt": "2024-01-31T19:01:06.524Z"
+        },
+        "head-and-shoulders": {
+            "names": [
+                "Head & Shoulders",
+                "Head and Shoulders"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Head%26shoulders-Logo.svg",
+            "siteUrl": "https://www.headandshoulders.com/",
+            "updatedAt": "2024-01-31T19:01:06.524Z"
+        },
+        "gillette": {
+            "names": [
+                "Gillette",
+                "The Gillette Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Gillette.svg",
+            "siteUrl": "http://gillette.com/",
+            "updatedAt": "2024-01-31T19:01:06.524Z"
+        },
+        "febreeze": {
+            "names": [
+                "Febreeze"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "air freshener"
+            ],
+            "score": null,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Febreze_Logo.svg",
+            "siteUrl": "http://www.febreze.com/",
+            "updatedAt": "2024-01-31T19:01:06.524Z"
+        },
         "monster-energy": {
             "names": [
                 "Monster Energy",
