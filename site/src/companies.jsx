@@ -81,7 +81,9 @@ function Score({ score }) {
         display: "grid",
         placeItems: "center",
     }}>
-        <span style={{ fontSize: "0.8rem", fontWeight: "600" }}>{ score }</span>
+        <span style={{ fontSize: "0.8rem", fontWeight: "600" }}>
+            { score }
+        </span>
     </div>
 }
 
@@ -149,7 +151,8 @@ export function Companies() {
             <h1> Companies </h1>
             <SearchBar value={search} setValue={setSearch} />
             { companies.map( entry =>
-                <CompanyHeader entry={entry} link key={entry.names[0]} />
+                <CompanyHeader entry={entry}
+                    link key={entry.names[0]} />
             ) }
             <p> { companies.length } companies </p>
             <Link to="/companies/edit"> ➕ add a company </Link>
