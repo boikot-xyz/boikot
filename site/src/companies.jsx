@@ -44,7 +44,7 @@ function Sources({ entry }) {
                     </a>
                 </p> </ForceWrap> ) }
         { !!Object.keys(entry.sources).length &&
-            <PillButton $outline
+            <PillButton $outline style={{ justifySelf: "left" }}
                 onClick={ () => setShowSources(!showSources) }>
                 { showSources ? "🙈 Hide Sources" : "📰 Show Sources" }
             </PillButton> }
