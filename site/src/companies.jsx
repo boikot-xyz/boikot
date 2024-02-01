@@ -51,6 +51,19 @@ function Sources({ entry }) {
     </>;
 }
 
+function Subsidiaries({ entry }) {
+    const subsidiaries = Object.values(boikot.companies).filter(
+        other => other.ownedBy.includes( getKey(entry) ) );
+    if( !subsidiaries.length ) return null;
+    return <>
+        <h3 style={{ paddingTop: "1rem" }}>
+            Companies owned by { entry.names[0] }
+        </h3>
+        { subsidiaries.map( entry =>
+            <CompanyHeader link entry={entry} /> ) }
+    </>;
+}
+
 export function Company({entry}) {
     if( !entry.names ) return null;
 
@@ -68,6 +81,7 @@ export function Company({entry}) {
             </Link>.
         </p> }
         <Sources entry={entry} />
+        <Subsidiaries entry={entry} />
     </Stack>;
 }
 
