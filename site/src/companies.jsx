@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Link, useParams } from "react-router-dom";
 import slugify from "slugify";
 
-import { getKey, Badge, IconButton, Page, Row, Stack, ForceWrap } from "./components.jsx";
+import { getKey, Badge, Icon, IconButton, Page, PillButton, Row, Stack, ForceWrap } from "./components.jsx";
 import boikot from "../../boikot.json";
 
 
@@ -32,6 +32,25 @@ function renderReferences({ comment, sources }) {
     );
 }
 
+function Sources({ entry }) {
+    const [ showSources, setShowSources ] = React.useState(false);
+    return <>
+        { showSources && <h3> 📰 Sources </h3> }
+        { showSources &&
+            Object.entries(entry.sources).map( ([ key, url ]) =>
+                <ForceWrap key={key}> <p>
+                    <strong>[{key}]</strong> <a href={url}>
+                        {url}
+                    </a>
+                </p> </ForceWrap> ) }
+        { !!Object.keys(entry.sources).length &&
+            <PillButton $outline
+                onClick={ () => setShowSources(!showSources) }>
+                { showSources ? "Hide Sources" : "📰 Show Sources" }
+            </PillButton> }
+    </>;
+}
+
 export function Company({entry}) {
     if( !entry.names ) return null;
 
@@ -48,16 +67,7 @@ export function Company({entry}) {
                 { ownerName(entry.ownedBy[0]) }
             </Link>.
         </p> }
-        { !!Object.keys(entry.sources).length && <h3> Sources </h3> }
-        { Object.entries(entry.sources).map( ([ key, url ]) =>
-            <ForceWrap key={key}> <p>
-                <strong>[{key}]</strong> <a href={url}>
-                    {url}
-                </a>
-            </p> </ForceWrap>
-        ) }
-        <Link to={`/companies/edit/${getKey(entry)}`}> ✏️  edit this company </Link>
-        <Link to="/companies"> ↩️ back to companies </Link>
+        <Sources entry={entry} />
     </Stack>;
 }
 
