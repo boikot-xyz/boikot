@@ -55,13 +55,13 @@ function Subsidiaries({ entry }) {
     const subsidiaries = Object.values(boikot.companies).filter(
         other => other.ownedBy.includes( getKey(entry) ) );
     if( !subsidiaries.length ) return null;
-    return <>
-        <h3 style={{ paddingTop: "1rem" }}>
+    return <Stack style={{ padding: ".6rem 0" }}>
+        <h3>
             Companies owned by { entry.names[0] }
         </h3>
         { subsidiaries.map( entry =>
             <CompanyHeader link entry={entry} /> ) }
-    </>;
+    </Stack>;
 }
 
 export function Company({entry}) {
@@ -127,15 +127,16 @@ export function CompanyHeader({ entry, link = false }) {
                     background: "white",
                     borderRadius: "0.5rem",
                     objectFit: "contain" }}/>
-            <LinkOrFrag to={companyURL}>
-                <h3>{entry.names[0]}</h3>
-            </LinkOrFrag>
+            <Stack gap="0" style={{ marginRight: "0.1rem" }}>
+                <LinkOrFrag to={companyURL}>
+                    <h3>{entry.names[0]}</h3>
+                </LinkOrFrag>
+                { !!entry.tags.length &&
+                    <p style={{ color: "white", fontSize: "0.8rem" }}>
+                        { entry.tags[0] } 
+                    </p> }
+            </Stack>
             <Score {...entry} />
-            { !!entry.tags.length &&
-                <Badge style={{ fontSize: "0.75rem" }}>
-                    { entry.tags[0] }
-                </Badge>
-            }
         </Row>
     </LinkOrFrag>;
 }
