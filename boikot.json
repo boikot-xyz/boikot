@@ -1726,8 +1726,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "sportswear"
+            ],
+            "score": 40,
             "ownedBy": [
                 "nike"
             ],
@@ -1743,8 +1745,10 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
-            "score": null,
+            "tags": [
+                "sportswear"
+            ],
+            "score": 40,
             "ownedBy": [
                 "nike"
             ],
