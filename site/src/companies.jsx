@@ -82,6 +82,12 @@ export function Company({entry}) {
         </p> }
         <Sources entry={entry} />
         <Subsidiaries entry={entry} />
+        <Link to={`/companies/edit/${getKey(entry)}`}>
+            <PillButton $outline> ✏️  Edit this Company </PillButton>
+        </Link>
+        <Link to="/companies">
+            <PillButton $outline> ↩️ Back to Companies </PillButton>
+        </Link>
     </Stack>;
 }
 
