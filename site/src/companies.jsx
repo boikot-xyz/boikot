@@ -158,7 +158,7 @@ function SearchBar({ value, setValue }) {
     return <div style={{
         width: "100%", display: "grid", position: "relative"
     }}>
-        <input placeholder="search" value={value}
+        <input placeholder="🔍 search" value={value}
             onChange={e => setValue(e.target.value)}
             style={{ paddingRight: "2rem" }}/>
         { value &&
