@@ -101,18 +101,24 @@ export function CompanyDetail() {
 
 
 function Score({ score }) {
+    const emoji =
+        score < 20
+        ? "👺"
+        : score < 40
+        ? "😡"
+        : score < 60
+        ? "😐"
+        : score < 80
+        ? "😊"
+        : "🥰";
     return <div title={`Ethical Score: ${score}/100`} style={{
-        width: "2rem",
-        height: "2rem",
-        padding: "0.2rem",
+        padding: "0 0.25rem .15rem .3rem",
         color: scoreColor(score),
         border: `0.175rem solid ${scoreColor(score)}`,
         borderRadius: "1.4rem",
-        display: "grid",
-        placeItems: "center",
     }}>
         <span style={{ fontSize: "0.8rem", fontWeight: "600" }}>
-            { score }
+            { score } { emoji }
         </span>
     </div>
 }
