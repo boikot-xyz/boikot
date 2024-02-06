@@ -51,6 +51,17 @@ function Sources({ entry }) {
     </>;
 }
 
+function Owners({ entry }) {
+    if( !entry.ownedBy.length ) return null;
+    return <Stack style={{ padding: ".6rem 0" }}>
+        <h3>
+            { entry.names[0] } is owned by:
+        </h3>
+        { entry.ownedBy.map( code =>
+            <CompanyHeader link entry={boikot.companies[code]} /> ) }
+    </Stack>;
+}
+
 function Subsidiaries({ entry }) {
     const subsidiaries = Object.values(boikot.companies).filter(
         other => other.ownedBy.includes( getKey(entry) ) );
@@ -72,15 +83,8 @@ export function Company({entry}) {
         { entry.comment && <Comment>
             { renderReferences(entry) }
         </Comment> }
-        { !!entry.ownedBy.length && <p>
-            { entry.names[0] } is owned by{" "}
-            <Link to={
-                `/companies/${slugify(entry.ownedBy[0]).toLowerCase()}`
-            }>
-                { ownerName(entry.ownedBy[0]) }
-            </Link>.
-        </p> }
         <Sources entry={entry} />
+        <Owners entry={entry} />
         <Subsidiaries entry={entry} />
         <Link to={`/companies/edit/${getKey(entry)}`}>
             <PillButton $outline> ✏️  Edit this Company </PillButton>
