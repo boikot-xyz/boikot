@@ -1699,6 +1699,30 @@
             "siteUrl": "https://www.nike.com/",
             "updatedAt": "2024-01-29T21:48:22.741Z"
         },
+        "greggs": {
+            "names": [
+                "Greggs",
+                "Greggs Bakeries Limited",
+                "Greggs plc",
+                "GRG"
+            ],
+            "comment": "Greggs is a British bakery whose executives received \"excessive\" bonuses of millions of pounds in 2022 [1]. The Greggs foundation is a charitable organisation that gives schoolchildren access to free, nutritional food [2].",
+            "sources": {
+                "1": "https://www.theguardian.com/business/2022/may/11/greggs-feels-heat-from-investors-over-excessive-pay-for-bosses",
+                "2": "http://web.archive.org/web/20240118100640/https://www.greggsfoundation.org.uk/news/2023-in-review"
+            },
+            "tags": [
+                "bakery",
+                "food",
+                "fast food",
+                "takeaway"
+            ],
+            "score": 50,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/19/Greggs_IMG_6701.jpg",
+            "siteUrl": "https://www.greggs.co.uk/",
+            "updatedAt": "2024-02-06T20:32:30.554Z"
+        },
         "adidas": {
             "names": [
                 "Adidas",
