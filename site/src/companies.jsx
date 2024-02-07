@@ -71,7 +71,7 @@ function Subsidiaries({ entry }) {
     if( !subsidiaries.length ) return null;
     return <Stack style={{ padding: ".6rem 0" }}>
         <h3>
-            Companies owned by { entry.names[0] }
+            Companies owned by { entry.names[0] }:
         </h3>
         { subsidiaries.map( entry =>
             <CompanyHeader link entry={entry} /> ) }
