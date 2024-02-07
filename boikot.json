@@ -1701,6 +1701,28 @@
             "siteUrl": "https://www.nike.com/",
             "updatedAt": "2024-01-29T21:48:22.741Z"
         },
+        "leon": {
+            "names": [
+                "LEON",
+                "Leon Restaurants"
+            ],
+            "comment": "LEON is a British restaurant brand that started an initiative to deliver free meals to the NHS during the COVID-19 pandemic [1] and is a founding member of the Sustainable Restaurant Association [2].",
+            "sources": {
+                "1": "https://www.theguardian.com/business/2020/mar/27/leon-sets-up-initiative-to-deliver-free-hot-meals-to-nhs-staff-coronavirus",
+                "2": "https://www.bbc.co.uk/news/uk-48781564"
+            },
+            "tags": [
+                "fast food",
+                "food"
+            ],
+            "score": 70,
+            "ownedBy": [
+                "eg-group"
+            ],
+            "logoUrl": "https://tse2.mm.bing.net/th?id=OIP.R6-CO58eUfG6oc05A_KJiQHaHa&pid=Api",
+            "siteUrl": "https://leon.co/",
+            "updatedAt": "2024-02-07T20:14:40.093Z"
+        },
         "greggs": {
             "names": [
                 "Greggs",
