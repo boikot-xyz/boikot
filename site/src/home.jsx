@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Link } from "react-router-dom";
 
 import { Page, PillButton, Stack } from "./components.jsx";
-import { CompanyHeader } from "./companies.jsx";
+import { CompanyHeader, Score } from "./companies.jsx";
 import boikot from "../../boikot.json";
 
 export function Home() {
@@ -17,6 +17,11 @@ export function Home() {
                 we aim to inform consumer choice, raise the cost of
                 harmful business decisions, and incentivise companies to
                 act responsibly in the public interest. </p>
+            <p style={{ lineHeight: "1.4rem" }}>
+                We rank companies on a scale from <Score score="0" />{" "}
+                to <Score score="100"/>, based on their positive and
+                negative actions, with <Score score="50" /> being a
+                neutral score. </p>
             <h1 style={{ marginTop: "1rem" }}> worst offenders 💩 </h1>
             { Object.values(boikot.companies)
                 .filter( entry => !!entry.comment )
