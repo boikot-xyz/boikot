@@ -107,7 +107,7 @@ export function CompanyDetail() {
 }
 
 
-function Score({ score }) {
+export function Score({ score }) {
     const emoji =
         score === null
         ? ""
