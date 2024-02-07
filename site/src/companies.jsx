@@ -109,7 +109,9 @@ export function CompanyDetail() {
 
 function Score({ score }) {
     const emoji =
-        score < 20
+        score === null
+        ? ""
+        : score < 20
         ? "👺"
         : score < 40
         ? "😡"
