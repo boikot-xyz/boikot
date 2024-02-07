@@ -120,7 +120,7 @@ export function Score({ score }) {
         : score < 80
         ? "😊"
         : "🥰";
-    return <div title={`Ethical Score: ${score}/100`} style={{
+    return <span title={`Ethical Score: ${score}/100`} style={{
         padding: "0 0.25rem .15rem .3rem",
         color: scoreColor(score),
         border: `0.175rem solid ${scoreColor(score)}`,
@@ -129,7 +129,7 @@ export function Score({ score }) {
         <span style={{ fontSize: "0.8rem", fontWeight: "600" }}>
             { score } { emoji }
         </span>
-    </div>
+    </span>
 }
 
 
