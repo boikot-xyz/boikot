@@ -201,7 +201,9 @@ export function Companies() {
                     link key={entry.names[0]} />
             ) }
             <p> { companies.length } companies </p>
-            <Link to="/companies/edit"> ➕ add a company </Link>
+            <Link to="/companies/edit">
+                <PillButton $outline> 📝 Add a company </PillButton>
+            </Link>
         </Stack>
     </Page>;
 }
