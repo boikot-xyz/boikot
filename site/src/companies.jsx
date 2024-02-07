@@ -58,7 +58,10 @@ function Owners({ entry }) {
             { entry.names[0] } is owned by:
         </h3>
         { entry.ownedBy.map( code =>
-            <CompanyHeader link entry={boikot.companies[code]} /> ) }
+            boikot.companies[code]
+                ? <CompanyHeader link entry={boikot.companies[code]} />
+                : code
+        ) }
     </Stack>;
 }
 
