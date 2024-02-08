@@ -1048,6 +1048,30 @@
             "siteUrl": "https://www.lipton.com/us/en/",
             "updatedAt": "2024-01-02T19:08:02.820Z"
         },
+        "etsy": {
+            "names": [
+                "Etsy",
+                "Etsy, Inc.",
+                "ETSY"
+            ],
+            "comment": "Etsy is an American ecommerce website that has lost its B Corp status [1] and faced backlash from its sellers over fees [2] and witholding of funds [3]. Etsy carbon-offsets deliveries [4] and provides a plaform to small independent businesses [5].",
+            "sources": {
+                "1": "https://www.ecommercebytes.com/2017/11/30/etsy-gives-b-corp-status-maintain-corporate-structure/",
+                "2": "https://www.bbc.co.uk/news/business-63984098",
+                "3": "https://www.bbc.co.uk/news/business-66201042",
+                "4": "https://www.etsy.com/uk/blog/etsy-launches-carbon-offset-shipping",
+                "5": "https://retail-insider.com/retail-insider/2021/05/etsy-provides-small-businesses-with-a-booming-e-commerce-platform-but-who-reaps-the-benefits/"
+            },
+            "tags": [
+                "ecommerce",
+                "retail"
+            ],
+            "score": 70,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Etsy_logo.svg",
+            "siteUrl": "https://www.etsy.com/",
+            "updatedAt": "2024-02-08T08:23:34.904Z"
+        },
         "irn-bru": {
             "names": [
                 "Irn-Bru",
