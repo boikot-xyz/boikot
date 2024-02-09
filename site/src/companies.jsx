@@ -21,15 +21,13 @@ const Comment = styled.p`
 `;
 
 function renderReferences({ comment, sources }) {
-    const chunks = comment.split(/(?=\[\d+\])|(?<=\[\d+\])/);
-    return chunks.map( chunk =>
-        chunk.match(/\[\d+\]/)
-            ? <sup><a href={sources[chunk.match(/\d+/)]}
-                target="_blank" rel="noreferrer noopener">
-                { chunk }
-            </a></sup>
-            : <span>{ chunk }</span>
-    );
+    const refs = comment.match(/\[\d+\]/g).map(ref =>
+        <sup><a href={sources[ref.match(/\d+/)]}
+            target="_blank" rel="noreferrer noopener">
+            { ref }
+        </a></sup> );
+    const chunks = comment.split(/\[\d+\]/g);
+    return chunks.flatMap( (_,i) => [chunks[i], refs[i]] );
 }
 
 function Sources({ entry }) {
