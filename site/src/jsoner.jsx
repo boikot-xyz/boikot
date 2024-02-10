@@ -16,7 +16,6 @@ const initialState = {
     logoUrl: "",
     siteUrl: "",
     updatedAt: (new Date()).toISOString(),
-    jsondump: "",
 };
 
 const getInitialState = key => {
@@ -30,7 +29,6 @@ function tojson(state) {
         ownedBy: state.ownedBy || null,
         score: parseFloat(state.score),
     };
-    delete result.jsondump;
     return `"${slugify(state.names[0] || "").toLowerCase()}": ` +
         `${JSON.stringify(result, null, 4)},`;
 }
@@ -143,6 +141,35 @@ const insertIntoString = ( originalString, insertIndex, insertionString ) =>
     insertionString +
     originalString.slice(insertIndex);
 
+function JsonDump({ value, mergeJSONDump }) {
+    const [ dumping, setDumping ] = React.useState(false);
+    const [ json, setJson ] = React.useState("");
+    const clear = () => setJson("") + setDumping(false);
+    return <Stack>
+        { dumping && <Entry>
+            jsondump
+            <textarea
+                placeholder={
+                    "Paste JSON data here and click \"merge\" " +
+                    "to merge it into the company data entry. " +
+                    "Only use this if you know what it will do!"
+                }
+                style={{ height: "15rem" }}
+                value={json}
+                onChange={ e => setJson(e.target.value) } />
+        </Entry> }
+        <PillButton $outline
+            style={{ justifySelf: "right" }}
+            onClick={
+                !dumping
+                ? setDumping
+                : () => mergeJSONDump(json) && clear()
+            }>
+            { dumping ? "merge 🖇️" : "merge JSON 🖇️" }
+        </PillButton>
+    </Stack>
+}
+
 
 export function Jsoner() {
     const { key } = useParams();
@@ -201,14 +228,14 @@ export function Jsoner() {
         }) );
 
 
-    const mergeJSONDump = () => {
+    const mergeJSONDump = json => {
         try {
-            const newObj = JSON.parse(state.jsondump);
+            const newObj = JSON.parse(json);
             setState( oldState => ({
                 ...oldState,
                 ...newObj,
-                jsondump: ""
             }) );
+            return true;
         } catch(error) {
             alert("Could not parse JSON 😩");
         }
@@ -320,6 +347,7 @@ export function Jsoner() {
                 copy company data 📋
             </PillButton>
         </FlexRow>
+        <JsonDump mergeJSONDump={mergeJSONDump} />
     </Stack>;
 }
 
