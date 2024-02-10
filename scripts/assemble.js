@@ -91,12 +91,17 @@ async function main() {
     console.log(`using ${ollamaEndpoint} as ollama endpoint\n`);
 
     const urls = await getUrls();
+    const sources = urls.reduce(
+        (res, url, i) => ({ ...res, [i+1]: url }), {}
+    );
+
     const summaries = await Promise.all( urls.map(
         url => summarise( ollamaEndpoint, url )
     ) );
     const comment = await getComment( ollamaEndpoint, summaries );
 
-    console.log(comment);
+    const output = { comment, sources };
+    console.log(output);
 }
 
 main();
