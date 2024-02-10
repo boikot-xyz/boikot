@@ -1048,6 +1048,28 @@
             "siteUrl": "https://www.lipton.com/us/en/",
             "updatedAt": "2024-01-02T19:08:02.820Z"
         },
+        "tfl": {
+            "names": [
+                "TfL",
+                "Transport for London"
+            ],
+            "comment": "Transport for London is London's public transport provider, which offers low-emissions transportation within greater london. TfL illegally accessed EU citizen's personal data to issue fruadulent ULEZ fines [1] and continues to pay hundreds of executives 6-figure salaries while proposing to close bus routes to save money [2].",
+            "sources": {
+                "1": "https://www.theguardian.com/uk-news/2024/jan/26/eu-citizens-ulez-fines-data-breach-tfl",
+                "2": "https://www.standard.co.uk/news/london/tfl-executive-pay-government-bailout-tube-strike-sadiq-khan-b1009359.html"
+            },
+            "tags": [
+                "transport",
+                "metro",
+                "bus",
+                "publictransport"
+            ],
+            "score": 65,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/TfL_roundel_%28no_text%29.svg",
+            "siteUrl": "https://tfl.gov.uk/",
+            "updatedAt": "2024-02-10T08:09:59.878Z"
+        },
         "etsy": {
             "names": [
                 "Etsy",
