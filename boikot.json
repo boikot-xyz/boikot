@@ -1569,6 +1569,32 @@
             "siteUrl": "https://amazon.com",
             "updatedAt": "2024-01-07T15:59:06.010Z"
         },
+        "salesforce": {
+            "names": [
+                "Salesforce",
+                "Salesforce, Inc.",
+                "CRM",
+                "Salesforce.com, Inc.",
+                "Salesforce.com"
+            ],
+            "comment": "Salesforce, a tech company facing legal scrutiny for aiding Backpage in sex trafficking [1], has been highlighted for its tax avoidance strategies, with findings revealing it paid minimal federal taxes in 2018 [2]. Additionally, controversy surrounds its contracts with Customs and Border Protection, leading to the rejection of a donation by a legal aid group for immigrants and refugees [3], and allegations of inadequate accommodations for employees with developmental disorders in Japan [4].",
+            "sources": {
+                "1": "https://www.houstonchronicle.com/news/houston-texas/crime/article/Tech-giant-Salesforce-to-stand-trial-for-creating-16050424.php",
+                "2": "https://www.cnbc.com/2019/12/16/these-91-fortune-500-companies-didnt-pay-federal-taxes-in-2018.html",
+                "3": "https://www.theguardian.com/us-news/2018/jul/19/salesforce-raices-immigration-customs-border-protection",
+                "4": "https://www.bengo4.com/c_5/n_13323"
+            },
+            "tags": [
+                "tech",
+                "tracking",
+                "CRM"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg",
+            "siteUrl": "https://salesforce.com/",
+            "updatedAt": "2024-02-11T16:20:10.322Z"
+        },
         "tesco": {
             "names": [
                 "Tesco",
