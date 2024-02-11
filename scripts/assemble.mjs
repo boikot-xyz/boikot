@@ -83,7 +83,7 @@ async function askLlama( ollamaEndpoint, prompt ) {
 }
 
 const summaryPrompt = text =>
-    `Here is some text scraped from a webpage:\n\n${text}\n\nPlease summarise the content of the webpage in one succinct sentence.`;
+    `Here is some text scraped from a webpage:\n\n${text}\n\nPlease succinctly summarise the content of the webpage.`;
 
 async function summarise( ollamaEndpoint, url ) {
     const text = await scrape(url);
@@ -100,7 +100,7 @@ async function getComment( ollamaEndpoint, summaries ) {
         (summary, i) => `${summary.summary.replace(/\.$/, '')} [${i+1}].`
     ).join(" ");
     const comment = await askLlama( ollamaEndpoint, commentPrompt(text) );
-    console.log( "\n\n=====\n\n", commentPrompt(text), "\n\n=====\n\n" );
+    console.log( "\n\n===== assemble prompt =====\n\n", commentPrompt(text), "\n\n==========\n\n" );
     return comment;
 }
 
@@ -124,7 +124,8 @@ async function main() {
 
     const comment = await getComment( ollamaEndpoint, summaries );
     const output = { comment, sources };
-    console.log(output);
+    console.log(JSON.stringify(output, null, 4));
+    console.log( "\n\n===== sources =====\n\n", JSON.stringify({sources}, null, 4), "\n\n=====\n\n" );
 }
 
 main();
