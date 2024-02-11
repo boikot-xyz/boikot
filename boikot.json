@@ -1569,6 +1569,32 @@
             "siteUrl": "https://amazon.com",
             "updatedAt": "2024-01-07T15:59:06.010Z"
         },
+        "vodafone": {
+            "names": [
+                "Vodafone",
+                "Vodafone Group plc",
+                "VOD",
+                "Racal Telecom",
+                "Voda-Racal Telecom"
+            ],
+            "comment": "Vodafone, a telecommunications company, faces criticism for tax avoidance through Luxembourg subsidiaries [1] and fines for breaching consumer protection rules, including mishandling complaints [2]. Moreover, Vodafone's involvement in government surveillance through secret wires on its networks sparks privacy concerns [3], while allegations of overcharging customers after contract ends have emerged [4].",
+            "sources": {
+                "1": "https://web.archive.org/web/20101027221207/http://www.private-eye.co.uk/sections.php?section_link=in_the_back&issue=1273",
+                "2": "https://www.bbc.co.uk/news/business-37772118",
+                "3": "https://www.theguardian.com/business/2014/jun/06/vodafone-reveals-secret-wires-allowing-state-surveillance",
+                "4": "https://web.archive.org/web/20190301074847/https://www.citizensadvice.org.uk/cymraeg/about-us/how-citizens-advice-works/media/press-releases/mobile-phone-networks-overcharging-loyal-customers-by-up-to-38-a-month/"
+            },
+            "tags": [
+                "telecommunications",
+                "broadband",
+                "ISP"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cc/Vodafone_2017_logo.svg",
+            "siteUrl": "http://vodafone.com/",
+            "updatedAt": "2024-02-11T17:22:19.768Z"
+        },
         "salesforce": {
             "names": [
                 "Salesforce",
