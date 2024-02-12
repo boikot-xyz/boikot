@@ -144,6 +144,7 @@ function Menu({ open, close }) {
             <MenuLink to="/companies"> companies </MenuLink>
             <MenuLink to="/companies/edit"> add a company </MenuLink>
             <MenuLink to="/search"> search </MenuLink>
+            <MenuLink to="/statement-score"> score your bank statement </MenuLink>
             <MenuLink to="/blog"> blog </MenuLink>
             <MenuLink to="/contact-us"> contact us </MenuLink>
         </Centerer>
