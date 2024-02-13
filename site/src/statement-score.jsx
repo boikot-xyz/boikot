@@ -28,11 +28,13 @@ async function getResults( fileDataURL, setResults ) {
     pdfjsLib.GlobalWorkerOptions.workerSrc =
       "https://unpkg.com/pdfjs-dist@4.0.379/build/pdf.worker.min.mjs";
 
-    const pdfDocument = await pdfjsLib.getDocument({ url: fileDataURL }).promise;
-    const pageNumbers = [...Array(pdfDocument.numPages).keys()].map(x => x+1);
-    const pdfText = ( await Promise.all(
-        pageNumbers.map( pageNumber => getPageText( pdfDocument, pageNumber ) )
-    ) ).join("\n").toLowerCase();
+    const pdfDocument =
+        await pdfjsLib.getDocument({ url: fileDataURL }).promise;
+    const pageNumbers =
+        [...Array(pdfDocument.numPages).keys()].map(x => x+1);
+    const pdfText = ( await Promise.all( pageNumbers.map(
+        pageNumber => getPageText( pdfDocument, pageNumber )
+    ) ) ).join("\n").toLowerCase();
     setResults({
         companies: Object.values(boikot.companies)
             .filter( entry =>
