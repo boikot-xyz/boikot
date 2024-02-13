@@ -71,6 +71,8 @@ export function StatementScore() {
     const [ fileDataURL, setFileDataURL ] = React.useState("");
     const [ results, setResults ] = React.useState(null);
 
+    const useSample = () => setFileDataURL("/assets/boikotStatement.pdf");
+
     return <Page>
         <Stack>
             <h1> Statement Score </h1>
@@ -92,7 +94,7 @@ export function StatementScore() {
                 onClick={() => getResults(fileDataURL, setResults)}>
                 💥 click to score your statement!
             </PillButton> }
-            { !fileDataURL && <PillButton>
+            { !fileDataURL && <PillButton onClick={useSample}>
                 or click here to use a sample bank statement
             </PillButton> }
         </Stack>
