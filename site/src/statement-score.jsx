@@ -74,15 +74,16 @@ export function StatementScore() {
     return <Page>
         <Stack>
             <h1> Statement Score </h1>
-            <p> On this page you can upload a bank statment pdf to have it
-                scanned against our database, to identify how ethical or
+            <p> On this page you can scan a bank statment pdf against our
+                companies database, to identify how ethical or
                 unethical the companies you transact with are. </p>
             <p> For data protection, your bank statement will be processed
-                entirely on your own device and will not be sent out via the
-                internet whatsoever. However you can also use a sample bank
-                statement if you would prefer not to use your own! </p>
+                entirely on your own device and will not be sent out via
+                the internet whatsoever. However you can also use a sample
+                bank statement if you would prefer not to use
+                your own. </p>
             <Results results={results} />
-            <h2> upload a bank statement </h2>
+            <h2> scan a bank statement </h2>
             <input type="file" accept=".pdf,application/pdf" onChange={
                 async e => setFileDataURL( await getDataURL(e.target.files[0]) )
             } />
