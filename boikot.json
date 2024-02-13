@@ -1569,6 +1569,36 @@
             "siteUrl": "https://amazon.com",
             "updatedAt": "2024-01-07T15:59:06.010Z"
         },
+        "fedex": {
+            "names": [
+                "FedEx",
+                "FedEx Corporation",
+                "Federal Express Corporation",
+                "FDX Corporation",
+                "Federal Express",
+                "FDX"
+            ],
+            "comment": "Fedex is an American shipping and logistics company that spends tens of millions of dollars lobbying the federal government [1], benefitted from tax cuts without subsequently increasing investment as promised [2], distributed drugs to patients without prescriptions [3], and pressured employees into working through the pandemic even if they were sick [4]. Fedex has made significant emissions savings through fuel conservation programs [5] but their 2021 annual report still states that they may struggle to reach their climate targets [6].",
+            "sources": {
+                "1": "https://web.archive.org/web/20210308191338/https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2018&id=D000000089",
+                "2": "https://www.nytimes.com/2019/11/17/business/how-fedex-cut-its-tax-bill-to-0.html",
+                "3": "https://web.archive.org/web/20141120015938/http://www.justice.gov/usao/can/news/2014/2014_07_17_fedex.indicted.press.html",
+                "4": "https://www.nytimes.com/2020/03/21/business/coronavirus-ups-fedex-xpo-workers.html",
+                "5": "https://web.archive.org/web/20221021092857/https://www.uschamberfoundation.org/blog/post/fedex-fuel-sense-every-drop-counts/31620",
+                "6": "https://web.archive.org/web/20221018015119/https://investors.fedex.com/financial-information/sec-filings/default.aspx"
+            },
+            "tags": [
+                "transportation",
+                "ecommerce",
+                "logistics",
+                "shipping"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/FedEx_Corporation_-_2016_Logo.svg",
+            "siteUrl": "https://www.fedex.com/",
+            "updatedAt": "2024-02-11T17:53:17.979Z"
+        },
         "vodafone": {
             "names": [
                 "Vodafone",
