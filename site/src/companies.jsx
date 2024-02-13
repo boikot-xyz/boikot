@@ -76,23 +76,25 @@ function Subsidiaries({ entry }) {
     </Stack>;
 }
 
-export function Company({entry}) {
+export function Company({ entry, compact }) {
     if( !entry.names ) return null;
 
     return <Stack>
-        <CompanyHeader entry={entry} />
+        <CompanyHeader entry={entry} link={!!compact} />
         { entry.comment && <Comment>
             { renderReferences(entry) }
         </Comment> }
-        <Sources entry={entry} />
-        <Owners entry={entry} />
-        <Subsidiaries entry={entry} />
-        <Link to={`/companies/edit/${getKey(entry)}`}>
-            <PillButton $outline> ✏️  Edit this Company </PillButton>
-        </Link>
-        <Link to="/companies">
-            <PillButton $outline> ↩️ Back to Companies </PillButton>
-        </Link>
+        { !compact && <>
+            <Sources entry={entry} />
+            <Owners entry={entry} />
+            <Subsidiaries entry={entry} />
+            <Link to={`/companies/edit/${getKey(entry)}`}>
+                <PillButton $outline> ✏️  Edit this Company </PillButton>
+            </Link>
+            <Link to="/companies">
+                <PillButton $outline> ↩️ Back to Companies </PillButton>
+            </Link>
+        </> }
     </Stack>;
 }
 
