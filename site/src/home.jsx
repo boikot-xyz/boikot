@@ -35,6 +35,14 @@ export function Home() {
                     </PillButton>
                 </Link>
             </FlexRow>
+            <h2 style={{ marginTop: "1rem" }}> Score your Statement 📊 </h2>
+            <p> run a bank statement against our database to see how
+                ethical the purchases you make are. </p>
+            <Link to="/statement-score">
+                <PillButton style={{ justifySelf: "left" }}>
+                    score your statement!
+                </PillButton>
+            </Link>
             <h2 style={{ marginTop: "1rem" }}> our ratings ⚖️  </h2>
             <p style={{ lineHeight: "1.4rem" }}>
                 We rank companies on a scale from <Score score="0" />{" "}
