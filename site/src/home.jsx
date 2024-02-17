@@ -37,7 +37,8 @@ export function Home() {
             </FlexRow>
             <h2 style={{ marginTop: "1rem" }}> Score your Statement 📊 </h2>
             <p> run a bank statement against our database to see how
-                ethical the purchases you make are. </p>
+                ethical the purchases you make are. your files stay on your
+                own device with complete privacy. </p>
             <Link to="/statement-score">
                 <PillButton style={{ justifySelf: "left" }}>
                     score your statement!
