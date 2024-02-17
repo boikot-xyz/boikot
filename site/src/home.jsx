@@ -17,6 +17,9 @@ export function Home() {
                 we aim to inform consumer choice, raise the cost of
                 harmful business decisions, and incentivise companies to
                 act responsibly in the public interest. </p>
+            <p> All of our services
+                and data are offered free to the public under the terms of
+                the GPL v3 licence. </p>
             <h1 style={{ marginTop: "1rem" }}> worst offenders 💩 </h1>
             { Object.values(boikot.companies)
                 .filter( entry => !!entry.comment )
