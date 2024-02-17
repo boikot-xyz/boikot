@@ -356,9 +356,13 @@ export function CompanyEditor() {
         <Stack>
             <h1> Company Editor </h1>
             <p> To submit a company record, please fill out the form
-                below and copy-paste the company data into a new Issue
-                on our <a href="https://github.com/boikot-xyz/boikot/issues"
-                    target="_blank" rel="noreferrer"> github repo</a>.
+                below and copy-paste the company data into a <a
+                    href="https://github.com/boikot-xyz/boikot/issues"
+                    target="_blank" rel="noreferrer">
+                    new Issue on our github repo
+                </a> or email it to <a
+                    href="mailto:submissions@boikot.xyz">
+                    submissions@boikot.xyz </a>.
                 We will then add it to our database 🤝 please cite
                 your sources!
             </p>
