@@ -4,8 +4,8 @@
   "description": "boikot.xyz",
   "main": "src/app.jsx",
   "scripts": {
-    "start": "esbuild src/app.jsx --bundle --loader:.md=text --servedir=www/ --outdir=www/build --serve-fallback=www/index.html --define:process.env.VERSION=\\\"$( git rev-parse HEAD | head -c 6 )\\\"",
-    "build": "esbuild src/app.jsx --bundle --loader:.md=text --minify --outdir=www/build --define:process.env.VERSION=\\\"$( git rev-parse HEAD | head -c 6 )\\\""
+    "start": "esbuild src/app.jsx --bundle --sourcemap --loader:.md=text --servedir=www/ --outdir=www/build --serve-fallback=www/index.html --define:process.env.VERSION=\\\"$( git rev-parse HEAD | head -c 6 )\\\"",
+    "build": "esbuild src/app.jsx --bundle --sourcemap --loader:.md=text --minify --outdir=www/build --define:process.env.VERSION=\\\"$( git rev-parse HEAD | head -c 6 )\\\""
   },
   "author": "boikot",
   "license": "gpl v3",
