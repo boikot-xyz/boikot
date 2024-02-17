@@ -134,11 +134,13 @@ export function Score({ score }) {
 
 
 export function CompanyHeader({ entry, link = false }) {
-    const LinkOrFrag = link ? Link : React.Fragment;
     const companyURL =
         `/companies/${slugify(entry.names[0]).toLowerCase()}`;
-    return <LinkOrFrag to={companyURL}
-        style={{ textDecoration: "none" }}>
+    const LinkOrFrag = link
+        ? props => <Link {...props} to={companyURL}
+            style={{ textDecoration: "none" }} />
+        : React.Fragment;
+    return <LinkOrFrag>
         <Row gap="0.5rem">
             <img src={entry.logoUrl}
                 alt={`${entry.names[0]} logo`}
