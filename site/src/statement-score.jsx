@@ -38,13 +38,10 @@ async function getResults( fileDataURL, setResults ) {
     const pdfText = ( await Promise.all( pageNumbers.map(
         pageNumber => getPageText( pdfDocument, pageNumber )
     ) ) ).join("\n").toLowerCase();
+    const pdfWords = pdfText.split(/\s+/g);
     setResults({
         companies: Object.values(boikot.companies)
-            .filter( entry =>
-                pdfText.match(new RegExp(
-                    `(\\W|^)${entry.names[0].toLowerCase()}(\\W|$)`, "i"
-                ) )
-            )
+            .filter( entry => pdfWords.includes(entry.names[0].toLowerCase() ) )
             .map(getKey),
     });
 }
