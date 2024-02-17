@@ -149,9 +149,9 @@ export function CompanyHeader({ entry, link = false }) {
                     borderRadius: "0.5rem",
                     objectFit: "contain" }}/>
             <Stack gap="0" style={{ marginRight: "0.1rem" }}>
-                <LinkOrFrag to={companyURL}>
-                    <h3>{entry.names[0]}</h3>
-                </LinkOrFrag>
+                <h3 style={{ textDecoration: link && "underline" }}>
+                    {entry.names[0]}
+                </h3>
                 { !!entry.tags.length &&
                     <p style={{ color: "white", fontSize: "0.8rem" }}>
                         { entry.tags[0] } 
