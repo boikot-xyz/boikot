@@ -51,6 +51,14 @@ export function Home() {
                 negative actions, with <Score score="50" /> being a
                 neutral score.  If you disagree with a company score,
                 please submit an updated record for it! </p>
+            <h2 style={{ marginTop: "1rem" }}> contact us 📬  </h2>
+            <p> if you would like to work with us or have any other
+                enquiries please reach out! </p>
+            <Link to="/contact-us">
+                <PillButton style={{ justifySelf: "left" }}>
+                    contact us
+                </PillButton>
+            </Link>
         </Stack>
     </Page>
 }
