@@ -1,11 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <link rel="stylesheet" type="text/css" href="/index.css"/>
         <link rel="icon" href="/assets/favicon.svg">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title> boikot </title>
         <meta name="description" content="Keeping Companies Accountable.">
+        <style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --bg: #000711;
+    --bg-light: #112;
+    --bg-transparent: #00071199;
+    --fg: white;
+    --accent: #4ab;
+    --accent-dark: #055;
+    --accent-darker: #002626;
+    --success: #0f0;
+}
+
+@font-face {
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/assets/sora.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(/assets/sora-bold.ttf) format('truetype');
+}
+
+body, button, input {
+    font-family: 'Sora', sans-serif;
+    color: var(--fg);
+}
+
+
+body {
+    background: var(--bg);
+    color: var(--fg);
+}
+
+input, textarea {
+    background: var(--bg-light);
+    color: var(--fg);
+    padding: 0.6rem;
+    border: 0.05rem solid var(--fg);
+    border-radius: 0.5rem;
+    font-family: 'Sora', sans-serif;
+}
+::placeholder {
+    color: var(--fg);
+    opacity: 0.3;
+}
+
+button {
+    border: none;
+    background: transparent;
+    appearance: none;
+    cursor: pointer;
+}
+
+hr {
+    border: none;
+    border-top: 0.05rem solid var(--fg);
+    color: var(--fg);
+    overflow: visible;
+}
+
+a {
+    color: var(--accent);
+}
+        </style>
     </head>
     <body>
         <div id="react-entrypoint" />
