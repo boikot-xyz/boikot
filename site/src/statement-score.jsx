@@ -58,22 +58,25 @@ const resultsCardStyle = {
 
 function Results({ results }) {
     if( !results ) return null;
-    if( results.loading ) return "loading...";
-    if( !results.companies.length )
-        return <Stack style={ resultsCardStyle }>
-            <h2> 📊 results </h2>
-            <p> Unfortunately we didn't find any companies in the
-                document you uploaded 😩 Please try again with
-                another file? </p>
-        </Stack>;
+    let content;
+    if( results.loading )
+        content = <h4> scanning your statement 🤔 </h4>;
+    else if( !results.companies.length )
+        content = <p> Unfortunately we didn't find any companies in the
+            document you uploaded 😩 Please try again with
+            another file? </p>;
+    else
+        content = <>
+            <p> we found { results.companies.length } companies in your
+                statement which you can read more about below. </p>
+            { results.companies.map( key =>
+                <Company entry={ boikot.companies[key] }
+                    compact key={key} />
+            ) }
+        </>;
     return <Stack style={ resultsCardStyle }>
         <h2> 📊 results </h2>
-        <p> we found { results.companies.length } companies in your
-            statement which you can read more about below. </p>
-        { results.companies.map( key =>
-            <Company entry={ boikot.companies[key] }
-                compact key={key} />
-        ) }
+        { content }
     </Stack>;
 }
 
