@@ -71,7 +71,8 @@ function Results({ results }) {
         <p> we found { results.companies.length } companies in your
             statement which you can read more about below. </p>
         { results.companies.map( key =>
-            <Company entry={ boikot.companies[key] } compact />
+            <Company entry={ boikot.companies[key] }
+                compact key={key} />
         ) }
     </Stack>;
 }
