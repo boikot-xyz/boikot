@@ -246,7 +246,7 @@ export function Footer() {
         <hr />
         <FlexRow style={{ paddingLeft: "1rem", gap: "0.75rem 2rem" }}>
             <a href="https://github.com/boikot-xyz/boikot">
-                <Icon i="github" height="1.75rem" />
+                <Icon i="github" height="1.75rem" style={{ margin: "-0.375rem 0" }} />
             </a>
             <Link to="/contact-us"> contact us </Link>
             <Link to="/privacy-policy"> privacy policy </Link>
