@@ -38,7 +38,9 @@ async function getResults( fileDataURL, setResults ) {
     setResults({
         companies: Object.values(boikot.companies)
             .filter( entry =>
-                pdfText.includes(entry.names[0].toLowerCase())
+                pdfText.match(new RegExp(
+                    `(\\W|^)${entry.names[0].toLowerCase()}(\\W|$)`, "i"
+                ) )
             )
             .map(getKey),
     });
