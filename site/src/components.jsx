@@ -3,6 +3,22 @@ import styled, { css } from "styled-components";
 import { Link } from "react-router-dom";
 import slugify from "slugify";
 
+function defaultSortFunction(a, b) {
+    if (a < b) return -1;
+    if (a > b) return 1;
+    return 0;
+};
+
+function toSortedPolyfill( compareFunction ) {
+    const sortedArray = this.slice();
+    sortedArray.sort( compareFunction || defaultSortFunction );
+    return sortedArray;
+};
+
+if( !Array.prototype.toSorted ) {
+    Array.prototype.toSorted = toSortedPolyfill;
+}
+
 export const copy = text =>
     navigator.clipboard.writeText(text);
 
