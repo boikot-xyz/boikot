@@ -118,7 +118,7 @@
                 "2": "https://www.wired.com/2015/06/apples-latest-selling-point-little-knows",
                 "3": "https://www.gizbot.com/mobile/news/apple-app-tracking-transparency-becomes-facebook-nightmare-only-4-percent-allow-tracking-074217.html",
                 "4": "https://money.cnn.com/2016/02/22/technology/apple-privacy-icloud/index.html",
-                "5": "http://9to5mac.com/2016/06/09/apple-energy-company",
+                "5": "https://9to5mac.com/2016/06/09/apple-energy-company",
                 "6": "https://web.archive.org/web/20131202223855/http://www.businessweek.com/news/2013-03-21/apple-says-data-centers-now-use-100-percent-renewable-energy",
                 "7": "https://www.apple.com/newsroom/2016/06/global-apps-for-earth-campaign-with-wwf-raises-more-than--8m.html",
                 "8": "https://ghostarchive.org/archive/20221210/https://www.ft.com/content/e9bb4da1-867a-40ba-abc0-4a63d3421e31",
@@ -175,7 +175,7 @@
             "score": 85,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg",
-            "siteUrl": "http://tesla.com/",
+            "siteUrl": "https://tesla.com/",
             "updatedAt": "2023-12-15T22:09:30.315Z"
         },
         "github": {
@@ -311,9 +311,9 @@
             "comment": "Ford is an American car company that has committed environmental waste violations [1], sold unsafe vehicles [2][3] and discriminated against minorities in its financing policies [4]. Ford's philanthropic arm contributes millions annually to education and community building [5][6].",
             "sources": {
                 "1": "https://www.nytimes.com/2007/07/29/business/yourmoney/29spill.html",
-                "2": "http://articles.latimes.com/2013/aug/01/autos/la-fi-hy-autos-nhtsa-ford-with-fine-recall-20130801",
-                "3": "http://www.nytimes.com/2014/12/19/business/ford-recall-of-takata-airbags-to-extend-nationwide.html",
-                "4": "http://www.nytimes.com/2005/03/01/business/01ford.html",
+                "2": "https://articles.latimes.com/2013/aug/01/autos/la-fi-hy-autos-nhtsa-ford-with-fine-recall-20130801",
+                "3": "https://www.nytimes.com/2014/12/19/business/ford-recall-of-takata-airbags-to-extend-nationwide.html",
+                "4": "https://www.nytimes.com/2005/03/01/business/01ford.html",
                 "5": "https://web.archive.org/web/20190123223816/https://www.insidephilanthropy.com/grants-for-k-12-education/ford-motor-company-fund-community-services-grants-for-k-12-e.html",
                 "6": "https://web.archive.org/web/20190123224600/https://shareholder.ford.com/investors/sustainability/default.aspx"
             },
@@ -428,7 +428,7 @@
             "score": 50,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/ff/Britvic_logo.png",
-            "siteUrl": "http://www.britvic.co.uk/",
+            "siteUrl": "https://www.britvic.co.uk/",
             "updatedAt": "2023-12-23T09:41:38.711Z"
         },
         "fruit-shoot": {
@@ -518,7 +518,7 @@
             ],
             "comment": "",
             "sources": {
-                "1": "http://web.archive.org/web/20231223224400/https://www.britvic.com/our-news/performance/britvic-acquires-jimmy-s-iced-coffee/"
+                "1": "https://web.archive.org/web/20231223224400/https://www.britvic.com/our-news/performance/britvic-acquires-jimmy-s-iced-coffee/"
             },
             "tags": [
                 "beverages"
@@ -539,7 +539,7 @@
             ],
             "comment": "",
             "sources": {
-                "1": "http://web.archive.org/web/20230324214813/https://www.londonessenceco.com/en/privacy-policy/"
+                "1": "https://web.archive.org/web/20230324214813/https://www.londonessenceco.com/en/privacy-policy/"
             },
             "tags": [
                 "beverages"
@@ -568,7 +568,7 @@
                 "britvic"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/40/Teisseire_logo.png",
-            "siteUrl": "http://teisseire.com/",
+            "siteUrl": "https://teisseire.com/",
             "updatedAt": "2023-12-23T20:26:43.695Z"
         },
         "robinsons": {
@@ -588,7 +588,7 @@
                 "britvic"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Logo_of_Robinsons.png/400px-Logo_of_Robinsons.png",
-            "siteUrl": "http://www.robinsonssquash.co.uk/",
+            "siteUrl": "https://www.robinsonssquash.co.uk/",
             "updatedAt": "2023-12-23T20:26:43.695Z"
         },
         "aqua-libra": {
@@ -720,7 +720,7 @@
                 "unilever"
             ],
             "logoUrl": "https://1000logos.net/wp-content/uploads/2020/09/Hellmanns-Logo-2004-1024x585.jpg",
-            "siteUrl": "http://www.hellmanns.com/",
+            "siteUrl": "https://www.hellmanns.com/",
             "updatedAt": "2024-01-27T01:40:56.316Z"
         },
         "marmite": {
@@ -808,7 +808,7 @@
                 "unilever"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/Cif_logo.png",
-            "siteUrl": "http://www.cifclean.co.uk/",
+            "siteUrl": "https://www.cifclean.co.uk/",
             "updatedAt": "2024-01-27T01:40:56.316Z"
         },
         "persil": {
@@ -877,7 +877,7 @@
                 "unilever"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/1f/Radox_logo.png",
-            "siteUrl": "http://radox.co.uk/",
+            "siteUrl": "https://radox.co.uk/",
             "updatedAt": "2024-01-27T01:40:56.316Z"
         },
         "dove": {
@@ -966,7 +966,7 @@
             "ownedBy": [
                 "unilever"
             ],
-            "logoUrl": "http://img4.wikia.nocookie.net/__cb20091229190706/logopedia/images/e/ed/Calippo_logo.png",
+            "logoUrl": "https://img4.wikia.nocookie.net/__cb20091229190706/logopedia/images/e/ed/Calippo_logo.png",
             "siteUrl": "",
             "updatedAt": "2024-01-27T01:40:56.316Z"
         },
@@ -984,7 +984,7 @@
                 "unilever"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d5/Klondike_logo.svg",
-            "siteUrl": "http://klondikebar.com/",
+            "siteUrl": "https://klondikebar.com/",
             "updatedAt": "2024-01-27T01:40:56.316Z"
         },
         "magnum": {
@@ -1268,7 +1268,7 @@
                 "procter-and-gamble"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/37/Ariel_Logo.png",
-            "siteUrl": "http://www.ariel.co.uk/",
+            "siteUrl": "https://www.ariel.co.uk/",
             "updatedAt": "2024-01-31T19:01:06.524Z"
         },
         "herbal-essences": {
@@ -1303,7 +1303,7 @@
                 "procter-and-gamble"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Braun_Logo.svg",
-            "siteUrl": "http://www.braun.com/",
+            "siteUrl": "https://www.braun.com/",
             "updatedAt": "2024-01-31T19:01:06.524Z"
         },
         "aussie": {
@@ -1320,7 +1320,7 @@
                 "procter-and-gamble"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/48/Aussie_logo.png",
-            "siteUrl": "http://www.aussie.com/",
+            "siteUrl": "https://www.aussie.com/",
             "updatedAt": "2024-01-31T19:01:06.524Z"
         },
         "vicks": {
@@ -1337,7 +1337,7 @@
                 "procter-and-gamble"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/VicksLogo.png",
-            "siteUrl": "http://vicks.com/",
+            "siteUrl": "https://vicks.com/",
             "updatedAt": "2024-01-31T19:01:06.524Z"
         },
         "tide": {
@@ -1388,7 +1388,7 @@
                 "procter-and-gamble"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/17/Pampers_logo.svg",
-            "siteUrl": "http://www.pampers.com/",
+            "siteUrl": "https://www.pampers.com/",
             "updatedAt": "2024-01-31T19:01:06.524Z"
         },
         "oral-b": {
@@ -1422,7 +1422,7 @@
                 "procter-and-gamble"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Olay.png",
-            "siteUrl": "http://www.olay.com/",
+            "siteUrl": "https://www.olay.com/",
             "updatedAt": "2024-01-31T19:01:06.524Z"
         },
         "head-and-shoulders": {
@@ -1458,7 +1458,7 @@
                 "procter-and-gamble"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Gillette.svg",
-            "siteUrl": "http://gillette.com/",
+            "siteUrl": "https://gillette.com/",
             "updatedAt": "2024-01-31T19:01:06.524Z"
         },
         "febreeze": {
@@ -1475,7 +1475,7 @@
                 "procter-and-gamble"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Febreze_Logo.svg",
-            "siteUrl": "http://www.febreze.com/",
+            "siteUrl": "https://www.febreze.com/",
             "updatedAt": "2024-01-31T19:01:06.524Z"
         },
         "monster-energy": {
@@ -1490,7 +1490,7 @@
             "sources": {
                 "1": "https://www.huffpost.com/entry/monster-energy-lawsuits_n_5a6280c1e4b002283002ca27",
                 "2": "https://www.huffpost.com/entry/monster-energy-brent-hamilton-out_n_5cd9c3a9e4b0615b08178297",
-                "3": "http://www.racgp.org.au/download/documents/AFP/2011/March/201103pennay.pdf",
+                "3": "https://www.racgp.org.au/download/documents/AFP/2011/March/201103pennay.pdf",
                 "4": "https://doi.org/10.1016%2Fj.cjca.2014.12.019",
                 "5": "https://doi.org/10.1016%2Fj.lpm.2014.07.029"
             },
@@ -1622,7 +1622,7 @@
             "score": 45,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cc/Vodafone_2017_logo.svg",
-            "siteUrl": "http://vodafone.com/",
+            "siteUrl": "https://vodafone.com/",
             "updatedAt": "2024-02-11T17:22:19.768Z"
         },
         "salesforce": {
@@ -1667,7 +1667,7 @@
                 "5": "https://web.archive.org/web/20140611032723/http://www.theguardian.com/global-development/2014/jun/10/supermarket-prawns-thailand-produced-slave-labour",
                 "6": "https://web.archive.org/web/20210828175312/https://leftfootforward.org/2021/08/greenpeace-activists-protest-tesco-as-meat-supplier-linked-to-amazon-forest-fires/",
                 "7": "https://tescostrongerstarts.org.uk/5m-for-schools/",
-                "8": "http://www.taxresearch.org.uk/Blog/2008/06/01/tescos-the-zug-deal-is-tax-avoidance/"
+                "8": "https://www.taxresearch.org.uk/Blog/2008/06/01/tescos-the-zug-deal-is-tax-avoidance/"
             },
             "tags": [
                 "retail",
@@ -1719,7 +1719,7 @@
             "sources": {
                 "1": "https://web.archive.org/web/20221123183738/https://www.reuters.com/article/tech-eu-video-fines-dc-idUKBFA00056020071120",
                 "2": "https://web.archive.org/web/20201024125232/https://www.motherjones.com/environment/2000/09/sonys-pr-war-activists/",
-                "3": "http://blogs.technet.com/b/markrussinovich/archive/2005/10/31/sony-rootkits-and-digital-rights-management-gone-too-far.aspx",
+                "3": "https://blogs.technet.com/b/markrussinovich/archive/2005/10/31/sony-rootkits-and-digital-rights-management-gone-too-far.aspx",
                 "4": "https://www.sony.com/en_us/SCA/social-responsibility/environment.html"
             },
             "tags": [
@@ -1810,7 +1810,7 @@
             ],
             "comment": "Nike is an American sportswear company that has benefited from child labour [1] and forced Uyghur labour [2], has avoided tax [3] and failed to take responsibility for hazardous waste dumping in its supply chain [4]. Nike has invested in sustainable materials research [5] and clothing recycling programs [6].",
             "sources": {
-                "1": "http://news.bbc.co.uk/1/hi/programmes/panorama/970385.stm",
+                "1": "https://news.bbc.co.uk/1/hi/programmes/panorama/970385.stm",
                 "2": "https://fashionunited.com/news/fashion/nike-patagonia-named-in-european-lawsuit-as-being-complicit-in-forced-labour-practices-in-xinjiang-china/2021120644306",
                 "3": "https://www.icij.org/investigations/paradise-papers/explore-politicians-paradise-papers/",
                 "4": "https://web.archive.org/web/20200401155311/http://p3-raw.greenpeace.org/international/en/campaigns/detox/fashion/detox-catwalk/",
@@ -1861,7 +1861,7 @@
             "comment": "Greggs is a British bakery whose executives received \"excessive\" bonuses of millions of pounds in 2022 [1]. The Greggs foundation is a charitable organisation that gives schoolchildren access to free, nutritional food [2].",
             "sources": {
                 "1": "https://www.theguardian.com/business/2022/may/11/greggs-feels-heat-from-investors-over-excessive-pay-for-bosses",
-                "2": "http://web.archive.org/web/20240118100640/https://www.greggsfoundation.org.uk/news/2023-in-review"
+                "2": "https://web.archive.org/web/20240118100640/https://www.greggsfoundation.org.uk/news/2023-in-review"
             },
             "tags": [
                 "bakery",
@@ -1883,7 +1883,7 @@
             ],
             "comment": "Adidas is a German sportswear manufacturer that has selected suppliers subjecting employees to sweatshop-like conditions [1] and whose head of HR resigned after inaction against racial discrimination within the company [2].",
             "sources": {
-                "1": "http://www.oxfam.org.au/explore/workers-rights/adidas",
+                "1": "https://www.oxfam.org.au/explore/workers-rights/adidas",
                 "2": "https://www.reuters.com/article/us-adidas-race/adidas-human-resources-head-steps-down-after-race-row-idUSKBN241332?il=0"
             },
             "tags": [
@@ -1910,7 +1910,7 @@
                 "nike"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Converse_logo.svg",
-            "siteUrl": "http://converse.com/",
+            "siteUrl": "https://converse.com/",
             "updatedAt": "2024-01-29T21:48:22.741Z"
         },
         "jordans": {
@@ -1992,7 +1992,7 @@
             "comment": "Spotify is a music streaming service that has been accused of unfairly compensating artists [1][2] and whose CEO has donated millions to military artificial intelligence research [3][4]. Although spotify has reduced piracy it has also reduced music sales [5] limiting benefit to artists.",
             "sources": {
                 "1": "https://www.digitalmusicnews.com/2021/06/29/spotify-executive-entitled-pay-penny-per-stream/",
-                "2": "http://www.huffingtonpost.com/2012/03/28/black-keys-sean-parker-spotify-asshole_n_1384882.html",
+                "2": "https://www.huffingtonpost.com/2012/03/28/black-keys-sean-parker-spotify-asshole_n_1384882.html",
                 "3": "https://techcrunch.com/2021/11/09/daniel-eks-fund-puts-e100m-into-defence-startup-helsing-ai-to-support-democracies/",
                 "4": "https://www.billboard.com/pro/daniel-ek-defense-tech-investment-boycott-spotify-helsing/",
                 "5": "https://www.engadget.com/2015-10-28-spotify-piracy-study.html?guccounter=1"
