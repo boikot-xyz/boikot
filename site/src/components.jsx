@@ -154,7 +154,7 @@ function Menu({ open, close }) {
                 gridTemplateColumns: "auto min-content"
             }}>
                 <h1> menu 🗺️</h1>
-                <IconButton i="x" onClick={close} />
+                <IconButton i="x" onClick={close} alt="close menu" />
             </Row>
             <MenuLink to="/"> home </MenuLink>
             <MenuLink to="/companies"> companies </MenuLink>
@@ -180,7 +180,8 @@ export function MenuButton() {
     const [ open, setOpen ] = React.useState(false);
 
     return <>
-        <IconButton onClick={ () => setOpen(true) } i="menu" />
+        <IconButton i="menu" alt="open menu"
+            onClick={ () => setOpen(true) } />
         <Menu open={open} close={ () => setOpen(false) } />
     </>;
 }
@@ -246,7 +247,8 @@ export function Footer() {
         <hr />
         <FlexRow style={{ paddingLeft: "1rem", gap: "0.75rem 2rem" }}>
             <a href="https://github.com/boikot-xyz/boikot">
-                <Icon i="github" height="1.75rem" style={{ margin: "-0.375rem 0" }} />
+                <Icon i="github" height="1.75rem" alt="boikot github"
+                    style={{ margin: "-0.375rem 0" }} />
             </a>
             <Link to="/contact-us"> contact us </Link>
             <Link to="/privacy-policy"> privacy policy </Link>

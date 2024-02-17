@@ -141,6 +141,7 @@ export function CompanyHeader({ entry, link = false }) {
         style={{ textDecoration: "none" }}>
         <Row gap="0.5rem">
             <img src={entry.logoUrl}
+                alt={`${entry.names[0]} logo`}
                 style={{
                     width: "3rem",
                     height: "3rem",

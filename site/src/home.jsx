@@ -25,7 +25,8 @@ export function Home() {
                 .filter( entry => !!entry.comment )
                 .toSorted( (a,b) => a.score - b.score )
                 .slice(0, 10)
-                .map( entry => <CompanyHeader entry={ entry } link /> ) }
+                .map( entry => <CompanyHeader entry={ entry } link
+                    key={entry.names[0]} /> ) }
             <FlexRow>
                 <Link to="/companies">
                     <PillButton $outline>
