@@ -56,6 +56,13 @@ const resultsCardStyle = {
 
 function Results({ results }) {
     if( !results ) return null;
+    if( !results.companies.length )
+        return <Stack style={ resultsCardStyle }>
+            <h2> 📊 results </h2>
+            <p> Unfortunately we didn't find any companies in the
+                document you uploaded 😩 Please try again with
+                another file? </p>
+        </Stack>;
     return <Stack style={ resultsCardStyle }>
         <h2> 📊 results </h2>
         <p> we found { results.companies.length } companies in your
