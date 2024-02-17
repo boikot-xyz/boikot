@@ -249,6 +249,7 @@ export function Footer() {
                 <Icon i="github" height="1.75rem" />
             </a>
             <Link to="/contact-us"> contact us </Link>
+            <Link to="/privacy-policy"> privacy policy </Link>
             <VersionNumber />
         </FlexRow>
     </Stack>;
