@@ -16,5 +16,11 @@
 
         <script src="/build/app.js"></script>
         <script src="/assets/pdf.min.mjs" type="module"></script>
+        <script>
+        window.onload = () => {
+            pdfjsLib.GlobalWorkerOptions.workerSrc =
+                "/assets/pdf.worker.min.mjs";
+        };
+        </script>
     </body>
 </html>
