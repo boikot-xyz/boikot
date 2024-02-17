@@ -72,7 +72,7 @@ function Subsidiaries({ entry }) {
             Companies owned by { entry.names[0] }:
         </h3>
         { subsidiaries.map( entry =>
-            <CompanyHeader link entry={entry} /> ) }
+            <CompanyHeader link entry={entry} key={entry.names[0]} /> ) }
     </Stack>;
 }
 
