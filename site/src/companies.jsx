@@ -22,7 +22,7 @@ const Comment = styled.p`
 
 function renderReferences({ comment, sources }) {
     const refs = comment.match(/\[\d+\]/g).map(ref =>
-        <sup><a href={sources[ref.match(/\d+/)]}
+        <sup key={ref}><a href={sources[ref.match(/\d+/)]}
             target="_blank" rel="noreferrer noopener">
             { ref }
         </a></sup> );
