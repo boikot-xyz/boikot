@@ -45,7 +45,7 @@ async function getResults( fileDataURL, setResults ) {
 }
 
 const resultsCardStyle = {
-    padding: "1rem 1rem",
+    padding: "1.2rem 1rem",
     borderRadius: "2rem",
     border: "0.05rem solid var(--accent)",
     background: "var(--accent-darker)",
