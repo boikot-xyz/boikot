@@ -89,6 +89,10 @@ export function StatementScore() {
                 your own. </p>
             <Results results={results} />
             <h2> scan a bank statement </h2>
+            { fileDataURL && <PillButton
+                onClick={() => getResults(fileDataURL, setResults)}>
+                💥 click to score your statement!
+            </PillButton> }
             <input type="file" accept=".pdf,application/pdf" onChange={
                 async e => setFileDataURL( await getDataURL(e.target.files[0]) )
             } />
