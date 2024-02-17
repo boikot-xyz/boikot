@@ -38,7 +38,8 @@ function SearchTermRow({ searchTerm }) {
         <Row style={{ justifySelf: "right", gap: "0.4rem" }}>
             { searchEngines.map( searchEngine =>
                 <a href={searchEngine.makeURL(searchTerm)}
-                    target="_blank" rel="noreferrer noopener">
+                    target="_blank" rel="noreferrer noopener"
+                    key={searchEngine.label}>
                     <IconBadge i="search">
                         <p style={{ fontSize: "0.7rem" }}>
                             { searchEngine.label }
@@ -56,7 +57,8 @@ function SearchTerms({ companyName }) {
     return <Stack gap="1rem">
         { searchTermMakers.map( searchTermMaker =>
             <SearchTermRow
-                searchTerm={searchTermMaker(companyName || "...")} />
+                searchTerm={searchTermMaker(companyName || "...")}
+                key={searchTermMaker()} />
         ) }
     </Stack>;
 }
