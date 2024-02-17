@@ -95,7 +95,8 @@ export function StatementScore() {
                 unethical the companies you transact with are. </p>
             <p> For data protection, your bank statement will be processed
                 entirely on your own device and will not be sent out via
-                the internet whatsoever. However you can also use a sample
+                the internet whatsoever - you can use this page with
+                airplane mode enabled. However you can also use a sample
                 bank statement if you would prefer not to use
                 your own. </p>
             <Results results={results} />
