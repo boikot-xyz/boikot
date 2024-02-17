@@ -250,6 +250,7 @@ export function Footer() {
             </a>
             <Link to="/contact-us"> contact us </Link>
             <Link to="/privacy-policy"> privacy policy </Link>
+            <Link to="/terms-and-conditions"> terms and conditions </Link>
             <VersionNumber />
         </FlexRow>
     </Stack>;

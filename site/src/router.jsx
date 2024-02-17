@@ -11,6 +11,7 @@ import { Companies, CompanyDetail } from "./companies.jsx";
 import { Search } from "./search.jsx";
 import { StatementScore } from "./statement-score.jsx";
 import { PrivacyPolicy } from "./privacy-policy.jsx";
+import { TermsAndConditions } from "./terms-and-conditions.jsx";
 import { Blogs, loadBlogs } from "./blog.jsx";
 
 const router = createBrowserRouter([
@@ -55,6 +56,10 @@ const router = createBrowserRouter([
     {
         path:  "/privacy-policy",
         element: <PrivacyPolicy />,
+    },
+    {
+        path:  "/terms-and-conditions",
+        element: <TermsAndConditions />,
     },
 ]);
 
