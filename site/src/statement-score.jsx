@@ -23,6 +23,9 @@ async function getPageText( pdfDocument, pageNumber ) {
 }
 
 async function getResults( fileDataURL, setResults ) {
+    setResults({ loading: true });
+    window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+
     if (typeof pdfjsLib === "undefined")
         alert("Could not access PDF reading utility :(");
     pdfjsLib.GlobalWorkerOptions.workerSrc =
@@ -44,7 +47,6 @@ async function getResults( fileDataURL, setResults ) {
             )
             .map(getKey),
     });
-    window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
 }
 
 const resultsCardStyle = {
@@ -56,6 +58,7 @@ const resultsCardStyle = {
 
 function Results({ results }) {
     if( !results ) return null;
+    if( results.loading ) return "loading...";
     if( !results.companies.length )
         return <Stack style={ resultsCardStyle }>
             <h2> 📊 results </h2>
