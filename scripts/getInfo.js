@@ -45,7 +45,8 @@ function getSiteUrl( pageDOM ) {
         "table.infobox.vcard tr th.infobox-label"
     )];
     const siteLabel = infoBoxLabels.filter( 
-        el => el.innerHTML.includes("Website")
+        el => el.innerHTML.includes("Website") 
+           || el.innerHTML.includes("URL")
     )[0];
     const siteUrl = siteLabel?.parentElement.querySelector("a").href;
 
