@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "styled-components";
 import { useLoaderData } from "react-router-dom";
-import showdown from 'showdown';
 
 import { Stack, Page, WrappingPre } from "./components.jsx";
 
