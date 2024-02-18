@@ -253,9 +253,10 @@ export function Footer() {
                 <Icon i="github" height="1.75rem" alt="boikot github"
                     style={{ margin: "-0.375rem 0" }} />
             </a>
-            <Link to="/contact-us"> contact us </Link>
-            <Link to="/privacy-policy"> privacy policy </Link>
-            <Link to="/terms-and-conditions"> terms and conditions </Link>
+            <MenuLink to="/companies"> company ethics reports </MenuLink>
+            <MenuLink to="/contact-us"> contact us </MenuLink>
+            <MenuLink to="/privacy-policy"> privacy policy </MenuLink>
+            <MenuLink to="/terms-and-conditions"> terms and conditions </MenuLink>
             <VersionNumber />
         </FlexRow>
     </Stack>;
