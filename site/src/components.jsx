@@ -119,7 +119,7 @@ export const Header = () =>
         marginBottom: "1rem",
     }}>
         <Link to="/" style={{ textDecoration: 'none' }}>
-            <h2 style={{ color: "white" }}> boikot 🙅‍♀️ </h2>
+            <h2 style={{ color: "var(--fg)" }}> boikot 🙅‍♀️ </h2>
         </Link>
         <MenuButton />
     </Row>;
@@ -136,7 +136,7 @@ const ScreenFiller = styled.div`
 function MenuLink({ to, children }) {
     let style = {};
     if( location.pathname === to )
-        style = { color: "white", fontWeight: "600" };
+        style = { color: "var(--fg)", fontWeight: "600" };
     return <Link to={to} style={style}>
         { children }
     </Link>;

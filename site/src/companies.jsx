@@ -157,7 +157,7 @@ export function CompanyHeader({ entry, link = false }) {
                     {entry.names[0]}
                 </h3>
                 { !!entry.tags.length &&
-                    <p style={{ color: "white", fontSize: "0.8rem" }}>
+                    <p style={{ color: "var(--fg)", fontSize: "0.8rem" }}>
                         { entry.tags[0] } 
                     </p> }
             </Stack>
