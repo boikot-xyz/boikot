@@ -2,7 +2,7 @@
 ## Author: oscar@boikot.xyz
 ## Date: Sun Feb 18 14:43:43 GMT 2024
 
-In the landscape of online retail and technology, Amazon stands as a towering figure with unprecedented reach and influence. From its humble beginnings as an online bookstore to its current status as a global conglomerate, Amazon has reshaped the way we shop, consume media, and interact with technology. However, beneath the convenience and innovation lies a dark underbelly of controversies and allegations.
+In the online retail and technology space, Amazon has unprecedented reach and influence. From its humble beginnings as an online bookstore to its current status as a global conglomerate, Amazon has reshaped the way we shop, consume media, and interact with technology. However, beneath the convenience and innovation lies a dark underbelly of controversies and allegations.
 
 ## Funding Climate Change Denial and Propaganda
 
