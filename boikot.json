@@ -1896,6 +1896,35 @@
             "siteUrl": "https://www.adidas.com/",
             "updatedAt": "2024-01-29T21:48:22.741Z"
         },
+        "twitter": {
+            "names": [
+                "Twitter",
+                "X",
+                "Twitter.com",
+                "x.com",
+                "Twitter, Inc.",
+                "X Corp."
+            ],
+            "comment": "X, formerly known as Twitter, is an American social media platform owned by Elon Musk, under whose ownership hate speech has flourished [3]. Twitter has been pivotal in democratising the spread of information and news [2], and for purposes like organising political actions [1], but its algorithm has been found to be politically biased [4]. ",
+            "sources": {
+                "1": "https://doi.org/10.13140%2FRG.2.1.4239.9442",
+                "2": "https://web.archive.org/web/20170206120212/http://denman-mills.net/web_documents/jips_mills.etal._2009.07.22_finalsubmission.pdf",
+                "3": "https://www.wired.com/story/twitter-really-is-worse-than-ever/",
+                "4": "https://www.theguardian.com/technology/2021/oct/22/twitter-admits-bias-in-algorithm-for-rightwing-politicians-and-news-outlets"
+            },
+            "tags": [
+                "social media",
+                "news",
+                "tech",
+                "communications",
+                "elon musk"
+            ],
+            "score": 48,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg",
+            "siteUrl": "https://twitter.com/",
+            "updatedAt": "2024-02-18T12:11:46.993Z"
+        },
         "converse": {
             "names": [
                 "Converse"
