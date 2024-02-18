@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { Link, useParams } from "react-router-dom";
 import slugify from "slugify";
+import { Helmet } from "react-helmet";
 
 import { getKey, Badge, Icon, IconButton, Page, PillButton, Row, Stack, ForceWrap } from "./components.jsx";
 import boikot from "../../boikot.json";
@@ -196,6 +197,10 @@ export function Companies() {
             .includes(search.toLowerCase()) )
         .toSorted( (a, b) => a.names[0].localeCompare(b.names[0]) );
     return <Page>
+        <Helmet>
+            <title> boikot - companies </title>
+            <meta name="description" content="Explore the ethical ratings of the world's biggest companies." />
+        </Helmet>
         <Stack>
             <h1> Companies </h1>
             <SearchBar value={search} setValue={setSearch} />
