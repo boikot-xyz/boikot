@@ -151,6 +151,7 @@ export function CompanyHeader({ entry, link = false }) {
                     padding: "0.25rem",
                     background: "white",
                     borderRadius: "0.5rem",
+                    border: "0.1rem solid var(--fg)",
                     objectFit: "contain" }}/>
             <Stack gap="0" style={{ marginRight: "0.1rem" }}>
                 <h3 style={{ textDecoration: link && "underline" }}>
