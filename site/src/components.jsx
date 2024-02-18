@@ -157,7 +157,7 @@ function Menu({ open, close }) {
                 <IconButton i="x" onClick={close} alt="close menu" />
             </Row>
             <MenuLink to="/"> home </MenuLink>
-            <MenuLink to="/companies"> companies </MenuLink>
+            <MenuLink to="/companies"> company ethics reports </MenuLink>
             <MenuLink to="/statement-score"> scan a document </MenuLink>
             <MenuLink to="/companies/edit"> add a company </MenuLink>
             <MenuLink to="/search"> search </MenuLink>
