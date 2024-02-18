@@ -1896,6 +1896,31 @@
             "siteUrl": "https://www.adidas.com/",
             "updatedAt": "2024-01-29T21:48:22.741Z"
         },
+        "uniqlo": {
+            "names": [
+                "Uniqlo"
+            ],
+            "comment": "Uniqlo is a Japanese clothing retailer that has repeatedly exhibited abuse of its workers globally [1][2][3][4], sourced materials stemming from forced labour [5] and produced adverts that trivialised the trauma of victims of sex slavery [6]. Uniqlo initially decided to keep operating in Russia but the reversed its decision [7].",
+            "sources": {
+                "1": "https://www.waronwant.org/sites/default/files/WoW_uniqlo%20report%202016.pdf",
+                "2": "https://web.archive.org/web/20160827181345/http://www.waronwant.org/media/reality-behind-uniqlos-corporate-social-responsibility-promises",
+                "3": "https://web.archive.org/web/20160920181433/http://qz.com/324726/your-uniqlo-skinny-jeans-may-have-a-dark-past/",
+                "4": "https://web.archive.org/web/20190302234149/https://www.news.com.au/finance/business/retail/everyone-has-some-form-of-ptsd-former-uniqlo-employees-describe-toxic-bullying-culture/news-story/3e355f0f9c64234aa30e95b378735df8",
+                "5": "https://web.archive.org/web/20210521104028/https://www.reuters.com/world/china/uniqlo-shirts-blocked-us-border-january-china-forced-labour-concern-2021-05-19/",
+                "6": "https://web.archive.org/web/20210614232327/https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js",
+                "7": "https://www.nytimes.com/2022/03/10/business/uniqlo-fast-retailing-russia.html"
+            },
+            "tags": [
+                "clothing",
+                "fast fashion",
+                "retail"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Uniqlo_logo_Japanese.svg",
+            "siteUrl": "https://www.uniqlo.com/",
+            "updatedAt": "2024-02-18T12:37:05.918Z"
+        },
         "twitter": {
             "names": [
                 "Twitter",
