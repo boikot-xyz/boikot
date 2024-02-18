@@ -227,6 +227,9 @@ export function DeleteableBadgeList({ items, deleteAtIndex = () => {} }) {
 }
 
 export function Page({ children }) {
+    React.useEffect(
+        () => { window.scrollTo(0, 0); }, []
+    );
     return <CentererOuter style={{ minHeight: "100vh" }}>
         <Stack style={{
             padding: "2rem 2rem 1rem 2rem",
