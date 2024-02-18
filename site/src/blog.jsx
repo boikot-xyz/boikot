@@ -5,6 +5,8 @@ import { useLoaderData } from "react-router-dom";
 import { Stack, Page, WrappingPre } from "./components.jsx";
 
 const blogFiles = [
+    "amazon.md",
+    "adidas.md",
     "6.md",
     "5.md",
     "4.md",
