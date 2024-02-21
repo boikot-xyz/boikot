@@ -37,6 +37,9 @@ export const PillButton = styled.button`
         border: 0.05rem solid var(--fg);
         padding: 0.5rem 1.2rem;
     ` }
+    ${ props => props.disabled && css`
+        opacity: 0.5;
+    ` }
 `;
 
 export const Stack = styled.div`
@@ -245,17 +248,23 @@ export function Page({ children }) {
     </CentererOuter>;
 }
 
+const isEmail = email => !email.length || email.match( /.+@.+\..+/ );
+
 function MailingList() {
+    const [ email, setEmail ] = React.useState("");
     return <form name="mailing-list" method="post">
+        <input type="hidden" name="form-name" value="mailing-list" />
         <Stack>
             <p> Enter your email to join our mailing list
                 and stay up to date! </p>
             <Row>
-                <input type="hidden" name="form-name"
-                    value="mailing-list" />
                 <input type="email" name="email"
-                    placeholder="enter your email" />
-                <PillButton type="submit"> submit 📨 </PillButton>
+                    placeholder="enter your email" value={ email }
+                    style={ { borderColor: !isEmail(email) && "red" } }
+                    onChange={ e => setEmail(e.target.value) }/>
+                <PillButton type="submit" disabled={ !isEmail(email) }>
+                    submit 📨
+                </PillButton>
             </Row>
         </Stack>
     </form>;
