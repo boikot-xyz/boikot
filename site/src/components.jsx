@@ -248,19 +248,21 @@ export function Page({ children }) {
     </CentererOuter>;
 }
 
-const isEmail = email => !email.length || email.match( /.+@.+\..+/ );
+const isEmail = email => email.match( /.+@.+\..+/ );
 
 function MailingList() {
     const [ email, setEmail ] = React.useState("");
     return <form name="mailing-list" method="post">
         <input type="hidden" name="form-name" value="mailing-list" />
-        <Stack>
+        <Stack style={{ width: "100%", gridTemplateColumns: "1fr auto" }}>
             <p> Enter your email to join our mailing list
                 and stay up to date! </p>
             <Row>
                 <input type="email" name="email"
                     placeholder="enter your email" value={ email }
-                    style={ { borderColor: !isEmail(email) && "red" } }
+                    style={{ borderColor:
+                        !!email.length && !isEmail(email) && "red"
+                    }}
                     onChange={ e => setEmail(e.target.value) }/>
                 <PillButton type="submit" disabled={ !isEmail(email) }>
                     submit 📨
