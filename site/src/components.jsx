@@ -245,10 +245,27 @@ export function Page({ children }) {
     </CentererOuter>;
 }
 
+function MailingList() {
+    return <form name="mailing-list" method="post">
+        <Stack>
+            <p> Enter your email to join our mailing list
+                and stay up to date! </p>
+            <Row>
+                <input type="hidden" name="form-name"
+                    value="mailing-list" />
+                <input type="email" name="email"
+                    placeholder="enter your email" />
+                <PillButton type="submit"> submit 📨 </PillButton>
+            </Row>
+        </Stack>
+    </form>;
+}
+
 export function Footer() {
     return <Stack style={{ marginTop: "3rem", fontSize: "0.9rem" }}>
         <hr />
         <Stack>
+            <MailingList />
             <a href="https://github.com/boikot-xyz/boikot">
                 <Icon i="github" height="1.75rem" alt="boikot github" />
             </a>
