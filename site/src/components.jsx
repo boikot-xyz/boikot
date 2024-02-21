@@ -263,7 +263,8 @@ function MailingList() {
                 <input type="email" name="email"
                     placeholder="enter your email" value={ email }
                     style={{ borderColor:
-                        !!email.length && !isEmail(email) && "red"
+                        !!email.length && !isEmail(email) && "red",
+                        minWidth: 0
                     }}
                     onChange={ e => setEmail(e.target.value) }/>
                 <PillButton type="submit" disabled={ !isEmail(email) }>
