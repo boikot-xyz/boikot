@@ -248,17 +248,22 @@ export function Page({ children }) {
 export function Footer() {
     return <Stack style={{ marginTop: "3rem", fontSize: "0.9rem" }}>
         <hr />
-        <FlexRow style={{ paddingLeft: "1rem", gap: "0.75rem 2rem" }}>
+        <Stack>
             <a href="https://github.com/boikot-xyz/boikot">
-                <Icon i="github" height="1.75rem" alt="boikot github"
-                    style={{ margin: "-0.375rem 0" }} />
+                <Icon i="github" height="1.75rem" alt="boikot github" />
             </a>
-            <MenuLink to="/companies"> company ethics reports </MenuLink>
-            <MenuLink to="/contact-us"> contact us </MenuLink>
-            <MenuLink to="/privacy-policy"> privacy policy </MenuLink>
-            <MenuLink to="/terms-and-conditions"> terms and conditions </MenuLink>
-            <VersionNumber />
-        </FlexRow>
+            <FlexRow style={{ gap: "0.75rem 2rem" }}>
+                <MenuLink to="/companies">
+                    company ethics reports
+                </MenuLink>
+                <MenuLink to="/contact-us"> contact us </MenuLink>
+                <MenuLink to="/privacy-policy"> privacy policy </MenuLink>
+                <MenuLink to="/terms-and-conditions">
+                    terms and conditions
+                </MenuLink>
+            </FlexRow>
+        <VersionNumber />
+        </Stack>
     </Stack>;
 }
 
