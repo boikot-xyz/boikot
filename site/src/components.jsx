@@ -254,10 +254,12 @@ function MailingList() {
     const [ email, setEmail ] = React.useState("");
     return <form name="mailing-list" method="post">
         <input type="hidden" name="form-name" value="mailing-list" />
-        <Stack style={{ width: "100%", gridTemplateColumns: "1fr auto" }}>
+        <Stack>
             <p> Enter your email to join our mailing list
                 and stay up to date! </p>
-            <Row>
+            <Row style={{
+                width: "100%", gridTemplateColumns: "1fr max-content"
+            }}>
                 <input type="email" name="email"
                     placeholder="enter your email" value={ email }
                     style={{ borderColor:
