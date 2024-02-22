@@ -1896,6 +1896,25 @@
             "siteUrl": "https://www.adidas.com/",
             "updatedAt": "2024-01-29T21:48:22.741Z"
         },
+        "kia": {
+            "names": [
+                "Kia",
+                "Kia Motors Corporation",
+                "Kyungsung Precision Industry"
+            ],
+            "comment": "Kia is a south korean car company that illegally inflated its fuel efficiency ratings [1].",
+            "sources": {
+                "1": "https://web.archive.org/web/20130109184821/http://www.theglobeandmail.com/globe-drive/new-cars/auto-news/new-kia-president-has-designs-on-greatness/article7038364/"
+            },
+            "tags": [],
+            "score": 40,
+            "ownedBy": [
+                "hyundai"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/KIA_logo3.svg",
+            "siteUrl": "https://kia.com/",
+            "updatedAt": "2024-02-22T20:53:44.628Z"
+        },
         "uniqlo": {
             "names": [
                 "Uniqlo"
