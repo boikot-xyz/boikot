@@ -2095,7 +2095,10 @@
             "sources": {
                 "1": "https://web.archive.org/web/20130109184821/http://www.theglobeandmail.com/globe-drive/new-cars/auto-news/new-kia-president-has-designs-on-greatness/article7038364/"
             },
-            "tags": [],
+            "tags": [
+                "cars",
+                "automotive"
+            ],
             "score": 40,
             "ownedBy": [
                 "hyundai"
