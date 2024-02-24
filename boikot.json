@@ -357,6 +357,195 @@
             "siteUrl": "https://coca-colacompany.com/",
             "updatedAt": "2023-12-17T22:18:51.032Z"
         },
+        "appletiser": {
+            "names": [
+                "Appletiser"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "coca-cola"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8b/Appletiser.png",
+            "siteUrl": "http://appletiser.com/",
+            "updatedAt": "2024-02-24T11:12:32.673Z"
+        },
+        "sprite": {
+            "names": [
+                "Sprite"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "coca-cola"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Sprite_2022.svg",
+            "siteUrl": "https://www.sprite.com/",
+            "updatedAt": "2024-02-24T11:12:32.673Z"
+        },
+        "smartwater": {
+            "names": [
+                "smartwater"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "coca-cola"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7a/Glaceau_Smartwater.jpg",
+            "siteUrl": "http://drinksmartwater.com/",
+            "updatedAt": "2024-02-24T11:12:32.673Z"
+        },
+        "powerade": {
+            "names": [
+                "Powerade"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "coca-cola"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Powerade_logo.png",
+            "siteUrl": "http://www.us.powerade.com/",
+            "updatedAt": "2024-02-24T11:12:32.673Z"
+        },
+        "innocent": {
+            "names": [
+                "Innocent",
+                "Innocent Smoothies",
+                "Innocent Drinks"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "coca-cola"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/Innocent_Drinks.png",
+            "siteUrl": "https://www.innocentdrinks.co.uk/",
+            "updatedAt": "2024-02-24T11:12:32.673Z"
+        },
+        "capri-sun": {
+            "names": [
+                "Capri-Sun"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "coca-cola"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/72/Capri_Sun_EMEA_logo.png",
+            "siteUrl": "https://capri-sun.com/group/en/",
+            "updatedAt": "2024-02-24T11:12:32.673Z"
+        },
+        "dasani": {
+            "names": [
+                "Dasani"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "coca-cola"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Dasani_Logo.svg",
+            "siteUrl": "https://www.dasani.com/",
+            "updatedAt": "2024-02-24T11:12:32.673Z"
+        },
+        "fuze": {
+            "names": [
+                "Fuze"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "coca-cola"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f0/Fuze_Beverage_logo.png",
+            "siteUrl": "https://www.fuzebev.com/",
+            "updatedAt": "2024-02-24T11:12:32.673Z"
+        },
+        "minute-maid": {
+            "names": [
+                "Minute Maid"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "coca-cola"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Minute_Maid_2023.svg",
+            "siteUrl": "http://minutemaid.com/",
+            "updatedAt": "2024-02-24T11:12:32.673Z"
+        },
+        "oasis": {
+            "names": [
+                "Oasis"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "coca-cola"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/04/Oasis_Drinks_logo.png",
+            "siteUrl": "https://www.coca-cola.co.uk/drinks/oasis",
+            "updatedAt": "2024-02-24T11:12:32.673Z"
+        },
+        "relentless": {
+            "names": [
+                "Relentless"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "coca-cola"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e1/Relentlesscan.png",
+            "siteUrl": "http://www.relentlessenergy.com/",
+            "updatedAt": "2024-02-24T11:12:32.673Z"
+        },
         "pepsico": {
             "names": [
                 "PepsiCo",
