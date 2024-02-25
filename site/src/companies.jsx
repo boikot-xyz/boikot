@@ -24,7 +24,9 @@ const Comment = styled.p`
 function Tags({ tags }) {
     return <FlexRow>
         { tags?.map( tag =>
-            <Badge key={tag}>{ tag }</Badge>
+            <Badge key={tag} style={{ fontSize: "0.7rem" }}>
+                { tag }
+            </Badge>
         )}
     </FlexRow>;
 }
