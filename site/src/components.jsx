@@ -200,7 +200,7 @@ export function MenuButton() {
 export const VersionNumber = () =>
     <span> boikot.xyz @ { process.env.VERSION } </span>;
 
-export const Badge = styled.div`
+export const Badge = styled.span`
     background: var(--accent-dark);
     border-radius: 1.2rem;
     border: 0.05rem solid var(--accent);
