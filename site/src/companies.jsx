@@ -4,7 +4,7 @@ import { Link, useParams } from "react-router-dom";
 import slugify from "slugify";
 import { Helmet } from "react-helmet";
 
-import { getKey, Badge, FlexRow, Icon, IconButton, Page, PillButton, Row, Stack, ForceWrap } from "./components.jsx";
+import { getKey, Badge, Card, FlexRow, Icon, IconButton, Page, PillButton, Row, Stack, ForceWrap } from "./components.jsx";
 import boikot from "../../boikot.json";
 
 
@@ -74,6 +74,25 @@ function Owners({ entry }) {
     </Stack>;
 }
 
+function Alternatives({ entry }) {
+    const alternativeEntries = Object.values(boikot.companies)
+        .filter( otherEntry =>
+            otherEntry.tags.includes( entry.tags[0] )
+            && otherEntry.names[0] !== entry.names[0]
+        ).sort( (a,b) =>
+            b.score - a.score
+        );
+    if( !alternativeEntries.length ) return null;
+    return <Card style={{ maxHeight: "24rem", overflow: "scroll" }}>
+        <h3> Alternative companies tagged:{' '}
+            <Badge>{ entry.tags[0] }</Badge>
+        </h3>
+        { alternativeEntries.map( otherEntry =>
+            <CompanyHeader link entry={otherEntry} />
+        ) }
+    </Card>;
+}
+
 function Subsidiaries({ entry }) {
     const subsidiaries = Object.values(boikot.companies).filter(
         other => other.ownedBy.includes( getKey(entry) ) );
@@ -99,6 +118,7 @@ export function Company({ entry, compact }) {
         { !compact && <>
             <Sources entry={entry} />
             <Owners entry={entry} />
+            <Alternatives entry={entry} />
             <Subsidiaries entry={entry} />
             <Link to={`/companies/edit/${getKey(entry)}`}>
                 <PillButton $outline> ✏️  Edit this Company </PillButton>
