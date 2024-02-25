@@ -4,7 +4,7 @@ import { Link, useParams } from "react-router-dom";
 import slugify from "slugify";
 import { Helmet } from "react-helmet";
 
-import { getKey, Badge, Icon, IconButton, Page, PillButton, Row, Stack, ForceWrap } from "./components.jsx";
+import { getKey, Badge, FlexRow, Icon, IconButton, Page, PillButton, Row, Stack, ForceWrap } from "./components.jsx";
 import boikot from "../../boikot.json";
 
 
@@ -20,6 +20,14 @@ const Comment = styled.p`
         color: var(--accent);
     }
 `;
+
+function Tags({ tags }) {
+    return <FlexRow>
+        { tags?.map( tag =>
+            <Badge key={tag}>{ tag }</Badge>
+        )}
+    </FlexRow>;
+}
 
 function renderReferences({ comment, sources }) {
     const refs = comment.match(/\[\d+\]/g).map(ref =>
@@ -82,6 +90,7 @@ export function Company({ entry, compact }) {
 
     return <Stack>
         <CompanyHeader entry={entry} link={!!compact} />
+        <Tags tags={entry.tags} />
         { entry.comment && <Comment>
             { renderReferences(entry) }
         </Comment> }
