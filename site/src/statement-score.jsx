@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import { getKey, Page, PillButton, Stack } from "./components.jsx";
+import { getKey, Card, Page, PillButton, Stack } from "./components.jsx";
 import { Company } from "./companies.jsx";
 import boikot from "../../boikot.json";
 
@@ -44,12 +44,6 @@ async function getResults( fileDataURL, setResults ) {
     });
 }
 
-const resultsCardStyle = {
-    padding: "1.2rem 1rem",
-    borderRadius: "2rem",
-    border: "0.05rem solid var(--accent)",
-    background: "var(--accent-darker)",
-};
 
 function Results({ results }) {
     if( !results ) return null;
@@ -69,10 +63,10 @@ function Results({ results }) {
                     compact key={key} />
             ) }
         </>;
-    return <Stack style={ resultsCardStyle }>
+    return <Card>
         <h2> 📊 results </h2>
         { content }
-    </Stack>;
+    </Card>;
 }
 
 function PDFPreview({ src }) {
