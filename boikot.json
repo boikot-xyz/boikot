@@ -2085,6 +2085,29 @@
             "siteUrl": "https://www.adidas.com/",
             "updatedAt": "2024-01-29T21:48:22.741Z"
         },
+        "hyundai": {
+            "names": [
+                "Hyundai",
+                "Hyundai Motor Company",
+                "Hyundai Motors"
+            ],
+            "comment": "Hyundai is a South Korean car company that lied about its vehicles' fuel efficiency [1] and published an advert featuring suicide [2]. Child refugees were found being forced to work in a Hyundai factory in America under threat of deportation [3].",
+            "sources": {
+                "1": "https://web.archive.org/web/20121205051247/http://www.forbes.com/sites/jimgorzelany/2012/11/02/epa-slams-hyundai-and-kia-for-overestimating-mpg/",
+                "2": "https://web.archive.org/web/20160401175224/http://adage.com/article/news/hyundai-apologizes-u-k-ad-depicts-suicide-attempt/241119/",
+                "3": "https://www.reuters.com/world/us/exclusive-hyundai-subsidiary-has-used-child-labor-alabama-factory-2022-07-22/"
+            },
+            "tags": [
+                "cars",
+                "automotive",
+                "automobiles"
+            ],
+            "score": 30,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Hyundai_Motor_Company_logo.svg",
+            "siteUrl": "http://hyundai.com/",
+            "updatedAt": "2024-02-23T16:56:27.920Z"
+        },
         "kia": {
             "names": [
                 "Kia",
