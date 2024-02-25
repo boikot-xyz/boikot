@@ -66,8 +66,8 @@ export const FlexRow = styled.div`
 `;
 
 export const Card = styled(Stack)`
-    padding: 1.2rem 1rem;
-    border-radius: 2rem;
+    padding: 1rem;
+    border-radius: 1.5rem;
     border: 0.05rem solid var(--accent);
     background: var(--accent-darker);
 `;
