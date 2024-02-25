@@ -175,7 +175,7 @@ export function CompanyHeader({ entry, link = false }) {
             style={{ textDecoration: "none" }} />
         : React.Fragment;
     return <LinkOrFrag>
-        <Row gap="0.5rem">
+        <Row gap="0.5rem" style={{ overflowX: "scroll" }}>
             <img src={entry.logoUrl}
                 alt={`${entry.names[0]} logo`}
                 style={{
