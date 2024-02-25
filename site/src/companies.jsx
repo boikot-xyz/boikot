@@ -83,13 +83,15 @@ function Alternatives({ entry }) {
             b.score - a.score
         );
     if( !alternativeEntries.length ) return null;
-    return <Card style={{ maxHeight: "24rem", overflow: "scroll" }}>
+    return <Card>
         <h3> Alternative companies tagged:{' '}
             <Badge>{ entry.tags[0] }</Badge>
         </h3>
-        { alternativeEntries.map( otherEntry =>
-            <CompanyHeader link entry={otherEntry} />
-        ) }
+        <Stack style={{ maxHeight: "20rem", overflow: "scroll" }}>
+            { alternativeEntries.map( otherEntry =>
+                <CompanyHeader link entry={otherEntry} />
+            ) }
+        </Stack>
     </Card>;
 }
 
