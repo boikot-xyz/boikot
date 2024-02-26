@@ -225,9 +225,9 @@ export function Companies() {
     const [ search, setSearch ] = React.useState("");
     const companies = Object.values(boikot.companies)
         .filter( entry => search || !!entry.comment )
-        .filter( entry =>
-            entry.names.join('').toLowerCase()
-            .includes(search.toLowerCase()) )
+        .filter( entry => entry.names.some( name =>
+            name.toLowerCase().startsWith(search.toLowerCase())
+        ) )
         .toSorted( (a, b) => a.names[0].localeCompare(b.names[0]) );
     return <Page>
         <Helmet>
