@@ -28,6 +28,8 @@ async function getResults( fileDataURL, setResults ) {
 
     if (typeof pdfjsLib === "undefined")
         alert("Could not access PDF reading utility :(");
+    if( !pdfjsLib.workerSrc )
+        pdfjsLib.workerSrc = "/assets/pdf.worker.min.mjs";
 
     const pdfDocument =
         await pdfjsLib.getDocument({ url: fileDataURL }).promise;
