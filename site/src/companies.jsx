@@ -4,7 +4,7 @@ import { Link, useParams, useSearchParams } from "react-router-dom";
 import slugify from "slugify";
 import { Helmet } from "react-helmet";
 
-import { getKey, Badge, Card, FlexRow, Icon, IconButton, Page, PillButton, Row, Stack, ForceWrap } from "./components.jsx";
+import { getKey, Badge, Card, FlexRow, Icon, IconButton, Page, PillButton, Row, Stack, TagBadge, ForceWrap } from "./components.jsx";
 import boikot from "../../boikot.json";
 
 
@@ -24,9 +24,9 @@ const Comment = styled.p`
 function Tags({ tags }) {
     return <FlexRow>
         { tags?.map( tag =>
-            <Badge key={tag} style={{ fontSize: "0.7rem" }}>
+            <TagBadge key={tag} style={{ fontSize: "0.7rem" }}>
                 { tag }
-            </Badge>
+            </TagBadge>
         )}
     </FlexRow>;
 }
@@ -108,7 +108,7 @@ function Alternatives({ entry }) {
     if( !alternativeEntries.length ) return null;
     return <Card style={{ paddingBottom: 0 }}>
         <h3> Alternative companies tagged:{' '}
-            <Badge>{ entry.tags[0] }</Badge>
+            <TagBadge>{ entry.tags[0] }</TagBadge>
         </h3>
         <Stack style={{
             maxHeight: "18rem", overflow: "scroll", paddingBottom: "1rem"
