@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { Link, useParams } from "react-router-dom";
+import { Link, useParams, useSearchParams } from "react-router-dom";
 import slugify from "slugify";
 import { Helmet } from "react-helmet";
 
@@ -31,6 +31,9 @@ function Tags({ tags }) {
     </FlexRow>;
 }
 
+const clearParams = () => window.history.replaceState(
+    {}, document.title, window.location.pathname );
+
 function TagsFilter({ value, setValue }) {
     let allTags = Object.values(boikot.companies)
         .flatMap( entry => entry.tags )
@@ -38,14 +41,14 @@ function TagsFilter({ value, setValue }) {
     allTags = allTags.filter( (tag,i) => allTags.indexOf(tag) === i );
     return <FlexRow>
         <select style={{ maxWidth: "12rem", color: !value && "#fff6" }}
-            onChange={ e => setValue(e.target.value) }
+            onChange={ e => setValue(e.target.value) + clearParams() }
             value={value}>
             <option value="" label="Filter by Tag" hidden />
             { allTags.map( tag => <option value={tag} label={tag} /> ) }
         </select>
         { value && <IconButton i="x" gap="0.2rem"
             style={{ height: "1.4rem" }}
-            onClick={ () => setValue("") }>
+            onClick={ () => setValue("") + clearParams() }>
             clear filter
         </IconButton> }
     </FlexRow>;
@@ -244,8 +247,10 @@ function SearchBar({ value, setValue }) {
 
 
 export function Companies() {
+    const [ params ] = useSearchParams();
+    const paramTag = params.get("tag");
     const [ search, setSearch ] = React.useState("");
-    const [ tag, setTag ] = React.useState("");
+    const [ tag, setTag ] = React.useState(paramTag || "");
     const companies = Object.values(boikot.companies)
         .filter( entry => !tag || entry.tags.includes(tag) )
         .filter( entry => search || tag || !!entry.comment )
