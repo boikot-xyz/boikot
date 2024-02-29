@@ -39,17 +39,15 @@ export function Home() {
                     </PillButton>
                 </Link>
             </FlexRow>
-            {/*
             <h2 style={{ marginTop: "1rem" }}> Score your Statement 📊 </h2>
             <p> run a bank statement against our database to see how
-                ethical the purchases you make are. your files stay on your
-                own device with complete privacy. </p>
+                ethical the purchases you have made are. your files stay
+                on your own device with complete privacy. </p>
             <Link to="/statement-score">
                 <PillButton style={{ justifySelf: "left" }}>
                     score your statement!
                 </PillButton>
             </Link>
-            */}
             <h2 style={{ marginTop: "1rem" }}> our ratings ⚖️  </h2>
             <p style={{ lineHeight: "1.4rem" }}>
                 We rank companies on a scale from <Score score="0" />{" "}
