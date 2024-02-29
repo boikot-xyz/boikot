@@ -31,6 +31,26 @@ function Tags({ tags }) {
     </FlexRow>;
 }
 
+function TagsFilter({ value, setValue }) {
+    let allTags = Object.values(boikot.companies)
+        .flatMap( entry => entry.tags )
+        .toSorted();
+    allTags = allTags.filter( (tag,i) => allTags.indexOf(tag) === i );
+    return <FlexRow>
+        <select style={{ maxWidth: "12rem", color: !value && "#fff6" }}
+            onChange={ e => setValue(e.target.value) }
+            value={value}>
+            <option value="" label="Filter by Tag" hidden />
+            { allTags.map( tag => <option value={tag} label={tag} /> ) }
+        </select>
+        { value && <IconButton i="x" gap="0.2rem"
+            style={{ height: "1.4rem" }}
+            onClick={ () => setValue("") }>
+            clear filter
+        </IconButton> }
+    </FlexRow>;
+}
+
 function renderReferences({ comment, sources }) {
     const refs = comment.match(/\[\d+\]/g).map(ref =>
         <sup key={ref}><a href={sources[ref.match(/\d+/)]}
@@ -225,8 +245,10 @@ function SearchBar({ value, setValue }) {
 
 export function Companies() {
     const [ search, setSearch ] = React.useState("");
+    const [ tag, setTag ] = React.useState("");
     const companies = Object.values(boikot.companies)
-        .filter( entry => search || !!entry.comment )
+        .filter( entry => !tag || entry.tags.includes(tag) )
+        .filter( entry => search || tag || !!entry.comment )
         .filter( entry => entry.names.some( name =>
             name.toLowerCase().startsWith(search.toLowerCase())
         ) )
@@ -239,6 +261,7 @@ export function Companies() {
         <Stack>
             <h1> Companies </h1>
             <SearchBar value={search} setValue={setSearch} />
+            <TagsFilter value={tag} setValue={setTag} />
             { companies.map( entry =>
                 <CompanyHeader entry={entry}
                     link key={entry.names[0]} />
