@@ -87,7 +87,9 @@ function Alternatives({ entry }) {
         <h3> Alternative companies tagged:{' '}
             <Badge>{ entry.tags[0] }</Badge>
         </h3>
-        <Stack style={{ maxHeight: "18rem", overflow: "scroll" }}>
+        <Stack style={{
+            maxHeight: "18rem", overflow: "scroll", paddingBottom: "1rem"
+        }}>
             { alternativeEntries.map( otherEntry =>
                 <CompanyHeader link entry={otherEntry} />
             ) }
