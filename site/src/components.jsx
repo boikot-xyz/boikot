@@ -180,7 +180,7 @@ function Menu({ open, close }) {
 
 export function IconButton( props ) {
     return <button onClick={ props.onClick }>
-        <Row>
+        <Row gap={props.gap}>
             <Icon {...{...props, onClick: undefined, children: undefined}} />
             { props.children }
         </Row>
