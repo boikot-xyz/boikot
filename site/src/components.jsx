@@ -223,7 +223,7 @@ export function TagBadge({ children, ...props }) {
 }
 
 export function IconBadge({ children, i, flip, ...props }) {
-    return <Badge {...props}>
+    return <Badge {...props} style={{ display: "grid" }}>
         <Row gap="0.2rem">
             { flip && children }
             <Icon i={i} style={{ height: "0.9rem" }}/>
