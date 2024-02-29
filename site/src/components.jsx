@@ -214,6 +214,14 @@ export const Badge = styled.span`
     ` }
 `;
 
+export function TagBadge({ children, ...props }) {
+    return <Link to={`/companies?tag=${children}`}>
+        <Badge {...props}>
+            { children }
+        </Badge>
+    </Link>;
+}
+
 export function IconBadge({ children, i, flip, ...props }) {
     return <Badge {...props}>
         <Row gap="0.2rem">
