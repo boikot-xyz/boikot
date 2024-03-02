@@ -27,7 +27,7 @@
             },
             "tags": [
                 "bank",
-                "uk",
+                "finance",
                 "unsustainable",
                 "anticompetetive"
             ],
@@ -64,9 +64,10 @@
             },
             "tags": [
                 "bank",
-                "uk",
+                "finance",
                 "corruption",
-                "greenwashing"
+                "greenwashing",
+                "nuclearweapons"
             ],
             "score": 35,
             "ownedBy": [],
@@ -93,7 +94,6 @@
                 "electronics",
                 "phones",
                 "computers",
-                "southkorea",
                 "corruption",
                 "anticompetetive",
                 "antiunion"
@@ -132,7 +132,9 @@
                 "phones",
                 "computers",
                 "proprivacy",
-                "anticompetetive"
+                "anticompetetive",
+                "greenwashing",
+                "poorworkingconditions"
             ],
             "score": 55,
             "ownedBy": [],
@@ -160,17 +162,17 @@
             },
             "tags": [
                 "electric vehicles",
-                "us",
                 "cars",
                 "tech",
                 "ai",
                 "solarpower",
                 "batteries",
                 "cleanenergy",
-                "sustainable",
                 "antiunion",
                 "anticompetetive",
-                "harassment"
+                "harassment",
+                "poorworkingconditions",
+                "environmentalviolations"
             ],
             "score": 85,
             "ownedBy": [],
@@ -229,7 +231,6 @@
             },
             "tags": [
                 "tech",
-                "us",
                 "software",
                 "cloud",
                 "ai",
@@ -237,8 +238,7 @@
                 "electronics",
                 "anticompetetive",
                 "antiprivacy",
-                "taxavoidance",
-                "sustainable"
+                "taxavoidance"
             ],
             "score": 35,
             "ownedBy": [],
@@ -258,8 +258,6 @@
             },
             "tags": [
                 "tech",
-                "france",
-                "us",
                 "ai",
                 "opensource"
             ],
@@ -290,7 +288,6 @@
             "tags": [
                 "tech",
                 "video",
-                "us",
                 "media",
                 "radicalisation"
             ],
@@ -319,7 +316,9 @@
             },
             "tags": [
                 "cars",
-                "us"
+                "automotive",
+                "racism",
+                "environmentalviolations"
             ],
             "score": 50,
             "ownedBy": [],
@@ -346,10 +345,9 @@
             },
             "tags": [
                 "beverages",
-                "soda",
-                "us",
                 "plastic",
-                "waterusage"
+                "waterusage",
+                "environmentalviolations"
             ],
             "score": 10,
             "ownedBy": [],
@@ -559,7 +557,8 @@
                 "2": "https://www.gamespot.com/articles/house-backs-federal-investigation-of-rockstar-games/1100-6129723/"
             },
             "tags": [
-                "video games"
+                "video games",
+                "poorworkingconditions"
             ],
             "score": 50,
             "ownedBy": [
@@ -586,9 +585,9 @@
             "tags": [
                 "beverages",
                 "soda",
-                "us",
                 "plastic",
-                "waterusage"
+                "waterusage",
+                "deforestation"
             ],
             "score": 20,
             "ownedBy": [],
@@ -614,7 +613,7 @@
                 "food",
                 "beverages",
                 "childlabour",
-                "stillinrussia"
+                "russia"
             ],
             "score": 10,
             "ownedBy": [],
@@ -634,8 +633,7 @@
             },
             "tags": [
                 "beverages",
-                "uk",
-                "singleuseplastic"
+                "plastic"
             ],
             "score": 50,
             "ownedBy": [],
@@ -889,10 +887,10 @@
                 "2": "https://www.coca-cola.com/gb/en/brands/dr-pepper"
             },
             "tags": [
-                "soda",
                 "beverages",
+                "soda",
                 "waterusage",
-                "singleuseplastic"
+                "plastic"
             ],
             "score": 30,
             "ownedBy": [],
@@ -907,7 +905,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "soda"
+                "beverages"
             ],
             "score": 30,
             "ownedBy": [
@@ -1065,7 +1063,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "consumergoods"
             ],
             "score": 5,
             "ownedBy": [
@@ -1082,7 +1080,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "consumergoods"
             ],
             "score": 5,
             "ownedBy": [
@@ -1099,7 +1097,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "consumergoods"
             ],
             "score": 5,
             "ownedBy": [
@@ -1117,7 +1115,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "consumergoods"
             ],
             "score": 5,
             "ownedBy": [
@@ -1135,7 +1133,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "consumergoods"
             ],
             "score": 5,
             "ownedBy": [
@@ -1155,7 +1153,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "consumergoods"
             ],
             "score": 5,
             "ownedBy": [
@@ -1230,8 +1228,8 @@
                 "5": "https://www.redbullracing.com/int-en/tackling-global-sustainability-with-global-standard"
             },
             "tags": [
-                "soda",
-                "beverages"
+                "beverages",
+                "soda"
             ],
             "score": 50,
             "ownedBy": [],
@@ -1318,8 +1316,8 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "soda",
-                "beverage"
+                "beverage",
+                "soda"
             ],
             "score": null,
             "ownedBy": [
@@ -1361,7 +1359,7 @@
                 "NatWest Group",
                 "NatWest Group plc"
             ],
-            "comment": "NatWest is a British bank that has invested $2.03 billion in six companies that manufacture nuclear weapons [1] and billions more in fossil fuels [2], has been fined for anti-money laundering failures [3], and executives have been insensitive to the cost of living crisis [4]. NatWest's energy investments comprise 85% sustainable energy [5] and the bank is halting financing for oil and gas ventures in 2026 [6].",
+            "comment": "NatWest is a British bank that has invested $2.03 billion in six companies that manufacture nuclear weapons [1] and billions more in fossil fuels [2], has been fined for anti-money laundering failures [3], and executives have expressed indifference to the cost of living crisis [4]. NatWest's energy investments comprise 85% sustainable energy [5] and the bank is halting financing for oil and gas ventures in 2026 [6].",
             "sources": {
                 "1": "https://www.thenational.scot/news/19257311.revealed-billions-invested-big-business-nuclear-arms/",
                 "2": "https://www.theguardian.com/global/2023/feb/09/natwest-to-end-new-business-loans-for-oil-and-gas-extraction",
@@ -1371,7 +1369,9 @@
                 "6": "https://www.theguardian.com/global/2023/feb/09/natwest-to-end-new-business-loans-for-oil-and-gas-extraction"
             },
             "tags": [
-                "bank"
+                "bank",
+                "unsustainable",
+                "nuclearweapons"
             ],
             "score": 35,
             "ownedBy": [],
@@ -1424,7 +1424,9 @@
             },
             "tags": [
                 "tech",
-                "socialmedia"
+                "socialmedia",
+                "antiprivacy",
+                "taxavoidance"
             ],
             "score": 10,
             "ownedBy": [],
@@ -1456,7 +1458,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumer goods"
+                "consumergoods"
             ],
             "score": 35,
             "ownedBy": [
@@ -1473,7 +1475,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumer goods"
+                "consumergoods"
             ],
             "score": 35,
             "ownedBy": [
@@ -1490,7 +1492,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumer goods"
+                "consumergoods"
             ],
             "score": 35,
             "ownedBy": [
@@ -1508,7 +1510,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumer goods"
+                "consumergoods"
             ],
             "score": 35,
             "ownedBy": [
@@ -1525,7 +1527,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumer goods"
+                "consumergoods"
             ],
             "score": 35,
             "ownedBy": [
@@ -1542,7 +1544,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumer goods"
+                "consumergoods"
             ],
             "score": 35,
             "ownedBy": [
@@ -1559,7 +1561,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumer goods"
+                "consumergoods"
             ],
             "score": 35,
             "ownedBy": [
@@ -1576,7 +1578,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumer goods"
+                "consumergoods"
             ],
             "score": 35,
             "ownedBy": [
@@ -1593,7 +1595,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumer goods"
+                "consumergoods"
             ],
             "score": 35,
             "ownedBy": [
@@ -1610,7 +1612,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumer goods"
+                "consumergoods"
             ],
             "score": 35,
             "ownedBy": [
@@ -1627,7 +1629,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumer goods"
+                "consumergoods"
             ],
             "score": 35,
             "ownedBy": [
@@ -1645,7 +1647,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumer goods"
+                "consumergoods"
             ],
             "score": 35,
             "ownedBy": [
@@ -1663,7 +1665,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumer goods"
+                "consumergoods"
             ],
             "score": 35,
             "ownedBy": [
@@ -1680,7 +1682,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "air freshener"
+                "consumergoods"
             ],
             "score": 35,
             "ownedBy": [
@@ -1707,9 +1709,9 @@
                 "5": "https://doi.org/10.1016%2Fj.lpm.2014.07.029"
             },
             "tags": [
+                "beverages",
                 "soda",
-                "energydrinks",
-                "beverages"
+                "poorworkingconditions"
             ],
             "score": 35,
             "ownedBy": [],
@@ -1735,7 +1737,6 @@
             },
             "tags": [
                 "toys",
-                "children",
                 "plastic"
             ],
             "score": 60,
@@ -1773,7 +1774,15 @@
             },
             "tags": [
                 "retail",
-                "ecommerce"
+                "ecommerce",
+                "tech",
+                "unsustainable",
+                "racism",
+                "poorworkingconditions",
+                "antiunion",
+                "anticompetetive",
+                "antiunion",
+                "lobbying"
             ],
             "score": 5,
             "ownedBy": [],
@@ -1790,7 +1799,7 @@
                 "Federal Express",
                 "FDX"
             ],
-            "comment": "Fedex is an American shipping and logistics company that spends tens of millions of dollars lobbying the federal government [1], benefitted from tax cuts without subsequently increasing investment as promised [2], distributed drugs to patients without prescriptions [3], and pressured employees into working through the pandemic even if they were sick [4]. Fedex has made significant emissions savings through fuel conservation programs [5] but their 2021 annual report still states that they may struggle to reach their climate targets [6].",
+            "comment": "Fedex is an American shipping and logistics company that spends tens of millions of dollars lobbying the federal government [1], benefitted from tax cuts without subsequently increasing investment as promised [2], distributed drugs without prescriptions [3], and pressured employees into working through the pandemic even if they were sick [4]. Fedex has made significant emissions savings through fuel conservation programs [5] but their 2021 annual report still states that they may struggle to reach their climate targets [6].",
             "sources": {
                 "1": "https://web.archive.org/web/20210308191338/https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2018&id=D000000089",
                 "2": "https://www.nytimes.com/2019/11/17/business/how-fedex-cut-its-tax-bill-to-0.html",
@@ -1800,10 +1809,11 @@
                 "6": "https://web.archive.org/web/20221018015119/https://investors.fedex.com/financial-information/sec-filings/default.aspx"
             },
             "tags": [
-                "transportation",
-                "ecommerce",
                 "logistics",
-                "shipping"
+                "shipping",
+                "ecommerce",
+                "lobbying",
+                "poorworkingconditions"
             ],
             "score": 45,
             "ownedBy": [],
@@ -1829,7 +1839,9 @@
             "tags": [
                 "telecommunications",
                 "broadband",
-                "ISP"
+                "ISP",
+                "antiprivacy",
+                "taxavoidance"
             ],
             "score": 45,
             "ownedBy": [],
@@ -1855,7 +1867,8 @@
             "tags": [
                 "tech",
                 "tracking",
-                "CRM"
+                "CRM",
+                "taxavoidance"
             ],
             "score": 40,
             "ownedBy": [],
@@ -1883,7 +1896,11 @@
             },
             "tags": [
                 "retail",
-                "supermarket"
+                "supermarket",
+                "taxavoidance",
+                "anticompetetive",
+                "animalcruelty",
+                "deforestation"
             ],
             "score": 45,
             "ownedBy": [],
@@ -1912,7 +1929,11 @@
             },
             "tags": [
                 "tech",
-                "ai"
+                "ai",
+                "antiprivacy",
+                "antiunion",
+                "anticompetetive",
+                "taxavoidance"
             ],
             "score": 10,
             "ownedBy": [],
@@ -1938,7 +1959,10 @@
                 "tech",
                 "videogames",
                 "movies",
-                "electronics"
+                "electronics",
+                "antiprivacy",
+                "anticompetetive",
+                "recycling"
             ],
             "score": 50,
             "ownedBy": [],
@@ -1960,7 +1984,8 @@
             "tags": [
                 "retail",
                 "department store",
-                "supermarket"
+                "supermarket",
+                "poorworkingconditions"
             ],
             "score": 40,
             "ownedBy": [],
@@ -1983,7 +2008,8 @@
                 "2": "https://www.fastcompany.com/1665003/dell-lawsuit-highlights-broken-pcs-dirty-business-dealings"
             },
             "tags": [
-                "tech"
+                "tech",
+                "recycling"
             ],
             "score": 55,
             "ownedBy": [],
@@ -2004,7 +2030,8 @@
             },
             "tags": [
                 "engineering",
-                "tech"
+                "tech",
+                "environmentalviolations"
             ],
             "score": 50,
             "ownedBy": [],
@@ -2033,7 +2060,9 @@
                 "sportswear",
                 "clothing",
                 "sports",
-                "trainers"
+                "trainers",
+                "childlabour",
+                "taxevasion"
             ],
             "score": 40,
             "ownedBy": [],
@@ -2052,8 +2081,9 @@
                 "2": "https://www.bbc.co.uk/news/uk-48781564"
             },
             "tags": [
-                "fast food",
-                "food"
+                "fastfood",
+                "food",
+                "sustainable"
             ],
             "score": 70,
             "ownedBy": [
@@ -2078,7 +2108,7 @@
             "tags": [
                 "bakery",
                 "food",
-                "fast food",
+                "fastfood",
                 "takeaway"
             ],
             "score": 50,
@@ -2100,7 +2130,9 @@
             },
             "tags": [
                 "sportswear",
-                "footwear"
+                "footwear",
+                "poorworkingconditions",
+                "racism"
             ],
             "score": 42,
             "ownedBy": [],
@@ -2123,7 +2155,7 @@
             "tags": [
                 "cars",
                 "automotive",
-                "automobiles"
+                "childlabour"
             ],
             "score": 30,
             "ownedBy": [],
@@ -2169,8 +2201,9 @@
             },
             "tags": [
                 "clothing",
-                "fast fashion",
-                "retail"
+                "fastfashion",
+                "retail",
+                "poorworkingconditions"
             ],
             "score": 25,
             "ownedBy": [],
@@ -2199,7 +2232,8 @@
                 "news",
                 "tech",
                 "communications",
-                "elon musk"
+                "radicalisation",
+                "elonmusk"
             ],
             "score": 48,
             "ownedBy": [],
@@ -2214,7 +2248,8 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "sportswear"
+                "sportswear",
+                "footwear"
             ],
             "score": 40,
             "ownedBy": [
@@ -2233,7 +2268,8 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "sportswear"
+                "sportswear",
+                "footwear"
             ],
             "score": 40,
             "ownedBy": [
@@ -2258,7 +2294,8 @@
             "tags": [
                 "tech",
                 "chemicals",
-                "electronics"
+                "electronics",
+                "fatalaccident"
             ],
             "score": 40,
             "ownedBy": [],
@@ -2283,7 +2320,9 @@
                 "4": "https://web.archive.org/web/20180913074041/https://www.shootonline.com/news/pgs-talk%C2%A0wins-primetime-commercial-emmy-award"
             },
             "tags": [
-                "consumer goods"
+                "consumergoods",
+                "childlabour",
+                "russia"
             ],
             "score": 35,
             "ownedBy": [],
@@ -2341,7 +2380,11 @@
                 "food",
                 "beverages",
                 "pharmaceuticals",
-                "cleaning"
+                "cleaning",
+                "russia",
+                "plastic",
+                "deforestation",
+                "childlabour"
             ],
             "score": 5,
             "ownedBy": [],
@@ -2373,7 +2416,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "consumergoods"
             ],
             "score": 5,
             "ownedBy": [
@@ -2422,7 +2465,6 @@
             "tags": [
                 "news",
                 "media",
-                "uk",
                 "tv",
                 "radio",
                 "bias",
