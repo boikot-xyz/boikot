@@ -24,6 +24,21 @@ const fetchOptions = {
     },
 };
 
+async function askLlama( ollamaEndpoint, prompt ) {
+    const ollamaResponse = await fetch( ollamaEndpoint, {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+            model: "gemma",
+            stream: false,
+            prompt: prompt,
+        })
+    });
+    return ( await ollamaResponse.json() ).response;
+}
+
 async function getInput() {
     const rl = readline.createInterface({
         input: process.stdin,
@@ -67,28 +82,13 @@ async function scrape( url ) {
     return text;
 }
 
-async function askLlama( ollamaEndpoint, prompt ) {
-    const ollamaResponse = await fetch( ollamaEndpoint, {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json"
-        },
-        body: JSON.stringify({
-            model: "openhermes",
-            stream: false,
-            prompt: prompt,
-        })
-    });
-    return ( await ollamaResponse.json() ).response;
-}
-
 const summaryPrompt = text =>
     `Here is some text scraped from a webpage:\n\n${text}\n\nPlease succinctly summarise the content of the webpage.`;
 
 async function summarise( ollamaEndpoint, url ) {
     const text = await scrape(url);
     const summary = await askLlama( ollamaEndpoint, summaryPrompt(text) );
-    console.log({ url, text, summary });
+    console.log(url, "summary:", summary );
     return { url, summary, text };
 }
 
@@ -100,9 +100,84 @@ async function getComment( ollamaEndpoint, summaries ) {
         (summary, i) => `${summary.summary.replace(/\.$/, '')} [${i+1}].`
     ).join(" ");
     const comment = await askLlama( ollamaEndpoint, commentPrompt(text) );
-    console.log( "\n\n===== assemble prompt =====\n\n", commentPrompt(text), "\n\n==========\n\n" );
+    // console.log( "\n\n===== assemble prompt =====\n\n", commentPrompt(text), "\n\n==========\n\n" );
     return comment;
 }
+
+async function getCompanyName( ollamaEndpoint, comment ) {
+    return askLlama( ollamaEndpoint, `Here is some company information: "${comment}". Please respond with the name of the company only. The company name is: ` );
+}
+
+
+const searchEndpoint = searchQuery =>
+    `https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=description%7Cinfo&inprop=url&generator=prefixsearch&redirects=&gpssearch=${searchQuery}&gpsnamespace=0&gpslimit=2`;
+
+const isNotDisambiguation = page =>
+    !page.description
+        .includes("Topics referred to by the same term");
+
+async function getWikipediaPage( searchQuery ) {
+
+    const response = await (await fetch(
+        searchEndpoint(searchQuery))
+    ).json();
+    // Log search results
+    // console.log(JSON.stringify(response, null, 4));
+    const page = response.query.pages
+        .filter(isNotDisambiguation)[0];
+
+    return page;
+}
+
+function getLogoUrl( pageDOM ) {
+
+    const document = pageDOM.window.document;
+    const logoImg =
+        document.querySelector(".infobox-image.logo img") ??
+        document.querySelector(".infobox-image img");
+
+    const logoUrl = logoImg?.src
+        .match(/.+?\.svg/)?.[0]
+        .replace("thumb/", "")
+        .replace("//upload", "https://upload");
+
+    return logoUrl;
+}
+
+function getSiteUrl( pageDOM ) {
+
+    const document = pageDOM.window.document;
+    const infoBoxLabels = [...document.querySelectorAll(
+        "table.infobox.vcard tr th.infobox-label"
+    )];
+    const siteLabel = infoBoxLabels.filter( 
+        el => el.innerHTML.includes("Website") 
+           || el.innerHTML.includes("URL")
+    )[0];
+    const siteUrl = siteLabel?.parentElement.querySelector("a").href;
+
+    return siteUrl;
+}
+
+async function getInfo( searchQuery, showExtraInfo = false ) {
+
+    const page = await getWikipediaPage( searchQuery );
+    const pageHTML = await (await fetch(page.fullurl)).text();
+    const pageDOM = new JSDOM( pageHTML );
+
+    const extraInfo = {
+        searchQuery: searchQuery,
+        wikipediaUrl: page.fullurl,
+        wikipediaTitle: page.title,
+        wikipediaDescription: page.description,
+    };
+
+    return {
+        logoUrl: getLogoUrl( pageDOM ),
+        siteUrl: getSiteUrl( pageDOM ),
+    };
+}
+
 
 async function main() {
     console.log("boikot assemble 🧩\nenter urls:\n");
@@ -123,9 +198,17 @@ async function main() {
         summaries.push( await summarise( ollamaEndpoint, url ) );
 
     const comment = await getComment( ollamaEndpoint, summaries );
-    const output = { comment, sources };
+
+    console.log( "comment:", comment );
+
+    const companyName = await getCompanyName( ollamaEndpoint, comment );
+
+    console.log( "companyName:", companyName );
+
+    const { logoUrl, siteUrl } = await getInfo( companyName );
+    const output = { names: [ companyName ], comment, sources, logoUrl, siteUrl };
+
     console.log(JSON.stringify(output, null, 4));
-    console.log( "\n\n===== sources =====\n\n", JSON.stringify({sources}, null, 4), "\n\n=====\n\n" );
 }
 
 main();
