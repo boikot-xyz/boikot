@@ -2304,6 +2304,37 @@
             "siteUrl": "https://lgcorp.com/",
             "updatedAt": "2024-01-21T20:33:02.640Z"
         },
+        "accenture": {
+            "names": [
+                "Accenture",
+                "Accenture plc",
+                "Accenture Limited",
+                "Accenture Services Ltd.",
+                "Accenture FZ-LLC",
+                "Accenture Solutions S.A.",
+                "Accenture Federal Services",
+                "ACN"
+            ],
+            "comment": "Accenture faces criticism for working with Isabel dos Santos, accused of corruption, and is under employee backlash over a $297 million contract with Customs and Border Protection (CBP) that supports inhumane policies [1]. Accenture has been involved in allegations of corruption-linked businesses and faces internal protests similar to those at Amazon, Salesforce, Microsoft, and Google [2].",
+            "sources": {
+                "1": "https://qz.com/africa/1787289/accenture-took-millions-from-isabel-dos-santos-despite-corruption-claims",
+                "2": "https://gizmodo.com/accenture-employees-demand-their-company-break-ties-wit-1830474961"
+            },
+            "tags": [
+                "consulting",
+                "tech",
+                "cybersecurity",
+                "management",
+                "professionalservices",
+                "financialservices",
+                "strategy"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg",
+            "siteUrl": "https://www.accenture.com/",
+            "updatedAt": "2024-03-02T19:34:35.315Z"
+        },
         "procter-and-gamble": {
             "names": [
                 "Procter & Gamble",
