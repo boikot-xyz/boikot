@@ -546,6 +546,29 @@
             "siteUrl": "http://www.relentlessenergy.com/",
             "updatedAt": "2024-02-24T11:12:32.673Z"
         },
+        "rockstar": {
+            "names": [
+                "Rockstar",
+                "Rockstar North",
+                "Rockstar Games UK",
+                "Rockstar Games"
+            ],
+            "comment": "Rockstar, a video game company, faced controversy over its poor working conditions and has acknowledged needing improvement while defending against allegations of deceptive practices in the Hot Coffee scandal investigation [1]. The House of Representatives voted to support a Federal Trade Commission probe into Grand Theft Auto: San Andreas amidst accusations of deceiving the Entertainment Software Ratings Board to avoid an \"Adults-Only\" rating [2].",
+            "sources": {
+                "1": "https://www.theguardian.com/games/2018/oct/18/rockstar-games-working-conditions-red-dead-redemption-2-rob-nelson",
+                "2": "https://www.gamespot.com/articles/house-backs-federal-investigation-of-rockstar-games/1100-6129723/"
+            },
+            "tags": [
+                "video games"
+            ],
+            "score": 50,
+            "ownedBy": [
+                "take-two"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Rockstar_Games_Logo.svg",
+            "siteUrl": "https://www.rockstargames.com/",
+            "updatedAt": "2024-03-01T22:17:52.078Z"
+        },
         "pepsico": {
             "names": [
                 "PepsiCo",
