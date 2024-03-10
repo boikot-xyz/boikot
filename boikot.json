@@ -1908,6 +1908,60 @@
             "siteUrl": "https://www.tescoplc.com/",
             "updatedAt": "2024-01-07T10:56:47.816Z"
         },
+        "bmw": {
+            "names": [
+                "BMW",
+                "Bayerische Motoren Werke",
+                "Bayerische Flugzeugwerke"
+            ],
+            "comment": "BMW is a German car maker that lied about its vehicles' emissions [1] and sourced cobalt from environmentally harmful sources [2].",
+            "sources": {
+                "1": "https://www.theguardian.com/environment/2021/jul/08/eu-fines-vw-and-bmw-750m-for-colluding-with-daimler-on-fumes",
+                "2": "https://www.msn.com/en-us/news/world/is-bmw-embroiled-in-controversy-due-to-a-cobalt-supplier-in-morocco-an-investigation-is-in-progress/ar-AA1jWjYs"
+            },
+            "tags": [
+                "cars"
+            ],
+            "score": 30,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/BMW_logo_%28gray%29.svg",
+            "siteUrl": "https://www.bmw.com/en/index.html",
+            "updatedAt": "2024-03-10T18:56:53.382Z"
+        },
+        "rolls-royce": {
+            "names": [
+                "Rolls-Royce"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "bmw"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Rolls_royce_holdings_logo.svg",
+            "siteUrl": "https://www.rolls-royce.com/",
+            "updatedAt": "2024-03-10T18:56:53.382Z"
+        },
+        "mini": {
+            "names": [
+                "Mini"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "bmw"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/MINI_logo.svg",
+            "siteUrl": "http://mini.com/",
+            "updatedAt": "2024-03-10T18:56:53.382Z"
+        },
         "whole-foods": {
             "names": [
                 "Whole Foods",
