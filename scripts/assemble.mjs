@@ -78,7 +78,7 @@ async function getComment( summaries ) {
         (summary, i) => `${summary.summary.replace(/\.$/, '')} [${i+1}].`
     ).join(" ");
     const comment = await askLlama( commentPrompt(text) );
-    // console.log( "\n\n===== assemble prompt =====\n\n", commentPrompt(text), "\n\n==========\n\n" );
+    console.log( "\n\n===== assemble prompt =====\n\n", commentPrompt(text), "\n\n==========\n\n" );
     return comment;
 }
 
@@ -278,7 +278,7 @@ async function main() {
         updatedAt: (new Date()).toISOString(),
     };
 
-    console.log( "\n\n", `"${ getKey(names[0]) }":`, JSON.stringify(output, null, 4), "\n\n" );
+    console.log( `\n\n"${ getKey(names[0]) }": ${ JSON.stringify(output, null, 4) },\n\n` );
 }
 
 main();
