@@ -2382,6 +2382,41 @@
             "siteUrl": "https://lgcorp.com/",
             "updatedAt": "2024-01-21T20:33:02.640Z"
         },
+        "shell": {
+            "names": [
+                "Shell",
+                "Royal Dutch Shell",
+                "RDS.A",
+                "RDS.B",
+                "Royal Dutch Shell plc",
+                "Royal Dutch Petroleum Company",
+                "SHEL",
+                "SHELL"
+            ],
+            "comment": "Shell is an energy company that has deceived the public and investors about their efforts to tackle climate change [1]. The company has invested heavily in fossil fuel production, despite claiming to work towards \"net zero\" greenhouse gas emissions by 2050 [2], and continues to face criticism for its environmental impact on rainforests, marine life, and investments in polluting oil reserves.",
+            "sources": {
+                "1": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8849545",
+                "2": "http://amazonwatch.org/news/2016/0928-from-well-to-wheel",
+                "3": "https://web.archive.org/web/20211204162931/https://www.reuters.com/business/energy/shell-wins-court-case-start-seismic-surveys-offshore-south-africa-2021-12-03/",
+                "4": "https://web.archive.org/web/20170424174806/https://www.theguardian.com/environment/2017/feb/28/shell-knew-oil-giants-1991-film-warned-climate-change-danger",
+                "5": "https://www.cnbc.com/2022/12/09/democratic-lawmakers-accuse-big-oil-of-greenwashing.html",
+                "6": "https://www.theguardian.com/business/2023/apr/12/shell-sakhalin-2-gas-project-stake"
+            },
+            "tags": [
+                "oil-and-gas",
+                "energy",
+                "refining",
+                "exploration",
+                "production",
+                "petrochemicals",
+                "downstream"
+            ],
+            "score": 0,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e8/Shell_logo.svg",
+            "siteUrl": "https://shell.com/",
+            "updatedAt": "2024-03-03T14:53:47.814Z"
+        },
         "accenture": {
             "names": [
                 "Accenture",
