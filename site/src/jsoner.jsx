@@ -159,7 +159,6 @@ function JsonDump({ value, mergeJSONDump }) {
                 onChange={ e => setJson(e.target.value) } />
         </Entry> }
         <PillButton $outline
-            style={{ justifySelf: "right" }}
             onClick={
                 !dumping
                 ? setDumping
