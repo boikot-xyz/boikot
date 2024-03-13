@@ -170,6 +170,27 @@ function JsonDump({ value, mergeJSONDump }) {
 }
 
 
+async function complete( state ) {
+    const response = await fetch(
+        "http://localhost:8014/complete", {
+            method: 'POST',
+            body: JSON.stringify(state),
+        } );
+
+    console.log( response );
+}
+
+
+function CompleteButton({ state }) {
+    if( window.location.hostname !== "localhost" ) return null;
+
+    return <PillButton $outline
+        onClick={ () => complete(state) }>
+        complete ✨
+    </PillButton>;
+}
+
+
 export function Jsoner() {
     const { key } = useParams();
     const [state, setState] = React.useState(getInitialState(key));
@@ -346,7 +367,10 @@ export function Jsoner() {
                 copy company data 📋
             </PillButton>
         </FlexRow>
-        <JsonDump mergeJSONDump={mergeJSONDump} />
+        <FlexRow style={{ justifyContent: "right" }}>
+            <JsonDump mergeJSONDump={mergeJSONDump} />
+            <CompleteButton state={state} />
+        </FlexRow>
     </Stack>;
 }
 
