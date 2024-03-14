@@ -141,7 +141,7 @@ const insertIntoString = ( originalString, insertIndex, insertionString ) =>
     insertionString +
     originalString.slice(insertIndex);
 
-function JsonDump({ value, mergeJSONDump }) {
+function JsonDump({ value, mergeJSON }) {
     const [ dumping, setDumping ] = React.useState(false);
     const [ json, setJson ] = React.useState("");
     const clear = () => setJson("") + setDumping(false);
@@ -162,7 +162,7 @@ function JsonDump({ value, mergeJSONDump }) {
             onClick={
                 !dumping
                 ? setDumping
-                : () => mergeJSONDump(json) && clear()
+                : () => mergeJSON(json) && clear()
             }>
             { dumping ? "merge 🖇️" : "merge JSON 🖇️" }
         </PillButton>
@@ -248,7 +248,7 @@ export function Jsoner() {
         }) );
 
 
-    const mergeJSONDump = json => {
+    const mergeJSON = json => {
         try {
             const newObj = JSON.parse(json);
             setState( oldState => ({
@@ -368,7 +368,7 @@ export function Jsoner() {
             </PillButton>
         </FlexRow>
         <FlexRow style={{ justifyContent: "right" }}>
-            <JsonDump mergeJSONDump={mergeJSONDump} />
+            <JsonDump mergeJSON={mergeJSON} />
             <CompleteButton state={state} />
         </FlexRow>
     </Stack>;
