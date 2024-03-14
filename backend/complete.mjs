@@ -43,7 +43,7 @@ const server = http.createServer((req, res) => {
             const state = JSON.parse(body);
             complete( state )
                 .then( result => res.end( JSON.stringify(result) ) )
-                .catch( error => (res.statusCode = 400) + res.end( error.message ) );
+                .catch( error => console.error(error) + (res.statusCode = 400) + res.end( error.message ) );
         } catch (e) {
             res.statusCode = 400;
             res.end('{"error":"CANNOT_PARSE"}');
