@@ -112,6 +112,25 @@ function getSiteUrl( pageDOM ) {
     return siteUrl;
 }
 
+const exchanges = [
+    "NYSE",
+    "NASDAQ",
+    "AMEX",
+    "TSE",
+    "LSE",
+    "HKEX",
+    "SSE",
+    "SZSE",
+    "EURONEXT",
+    "JASDAQ",
+    "ASX",
+    "NSE",
+    "BSE",
+    "KBSE",
+    "SGX",
+];
+
+
 function getTickers( pageDOM ) {
 
     const document = pageDOM.window.document;
@@ -121,15 +140,13 @@ function getTickers( pageDOM ) {
     const tradedAsBox = infoBoxes.filter( 
         el => el.textContent.includes("Traded") 
     )[0];
-    if( !tradedLabel ) return [];
+    if( !tradedAsBox ) return [];
 
     return unique( 
         tradedAsBox
             .textContent
-            .matchAll()
-            .map( s => s.match( /[ a-z]+:\s([a-z]+)/i ) )
-            .filter( match => match )
-            .map( match => match[1] )
+            .match( /[A-Z]{2,}/g )
+            .filter( s => !exchanges.includes(s) )
     );
 }
 
