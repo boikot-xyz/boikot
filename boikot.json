@@ -2578,6 +2578,159 @@
             "siteUrl": "http://mondelezinternational.com/",
             "updatedAt": "2024-03-14T21:59:31.553Z"
         },
+        "cadbury": {
+            "names": [
+                "Cadbury"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "chocolate"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "mondelez"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Cadbury_%282020%29.svg",
+            "siteUrl": "https://cadbury.co.uk/",
+            "updatedAt": "2024-01-27T01:34:37.705Z"
+        },
+        "daim": {
+            "names": [
+                "Daim"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "chocolate"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "mondelez"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cf/Daim-Wrapper-Small.jpg",
+            "siteUrl": "https://www.mondelezinternational.com/our-brands/daim/",
+            "updatedAt": "2024-01-27T01:34:37.705Z"
+        },
+        "halls": {
+            "names": [
+                "Halls"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "sweets"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "mondelez"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f0/HallsCoughDrops.jpg",
+            "siteUrl": "http://gethalls.com/",
+            "updatedAt": "2024-01-27T01:34:37.705Z"
+        },
+        "milka": {
+            "names": [
+                "Milka"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "chocolate"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "mondelez"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Milka_purple_logo18.svg",
+            "siteUrl": "https://www.milka.com/",
+            "updatedAt": "2024-01-27T01:34:37.705Z"
+        },
+        "oreo": {
+            "names": [
+                "Oreo"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "mondelez"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/97/Oreo_Cookie_logo.png",
+            "siteUrl": "https://www.oreo.com/",
+            "updatedAt": "2024-01-27T01:34:37.705Z"
+        },
+        "philadelphia": {
+            "names": [
+                "Philadelphia"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "mondelez"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Philadelphia_cheese_logo.png",
+            "siteUrl": "https://www.mondelezinternational.com/our-brands/philadelphia/",
+            "updatedAt": "2024-01-27T01:34:37.705Z"
+        },
+        "ritz": {
+            "names": [
+                "Ritz"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "mondelez"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Ritz_crackers_logo.png",
+            "siteUrl": "https://www.ritzcrackers.com/",
+            "updatedAt": "2024-01-27T01:34:37.705Z"
+        },
+        "sour-patch-kids": {
+            "names": [
+                "Sour Patch Kids"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "sweets"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "mondelez"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sour-Patch-Kids.jpg",
+            "siteUrl": "http://sourpatchkids.com/",
+            "updatedAt": "2024-01-27T01:34:37.705Z"
+        },
+        "toblerone": {
+            "names": [
+                "Toblerone"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "sweets"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "mondelez"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Toblerone_logo22.png",
+            "siteUrl": "https://www.toblerone.co.uk/en",
+            "updatedAt": "2024-01-27T01:34:37.705Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
