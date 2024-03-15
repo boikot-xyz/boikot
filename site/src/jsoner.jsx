@@ -170,22 +170,29 @@ function JsonDump({ value, mergeJSON }) {
 }
 
 
-async function complete( state ) {
+async function complete( state, mergeJSON ) {
     const response = await fetch(
         "http://localhost:8014/complete", {
             method: 'POST',
             body: JSON.stringify(state),
         } );
-
-    console.log( response );
+    const {
+        siteUrl, logoUrl, tickers, commentPrompt
+    } = await response.json();
+    const names = [...state.names, ...tickers];
+    mergeJSON(JSON.stringify({
+        names, siteUrl, logoUrl
+    }));
+    copy(commentPrompt);
+    alert("copied prompt!");
 }
 
 
-function CompleteButton({ state }) {
+function CompleteButton({ state, mergeJSON}) {
     if( window.location.hostname !== "localhost" ) return null;
 
     return <PillButton $outline
-        onClick={ () => complete(state) }>
+        onClick={ () => complete(state, mergeJSON) }>
         complete ✨
     </PillButton>;
 }
@@ -369,7 +376,7 @@ export function Jsoner() {
         </FlexRow>
         <FlexRow style={{ justifyContent: "right" }}>
             <JsonDump mergeJSON={mergeJSON} />
-            <CompleteButton state={state} />
+            <CompleteButton state={state} mergeJSON={mergeJSON} />
         </FlexRow>
     </Stack>;
 }
