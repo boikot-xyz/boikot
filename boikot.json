@@ -2553,6 +2553,31 @@
             "siteUrl": "https://www.colmans.co.uk/",
             "updatedAt": "2024-01-27T01:34:37.705Z"
         },
+        "mondelez": {
+            "names": [
+                "Mondelez",
+                "Mondelēz",
+                "Mondelez International",
+                "Mondelez International, Inc.",
+                "Mondelēz International",
+                "MDLZ"
+            ],
+            "comment": "Mondelez International, the maker of Cadbury, Oreo, and other popular snack brands, has been accused of destroying tens of thousands of hectares of orangutan habitat [1] and continuing to employ child labor on cocoa farms in its supply chain despite past pledges to eliminate such practices [2]. Despite promising to source sustainable palm oil, Mondelez has remained linked to suppliers engaged in deforestation and human rights abuses, and the company continued operating in Russia following its invasion of Ukraine, leading Ukraine to declare it an international sponsor of the war [3].",
+            "sources": {
+                "1": "https://www.independent.co.uk/environment/orangutans-palm-oil-habitat-rainforest-cadbury-mondelez-oreos-indonesia-greenpeace-a8630801.html",
+                "2": "https://www.theguardian.com/law/2022/apr/03/cadbury-faces-fresh-accusations-of-child-labour-on-cocoa-farms-in-ghana",
+                "3": "https://english.nv.ua/business/ukraine-declares-mondelez-international-makers-of-milka-and-oreo-sponsor-of-war-50327508.html"
+            },
+            "tags": [
+                "food",
+                "beverages"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Mondelez_International.svg",
+            "siteUrl": "http://mondelezinternational.com/",
+            "updatedAt": "2024-03-14T21:59:31.553Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
