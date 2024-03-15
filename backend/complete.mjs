@@ -3,7 +3,7 @@ import { commentPrompt, getInfo, scrape } from "./assemble.mjs";
 
 async function complete( state ) {
     const infoPromise = getInfo( state.names[0] );
-    const webpagePromises = state.sources.map(scrape);
+    const webpagePromises = Object.values(state.sources).map(scrape);
 
     const [ info, ...webpages ] = await Promise.all([ infoPromise, ...webpagePromises ]);
 
