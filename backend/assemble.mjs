@@ -16,7 +16,7 @@ export const commentPrompt = (companyName, webpages) =>
 
     ${ webpages.map( (text, i) => `[${i+1}] ${text}` ).join("\n\n    ") }
 
-* Here are some examples of two-sentence company ethics summaries for other companies:
+* Here are some examples of succinct two-sentence company ethics summaries for other companies:
 
     Apple is an American technology company credited with innovation in personal computing [1] which has a generally pro-consumer stance on privacy [2][3][4] and a proactive climate policy [5][6][7]. Apple has engaged in anti-competetive practices [8], its factories have seen abusive working conditions [9][10], and its climate claims have been called misleading [11].
 
@@ -24,7 +24,7 @@ export const commentPrompt = (companyName, webpages) =>
                 
     Tesco is a British retailer which appropriated a UNICEF slogan for advertising purposes [1] and engaged in price fixing [2], and its supply chain has included animal cruelty [3][4], slave labour [5], and deforestation of the Amazon [6]. Tesco has provided millions of pounds in educational equipment to schools [7], which is a fraction of the amount it has avoided in tax [8].
 
-* Please summarise the information from the online articles into a two-sentence company ethics summary like those above. Make sure to include a few words on each of the major ethical infractions by the company. When you include information from a given section, make sure to include its refernce marker eg. [1], [2] or [3]. Respond with the two-sentence summary only. Your summary:`;
+* Please summarise the information from the online articles into a succinct two-sentence company ethics summary like those above. Make sure to include a few words on each of the major ethical infractions by the company. When you include information from a given section, make sure to include its refernce marker eg. [1], [2] or [3]. Respond with the two-sentence summary only. Your summary:`;
 
 
 // === web scraping ===
