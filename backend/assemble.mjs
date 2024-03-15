@@ -128,21 +128,43 @@ const exchanges = [
     "BSE",
     "KBSE",
     "SGX",
+    "DJIA",
 ];
 
 
 function getTickers( pageDOM ) {
 
     const document = pageDOM.window.document;
+    const infoBoxLabels = [...document.querySelectorAll(
+        "table.infobox.vcard tr th.infobox-label"
+    )];
+    const tradedLabel = infoBoxLabels.filter(
+        el => el.innerHTML.includes("Traded")
+    )[0];
+    if( !tradedLabel ) return [];
+
+    const tradedStrings = [
+        ...tradedLabel.parentElement.querySelectorAll("li")
+    ].map(el => el.textContent);
+
+    const matches = unique(
+        tradedStrings
+        .map( s => s.match( /[ a-z]+:\s([a-z]+)/i ) )
+        .filter( match => match )
+        .map( match => match[1] )
+    );
+
+    if( matches.length ) return matches;
+
     const infoBoxes = [...document.querySelectorAll(
         "table.infobox.vcard tr"
     )];
-    const tradedAsBox = infoBoxes.filter( 
-        el => el.textContent.includes("Traded") 
+    const tradedAsBox = infoBoxes.filter(
+        el => el.textContent.includes("Traded")
     )[0];
     if( !tradedAsBox ) return [];
 
-    return unique( 
+    return unique(
         tradedAsBox
             .textContent
             .match( /[A-Z]{2,}/g )
