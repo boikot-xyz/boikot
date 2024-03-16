@@ -2731,6 +2731,75 @@
             "siteUrl": "https://www.toblerone.co.uk/en",
             "updatedAt": "2024-01-27T01:34:37.705Z"
         },
+        "primark": {
+            "names": [
+                "Primark",
+                "Penneys",
+                "Primark Stores Limited"
+            ],
+            "comment": "Primark, a British fast fashion giant, has been accused of underpaying garment workers in its supply chain, employing undocumented immigrants below minimum wage, and imprisoning workers for participating in protests against Myanmar's military coup [1][2][3]. The company has also faced criticism for promoting sexist messaging on children's clothing and removing ethical branding following investigations into labor violations [2][3].",
+            "sources": {
+                "1": "https://www.theguardian.com/global-development/2021/mar/13/primark-supplier-accused-of-locking-workers-in-factory-in-myanmar-protests",
+                "2": "https://www.theguardian.com/business/2009/jan/11/primark-ethical-business-living",
+                "3": "https://www.bbc.co.uk/news/business-60290232"
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Primark_Stores_Logo.svg",
+            "siteUrl": "http://primark.com/",
+            "updatedAt": "2024-03-16T08:22:52.479Z"
+        },
+        "tk-maxx": {
+            "names": [
+                "TK Maxx",
+                "TJ Maxx",
+                "HomeGoods",
+                "HomeSense",
+                "TJX",
+                "TJX Companies",
+                "T.K. Maxx",
+                "T.K.maxx",
+                "Marshalls"
+            ],
+            "comment": "TK Maxx, a major retailer, has been found selling real fur from animals like rabbits, foxes and mink that was mislabeled as \"faux fur\", despite claiming to have a no-fur policy [1]. Along with other fashion brands like Boohoo, Amazon and Missguided, TK Maxx has also been called out by UK MPs for failing to take sufficient action on sustainability and ethical labor practices in its supply chain [2].",
+            "sources": {
+                "1": "https://news.sky.com/story/more-retailers-selling-real-fur-labelled-as-fake-sky-news-investigation-finds-11177979",
+                "2": "https://www.bbc.co.uk/news/business-47057870"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/TK_Maxx_Logo.svg",
+            "siteUrl": "http://www.tkmaxx.com/",
+            "updatedAt": "2024-03-16T08:36:24.708Z"
+        },
+        "kraft-heinz": {
+            "names": [
+                "Kraft Heinz",
+                "Heinz",
+                "Kraft",
+                "KHC"
+            ],
+            "comment": "Kraft Heinz, one of the world's largest food companies, paid a $62 million fine for creating over $200 million in fake cost savings to mislead investors, violating securities laws [1]. The company has also been criticized by WWF for lagging behind on sustainable palm oil sourcing, a key driver of deforestation and habitat destruction [2].",
+            "sources": {
+                "1": "https://www.forbes.com/sites/graisondangor/2021/09/03/kraft-heinz-fined-62-million-for-phony-accounting/",
+                "2": "https://www.independent.co.uk/climate-change/news/heinz-palm-oil-worst-companies-b1929351.html"
+            },
+            "tags": [
+                "food"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/KraftHeinz.svg",
+            "siteUrl": "https://kraftheinzcompany.com/",
+            "updatedAt": "2024-03-16T09:11:26.184Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
