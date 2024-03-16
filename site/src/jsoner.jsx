@@ -367,7 +367,10 @@ export function Jsoner() {
             </CodeBlock>
         </Entry>
         <FlexRow style={{ justifyContent: "right" }}>
-            <PillButton $outline onClick={() => setState(initialState)}>
+            <PillButton $outline onClick={
+                () => window.confirm("Clear company data?")
+                    && setState(initialState)
+            }>
                 clear 🧽
             </PillButton>
             <PillButton onClick={() => copy(tojson(state))}>
