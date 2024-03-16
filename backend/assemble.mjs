@@ -65,8 +65,8 @@ const searchEndpoint = searchQuery =>
     `https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=description%7Cinfo&inprop=url&generator=prefixsearch&redirects=&gpssearch=${searchQuery}&gpsnamespace=0&gpslimit=2`;
 
 const isNotDisambiguation = page =>
-    !page.description
-        .includes("Topics referred to by the same term");
+    page.description &&
+    !page.description.includes("Topics referred to by the same term");
 
 async function getWikipediaPage( searchQuery ) {
 
