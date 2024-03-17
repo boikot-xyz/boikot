@@ -453,7 +453,8 @@
             ],
             "score": 10,
             "ownedBy": [
-                "coca-cola"
+                "coca-cola",
+                "kraft-heinz"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/72/Capri_Sun_EMEA_logo.png",
             "siteUrl": "https://capri-sun.com/group/en/",
@@ -2674,7 +2675,8 @@
             ],
             "score": 20,
             "ownedBy": [
-                "mondelez"
+                "mondelez",
+                "kraft-heinz"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Philadelphia_cheese_logo.png",
             "siteUrl": "https://www.mondelezinternational.com/our-brands/philadelphia/",
@@ -2782,7 +2784,6 @@
         "kraft-heinz": {
             "names": [
                 "Kraft Heinz",
-                "Heinz",
                 "Kraft",
                 "KHC"
             ],
@@ -2792,12 +2793,134 @@
                 "2": "https://www.independent.co.uk/climate-change/news/heinz-palm-oil-worst-companies-b1929351.html"
             },
             "tags": [
-                "food"
+                "food",
+                "palm oil"
             ],
             "score": 40,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/KraftHeinz.svg",
             "siteUrl": "https://kraftheinzcompany.com/",
+            "updatedAt": "2024-03-16T09:11:26.184Z"
+        },
+        "heinz": {
+            "names": [
+                "Heinz",
+                "HNZ"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "kraft-heinz"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/H._J._Heinz_Company_-_Logo.svg",
+            "siteUrl": "https://www.heinz.com/",
+            "updatedAt": "2024-03-16T09:11:26.184Z"
+        },
+        "daddies": {
+            "names": [
+                "Daddies"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "kraft-heinz"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Daddies_brand_logo.png",
+            "siteUrl": "https://kraftheinzcompany.com/",
+            "updatedAt": "2024-03-16T09:11:26.184Z"
+        },
+        "grey-poupon": {
+            "names": [
+                "Grey Poupon"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "kraft-heinz"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ea/Grey_poupon_logo.png",
+            "siteUrl": "https://greypouponmustard.co.uk/",
+            "updatedAt": "2024-03-16T09:11:26.184Z"
+        },
+        "hp-sauce": {
+            "names": [
+                "HP Sauce"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "kraft-heinz"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/87/HPsauce.svg",
+            "siteUrl": "https://www.hpsauce.co.uk/",
+            "updatedAt": "2024-03-16T09:11:26.184Z"
+        },
+        "kool-aid": {
+            "names": [
+                "Kool-Aid"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "kraft-heinz"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Kool_aid_brand_logo.png",
+            "siteUrl": "https://www.koolaid.com/",
+            "updatedAt": "2024-03-16T09:11:26.184Z"
+        },
+        "jell-o": {
+            "names": [
+                "Jell-O"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "kraft-heinz"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Jell-O_new_logo_%282023%29.svg",
+            "siteUrl": "https://www.kraftheinz.com/jello",
+            "updatedAt": "2024-03-16T09:11:26.184Z"
+        },
+        "lea-&-perrins": {
+            "names": [
+                "Lea & Perrins",
+                "Worcestershire Sauce"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "kraft-heinz"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Leaandperrins_logo.png",
+            "siteUrl": "https://www.kraftheinz.com/",
             "updatedAt": "2024-03-16T09:11:26.184Z"
         },
         "bbc": {
