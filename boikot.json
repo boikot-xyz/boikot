@@ -622,6 +622,516 @@
             "siteUrl": "https://nestle.com/",
             "updatedAt": "2023-12-23T00:34:27.776Z"
         },
+        "polo": {
+            "names": [
+                "Polo"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/33/Polo_Mints_logo.png",
+            "siteUrl": "https://www.nestleprofessional.co.uk/our-solutions/impulse-confectionery/our-brands/polo",
+            "updatedAt": "2024-03-18T17:06:41.962Z"
+        },
+        "carnation": {
+            "names": [
+                "Carnation"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
+            "siteUrl": "https://nestle.com/",
+            "updatedAt": "2024-03-18T17:06:36.629Z"
+        },
+        "nesquik": {
+            "names": [
+                "Nesquik"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Nesquik_logo_2023.svg",
+            "updatedAt": "2024-03-18T17:06:35.041Z"
+        },
+        "san-pellegrino": {
+            "names": [
+                "San Pellegrino"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
+            "siteUrl": "https://nestle.com/",
+            "updatedAt": "2024-03-18T17:06:37.166Z"
+        },
+        "nescafe": {
+            "names": [
+                "Nescafe"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
+            "siteUrl": "https://nestle.com/",
+            "updatedAt": "2024-03-18T17:06:38.475Z"
+        },
+        "nespresso": {
+            "names": [
+                "Nespresso"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
+            "siteUrl": "https://nestle.com/",
+            "updatedAt": "2024-03-18T17:06:34.788Z"
+        },
+        "buxton": {
+            "names": [
+                "Buxton"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
+            "siteUrl": "https://nestle.com/",
+            "updatedAt": "2024-03-18T17:06:35.962Z"
+        },
+        "perrier": {
+            "names": [
+                "Perrier"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Perrier_logo.svg",
+            "siteUrl": "http://www.buxton.me.us/",
+            "updatedAt": "2024-03-18T17:06:38.213Z"
+        },
+        "princes-gate": {
+            "names": [
+                "Princes Gate"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
+            "siteUrl": "https://nestle.com/",
+            "updatedAt": "2024-03-18T17:06:35.261Z"
+        },
+        "curiously-cinnamon": {
+            "names": [
+                "Curiously Cinnamon"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
+            "siteUrl": "https://nestle.com/",
+            "updatedAt": "2024-03-18T17:06:34.473Z"
+        },
+        "cookie-crisp": {
+            "names": [
+                "Cookie Crisp"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
+            "siteUrl": "https://nestle.com/",
+            "updatedAt": "2024-03-18T17:06:36.844Z"
+        },
+        "cheerios": {
+            "names": [
+                "Cheerios"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Cheerios_brand_logo.svg",
+            "updatedAt": "2024-03-18T17:06:39.319Z"
+        },
+        "golden-nuggets": {
+            "names": [
+                "Golden Nuggets"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/33/Golden_Nugget_Las_Vegas.svg",
+            "updatedAt": "2024-03-18T17:06:39.014Z"
+        },
+        "shreddies": {
+            "names": [
+                "Shreddies"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "updatedAt": "2024-03-18T17:06:36.179Z"
+        },
+        "aero": {
+            "names": [
+                "Aero"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/73/Aeroflot_Logo_en.svg",
+            "siteUrl": "https://www.aeroflot.ru/",
+            "updatedAt": "2024-03-18T17:06:42.606Z"
+        },
+        "caramac": {
+            "names": [
+                "Caramac"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "updatedAt": "2024-03-18T17:06:37.958Z"
+        },
+        "chips-ahoy!": {
+            "names": [
+                "Chips Ahoy!"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "updatedAt": "2024-03-18T17:06:36.351Z"
+        },
+        "milkybar": {
+            "names": [
+                "Milkybar"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "updatedAt": "2024-03-18T17:06:35.380Z"
+        },
+        "kit-kat": {
+            "names": [
+                "Kit Kat"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "updatedAt": "2024-03-18T17:06:40.806Z"
+        },
+        "munchies": {
+            "names": [
+                "Munchies"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "updatedAt": "2024-03-18T17:06:35.689Z"
+        },
+        "quality-street": {
+            "names": [
+                "Quality Street"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "updatedAt": "2024-03-18T17:06:37.764Z"
+        },
+        "rolo": {
+            "names": [
+                "Rolo"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "updatedAt": "2024-03-18T17:06:35.523Z"
+        },
+        "rowntrees": {
+            "names": [
+                "Rowntrees"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "updatedAt": "2024-03-18T17:06:37.562Z"
+        },
+        "smarties": {
+            "names": [
+                "Smarties"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "updatedAt": "2024-03-18T17:06:38.736Z"
+        },
+        "toffee-crisp": {
+            "names": [
+                "Toffee Crisp"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "updatedAt": "2024-03-18T17:06:40.418Z"
+        },
+        "sma": {
+            "names": [
+                "SMA"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "updatedAt": "2024-03-18T17:06:44.373Z"
+        },
+        "haagen-dazs": {
+            "names": [
+                "Häagen-Dazs"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/H%C3%A4agen-Dazs_Logo.svg",
+            "siteUrl": "https://www.icecream.com/us/en/brands/haagen-dazs",
+            "updatedAt": "2024-03-18T17:06:39.652Z"
+        },
+        "hot-pockets": {
+            "names": [
+                "Hot Pockets"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "updatedAt": "2024-03-18T17:06:37.368Z"
+        },
+        "felix": {
+            "names": [
+                "Felix"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "updatedAt": "2024-03-18T17:06:40.000Z"
+        },
+        "purina": {
+            "names": [
+                "Purina"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "siteUrl": "http://purina.com/",
+            "updatedAt": "2024-03-18T17:06:41.248Z"
+        },
+        "lily's-kitchen": {
+            "names": [
+                "Lily's Kitchen"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "updatedAt": "2024-03-18T17:06:33.810Z"
+        },
+        "l'oreal": {
+            "names": [
+                "L'Oréal"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/L%27Or%C3%A9al_logo.svg",
+            "siteUrl": "https://www.loreal.com/",
+            "updatedAt": "2024-03-18T17:06:43.352Z"
+        },
         "britvic": {
             "names": [
                 "Britvic",
