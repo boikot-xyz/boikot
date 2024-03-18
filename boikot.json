@@ -652,8 +652,8 @@
             "ownedBy": [
                 "nestle"
             ],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
-            "siteUrl": "https://nestle.com/",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/20/Carnationlogo.png",
+            "siteUrl": "http://www.nestle.com/",
             "updatedAt": "2024-03-18T17:06:36.629Z"
         },
         "nesquik": {
@@ -670,6 +670,7 @@
                 "nestle"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Nesquik_logo_2023.svg",
+            "siteUrl": "https://www.goodnes.com/nesquik/",
             "updatedAt": "2024-03-18T17:06:35.041Z"
         },
         "san-pellegrino": {
@@ -685,8 +686,8 @@
             "ownedBy": [
                 "nestle"
             ],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
-            "siteUrl": "https://nestle.com/",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sanpelegrino.svg",
+            "siteUrl": "http://www.sanpellegrino.com/",
             "updatedAt": "2024-03-18T17:06:37.166Z"
         },
         "nescafe": {
@@ -702,8 +703,8 @@
             "ownedBy": [
                 "nestle"
             ],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
-            "siteUrl": "https://nestle.com/",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Nescafe_logo_2014.png",
+            "siteUrl": "http://nescafe.com/",
             "updatedAt": "2024-03-18T17:06:38.475Z"
         },
         "nespresso": {
@@ -719,26 +720,9 @@
             "ownedBy": [
                 "nestle"
             ],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
-            "siteUrl": "https://nestle.com/",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nespresso_logo_%28monogram_%2B_wordmark%29.svg",
+            "siteUrl": "https://www.nespresso.com/",
             "updatedAt": "2024-03-18T17:06:34.788Z"
-        },
-        "buxton": {
-            "names": [
-                "Buxton"
-            ],
-            "comment": "",
-            "sources": {},
-            "tags": [
-                "food"
-            ],
-            "score": 10,
-            "ownedBy": [
-                "nestle"
-            ],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
-            "siteUrl": "https://nestle.com/",
-            "updatedAt": "2024-03-18T17:06:35.962Z"
         },
         "perrier": {
             "names": [
@@ -754,7 +738,7 @@
                 "nestle"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Perrier_logo.svg",
-            "siteUrl": "http://www.buxton.me.us/",
+            "siteUrl": "http://perrier.com/",
             "updatedAt": "2024-03-18T17:06:38.213Z"
         },
         "princes-gate": {
@@ -770,7 +754,7 @@
             "ownedBy": [
                 "nestle"
             ],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/68/Princes_Gate_Spring_Water_logo.png",
             "siteUrl": "https://nestle.com/",
             "updatedAt": "2024-03-18T17:06:35.261Z"
         },
@@ -787,8 +771,8 @@
             "ownedBy": [
                 "nestle"
             ],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
-            "siteUrl": "https://nestle.com/",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Cinnamon_toastcrunch_logo.png",
+            "siteUrl": "https://www.cinnamontoastcrunch.com/",
             "updatedAt": "2024-03-18T17:06:34.473Z"
         },
         "cookie-crisp": {
@@ -804,8 +788,8 @@
             "ownedBy": [
                 "nestle"
             ],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Nestl%C3%A9.svg",
-            "siteUrl": "https://nestle.com/",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/eb/Cookiecrisp_brand_logo.png",
+            "siteUrl": "https://cereals.generalmills.com/products/cookie-crisp/",
             "updatedAt": "2024-03-18T17:06:36.844Z"
         },
         "cheerios": {
@@ -822,6 +806,7 @@
                 "nestle"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Cheerios_brand_logo.svg",
+            "siteUrl": "https://www.cheerios.com/",
             "updatedAt": "2024-03-18T17:06:39.319Z"
         },
         "golden-nuggets": {
@@ -837,7 +822,8 @@
             "ownedBy": [
                 "nestle"
             ],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/33/Golden_Nugget_Las_Vegas.svg",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/17/Goldennuggets_brand_logo.png",
+            "siteUrl": "http://nestle-cereals.com/uk/brands/golden-nuggets",
             "updatedAt": "2024-03-18T17:06:39.014Z"
         },
         "shreddies": {
@@ -853,6 +839,8 @@
             "ownedBy": [
                 "nestle"
             ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Shreddies_postbrands_logo.png",
+            "siteUrl": "https://www.postconsumerbrands.ca/brand/shreddies/products/original-shreddies/",
             "updatedAt": "2024-03-18T17:06:36.179Z"
         },
         "aero": {
@@ -868,8 +856,8 @@
             "ownedBy": [
                 "nestle"
             ],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/73/Aeroflot_Logo_en.svg",
-            "siteUrl": "https://www.aeroflot.ru/",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b9/Aero_chocolate_logo.png/200px-Aero_chocolate_logo.png",
+            "siteUrl": "https://www.aerochocolate.co.uk/",
             "updatedAt": "2024-03-18T17:06:42.606Z"
         },
         "caramac": {
@@ -885,6 +873,8 @@
             "ownedBy": [
                 "nestle"
             ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/bc/Caramac_brand_logo.png/200px-Caramac_brand_logo.png",
+            "siteUrl": "https://www.nestle.co.uk/en-gb/brands/chocolate_and_confectionery/chocolate/caramac",
             "updatedAt": "2024-03-18T17:06:37.958Z"
         },
         "chips-ahoy!": {
@@ -900,6 +890,8 @@
             "ownedBy": [
                 "nestle"
             ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Chips_ahoy_brandlogo.png/150px-Chips_ahoy_brandlogo.png",
+            "siteUrl": "https://www.snackworks.com/brands/chips-ahoy",
             "updatedAt": "2024-03-18T17:06:36.351Z"
         },
         "milkybar": {
@@ -915,6 +907,8 @@
             "ownedBy": [
                 "nestle"
             ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Milkybar_logo.png/200px-Milkybar_logo.png",
+            "siteUrl": "https://www.milkybar.co.uk/",
             "updatedAt": "2024-03-18T17:06:35.380Z"
         },
         "kit-kat": {
@@ -930,6 +924,8 @@
             "ownedBy": [
                 "nestle"
             ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b6/Kit_kat_logo17.png/200px-Kit_kat_logo17.png",
+            "siteUrl": "https://www.kitkat.com/",
             "updatedAt": "2024-03-18T17:06:40.806Z"
         },
         "munchies": {
@@ -945,6 +941,8 @@
             "ownedBy": [
                 "nestle"
             ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Munchies_brand_logo.png/200px-Munchies_brand_logo.png",
+            "siteUrl": "https://www.nestle.co.uk/en-gb/brands/chocolate_and_confectionery/chocolate/munchies",
             "updatedAt": "2024-03-18T17:06:35.689Z"
         },
         "quality-street": {
@@ -960,6 +958,8 @@
             "ownedBy": [
                 "nestle"
             ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Qualitystreet_brand_logo.png/150px-Qualitystreet_brand_logo.png",
+            "siteUrl": "https://www.qualitystreet.co.uk/",
             "updatedAt": "2024-03-18T17:06:37.764Z"
         },
         "rolo": {
@@ -975,6 +975,8 @@
             "ownedBy": [
                 "nestle"
             ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Rolo_brand_logo.png/200px-Rolo_brand_logo.png",
+            "siteUrl": "https://www.nestle.co.uk/en-gb/brands/chocolate_and_confectionery/chocolate/rolo",
             "updatedAt": "2024-03-18T17:06:35.523Z"
         },
         "rowntrees": {
@@ -990,6 +992,8 @@
             "ownedBy": [
                 "nestle"
             ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a8/Rowntree%27s_logo.png/220px-Rowntree%27s_logo.png",
+            "siteUrl": "https://www.rowntrees.co.uk/",
             "updatedAt": "2024-03-18T17:06:37.562Z"
         },
         "smarties": {
@@ -1005,22 +1009,9 @@
             "ownedBy": [
                 "nestle"
             ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/51/Nestle_smarties_logo.png/200px-Nestle_smarties_logo.png",
+            "siteUrl": "https://www.nestle.com/brands/allbrands/smarties",
             "updatedAt": "2024-03-18T17:06:38.736Z"
-        },
-        "toffee-crisp": {
-            "names": [
-                "Toffee Crisp"
-            ],
-            "comment": "",
-            "sources": {},
-            "tags": [
-                "food"
-            ],
-            "score": 10,
-            "ownedBy": [
-                "nestle"
-            ],
-            "updatedAt": "2024-03-18T17:06:40.418Z"
         },
         "sma": {
             "names": [
@@ -1035,6 +1026,25 @@
             "ownedBy": [
                 "nestle"
             ],
+            "logoUrl": "https://www.smababy.co.uk/sites/default/files/site_logo.png",
+            "siteUrl": "https://www.smababy.co.uk/",
+            "updatedAt": "2024-03-18T17:06:44.373Z"
+        },
+        "yorkie": {
+            "names": [
+                "Yorkie"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/aa/Yorkie_brand_logo.png/200px-Yorkie_brand_logo.png",
+            "siteUrl": "https://www.nestle.co.uk/en-gb/brands/chocolate_and_confectionery/chocolate/yorkie",
             "updatedAt": "2024-03-18T17:06:44.373Z"
         },
         "haagen-dazs": {
@@ -1067,6 +1077,8 @@
             "ownedBy": [
                 "nestle"
             ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Hot_Pockets_2021_logo.png/220px-Hot_Pockets_2021_logo.png",
+            "siteUrl": "http://www.hotpockets.com/",
             "updatedAt": "2024-03-18T17:06:37.368Z"
         },
         "felix": {
@@ -1082,6 +1094,8 @@
             "ownedBy": [
                 "nestle"
             ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d1/Purina_Felix_logo.png/250px-Purina_Felix_logo.png",
+            "siteUrl": "https://www.purina.co.uk/cat/felix/",
             "updatedAt": "2024-03-18T17:06:40.000Z"
         },
         "purina": {
@@ -1097,6 +1111,7 @@
             "ownedBy": [
                 "nestle"
             ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lg_checker.svg/80px-Lg_checker.svg.png",
             "siteUrl": "http://purina.com/",
             "updatedAt": "2024-03-18T17:06:41.248Z"
         },
@@ -1113,6 +1128,8 @@
             "ownedBy": [
                 "nestle"
             ],
+            "logoUrl": "https://www.lilyskitchen.co.uk/on/demandware.static/-/Library-Sites-lilsrp-content-global/default/dwb65fdf38/header/logo.svg",
+            "siteUrl": "https://www.lilyskitchen.co.uk/",
             "updatedAt": "2024-03-18T17:06:33.810Z"
         },
         "l'oreal": {
