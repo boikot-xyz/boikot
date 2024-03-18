@@ -31,7 +31,6 @@ function getLogoUrl( pageDOM ) {
         document.querySelector(".infobox-image img");
 
     const logoUrl = logoImg?.src
-        .match(/.+?\.svg/)?.[0]
         .replace("thumb/", "")
         .replace("//upload", "https://upload");
 
@@ -42,20 +41,22 @@ function getSiteUrl( pageDOM ) {
 
     const document = pageDOM.window.document;
     const infoBoxLabels = [...document.querySelectorAll(
-        "table.infobox.vcard tr th.infobox-label"
+        "table.infobox tr"
     )];
     const siteLabel = infoBoxLabels.filter( 
         el => el.innerHTML.includes("Website") 
            || el.innerHTML.includes("URL")
     )[0];
-    const siteUrl = siteLabel?.parentElement.querySelector("a").href;
+    const siteUrl = siteLabel?.querySelector("a").href;
 
     return siteUrl;
 }
 
 async function getInfo( searchQuery, showExtraInfo = false ) {
 
-    const page = await getWikipediaPage( searchQuery );
+    const page = searchQuery.match("^https")
+        ? { fullurl: searchQuery }
+        : await getWikipediaPage( searchQuery );
     const pageHTML = await (await fetch(page.fullurl)).text();
     const pageDOM = new JSDOM( pageHTML );
 
