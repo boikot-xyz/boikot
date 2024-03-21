@@ -158,7 +158,7 @@ function JsonDump({ value, mergeJSON }) {
                 value={json}
                 onChange={ e => setJson(e.target.value) } />
         </Entry> }
-        <PillButton $outline
+        <PillButton $outline style={{ justifySelf: "right" }}
             onClick={
                 !dumping
                 ? setDumping
@@ -377,10 +377,8 @@ export function Jsoner() {
                 copy company data 📋
             </PillButton>
         </FlexRow>
-        <FlexRow style={{ justifyContent: "right" }}>
-            <JsonDump mergeJSON={mergeJSON} />
-            <CompleteButton state={state} mergeJSON={mergeJSON} />
-        </FlexRow>
+        <JsonDump mergeJSON={mergeJSON} />
+        <CompleteButton state={state} mergeJSON={mergeJSON} />
     </Stack>;
 }
 
