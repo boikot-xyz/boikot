@@ -19,6 +19,10 @@ const server = http.createServer((req, res) => {
     res.setHeader('Content-Type', 'application/json');
     res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8015');
 
+    if( req.url == '/check' && req.method == "GET" ) {
+        res.end('{"result": true}');
+        return;
+    }
     if( req.method !== 'POST' ) {
         res.statusCode = 405;
         res.end('{"error":"METHOD_NOT_ALLOWED"}');
