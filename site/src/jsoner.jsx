@@ -189,9 +189,18 @@ async function complete( state, mergeJSON ) {
 
 
 function CompleteButton({ state, mergeJSON}) {
-    if( window.location.hostname !== "localhost" ) return null;
+    const [ show, setShow ] = React.useState(false);
+    React.useEffect( () => {
+        ( async () => setShow(
+            ( await (
+                await fetch("http://localhost:8014/check")
+            ).json() )?.result )
+        )();
+    }, [] );
 
-    return <PillButton $outline
+    if( !show ) return null;
+
+    return <PillButton $outline style={{ justifySelf: "right" }}
         onClick={ () => complete(state, mergeJSON) }>
         complete ✨
     </PillButton>;
