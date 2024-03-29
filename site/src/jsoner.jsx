@@ -2,6 +2,7 @@ import React from "react";
 import styled, { css } from "styled-components";
 import slugify from "slugify";
 import { useParams } from "react-router";
+import "whatwg-fetch";
 
 import boikot from '../../boikot.json';
 import { CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack } from "./components.jsx";
