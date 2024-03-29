@@ -3494,6 +3494,27 @@
             "siteUrl": "https://asda.com/",
             "updatedAt": "2024-03-29T15:10:50.832Z"
         },
+        "aldi": {
+            "names": [
+                "ALDI",
+                "Aldi"
+            ],
+            "comment": "Aldi, a German supermarket chain, has cut emissions substantially through renewable energy and efficiency measures [1], but has been accused of systemic wage theft by requiring employees to work unpaid before shifts [2][3]. The company was sued for misclassifying managers to avoid overtime pay [2], and potentially underpaid over 20,000 workers more than $150 million [3].",
+            "sources": {
+                "1": "https://web.archive.org/web/20190126101154/https://www.treehugger.com/corporate-responsibility/supermarket-cuts-emissions-53-offsets-rest.html",
+                "2": "https://www.syracuse.com/business/2019/02/aldi-pays-98-million-in-syracuse-overtime-lawsuit.html",
+                "3": "https://www.afr.com/work-and-careers/workplace/aldi-accused-of-150m-deliberate-wage-theft-20231027-p5efni"
+            },
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 60,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/ALDI_SUD.png",
+            "siteUrl": "http://aldi.com/",
+            "updatedAt": "2024-03-29T16:58:43.366Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
