@@ -135,7 +135,7 @@ function Subsidiaries({ entry }) {
 }
 
 export function Company({ entry, compact }) {
-    if( !entry.names ) return null;
+    if( !entry?.names ) return null;
 
     return <Stack>
         <CompanyHeader entry={entry} link={!!compact} />
