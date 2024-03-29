@@ -5,7 +5,7 @@ const fs = require('fs').promises;
 const path = require('path');
 
 const virtualConsole = new VirtualConsole();
-virtualConsole.on("error", () => {});
+// virtualConsole.on("error", () => {});
 virtualConsole.on("warn", () => {});
 virtualConsole.on("info", () => {});
 virtualConsole.on("dir", () => {});
