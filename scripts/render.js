@@ -15,9 +15,6 @@ const visitedUrls = {};
 async function scrape( url ) {
     
     const pageHTML = await (await fetch(url)).text();
-    const scripts = pageHTML.match(
-        /<script.+?<\/script>/gs
-    ).join("\n");
     const pageDOM = new JSDOM(
         pageHTML, {
             runScripts: "dangerously",
@@ -31,11 +28,7 @@ async function scrape( url ) {
         }
     );
     return new Promise( resolve =>
-        pageDOM.window.renderCallback = () =>
-            resolve(pageDOM
-                .serialize()
-                .replace("</body>", scripts + "</body>")
-            )
+        pageDOM.window.renderCallback = () => resolve(pageDOM.serialize())
     );
 }
 
