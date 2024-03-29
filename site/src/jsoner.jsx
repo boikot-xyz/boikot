@@ -192,11 +192,10 @@ async function complete( state, mergeJSON ) {
 function CompleteButton({ state, mergeJSON}) {
     const [ show, setShow ] = React.useState(false);
     React.useEffect( () => {
-        ( async () => setShow(
-            ( await (
-                await fetch("http://localhost:8014/check")
-            ).json() )?.result )
-        )();
+        fetch("http://localhost:8014/check")
+            .then(response => response.json())
+            .then(({ result }) => setShow(result))
+            .catch(() => {});
     }, [] );
 
     if( !show ) return null;
