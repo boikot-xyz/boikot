@@ -3515,6 +3515,30 @@
             "siteUrl": "http://aldi.com/",
             "updatedAt": "2024-03-29T16:58:43.366Z"
         },
+        "lidl": {
+            "names": [
+                "Lidl",
+                "LIDL",
+                "Kaufland"
+            ],
+            "comment": "Lidl, a German discount supermarket chain, has been accused of extensively spying on employees, recording personal details like menstrual cycles, relationships and finances [1], as well as shutting down stores where employees unionise [2]. The company has also faced allegations of animal cruelty [3], using unethical killing methods on chickens, operating in inhumane conditions, and deceiving consumers about severing ties with an abusive supplier farm.",
+            "sources": {
+                "1": "https://www.theguardian.com/world/2008/mar/27/germany.supermarkets",
+                "2": "https://www.mashed.com/94133/untold-truth-lidl/",
+                "3": "https://www.lidlchickenscandal.com/"
+            },
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "schwarz-gruppe"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lidl-Logo.svg",
+            "siteUrl": "https://info.lidl/en/",
+            "updatedAt": "2024-03-29T16:58:43.366Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
