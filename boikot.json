@@ -3450,6 +3450,50 @@
             "siteUrl": "https://www.kraftheinz.com/",
             "updatedAt": "2024-03-16T09:11:26.184Z"
         },
+        "walmart": {
+            "names": [
+                "Walmart",
+                "Massmart",
+                "Flipkart",
+                "Walmart Inc.",
+                "Wal-Mart",
+                "WMT"
+            ],
+            "comment": "Walmart, the world's largest retailer, has been accused of destroying Native American burial grounds [1], violating labor laws by disciplining protesting workers [2], illegally employing minors and denying breaks [3], and fueling the opioid crisis through irresponsible pharmaceutical practices [4].",
+            "sources": {
+                "1": "https://web.archive.org/web/20070929045815/http://www.anairtn.org/walmart/index.html",
+                "2": "https://web.archive.org/web/20131126221724/http://www.latimes.com/business/money/la-fi-mo-nlrb-walmart-20131119,0,1499317.story#axzz2lfbzVSap",
+                "3": "https://web.archive.org/web/20070807045544/http://www.corpwatch.org/article.php?id=9649",
+                "4": "https://www.nytimes.com/2022/11/15/health/walmart-opioids-settlement.html"
+            },
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 30,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Walmart_logo.svg",
+            "siteUrl": "https://www.walmart.com/",
+            "updatedAt": "2024-03-29T15:10:50.832Z"
+        },
+        "asda": {
+            "names": [
+                "ASDA"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "walmart"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/Asda_logo.svg",
+            "siteUrl": "https://asda.com/",
+            "updatedAt": "2024-03-29T15:10:50.832Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
