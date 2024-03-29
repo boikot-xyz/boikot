@@ -292,6 +292,7 @@ function MailingList() {
 }
 
 export function Footer() {
+    React.useLayoutEffect( () => { window.renderCallback?.(); }, [] );
     return <Stack style={{ marginTop: "3rem", fontSize: "0.9rem" }}>
         <hr />
         <Stack>
