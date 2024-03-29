@@ -14,8 +14,6 @@ const visitedUrls = {};
 
 async function scrape( url ) {
     
-    if( visitedUrls[url.pathname] ) return;
-    visitedUrls[url.pathname] = true;
     const pageHTML = await (await fetch(url)).text();
     const scripts = pageHTML.match(
         /<script.+?<\/script>/gs
@@ -43,6 +41,9 @@ async function scrape( url ) {
 
 async function renderTree( url, targetDir=null ) {
 
+    if( visitedUrls[url.pathname] ) return;
+    visitedUrls[url.pathname] = true;
+
     let filePath = (targetDir || url.host)
         + url.pathname.replace( /\/?(index.html)?$/, "/index.html" ); 
 
@@ -66,6 +67,9 @@ async function renderTree( url, targetDir=null ) {
             .map( match => match[1] )
             .map( path => new URL(path, origin) )
             .filter( otherUrl => otherUrl.origin === origin )
+            .filter( otherUrl =>
+                !otherUrl.pathname.match(/companies\/edit\/./)
+            )
             .map( otherUrl =>
                 new URL(otherUrl.pathname, otherUrl.origin)
             );
