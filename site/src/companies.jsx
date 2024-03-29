@@ -210,7 +210,9 @@ export function CompanyHeader({ entry, link = false }) {
                     padding: "0.25rem",
                     background: "white",
                     borderRadius: "0.5rem",
-                    objectFit: "contain" }}/>
+                    objectFit: "contain",
+                    fontSize: "0.6rem",
+                    wordWrap: "anywhere" }}/>
             <Stack gap="0" style={{ marginRight: "0.1rem" }}>
                 <h3 style={{ textDecoration: link && "underline" }}>
                     {entry.names[0]}
