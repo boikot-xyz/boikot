@@ -2338,6 +2338,45 @@
             "siteUrl": "http://premier-stores.co.uk/",
             "updatedAt": "2024-03-30T21:00:09.606Z"
         },
+        "sainsbury's": {
+            "names": [
+                "Sainsbury's",
+                "J Sainsbury plc",
+                "SBRY"
+            ],
+            "comment": "Sainsbury's has faced criticism for declining to pay contracted workers a living wage and for excessive executive compensation, with its CEO receiving £3.8m while rejecting calls to ensure all workers earn a living wage [1]. Investigations have uncovered allegations of forced labor, excessive overtime, abuse, and poor working conditions in factories producing clothing for Sainsbury's [2], and the company threatened legal action against a small business named Singhsbury's [3].",
+            "sources": {
+                "1": "https://www.theguardian.com/business/2022/jun/06/sainsburys-boss-pay-triples-to-38m-as-firm-rejects-living-wage-calls",
+                "2": "https://www.dailymail.co.uk/news/article-8956691/Exploited-workers-Indian-factories-supplying-Tesco-Sainsburys-M-S-Ralph-Lauren.html",
+                "3": "https://web.archive.org/web/20180109064054/https://www.theguardian.com/business/2017/jun/27/corner-shop-becomes-morrisinghs-after-sainsburys-legal-threat"
+            },
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Sainsbury%27s_Logo.svg",
+            "siteUrl": "http://www.about.sainsburys.co.uk/",
+            "updatedAt": "2024-03-30T21:00:09.606Z"
+        },
+        "argos": {
+            "names": [
+                "Argos"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "sainsbury's"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Argos_logo.svg",
+            "siteUrl": "https://www.argos.co.uk/",
+            "updatedAt": "2024-03-30T21:00:09.606Z"
+        },
         "iceland": {
             "names": [
                 "Iceland",
