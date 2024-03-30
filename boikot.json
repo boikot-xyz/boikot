@@ -3539,6 +3539,27 @@
             "siteUrl": "https://info.lidl/en/",
             "updatedAt": "2024-03-29T16:58:43.366Z"
         },
+        "morrisons": {
+            "names": [
+                "Morrisons",
+                "Wm Morrison Supermarkets Limited"
+            ],
+            "comment": "Morrisons is a British supermarket chain that awarded millions in executive bonuses despite pandemic-related profit losses by adjusting performance metrics [1], and has been criticized for animal cruelty in its chicken supply chain despite marketing higher welfare standards [2]. Morrisons was ordered to pay compensation against a mother who suffered workplace discrimination [3].",
+            "sources": {
+                "1": "https://www.theguardian.com/business/2021/jun/10/morrisons-shareholders-reject-executive-bonuses-amid-falling-profits",
+                "2": "https://www.retailgazette.co.uk/blog/2021/06/morrisons-under-fire-for-ignoring-animal-suffering-in-supply-chain/",
+                "3": "https://www.bbc.co.uk/news/business-63457797"
+            },
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/82/MorrisonsLogo.svg",
+            "siteUrl": "https://morrisons.com/",
+            "updatedAt": "2024-03-30T10:14:47.798Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
