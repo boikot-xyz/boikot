@@ -2280,14 +2280,14 @@
                 "The Co-operative Group",
                 "Co-operative Wholesale Society"
             ],
-            "comment": "Co-op is a British supermarket and consumer co-operative which has championed the introduction of fairtrade [1], pushed for climate justice [3][4][5], innovated in accessible food labelling for disabled people [6], and invested millions of pounds of its profits back into the communities it serves [2]. Co-op boycotted exports from Israei settlements in Palestine since 2012 [7] and has a celebrated stance on avoiding pesticides [8], sustainable sourcing of palm oil [9], and animal welfare [2].",
+            "comment": "Co-op is a British supermarket and consumer co-operative which has championed the introduction of fairtrade [1], pushed for climate justice [2][3][4], innovated in accessible food labelling for disabled people [5], and invested millions of pounds of its profits back into the communities it serves [6]. Co-op boycotted exports from Israei settlements in Palestine since 2012 [7] and has a celebrated stance on avoiding pesticides [8], sustainable sourcing of palm oil [9], and animal welfare [6].",
             "sources": {
-                "1": "http://www.fairtrade.org.uk/en/buying-fairtrade/tea/cooperative",
-                "2": "https://web.archive.org/web/20160304060542/https://www.co-operative.coop/Corporate/PDFs/Shopping%20With%20Attitude%20Report.pdf",
-                "3": "https://web.archive.org/web/20150622200646/http://www.co-operative.coop/our-ethics/our-plan/protecting-the-environment/clean-energy-revolution/",
-                "4": "https://web.archive.org/web/20160303235606/http://www.co-operative.coop/upload/ToxicFuels/docs/businessandngo_openletter_mandatoryghgreporting.pdf",
-                "5": "https://web.archive.org/web/20150521053740/http://www.co-operative.coop/upload/ToxicFuels/docs/toxic_fuels_report_web.pdf",
-                "6": "http://www.marketingmagazine.co.uk/article/216426/co-op-extend-braille-labelling-food-range",
+                "1": "http://web.archive.org/web/20190708142737/http://www.fairtrade.org.uk/en/buying-fairtrade/tea/cooperative",
+                "2": "https://web.archive.org/web/20150622200646/http://www.co-operative.coop/our-ethics/our-plan/protecting-the-environment/clean-energy-revolution/",
+                "3": "https://web.archive.org/web/20160303235606/http://www.co-operative.coop/upload/ToxicFuels/docs/businessandngo_openletter_mandatoryghgreporting.pdf",
+                "4": "https://web.archive.org/web/20150521053740/http://www.co-operative.coop/upload/ToxicFuels/docs/toxic_fuels_report_web.pdf",
+                "5": "http://www.marketingmagazine.co.uk/article/216426/co-op-extend-braille-labelling-food-range",
+                "6": "https://web.archive.org/web/20160304060542/https://www.co-operative.coop/Corporate/PDFs/Shopping%20With%20Attitude%20Report.pdf",
                 "7": "https://www.theguardian.com/world/2012/apr/29/co-op-israel-west-bank-boycott",
                 "8": "http://www.foe.co.uk/resource/press_releases/0702coop",
                 "9": "https://web.archive.org/web/20151211105906/http://news.co-operativefood.co.uk/latest-news/the-co-operative-voted-best-for-palm-oil-use.html"
@@ -2301,6 +2301,30 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Co-Operative_clover_leaf_logo.svg",
             "siteUrl": "https://www.coop.co.uk/",
             "updatedAt": "2024-03-30T16:58:30.024Z"
+        },
+        "iceland": {
+            "names": [
+                "Iceland",
+                "Iceland Foods Limited",
+                "Iceland Frozen Foods plc"
+            ],
+            "comment": "Iceland is a British supermarket that lied about removing palm oil from its products [1], and discriminated against customer groups [2][3]. Iceland has a poor animal welfare record [4] and the worst sustainability rating amongst supermarkets [5].",
+            "sources": {
+                "1": "https://www.bbc.co.uk/news/uk-46984349",
+                "2": "https://www.irishtimes.com/ireland/2022/10/12/iceland-ordered-to-pay-12000-to-group-of-travellers-ejected-from-supermarket/",
+                "3": "https://www.bbc.co.uk/news/uk-northern-ireland-21508758",
+                "4": "https://www.independent.co.uk/news/uk/home-news/pigs-pork-animal-cruelty-iceland-asda-b1722592.html",
+                "5": "https://www.thegrocer.co.uk/sustainability-and-environment/in-graphs-why-iceland-ranked-bottom-for-supermarket-sustainability-by-which/664405.article"
+            },
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Iceland_with_the_The_Food_Warehouse_logo.png",
+            "siteUrl": "https://iceland.co.uk/",
+            "updatedAt": "2024-03-30T20:06:46.980Z"
         },
         "amazon": {
             "names": [
