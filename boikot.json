@@ -2273,6 +2273,35 @@
             "siteUrl": "https://www.lego.com/",
             "updatedAt": "2024-01-06T14:46:15.790Z"
         },
+        "co-op": {
+            "names": [
+                "Co-op",
+                "Co-op Food",
+                "The Co-operative Group",
+                "Co-operative Wholesale Society"
+            ],
+            "comment": "Co-op is a British supermarket and consumer co-operative which has championed the introduction of fairtrade [1], pushed for climate justice [3][4][5], innovated in accessible food labelling for disabled people [6], and invested millions of pounds of its profits back into the communities it serves [2]. Co-op boycotted exports from Israei settlements in Palestine since 2012 [7] and has a celebrated stance on avoiding pesticides [8], sustainable sourcing of palm oil [9], and animal welfare [2].",
+            "sources": {
+                "1": "http://www.fairtrade.org.uk/en/buying-fairtrade/tea/cooperative",
+                "2": "https://web.archive.org/web/20160304060542/https://www.co-operative.coop/Corporate/PDFs/Shopping%20With%20Attitude%20Report.pdf",
+                "3": "https://web.archive.org/web/20150622200646/http://www.co-operative.coop/our-ethics/our-plan/protecting-the-environment/clean-energy-revolution/",
+                "4": "https://web.archive.org/web/20160303235606/http://www.co-operative.coop/upload/ToxicFuels/docs/businessandngo_openletter_mandatoryghgreporting.pdf",
+                "5": "https://web.archive.org/web/20150521053740/http://www.co-operative.coop/upload/ToxicFuels/docs/toxic_fuels_report_web.pdf",
+                "6": "http://www.marketingmagazine.co.uk/article/216426/co-op-extend-braille-labelling-food-range",
+                "7": "https://www.theguardian.com/world/2012/apr/29/co-op-israel-west-bank-boycott",
+                "8": "http://www.foe.co.uk/resource/press_releases/0702coop",
+                "9": "https://web.archive.org/web/20151211105906/http://news.co-operativefood.co.uk/latest-news/the-co-operative-voted-best-for-palm-oil-use.html"
+            },
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 95,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Co-Operative_clover_leaf_logo.svg",
+            "siteUrl": "https://www.coop.co.uk/",
+            "updatedAt": "2024-03-30T16:58:30.024Z"
+        },
         "amazon": {
             "names": [
                 "Amazon",
