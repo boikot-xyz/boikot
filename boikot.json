@@ -2377,6 +2377,31 @@
             "siteUrl": "https://www.argos.co.uk/",
             "updatedAt": "2024-03-30T21:00:09.606Z"
         },
+        "marks-and-spencer": {
+            "names": [
+                "Marks & Spencer",
+                "Marks and Spencer plc",
+                "M and S",
+                "M&S",
+                "MKS"
+            ],
+            "comment": "Marks & Spencer's supply chain has been criticized for labor abuses like forced overtime, denial of breaks, and underage workers at factories in Cambodia and elsewhere [1], as well as underpaying workers on berry farms supplying its groceries [2]. The company has faced protests over stocking Israeli goods [3] and an Oxfam report found poverty wages, discrimination, and health issues in its food and footwear supply chains despite audits clearing the company [4].",
+            "sources": {
+                "1": "https://www.theguardian.com/world/2015/mar/12/marks-and-spencer-gap-h-and-m-adidas-cambodian-factories-workers-rights",
+                "2": "https://www.grocerygazette.co.uk/2022/01/25/uk-supermarkets-linked-to-underpaid-farm-workers/",
+                "3": "https://www.jewishnews.co.uk/sparks-fly-marks-protesters-clash-israel/",
+                "4": "https://www.retailgazette.co.uk/blog/2021/01/ms-under-scrutiny-over-supply-chain-worker-concerns/"
+            },
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/M%26S_logo.svg",
+            "siteUrl": "https://marksandspencer.com/",
+            "updatedAt": "2024-03-30T21:00:09.606Z"
+        },
         "iceland": {
             "names": [
                 "Iceland",
