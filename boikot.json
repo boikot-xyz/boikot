@@ -2377,6 +2377,32 @@
             "siteUrl": "https://www.argos.co.uk/",
             "updatedAt": "2024-03-30T21:00:09.606Z"
         },
+        "ikea": {
+            "names": [
+                "IKEA",
+                "Inter IKEA Systems B.V.",
+                "Ikea"
+            ],
+            "comment": "Ikea is a Swedish furniture manufacturer that has sourced timber from illegal logging [1][2], and whose furniture designs have led to the deaths of children [3]. Ikea France was found illegally spying on employees [4], Ikea stores have been built over historic buildings and tombs [5][6], and the founder of Ikea was involved with Nazi groups [7].",
+            "sources": {
+                "1": "https://www.theguardian.com/environment/2020/jun/23/timber-unsustainable-logging-allegedly-sold-eu-ethical",
+                "2": "https://www.independent.co.uk/climate-change/news/ikea-children-furniture-illegal-wood-b1884276.html",
+                "3": "https://www.nbcnews.com/business/consumer/ikea-reaches-50-million-wrongful-death-settlement-over-falling-dressers-n698876",
+                "4": "https://web.archive.org/web/20210616033812/https://www.theguardian.com/business/2021/jun/15/ikea-fined-1m-by-french-court-for-spying-on-staff",
+                "5": "https://web.archive.org/web/20070712175632/http://www.nydailynews.com/boroughs/2006/11/22/2006-11-22_suit_aims_to_make_an_ikea_lot_history.html",
+                "6": "https://www.reuters.com/article/us-china-tombs/workers-destroy-ancient-chinese-tombs-media-idUSPEK34443620070703/",
+                "7": "https://www.nytimes.com/1994/11/09/business/ikea-founder-tells-of-past.html"
+            },
+            "tags": [
+                "Furniture",
+                "Home"
+            ],
+            "score": 15,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Ikea_logo.svg",
+            "siteUrl": "https://about.ikea.com/",
+            "updatedAt": "2024-04-01T18:19:21.032Z"
+        },
         "marks-and-spencer": {
             "names": [
                 "Marks & Spencer",
