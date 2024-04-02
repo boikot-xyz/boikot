@@ -2403,6 +2403,118 @@
             "siteUrl": "https://about.ikea.com/",
             "updatedAt": "2024-04-01T18:19:21.032Z"
         },
+        "inditex": {
+            "names": [
+                "Inditex",
+                "Industria de Diseño Textil, S.A."
+            ],
+            "comment": "Inditex is a Spanish clothing company that has used forced Uyghur labour in its suply chain [1], and slave labour in its Brazilian sweatshops [2], and has stolen designs from independent creators [3][4]. ",
+            "sources": {
+                "1": "https://www.shu.ac.uk/-/media/home/research/helena-kennedy-centre/projects/eu-apparel/eu-tailoring-responsibility-february-24.pdf",
+                "2": "https://www.forbes.com/sites/andersonantunes/2011/08/17/zara-accused-of-alleged-slave-labor-in-brazil/",
+                "3": "https://www.boredpanda.com/zara-stealing-designs-copying-independent-artists-tuesday-bassen/",
+                "4": "https://web.archive.org/web/20200616103810/http://www.flanderstoday.eu/living/zara-home-co-opts-design-flemish-artisan"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 10,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Inditex_logo_black.svg",
+            "siteUrl": "https://www.inditex.com/",
+            "updatedAt": "2024-04-01T18:19:21.032Z"
+        },
+        "zara": {
+            "names": [
+                "ZARA",
+                "Zara"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [],
+            "score": 10,
+            "ownedBy": [
+                "inditex"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Zara_Logo.svg",
+            "siteUrl": "https://www.zara.com/",
+            "updatedAt": "2024-04-01T18:19:21.032Z"
+        },
+        "bershka": {
+            "names": [
+                "Bershka"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "inditex"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bershka_logo.svg",
+            "siteUrl": "https://www.bershka.com/",
+            "updatedAt": "2024-04-01T18:19:21.032Z"
+        },
+        "massimo-dutti": {
+            "names": [
+                "Massimo Dutti"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "inditex"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Massimo_Dutti.png",
+            "siteUrl": "http://www.massimodutti.com/",
+            "updatedAt": "2024-04-01T18:19:21.032Z"
+        },
+        "stradivarius": {
+            "names": [
+                "Stradivarius"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "inditex"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Stradivarius_logo.svg",
+            "siteUrl": "http://www.stradivarius.com/",
+            "updatedAt": "2024-04-01T18:19:21.032Z"
+        },
+        "pullandbear": {
+            "names": [
+                "Pull&Bear",
+                "Pull and Bear",
+                "Pull & Bear"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "inditex"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Pull%26Bear_logo.svg",
+            "siteUrl": "http://www.pullandbear.com/",
+            "updatedAt": "2024-04-01T18:19:21.032Z"
+        },
         "marks-and-spencer": {
             "names": [
                 "Marks & Spencer",
