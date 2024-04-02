@@ -140,9 +140,10 @@ export function Company({ entry, compact }) {
     return <Stack>
         <CompanyHeader entry={entry} link={!!compact} />
         <Tags tags={entry.tags} />
-        { !compact && <h3 style={{ margin: ".5rem 0 -.5rem"}}>
-            Is {entry.names[0]} Ethical?
-        </h3> }
+        { !compact && entry.comment &&
+            <h3 style={{ margin: ".5rem 0 -.5rem"}}>
+                Is {entry.names[0]} Ethical?
+            </h3> }
         { entry.comment && <Comment>
             { renderReferences(entry) }
         </Comment> }
