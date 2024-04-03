@@ -2540,6 +2540,44 @@
             "siteUrl": "https://www.hm.com/",
             "updatedAt": "2024-04-03T19:57:12.627Z"
         },
+        "cos": {
+            "names": [
+                "COS"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing",
+                "retail",
+                "fast fashion"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "handm"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/COS_Logo.png",
+            "siteUrl": "https://www.cos.com/",
+            "updatedAt": "2024-04-03T21:14:45.611Z"
+        },
+        "arket": {
+            "names": [
+                "Arket"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing",
+                "retail",
+                "fast fashion"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "handm"
+            ],
+            "logoUrl": "https://image.hm.com/content/dam/hm-external-brands-brandpage-images/inspirational-page/logo/fashion/ARKET.svg",
+            "siteUrl": "https://www.arket.com/",
+            "updatedAt": "2024-04-03T21:14:45.611Z"
+        },
         "mango": {
             "names": [
                 "Mango",
