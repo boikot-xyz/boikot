@@ -2515,6 +2515,31 @@
             "siteUrl": "http://www.pullandbear.com/",
             "updatedAt": "2024-04-01T18:19:21.032Z"
         },
+        "handm": {
+            "names": [
+                "H&M",
+                "H & M Hennes & Mauritz AB",
+                "H&M Group"
+            ],
+            "comment": "H&M is a multinational fast fashion company that has been accused of greenwashing [1] and has faced criticism for its operations in Israel [2]. H&M has made racist tweets [3] and used imagery widely seen as racist [4], and is being investigated for racist practices in Sweden [5].",
+            "sources": {
+                "1": "https://www.just-style.com/news/hm-under-fire-in-us-over-sustainable-material-claims/",
+                "2": "http://www.inminds.co.uk/article.php?id=10310",
+                "3": "https://newsone.com/3247456/hm-apologizes-racist-tweets/",
+                "4": "https://www.cbsnews.com/news/h-m-the-weeknd-coolest-monkey-in-the-jungle-racist-hoodie/",
+                "5": "https://www.reuters.com/article/h-m-discrimination-idUSKBN28J2JF"
+            },
+            "tags": [
+                "clothing",
+                "retail",
+                "fast fashion"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/H%26M-Logo.svg",
+            "siteUrl": "https://www.hm.com/",
+            "updatedAt": "2024-04-03T19:57:12.627Z"
+        },
         "mango": {
             "names": [
                 "Mango",
