@@ -2515,6 +2515,29 @@
             "siteUrl": "http://www.pullandbear.com/",
             "updatedAt": "2024-04-01T18:19:21.032Z"
         },
+        "mango": {
+            "names": [
+                "Mango",
+                "Punto Fa, S.L."
+            ],
+            "comment": "Mango, a Spanish fashion brand, has been accused of copying a bag design from a small creator [1], and has been criticized for promoting unhealthy body image by labeling sizes 40-52 as a separate \"Violeta\" line for \"curvy\" women [2]. Mango has refused to join the compensation efforts for victims of the Rana Plaza factory collapse that killed over 1,100 workers in its supply chain [3][4].",
+            "sources": {
+                "1": "http://www.lexpress.fr/styles/minute-mode/mango-accuse-de-contrefacon-par-velvetine_1002694.html",
+                "2": "https://www.abc.es/sociedad/20140117/abci-mango-firmas-retirada-violeta-201401162008.html",
+                "3": "https://www.independent.co.uk/life-style/fashion/rana-plaza-factory-disaster-anniversary-what-happened-fashion-a9478126.html",
+                "4": "https://web.archive.org/web/20160325223918/http://www.dhakatribune.com/business/2013/nov/17/buyers%e2%80%99-compensation-rana-plaza-victims-far-reality"
+            },
+            "tags": [
+                "clothing",
+                "retail",
+                "fast fashion"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_of_Mango_%28new%29.svg",
+            "siteUrl": "http://shop.mango.com/",
+            "updatedAt": "2024-04-03T20:02:08.965Z"
+        },
         "marks-and-spencer": {
             "names": [
                 "Marks & Spencer",
