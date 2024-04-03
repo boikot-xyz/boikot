@@ -343,6 +343,13 @@ export function Jsoner() {
             <PillButton $outline onClick={addSource}>
                 add source 🔗
             </PillButton>
+            { showSources &&
+                <PillButton
+                    $outline
+                    style={{ justifySelf: "right" }}
+                    onClick={sortSources(setState)}>
+                    sort sources 🃏
+                </PillButton> }
         </FlexRow>
         { showSources && <>
             <h3> sources </h3>
@@ -355,12 +362,6 @@ export function Jsoner() {
                         onChange={setSource(key)} />
                 </Entry>
             )}
-            <PillButton
-                $outline
-                style={{ justifySelf: "right" }}
-                onClick={sortSources(setState)}>
-                sort sources 🃏
-            </PillButton>
         </>}
         <Entry $valid={parseFloat(state.score) <= 100}>
             ethical score
