@@ -24,7 +24,15 @@ export function Home() {
             { Object.values(boikot.companies)
                 .filter( entry => !!entry.comment )
                 .toSorted( (a,b) => a.score - b.score )
-                .slice(0, 10)
+                .slice(0, 5)
+                .map( entry => <CompanyHeader entry={ entry } link
+                    key={entry.names[0]} /> ) }
+            <h1> newly added 👀 </h1>
+            { Object.values(boikot.companies)
+                .filter( entry => !!entry.comment )
+                .toSorted( (a,b) =>
+                    new Date(b.updatedAt) - new Date(a.updatedAt) )
+                .slice(0, 5)
                 .map( entry => <CompanyHeader entry={ entry } link
                     key={entry.names[0]} /> ) }
             <FlexRow>
