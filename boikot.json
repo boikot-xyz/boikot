@@ -2833,6 +2833,29 @@
             "siteUrl": "https://www.bmw.com/en/index.html",
             "updatedAt": "2024-03-10T18:56:53.382Z"
         },
+        "wetherspoons": {
+            "names": [
+                "Wetherspoons",
+                "J D Wetherspoon",
+                "Wetherspoon",
+                "J D Wetherspoon plc",
+                "Spoons",
+                "JDW"
+            ],
+            "comment": "Wetherspoons is a UK pub chain known for excellent value for money [1].",
+            "sources": {
+                "1": "http://web.archive.org/web/20240105044821/https://www.thesun.co.uk/fabulous/25250928/wetherspoons-sale-january-food-drinks/"
+            },
+            "tags": [
+                "Pub",
+                "food"
+            ],
+            "score": 70,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Wetherspoon_logo.svg",
+            "siteUrl": "https://jdwetherspoon.com/",
+            "updatedAt": "2024-04-05T20:00:17.127Z"
+        },
         "rolls-royce": {
             "names": [
                 "Rolls-Royce"
