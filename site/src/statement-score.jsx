@@ -80,10 +80,17 @@ function PDFPreview({ src }) {
 }
 
 export function StatementScore() {
+    const [ sampleDataURL, setSampleDataURL ] = React.useState(null);
     const [ fileDataURL, setFileDataURL ] = React.useState("");
     const [ results, setResults ] = React.useState(null);
 
-    const useSample = () => setFileDataURL("/assets/boikotStatement.pdf");
+    React.useEffect( () => {
+        fetch("/assets/boikotStatement.pdf")
+            .then( response => response.blob() )
+            .then( blob => URL.createObjectURL(blob) )
+            .then( setSampleDataURL )
+    }, [] );
+    const useSample = () => setFileDataURL(sampleDataURL);
 
     return <Page>
         <Stack>
