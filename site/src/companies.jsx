@@ -85,14 +85,24 @@ function Sources({ entry }) {
 
 function Owners({ entry }) {
     if( !entry.ownedBy.length ) return null;
-    return <Stack style={{ padding: ".6rem 0" }}>
-        <h3>
-            { entry.names[0] } is owned by:
-        </h3>
+    let nameList = entry.ownedBy.map( code =>
+        boikot.companies[code]?.names?.[0] || code
+    );
+    try {
+        nameList = (new Intl.ListFormat("en")).format(nameList);
+    } catch {
+        nameList = nameList.join(", ");
+    }
+
+    return <Stack>
+        <p>
+            { entry.names[0] + " is " }
+            { entry.ownedBy.length > 1 && "jointly "}
+            owned by { nameList }.
+        </p>
         { entry.ownedBy.map( code =>
             boikot.companies[code]
-                ? <CompanyHeader link entry={boikot.companies[code]} />
-                : code
+                && <Company compact entry={boikot.companies[code]} />
         ) }
     </Stack>;
 }
@@ -107,10 +117,9 @@ function Alternatives({ entry }) {
             b.score - a.score
         );
     if( !alternativeEntries.length ) return null;
-    return <Card style={{ paddingBottom: 0 }}>
-        <h3> Alternative companies tagged:{' '}
-            <TagBadge>{ entry.tags[0] }</TagBadge>
-        </h3>
+    return <Card style={{ paddingBottom: 0 }} gap=".5rem">
+        <h3> Alternatives to { entry.names[0] }: </h3>
+        <p> Companies tagged <TagBadge>{ entry.tags[0] }</TagBadge> </p>
         <Stack style={{
             maxHeight: "18rem", overflow: "scroll", paddingBottom: "1rem"
         }}>
@@ -140,7 +149,7 @@ export function Company({ entry, compact }) {
     return <Stack>
         <CompanyHeader entry={entry} link={!!compact} />
         <Tags tags={entry.tags} />
-        { !compact && entry.comment &&
+        { !compact &&
             <h3 style={{ margin: ".5rem 0 -.5rem"}}>
                 Is {entry.names[0]} Ethical?
             </h3> }
@@ -260,7 +269,6 @@ export function Companies() {
     const [ tag, setTag ] = React.useState(paramTag || "");
     const companies = Object.values(boikot.companies)
         .filter( entry => !tag || entry.tags.includes(tag) )
-        .filter( entry => search || tag || !!entry.comment )
         .filter( entry => entry.names.some( name =>
             name.toLowerCase().startsWith(search.toLowerCase())
         ) )
