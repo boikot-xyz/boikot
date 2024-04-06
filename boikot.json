@@ -1855,6 +1855,33 @@
             "siteUrl": "https://irn-bru.co.uk/",
             "updatedAt": "2024-01-02T19:17:01.423Z"
         },
+        "mcdonald's": {
+            "names": [
+                "McDonald's",
+                "McDonald's Corporation",
+                "MCD"
+            ],
+            "comment": "McDonald's is the world's largest fast food brand, which produces more emissions than Norway [1] and is the leading producer of litter in the UK [2], whose restaurants have hosted sexual abuse [3][4], illegal employment of children [5], and racist discrimination [6]. McDonald's has avoided hundreds of millions in taxes [7], failed to meet its own pledges to reduce animal abuse in its supply chain [8], and offered free meals to the IDF as it commited war crimes in Gaza [9].",
+            "sources": {
+                "1": "https://www.bloomberg.com/news/articles/2021-12-01/the-carbon-footprint-of-mcdonald-s-menu-very-big",
+                "2": "https://ghostarchive.org/archive/20220110/https://www.telegraph.co.uk/news/earth/earthnews/4223106/McDonalds-waste-makes-up-largest-proportion-of-fast-food-litter-on-streets.html",
+                "3": "https://www.bbc.co.uk/news/business-65388445",
+                "4": "https://news.sky.com/story/mcdonalds-sacks-18-workers-after-sexual-abuse-racism-and-bullying-claims-13008183",
+                "5": "https://web.archive.org/web/20070418214623/https://www.abc.net.au/news/newsitems/200704/s1895071.htm",
+                "6": "https://www.france24.com/en/20200414-mcdonald-s-apologises-after-china-store-bans-black-people",
+                "7": "https://www.reuters.com/article/us-france-mcdonalds-tax-idUSKCN0XG2QS",
+                "8": "https://plantbasednews.org/culture/ethics/mcdonalds-animal-welfare-commitments/",
+                "9": "https://www.samaa.tv/208732607-mcdonald-s-faces-backlash-for-donating-free-meals-to-israeli-forces-amid-ongoing-conflict#tbl-em-lnp5au1hyagx03rjii"
+            },
+            "tags": [
+                "fast food"
+            ],
+            "score": 5,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+            "siteUrl": "https://www.mcdonalds.com/us/en-us.html",
+            "updatedAt": "2024-04-06T19:32:02.312Z"
+        },
         "nationwide": {
             "names": [
                 "Nationwide",
