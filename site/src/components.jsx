@@ -169,8 +169,8 @@ function Menu({ open, close }) {
             </Row>
             <MenuLink to="/"> home </MenuLink>
             <MenuLink to="/companies"> company ethics reports </MenuLink>
-            <MenuLink to="/statement-score"> scan a document </MenuLink>
             <MenuLink to="/companies/edit"> add a company </MenuLink>
+            <MenuLink to="/statement-score"> scan a document </MenuLink>
             <MenuLink to="/search"> search </MenuLink>
             {/* <MenuLink to="/blog"> blog </MenuLink> */}
             <MenuLink to="/contact-us"> contact us </MenuLink>
