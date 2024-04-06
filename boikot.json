@@ -3978,6 +3978,120 @@
             "siteUrl": "http://www.morrisons.com/mccolls/",
             "updatedAt": "2024-03-30T16:58:30.024Z"
         },
+        "burger-king": {
+            "names": [
+                "Burger King",
+                "Burger King Corporation",
+                "BK"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "fast food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "restaurant-brands-international"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Burger_King_2020.svg",
+            "siteUrl": "http://bk.com/",
+            "updatedAt": "2024-04-05T20:00:17.127Z"
+        },
+        "costa-coffee": {
+            "names": [
+                "Costa Coffee",
+                "Costa",
+                "Costa Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "coffee"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "coca-cola"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/fa/Costa_Coffee_logo.svg",
+            "siteUrl": "https://costa.co.uk/",
+            "updatedAt": "2024-04-05T20:00:17.127Z"
+        },
+        "yum!-brands": {
+            "names": [
+                "Yum! Brands",
+                "Yum Brands",
+                "Yum! Brands, Inc.",
+                "YUM"
+            ],
+            "comment": "Yum Brands is an American fast food company which owns KFC, Pizza Hut and Taco Bell. Its supply chains have involved mass animal cruelty [1][3] and is the biggest killer of chickens globally [2], it has fired employees for speaking out after being sexually abused [4] and illegally underpaid staff [5].",
+            "sources": {
+                "1": "https://www.theguardian.com/environment/2020/jul/30/kfc-admits-a-third-of-its-chickens-suffer-painful-inflammation",
+                "2": "https://www.independent.co.uk/climate-change/news/kfc-is-cruel-to-chickens-says-animal-rights-group-5534360.html",
+                "3": "https://www.worldanimalprotection.org.au/news/kfc-lagging-behind-competitors-chicken-welfare-fast-food-ranking",
+                "4": "https://www.bbc.co.uk/news/uk-wales-67360703",
+                "5": "https://news.sky.com/story/tesco-and-pizza-hut-named-and-shamed-over-minimum-wage-breaches-12176216"
+            },
+            "tags": [
+                "fast food"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Yum%21_Brands_logo.svg",
+            "siteUrl": "https://yum.com/",
+            "updatedAt": "2024-04-05T22:08:49.415Z"
+        },
+        "pizza-hut": {
+            "names": [
+                "Pizza Hut"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "fast food",
+                "pizza"
+            ],
+            "score": null,
+            "ownedBy": [
+                "yum!-brands"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Pizza_Hut_classic_logo.svg",
+            "siteUrl": "http://pizzahut.com/",
+            "updatedAt": "2024-04-05T20:00:17.127Z"
+        },
+        "kfc": {
+            "names": [
+                "KFC"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "fast food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "yum!-brands"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/KFC_logo-image.svg",
+            "siteUrl": "https://kfc.com/",
+            "updatedAt": "2024-04-05T20:00:17.127Z"
+        },
+        "taco-bell": {
+            "names": [
+                "Taco Bell"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "fast food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "yum!-brands"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b3/Taco_Bell_2016.svg",
+            "siteUrl": "https://tacobell.com/",
+            "updatedAt": "2024-04-05T20:00:17.127Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
