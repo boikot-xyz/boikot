@@ -1,4 +1,4 @@
-# boikot 🤐🙅‍♀️
+# boikot 🙅‍♀️
 
 boikot is a community-led initiative to make data on company ethics transparent and accessible.
 
