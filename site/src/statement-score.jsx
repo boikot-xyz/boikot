@@ -87,7 +87,7 @@ export function StatementScore() {
     React.useEffect( () => {
         fetch("/assets/boikotStatement.pdf")
             .then( response => response.blob() )
-            .then( blob => URL.createObjectURL(blob) )
+            .then( blob => URL.createObjectURL?.(blob) )
             .then( setSampleDataURL )
     }, [] );
     const useSample = () => setFileDataURL(sampleDataURL);
