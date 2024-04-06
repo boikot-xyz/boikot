@@ -20,7 +20,8 @@ export function Home() {
             <p> All of our services
                 and data are offered free to the public under the terms of
                 the GPL v3 licence. </p>
-            <h1 style={{ marginTop: "1rem" }}> worst offenders 💩 </h1>
+            <p> Please see some of our company ethics reports: </p>
+            <h1> worst offenders 💩 </h1>
             { Object.values(boikot.companies)
                 .filter( entry => !!entry.comment )
                 .toSorted( (a,b) => a.score - b.score )
@@ -36,7 +37,7 @@ export function Home() {
                     key={entry.names[0]} /> ) }
             <FlexRow>
                 <Link to="/companies">
-                    <PillButton $outline>
+                    <PillButton>
                         🧐 View all company records
                     </PillButton>
                 </Link>
@@ -60,8 +61,15 @@ export function Home() {
                 We rank companies on a scale from <Score score="0" />{" "}
                 to <Score score="100"/>, based on their positive and
                 negative actions, with <Score score="50" /> being a
-                neutral score.  If you disagree with a company score,
+                neutral score. If you disagree with a company score,
                 please submit an updated record for it! </p>
+            <h2 style={{ marginTop: "1rem" }}> our data 📜 </h2>
+            <p style={{ lineHeight: "1.4rem" }}>
+                You can download our companies dataset from our{" "}
+                <a href="https://github.com/boikot-xyz/boikot">
+                    github repo
+                </a>. This is free for use under the gpl v3 and we
+                would love to know what you do with it! </p>
             <h2 style={{ marginTop: "1rem" }}> contact us 📬  </h2>
             <p> if you would like to work with us or have any other
                 enquiries please reach out! </p>
