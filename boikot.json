@@ -1882,6 +1882,25 @@
             "siteUrl": "https://www.mcdonalds.com/us/en-us.html",
             "updatedAt": "2024-04-06T19:32:02.312Z"
         },
+        "subway": {
+            "names": [
+                "Subway",
+                "Subway IP LLC"
+            ],
+            "comment": "Subway, a fast-food chain, has been found to have underpaid workers at several franchises across Australia, resulting in over $81,000 in unpaid wages for 167 current and former employees [1]. Subway has also been listed as an International Sponsor of War by Ukraine for continuing operations in Russia [2].",
+            "sources": {
+                "1": "https://web.archive.org/web/20191224111400/https://www.abc.net.au/news/2019-10-01/subway-employees-recover-unpaid-wages/11563342",
+                "2": "https://nazk.gov.ua/uk/novyny/fastfud-yakyy-diysno-vbyvae-nazk-vneslo-subway-do-pereliku-mizhnarodnyh-sponsoriv-viyny/"
+            },
+            "tags": [
+                "fast food"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Subway_2016_logo.svg",
+            "siteUrl": "https://www.subway.com/",
+            "updatedAt": "2024-04-06T20:09:26.447Z"
+        },
         "nationwide": {
             "names": [
                 "Nationwide",
