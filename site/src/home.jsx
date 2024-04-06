@@ -29,7 +29,6 @@ export function Home() {
                     key={entry.names[0]} /> ) }
             <h1> newly added 👀 </h1>
             { Object.values(boikot.companies)
-                .filter( entry => !!entry.comment )
                 .toSorted( (a,b) =>
                     new Date(b.updatedAt) - new Date(a.updatedAt) )
                 .slice(0, 5)
