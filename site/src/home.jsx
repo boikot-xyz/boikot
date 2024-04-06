@@ -68,8 +68,14 @@ export function Home() {
                 You can download our companies dataset from our{" "}
                 <a href="https://github.com/boikot-xyz/boikot">
                     github repo
-                </a>. This is free for use under the gpl v3 and we
-                would love to know what you do with it! </p>
+                </a> or by clicking the button below. This is free 
+                for use under the gpl v3 licence and we would love to
+                hear about what you do with it! </p>
+            <a download filename="boikot.json" href="https://raw.githubusercontent.com/boikot-xyz/boikot/main/boikot.json">
+                <PillButton style={{ justifySelf: "left" }}>
+                    💾 download dataset
+                </PillButton>
+            </a>
             <h2 style={{ marginTop: "1rem" }}> contact us 📬  </h2>
             <p> if you would like to work with us or have any other
                 enquiries please reach out! </p>
