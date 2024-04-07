@@ -112,7 +112,6 @@ function Alternatives({ entry }) {
         .filter( otherEntry =>
             otherEntry.tags.includes( entry.tags[0] )
             && otherEntry.names[0] !== entry.names[0]
-            && otherEntry.comment
         ).sort( (a,b) =>
             b.score - a.score
         );
