@@ -4137,6 +4137,28 @@
             "siteUrl": "https://tacobell.com/",
             "updatedAt": "2024-04-05T20:00:17.127Z"
         },
+        "pizzaexpress": {
+            "names": [
+                "PizzaExpress",
+                "Pizza Express",
+                "PizzaExpress (Restaurants) Limited",
+                "Pizza Marzano"
+            ],
+            "comment": "PizzaExpress is a British restaurant chain that has taken money from customer tips to supplement wages, reducing the amount going to waiting staff [1][2]. The company also fired staff during the pandemic when enployees were most vulnerable, before rehiring on worse contracts [2].",
+            "sources": {
+                "1": "https://www.independent.co.uk/news/uk/home-news/revealed-how-the-restaurant-chains-pocket-your-tips-867634.html",
+                "2": "https://www.socialistpartyni.org/analysis-news/britain/rights-wages-of-pizza-express-workers-sliced-and-burned/"
+            },
+            "tags": [
+                "restaurant ",
+                "pizza"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Pizzaexpress.jpg",
+            "siteUrl": "https://pizzaexpress.com/",
+            "updatedAt": "2024-04-07T08:36:54.559Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
