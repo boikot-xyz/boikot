@@ -4137,6 +4137,29 @@
             "siteUrl": "https://tacobell.com/",
             "updatedAt": "2024-04-05T20:00:17.127Z"
         },
+        "krispy-kreme": {
+            "names": [
+                "Krispy Kreme",
+                "Krispy Kreme, Inc.",
+                "Krispy Kreme Doughnuts, Inc.",
+                "DNUT"
+            ],
+            "comment": "Krispy Kreme is an American doughnut company whose executives manipulated earnings reports and engaged in misleading practices for personal gain [1]. The company has also failed to comply with environmental regulations, avoiding costs for packaging waste recovery and recycle notes [2].",
+            "sources": {
+                "1": "https://marketrealist.com/p/krispy-kreme-accounting-scandal/",
+                "2": "https://www.packagingnews.co.uk/news/doughnut-giant-fined-for-not-recycling-packaging-18-03-2011"
+            },
+            "tags": [
+                "food",
+                "dessert",
+                "doughnuts"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Logo.KrispyKreme.svg",
+            "siteUrl": "http://krispykreme.com/",
+            "updatedAt": "2024-04-07T14:42:36.411Z"
+        },
         "domino's": {
             "names": [
                 "Domino's",
