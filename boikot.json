@@ -4137,6 +4137,26 @@
             "siteUrl": "https://tacobell.com/",
             "updatedAt": "2024-04-05T20:00:17.127Z"
         },
+        "domino's": {
+            "names": [
+                "Domino's",
+                "Domino's Pizza, Inc.",
+                "DPZ"
+            ],
+            "comment": "Domino's is an American pizza brand that has been accused of exploiting workers [1].",
+            "sources": {
+                "1": "https://www.smh.com.au/interactive/2017/the-dominos-effect/"
+            },
+            "tags": [
+                "fast food",
+                "pizza"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/DominosPizza.svg",
+            "siteUrl": "https://dominos.com/",
+            "updatedAt": "2024-04-07T14:42:36.411Z"
+        },
         "pizzaexpress": {
             "names": [
                 "PizzaExpress",
