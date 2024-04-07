@@ -3169,6 +3169,123 @@
             "siteUrl": "https://www.greggs.co.uk/",
             "updatedAt": "2024-02-06T20:32:30.554Z"
         },
+        "mitchells-and-butlers": {
+            "names": [
+                "Mitchells & Butlers",
+                "Mitchells & Butlers plc",
+                "M&B",
+                "MAB"
+            ],
+            "comment": "Mitchells & Butlers, a British pub operator and FTSE 250 company, has faced criticism for unethical practices including failing to pay £565,094.87 in minimum wage to 16,187 employees [1], and implementing a tip-sharing system that can result in waiting staff earning below minimum wage [2].",
+            "sources": {
+                "1": "https://www.thecaterer.com/news/mitchells-and-butlers-greggs-minimum-wage-list-2024",
+                "2": "https://www.theguardian.com/business/2023/oct/18/steakhouse-chain-miller-carter-waiting-staff-tips-pay-chefs"
+            },
+            "tags": [
+                "restaurant",
+                "bar",
+                "pub"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/80/Mitchells_%26_Butlers_logo.svg",
+            "siteUrl": "http://mbplc.com/",
+            "updatedAt": "2024-04-07T15:46:15.962Z"
+        },
+        "toby-carvery": {
+            "names": [
+                "Toby Carvery",
+                "Toby",
+                "Toby Pub & Carvery"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "restaurant",
+                "pub"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "mitchells-and-butlers"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Denham%2C_The_Toby_Pub_and_Carvery_-_geograph.org.uk_-_803065.jpg",
+            "siteUrl": "http://www.tobycarvery.co.uk/",
+            "updatedAt": "2024-04-07T15:46:15.962Z"
+        },
+        "harvester": {
+            "names": [
+                "Harvester"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "restaurant",
+                "pub"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "mitchells-and-butlers"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cf/Harvester_%28restaurant%29_logo.svg",
+            "siteUrl": "http://www.harvester.co.uk/",
+            "updatedAt": "2024-04-07T15:46:15.962Z"
+        },
+        "browns": {
+            "names": [
+                "Browns",
+                "Browns Restaurants",
+                "Browns Brasserie & Bar"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "restaurant",
+                "bar"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "mitchells-and-butlers"
+            ],
+            "logoUrl": "https://www.browns-restaurants.co.uk/content/dam/browns/images/browns-logo.png",
+            "siteUrl": "https://www.browns-restaurants.co.uk/",
+            "updatedAt": "2024-04-07T15:46:15.962Z"
+        },
+        "all-bar-one": {
+            "names": [
+                "All Bar One"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "restaurant",
+                "bar"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "mitchells-and-butlers"
+            ],
+            "logoUrl": "https://www.allbarone.co.uk/content/dam/all-bar-one/images/content/theme/2018/abo-test-logo.png",
+            "siteUrl": "https://www.allbarone.co.uk/",
+            "updatedAt": "2024-04-07T15:46:15.962Z"
+        },
+        "miller-and-carter": {
+            "names": [
+                "Miller & Carter"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "restaurant",
+                "steak"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "mitchells-and-butlers"
+            ],
+            "logoUrl": "https://www.millerandcarter.co.uk/content/dam/miller-and-carter/images/theme/sw/elements/mclogo-small.png",
+            "siteUrl": "https://www.millerandcarter.co.uk/",
+            "updatedAt": "2024-04-07T15:46:15.962Z"
+        },
         "adidas": {
             "names": [
                 "Adidas",
