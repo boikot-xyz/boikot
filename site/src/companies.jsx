@@ -164,7 +164,9 @@ export function Company({ entry, compact }) {
                 <PillButton $outline> ✏️  Edit this Company </PillButton>
             </Link>
             <Link to="/companies">
-                <PillButton $outline> ↩️ Back to Companies </PillButton>
+                <PillButton $outline>
+                    ↩️ Back to All Companies
+                </PillButton>
             </Link>
         </> }
     </Stack>;
