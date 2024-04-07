@@ -3151,10 +3151,11 @@
                 "Greggs plc",
                 "GRG"
             ],
-            "comment": "Greggs is a British bakery whose executives received \"excessive\" bonuses of millions of pounds in 2022 [1]. The Greggs foundation is a charitable organisation that gives schoolchildren access to free, nutritional food [2].",
+            "comment": "Greggs is a British bakery whose executives received \"excessive\" bonuses of millions of pounds in 2022 [1] while paying some employees below minimum wage [2]. The Greggs foundation is a charitable organisation that gives schoolchildren access to free, nutritional food [3].",
             "sources": {
                 "1": "https://www.theguardian.com/business/2022/may/11/greggs-feels-heat-from-investors-over-excessive-pay-for-bosses",
-                "2": "https://web.archive.org/web/20240118100640/https://www.greggsfoundation.org.uk/news/2023-in-review"
+                "2": "https://www.thecaterer.com/news/mitchells-and-butlers-greggs-minimum-wage-list-2024",
+                "3": "https://web.archive.org/web/20240118100640/https://www.greggsfoundation.org.uk/news/2023-in-review"
             },
             "tags": [
                 "bakery",
