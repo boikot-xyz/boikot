@@ -4160,6 +4160,26 @@
             "siteUrl": "http://krispykreme.com/",
             "updatedAt": "2024-04-07T14:42:36.411Z"
         },
+        "nando's": {
+            "names": [
+                "Nando's",
+                "Nandos"
+            ],
+            "comment": "Nandos is a South African restaurant chain whose supply chain has contained abhorrent animal cruelty [1][2] and whose advertising campaigns have taken advantage of imprisoned refugees on hunger strike [3].",
+            "sources": {
+                "1": "https://www.independent.co.uk/news/uk/home-news/lidl-nando-chicken-supplier-taunton-somerset-farm-deformed-birds-die-slowly-animal-rights-a7872226.html",
+                "2": "https://www.dailymail.co.uk/news/article-7513231/Nandos-accused-using-chickens-farms-thousands-birds-kept-cramped-conditions.html",
+                "3": "http://www.theage.com.au/articles/2002/07/28/1027818485483.html"
+            },
+            "tags": [
+                "restaurant"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c5/Nandos_logo.svg",
+            "siteUrl": "http://www.nandos.com/",
+            "updatedAt": "2024-04-07T15:46:15.962Z"
+        },
         "domino's": {
             "names": [
                 "Domino's",
