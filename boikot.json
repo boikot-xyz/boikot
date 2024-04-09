@@ -3286,6 +3286,28 @@
             "siteUrl": "https://www.millerandcarter.co.uk/",
             "updatedAt": "2024-04-07T15:46:15.962Z"
         },
+        "caffe-nero": {
+            "names": [
+                "Caffè Nero",
+                "Caffe Nero",
+                "Cafe Nero",
+                "Caffè Nero Group Ltd.",
+                "Caffè Nero Ltd"
+            ],
+            "comment": "Caffè Nero is a UK-based coffeehouse chain that has been accused of avoiding corporation tax through the use of tax-deductible interest payments and a complex corporate structure [1]. The company has also been found to have varying levels of faecal bacteria in its iced drinks, along with other major coffee chains [2].",
+            "sources": {
+                "1": "https://www.bbc.co.uk/news/business-27291283",
+                "2": "https://www.bbc.co.uk/news/business-40426228"
+            },
+            "tags": [
+                "cafe"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Caff%C3%A8_Nero_Logo.svg",
+            "siteUrl": "https://www.caffenero.com/",
+            "updatedAt": "2024-04-09T21:34:43.018Z"
+        },
         "adidas": {
             "names": [
                 "Adidas",
