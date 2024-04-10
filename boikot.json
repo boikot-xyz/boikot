@@ -3308,6 +3308,32 @@
             "siteUrl": "https://www.caffenero.com/",
             "updatedAt": "2024-04-09T21:34:43.018Z"
         },
+        "starbucks": {
+            "names": [
+                "Starbucks",
+                "Starbucks Corporation",
+                "SBUX"
+            ],
+            "comment": "Starbucks is an American coffee shop chain that has prolifically avoided tax [1][2], deprived Ethiopian farmers of their rightful pay [3] and enforces discriminatory pay discrepancies on its employees based on race [4]. Starbucks has engaged in anti-union practices [5][6] and has worked closely with the Anti-Defamation League [7].",
+            "sources": {
+                "1": "https://web.archive.org/web/20160210024015/http://uk.reuters.com/article/us-britain-starbucks-tax-idUKBRE89E0EX20121015",
+                "2": "https://web.archive.org/web/20160104212731/http://uk.reuters.com/article/uk-starbucks-tax-europe-idUKBRE8A00DR20121101",
+                "3": "https://web.archive.org/web/20191221001509/https://www.oxfamamerica.org/press/starbucks-opposes-ethiopia-coffee-trademark-plan/",
+                "4": "https://web.archive.org/web/20220214212231/https://www.nytimes.com/2020/03/01/business/starbucks-discrimination-race.html",
+                "5": "https://web.archive.org/web/20220215175957/https://www.theguardian.com/business/2021/nov/23/starbucks-aggressive-anti-union-effort-new-york-stores-organize",
+                "6": "https://web.archive.org/web/20220213165713/https://www.washingtonpost.com/nation/2022/02/12/rhodes-scholar-barista-fight-unionize-starbucks/",
+                "7": "https://web.archive.org/web/20190110003522/https://www.nytimes.com/2018/04/17/business/starbucks-arrests-racial-bias.html"
+            },
+            "tags": [
+                "cafe",
+                "coffee"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+            "siteUrl": "https://starbucks.com/",
+            "updatedAt": "2024-04-09T21:34:43.018Z"
+        },
         "adidas": {
             "names": [
                 "Adidas",
