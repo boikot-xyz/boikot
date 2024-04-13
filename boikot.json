@@ -3539,11 +3539,11 @@
                 "Twitter, Inc.",
                 "X Corp."
             ],
-            "comment": "X, formerly known as Twitter, is an American social media platform owned by Elon Musk, under whose ownership hate speech has flourished [3]. Twitter has been pivotal in democratising the spread of information and news [2], and for purposes like organising political actions [1], but its algorithm has been found to be politically biased [4]. ",
+            "comment": "X, formerly known as Twitter, is an American social media platform owned by Elon Musk, under whose ownership hate speech has flourished [1]. Twitter has been pivotal in democratising the spread of information and news [2], and for purposes like organising political actions [3], but its algorithm has been found to be politically biased [4]. ",
             "sources": {
-                "1": "https://doi.org/10.13140%2FRG.2.1.4239.9442",
+                "1": "https://www.wired.com/story/twitter-really-is-worse-than-ever/",
                 "2": "https://web.archive.org/web/20170206120212/http://denman-mills.net/web_documents/jips_mills.etal._2009.07.22_finalsubmission.pdf",
-                "3": "https://www.wired.com/story/twitter-really-is-worse-than-ever/",
+                "3": "https://doi.org/10.13140%2FRG.2.1.4239.9442",
                 "4": "https://www.theguardian.com/technology/2021/oct/22/twitter-admits-bias-in-algorithm-for-rightwing-politicians-and-news-outlets"
             },
             "tags": [
