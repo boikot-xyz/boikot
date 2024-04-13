@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 import { FlexRow, Page, PillButton, Stack } from "./components.jsx";
 import { CompanyHeader, Score } from "./companies.jsx";
@@ -8,6 +9,9 @@ import boikot from "../../boikot.json";
 
 export function Home() {
     return <Page>
+        <Helmet>
+            <meta name="description" content="Which companies are most ethical? boikot is unearthing and recording unethical actions by global companies to help the public make informed decisions." />
+        </Helmet>
         <Stack>
             <h1> boikot is a community-led initiative to make
                 data on company ethics transparent and accessible. </h1>

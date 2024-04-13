@@ -3,6 +3,7 @@ import styled, { css } from "styled-components";
 import slugify from "slugify";
 import { useParams } from "react-router";
 import "whatwg-fetch";
+import { Helmet } from "react-helmet";
 
 import boikot from '../../boikot.json';
 import { CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack } from "./components.jsx";
@@ -394,6 +395,10 @@ export function Jsoner() {
 
 export function CompanyEditor() {
     return <Page>
+        <Helmet>
+            <title> Company Editor | boikot </title>
+            <meta name="description" content="boikot is a community-led initiative to collect and make available data on the unethical actions of big companies. On this page you can edit the details of a company to submit it to our database." />
+        </Helmet>
         <Stack>
             <h1> Company Editor </h1>
             <p> To submit a company record, please fill out the form

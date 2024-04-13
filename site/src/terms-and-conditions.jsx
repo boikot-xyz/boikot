@@ -1,9 +1,13 @@
 import React from "react";
+import { Helmet } from "react-helmet";
 
 import { FlexRow, Page, PillButton, Stack } from "./components.jsx";
 
 export function TermsAndConditions() {
     return <Page>
+        <Helmet>
+            <title> Privacy Policy | boikot </title>
+        </Helmet>
         <Stack>
             <h1> Terms and Conditions </h1>
             <p> These Terms and Conditions ("Terms") govern your use of the boikot website (boikot.xyz) and any related services provided by boikot ("Service"). By accessing or using the Service, you agree to be bound by these Terms. </p>

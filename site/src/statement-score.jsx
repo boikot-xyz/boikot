@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import { Helmet } from "react-helmet";
 
 import { getKey, Card, Page, PillButton, Stack } from "./components.jsx";
 import { Company } from "./companies.jsx";
@@ -93,6 +94,9 @@ export function StatementScore() {
     const useSample = () => setFileDataURL(sampleDataURL);
 
     return <Page>
+        <Helmet>
+            <title> Statement Score | boikot </title>
+        </Helmet>
         <Stack>
             <h1> Statement Score </h1>
             <p> On this page you can scan a bank statement or similar pdf

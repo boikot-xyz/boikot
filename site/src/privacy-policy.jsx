@@ -1,9 +1,13 @@
 import React from "react";
+import { Helmet } from "react-helmet";
 
 import { FlexRow, Page, PillButton, Stack } from "./components.jsx";
 
 export function PrivacyPolicy() {
     return <Page>
+        <Helmet>
+            <title> Privacy Policy | boikot </title>
+        </Helmet>
         <Stack>
             <h1> Privacy Policy </h1>
             <p> At boikot, we prioritize the privacy and security of our users. This Privacy Policy outlines how we collect, use, and protect your personal information when you visit our website (boikot.xyz) or use our services. </p>

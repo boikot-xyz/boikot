@@ -175,8 +175,13 @@ export function Company({ entry, compact }) {
 
 export function CompanyDetail() {
     const { key } = useParams();
+    const entry = boikot.companies[key];
     return <Page>
-        <Company entry={ boikot.companies[key] } />
+        <Helmet>
+            <title> {entry.names[0]} Ethics Report | boikot </title>
+            <meta name="description" content={`Is ${entry.names[0]} Ethical? Read about the ethics of ${entry.names[0]}. ${entry.comment?.slice(0,100) ?? ""}`} />
+        </Helmet>
+        <Company entry={entry} />
     </Page>;
 }
 
@@ -276,7 +281,7 @@ export function Companies() {
         .toSorted( (a, b) => a.names[0].localeCompare(b.names[0]) );
     return <Page>
         <Helmet>
-            <title> boikot - companies </title>
+            <title> Company Ethics Reports | boikot </title>
             <meta name="description" content="Explore the ethical ratings of the world's biggest companies." />
         </Helmet>
         <Stack>
