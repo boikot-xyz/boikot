@@ -1926,6 +1926,40 @@
             "siteUrl": "https://www.jdepeets.com/",
             "updatedAt": "2024-04-13T19:35:21.166Z"
         },
+        "tassimo": {
+            "names": [
+                "Tassimo"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "coffee"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "jde-peet's"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tassimo_logo.svg",
+            "siteUrl": "https://www.tassimo.com/",
+            "updatedAt": "2024-04-13T20:12:12.650Z"
+        },
+        "kenco": {
+            "names": [
+                "Kenco"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "coffee"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "jde-peet's"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Kenco_logo.webp",
+            "siteUrl": "https://www.kenco.co.uk/",
+            "updatedAt": "2024-04-13T20:12:12.650Z"
+        },
         "subway": {
             "names": [
                 "Subway",
