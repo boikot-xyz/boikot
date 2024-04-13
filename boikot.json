@@ -1881,6 +1881,29 @@
             "siteUrl": "https://www.mcdonalds.com/us/en-us.html",
             "updatedAt": "2024-04-06T19:32:02.312Z"
         },
+        "pret-a-manger": {
+            "names": [
+                "Pret a Manger",
+                "Pret"
+            ],
+            "comment": "Pret a Manger is a British cafe chain that has fired unionising employees [1] and failed to label allergens on its packaging leading to hospitalisations and death of customers [2]. Inadequate health and safety protocols at Pret have led to an employee becoming trapped in a freezer and left thinking she would die [3]",
+            "sources": {
+                "1": "https://boingboing.net/2012/12/08/pret-fires-longstanding-employ.html",
+                "2": "https://www.theguardian.com/uk-news/2018/sep/25/pret-a-manger-allergic-reactions-year-before-natasha-ednan-laperouse-died-inquest-told",
+                "3": "https://www.westminster.gov.uk/news/pret-manger-fined-ps800000-after-cafe-worker-left-locked-walk-freezer"
+            },
+            "tags": [
+                "cafe",
+                "coffee"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "jab-holding-company"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5d/PretLogo.svg",
+            "siteUrl": "http://www.pret.co.uk/",
+            "updatedAt": "2024-04-13T19:35:21.166Z"
+        },
         "subway": {
             "names": [
                 "Subway",
