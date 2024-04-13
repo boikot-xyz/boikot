@@ -101,8 +101,8 @@ function Owners({ entry }) {
             owned by { nameList }.
         </p>
         { entry.ownedBy.map( code =>
-            boikot.companies[code]
-                && <Company compact entry={boikot.companies[code]} />
+            boikot.companies[code] && <Company
+                key={code} compact entry={boikot.companies[code]} />
         ) }
     </Stack>;
 }
@@ -123,7 +123,8 @@ function Alternatives({ entry }) {
             maxHeight: "18rem", overflow: "scroll", paddingBottom: "1rem"
         }}>
             { alternativeEntries.map( otherEntry =>
-                <CompanyHeader link entry={otherEntry} />
+                <CompanyHeader
+                    key={otherEntry.names[0]} link entry={otherEntry} />
             ) }
         </Stack>
     </Card>;
