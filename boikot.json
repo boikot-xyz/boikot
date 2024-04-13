@@ -1904,6 +1904,28 @@
             "siteUrl": "http://www.pret.co.uk/",
             "updatedAt": "2024-04-13T19:35:21.166Z"
         },
+        "jde-peet's": {
+            "names": [
+                "JDE Peet's",
+                "JDE Peet's N.V.",
+                "Jacobs Douwe Egberts",
+                "JDEP"
+            ],
+            "comment": "JDE Peet's is an American-Dutch coffee company that had refused to end its operations in Russia [1]. ",
+            "sources": {
+                "1": "https://www.msn.com/en-us/money/companies/why-this-coffee-giant-is-staying-put-in-russia/ar-AA1frXiL"
+            },
+            "tags": [
+                "coffee"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "jab-holding-company"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/JDE_Peet%27s_box_logo.svg",
+            "siteUrl": "https://www.jdepeets.com/",
+            "updatedAt": "2024-04-13T19:35:21.166Z"
+        },
         "subway": {
             "names": [
                 "Subway",
