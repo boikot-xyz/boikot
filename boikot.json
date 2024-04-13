@@ -3334,6 +3334,29 @@
             "siteUrl": "https://starbucks.com/",
             "updatedAt": "2024-04-09T21:34:43.018Z"
         },
+        "chipotle": {
+            "names": [
+                "Chipotle",
+                "Chipotle Mexican Grill",
+                "Chipotle Mexican Grill, Inc.",
+                "CMG"
+            ],
+            "comment": "Chiptole is an American fast food company that has underpaid its employees [1] who often face unacceptable working conditions [2]. Chiptole's poor food standards have made thousands of people sick [3] and the company has failed to report on its sustainability practices [4].",
+            "sources": {
+                "1": "https://edition.cnn.com/2021/04/29/business/chipotle-nyc-lawsuit-labor-law/index.html",
+                "2": "https://www.nytimes.com/2019/09/10/nyregion/chipotle-lawsuit-workers.html",
+                "3": "https://www.ft.com/content/8fcc81a3-aed8-47e0-9898-ab34dd6ef73c",
+                "4": "https://www.theguardian.com/sustainable-business/2015/oct/23/chipotles-corporate-social-responsibility-mcdonalds-gmo"
+            },
+            "tags": [
+                "fast food"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/Chipotle_Mexican_Grill_logo.svg",
+            "siteUrl": "http://chipotle.com/",
+            "updatedAt": "2024-04-13T08:34:01.493Z"
+        },
         "adidas": {
             "names": [
                 "Adidas",
