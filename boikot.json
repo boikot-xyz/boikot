@@ -3412,6 +3412,29 @@
             "siteUrl": "https://starbucks.com/",
             "updatedAt": "2024-04-09T21:34:43.018Z"
         },
+        "five-guys": {
+            "names": [
+                "Five Guys",
+                "Five Guys Burgers and Fries",
+                "Five Guys Enterprises, LLC",
+                "5 Guys"
+            ],
+            "comment": "Five Guys, a American burger chain, has faced allegations of gender-based pay discrimination [1], labor violations including off-the-clock work and denied breaks [2], and discrimination against an employee with HIV [3]. The company has also been subject to sexual harassment lawsuits, with former employees claiming they were subjected to hostile work environments [4].",
+            "sources": {
+                "1": "https://news.bloomberglaw.com/daily-labor-report/five-guys-loses-round-to-two-women-in-nationwide-pay-bias-suit",
+                "2": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/five-guys-burgers-accused-of-california-labor-violations/",
+                "3": "http://web.archive.org/web/20181101230628/https://www.ocala.com/news/20181101/fired-ocala-employee-sues-five-guys-for-discrimination",
+                "4": "http://web.archive.org/web/20240414210254/https://www.wvgazettemail.com/news/legal_affairs/putnam-five-guys-employees-sue-managers-chain-over-sexual-harassment/article_5366f1b7-3d9b-584a-afc4-9247787ab51c.html"
+            },
+            "tags": [
+                "fast food"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Five_Guys_logo.svg",
+            "siteUrl": "http://fiveguys.com/",
+            "updatedAt": "2024-04-14T21:05:29.060Z"
+        },
         "chipotle": {
             "names": [
                 "Chipotle",
