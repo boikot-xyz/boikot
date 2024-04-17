@@ -3412,6 +3412,147 @@
             "siteUrl": "https://starbucks.com/",
             "updatedAt": "2024-04-09T21:34:43.018Z"
         },
+        "zizzi": {
+            "names": [
+                "Zizzi",
+                "Zizzi Restaurants Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "restaurant",
+                "italian food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "towerbrook-capital-partners"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/Zizzi_logo.svg",
+            "siteUrl": "http://zizzi.co.uk/",
+            "updatedAt": "2024-04-16T08:27:19.280Z"
+        },
+        "wagamama": {
+            "names": [
+                "Wagamama"
+            ],
+            "comment": "Wagamama is a British restaurant chain that has underpaid staff and failed to pay the National Minimum Wage [1], and has been accused of maintaining a policy that discourages sick employees from taking time off [2]. The company has also faced criticism for requiring staff to cover the cost of uniforms, which was considered an infringement on workers' rights [1].",
+            "sources": {
+                "1": "https://www.bbc.com/news/business-43332875",
+                "2": "https://pjhlaw.co.uk/2018/01/05/happened-christmas-part-1-wagamama-sick-leave/"
+            },
+            "tags": [
+                "restaurant"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "apollo-global-management"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Wagamama_logo.svg",
+            "siteUrl": "https://www.wagamama.com/",
+            "updatedAt": "2024-04-16T15:20:06.727Z"
+        },
+        "yo!-sushi": {
+            "names": [
+                "YO! Sushi",
+                "Yo! Sushi",
+                "Yo Sushi"
+            ],
+            "comment": "YO! Sushi, a British sushi restaurant chain, has been identified as having the worst food safety record among major chains, with eight of its 23 restaurants failing to meet legal hygiene standards [1]. YO! Sushi refusing to seat a blind woman accompanied by a guide dog [2].",
+            "sources": {
+                "1": "https://www.thecaterer.com/news/restaurant/yo-sushi-defends-food-safety-procedures-after-independent-attacks-hygiene-record",
+                "2": "https://www.mailplus.co.uk/edition/news/society/107928/yo-sushi-restaurant-refuses-to-seat-blind-woman-accompanied-by-guide-dog"
+            },
+            "tags": [
+                "restaurant",
+                "sushi"
+            ],
+            "score": 30,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a1/YO%21_Sushi_logo.svg",
+            "siteUrl": "https://yosushi.com/",
+            "updatedAt": "2024-04-15T15:40:27.062Z"
+        },
+        "shake-shack": {
+            "names": [
+                "Shake Shack",
+                "SHAK"
+            ],
+            "comment": "Shake Shack is an American fast food chain that has agreed to a $6 million class action lawsuit settlement for failing to provide consistent and lawful schedules to New York City employees, violating the city's Fair Workweek Law [1]. The company has also been ordered to pay $20,000 to a former employee for gender discrimination, harassment, and retaliation based on gender identity and expression, and has been accused of denying managers overtime pay [2][3]. Additionally, Shake Shack's connection to a bakery whose owners support a controversial political figure has led to criticism and calls for a boycott of the chain [4].",
+            "sources": {
+                "1": "https://topclassactions.com/lawsuit-settlements/closed-settlements/shake-shack-employee-schedules-6m-class-action-lawsuit-settlement/",
+                "2": "https://www.today.com/food/news/shake-shack-misgendering-discrimination-lawsuit-rcna70790",
+                "3": "https://www.dnainfo.com/new-york/20160329/midtown/shake-shack-settles-lawsuit-over-manager-overtime-pay-company-says/",
+                "4": "https://www.tastingtable.com/884727/the-shake-shack-potato-roll-controversy-explained/"
+            },
+            "tags": [
+                "fast food",
+                "burgers"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Shake_Shack_logo.svg",
+            "siteUrl": "https://www.shakeshack.com/",
+            "updatedAt": "2024-04-15T15:40:27.062Z"
+        },
+        "papa-john's": {
+            "names": [
+                "Papa John's",
+                "Papa John's International, Inc."
+            ],
+            "comment": "Papa John's is an American pizza chain which has faced allegations of sexual harassment and racism by its founder and former CEO [1][2]. The company has been described as having a toxic atmosphere, with instances of sexism and racist language used by its executives [3].",
+            "sources": {
+                "1": "https://www.cnbc.com/2018/07/10/papa-johns-founder-john-schnatter-resigns-as-chairman-of-company-boar.html",
+                "2": "https://www.forbes.com/sites/forbesdigitalcovers/2018/07/19/the-inside-story-of-papa-johns-toxic-culture/",
+                "3": "https://www.forbes.com/sites/forbesdigitalcovers/2018/07/19/the-inside-story-of-papa-johns-toxic-culture/"
+            },
+            "tags": [
+                "fast food",
+                "pizza"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Papa_Johns_logo.svg",
+            "siteUrl": "http://papajohns.com/",
+            "updatedAt": "2024-04-15T15:40:27.062Z"
+        },
+        "wimpy": {
+            "names": [
+                "Wimpy"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "fast food",
+                "burgers"
+            ],
+            "score": 50,
+            "ownedBy": [
+                "famous-brands"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo_of_Wimpy.svg",
+            "siteUrl": "http://www.wimpy.uk.com/",
+            "updatedAt": "2024-04-15T15:40:27.062Z"
+        },
+        "tortilla": {
+            "names": [
+                "Tortilla",
+                "Tortilla Mexican Grill PLC",
+                "MEX"
+            ],
+            "comment": "Tortilla is a UK restaurant chain that sources 100% renewable electricity and converts its used cooking oil to biodiesel [1].",
+            "sources": {
+                "1": "http://web.archive.org/web/20240415153554/https://tortillagroup.co.uk/wp-content/uploads/Release-Tortilla-ESG-impact-report.pdf"
+            },
+            "tags": [
+                "fast food",
+                "mexican food"
+            ],
+            "score": 75,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Tortilla_logo.svg",
+            "siteUrl": "https://www.tortilla.co.uk/",
+            "updatedAt": "2024-04-15T07:16:31.977Z"
+        },
         "five-guys": {
             "names": [
                 "Five Guys",
@@ -4511,6 +4652,177 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Pizzaexpress.jpg",
             "siteUrl": "https://pizzaexpress.com/",
             "updatedAt": "2024-04-07T08:36:54.559Z"
+        },
+        "volkswagen": {
+            "names": [
+                "Volkswagen",
+                "Volkswagen Group",
+                "Volkswagen AG",
+                "VW",
+                "VOW"
+            ],
+            "comment": "Volkswagon is a German car manufacturer that illegally cheated in its vehicles' emissions tests, lying about their environmental performance to boost its profits [1][2].",
+            "sources": {
+                "1": "https://www.bbc.com/news/business-34324772",
+                "2": "https://www.justice.gov/opa/pr/volkswagen-ag-agrees-plead-guilty-and-pay-43-billion-criminal-and-civil-penalties-six"
+            },
+            "tags": [
+                "cars"
+            ],
+            "score": 15,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Volkswagen_logo_2019.svg",
+            "siteUrl": "https://www.volkswagen.com/",
+            "updatedAt": "2024-04-16T17:45:46.620Z"
+        },
+        "audi": {
+            "names": [
+                "Audi",
+                "Audi AG"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "volkswagen"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Audi-Logo_2016.svg",
+            "siteUrl": "https://www.audi.com/en.html",
+            "updatedAt": "2024-04-16T17:45:46.620Z"
+        },
+        "bentley": {
+            "names": [
+                "Bentley",
+                "Bentley Motors Limited",
+                "Bentley Motors"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "volkswagen"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e4/Bentley_logo_2.svg",
+            "siteUrl": "http://bentleymotors.com/",
+            "updatedAt": "2024-04-16T17:45:46.620Z"
+        },
+        "ducati": {
+            "names": [
+                "Ducati"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "motorbikes",
+                "motorcycles"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "volkswagen"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ducati_red_logo.svg",
+            "siteUrl": "https://www.ducati.com/",
+            "updatedAt": "2024-04-16T17:45:46.620Z"
+        },
+        "cupra": {
+            "names": [
+                "Cupra",
+                "SEAT Cupra S.A.U."
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "volkswagen"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cupra.svg",
+            "siteUrl": "http://www.cupraofficial.com/",
+            "updatedAt": "2024-04-16T17:45:46.620Z"
+        },
+        "lamborghini": {
+            "names": [
+                "Lamborghini",
+                "Automobili Lamborghini S.p.A."
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "volkswagen"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/df/Lamborghini_Logo.svg",
+            "siteUrl": "http://lamborghini.com/en-en/",
+            "updatedAt": "2024-04-16T17:45:46.620Z"
+        },
+        "porsche": {
+            "names": [
+                "Porsche",
+                "Dr. Ing. h.c. F. Porsche AG",
+                "Porsche Automobil Holding SE",
+                "Porsche SE"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "volkswagen"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8c/Porsche_logo.svg",
+            "siteUrl": "https://www.porsche.com/",
+            "updatedAt": "2024-04-16T17:45:46.620Z"
+        },
+        "seat": {
+            "names": [
+                "SEAT",
+                "SEAT S.A."
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "volkswagen"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/SEAT_S.A._logo.svg",
+            "siteUrl": "http://www.seat.com/",
+            "updatedAt": "2024-04-16T17:45:46.620Z"
+        },
+        "skoda": {
+            "names": [
+                "Škoda",
+                "Skoda",
+                "Škoda Auto",
+                "Škoda Auto a.s."
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "volkswagen"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/%C5%A0koda_nieuw.png",
+            "siteUrl": "http://skoda-auto.com/",
+            "updatedAt": "2024-04-16T17:45:46.620Z"
         },
         "bbc": {
             "names": [
