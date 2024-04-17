@@ -4850,6 +4850,254 @@
             "siteUrl": "https://global.toyota/",
             "updatedAt": "2024-04-17T07:45:08.623Z"
         },
+        "lexus": {
+            "names": [
+                "Lexus",
+                "レクサス"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "toyota"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d1/Lexus_division_emblem.svg",
+            "siteUrl": "https://discoverlexus.com/lexus-in-your-region",
+            "updatedAt": "2024-04-17T17:41:12.162Z"
+        },
+        "stellantis": {
+            "names": [
+                "Stellantis",
+                "Stellantis N.V."
+            ],
+            "comment": "Stallantis is a multinational car conglomerate that cheated on emissions tests, resulting in a $300 million fine [1].",
+            "sources": {
+                "1": "https://edition.cnn.com/2022/06/03/business/stellantis-us-guilty-diesel-emissions/index.html"
+            },
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d1/Lexus_division_emblem.svg",
+            "siteUrl": "https://discoverlexus.com/lexus-in-your-region",
+            "updatedAt": "2024-04-17T17:41:12.162Z"
+        },
+        "abarth": {
+            "names": [
+                "Abarth",
+                "Abarth & C. S.p.A."
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "stellantis"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cd/New_Fiat_Abarth_Logo.png",
+            "siteUrl": "https://www.abarth.com/",
+            "updatedAt": "2024-04-17T17:41:12.162Z"
+        },
+        "alfa-romeo": {
+            "names": [
+                "Alfa Romeo",
+                "Alfa Romeo Automobiles S.p.A."
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "stellantis"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Alfa_Romeo_logo.png",
+            "siteUrl": "https://www.alfaromeo.com/",
+            "updatedAt": "2024-04-17T21:14:18.762Z"
+        },
+        "chrysler": {
+            "names": [
+                "Chrysler",
+                "Chrysler Corporation"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "stellantis"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Stellantis.svg",
+            "siteUrl": "https://media.stellantisnorthamerica.com/",
+            "updatedAt": "2024-04-17T21:14:18.762Z"
+        },
+        "citroen": {
+            "names": [
+                "Citroën",
+                "Citroen"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "stellantis"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Citroen_2022.svg",
+            "siteUrl": "http://citroen.com/en",
+            "updatedAt": "2024-04-17T21:14:18.762Z"
+        },
+        "dodge": {
+            "names": [
+                "Dodge"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "stellantis"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dodge_black_logo.svg",
+            "siteUrl": "https://www.dodge.com/",
+            "updatedAt": "2024-04-17T21:14:18.762Z"
+        },
+        "ds-automobiles": {
+            "names": [
+                "DS Automobiles",
+                "DS"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "stellantis"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/90/DS_Automobiles_logo.svg",
+            "siteUrl": "https://www.dsautomobiles.com/en/home.html",
+            "updatedAt": "2024-04-17T21:14:18.762Z"
+        },
+        "fiat": {
+            "names": [
+                "Fiat",
+                "Fiat Automobiles S.p.A."
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "stellantis"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/FIAT_logo_%282020%29.svg",
+            "siteUrl": "https://www.fiat.com/",
+            "updatedAt": "2024-04-17T21:14:18.762Z"
+        },
+        "jeep": {
+            "names": [
+                "Jeep"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "stellantis"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Jeep_wordmark.svg",
+            "siteUrl": "https://www.jeep.com/",
+            "updatedAt": "2024-04-17T21:14:18.762Z"
+        },
+        "lancia": {
+            "names": [
+                "Lancia"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "stellantis"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lancia_Logo_2023.svg",
+            "siteUrl": "https://www.lancia.com/",
+            "updatedAt": "2024-04-17T21:14:18.762Z"
+        },
+        "maserati": {
+            "names": [
+                "Maserati"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "stellantis"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Maserati_logo_2.svg",
+            "siteUrl": "http://www.maserati.com/",
+            "updatedAt": "2024-04-17T21:14:18.762Z"
+        },
+        "peugeot": {
+            "names": [
+                "Peugeot"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "stellantis"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Peugeot_Logo.svg",
+            "siteUrl": "https://www.peugeot.com/en/",
+            "updatedAt": "2024-04-17T21:14:18.762Z"
+        },
+        "vauxhall": {
+            "names": [
+                "Vauxhall",
+                "Vauxhall Motors",
+                "Vauxhall Motors Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "stellantis"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Peugeot_Logo.svg",
+            "siteUrl": "https://www.peugeot.com/en/",
+            "updatedAt": "2024-04-17T21:14:18.762Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
