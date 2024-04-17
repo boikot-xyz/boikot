@@ -44,6 +44,7 @@ const server = http.createServer((req, res) => {
         let parsed;
 
         try {
+            console.log(`::: handling: ${body}`);
             const state = JSON.parse(body);
             complete( state )
                 .then( result => res.end( JSON.stringify(result) ) )
