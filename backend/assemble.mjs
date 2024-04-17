@@ -14,7 +14,9 @@ export const getKey = name =>
 export const commentPrompt = (companyName, webpages) =>
 `* You are an investigative journalist looking into the ethical track record of ${companyName}. Here is some information about ${companyName} from articles online:
 
-    ${ webpages.map( (text, i) => `[${i+1}] ${text}` ).join("\n\n    ") }
+    ${ webpages.map( (text, i) => 
+        `* Information from source [${i+1}]:\n\n${text}`
+    ).join("\n\n    ") }
 
 * Here are some examples of succinct two-sentence company ethics summaries for other companies:
 
@@ -24,7 +26,7 @@ export const commentPrompt = (companyName, webpages) =>
                 
     Tesco is a British retailer which appropriated a UNICEF slogan for advertising purposes [1] and engaged in price fixing [2], and its supply chain has included animal cruelty [3][4], slave labour [5], and deforestation of the Amazon [6]. Tesco has provided millions of pounds in educational equipment to schools [7], which is a fraction of the amount it has avoided in tax [8].
 
-* Please summarise the information from the online articles into a succinct two-sentence company ethics summary like those above. Make sure to include a few words on each of the major ethical infractions by the company. When you include information from a given section, make sure to include its refernce marker eg. [1], [2] or [3]. Respond with the two-sentence summary only. Your summary:`;
+* Please summarise the information from the online articles into a succinct two-sentence company ethics summary like those above. Make sure to include a few words on each of the major ethical infractions by the company and include information from all the sources. When you include information from each source, make sure to include its reference marker eg. [1], [2], [3] etc. Respond with the two-sentence summary only. Your summary:`;
 
 
 // === web scraping ===
