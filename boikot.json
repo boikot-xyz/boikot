@@ -4824,6 +4824,32 @@
             "siteUrl": "http://skoda-auto.com/",
             "updatedAt": "2024-04-16T17:45:46.620Z"
         },
+        "toyota": {
+            "names": [
+                "Toyota",
+                "Toyota Motor Corporation",
+                "トヨタ自動車株式会社",
+                "Toyota Group",
+                "トヨタグループ",
+                "TYT",
+                "TM"
+            ],
+            "comment": "Toyota is a Japanese automaker that has faced various ethical issues, including the death of an employee from overwork [1], a $180 million settlement for violating environmental standards [2], rigging vehicles to perform better in crash tests [3], and cheating in emissions testing [4].",
+            "sources": {
+                "1": "http://www.japantimes.co.jp/news/2007/12/01/national/nagoya-court-rules-toyota-employee-died-from-overwork/",
+                "2": "https://web.archive.org/web/20210114205251/https://www.nytimes.com/2021/01/14/climate/toyota-emissions-fine.html",
+                "3": "https://www.motor1.com/news/664748/toyota-admits-daihatsu-side-crash-tests-rigged/",
+                "4": "https://apnews.com/article/japan-toyota-auto-daihatsu-scandal-bdfec73ce59ab336bc6ff1502ac3db46"
+            },
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Toyota.svg",
+            "siteUrl": "https://global.toyota/",
+            "updatedAt": "2024-04-17T07:45:08.623Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
