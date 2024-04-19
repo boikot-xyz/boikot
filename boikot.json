@@ -5098,6 +5098,72 @@
             "siteUrl": "https://www.peugeot.com/en/",
             "updatedAt": "2024-04-17T21:14:18.762Z"
         },
+        "mercedes-benz": {
+            "names": [
+                "Mercedes-Benz",
+                "Mercedes-Benz AG",
+                "Mercedes-Benz Group",
+                "Mercedes-Benz Group AG",
+                "Daimler-Benz",
+                "MBG"
+            ],
+            "comment": "Mercedez-Benz is a German car company that has been fined $1 billion for illegally cheating on vehicle emissions tests [1].",
+            "sources": {
+                "1": "https://www.theverge.com/2019/9/24/20881603/daimler-dieselgate-mercedes-benz-emissions-cheating-fine"
+            },
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Mercedes-Benz_Group_black.svg",
+            "siteUrl": "http://group.mercedes-benz.com/",
+            "updatedAt": "2024-04-17T21:14:18.762Z"
+        },
+        "honda": {
+            "names": [
+                "Honda",
+                "Honda Motor Co., Ltd.",
+                "本田技研工業株式会社",
+                "HMC"
+            ],
+            "comment": "Honda is a Japanese automobile manufacturer whise executives stole millions through bribes and fraud [1], has sold cars with defective airbags [3], and has settled the largest Clean Air Act violation in history by paying $267 million for selling vehicles with disabled emission control systems [3].",
+            "sources": {
+                "1": "https://www.independent.co.uk/news/business/us-bribe-scandal-rocks-honda-former-car-company-executives-accused-of-dollars-10m-fraud-spanning-14-years-1429462.html",
+                "2": "https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_a61f87ce-6924-4aca-ac4e-bf3234cbbe45",
+                "3": "https://www.epa.gov/enforcement/american-honda-motor-company-clean-air-act-settlement"
+            },
+            "tags": [
+                "cars"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Honda_logo.svg",
+            "siteUrl": "https://global.honda/",
+            "updatedAt": "2024-04-17T21:14:18.762Z"
+        },
+        "hyundai": {
+            "names": [
+                "Hyundai",
+                "Hyundai Motor Company",
+                "Hyundai Motors"
+            ],
+            "comment": "Hyundai is a South Korean car manufacturer that falsely claimed its vehicles were more fuel-efficient than they were [1], illegally employed child refugees in their US factories [2], and published an advert that depucted suicide [3]. Hyundai also sold vehicles that cheated on emission tests [4].",
+            "sources": {
+                "1": "https://web.archive.org/web/20121205051247/http://www.forbes.com/sites/jimgorzelany/2012/11/02/epa-slams-hyundai-and-kia-for-overestimating-mpg/",
+                "2": "https://www.reuters.com/world/us/how-fake-id-repeatedly-enabled-hyundai-suppliers-employ-child-labor-alabama-2023-04-27/",
+                "3": "https://web.archive.org/web/20160401175224/http://adage.com/article/news/hyundai-apologizes-u-k-ad-depicts-suicide-attempt/241119/",
+                "4": "https://cleantechnica.com/2022/07/04/another-diesel-cheating-scandal-this-time-its-hyundai-kia/"
+            },
+            "tags": [
+                "cars"
+            ],
+            "score": 15,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Hyundai_Motor_Group_CI.svg",
+            "siteUrl": "http://hyundaimotorgroup.com/",
+            "updatedAt": "2024-04-19T07:30:48.152Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
