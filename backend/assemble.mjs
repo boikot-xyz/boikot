@@ -131,6 +131,7 @@ const exchanges = [
     "KBSE",
     "SGX",
     "DJIA",
+    "TYO",
 ];
 
 
