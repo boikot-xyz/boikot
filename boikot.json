@@ -3622,51 +3622,6 @@
             "siteUrl": "https://www.adidas.com/",
             "updatedAt": "2024-01-29T21:48:22.741Z"
         },
-        "hyundai": {
-            "names": [
-                "Hyundai",
-                "Hyundai Motor Company",
-                "Hyundai Motors"
-            ],
-            "comment": "Hyundai is a South Korean car company that lied about its vehicles' fuel efficiency [1] and published an advert featuring suicide [2]. Child refugees were found being forced to work in a Hyundai factory in America under threat of deportation [3].",
-            "sources": {
-                "1": "https://web.archive.org/web/20121205051247/http://www.forbes.com/sites/jimgorzelany/2012/11/02/epa-slams-hyundai-and-kia-for-overestimating-mpg/",
-                "2": "https://web.archive.org/web/20160401175224/http://adage.com/article/news/hyundai-apologizes-u-k-ad-depicts-suicide-attempt/241119/",
-                "3": "https://www.reuters.com/world/us/exclusive-hyundai-subsidiary-has-used-child-labor-alabama-factory-2022-07-22/"
-            },
-            "tags": [
-                "cars",
-                "automotive",
-                "childlabour"
-            ],
-            "score": 30,
-            "ownedBy": [],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Hyundai_Motor_Company_logo.svg",
-            "siteUrl": "http://hyundai.com/",
-            "updatedAt": "2024-02-23T16:56:27.920Z"
-        },
-        "kia": {
-            "names": [
-                "Kia",
-                "Kia Motors Corporation",
-                "Kyungsung Precision Industry"
-            ],
-            "comment": "Kia is a south korean car company that illegally inflated its fuel efficiency ratings [1].",
-            "sources": {
-                "1": "https://web.archive.org/web/20130109184821/http://www.theglobeandmail.com/globe-drive/new-cars/auto-news/new-kia-president-has-designs-on-greatness/article7038364/"
-            },
-            "tags": [
-                "cars",
-                "automotive"
-            ],
-            "score": 40,
-            "ownedBy": [
-                "hyundai"
-            ],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/KIA_logo3.svg",
-            "siteUrl": "https://kia.com/",
-            "updatedAt": "2024-02-22T20:53:44.628Z"
-        },
         "uniqlo": {
             "names": [
                 "Uniqlo"
@@ -5142,6 +5097,29 @@
             "siteUrl": "https://global.honda/",
             "updatedAt": "2024-04-17T21:14:18.762Z"
         },
+        "nissan": {
+            "names": [
+                "Nissan",
+                "Nissan Motor Co. Ltd.",
+                "日産自動車株式会社",
+                "TYO",
+                "TOPIX"
+            ],
+            "comment": "Nissan is a Japanese automaker embroiled in scandals, including a high-profile case of financial misconduct by its former chairman Carlos Ghosn, who was accused of hiding $79 million in earnings and fleeing Japan while under house arrest [1], as well as using cheat devices to manipulate emissions tests in South Korea and falsifying data in Japanese factories [2][3].",
+            "sources": {
+                "1": "https://auto.hindustantimes.com/auto/cars/nissan-scandal-tokyo-court-determines-carlos-ghosn-main-culprit-41646614640853.html",
+                "2": "https://www.autocar.co.uk/car-news/business/nissan-found-guilty-using-diesel-emissions-cheat-device-south-korea",
+                "3": "https://www.bbc.co.uk/news/business-44763905"
+            },
+            "tags": [
+                "cars"
+            ],
+            "score": null,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Nissan_Motor_Corporation_2020_logo-local_file.svg",
+            "siteUrl": "https://www.nissan-global.com/",
+            "updatedAt": "2024-04-19T07:30:48.152Z"
+        },
         "hyundai": {
             "names": [
                 "Hyundai",
@@ -5163,6 +5141,287 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Hyundai_Motor_Group_CI.svg",
             "siteUrl": "http://hyundaimotorgroup.com/",
             "updatedAt": "2024-04-19T07:30:48.152Z"
+        },
+        "kia": {
+            "names": [
+                "Kia",
+                "Kia Corporation",
+                "기아",
+                "Kyungsung Precision Industry",
+                "Kia Motors Corporation",
+                "KRX"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "hyundai"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/KIA_logo3.svg",
+            "siteUrl": "https://kia.com/",
+            "updatedAt": "2024-04-19T07:30:48.152Z"
+        },
+        "renault": {
+            "names": [
+                "Renault",
+                "Groupe Renault",
+                "Renault Group",
+                "Renault S.A.",
+                "RNO",
+                "CAC"
+            ],
+            "comment": "Renault is a French automaker that has faced criticism for its decision to continue operating in Russia despite the country's invasion of Ukraine, with Ukrainian President Volodymyr Zelensky calling on the company to leave the Russian market [1]. Renault has also been charged with deception after its vehicles were found to be cheating in emissions tests [2].",
+            "sources": {
+                "1": "https://www.france24.com/en/europe/20220323-ukraine-s-zelensky-shames-french-companies-still-operating-in-russia-calls-on-them-to-leave",
+                "2": "https://www.reuters.com/business/autos-transportation/frances-renault-charged-with-deception-over-dieselgate-probe-2021-06-08/"
+            },
+            "tags": [
+                "cars"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/2021_Renault_Group_logo.svg",
+            "siteUrl": "https://www.renaultgroup.com/en/",
+            "updatedAt": "2024-04-19T15:34:09.496Z"
+        },
+        "dacia": {
+            "names": [
+                "Dacia",
+                "Automobile Dacia",
+                "S.C. Automobile Dacia S.A."
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "renault"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Dacia-Logo-2021.svg",
+            "siteUrl": "http://dacia.ro/",
+            "updatedAt": "2024-04-19T15:56:44.496Z"
+        },
+        "volvo": {
+            "names": [
+                "Volvo",
+                "Volvo Cars",
+                "VOLV"
+            ],
+            "comment": "Volvo is a Swedish automaker that has pledged to build greener cars in the future, but has been accused of installing \"cheat devices\" in its diesel vehicles to manipulate emissions tests, resulting in harmful NOx emissions exceeding legal limits [1]. The company's diesel models have been found to emit toxic fumes, affecting up to 320,000 vehicles on UK roads, and it is now facing a legal claim from affected owners, contradicting its reputation for trusted and reliable vehicles [1].",
+            "sources": {
+                "1": "https://www.leighday.co.uk/news/news/2021-news/volvo-faces-legal-claim-over-toxic-emissions-from-diesel-vehicles/"
+            },
+            "tags": [
+                "cars"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "geely"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Volvo-Spread-Word-Mark-Black.svg",
+            "siteUrl": "https://www.volvogroup.com/",
+            "updatedAt": "2024-04-19T15:56:44.496Z"
+        },
+        "polestar": {
+            "names": [
+                "Polestar",
+                "PSNY"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "volvo"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Polestar_Logo.svg",
+            "siteUrl": "https://www.polestar.com/uk/",
+            "updatedAt": "2024-04-19T16:31:06.067Z"
+        },
+        "suzuki": {
+            "names": [
+                "Suzuki",
+                "Suzuki Motor Corporation",
+                "スズキ株式会社"
+            ],
+            "comment": "Suzuki is a Japanese car manufacturer that has been caught cheating on its vehicles' emissions tests [1] and inflating fuel economy numbers [2].",
+            "sources": {
+                "1": "https://www.reuters.com/business/autos-transportation/german-prosecutors-mount-raids-over-suzuki-cars-alleged-test-dodging-2022-04-27/",
+                "2": "https://uk.finance.yahoo.com/news/suzuki-suspected-using-improper-fuel-033613366.html?guccounter=1"
+            },
+            "tags": [
+                "cars"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Suzuki_logo_2.svg",
+            "siteUrl": "http://www.globalsuzuki.com/",
+            "updatedAt": "2024-04-19T16:31:06.067Z"
+        },
+        "mazda": {
+            "names": [
+                "Mazda",
+                "Mazda Motor Corporation",
+                "マツダ株式会社"
+            ],
+            "comment": "Mazda is a Japanese car company that has been implicated in faking emmissions tests [1].",
+            "sources": {
+                "1": "https://asia.nikkei.com/Business/Companies/Suzuki-and-Mazda-admit-faking-emissions-tests"
+            },
+            "tags": [
+                "cars"
+            ],
+            "score": 30,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/18/Mazda_logo_with_emblem.svg",
+            "siteUrl": "https://www.mazda.com/",
+            "updatedAt": "2024-04-19T16:31:06.067Z"
+        },
+        "jaguar-land-rover": {
+            "names": [
+                "Jaguar Land Rover",
+                "JLR",
+                "Jaguar",
+                "Land Rover",
+                "Range Rover"
+            ],
+            "comment": "Jaguar Land Rover is a British luxury car manufacturer that is accused of fitting emissions cheat devices to its diesel vehicles, deceiving owners and contributing to excessive NOx emissions and climate harm [1], and has recalled over 44,000 cars for producing excessive CO2 emissions, requiring software updates and repairs [2].",
+            "sources": {
+                "1": "https://www.leighday.co.uk/news/news/2021-news/jaguar-land-rover-latest-manufacturer-to-face-claims-for-emissions-cheat-device/",
+                "2": "https://www.which.co.uk/news/article/jaguar-and-land-rover-cars-recalled-for-excessive-co2-emissions-aN2wQ5I139PU"
+            },
+            "tags": [
+                "cars"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "tata"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Jaguar_Land_Rover_logo_2023.svg",
+            "siteUrl": "https://www.jaguarlandrover.com/",
+            "updatedAt": "2024-04-19T22:32:22.251Z"
+        },
+        "mitsubishi": {
+            "names": [
+                "Mitsubishi",
+                "Mitsubishi Motors",
+                "Mitsubishi Motors Corporation",
+                "三菱自動車工業株式会社"
+            ],
+            "comment": "Mitsubishi is a Japanese car company that has lied about its vehicles' fuel efficiency for 25 years [1].",
+            "sources": {
+                "1": "https://money.cnn.com/2016/04/26/news/companies/mitsubishi-cheating-fuel-tests-25-years/index.html"
+            },
+            "tags": [
+                "cars"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mitsubishi_logo.svg",
+            "siteUrl": "https://www.mitsubishi.com/en/",
+            "updatedAt": "2024-04-19T22:32:22.251Z"
+        },
+        "general-motors": {
+            "names": [
+                "General Motors",
+                "GM",
+                "General Motors Company",
+                "General Motors Corporation"
+            ],
+            "comment": "General Motors is an American car manufacturer that provided services to perpetuate the Apartheid in South Africa [1], has benefitted from Uyghur forced labour [2], and sold cars with faulty ignition switches which have led to 13 deaths [3].",
+            "sources": {
+                "1": "https://www.reuters.com/article/safrica-apartheid-gm-idCNL5E8E11YJ20120301",
+                "2": "https://web.archive.org/web/20200824215335/https://www.aspi.org.au/report/uyghurs-sale",
+                "3": "https://www.vox.com/2014/10/3/18073458/gm-car-recall"
+            },
+            "tags": [
+                "cars"
+            ],
+            "score": 15,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ea/General_Motors_%28logo_with_wordmark%2C_horizontal%29.svg",
+            "siteUrl": "https://gm.com/",
+            "updatedAt": "2024-04-20T08:18:44.669Z"
+        },
+        "buick": {
+            "names": [
+                "Buick",
+                "Buick Motor Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "general-motors"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2f/Buick_logo_2023.svg",
+            "siteUrl": "https://www.buick.com/",
+            "updatedAt": "2024-04-20T08:18:44.669Z"
+        },
+        "cadillac": {
+            "names": [
+                "Cadillac",
+                "Cadillac Motor Car Division"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "general-motors"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Cadillac_simple_logo.svg",
+            "siteUrl": "https://www.cadillac.com/",
+            "updatedAt": "2024-04-20T08:18:44.669Z"
+        },
+        "chevrolet": {
+            "names": [
+                "Chevrolet",
+                "Chevy",
+                "Chevrolet Motor Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "general-motors"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/bd/Chevrolet_%28logo%29.svg",
+            "siteUrl": "https://www.chevrolet.com/",
+            "updatedAt": "2024-04-20T08:18:44.669Z"
+        },
+        "gmc": {
+            "names": [
+                "GMC",
+                "General Motors Truck Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "cars"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "general-motors"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/GMC-Logo_2.svg",
+            "siteUrl": "https://www.gmc.com/",
+            "updatedAt": "2024-04-20T08:18:44.669Z"
         },
         "bbc": {
             "names": [
