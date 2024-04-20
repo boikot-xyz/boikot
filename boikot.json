@@ -5423,6 +5423,62 @@
             "siteUrl": "https://www.gmc.com/",
             "updatedAt": "2024-04-20T08:18:44.669Z"
         },
+        "uber": {
+            "names": [
+                "Uber",
+                "Uber Technologies, Inc."
+            ],
+            "comment": "Uber is an American tech company that refuses to provide standard employee protections to its drivers [1], misled drivers about potential earnings [4], underpaid its drivers [5], and has had a culture of workplace sexual harassment [2][3]. Uber has avoided taxes using offshore companies [6], has discriminated against disabled passengers [7], and has conducted invasive surveillance on its passengers' journey data [8].",
+            "sources": {
+                "1": "https://web.archive.org/web/20211031160651/https://www.theguardian.com/business/2021/aug/27/gig-workers-massachusetts-lawsuit-independent-contractor-status",
+                "2": "https://web.archive.org/web/20170607072309/https://www.theguardian.com/technology/2017/jun/06/uber-fires-employees-sexual-harassment-investigation",
+                "3": "https://web.archive.org/web/20180909191906/https://money.cnn.com/2018/08/21/technology/uber-settlement/index.html",
+                "4": "https://www.reuters.com/article/us-uber-ftc/uber-to-pay-20-million-to-settle-u-s-claims-it-misled-drivers-idUSKBN15334C",
+                "5": "https://web.archive.org/web/20190109121055/https://www.theguardian.com/technology/2017/may/23/uber-underpaid-drivers-new-york-city",
+                "6": "https://web.archive.org/web/20180808002415/https://www.dw.com/en/paradise-papers-expose-tax-schemes-of-global-elite/a-41246087",
+                "7": "https://www.cnn.com/2021/04/02/business/uber-blind-passenger-arbitration-trnd/index.html",
+                "8": "https://web.archive.org/web/20120729043726/http://blog.uber.com/2012/03/26/uberdata-the-ride-of-glory/"
+            },
+            "tags": [
+                "tech",
+                "transport"
+            ],
+            "score": 30,
+            "ownedBy": [],
+            "logoUrl": "",
+            "siteUrl": "",
+            "updatedAt": "2024-04-20T08:48:25.117Z"
+        },
+        "disney": {
+            "names": [
+                "Disney",
+                "The Walt Disney Company",
+                "Walt Disney Studio",
+                "Walt Disney",
+                "DSNY"
+            ],
+            "comment": "Disney is an American media conglomerate whose factories have inflicted inhumane working conditions on employees [1], has plagarised from independent creators [2], has filmed in the Xinjang region where human rights abuses are taking place [3], and has stolen the likeness of extras in its films to use for AI character synthesis [4]. Disney has covered up sexual harassment it enabled executives to commit [5] and underpaid female employees [6], and owned the studio Harvey Weinstein was working for when he sexually assaulted multiple women [7].",
+            "sources": {
+                "1": "https://issuu.com/iglhr/docs/1212_dream_international_toys_china_408b569c59015f",
+                "2": "https://www.ew.com/article/2015/06/25/disney-frozen-lawsuit-the-snowman-settlement/",
+                "3": "https://www.bbc.com/news/world-54064654",
+                "4": "https://screenrant.com/prom-pact-movie-background-actors-digital-scans-clip/",
+                "5": "https://www.hollywoodreporter.com/business/business-news/disney-employee-sues-alleged-cover-up-of-sexual-assault-1235779014/#!",
+                "6": "https://www.theguardian.com/us-news/2023/jun/30/disney-female-employees-wage-disparity-lawsuit",
+                "7": "https://www.huffingtonpost.co.uk/entry/disney-harvey-weinstein_n_59f8a894e4b00c6145e1e72b"
+            },
+            "tags": [
+                "media",
+                "films",
+                "entertainment",
+                "tv"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Disney_Experiences_logo.svg",
+            "siteUrl": "http://thewaltdisneycompany.com/",
+            "updatedAt": "2024-04-20T08:48:25.117Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
