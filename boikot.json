@@ -319,7 +319,7 @@
                 "racism",
                 "environmentalviolations"
             ],
-            "score": 50,
+            "score": 45,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ford_logo_flat.svg",
             "siteUrl": "https://www.ford.com/",
@@ -1896,7 +1896,7 @@
                 "cafe",
                 "coffee"
             ],
-            "score": 20,
+            "score": 15,
             "ownedBy": [
                 "jab-holding-company"
             ],
@@ -1918,7 +1918,7 @@
             "tags": [
                 "coffee"
             ],
-            "score": 35,
+            "score": 40,
             "ownedBy": [
                 "jab-holding-company"
             ],
@@ -1935,7 +1935,7 @@
             "tags": [
                 "coffee"
             ],
-            "score": 35,
+            "score": 40,
             "ownedBy": [
                 "jde-peet's"
             ],
@@ -1952,7 +1952,7 @@
             "tags": [
                 "coffee"
             ],
-            "score": 35,
+            "score": 40,
             "ownedBy": [
                 "jde-peet's"
             ],
@@ -2436,7 +2436,7 @@
                 "supermarket",
                 "retail"
             ],
-            "score": 45,
+            "score": 35,
             "ownedBy": [
                 "tesco"
             ],
@@ -2543,7 +2543,7 @@
                 "clothing",
                 "retail"
             ],
-            "score": 10,
+            "score": 20,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Inditex_logo_black.svg",
             "siteUrl": "https://www.inditex.com/",
@@ -2556,7 +2556,9 @@
             ],
             "comment": "",
             "sources": {},
-            "tags": [],
+            "tags": [
+                "clothing"
+            ],
             "score": 10,
             "ownedBy": [
                 "inditex"
@@ -2658,7 +2660,7 @@
                 "retail",
                 "fast fashion"
             ],
-            "score": 20,
+            "score": 30,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/H%26M-Logo.svg",
             "siteUrl": "https://www.hm.com/",
@@ -2712,7 +2714,7 @@
                 "1": "http://www.lexpress.fr/styles/minute-mode/mango-accuse-de-contrefacon-par-velvetine_1002694.html",
                 "2": "https://www.abc.es/sociedad/20140117/abci-mango-firmas-retirada-violeta-201401162008.html",
                 "3": "https://www.independent.co.uk/life-style/fashion/rana-plaza-factory-disaster-anniversary-what-happened-fashion-a9478126.html",
-                "4": "https://web.archive.org/web/20160325223918/http://www.dhakatribune.com/business/2013/nov/17/buyers%e2%80%99-compensation-rana-plaza-victims-far-reality"
+                "4": "https://web.archive.org/web/20160325222511/http://www.dhakatribune.com/law-amp-rights/2013/oct/24/buyers-make-no-compensation-pledge-yet-rana-plaza-victims"
             },
             "tags": [
                 "clothing",
@@ -2871,7 +2873,7 @@
                 "antiprivacy",
                 "taxavoidance"
             ],
-            "score": 45,
+            "score": 38,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cc/Vodafone_2017_logo.svg",
             "siteUrl": "https://vodafone.com/",
@@ -2930,7 +2932,7 @@
                 "animalcruelty",
                 "deforestation"
             ],
-            "score": 45,
+            "score": 40,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b0/Tesco_Logo.svg",
             "siteUrl": "https://www.tescoplc.com/",
@@ -2950,7 +2952,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 30,
+            "score": 36,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/BMW_logo_%28gray%29.svg",
             "siteUrl": "https://www.bmw.com/en/index.html",
@@ -3029,7 +3031,7 @@
                 "food",
                 "supermarket"
             ],
-            "score": 45,
+            "score": 5,
             "ownedBy": [
                 "amazon"
             ],
@@ -3064,7 +3066,7 @@
                 "anticompetetive",
                 "taxavoidance"
             ],
-            "score": 10,
+            "score": 20,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
             "siteUrl": "https://about.google/",
@@ -3140,7 +3142,7 @@
                 "tech",
                 "recycling"
             ],
-            "score": 55,
+            "score": 65,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Dell_logo_2016.svg",
             "siteUrl": "https://www.dell.com/",
@@ -3162,7 +3164,7 @@
                 "tech",
                 "environmentalviolations"
             ],
-            "score": 50,
+            "score": 40,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg",
             "siteUrl": "https://www.bosch.com/",
@@ -3241,7 +3243,7 @@
                 "fastfood",
                 "takeaway"
             ],
-            "score": 50,
+            "score": 45,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/19/Greggs_IMG_6701.jpg",
             "siteUrl": "https://www.greggs.co.uk/",
@@ -3380,7 +3382,7 @@
             "tags": [
                 "cafe"
             ],
-            "score": 40,
+            "score": 46,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Caff%C3%A8_Nero_Logo.svg",
             "siteUrl": "https://www.caffenero.com/",
@@ -3466,7 +3468,7 @@
                 "restaurant",
                 "sushi"
             ],
-            "score": 30,
+            "score": 39,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a1/YO%21_Sushi_logo.svg",
             "siteUrl": "https://yosushi.com/",
@@ -3570,7 +3572,7 @@
             "tags": [
                 "fast food"
             ],
-            "score": 35,
+            "score": 40,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Five_Guys_logo.svg",
             "siteUrl": "http://fiveguys.com/",
@@ -3735,7 +3737,7 @@
                 "electronics",
                 "fatalaccident"
             ],
-            "score": 40,
+            "score": 20,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/LG_logo_%282014%29.svg",
             "siteUrl": "https://lgcorp.com/",
@@ -3766,7 +3768,7 @@
                 "financialservices",
                 "strategy"
             ],
-            "score": 35,
+            "score": 41,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg",
             "siteUrl": "https://www.accenture.com/",
@@ -3870,7 +3872,7 @@
             "tags": [
                 "food"
             ],
-            "score": 5,
+            "score": 10,
             "ownedBy": [
                 "unilever"
             ],
@@ -4301,7 +4303,7 @@
                 "supermarket",
                 "retail"
             ],
-            "score": 30,
+            "score": 20,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Walmart_logo.svg",
             "siteUrl": "https://www.walmart.com/",
@@ -4385,7 +4387,7 @@
                 "supermarket",
                 "retail"
             ],
-            "score": 35,
+            "score": 38,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/82/MorrisonsLogo.svg",
             "siteUrl": "https://morrisons.com/",
@@ -4465,7 +4467,7 @@
             "tags": [
                 "fast food"
             ],
-            "score": 25,
+            "score": 20,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Yum%21_Brands_logo.svg",
             "siteUrl": "https://yum.com/",
@@ -4560,7 +4562,7 @@
             "tags": [
                 "restaurant"
             ],
-            "score": 40,
+            "score": 35,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c5/Nandos_logo.svg",
             "siteUrl": "http://www.nandos.com/",
@@ -4624,7 +4626,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 15,
+            "score": 35,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Volkswagen_logo_2019.svg",
             "siteUrl": "https://www.volkswagen.com/",
@@ -4799,7 +4801,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 35,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Toyota.svg",
             "siteUrl": "https://global.toyota/",
@@ -4835,7 +4837,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 38,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Stellantis.svg",
             "siteUrl": "https://www.stellantis.com/",
@@ -5049,8 +5051,8 @@
             "ownedBy": [
                 "stellantis"
             ],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Peugeot_Logo.svg",
-            "siteUrl": "https://www.peugeot.com/en/",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/18/Vauxhall_logo_2019.svg",
+            "siteUrl": "https://vauxhall.co.uk/",
             "updatedAt": "2024-04-17T21:14:18.762Z"
         },
         "mercedes-benz": {
@@ -5069,7 +5071,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 40,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Mercedes-Benz_Group_black.svg",
             "siteUrl": "http://group.mercedes-benz.com/",
@@ -5091,7 +5093,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 20,
+            "score": 38,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Honda_logo.svg",
             "siteUrl": "https://global.honda/",
@@ -5114,7 +5116,7 @@
             "tags": [
                 "cars"
             ],
-            "score": null,
+            "score": 37,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Nissan_Motor_Corporation_2020_logo-local_file.svg",
             "siteUrl": "https://www.nissan-global.com/",
@@ -5136,7 +5138,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 15,
+            "score": 35,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Hyundai_Motor_Group_CI.svg",
             "siteUrl": "http://hyundaimotorgroup.com/",
@@ -5181,7 +5183,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 20,
+            "score": 35,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/2021_Renault_Group_logo.svg",
             "siteUrl": "https://www.renaultgroup.com/en/",
@@ -5219,7 +5221,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 30,
+            "score": 40,
             "ownedBy": [
                 "geely"
             ],
@@ -5237,7 +5239,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 30,
+            "score": 40,
             "ownedBy": [
                 "volvo"
             ],
@@ -5259,7 +5261,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 20,
+            "score": 40,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Suzuki_logo_2.svg",
             "siteUrl": "http://www.globalsuzuki.com/",
@@ -5300,7 +5302,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 20,
+            "score": 40,
             "ownedBy": [
                 "tata"
             ],
@@ -5322,7 +5324,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 35,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mitsubishi_logo.svg",
             "siteUrl": "https://www.mitsubishi.com/en/",
