@@ -197,7 +197,7 @@
                 "software",
                 "ai"
             ],
-            "score": 80,
+            "score": 35,
             "ownedBy": [
                 "microsoft"
             ],
@@ -290,7 +290,7 @@
                 "media",
                 "radicalisation"
             ],
-            "score": 30,
+            "score": 20,
             "ownedBy": [
                 "google"
             ],
@@ -2093,7 +2093,8 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "detergent"
+                "detergent",
+                "consumergoods"
             ],
             "score": 35,
             "ownedBy": [
@@ -2436,7 +2437,7 @@
                 "supermarket",
                 "retail"
             ],
-            "score": 35,
+            "score": 40,
             "ownedBy": [
                 "tesco"
             ],
@@ -2454,7 +2455,7 @@
                 "supermarket",
                 "retail"
             ],
-            "score": 45,
+            "score": 40,
             "ownedBy": [
                 "tesco"
             ],
@@ -2559,7 +2560,7 @@
             "tags": [
                 "clothing"
             ],
-            "score": 10,
+            "score": 20,
             "ownedBy": [
                 "inditex"
             ],
@@ -2577,7 +2578,7 @@
                 "clothing",
                 "retail"
             ],
-            "score": 10,
+            "score": 20,
             "ownedBy": [
                 "inditex"
             ],
@@ -2595,7 +2596,7 @@
                 "clothing",
                 "retail"
             ],
-            "score": 10,
+            "score": 20,
             "ownedBy": [
                 "inditex"
             ],
@@ -2613,7 +2614,7 @@
                 "clothing",
                 "retail"
             ],
-            "score": 10,
+            "score": 20,
             "ownedBy": [
                 "inditex"
             ],
@@ -2633,7 +2634,7 @@
                 "clothing",
                 "retail"
             ],
-            "score": 10,
+            "score": 20,
             "ownedBy": [
                 "inditex"
             ],
@@ -2677,7 +2678,7 @@
                 "retail",
                 "fast fashion"
             ],
-            "score": 20,
+            "score": 30,
             "ownedBy": [
                 "handm"
             ],
@@ -2696,7 +2697,7 @@
                 "retail",
                 "fast fashion"
             ],
-            "score": 20,
+            "score": 30,
             "ownedBy": [
                 "handm"
             ],
@@ -2990,7 +2991,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 30,
+            "score": 36,
             "ownedBy": [
                 "bmw"
             ],
@@ -3007,7 +3008,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 30,
+            "score": 36,
             "ownedBy": [
                 "bmw"
             ],
@@ -3872,7 +3873,7 @@
             "tags": [
                 "food"
             ],
-            "score": 10,
+            "score": 5,
             "ownedBy": [
                 "unilever"
             ],
@@ -3946,7 +3947,8 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "chocolate"
+                "chocolate",
+                "food"
             ],
             "score": 20,
             "ownedBy": [
@@ -3963,7 +3965,8 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "chocolate"
+                "chocolate",
+                "food"
             ],
             "score": 20,
             "ownedBy": [
@@ -3980,7 +3983,8 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "sweets"
+                "sweets",
+                "food"
             ],
             "score": 20,
             "ownedBy": [
@@ -3997,7 +4001,8 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "chocolate"
+                "chocolate",
+                "food"
             ],
             "score": 20,
             "ownedBy": [
@@ -4066,7 +4071,8 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "sweets"
+                "sweets",
+                "food"
             ],
             "score": 20,
             "ownedBy": [
@@ -4083,7 +4089,8 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "sweets"
+                "sweets",
+                "food"
             ],
             "score": 20,
             "ownedBy": [
@@ -4319,7 +4326,7 @@
                 "supermarket",
                 "retail"
             ],
-            "score": 30,
+            "score": 20,
             "ownedBy": [
                 "walmart"
             ],
@@ -4403,7 +4410,7 @@
                 "supermarket",
                 "retail"
             ],
-            "score": 35,
+            "score": 38,
             "ownedBy": [
                 "morrisons"
             ],
@@ -4439,7 +4446,8 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "coffee"
+                "coffee",
+                "beverages"
             ],
             "score": 10,
             "ownedBy": [
@@ -4483,7 +4491,7 @@
                 "fast food",
                 "pizza"
             ],
-            "score": 25,
+            "score": 20,
             "ownedBy": [
                 "yum!-brands"
             ],
@@ -4500,7 +4508,7 @@
             "tags": [
                 "fast food"
             ],
-            "score": 25,
+            "score": 20,
             "ownedBy": [
                 "yum!-brands"
             ],
@@ -4517,7 +4525,7 @@
             "tags": [
                 "fast food"
             ],
-            "score": 25,
+            "score": 20,
             "ownedBy": [
                 "yum!-brands"
             ],
@@ -4642,7 +4650,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 15,
+            "score": 35,
             "ownedBy": [
                 "volkswagen"
             ],
@@ -4661,7 +4669,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 15,
+            "score": 35,
             "ownedBy": [
                 "volkswagen"
             ],
@@ -4679,7 +4687,7 @@
                 "motorbikes",
                 "motorcycles"
             ],
-            "score": 15,
+            "score": 35,
             "ownedBy": [
                 "volkswagen"
             ],
@@ -4697,7 +4705,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 15,
+            "score": 35,
             "ownedBy": [
                 "volkswagen"
             ],
@@ -4715,7 +4723,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 15,
+            "score": 35,
             "ownedBy": [
                 "volkswagen"
             ],
@@ -4735,7 +4743,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 15,
+            "score": 35,
             "ownedBy": [
                 "volkswagen"
             ],
@@ -4753,7 +4761,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 15,
+            "score": 35,
             "ownedBy": [
                 "volkswagen"
             ],
@@ -4773,7 +4781,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 15,
+            "score": 35,
             "ownedBy": [
                 "volkswagen"
             ],
@@ -4817,7 +4825,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 35,
             "ownedBy": [
                 "toyota"
             ],
@@ -4853,7 +4861,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 38,
             "ownedBy": [
                 "stellantis"
             ],
@@ -4871,7 +4879,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 38,
             "ownedBy": [
                 "stellantis"
             ],
@@ -4889,7 +4897,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 38,
             "ownedBy": [
                 "stellantis"
             ],
@@ -4907,7 +4915,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 38,
             "ownedBy": [
                 "stellantis"
             ],
@@ -4924,7 +4932,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 38,
             "ownedBy": [
                 "stellantis"
             ],
@@ -4942,7 +4950,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 38,
             "ownedBy": [
                 "stellantis"
             ],
@@ -4960,7 +4968,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 38,
             "ownedBy": [
                 "stellantis"
             ],
@@ -4977,7 +4985,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 38,
             "ownedBy": [
                 "stellantis"
             ],
@@ -4994,7 +5002,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 38,
             "ownedBy": [
                 "stellantis"
             ],
@@ -5011,7 +5019,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 38,
             "ownedBy": [
                 "stellantis"
             ],
@@ -5028,7 +5036,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 38,
             "ownedBy": [
                 "stellantis"
             ],
@@ -5047,7 +5055,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 25,
+            "score": 38,
             "ownedBy": [
                 "stellantis"
             ],
@@ -5158,7 +5166,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 20,
+            "score": 35,
             "ownedBy": [
                 "hyundai"
             ],
@@ -5200,7 +5208,7 @@
             "tags": [
                 "cars"
             ],
-            "score": 20,
+            "score": 35,
             "ownedBy": [
                 "renault"
             ],
