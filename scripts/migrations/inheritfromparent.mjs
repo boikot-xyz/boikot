@@ -6,9 +6,9 @@ import slugify from "slugify";
 function getNewEntry( entry, original ) {
     if( !entry.ownedBy.length ) return entry;
     const parent = original.companies[entry.ownedBy[0]];
-    if( !parent ) return;
-    if( !entry.score ) entry.score = parent.score;
-    if( !entry.tags.length ) entry.tags = [parent.tags[0]];
+    if( !parent ) return entry;
+    entry.score = parent.score;
+    entry.tags = [...(new Set([...entry.tags, parent.tags[0]]))];
     return entry;
 }
 
