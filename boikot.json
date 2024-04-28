@@ -5592,6 +5592,106 @@
             "siteUrl": "http://thewaltdisneycompany.com/",
             "updatedAt": "2024-04-20T08:48:25.117Z"
         },
+        "next": {
+            "names": [
+                "Next",
+                "Next plc",
+                "NEXT",
+                "J Hepworth & Son",
+                "NXT"
+            ],
+            "comment": "Next is a British home & clothing retailer that makes use of forced Uyghur labour [1], failed to pay employees a living wage [2][3] and destroyed evidence in an equal pay claim case [4].",
+            "sources": {
+                "1": "https://www.shu.ac.uk/-/media/home/research/helena-kennedy-centre/projects/eu-apparel/eu-tailoring-responsibility-february-24.pdf",
+                "2": "http://www.thetimes.co.uk/tto/opinion/columnists/article4226577.ece",
+                "3": "https://www.bbc.co.uk/news/uk-england-leicestershire-27431336",
+                "4": "https://www.theguardian.com/business/2020/oct/21/next-accused-of-destroying-documents-in-equal-pay-claim"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 44,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c2/Next_plc_Logo.svg",
+            "siteUrl": "https://www.next.co.uk/",
+            "updatedAt": "2024-04-28T14:14:56.468Z"
+        },
+        "joules": {
+            "names": [
+                "Joules"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "next"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/dc/Joules_UK_logo.jpg",
+            "siteUrl": "https://www.joules.com/",
+            "updatedAt": "2024-04-28T20:20:17.185Z"
+        },
+        "cath-kidston": {
+            "names": [
+                "Cath Kidston"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "next"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Cath_Kidston_london_logo.png",
+            "siteUrl": "http://www.cathkidston.co.uk/",
+            "updatedAt": "2024-04-28T20:20:17.185Z"
+        },
+        "made.com": {
+            "names": [
+                "Made.com",
+                "made.com",
+                "made",
+                "MADE"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "furniture",
+                "retail"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "next"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8b/MADE.COM_Logo.jpg",
+            "siteUrl": "https://www.made.com/",
+            "updatedAt": "2024-04-28T20:20:17.185Z"
+        },
+        "lipsy": {
+            "names": [
+                "Lipsy"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "furniture",
+                "retail"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "next"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Lipsy_Master-logo-full.jpg",
+            "siteUrl": "http://next.co.uk/lipsy",
+            "updatedAt": "2024-04-28T20:20:17.185Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
