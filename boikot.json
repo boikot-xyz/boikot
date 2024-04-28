@@ -26,9 +26,10 @@
             },
             "tags": [
                 "bank",
-                "finance",
                 "unsustainable",
-                "anticompetetive"
+                "anticompetetive",
+                "tax avoidance",
+                "bad working conditions"
             ],
             "score": 20,
             "ownedBy": [],
@@ -63,10 +64,9 @@
             },
             "tags": [
                 "bank",
-                "finance",
                 "corruption",
                 "greenwashing",
-                "nuclearweapons"
+                "nuclear"
             ],
             "score": 35,
             "ownedBy": [],
@@ -133,7 +133,7 @@
                 "proprivacy",
                 "anticompetetive",
                 "greenwashing",
-                "poorworkingconditions"
+                "bad working conditions"
             ],
             "score": 55,
             "ownedBy": [],
@@ -169,9 +169,9 @@
                 "cleanenergy",
                 "antiunion",
                 "anticompetetive",
-                "harassment",
-                "poorworkingconditions",
-                "environmentalviolations"
+                "sexual harassment",
+                "bad working conditions",
+                "unsustainable"
             ],
             "score": 65,
             "ownedBy": [],
@@ -195,7 +195,9 @@
             "tags": [
                 "tech",
                 "software",
-                "ai"
+                "ai",
+                "open source",
+                "sexual harassment"
             ],
             "score": 35,
             "ownedBy": [
@@ -231,13 +233,13 @@
             "tags": [
                 "tech",
                 "software",
-                "cloud",
                 "ai",
+                "cybersecurity",
                 "gaming",
                 "electronics",
                 "anticompetetive",
                 "antiprivacy",
-                "taxavoidance"
+                "tax avoidance"
             ],
             "score": 35,
             "ownedBy": [],
@@ -258,7 +260,7 @@
             "tags": [
                 "tech",
                 "ai",
-                "opensource"
+                "open source"
             ],
             "score": 70,
             "ownedBy": [],
@@ -288,7 +290,8 @@
                 "tech",
                 "video",
                 "media",
-                "radicalisation"
+                "radicalisation",
+                "antiprivacy"
             ],
             "score": 20,
             "ownedBy": [
@@ -315,9 +318,9 @@
             },
             "tags": [
                 "cars",
-                "automotive",
-                "racism",
-                "environmentalviolations"
+                "discrimination",
+                "unsustainable",
+                "endangerment"
             ],
             "score": 45,
             "ownedBy": [],
@@ -345,8 +348,8 @@
             "tags": [
                 "beverages",
                 "plastic",
-                "waterusage",
-                "environmentalviolations"
+                "water depletion",
+                "unsustainable"
             ],
             "score": 10,
             "ownedBy": [],
@@ -558,7 +561,7 @@
             },
             "tags": [
                 "video games",
-                "poorworkingconditions"
+                "bad working conditions"
             ],
             "score": 50,
             "ownedBy": [
@@ -584,9 +587,8 @@
             },
             "tags": [
                 "beverages",
-                "soda",
                 "plastic",
-                "waterusage",
+                "water depletion",
                 "deforestation"
             ],
             "score": 20,
@@ -612,7 +614,7 @@
             "tags": [
                 "food",
                 "beverages",
-                "childlabour",
+                "child labour",
                 "russia"
             ],
             "score": 10,
@@ -628,7 +630,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 10,
             "ownedBy": [
@@ -679,7 +681,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "beverages"
             ],
             "score": 10,
             "ownedBy": [
@@ -696,7 +698,8 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "coffee",
+                "beverages"
             ],
             "score": 10,
             "ownedBy": [
@@ -713,7 +716,8 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "coffee",
+                "beverages"
             ],
             "score": 10,
             "ownedBy": [
@@ -730,7 +734,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "beverages"
             ],
             "score": 10,
             "ownedBy": [
@@ -747,7 +751,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "beverages"
             ],
             "score": 10,
             "ownedBy": [
@@ -849,7 +853,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 10,
             "ownedBy": [
@@ -866,7 +870,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 10,
             "ownedBy": [
@@ -900,7 +904,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 10,
             "ownedBy": [
@@ -917,7 +921,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 10,
             "ownedBy": [
@@ -934,7 +938,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 10,
             "ownedBy": [
@@ -951,7 +955,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 10,
             "ownedBy": [
@@ -968,7 +972,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 10,
             "ownedBy": [
@@ -985,7 +989,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 10,
             "ownedBy": [
@@ -1002,7 +1006,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 10,
             "ownedBy": [
@@ -1036,7 +1040,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 10,
             "ownedBy": [
@@ -1053,7 +1057,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 10,
             "ownedBy": [
@@ -1087,7 +1091,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "pets"
             ],
             "score": 10,
             "ownedBy": [
@@ -1104,7 +1108,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "pets"
             ],
             "score": 10,
             "ownedBy": [
@@ -1138,7 +1142,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "consumer goods"
             ],
             "score": 10,
             "ownedBy": [
@@ -1258,6 +1262,7 @@
                 "1": "https://web.archive.org/web/20231223224400/https://www.britvic.com/our-news/performance/britvic-acquires-jimmy-s-iced-coffee/"
             },
             "tags": [
+                "coffee",
                 "beverages"
             ],
             "score": 50,
@@ -1390,8 +1395,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "soda",
-                "beverage"
+                "beverages"
             ],
             "score": 10,
             "ownedBy": [
@@ -1415,7 +1419,6 @@
             },
             "tags": [
                 "beverages",
-                "soda",
                 "waterusage",
                 "plastic"
             ],
@@ -1487,7 +1490,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 5,
             "ownedBy": [
@@ -1504,7 +1507,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 5,
             "ownedBy": [
@@ -1538,7 +1541,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "consumer goods"
             ],
             "score": 5,
             "ownedBy": [
@@ -1555,7 +1558,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "consumer goods"
             ],
             "score": 5,
             "ownedBy": [
@@ -1572,7 +1575,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "consumer goods"
             ],
             "score": 5,
             "ownedBy": [
@@ -1590,7 +1593,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 5,
             "ownedBy": [
@@ -1607,7 +1610,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 5,
             "ownedBy": [
@@ -1624,7 +1627,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 5,
             "ownedBy": [
@@ -1642,7 +1645,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 5,
             "ownedBy": [
@@ -1660,7 +1663,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 5,
             "ownedBy": [
@@ -1680,7 +1683,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 5,
             "ownedBy": [
@@ -1697,7 +1700,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 5,
             "ownedBy": [
@@ -1714,7 +1717,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 5,
             "ownedBy": [
@@ -1731,7 +1734,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 5,
             "ownedBy": [
@@ -1755,8 +1758,7 @@
                 "5": "https://www.redbullracing.com/int-en/tackling-global-sustainability-with-global-standard"
             },
             "tags": [
-                "beverages",
-                "soda"
+                "beverages"
             ],
             "score": 50,
             "ownedBy": [],
@@ -1773,8 +1775,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "beverages",
-                "icetea"
+                "beverages"
             ],
             "score": 20,
             "ownedBy": [
@@ -1799,7 +1800,8 @@
                 "transport",
                 "metro",
                 "bus",
-                "publictransport"
+                "public transport",
+                "unfair pay"
             ],
             "score": 65,
             "ownedBy": [],
@@ -1843,8 +1845,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "beverage",
-                "soda"
+                "beverages"
             ],
             "score": null,
             "ownedBy": [
@@ -1873,7 +1874,14 @@
                 "9": "https://www.samaa.tv/208732607-mcdonald-s-faces-backlash-for-donating-free-meals-to-israeli-forces-amid-ongoing-conflict#tbl-em-lnp5au1hyagx03rjii"
             },
             "tags": [
-                "fast food"
+                "fast food",
+                "unsustainable",
+                "sexual harassment",
+                "child labour",
+                "discrimination",
+                "tax avoidance",
+                "animal abuse",
+                "proisrael"
             ],
             "score": 5,
             "ownedBy": [],
@@ -1893,8 +1901,10 @@
                 "3": "https://www.westminster.gov.uk/news/pret-manger-fined-ps800000-after-cafe-worker-left-locked-walk-freezer"
             },
             "tags": [
-                "cafe",
-                "coffee"
+                "restaurant",
+                "coffee",
+                "bad working conditions",
+                "endangerment"
             ],
             "score": 15,
             "ownedBy": [
@@ -1916,7 +1926,8 @@
                 "1": "https://www.msn.com/en-us/money/companies/why-this-coffee-giant-is-staying-put-in-russia/ar-AA1frXiL"
             },
             "tags": [
-                "coffee"
+                "coffee",
+                "russia"
             ],
             "score": 40,
             "ownedBy": [
@@ -1971,7 +1982,9 @@
                 "2": "https://nazk.gov.ua/uk/novyny/fastfud-yakyy-diysno-vbyvae-nazk-vneslo-subway-do-pereliku-mizhnarodnyh-sponsoriv-viyny/"
             },
             "tags": [
-                "fast food"
+                "fast food",
+                "bad working conditions",
+                "russia"
             ],
             "score": 25,
             "ownedBy": [],
@@ -2023,7 +2036,7 @@
             "tags": [
                 "bank",
                 "unsustainable",
-                "nuclearweapons"
+                "nuclear"
             ],
             "score": 35,
             "ownedBy": [],
@@ -2045,7 +2058,8 @@
                 "tech",
                 "entertainment",
                 "tv",
-                "movies"
+                "movies",
+                "antiprivacy"
             ],
             "score": 50,
             "ownedBy": [],
@@ -2078,7 +2092,8 @@
                 "tech",
                 "socialmedia",
                 "antiprivacy",
-                "taxavoidance"
+                "taxavoidance",
+                "radicalisation"
             ],
             "score": 10,
             "ownedBy": [],
@@ -2093,8 +2108,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "detergent",
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 35,
             "ownedBy": [
@@ -2111,7 +2125,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 35,
             "ownedBy": [
@@ -2128,7 +2142,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 35,
             "ownedBy": [
@@ -2145,7 +2159,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 35,
             "ownedBy": [
@@ -2163,7 +2177,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 35,
             "ownedBy": [
@@ -2180,7 +2194,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 35,
             "ownedBy": [
@@ -2197,7 +2211,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 35,
             "ownedBy": [
@@ -2214,7 +2228,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 35,
             "ownedBy": [
@@ -2231,7 +2245,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 35,
             "ownedBy": [
@@ -2248,7 +2262,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 35,
             "ownedBy": [
@@ -2265,7 +2279,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 35,
             "ownedBy": [
@@ -2282,7 +2296,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 35,
             "ownedBy": [
@@ -2300,7 +2314,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 35,
             "ownedBy": [
@@ -2318,7 +2332,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 35,
             "ownedBy": [
@@ -2335,7 +2349,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 35,
             "ownedBy": [
@@ -2363,8 +2377,8 @@
             },
             "tags": [
                 "beverages",
-                "soda",
-                "poorworkingconditions"
+                "bad working conditions",
+                "sexual harassment"
             ],
             "score": 35,
             "ownedBy": [],
@@ -2390,7 +2404,8 @@
             },
             "tags": [
                 "toys",
-                "plastic"
+                "plastic",
+                "unsustainable"
             ],
             "score": 60,
             "ownedBy": [],
@@ -2419,7 +2434,8 @@
             },
             "tags": [
                 "supermarket",
-                "retail"
+                "retail",
+                "propalestine"
             ],
             "score": 95,
             "ownedBy": [],
@@ -2477,7 +2493,10 @@
             },
             "tags": [
                 "supermarket",
-                "retail"
+                "retail",
+                "unfair pay",
+                "bad working conditions",
+                "anticompetitive"
             ],
             "score": 40,
             "ownedBy": [],
@@ -2519,8 +2538,10 @@
                 "7": "https://www.nytimes.com/1994/11/09/business/ikea-founder-tells-of-past.html"
             },
             "tags": [
-                "Furniture",
-                "Home"
+                "furniture",
+                "bad working conditions",
+                "antiprivacy",
+                "deforestation"
             ],
             "score": 15,
             "ownedBy": [],
@@ -2542,7 +2563,10 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "forced labour",
+                "anticompetitive",
+                "unsustainable"
             ],
             "score": 20,
             "ownedBy": [],
@@ -2659,7 +2683,10 @@
             "tags": [
                 "clothing",
                 "retail",
-                "fast fashion"
+                "fast fashion",
+                "discrimination",
+                "greenwashing",
+                "unsustainable"
             ],
             "score": 30,
             "ownedBy": [],
@@ -2720,7 +2747,9 @@
             "tags": [
                 "clothing",
                 "retail",
-                "fast fashion"
+                "fast fashion",
+                "bad working conditions",
+                "endangerment"
             ],
             "score": 25,
             "ownedBy": [],
@@ -2745,7 +2774,10 @@
             },
             "tags": [
                 "supermarket",
-                "retail"
+                "retail",
+                "child labour",
+                "discrimination",
+                "bad working conditions"
             ],
             "score": 40,
             "ownedBy": [],
@@ -2769,7 +2801,10 @@
             },
             "tags": [
                 "supermarket",
-                "retail"
+                "retail",
+                "discrimination",
+                "unsustainable",
+                "animal abuse"
             ],
             "score": 35,
             "ownedBy": [],
@@ -2809,11 +2844,10 @@
                 "ecommerce",
                 "tech",
                 "unsustainable",
-                "racism",
-                "poorworkingconditions",
+                "discrimination",
+                "bad working conditions",
                 "anticompetetive",
-                "antiunion",
-                "lobbying"
+                "antiunion"
             ],
             "score": 5,
             "ownedBy": [],
@@ -2843,8 +2877,8 @@
                 "logistics",
                 "shipping",
                 "ecommerce",
-                "lobbying",
-                "poorworkingconditions"
+                "bad working conditions",
+                "endangerment"
             ],
             "score": 45,
             "ownedBy": [],
@@ -2872,7 +2906,7 @@
                 "broadband",
                 "ISP",
                 "antiprivacy",
-                "taxavoidance"
+                "tax avoidance"
             ],
             "score": 38,
             "ownedBy": [],
@@ -2899,7 +2933,7 @@
                 "tech",
                 "tracking",
                 "CRM",
-                "taxavoidance"
+                "tax avoidance"
             ],
             "score": 40,
             "ownedBy": [],
@@ -2928,12 +2962,13 @@
             "tags": [
                 "retail",
                 "supermarket",
-                "taxavoidance",
+                "tax avoidance",
                 "anticompetetive",
-                "animalcruelty",
-                "deforestation"
+                "deforestation",
+                "animal abuse",
+                "forced labour"
             ],
-            "score": 40,
+            "score": 30,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b0/Tesco_Logo.svg",
             "siteUrl": "https://www.tescoplc.com/",
@@ -2951,7 +2986,9 @@
                 "2": "https://www.msn.com/en-us/news/world/is-bmw-embroiled-in-controversy-due-to-a-cobalt-supplier-in-morocco-an-investigation-is-in-progress/ar-AA1jWjYs"
             },
             "tags": [
-                "cars"
+                "cars",
+                "unsustainable",
+                "emmissions cheating"
             ],
             "score": 36,
             "ownedBy": [],
@@ -2973,7 +3010,8 @@
                 "1": "http://web.archive.org/web/20240105044821/https://www.thesun.co.uk/fabulous/25250928/wetherspoons-sale-january-food-drinks/"
             },
             "tags": [
-                "Pub",
+                "restaurant",
+                "beverages",
                 "food"
             ],
             "score": 70,
@@ -3030,7 +3068,8 @@
             },
             "tags": [
                 "food",
-                "supermarket"
+                "supermarket",
+                "antiunion"
             ],
             "score": 5,
             "ownedBy": [
@@ -3065,7 +3104,7 @@
                 "antiprivacy",
                 "antiunion",
                 "anticompetetive",
-                "taxavoidance"
+                "tax avoidance"
             ],
             "score": 20,
             "ownedBy": [],
@@ -3093,8 +3132,7 @@
                 "movies",
                 "electronics",
                 "antiprivacy",
-                "anticompetetive",
-                "recycling"
+                "anticompetetive"
             ],
             "score": 50,
             "ownedBy": [],
@@ -3115,11 +3153,10 @@
             },
             "tags": [
                 "retail",
-                "department store",
                 "supermarket",
                 "poorworkingconditions"
             ],
-            "score": 40,
+            "score": 45,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/John_Lewis_%26_Partners_logo.svg",
             "siteUrl": "https://www.johnlewispartnership.co.uk/",
@@ -3140,8 +3177,7 @@
                 "2": "https://www.fastcompany.com/1665003/dell-lawsuit-highlights-broken-pcs-dirty-business-dealings"
             },
             "tags": [
-                "tech",
-                "recycling"
+                "tech"
             ],
             "score": 65,
             "ownedBy": [],
@@ -3163,7 +3199,7 @@
             "tags": [
                 "engineering",
                 "tech",
-                "environmentalviolations"
+                "unsustainable"
             ],
             "score": 40,
             "ownedBy": [],
@@ -3189,12 +3225,10 @@
                 "6": "https://theecobahn.com/ideas/nike-reuse-a-shoe-digital-upcycling-shift/"
             },
             "tags": [
-                "sportswear",
                 "clothing",
-                "sports",
-                "trainers",
-                "childlabour",
-                "taxevasion"
+                "child labour",
+                "tax evasion",
+                "forced labour"
             ],
             "score": 40,
             "ownedBy": [],
@@ -3213,9 +3247,9 @@
                 "2": "https://www.bbc.co.uk/news/uk-48781564"
             },
             "tags": [
-                "fastfood",
-                "food",
-                "sustainable"
+                "restaurant",
+                "fast food",
+                "food"
             ],
             "score": 70,
             "ownedBy": [
@@ -3239,10 +3273,11 @@
                 "3": "https://web.archive.org/web/20240118100640/https://www.greggsfoundation.org.uk/news/2023-in-review"
             },
             "tags": [
-                "bakery",
+                "restaurant",
                 "food",
                 "fastfood",
-                "takeaway"
+                "takeaway",
+                "unfair pay"
             ],
             "score": 45,
             "ownedBy": [],
@@ -3265,7 +3300,8 @@
             "tags": [
                 "restaurant",
                 "bar",
-                "pub"
+                "pub",
+                "bad working conditions"
             ],
             "score": 45,
             "ownedBy": [],
@@ -3356,8 +3392,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "restaurant",
-                "steak"
+                "restaurant"
             ],
             "score": 45,
             "ownedBy": [
@@ -3381,7 +3416,11 @@
                 "2": "https://www.bbc.co.uk/news/business-40426228"
             },
             "tags": [
-                "cafe"
+                "restaurant",
+                "coffee",
+                "food",
+                "beverages",
+                "tax avoidance"
             ],
             "score": 46,
             "ownedBy": [],
@@ -3406,8 +3445,13 @@
                 "7": "https://web.archive.org/web/20190110003522/https://www.nytimes.com/2018/04/17/business/starbucks-arrests-racial-bias.html"
             },
             "tags": [
-                "cafe",
-                "coffee"
+                "restaurant",
+                "coffee",
+                "food",
+                "beverages",
+                "tax avoidance",
+                "bad working conditions",
+                "anti union"
             ],
             "score": 35,
             "ownedBy": [],
@@ -3444,7 +3488,8 @@
                 "2": "https://pjhlaw.co.uk/2018/01/05/happened-christmas-part-1-wagamama-sick-leave/"
             },
             "tags": [
-                "restaurant"
+                "restaurant",
+                "bad working conditions"
             ],
             "score": 40,
             "ownedBy": [
@@ -3467,7 +3512,9 @@
             },
             "tags": [
                 "restaurant",
-                "sushi"
+                "sushi",
+                "endangerment",
+                "discrimination"
             ],
             "score": 39,
             "ownedBy": [],
@@ -3489,7 +3536,9 @@
             },
             "tags": [
                 "fast food",
-                "burgers"
+                "burgers",
+                "discrimination",
+                "bad working conditions"
             ],
             "score": 40,
             "ownedBy": [],
@@ -3510,7 +3559,10 @@
             },
             "tags": [
                 "fast food",
-                "pizza"
+                "pizza",
+                "sexual harassment",
+                "discrimination",
+                "bad working conditions"
             ],
             "score": 40,
             "ownedBy": [],
@@ -3547,8 +3599,9 @@
                 "1": "http://web.archive.org/web/20240415153554/https://tortillagroup.co.uk/wp-content/uploads/Release-Tortilla-ESG-impact-report.pdf"
             },
             "tags": [
-                "fast food",
-                "mexican food"
+                "restaurant",
+                "food",
+                "fast food"
             ],
             "score": 75,
             "ownedBy": [],
@@ -3571,7 +3624,12 @@
                 "4": "http://web.archive.org/web/20240414210254/https://www.wvgazettemail.com/news/legal_affairs/putnam-five-guys-employees-sue-managers-chain-over-sexual-harassment/article_5366f1b7-3d9b-584a-afc4-9247787ab51c.html"
             },
             "tags": [
-                "fast food"
+                "restaurant",
+                "fast food",
+                "food",
+                "bad working conditions",
+                "discrimination",
+                "sexual harassment"
             ],
             "score": 40,
             "ownedBy": [],
@@ -3594,7 +3652,11 @@
                 "4": "https://www.theguardian.com/sustainable-business/2015/oct/23/chipotles-corporate-social-responsibility-mcdonalds-gmo"
             },
             "tags": [
-                "fast food"
+                "restaurant",
+                "food",
+                "fast food",
+                "bad working conditions",
+                "endangerment"
             ],
             "score": 40,
             "ownedBy": [],
@@ -3614,10 +3676,9 @@
                 "2": "https://www.reuters.com/article/us-adidas-race/adidas-human-resources-head-steps-down-after-race-row-idUSKBN241332?il=0"
             },
             "tags": [
-                "sportswear",
-                "footwear",
-                "poorworkingconditions",
-                "racism"
+                "clothing",
+                "bad working conditions",
+                "discrimination"
             ],
             "score": 42,
             "ownedBy": [],
@@ -3641,9 +3702,10 @@
             },
             "tags": [
                 "clothing",
-                "fastfashion",
+                "fast fashion",
                 "retail",
-                "poorworkingconditions"
+                "bad working conditions",
+                "forced labour"
             ],
             "score": 25,
             "ownedBy": [],
@@ -3672,8 +3734,7 @@
                 "news",
                 "tech",
                 "communications",
-                "radicalisation",
-                "elonmusk"
+                "radicalisation"
             ],
             "score": 48,
             "ownedBy": [],
@@ -3688,8 +3749,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "sportswear",
-                "footwear"
+                "clothing"
             ],
             "score": 40,
             "ownedBy": [
@@ -3708,8 +3768,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "sportswear",
-                "footwear"
+                "clothing"
             ],
             "score": 40,
             "ownedBy": [
@@ -3736,7 +3795,7 @@
                 "tech",
                 "chemicals",
                 "electronics",
-                "fatalaccident"
+                "endangerment"
             ],
             "score": 20,
             "ownedBy": [],
@@ -3763,11 +3822,7 @@
             "tags": [
                 "consulting",
                 "tech",
-                "cybersecurity",
-                "management",
-                "professionalservices",
-                "financialservices",
-                "strategy"
+                "cybersecurity"
             ],
             "score": 41,
             "ownedBy": [],
@@ -3792,8 +3847,8 @@
                 "4": "https://web.archive.org/web/20180913074041/https://www.shootonline.com/news/pgs-talk%C2%A0wins-primetime-commercial-emmy-award"
             },
             "tags": [
-                "consumergoods",
-                "childlabour",
+                "consumer goods",
+                "child labour",
                 "russia"
             ],
             "score": 35,
@@ -3851,12 +3906,14 @@
             "tags": [
                 "food",
                 "beverages",
-                "pharmaceuticals",
+                "consumer goods",
                 "cleaning",
                 "russia",
                 "plastic",
                 "deforestation",
-                "childlabour"
+                "child labour",
+                "anticompetitive",
+                "unsustainable"
             ],
             "score": 5,
             "ownedBy": [],
@@ -3888,7 +3945,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "consumergoods"
+                "consumer goods"
             ],
             "score": 5,
             "ownedBy": [
@@ -3932,7 +3989,11 @@
             },
             "tags": [
                 "food",
-                "beverages"
+                "beverages",
+                "unsustainable",
+                "deforestation",
+                "child labour",
+                "russia"
             ],
             "score": 20,
             "ownedBy": [],
@@ -3947,8 +4008,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "chocolate",
-                "food"
+                "confectionery"
             ],
             "score": 20,
             "ownedBy": [
@@ -3965,8 +4025,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "chocolate",
-                "food"
+                "confectionery"
             ],
             "score": 20,
             "ownedBy": [
@@ -3983,8 +4042,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "sweets",
-                "food"
+                "confectionery"
             ],
             "score": 20,
             "ownedBy": [
@@ -4001,8 +4059,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "chocolate",
-                "food"
+                "confectionery"
             ],
             "score": 20,
             "ownedBy": [
@@ -4019,7 +4076,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 20,
             "ownedBy": [
@@ -4071,8 +4128,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "sweets",
-                "food"
+                "confectionery"
             ],
             "score": 20,
             "ownedBy": [
@@ -4089,8 +4145,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "sweets",
-                "food"
+                "confectionery"
             ],
             "score": 20,
             "ownedBy": [
@@ -4113,7 +4168,11 @@
                 "3": "https://www.bbc.co.uk/news/business-60290232"
             },
             "tags": [
-                "clothing"
+                "fast fashion",
+                "clothing",
+                "retail",
+                "bad working conditions",
+                "forced labour"
             ],
             "score": 25,
             "ownedBy": [],
@@ -4140,7 +4199,9 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "animal abuse",
+                "unsustainable"
             ],
             "score": 45,
             "ownedBy": [],
@@ -4161,7 +4222,7 @@
             },
             "tags": [
                 "food",
-                "palm oil"
+                "unsustainable"
             ],
             "score": 40,
             "ownedBy": [],
@@ -4245,7 +4306,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "beverages"
             ],
             "score": 40,
             "ownedBy": [
@@ -4262,7 +4323,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "food"
+                "confectionery"
             ],
             "score": 40,
             "ownedBy": [
@@ -4308,7 +4369,10 @@
             },
             "tags": [
                 "supermarket",
-                "retail"
+                "retail",
+                "bad working conditions",
+                "child labour",
+                "endangerment"
             ],
             "score": 20,
             "ownedBy": [],
@@ -4347,7 +4411,8 @@
             },
             "tags": [
                 "supermarket",
-                "retail"
+                "retail",
+                "bad working conditions"
             ],
             "score": 60,
             "ownedBy": [],
@@ -4369,7 +4434,11 @@
             },
             "tags": [
                 "supermarket",
-                "retail"
+                "retail",
+                "antiprivacy",
+                "bad working conditions",
+                "animal abuse",
+                "antiunion"
             ],
             "score": 30,
             "ownedBy": [
@@ -4392,7 +4461,10 @@
             },
             "tags": [
                 "supermarket",
-                "retail"
+                "retail",
+                "unfair pay",
+                "animal abuse",
+                "discrimination"
             ],
             "score": 38,
             "ownedBy": [],
@@ -4473,7 +4545,10 @@
                 "5": "https://news.sky.com/story/tesco-and-pizza-hut-named-and-shamed-over-minimum-wage-breaches-12176216"
             },
             "tags": [
-                "fast food"
+                "fast food",
+                "animal abuse",
+                "sexual abuse",
+                "bad working conditions"
             ],
             "score": 20,
             "ownedBy": [],
@@ -4546,9 +4621,8 @@
                 "2": "https://www.packagingnews.co.uk/news/doughnut-giant-fined-for-not-recycling-packaging-18-03-2011"
             },
             "tags": [
-                "food",
-                "dessert",
-                "doughnuts"
+                "confectionery",
+                "food"
             ],
             "score": 45,
             "ownedBy": [],
@@ -4568,7 +4642,9 @@
                 "3": "http://www.theage.com.au/articles/2002/07/28/1027818485483.html"
             },
             "tags": [
-                "restaurant"
+                "restaurant",
+                "food",
+                "animal abuse"
             ],
             "score": 35,
             "ownedBy": [],
@@ -4588,7 +4664,8 @@
             },
             "tags": [
                 "fast food",
-                "pizza"
+                "restaurant",
+                "bad working conditions"
             ],
             "score": 45,
             "ownedBy": [],
@@ -4609,10 +4686,11 @@
                 "2": "https://www.socialistpartyni.org/analysis-news/britain/rights-wages-of-pizza-express-workers-sliced-and-burned/"
             },
             "tags": [
-                "restaurant ",
-                "pizza"
+                "restaurant",
+                "food",
+                "bad working conditions"
             ],
-            "score": 40,
+            "score": 46,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Pizzaexpress.jpg",
             "siteUrl": "https://pizzaexpress.com/",
@@ -4632,7 +4710,8 @@
                 "2": "https://www.justice.gov/opa/pr/volkswagen-ag-agrees-plead-guilty-and-pay-43-billion-criminal-and-civil-penalties-six"
             },
             "tags": [
-                "cars"
+                "cars",
+                "emissions cheating"
             ],
             "score": 35,
             "ownedBy": [],
@@ -4807,7 +4886,10 @@
                 "4": "https://apnews.com/article/japan-toyota-auto-daihatsu-scandal-bdfec73ce59ab336bc6ff1502ac3db46"
             },
             "tags": [
-                "cars"
+                "cars",
+                "bad working conditions",
+                "emissions cheating",
+                "unsustainable"
             ],
             "score": 35,
             "ownedBy": [],
@@ -4843,7 +4925,8 @@
                 "1": "https://edition.cnn.com/2022/06/03/business/stellantis-us-guilty-diesel-emissions/index.html"
             },
             "tags": [
-                "cars"
+                "cars",
+                "emissions cheating"
             ],
             "score": 38,
             "ownedBy": [],
@@ -5077,7 +5160,8 @@
                 "1": "https://www.theverge.com/2019/9/24/20881603/daimler-dieselgate-mercedes-benz-emissions-cheating-fine"
             },
             "tags": [
-                "cars"
+                "cars",
+                "emissions cheating"
             ],
             "score": 40,
             "ownedBy": [],
@@ -5099,7 +5183,9 @@
                 "3": "https://www.epa.gov/enforcement/american-honda-motor-company-clean-air-act-settlement"
             },
             "tags": [
-                "cars"
+                "cars",
+                "endangerment",
+                "emissions cheating"
             ],
             "score": 38,
             "ownedBy": [],
@@ -5122,7 +5208,8 @@
                 "3": "https://www.bbc.co.uk/news/business-44763905"
             },
             "tags": [
-                "cars"
+                "cars",
+                "emissions cheating"
             ],
             "score": 37,
             "ownedBy": [],
@@ -5144,7 +5231,9 @@
                 "4": "https://cleantechnica.com/2022/07/04/another-diesel-cheating-scandal-this-time-its-hyundai-kia/"
             },
             "tags": [
-                "cars"
+                "cars",
+                "emissions cheating",
+                "child labour"
             ],
             "score": 35,
             "ownedBy": [],
@@ -5189,7 +5278,9 @@
                 "2": "https://www.reuters.com/business/autos-transportation/frances-renault-charged-with-deception-over-dieselgate-probe-2021-06-08/"
             },
             "tags": [
-                "cars"
+                "cars",
+                "russia",
+                "emissions cheating"
             ],
             "score": 35,
             "ownedBy": [],
@@ -5227,7 +5318,8 @@
                 "1": "https://www.leighday.co.uk/news/news/2021-news/volvo-faces-legal-claim-over-toxic-emissions-from-diesel-vehicles/"
             },
             "tags": [
-                "cars"
+                "cars",
+                "emissions cheating"
             ],
             "score": 40,
             "ownedBy": [
@@ -5267,7 +5359,8 @@
                 "2": "https://uk.finance.yahoo.com/news/suzuki-suspected-using-improper-fuel-033613366.html?guccounter=1"
             },
             "tags": [
-                "cars"
+                "cars",
+                "emissions cheating"
             ],
             "score": 40,
             "ownedBy": [],
@@ -5286,7 +5379,8 @@
                 "1": "https://asia.nikkei.com/Business/Companies/Suzuki-and-Mazda-admit-faking-emissions-tests"
             },
             "tags": [
-                "cars"
+                "cars",
+                "emissions cheating"
             ],
             "score": 30,
             "ownedBy": [],
@@ -5308,7 +5402,8 @@
                 "2": "https://www.which.co.uk/news/article/jaguar-and-land-rover-cars-recalled-for-excessive-co2-emissions-aN2wQ5I139PU"
             },
             "tags": [
-                "cars"
+                "cars",
+                "emissions cheating"
             ],
             "score": 40,
             "ownedBy": [
@@ -5352,7 +5447,9 @@
                 "3": "https://www.vox.com/2014/10/3/18073458/gm-car-recall"
             },
             "tags": [
-                "cars"
+                "cars",
+                "forced labour",
+                "endangerment"
             ],
             "score": 15,
             "ownedBy": [],
@@ -5451,7 +5548,11 @@
             },
             "tags": [
                 "tech",
-                "transport"
+                "transport",
+                "bad working conditions",
+                "sexual harassment",
+                "antiprivacy",
+                "tax avoidance"
             ],
             "score": 30,
             "ownedBy": [],
@@ -5481,7 +5582,9 @@
                 "media",
                 "films",
                 "entertainment",
-                "tv"
+                "tv",
+                "forced labour",
+                "sexual harassment"
             ],
             "score": 20,
             "ownedBy": [],
@@ -5512,9 +5615,7 @@
                 "news",
                 "media",
                 "tv",
-                "radio",
-                "bias",
-                "antilgbt"
+                "radio"
             ],
             "score": 75,
             "ownedBy": [],
