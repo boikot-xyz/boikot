@@ -5692,6 +5692,24 @@
             "siteUrl": "http://next.co.uk/lipsy",
             "updatedAt": "2024-04-28T20:20:17.185Z"
         },
+        "mytos": {
+            "names": [
+                "Mytos"
+            ],
+            "comment": "Mytos is a British biotech startup which creates systems to automate human cell manufacture, with the potential to underpin breakthroughs in drug discovery and cell therapy [1].",
+            "sources": {
+                "1": "https://www.forbes.com/sites/scotttravers/2024/04/28/the-giant-grey-ghost-lizard-went-extinct-100-years-agoor-did-it/?"
+            },
+            "tags": [
+                "health",
+                "tech"
+            ],
+            "score": 85,
+            "ownedBy": [],
+            "logoUrl": "https://assets-global.website-files.com/62042a797b21a1c243311ba5/62043273b7d6bb2c7fbe8886_Mytos%20logo.svg",
+            "siteUrl": "https://www.mytos.bio/",
+            "updatedAt": "2024-04-29T06:50:06.453Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
