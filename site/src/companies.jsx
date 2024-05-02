@@ -287,6 +287,7 @@ export function Companies() {
         </Helmet>
         <Stack>
             <h1> Companies </h1>
+            <p> Here you can see all of our company ethics reports, with relevant tags, sources, ethics summaries and scores ranging from 0 to 100. </p>
             <SearchBar value={search} setValue={setSearch} />
             <TagsFilter value={tag} setValue={setTag} />
             { companies.map( entry =>
