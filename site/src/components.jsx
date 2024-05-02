@@ -40,6 +40,10 @@ export const PillButton = styled.button`
     ${ props => props.disabled && css`
         opacity: 0.5;
     ` }
+    ${ props => props.$small && css`
+        font-size: 0.7rem;
+        padding: .24rem .8rem;
+    ` }
 `;
 
 export const Stack = styled.div`
