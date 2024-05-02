@@ -31,28 +31,13 @@ function Tags({ tags }) {
     </FlexRow>;
 }
 
+let allTags = Object.values(boikot.companies)
+    .flatMap( entry => entry.tags )
+    .toSorted();
+allTags = allTags.filter( (tag,i) => allTags.indexOf(tag) === i );
+
 const clearParams = () => window.history.replaceState(
     {}, document.title, window.location.pathname );
-
-function TagsFilter({ value, setValue }) {
-    let allTags = Object.values(boikot.companies)
-        .flatMap( entry => entry.tags )
-        .toSorted();
-    allTags = allTags.filter( (tag,i) => allTags.indexOf(tag) === i );
-    return <FlexRow>
-        <select style={{ maxWidth: "12rem", color: !value && "#fff6" }}
-            onChange={ e => setValue(e.target.value) + clearParams() }
-            value={value}>
-            <option value="" label="Filter by Tag" hidden />
-            { allTags.map( tag => <option value={tag} label={tag} /> ) }
-        </select>
-        { value && <IconButton i="x" gap="0.2rem"
-            style={{ height: "1.4rem" }}
-            onClick={ () => setValue("") + clearParams() }>
-            clear filter
-        </IconButton> }
-    </FlexRow>;
-}
 
 function renderReferences({ comment, sources }) {
     const refs = comment.match(/\[\d+\]/g).map(ref =>
@@ -249,25 +234,59 @@ export function CompanyHeader({ entry, link = false }) {
 
 
 function SearchBar({ value, setValue }) {
-    return <div style={{
-        width: "100%", display: "grid", position: "relative"
-    }}>
+    return <div style={{ display: "grid", position: "relative" }}>
         <input placeholder="🔍 search" value={value}
             onChange={e => setValue(e.target.value)}
-            style={{ paddingRight: "2rem" }}/>
+            style={{ paddingRight: "2rem", minWidth: 0 }} />
         { value &&
             <IconButton i="x" onClick={() => setValue("")}
                 style={{
                     position: "absolute",
                     right: ".25rem",
-                    top: ".35rem",
-                    height: "1.6rem"
+                    top: ".5rem",
+                    height: "1.4rem"
                 }}
             />
         }
     </div>;
 }
 
+const disabledSelectStyle = { minWidth: 0, color: "#fff6" };
+const enabledSelectStyle = {
+    minWidth: 0,
+    color: "var(--fg)",
+    borderRight: "none",
+    borderRadius: ".5rem 0 0 .5rem",
+    paddingRight: 0,
+};
+
+function SelectCancelButton({ onClick }) {
+    return <div style={{
+        background: "var(--bg-light)",
+        paddingRight: ".25rem",
+        display: "grid",
+        placeItems: "center",
+        height: "100%",
+        border: "0.05rem solid var(--fg)",
+        borderLeft: 0,
+        borderRadius: "0 .5rem .5rem 0",
+    }}>
+        <IconButton i="x" style={{ height: "1.4rem" }} onClick={onClick} />
+    </div>;
+}
+
+function TagsFilter({ value, setValue }) {
+    return <Row gap="0" style={{ width: "10rem" }}>
+        <select style={ value ? enabledSelectStyle : disabledSelectStyle }
+            value={value}
+            onChange={ e => setValue(e.target.value) + clearParams() }>
+            <option value="" label="filter by tag" hidden />
+            { allTags.map( tag => <option value={tag} label={tag} /> ) }
+        </select>
+        { value && <SelectCancelButton
+            onClick={ () => setValue("") + clearParams() } /> }
+    </Row>;
+}
 
 export function Companies() {
     const [ params ] = useSearchParams();
@@ -288,8 +307,12 @@ export function Companies() {
         <Stack>
             <h1> Companies </h1>
             <p> Here you can see all of our company ethics reports, with relevant tags, sources, ethics summaries and scores ranging from 0 to 100. </p>
-            <SearchBar value={search} setValue={setSearch} />
-            <TagsFilter value={tag} setValue={setTag} />
+            <div style={{ display: "grid", gap: ".5rem",
+                    gridTemplateColumns: "1fr 10rem" }}>
+                <SearchBar value={search} setValue={setSearch} />
+                <TagsFilter value={tag} setValue={setTag} />
+            </div>
+
             { companies.map( entry =>
                 <CompanyHeader entry={entry}
                     link key={entry.names[0]} />
