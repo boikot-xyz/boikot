@@ -14,6 +14,14 @@ const scoreColor = x =>
 const ownerName = ownerKey =>
     boikot.companies[ownerKey]?.names[0] || ownerKey;
 
+let allTags = Object.values(boikot.companies)
+    .flatMap( entry => entry.tags )
+    .toSorted();
+allTags = allTags.filter( (tag,i) => allTags.indexOf(tag) === i );
+
+const clearParams = () => window.history.replaceState(
+    {}, document.title, window.location.pathname );
+
 const Comment = styled.p`
     lineHeight: 1.5rem;
     sup {
@@ -30,14 +38,6 @@ function Tags({ tags }) {
         )}
     </FlexRow>;
 }
-
-let allTags = Object.values(boikot.companies)
-    .flatMap( entry => entry.tags )
-    .toSorted();
-allTags = allTags.filter( (tag,i) => allTags.indexOf(tag) === i );
-
-const clearParams = () => window.history.replaceState(
-    {}, document.title, window.location.pathname );
 
 function renderReferences({ comment, sources }) {
     const refs = comment.match(/\[\d+\]/g).map(ref =>
