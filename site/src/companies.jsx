@@ -288,17 +288,40 @@ function TagsFilter({ value, setValue }) {
     </Row>;
 }
 
+const sortOptions = {
+    "sort by name":
+        (a, b) => a.names[0].localeCompare(b.names[0]),
+    "sort by score ascending":
+        (a, b) => a.score - b.score,
+    "sort by score descending":
+        (a, b) => b.score - a.score,
+    "sort by industry":
+        (a, b) => a.tags[0].localeCompare(b.tags[0]),
+};
+const defaultSort = Object.keys(sortOptions)[0];
+
+function Sort({ value, setValue }) {
+    return <FlexRow style={{ marginTop: "-.4rem" }}>
+        { Object.keys(sortOptions).map( key =>
+            <PillButton $small key={key} $outline={ value !== key }
+                onClick={() => setValue(key)}>
+                { key }
+            </PillButton> ) }
+    </FlexRow>
+}
+
 export function Companies() {
     const [ params ] = useSearchParams();
     const paramTag = params.get("tag");
     const [ search, setSearch ] = React.useState("");
     const [ tag, setTag ] = React.useState(paramTag || "");
+    const [ sort, setSort ] = React.useState(defaultSort);
     const companies = Object.values(boikot.companies)
         .filter( entry => !tag || entry.tags.includes(tag) )
         .filter( entry => entry.names.some( name =>
             name.toLowerCase().startsWith(search.toLowerCase())
         ) )
-        .toSorted( (a, b) => a.names[0].localeCompare(b.names[0]) );
+        .toSorted( sortOptions[sort] );
     return <Page>
         <Helmet>
             <title> Company Ethics Reports | boikot </title>
@@ -312,7 +335,7 @@ export function Companies() {
                 <SearchBar value={search} setValue={setSearch} />
                 <TagsFilter value={tag} setValue={setTag} />
             </div>
-
+            <Sort value={sort} setValue={setSort} />
             { companies.map( entry =>
                 <CompanyHeader entry={entry}
                     link key={entry.names[0]} />
