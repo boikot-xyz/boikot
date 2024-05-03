@@ -318,6 +318,7 @@ export function Companies() {
     const [ sort, setSort ] = React.useState(defaultSort);
     const companies = Object.values(boikot.companies)
         .filter( entry => !tag || entry.tags.includes(tag) )
+        .filter( entry => entry.score !== null )
         .filter( entry => entry.names.some( name =>
             name.toLowerCase().startsWith(search.toLowerCase())
         ) )
