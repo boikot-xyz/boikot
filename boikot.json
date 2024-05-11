@@ -4494,14 +4494,21 @@
             "names": [
                 "Burger King",
                 "Burger King Corporation",
-                "BK"
+                "BK",
+                "BKC"
             ],
-            "comment": "",
-            "sources": {},
+            "comment": "Burger King is an American fast food chain that has created sexist adverts [1] and is even less sustainable than McDonalds [2].",
+            "sources": {
+                "1": "https://www.huffingtonpost.co.uk/entry/burger-king-women-belong-in-the-kitchen_n_6046994dc5b6e6abac8214a3",
+                "2": "https://d3.harvard.edu/platform-rctom/submission/burger-kings-sustainability-efforts-barely-trying/"
+            },
             "tags": [
-                "fast food"
+                "fast food",
+                "restaurant",
+                "discrimination",
+                "unsustainable"
             ],
-            "score": null,
+            "score": 15,
             "ownedBy": [
                 "restaurant-brands-international"
             ],
