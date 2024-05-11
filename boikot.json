@@ -3478,6 +3478,32 @@
             "siteUrl": "http://zizzi.co.uk/",
             "updatedAt": "2024-04-16T08:27:19.280Z"
         },
+        "costco": {
+            "names": [
+                "Costco",
+                "Costco Wholesale Corporation",
+                "COST"
+            ],
+            "comment": "Costco is an American wholesaler whose supply chain has included animal cruelty [1][2] and forced monkey labour [3], and which has overworked employees resulting in death [4]. Costco has sourced stock produced by slave labour [5], cut down Canadian forests to make toilet paper [6], and spilled 111 thousand litres of oil in Iceland [7].",
+            "sources": {
+                "1": "https://web.archive.org/web/20160302200432/http://qz.com/582427/after-months-of-pressure-costco-commits-to-a-cage-free-egg-supply/",
+                "2": "https://web.archive.org/web/20170130104252/https://www.washingtonpost.com/news/animalia/wp/2016/10/20/her-head-has-been-torn-off-activists-film-alleges-abuse-at-costco-linked-cage-free-egg-farm/",
+                "3": "https://web.archive.org/web/20210417155108/https://www.cnn.com/2020/10/31/business/costco-coconut-milk-monkey-labor-trnd/index.html",
+                "4": "https://www.koreatimes.co.kr/www/tech/2024/03/419_359141.html",
+                "5": "https://web.archive.org/web/20200728230134/https://www.cbsnews.com/news/shrimp-sold-at-walmart-costco-tied-to-slave-labor/",
+                "6": "https://actions.sumofus.org/a/costco-protect-the-boreal-forests-and-use-recycled-pulp-in-your-toilet-paper?source=campaigns",
+                "7": "https://www.icelandreview.com/news/costco-fined-isk-20-million-for-gross-negligence-over-oil-spill/"
+            },
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 7,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Costco_Wholesale_logo_2010-10-26.svg",
+            "siteUrl": "https://www.costco.com/",
+            "updatedAt": "2024-05-11T22:44:30.064Z"
+        },
         "wagamama": {
             "names": [
                 "Wagamama"
