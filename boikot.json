@@ -5743,6 +5743,156 @@
             "siteUrl": "https://www.mytos.bio/",
             "updatedAt": "2024-04-29T06:50:06.453Z"
         },
+        "the-times": {
+            "names": [
+                "The Times",
+                "The Daily Universal Register"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "news"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "news-corp"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Times_masthead.svg",
+            "siteUrl": "https://thetimes.co.uk/",
+            "updatedAt": "2024-05-29T16:01:37.989Z"
+        },
+        "the-sunday-times": {
+            "names": [
+                "The Sunday Times",
+                "The New Observer"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "news"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "news-corp"
+            ],
+            "logoUrl": "https://media.info/l/o/1/1575.1405339476.png",
+            "siteUrl": "thesundaytimes.co.uk",
+            "updatedAt": "2024-05-29T16:01:37.989Z"
+        },
+        "the-sun": {
+            "names": [
+                "The Sun"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "news"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "news-corp"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/The_Sun.svg",
+            "siteUrl": "https://thesun.co.uk/",
+            "updatedAt": "2024-05-29T16:01:37.989Z"
+        },
+        "dow-jones": {
+            "names": [
+                "Dow Jones",
+                "Dow Jones & Company",
+                "Dow Jones & Company, Inc."
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "news"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "news-corp"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Dow_Jones_Logo.svg",
+            "siteUrl": "http://dowjones.com/",
+            "updatedAt": "2024-05-29T16:01:37.989Z"
+        },
+        "the-wall-street-journal": {
+            "names": [
+                "The Wall Street Journal"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "news"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "news-corp"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/WSJ_Logo.svg",
+            "siteUrl": "http://wsj.com/",
+            "updatedAt": "2024-05-29T16:01:37.989Z"
+        },
+        "harpercollins": {
+            "names": [
+                "HarperCollins"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "books"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "news-corp"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/00/Harpercollins-logo.svg",
+            "siteUrl": "https://harpercollins.com/",
+            "updatedAt": "2024-05-29T16:01:37.989Z"
+        },
+        "news-of-the-world": {
+            "names": [
+                "News of the World"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "news"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "news-corp"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/News_of_the_World_Logo_2009.svg",
+            "siteUrl": "http://www.newsoftheworld.co.uk/",
+            "updatedAt": "2024-05-29T16:01:37.989Z"
+        },
+        "news-corp": {
+            "names": [
+                "News Corp",
+                "News Corporation",
+                "NWSA",
+                "NWS",
+                "NWSLV"
+            ],
+            "comment": "News Corp is an American media conglomerate owned by Rupert Murdoch which \"lacks any ethical base\" [5], having engaged in police corruption and bribery [1][2], and hacked the phones of murder victims [3] and those killed in 9/11 [4]. ",
+            "sources": {
+                "1": "https://www.theguardian.com/media/2011/mar/11/news-of-the-world-police-corruption",
+                "2": "https://www.bbc.co.uk/news/uk-16996275",
+                "3": "https://www.theguardian.com/uk/2011/jul/04/milly-dowler-family-phone-hacking",
+                "4": "https://www.mirror.co.uk/2011/07/11/phone-hacking-9-11-victims-may-have-had-mobiles-tapped-by-news-of-the-world-reporters-115875-23262694/",
+                "5": "https://www.huffpost.com/entry/murdoch-media-empire-a-jo_b_896836"
+            },
+            "tags": [
+                "news"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "news-corp"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/News_Corp_logo_2013.svg",
+            "siteUrl": "http://newscorp.com/",
+            "updatedAt": "2024-05-29T16:01:37.989Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
