@@ -5893,6 +5893,29 @@
             "siteUrl": "http://newscorp.com/",
             "updatedAt": "2024-05-29T16:01:37.989Z"
         },
+        "levi's": {
+            "names": [
+                "Levi's",
+                "Levi Strauss",
+                "Levi Strauss & Co.",
+                "Levi"
+            ],
+            "comment": "Levi's is an American clothing brand that has used AI to generate images modelling their products [1] and has usied toxic chemicals in their clothes [2] linked to water pollution in Mexico. Levis was also suspended from the Ethical Trading Initiative for refusing to pay a livung wage [3][4]",
+            "sources": {
+                "1": "https://www.independent.co.uk/life-style/fashion/levis-ai-models-diversity-backlash-b2310280.html",
+                "2": "https://www.greenpeace.org/international/publication/6889/toxic-threads-the-big-fashion-stitch-up/",
+                "3": "https://www.business-humanrights.org/en/latest-news/levi-strauss-drops-from-first-to-fifth-place-in-etag-report-card-after-being-suspended-from-eti-for-refusing-to-commit-to-living-wage/",
+                "4": "https://en.archive.maquilasolidarity.org/en/node/369"
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Levis-logo-quer.svg",
+            "siteUrl": "https://www.levistrauss.com/",
+            "updatedAt": "2024-06-06T18:53:03.266Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
