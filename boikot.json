@@ -5916,6 +5916,25 @@
             "siteUrl": "https://www.levistrauss.com/",
             "updatedAt": "2024-06-06T18:53:03.266Z"
         },
+        "highland-spring": {
+            "names": [
+                "Highland Spring"
+            ],
+            "comment": "Highland Spring is the UK's leading natural source water brand which has sold water containing toxic phthalates [2] and microplastics [3], alongside a poor environmental footprint [3]. Highland Spring was the first brand to launch a 100% recycled bottle [1].",
+            "sources": {
+                "1": "https://www.bbc.co.uk/news/uk-scotland-scotland-business-44404453",
+                "2": "https://www.standard.co.uk/hp/front/dangerous-chemical-found-in-bottled-water-6934399.html",
+                "3": "https://www.telegraph.co.uk/food-and-drink/drinks/the-great-bottled-water-scandal/"
+            },
+            "tags": [
+                "beverages"
+            ],
+            "score": 30,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f6/Highland_Spring_logo.jpg",
+            "siteUrl": "https://www.highlandspring.com/",
+            "updatedAt": "2024-06-09T08:06:36.089Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
