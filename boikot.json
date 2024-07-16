@@ -5953,6 +5953,67 @@
             "siteUrl": "https://www.tp-link.com/en/",
             "updatedAt": "2024-07-21T08:06:36.089Z"
         },
+        "anker": {
+            "names": [
+                "Anker",
+                "Anker Innovations",
+                "安克",
+                "Anker Innovations Co., Ltd",
+                "Oceanwing"
+            ],
+            "comment": "Anker is a Chinese electronics company that has claimed not to store user data while sending images to its cloud servers [1].",
+            "sources": {
+                "1": "https://www.howtogeek.com/138235/why-review-geek-cant-recommend-wyze-or-eufy-cameras-anymore/"
+            },
+            "tags": [
+                "electronics",
+                "china",
+                "antiprivacy"
+            ],
+            "score": 38,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Anker_logo.svg",
+            "siteUrl": "https://anker.com/",
+            "updatedAt": "2024-07-16T18:27:48.537Z"
+        },
+        "eufy": {
+            "names": [
+                "eufy"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "electronics",
+                "china",
+                "antiprivacy"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "anker"
+            ],
+            "logoUrl": "https://tse1.mm.bing.net/th?id=OIP.-FydNiaKlphq7je0BVEUYQHaHa&pid=Api",
+            "siteUrl": "https://www.eufy.com/",
+            "updatedAt": "2024-07-16T18:27:48.537Z"
+        },
+        "soundcore": {
+            "names": [
+                "Soundcore"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "electronics",
+                "china",
+                "antiprivacy"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "anker"
+            ],
+            "logoUrl": "https://cdn.shopify.com/s/files/1/0501/7678/6607/files/logo.png?v=1681995409",
+            "siteUrl": "https://uk.soundcore.com/",
+            "updatedAt": "2024-07-16T18:27:48.537Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
