@@ -6014,6 +6014,24 @@
             "siteUrl": "https://uk.soundcore.com/",
             "updatedAt": "2024-07-16T18:27:48.537Z"
         },
+        "black-sheep-coffee": {
+            "names": [
+                "Black Sheep Coffee"
+            ],
+            "comment": "Black Sheep Coffee is a British coffee shop chain that claims to stand up to corporate giants and support homeless people [1], but sources close to the company's executives have described this messaging as performative [original research].",
+            "sources": {
+                "1": "https://archive.is/WVEk5"
+            },
+            "tags": [
+                "beverages",
+                "food"
+            ],
+            "score": 44,
+            "ownedBy": [],
+            "logoUrl": "https://cdn.shopify.com/s/files/1/0013/8530/0032/files/creaml.svg",
+            "siteUrl": "https://leavetheherdbehind.com/",
+            "updatedAt": "2024-07-22T06:11:30.920Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
