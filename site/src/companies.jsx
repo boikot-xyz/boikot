@@ -312,8 +312,9 @@ function Sort({ value, setValue }) {
 
 export function Companies() {
     const [ params ] = useSearchParams();
+    const paramSearch = params.get("search");
     const paramTag = params.get("tag");
-    const [ search, setSearch ] = React.useState("");
+    const [ search, setSearch ] = React.useState(paramSearch || "");
     const [ tag, setTag ] = React.useState(paramTag || "");
     const [ sort, setSort ] = React.useState(defaultSort);
     const companies = Object.values(boikot.companies)
