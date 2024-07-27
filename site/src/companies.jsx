@@ -40,7 +40,7 @@ function Tags({ tags }) {
 }
 
 function renderReferences({ comment, sources }) {
-    const refs = comment.match(/\[\d+\]/g).map(ref =>
+    const refs = (comment.match(/\[\d+\]/g) ?? []).map(ref =>
         <sup key={ref}><a href={sources[ref.match(/\d+/)]}
             target="_blank" rel="noreferrer noopener">
             { ref }
