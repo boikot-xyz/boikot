@@ -6076,6 +6076,117 @@
             "siteUrl": "http://moonpig.com/",
             "updatedAt": "2024-07-27T08:19:15.220Z"
         },
+        "supreme": {
+            "names": [
+                "Supreme"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": null,
+            "ownedBy": [
+                "essilorluxottica"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Supreme_Logo.svg",
+            "siteUrl": "http://supreme.com/",
+            "updatedAt": "2024-10-03T06:49:27.232Z"
+        },
+        "essilorluxottica": {
+            "names": [
+                "EssilorLuxottica",
+                "EssilorLuxottica SA",
+                "Luxottica",
+                "Essilor",
+                "EL"
+            ],
+            "comment": "EssilorLuxottica is an Italian-French eyewear conglomerate that has engaged in anticompetetive [1] and anti-union practices [2].",
+            "sources": {
+                "1": "https://www.pymnts.com/cpi-posts/eyewear-manufacturer-essilorluxottica-accused-of-artificially-inflating-prices/",
+                "2": "https://www.reuters.com/business/ray-ban-maker-luxottica-accused-anti-union-behaviour-us-georgia-plant-2021-07-15/"
+            },
+            "tags": [
+                "clothing",
+                "anticompetetive",
+                "antiunion"
+            ],
+            "score": 44,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_EssilorLuxottica.svg",
+            "siteUrl": "http://essilorluxottica.com/",
+            "updatedAt": "2024-10-03T06:49:27.232Z"
+        },
+        "sunglass-hut": {
+            "names": [
+                "Sunglass Hut"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "essilorluxottica"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sunglasshutnew.jpg",
+            "siteUrl": "http://sunglasshut.com/",
+            "updatedAt": "2024-10-03T06:49:27.232Z"
+        },
+        "varilux": {
+            "names": [
+                "Varilux"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "essilorluxottica"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/VariluxFrenchLogo.jpg",
+            "siteUrl": "http://www.varilux.com/",
+            "updatedAt": "2024-10-03T06:49:27.232Z"
+        },
+        "ray-ban": {
+            "names": [
+                "Ray-Ban",
+                "RayBan"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "essilorluxottica"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ray-Ban_logo.svg",
+            "siteUrl": "http://ray-ban.com/",
+            "updatedAt": "2024-10-03T06:49:27.232Z"
+        },
+        "oakley": {
+            "names": [
+                "Oakley",
+                "Oakley, Inc."
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "essilorluxottica"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Oakley_logo.svg",
+            "siteUrl": "http://www.oakley.com/",
+            "updatedAt": "2024-10-03T06:49:27.232Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
