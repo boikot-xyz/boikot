@@ -6187,6 +6187,28 @@
             "siteUrl": "http://www.oakley.com/",
             "updatedAt": "2024-10-03T06:49:27.232Z"
         },
+        "under-armour": {
+            "names": [
+                "Under Armour",
+                "Under Armour, Inc.",
+                "UA",
+                "UAA"
+            ],
+            "comment": "Under Armour is an American clothing and sportswear company thats has created advertising campaigns featuring trophy hunters [1], supported Donald Trump [2] and created clothing that could lead to burn injuries [3].",
+            "sources": {
+                "1": "http://www.businessinsider.com/under-armour-drops-sarah-bowmar-after-bear-hunt-video-2016-8",
+                "2": "http://mashable.com/2017/02/07/under-armour-ceo-praises-trump/",
+                "3": "https://web.archive.org/web/20130512185359/https://www.fs.fed.us/t-d/pubs/pdfpubs/pdf08512348/pdf08512348dpi72.pdf"
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 42,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Under_armour_logo.svg",
+            "siteUrl": "http://underarmour.com/",
+            "updatedAt": "2024-10-03T06:49:27.232Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
