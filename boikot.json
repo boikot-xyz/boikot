@@ -6253,6 +6253,33 @@
             "siteUrl": "http://anthropologie.com/",
             "updatedAt": "2024-10-03T06:49:27.232Z"
         },
+        "nintendo": {
+            "names": [
+                "Nintendo",
+                "Nintendo Co., Ltd.",
+                "Nintendo Co.",
+                "Nintendō kabushiki gaisha",
+                "任天堂株式会社",
+                "Nintendo Koppai"
+            ],
+            "comment": "Nintendonis a Japanese video games company which has seen sexual misconduct and sexism against female employees [1][2], engaged in price fixing [3][4].",
+            "sources": {
+                "1": "https://www.engadget.com/nintendo-investigates-sexual-misconduct-claims-194740757.html?guccounter=1",
+                "2": "https://arstechnica.com/gaming/2022/08/sweeping-report-alleges-inequity-sexual-harassment-at-nintendos-american-hq/",
+                "3": "https://www.gamesindustry.biz/nintendos-price-fixing-fine-reduced-by-gbp27m",
+                "4": "http://news.bbc.co.uk/2/hi/business/2375967.stm"
+            },
+            "tags": [
+                "videogames",
+                "anticomptetive",
+                "sexualharassment"
+            ],
+            "score": 43,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Nintendo.svg",
+            "siteUrl": "http://nintendo.com/",
+            "updatedAt": "2024-10-05T09:10:52.335Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
