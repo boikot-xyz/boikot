@@ -6209,6 +6209,50 @@
             "siteUrl": "http://underarmour.com/",
             "updatedAt": "2024-10-03T06:49:27.232Z"
         },
+        "urban-outfitters": {
+            "names": [
+                "Urban Outfitters",
+                "Urban Outfitters, Inc.",
+                "URBN",
+                "Free People"
+            ],
+            "comment": "Urban Outfitters is an American clothing company that has sold board games and clothing described as \"racist\" [1][2], fired workers who attempted to unionise [3], harbored racist attitudes towards staff [4], stolen designs from independent artists [5], discontinued items supporting same-sex marriage [6], and racially profiled customers [7].",
+            "sources": {
+                "1": "https://www.thedp.com/article/2003/10/controversy_continues_over_racist_board_game",
+                "2": "https://web.archive.org/web/20041114092914/https://www.adl.org/PresRele/DiRaB_41/4438_41.htm",
+                "3": "https://www.aftonbladet.se/nyheter/a/oRMrPV/sparkas-efter-krav-pa-kollektivavtal",
+                "4": "https://www.phillymag.com/news/2019/04/12/urban-outfitters-lawsuit/",
+                "5": "https://www.tumblr.com/imakeshinythings/5855716317/not-cool-urban-outfitters-not-cool",
+                "6": "https://www.thecut.com/2008/12/urban_outfitters_yanks_same-se.html",
+                "7": "https://edition.cnn.com/2020/06/26/business/urban-outfitters-racial-profiling-trnd/index.html"
+            },
+            "tags": [
+                "clothing",
+                "fastfashion"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Urban_Outfitters_logo.svg",
+            "siteUrl": "http://urbn.com/",
+            "updatedAt": "2024-10-05T09:10:52.335Z"
+        },
+        "anthropologie": {
+            "names": [
+                "Anthropologie"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "urban-outfitters"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Anthropologie_Logo.svg",
+            "siteUrl": "http://anthropologie.com/",
+            "updatedAt": "2024-10-03T06:49:27.232Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
