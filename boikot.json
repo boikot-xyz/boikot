@@ -6253,6 +6253,28 @@
             "siteUrl": "http://anthropologie.com/",
             "updatedAt": "2024-10-03T06:49:27.232Z"
         },
+        "bose": {
+            "names": [
+                "Bose",
+                "Bose Corporation"
+            ],
+            "comment": "Bose is an American electronics and audio company that has spied on users [1][2]. Amar Bose donated non-voting shares to MIT, which is now the majority owner.",
+            "sources": {
+                "1": "https://www.csoonline.com/article/561275/bose-accused-of-spying-on-users-illegal-wiretapping-via-bose-connect-app.html",
+                "2": "https://www.foxbusiness.com/features/bose-headphones-spy-on-listeners-lawsuit"
+            },
+            "tags": [
+                "electronics",
+                "antiprivacy"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mit"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bose_logo.svg",
+            "siteUrl": "http://www.bose.com/",
+            "updatedAt": "2024-10-05T21:27:26.200Z"
+        },
         "guess": {
             "names": [
                 "Guess",
