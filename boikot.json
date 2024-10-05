@@ -6253,6 +6253,29 @@
             "siteUrl": "http://anthropologie.com/",
             "updatedAt": "2024-10-03T06:49:27.232Z"
         },
+        "guess": {
+            "names": [
+                "Guess",
+                "GES",
+                "Guess Inc.",
+                "GUESS",
+                "Guess?"
+            ],
+            "comment": "Guess is an American clothing company with connections to forced Uyghur Labour [1] and sweatshop manufacturing conditions [2], while Guess's cofounder engaged in sexual misconduct [3].",
+            "sources": {
+                "1": "https://www.shu.ac.uk/-/media/home/research/helena-kennedy-centre/projects/eu-apparel/eu-tailoring-responsibility-february-24.pdf",
+                "2": "https://southendpress.org/what-companies-use-sweatshops/",
+                "3": "https://fortune.com/2023/09/29/guess-settlement-marciano-sexual-misconduct-lawsuit/"
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Guess_logo.svg",
+            "siteUrl": "http://www.guess.com/",
+            "updatedAt": "2024-10-05T10:39:46.568Z"
+        },
         "nintendo": {
             "names": [
                 "Nintendo",
