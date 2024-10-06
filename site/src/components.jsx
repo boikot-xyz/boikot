@@ -268,7 +268,7 @@ export function Page({ children }) {
     </CentererOuter>;
 }
 
-const isEmail = email => email.match( /.+@.+\..+/ );
+export const isEmail = email => email.match( /.+@.+\..+/ );
 
 function MailingList() {
     const [ email, setEmail ] = React.useState("");
