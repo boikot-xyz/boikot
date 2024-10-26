@@ -6342,6 +6342,79 @@
             "siteUrl": "http://nintendo.com/",
             "updatedAt": "2024-10-05T09:10:52.335Z"
         },
+        "mattel": {
+            "names": [
+                "Mattel",
+                "Mattel, Inc.",
+                "MAT"
+            ],
+            "comment": "Mattel is an American toy corporation that sold 19 millon toys containing dangerous levels of lead [1], subjected factory workers to inhumane condtions [2][3], and sold baby rockers that killed almost 100 babies despite warnings from experts to discontinue the product [4].",
+            "sources": {
+                "1": "https://www.nytimes.com/2007/08/15/business/worldbusiness/15imports.html",
+                "2": "https://chinalaborwatch.org/deterioration-of-mattels-labor-conditions-an-investigation-of-four-factories/",
+                "3": "https://www.google.com/url?sa=t&source=web&cd=&ved=2ahUKEwiEl5317quJAxXJU0EAHZYJHywQFnoECBgQBQ&url=https%3A%2F%2Fchinalaborwatch.org%2Fmattels-unceasing-abuse-of-chinese-workers-an-investigation-of-six-mattel-supplier-factories%2F&usg=AOvVaw0I6P_Dtel3pAqjsZccu7VL&opi=89978449",
+                "4": "https://abcnews.go.com/US/fisher-price-warnings-rock-play-sleepers-led-dozens/story?id=78128719"
+            },
+            "tags": [
+                "toys"
+            ],
+            "score": 10,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mattel_%282019%29.svg",
+            "siteUrl": "http://mattel.com/",
+            "updatedAt": "2024-10-26T10:34:12.014Z"
+        },
+        "barbie": {
+            "names": [
+                "Barbie"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "toys"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "mattel"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Barbie_Logo.svg",
+            "siteUrl": "https://shop.mattel.com/pages/barbie",
+            "updatedAt": "2024-10-26T10:34:12.014Z"
+        },
+        "hot-wheels": {
+            "names": [
+                "Hot Wheels"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "toys"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "mattel"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/08/Hot_Wheels_logo-en.svg",
+            "siteUrl": "https://hotwheels.com/",
+            "updatedAt": "2024-10-26T10:34:12.014Z"
+        },
+        "fisher-price": {
+            "names": [
+                "Fisher-Price"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "toys"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "mattel"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Fisher-Price_2019.svg",
+            "siteUrl": "http://fisher-price.com/",
+            "updatedAt": "2024-10-26T10:34:12.014Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
