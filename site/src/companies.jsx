@@ -30,7 +30,7 @@ const Comment = styled.p`
 `;
 
 function Tags({ tags }) {
-    return <FlexRow>
+    return <FlexRow style={{ marginBottom: "0.5rem" }}>
         { tags?.map( tag =>
             <TagBadge key={tag} style={{ fontSize: "0.7rem" }}>
                 { tag }
@@ -52,7 +52,9 @@ function renderReferences({ comment, sources }) {
 function Sources({ entry }) {
     const [ showSources, setShowSources ] = React.useState(false);
     return <>
-        { showSources && <h3> 📰 Sources </h3> }
+        { showSources && <h3 style={{ fontSize: "1.5rem" }}> 
+            📰 Sources
+        </h3> }
         { showSources &&
             Object.entries(entry.sources).map( ([ key, url ]) =>
                 <ForceWrap key={key}> <p>
@@ -80,7 +82,7 @@ function Owners({ entry }) {
     }
 
     return <Stack>
-        <p>
+        <p style={{ marginBottom: "0.5rem" }}>
             { entry.names[0] + " is " }
             { entry.ownedBy.length > 1 && "jointly "}
             owned by { nameList }.
@@ -101,7 +103,7 @@ function Alternatives({ entry }) {
             b.score - a.score
         );
     if( !alternativeEntries.length ) return null;
-    return <Card style={{ paddingBottom: 0 }} gap=".5rem">
+    return <Card style={{ marginTop: "0.8rem", paddingBottom: 0 }} gap=".5rem">
         <h3> Alternatives to { entry.names[0] }: </h3>
         <p> Companies tagged <TagBadge>{ entry.tags[0] }</TagBadge> </p>
         <Stack style={{
@@ -135,14 +137,14 @@ export function Company({ entry, compact }) {
         <CompanyHeader entry={entry} link={!!compact} />
         <Tags tags={entry.tags} />
         { !compact &&
-            <h3 style={{ margin: ".5rem 0 -.5rem"}}>
+            <h3 style={{ fontSize: "1.5rem", margin: "0 0 -.5rem"}}>
                 Is {entry.names[0]} Ethical?
             </h3> }
         { entry.comment && <Comment>
             { renderReferences(entry) }
         </Comment> }
+        <Sources entry={entry} />
         { !compact && <>
-            <Sources entry={entry} />
             <Owners entry={entry} />
             <Alternatives entry={entry} />
             <Subsidiaries entry={entry} />
@@ -332,12 +334,14 @@ export function Companies() {
         <Stack>
             <h1> Companies </h1>
             <p> Here you can see all of our company ethics reports, with relevant tags, sources, ethics summaries and scores ranging from 0 to 100. </p>
+            <span />
             <div style={{ display: "grid", gap: ".5rem",
                     gridTemplateColumns: "1fr 10rem" }}>
                 <SearchBar value={search} setValue={setSearch} />
                 <TagsFilter value={tag} setValue={setTag} />
             </div>
             <Sort value={sort} setValue={setSort} />
+            <span />
             { companies.map( entry =>
                 <CompanyHeader entry={entry}
                     link key={entry.names[0]} />
