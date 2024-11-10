@@ -129,6 +129,8 @@ export const Header = () =>
         gridTemplateColumns: "max-content auto",
         justifyItems: "right",
         marginBottom: "1rem",
+        position: "sticky",
+        top: "2rem",
     }}>
         <Link to="/" style={{ textDecoration: 'none' }}>
             <h2 style={{ color: "var(--fg)" }}> boikot 🙅‍♀️ </h2>
