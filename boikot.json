@@ -6415,6 +6415,49 @@
             "siteUrl": "http://fisher-price.com/",
             "updatedAt": "2024-10-26T10:34:12.014Z"
         },
+        "kellogg's": {
+            "names": [
+                "Kellogg's",
+                "Kellanova",
+                "The Kellogg Company",
+                "K"
+            ],
+            "comment": "Kellogg's is an American food company that has made false claims about the health impacts of its foods [1][2], sourced palm oil produced by child labour and forced labour [3][4][5], and fired over 1000 workers who went on strike [6].",
+            "sources": {
+                "1": "https://web.archive.org/web/20100605074858/http://ftc.gov/opa/2010/06/kellogg.shtm",
+                "2": "https://web.archive.org/web/20100605083122/http://www.nytimes.com/2010/06/04/business/04ftc.html",
+                "3": "https://web.archive.org/web/20180423210624/https://www.amnesty.org/en/documents/asa21/5184/2016/en/",
+                "4": "https://web.archive.org/web/20161203061058/http://www.ibtimes.co.uk/amnesty-report-slams-popular-brands-profiting-labour-abuses-wilmar-1594102",
+                "5": "https://web.archive.org/web/20161202053632/https://www.theguardian.com/law/2016/nov/30/kelloggs-unilever-nestle-child-labour-palm-oil-wilmar-amnesty",
+                "6": "https://web.archive.org/web/20211209051128/https://www.businessinsider.com/kellogg-replacing-1400-striking-workers-reject-deal-wage-increase-2021-12"
+            },
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Kellogg%27s-Logo.svg",
+            "siteUrl": "http://kellanova.com/",
+            "updatedAt": "2024-12-26T15:02:40.507Z"
+        },
+        "pringles": {
+            "names": [
+                "Pringles",
+                "Pringle's Newfangled Potato Chips"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "kellogg's"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f6/Pringles_2021.svg",
+            "siteUrl": "https://www.pringles.com/us/home.html",
+            "updatedAt": "2024-12-26T15:13:46.817Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
