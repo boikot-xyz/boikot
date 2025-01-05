@@ -237,9 +237,10 @@ export function CompanyHeader({ entry, link = false }) {
 
 function SearchBar({ value, setValue }) {
     return <div style={{ display: "grid", position: "relative" }}>
-        <input placeholder="🔍 search" value={value}
+        <input placeholder="🔍 search companies" value={value}
             onChange={e => setValue(e.target.value)}
-            style={{ paddingRight: "2rem", minWidth: 0 }} />
+            style={{ paddingRight: "2rem", minWidth: 0 }}
+            autoFocus />
         { value &&
             <IconButton i="x" onClick={() => setValue("")}
                 style={{
