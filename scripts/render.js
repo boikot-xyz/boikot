@@ -40,7 +40,7 @@ async function renderTree( url, targetDir=null ) {
     let filePath = (targetDir || url.host)
         + url.pathname.replace( /\/?(index.html)?$/, "/index.html" ); 
 
-    console.log( "\n::: Rendering", url.toString(), "to", filePath );
+    console.log( "Rendering", url.toString(), "to", filePath );
 
     let text;
     try {
