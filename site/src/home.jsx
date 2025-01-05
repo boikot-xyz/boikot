@@ -24,7 +24,14 @@ export function Home() {
             <p> All of our services
                 and data are offered free to the public under the terms of
                 the GPL v3 licence. </p>
-            <p> Please see some of our company ethics reports: </p>
+            <Link to="/companies"
+                style={{ textDecoration: "none", border: "0.05rem solid var(--fg)",
+                    borderRadius: "0.5rem", padding: "0.6rem",
+                    background: "var(--bg-light", color: "white" }}>
+                <p style={{ opacity: 0.5 }}>
+                    🔎 search companies
+                </p>
+            </Link>
             <h1> worst offenders 💩 </h1>
             { Object.values(boikot.companies)
                 .filter( entry => !!entry.comment )
