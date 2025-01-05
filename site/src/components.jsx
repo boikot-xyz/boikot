@@ -103,7 +103,7 @@ export const ForceWrap = styled.div`
 const CentererOuter = styled.div`
     display: grid;
     place-items: center;
-    width: 100vw;
+    width: 100%;
 `;
 
 const IconInner = styled.img`

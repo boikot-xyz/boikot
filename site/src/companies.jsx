@@ -148,14 +148,16 @@ export function Company({ entry, compact }) {
             <Owners entry={entry} />
             <Alternatives entry={entry} />
             <Subsidiaries entry={entry} />
-            <Link to={`/companies/edit/${getKey(entry)}`}>
-                <PillButton $outline> ✏️  Edit this Company </PillButton>
-            </Link>
-            <Link to="/companies">
-                <PillButton $outline>
-                    ↩️ Back to All Companies
-                </PillButton>
-            </Link>
+            <FlexRow>
+                <Link to={`/companies/edit/${getKey(entry)}`}>
+                    <PillButton $outline> ✏️  Edit this Company </PillButton>
+                </Link>
+                <Link to="/companies">
+                    <PillButton $outline>
+                        ↩️ Back to All Companies
+                    </PillButton>
+                </Link>
+            </FlexRow>
         </> }
     </Stack>;
 }
