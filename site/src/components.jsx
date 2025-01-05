@@ -260,7 +260,8 @@ export function Page({ children }) {
     return <CentererOuter style={{ minHeight: "100vh" }}>
         <Stack style={{
             padding: "2rem 2rem 1rem 2rem",
-            width: "min(50rem, 100vw)",
+            width: "100%",
+            maxWidth: "50rem",
             minHeight: "100vh",
             gridTemplateRows: "min-content 1fr min-content",
             gridTemplateColumns: "100%",
