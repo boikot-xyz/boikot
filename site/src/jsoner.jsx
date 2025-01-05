@@ -373,7 +373,7 @@ export function Jsoner() {
         </Entry>
         <Entry>
             output company data
-            <CodeBlock style={{ maxHeight: "10rem", overflow: "scroll" }}>
+            <CodeBlock style={{ maxHeight: "10rem", overflowY: "scroll" }}>
                 {tojson(state)}
             </CodeBlock>
         </Entry>

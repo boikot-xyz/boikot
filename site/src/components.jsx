@@ -50,6 +50,7 @@ export const PillButton = styled.button`
 export const Stack = styled.div`
     display: grid;
     gap: 1rem;
+    grid-template-columns: 100%;
     ${ props => css`gap: ${props.gap}` }
 `;
 
@@ -259,10 +260,10 @@ export function Page({ children }) {
     return <CentererOuter style={{ minHeight: "100vh" }}>
         <Stack style={{
             padding: "2rem 2rem 1rem 2rem",
-            maxWidth: "50rem",
-            width: "100%",
+            width: "min(50rem, 100vw)",
             minHeight: "100vh",
             gridTemplateRows: "min-content 1fr min-content",
+            gridTemplateColumns: "100%",
         }}>
             <Header />
             <div> { children } </div>

@@ -107,7 +107,7 @@ function Alternatives({ entry }) {
         <h3> Alternatives to { entry.names[0] }: </h3>
         <p> Companies tagged <TagBadge>{ entry.tags[0] }</TagBadge> </p>
         <Stack style={{
-            maxHeight: "18rem", overflow: "scroll", paddingBottom: "1rem"
+            maxHeight: "18rem", overflowY: "scroll", paddingBottom: "1rem"
         }}>
             { alternativeEntries.map( otherEntry =>
                 <CompanyHeader
@@ -195,7 +195,7 @@ export function Score({ score }) {
         border: `0.175rem solid ${scoreColor(score)}`,
         borderRadius: "1.4rem",
     }}>
-        <span style={{ fontSize: "0.8rem", fontWeight: "600" }}>
+        <span style={{ fontSize: "0.8rem", fontWeight: "600", whiteSpace: "nowrap" }}>
             { score } { emoji }
         </span>
     </span>
@@ -210,7 +210,7 @@ export function CompanyHeader({ entry, link = false }) {
             style={{ textDecoration: "none" }} />
         : React.Fragment;
     return <LinkOrFrag>
-        <Row gap="0.5rem" style={{ overflowX: "scroll" }}>
+        <Row gap="0.5rem" style={{ maxWidth: "100%" }}>
             <img src={entry.logoUrl}
                 alt={`${entry.names[0]} logo`}
                 style={{
@@ -223,7 +223,7 @@ export function CompanyHeader({ entry, link = false }) {
                     fontSize: "0.6rem",
                     wordWrap: "anywhere" }}/>
             <Stack gap="0" style={{ marginRight: "0.1rem" }}>
-                <h3 style={{ textDecoration: link && "underline" }}>
+                <h3 style={{ textDecoration: link && "underline", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
                     {entry.names[0]}
                 </h3>
                 { !!entry.tags.length &&
