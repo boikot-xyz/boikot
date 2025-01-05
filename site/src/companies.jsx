@@ -320,6 +320,7 @@ export function Companies() {
     const paramSearch = params.get("search");
     const paramTag = params.get("tag");
     const [ search, setSearch ] = React.useState(paramSearch || "");
+    const [ renderAll, setRenderAll ] = React.useState(false);
     const [ tag, setTag ] = React.useState(paramTag || "");
     const [ sort, setSort ] = React.useState(defaultSort);
     const companies = Object.values(boikot.companies)
@@ -329,6 +330,7 @@ export function Companies() {
             name.toLowerCase().startsWith(search.toLowerCase())
         ) )
         .toSorted( sortOptions[sort] );
+    React.useEffect( () => { setRenderAll(true) } );
     return <Page>
         <Helmet>
             <title> Company Ethics Reports | boikot </title>
@@ -345,7 +347,7 @@ export function Companies() {
             </div>
             <Sort value={sort} setValue={setSort} />
             <span />
-            { companies.map( entry =>
+            { renderAll && companies.map( entry =>
                 <CompanyHeader entry={entry}
                     link key={entry.names[0]} />
             ) }
