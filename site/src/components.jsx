@@ -1,4 +1,5 @@
 import React from "react";
+import { createPortal } from "react-dom";
 import styled, { css } from "styled-components";
 import { Link } from "react-router-dom";
 import slugify from "slugify";
@@ -159,7 +160,7 @@ function MenuLink({ to, children }) {
 function Menu({ open, close }) {
     if( !open ) return null;
 
-    return <ScreenFiller style={{
+    return createPortal(<ScreenFiller style={{
         backdropFilter: "blur(.4rem)",
         WebkitBackdropFilter: "blur(.4rem)",
         background: "var(--bg-transparent)",
@@ -181,7 +182,7 @@ function Menu({ open, close }) {
             {/* <MenuLink to="/blog"> blog </MenuLink> */}
             <MenuLink to="/contact-us"> contact us </MenuLink>
         </Centerer>
-    </ScreenFiller>;
+    </ScreenFiller>, document.getElementById("modal-portal"));
 }
 
 export function IconButton( props ) {
