@@ -64,7 +64,7 @@ export function Home() {
                 on your own device with complete privacy. </p>
             <Link to="/statement-score">
                 <PillButton style={{ justifySelf: "left" }}>
-                    score your statement!
+                    🏆 score your statement!
                 </PillButton>
             </Link>
             <h2 style={{ marginTop: "1rem" }}> our ratings ⚖️  </h2>
@@ -92,7 +92,7 @@ export function Home() {
                 enquiries please reach out! </p>
             <Link to="/contact-us">
                 <PillButton style={{ justifySelf: "left" }}>
-                    contact us
+                    🤙 contact us
                 </PillButton>
             </Link>
         </Stack>
