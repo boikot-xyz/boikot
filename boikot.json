@@ -6458,6 +6458,29 @@
             "siteUrl": "https://www.pringles.com/us/home.html",
             "updatedAt": "2024-12-26T15:13:46.817Z"
         },
+        "heineken": {
+            "names": [
+                "Heineken",
+                "Heineken N.V.",
+                "HEIA"
+            ],
+            "comment": "Heineken is a Dutch beverage company that broke its promise to withdraw from Russia [1], engaged in price fixing [2], and engaged in high-level corruption, suppression of local brewers, and collaborations with authoritarian regimes in Africa [3]. Heineken has also interfered with alcohol policies in the US and EU [4].",
+            "sources": {
+                "1": "https://nltimes.nl/2023/02/21/heineken-still-investing-russia-despite-promises-stop",
+                "2": "http://business.guardian.co.uk/story/0,,2059542,00.html",
+                "3": "https://www.premiumtimesng.com/news/top-news/756714-at-book-reading-dutch-journalist-recounts-expose-on-heinekens-practices-in-africa.html?tztc=1",
+                "4": "https://movendi.ngo/the-issues/the-problem/big-alcohol-exposed/heineken-company-profile/"
+            },
+            "tags": [
+                "alcohol",
+                "anticompetetive"
+            ],
+            "score": 15,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Heineken_logo.svg",
+            "siteUrl": "http://www.heinekeninternational.com/",
+            "updatedAt": "2025-01-05T09:56:01.496Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
