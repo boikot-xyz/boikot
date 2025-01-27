@@ -13,8 +13,8 @@ export function Home() {
             <meta name="description" content="Which companies are most ethical? boikot is unearthing and recording unethical actions by global companies to help the public make informed decisions." />
         </Helmet>
         <Stack>
-            <h1> boikot is a community-led initiative to make
-                data on company ethics transparent and accessible. </h1>
+            <h1> boikot makes company ethics data transparent and accessible.
+            </h1>
             <p> We are building a community-curated, transparent, freely
                 accessible collection of corporate ethics records. By
                 documenting ethical and unethical business practices,
