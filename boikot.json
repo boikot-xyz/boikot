@@ -6482,6 +6482,35 @@
             "siteUrl": "http://www.heinekeninternational.com/",
             "updatedAt": "2025-01-05T09:56:01.496Z"
         },
+        "byd": {
+            "names": [
+                "BYD",
+                "BYD Company",
+                "比亚迪"
+            ],
+            "comment": "BYD is the world's largest manufacturer of electric vehicles which has ties to the Chinese Communist Party and Chinese Military [1][2], and which has utilised forced Uyghur labour [1], \"slave-like\" working conditions [3][4] and human-trafficked workers [5]. BYD has tried to silence those who criticise them using legal action [6][7], and its factories have polluted their sorroundings and caused illnesses in local children [8][9][10].",
+            "sources": {
+                "1": "https://web.archive.org/web/20200422081513/https://www.vice.com/en_us/article/qjdqnb/trump-blacklisted-this-chinese-company-now-its-making-coronavirus-masks-for-us-hospitals",
+                "2": "https://www.hongkongwatch.org/all-posts/2024/1/18/hong-kong-watch-publishes-briefing-exposing-the-risks-of-huawei-and-byd-to-the-eu",
+                "3": "https://www.bloomberg.com/news/articles/2024-12-24/brazil-halts-byd-site-after-workers-found-in-slave-conditions",
+                "4": "https://www.theverge.com/2024/5/18/24158518/ev-critical-mineral-mining-human-rights-abuse-allegations",
+                "5": "https://www.reuters.com/world/americas/brazilian-authorities-workers-byd-construction-site-victims-international-human-2024-12-27/",
+                "6": "https://www.stcn.com/article/detail/928873.html",
+                "7": "https://web.archive.org/web/20240729015033/https://www.thewirechina.com/2024/07/28/libel-lawfare-chinese-companies-defamation-suit-anti-slapp/",
+                "8": "https://www.asiafinancial.com/warren-buffett-backed-byd-plunges-on-pollution-probe",
+                "9": "https://www.reuters.com/world/china/chinese-city-probing-byd-factory-emissions-over-allegations-childrens-nosebleeds-2022-05-09/",
+                "10": "https://www.fairplanet.org/editors-pick/chinas-not-so-green-electric-vehicles/"
+            },
+            "tags": [
+                "manufacturing",
+                "cars"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/BYD_Company%2C_Ltd._-_Logo.svg",
+            "siteUrl": "https://www.bydglobal.com/",
+            "updatedAt": "2025-03-20T19:45:15.978Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
