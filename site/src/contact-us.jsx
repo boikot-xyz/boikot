@@ -24,6 +24,17 @@ export function ContactUs() {
                     hello@boikot.xyz
                 </a>
             </Row>
+            <Row gap="0.5rem">
+                <h3 style={{ userSelect: "none" }}> 🦋 </h3>
+                <a
+                    href="https://bsky.app/profile/oscarsaharoy.bsky.social"
+                    style={{ fontSize: "1.1rem", justifySelf: "left" }}>
+                    @oscarsaharoy.bsky.social
+                </a>
+            </Row>
+            <p> We don't run any tracking or analytics on the site 
+                so it would be great to hear from you!
+            </p>
         </Stack>
     </Page>
 }
