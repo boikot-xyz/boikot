@@ -28,6 +28,7 @@ export function ContactUs() {
                 <h3 style={{ userSelect: "none" }}> 🦋 </h3>
                 <a
                     href="https://bsky.app/profile/oscarsaharoy.bsky.social"
+                    target="_blank" rel="noreferrer noopener"
                     style={{ fontSize: "1.1rem", justifySelf: "left" }}>
                     @oscarsaharoy.bsky.social
                 </a>
