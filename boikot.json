@@ -3293,10 +3293,11 @@
                 "M&B",
                 "MAB"
             ],
-            "comment": "Mitchells & Butlers, a British pub operator and FTSE 250 company, has faced criticism for unethical practices including failing to pay £565,094.87 in minimum wage to 16,187 employees [1], and implementing a tip-sharing system that can result in waiting staff earning below minimum wage [2].",
+            "comment": "Mitchells & Butlers, a British pub operator and FTSE 250 company, has faced criticism for unethical practices including failing to pay £565,094.87 in minimum wage to 16,187 employees [1], and implementing a tip-sharing system that can result in waiting staff earning below minimum wage [2]. Mitchells & Butlers ordered the killing of an ancient oak near one of their pubs [3].",
             "sources": {
                 "1": "https://www.thecaterer.com/news/mitchells-and-butlers-greggs-minimum-wage-list-2024",
-                "2": "https://www.theguardian.com/business/2023/oct/18/steakhouse-chain-miller-carter-waiting-staff-tips-pay-chefs"
+                "2": "https://www.theguardian.com/business/2023/oct/18/steakhouse-chain-miller-carter-waiting-staff-tips-pay-chefs",
+                "3": "https://www.bbc.co.uk/news/articles/cn05y14dy7do"
             },
             "tags": [
                 "restaurant",
