@@ -1,0 +1,498 @@
+7-eleven
+abercrombie & fitch
+absolut
+acer
+activision blizzard
+advil/nurofen
+air france-klm
+air wick
+airbnb
+albertsons
+aldi nord
+alessi
+allianz
+always
+amazon prime video
+amd
+american airlines
+american eagle
+american express
+anthropic
+applebee's
+aquafresh
+argos
+armani
+asos
+aston martin
+astrazeneca
+asus
+asus/lenovo/hp
+at&t
+audible
+auntie anne's
+aveda
+aveeno
+aviva
+axa
+b&q
+babolat
+bacardi
+banana republic
+band-aid
+bang & olufsen
+bank of america
+bank of scotland
+baskin-robbins
+bass pro shops/cabela's
+bath & body works
+bauhaus
+bayer
+beats by dre
+benefit
+best buy
+bic
+billabong
+bioderma
+birkenstock
+bisto
+blablacar
+black & decker
+bloomingdale's
+blue bottle coffee
+blue buffalo
+bnp paribas
+bobbi brown
+boden
+bold
+bolt
+booking.com
+boots
+bowers & wilkins
+box
+bravissimo
+breville
+british airways
+brooks brothers
+bt
+budweiser
+bugatti
+burberry
+callaway
+calvin klein
+canada goose
+canon
+canon/nikon
+caribou coffee
+carlsberg
+carphone warehouse
+carrefour
+cartier
+cathedral city
+centrum
+cerave
+champion
+chanel
+chase
+cheesecake factory
+chewy
+chick-fil-a
+chili's
+chipotle
+cinnabon
+citibank
+citizen
+citroën
+clarks
+clinique
+clorox
+cnn
+coach
+cold stone creamery
+colgate
+columbia
+columbia sportswear
+corona
+corsair
+coursera
+crate & barrel
+crest
+crocs
+culver's
+currys
+cvs
+dairy queen
+danone
+darty
+dc comics
+debenhams
+decathlon
+deezer
+deliveroo
+delta
+desigual
+dettol
+deutsche bank
+deutsche telekom
+dfs
+dhl
+diesel
+dillard's
+dior
+discovery+
+domestos
+doordash
+dr. martens
+dropbox
+dunelm
+dunkin'
+dunkin' donuts
+duolingo
+duracell
+durex
+dyson
+easyjet
+edeka
+ee
+el corte inglés
+electronic arts
+energizer
+estée lauder
+eucerin
+evian
+expedia
+express
+fat face
+ferrari
+ferrero
+fila
+finish
+first choice
+fitbit
+fjällräven
+flora
+fnac
+folgers
+foot locker
+forever 21
+fossil
+friskies
+funko
+galeries lafayette
+gamestop
+gap
+garmin
+garnier
+geico
+ghirardelli
+glade
+goldman sachs
+gopro
+grey goose
+grubhub
+gsk
+gucci
+guerlain
+häagen-dazs
+halfords
+halifax
+harley-davidson
+hasbro
+havaianas
+hbo
+head
+hermes/evri
+hershey's
+hilton
+hobbycraft
+holland & barrett
+hollister
+home depot
+home depot/lowe's
+hotel chocolat
+house of fraser
+htc
+huawei
+huggies
+hugo boss
+hulu
+hyatt
+iheartradio
+ikea
+illy
+in-n-out burger
+ing
+instacart
+instagram
+intel
+intelligentsia
+jack daniel's
+jbl
+jcpenney
+jd sports
+jersey mike's
+jet2
+jimmy john's
+johnnie walker
+johnson & johnson
+jpmorgan chase
+just eat
+k2
+kate spade
+kiehl's
+kinder
+kitchenaid
+kohl's
+kong
+kroger
+krups
+l'occitane
+lacoste
+lancôme
+lands' end
+lavazza
+le creuset
+le pain quotidien
+lenovo
+leroy merlin
+levi strauss
+levi's
+liberty mutual
+lindt
+linkedin
+ll bean
+lloyds bank
+logitech
+louis vuitton
+lowe's
+lufthansa
+lululemon
+lush
+lyft
+lysol
+m&m's
+mac cosmetics
+macy's
+marimekko
+marriott
+mars
+marshalls
+marvel
+mastercard
+maxwell house
+maybelline
+mcdougalls
+mclaren
+mediamarkt
+melissa & doug
+menards
+mercadona
+merck
+method
+michael kors
+micro center
+monopoly
+monzo
+mountain dew
+mozilla (firefox)
+mrs. meyer's
+müller
+n26
+nbc
+neutrogena
+new balance
+new look
+nikon
+nintendo
+nivea
+nordstrom
+novartis
+nutella
+nvidia
+nyx
+o2
+oakley
+obi
+old navy
+olive garden
+omega
+oneplus
+opel (europe - often vauxhall in the uk)
+openai
+orange
+outback steakhouse
+panasonic
+panda express
+pandora
+panera bread
+paramount
+paramount+
+patagonia
+paypal
+pc world
+peacock
+pedigree
+peet's coffee
+pepsi
+petco
+pets at home
+petsmart
+peugeot
+pfizer
+pg tips
+philips
+pinterest
+pixar
+play-doh
+playmobil
+playstation
+popeyes
+post-it
+potbelly
+pottery barn
+prada
+progressive
+publix
+puma
+quaker oats
+quiksilver
+ralph lauren
+razer
+red lobster
+reebok
+rei
+revlon
+revolut
+rewe
+rimmel
+rip curl
+river island
+robert dyas
+roche
+rolex
+ross
+rossignol
+roxy
+royal canin
+ryanair
+safeway
+saks fifth avenue
+salomon
+santander
+saturn
+sc johnson
+schuh
+schwartz
+scotch
+screwfix
+seiko
+selfridges
+sensodyne
+sephora
+sephora/ulta beauty
+shazam
+shein
+siemens
+simple
+skechers
+sky
+skype
+slack
+smeg
+snapchat
+snickers
+sony pictures
+soundcloud
+southwest airlines
+specialized
+specsavers
+speedo
+sports direct
+stanley
+state farm
+subaru
+superdrug
+superdry
+swarovski
+swatch
+swiffer
+t-mobile
+tag heuer
+tampax
+target
+ted baker
+tefal
+telefónica
+tgi fridays
+the body shop
+the north face
+the north face/patagonia/columbia
+thorntons
+three
+tidal
+tiffany & co.
+tiktok
+tim hortons
+timberland
+tissot
+titleist
+tj maxx
+tnt
+tommy hilfiger
+toms
+toolstation
+topshop/topman
+toyota
+trader joe's
+trek
+tripadvisor
+tropicana
+tui
+twinings
+twitch
+twix
+tylenol/paracetamol
+ubisoft
+united
+universal
+ups
+urban decay
+vans
+vapiano
+verizon
+versace
+victoria's secret
+virgin atlantic/virgin airlines
+virgin media
+visa
+vrbo
+waitrose
+walgreens
+walgreens/cvs/boots
+walkers
+walkers crisps
+walmart
+warner bros.
+waterstones
+wayfair
+waze
+weetabix
+wells fargo
+wendy's
+west elm
+western union
+wetzel's pretzels
+whataburger
+whatsapp
+whiskas
+whsmith
+wickes
+wilko
+williams-sonoma
+wilson
+windex
+xbox
+xiaomi
+yamaha
+yoplait
+yves saint laurent
+zoom
