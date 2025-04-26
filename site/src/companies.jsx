@@ -121,13 +121,15 @@ function Subsidiaries({ entry }) {
     const subsidiaries = Object.values(boikot.companies).filter(
         other => other.ownedBy.includes( getKey(entry) ) );
     if( !subsidiaries.length ) return null;
-    return <Stack style={{ padding: ".6rem 0" }}>
-        <h3>
-            Companies owned by { entry.names[0] }:
-        </h3>
-        { subsidiaries.map( entry =>
-            <CompanyHeader link entry={entry} key={entry.names[0]} /> ) }
-    </Stack>;
+    return <Card style={{ marginTop: "0.8rem", paddingBottom: 0, background: "#fff1", borderColor: "white" }} gap=".5rem">
+        <h3> Companies owned by { entry.names[0] }: </h3>
+        <Stack style={{
+            maxHeight: "18rem", overflowY: "scroll", paddingBottom: "1rem"
+        }}>
+            { subsidiaries.map( entry =>
+                <CompanyHeader link entry={entry} key={entry.names[0]} /> ) }
+        </Stack>
+    </Card>;
 }
 
 export function Company({ entry, compact }) {
