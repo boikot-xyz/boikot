@@ -153,6 +153,7 @@ const BigLink = styled(Link)`
     font-size: 1.5rem;
     text-decoration: none;
     white-space: pre-wrap;
+    font-weight: 400;
 `;
 
 function MenuLink({
@@ -182,7 +183,7 @@ function Menu({ open, close }) {
                 gridTemplateColumns: "auto min-content",
                 marginBottom: "0.5rem",
             }}>
-                <h1> menu 🗺️</h1>
+                <h1 style={{ fontSize: "2rem" }}> menu 🗺️</h1>
                 <IconButton i="x" onClick={close} alt="close menu" />
             </Row>
             <MenuLink to="/"> 🏠  home </MenuLink>
