@@ -325,7 +325,6 @@ panda express
 pandora
 panera bread
 paramount
-paramount+
 patagonia
 paypal
 pc world
@@ -387,7 +386,6 @@ screwfix
 seiko
 selfridges
 sensodyne
-sephora
 sephora/ulta beauty
 shazam
 shein
@@ -424,7 +422,6 @@ tefal
 telefónica
 tgi fridays
 the body shop
-the north face
 the north face/patagonia/columbia
 thorntons
 three
