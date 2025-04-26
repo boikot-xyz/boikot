@@ -6539,6 +6539,40 @@
             "siteUrl": "http://gapinc.com/",
             "updatedAt": "2025-04-26T16:31:06.518Z"
         },
+        "banana-republic": {
+            "names": [
+                "Banana Republic"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "gap"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Banana_Republic_Logo.svg",
+            "siteUrl": "http://www.bananarepublic.com/",
+            "updatedAt": "2025-04-26T16:31:06.518Z"
+        },
+        "old-navy": {
+            "names": [
+                "Old Navy"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "gap"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Old_Navy_Logo.svg",
+            "siteUrl": "http://oldnavy.gap.com/",
+            "updatedAt": "2025-04-26T16:31:06.518Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
