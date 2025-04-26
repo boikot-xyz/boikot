@@ -39,6 +39,9 @@ export function Home() {
                 .slice(0, 5)
                 .map( entry => <CompanyHeader entry={ entry } link
                     key={entry.names[0]} /> ) }
+            <Link to="/companies?sort=sort by score ascending">
+                <PillButton $outline> 💩 more worst offenders </PillButton>
+            </Link>
             <h1> newly added 👀 </h1>
             { Object.values(boikot.companies)
                 .toSorted( (a,b) =>
