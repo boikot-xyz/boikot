@@ -6512,6 +6512,33 @@
             "siteUrl": "https://www.bydglobal.com/",
             "updatedAt": "2025-03-20T19:45:15.978Z"
         },
+        "gap": {
+            "names": [
+                "Gap",
+                "Gap Inc.",
+                "The Gap, Inc.",
+                "The Gap",
+                "GGP",
+                "GAP"
+            ],
+            "comment": "Gap is an American clothing conglomerate that has sourced garments from factories with squalid conditions, wage nonpayment and mandatory overtime, which have forced employees to have abortions, and where employees have been sexually assaulted [1][2][3][4]. GAP has also sold clothes produced by child labour [5] and forced labour of Uyghur Muslims [6].",
+            "sources": {
+                "1": "https://www.globalcitizen.org/en/content/hm-gap-factory-abuse-fast-fashion-workers/",
+                "2": "https://www.independent.co.uk/news/shirts-for-the-fashionable-at-a-price-paid-in-human-misery-on-us-soil-the-gap-workers-are-forced-to-1121362.html",
+                "3": "https://web.archive.org/web/20170915133212/http://www.msmagazine.com/spring2006/paradise_full.asp",
+                "4": "https://wayback.archive-it.org/all/20080309041041/http://www.nlcnet.org/documents/Jordan_PDF_Web/04_Western.pdf",
+                "5": "http://news.bbc.co.uk/1/hi/world/south_asia/7066019.stm",
+                "6": "https://archive.is/GSvdC"
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 15,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gap_Inc._logo_2024.svg",
+            "siteUrl": "http://gapinc.com/",
+            "updatedAt": "2025-04-26T16:31:06.518Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
