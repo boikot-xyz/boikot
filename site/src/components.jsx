@@ -305,10 +305,10 @@ export function Footer() {
     return <Stack style={{ marginTop: "3rem", fontSize: "0.9rem" }}>
         <hr />
         <Stack>
+            <p> Keep Companies Accountable • Tax Wealth not Work • Boycott, Divestment and Sanctions </p>
+            <span style={{ height: ".5rem" }} />
             <MailingList />
-            <a href="https://github.com/boikot-xyz/boikot">
-                <Icon i="github" height="1.75rem" alt="boikot github" />
-            </a>
+            <span style={{ height: ".5rem" }} />
             <FlexRow style={{ gap: "0.75rem 2rem" }}>
                 <MenuLink to="/companies">
                     company ethics reports
@@ -319,7 +319,12 @@ export function Footer() {
                     terms and conditions
                 </MenuLink>
             </FlexRow>
-        <VersionNumber />
+            <FlexRow>
+                <a href="https://github.com/boikot-xyz/boikot">
+                    <Icon i="github" height="1.75rem" alt="boikot github" />
+                </a>
+                <VersionNumber />
+            </FlexRow>
         </Stack>
     </Stack>;
 }
