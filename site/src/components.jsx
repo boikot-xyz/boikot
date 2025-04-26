@@ -149,13 +149,22 @@ const ScreenFiller = styled.div`
     right: 0;
 `;
 
-function MenuLink({ to, children }) {
-    let style = {};
+const BigLink = styled(Link)`
+    font-size: 1.5rem;
+    text-decoration: none;
+    white-space: pre-wrap;
+`;
+
+function MenuLink({
+    to,
+    children,
+    style,
+}) {
     if( location.pathname === to )
-        style = { color: "var(--fg)", fontWeight: "600" };
-    return <Link to={to} style={style}>
+        style = { ...style, color: "var(--fg)", fontWeight: "600" };
+    return <BigLink to={to} style={style}>
         { children }
-    </Link>;
+    </BigLink>;
 }
 
 function Menu({ open, close }) {
@@ -170,18 +179,19 @@ function Menu({ open, close }) {
         <Centerer>
             <Row style={{
                 width: "100%",
-                gridTemplateColumns: "auto min-content"
+                gridTemplateColumns: "auto min-content",
+                marginBottom: "0.5rem",
             }}>
                 <h1> menu 🗺️</h1>
                 <IconButton i="x" onClick={close} alt="close menu" />
             </Row>
-            <MenuLink to="/"> home </MenuLink>
-            <MenuLink to="/companies"> company ethics reports </MenuLink>
-            <MenuLink to="/companies/edit"> add a company </MenuLink>
-            <MenuLink to="/statement-score"> scan a document </MenuLink>
-            <MenuLink to="/search"> search </MenuLink>
+            <MenuLink to="/"> 🏠  home </MenuLink>
+            <MenuLink to="/companies"> ⚖️  company ethics reports </MenuLink>
+            <MenuLink to="/companies/edit"> ➕  add a company </MenuLink>
+            <MenuLink to="/statement-score"> 🖨️  scan a document </MenuLink>
+            <MenuLink to="/search"> 🔎  search </MenuLink>
             {/* <MenuLink to="/blog"> blog </MenuLink> */}
-            <MenuLink to="/contact-us"> contact us </MenuLink>
+            <MenuLink to="/contact-us"> 📬  contact us </MenuLink>
         </Centerer>
     </ScreenFiller>, document.getElementById("modal-portal"));
 }
@@ -302,6 +312,7 @@ function MailingList() {
 
 export function Footer() {
     React.useLayoutEffect( () => { window.renderCallback?.(); }, [] );
+    const footerLinkStyle = { fontSize: "1rem", textDecoration: "underline", whiteSpace: "unset" };
     return <Stack style={{ marginTop: "3rem", fontSize: "0.9rem" }}>
         <hr />
         <Stack>
@@ -310,12 +321,12 @@ export function Footer() {
             <MailingList />
             <span style={{ height: ".5rem" }} />
             <FlexRow style={{ gap: "0.75rem 2rem" }}>
-                <MenuLink to="/companies">
+                <MenuLink to="/companies" style={footerLinkStyle}>
                     company ethics reports
                 </MenuLink>
-                <MenuLink to="/contact-us"> contact us </MenuLink>
-                <MenuLink to="/privacy-policy"> privacy policy </MenuLink>
-                <MenuLink to="/terms-and-conditions">
+                <MenuLink to="/contact-us" style={footerLinkStyle}> contact us </MenuLink>
+                <MenuLink to="/privacy-policy" style={footerLinkStyle}> privacy policy </MenuLink>
+                <MenuLink to="/terms-and-conditions" style={footerLinkStyle}>
                     terms and conditions
                 </MenuLink>
             </FlexRow>
