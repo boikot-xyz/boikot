@@ -147,6 +147,7 @@ const ScreenFiller = styled.div`
     top: 0;
     left: 0;
     right: 0;
+    overflow: scroll;
 `;
 
 const BigLink = styled(Link)`
@@ -181,9 +182,13 @@ function Menu({ open, close }) {
             <Row style={{
                 width: "100%",
                 gridTemplateColumns: "auto min-content",
-                marginBottom: "0.5rem",
+                marginBottom: "1rem",
+                position: "sticky",
+                top: "2rem",
             }}>
-                <h1 style={{ fontSize: "2rem" }}> menu 🗺️</h1>
+                <Link to="/" style={{ textDecoration: 'none' }}>
+                    <h2 style={{ color: "var(--fg)" }}> boikot 🙅‍♀️ </h2>
+                </Link>
                 <IconButton i="x" onClick={close} alt="close menu" />
             </Row>
             <MenuLink to="/"> 🏠  home </MenuLink>
@@ -193,6 +198,16 @@ function Menu({ open, close }) {
             <MenuLink to="/search"> 🔎  search </MenuLink>
             {/* <MenuLink to="/blog"> blog </MenuLink> */}
             <MenuLink to="/contact-us"> 📬  contact us </MenuLink>
+            <h3 style={{ marginTop: "1.5rem" }}>
+                boikot makes company ethics data transparent and accessible.
+            </h3>
+            <p style={{ marginBottom: "1.5rem" }}>
+                We are building a community-curated, transparent, freely
+                accessible collection of corporate ethics records. By
+                documenting ethical and unethical business practices,
+                we aim to inform consumer choice, raise the cost of
+                harmful business decisions, and incentivise companies to
+                act responsibly in the public interest. </p>
         </Centerer>
     </ScreenFiller>, document.getElementById("modal-portal"));
 }
