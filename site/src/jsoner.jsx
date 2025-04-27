@@ -2,11 +2,16 @@ import React from "react";
 import styled, { css } from "styled-components";
 import slugify from "slugify";
 import { useParams } from "react-router";
+import { Link } from "react-router-dom";
 import "whatwg-fetch";
 import { Helmet } from "react-helmet";
 
 import boikot from '../../boikot.json';
 import { CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack } from "./components.jsx";
+
+const searchEcosia = searchQuery => `https://www.ecosia.org/search?q=${encodeURIComponent(searchQuery)}`;
+const makeWikipediaSearchURL = company => searchEcosia(company + " wikipedia");
+const makeUnethicalSearchURL = company => searchEcosia(company + " unethical");
 
 const initialState = {
     names: [],
@@ -289,6 +294,19 @@ export function Jsoner() {
                 onKeyDown={ifEnter(addToStateList("names"))}
                 onKeyUp={ifEnter(e => e.target.value = "")} />
         </Entry>
+        { !!state.names?.length &&
+            <FlexRow style={{ justifyContent: "right" }}>
+                <Link to={makeWikipediaSearchURL(state.names[0])} target="_blank">
+                    <PillButton $outline style={{ whiteSpace: "pre-wrap" }}>
+                        🔎  search for wikipedia page
+                    </PillButton> 
+                </Link>
+                <Link to={makeUnethicalSearchURL(state.names[0])} target="_blank">
+                    <PillButton $outline style={{ whiteSpace: "pre-wrap" }}>
+                        🔎  search for unethical practices
+                    </PillButton> 
+                </Link>
+            </FlexRow> }
         <Entry $valid={state.tags.length > 0}>
             tags
             <DeleteableBadgeList
