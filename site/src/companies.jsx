@@ -137,7 +137,7 @@ const getShareLink = entry => {
     const maxLength = 300 - ("... Sources: " + window.location.href).length;
     if( postText.length > maxLength )
         postText = postText.slice(0, maxLength).replace(/ [^ ]+$/, "") + "...";
-    return `https://bsky.app/intent/compose?text=${encodeURIComponent(postText)}%20Sources:%20${encodeURIComponent(window.location.href)}`;
+    return `https://bsky.app/intent/compose?text=${encodeURIComponent(postText + " Sources: " + window.location.href)}`;
 };
 
 export function Company({ entry, compact }) {
