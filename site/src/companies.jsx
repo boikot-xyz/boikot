@@ -132,6 +132,14 @@ function Subsidiaries({ entry }) {
     </Card>;
 }
 
+const getShareLink = entry => {
+    let postText = entry.comment.repeat(1);
+    const maxLength = 300 - ("... Sources: " + window.location.href).length;
+    if( postText.length > maxLength )
+        postText = postText.slice(0, maxLength).replace(/ [^ ]+$/, "") + "...";
+    return `https://bsky.app/intent/compose?text=${postText}%20Sources:%20${encodeURIComponent(window.location.href)}`;
+};
+
 export function Company({ entry, compact }) {
     if( !entry?.names ) return null;
 
@@ -151,6 +159,14 @@ export function Company({ entry, compact }) {
             <Alternatives entry={entry} />
             <Subsidiaries entry={entry} />
             <FlexRow>
+                <Link to={getShareLink(entry)} target="_blank" rel="noopener noreferrer">
+                    <PillButton $outline>
+                        <Row gap="0.4rem">
+                            <Icon i="bluesky" height="1rem" />
+                            <p> Share on Bluesky </p>
+                        </Row>
+                    </PillButton>
+                </Link>
                 <Link to={`/companies/edit/${getKey(entry)}`}>
                     <PillButton $outline> ✏️  Edit this Company </PillButton>
                 </Link>
