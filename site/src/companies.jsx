@@ -159,14 +159,15 @@ export function Company({ entry, compact }) {
             <Alternatives entry={entry} />
             <Subsidiaries entry={entry} />
             <FlexRow>
-                <Link to={getShareLink(entry)} target="_blank" rel="noopener noreferrer">
-                    <PillButton $outline>
-                        <Row gap="0.4rem">
-                            <Icon i="bluesky" height="1rem" />
-                            <p> Share on Bluesky </p>
-                        </Row>
-                    </PillButton>
-                </Link>
+                { entry.comment &&
+                    <Link to={getShareLink(entry)} target="_blank" rel="noopener noreferrer">
+                        <PillButton $outline>
+                            <Row gap="0.4rem">
+                                <Icon i="bluesky" height="1rem" />
+                                <p> Share on Bluesky </p>
+                            </Row>
+                        </PillButton>
+                    </Link> }
                 <Link to={`/companies/edit/${getKey(entry)}`}>
                     <PillButton $outline> ✏️  Edit this Company </PillButton>
                 </Link>
