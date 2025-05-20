@@ -6573,6 +6573,37 @@
             "siteUrl": "http://oldnavy.gap.com/",
             "updatedAt": "2025-04-26T16:31:06.518Z"
         },
+        "7-eleven": {
+            "names": [
+                "7-eleven",
+                "7-11",
+                "7-Eleven, Inc.",
+                "Seven-Eleven",
+                "Seven & I Holdings",
+                "Southland Ice Company",
+                "Seven Eleven",
+                "Seven-Eleven Japan",
+                "Seven-Eleven Japan Co., Ltd.",
+                "株式会社セブン‐イレブン・ジャパン"
+            ],
+            "comment": "7-Eleven is a Japanese-American supermarket chain that has mistreated and underpaid its workers [1][2][3][4][5].",
+            "sources": {
+                "1": "https://www.orgsthatmatter.com/communication/7-eleven-unethical/",
+                "2": "https://www.abc.net.au/news/2020-10-30/7-11-pays-back-$176-million-worth-of-backpay-super-to-staff/12831176",
+                "3": "https://www.workplaceethicsadvice.com/2015/10/7-eleven-wage-scandal-reflects-corporate-irresponsibility.html",
+                "4": "https://www.news.com.au/finance/business/retail/virtual-slave-paid-47-cents-an-hour-to-work-at-7eleven-store/news-story/3ffc332f3fbd0c5e42fe561690d8bd54",
+                "5": "https://www.abc.net.au/news/2015-08-31/exploitation-part-of-7-eleven-business-model-insider-says/6733682"
+            },
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 46,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/7-Eleven_logo_2021.svg",
+            "siteUrl": "http://www.7-eleven.com/",
+            "updatedAt": "2025-05-20T19:29:06.368Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
