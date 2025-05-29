@@ -6604,6 +6604,75 @@
             "siteUrl": "http://www.7-eleven.com/",
             "updatedAt": "2025-05-20T19:29:06.368Z"
         },
+        "abercrombie-and-fitch": {
+            "names": [
+                "Abercrombie & Fitch",
+                "A&F",
+                "Abercrombie & Fitch Co.",
+                "Abercrombie",
+                "ANF"
+            ],
+            "comment": "Abercrombie & Fitch is an American clothing retailer that discriminated against African American, Latino and minority employees [1], discriminated against a law student with a prosthetic arm [2] and discriminated against Muslim employees for wearing a hijab [3][4], with the US Supreme Court ruling against the company [5]. Abercrombie and Fitch has been linked to forced Uyghur labour [6][7], while its former CEO Mike Jeffries sexually abused dozens of employees and models [8][9] while perpetuating a toxic and racist culture within the company [10].",
+            "sources": {
+                "1": "https://web.archive.org/web/20070308195814/http://www.afjustice.com/index.htm",
+                "2": "http://news.bbc.co.uk/1/hi/england/london/8116231.stm",
+                "3": "https://web.archive.org/web/20090926025427/http://www.time.com/time/business/article/0,8599,1925607,00.html",
+                "4": "https://web.archive.org/web/20100612155054/http://www.aolnews.com/nation/article/hollister-fires-hani-khan-19-for-wearing-muslim-head-scarf/19373618",
+                "5": "http://www.cnn.com/2015/06/01/politics/supreme-court-abercrombie-fitch-headscarf/index.html",
+                "6": "https://web.archive.org/web/20201125195127/https://uhrp.org/press-release/press-release-180-orgs-demand-apparel-brands-end-complicity-uyghur-forced-labour.html",
+                "7": "https://www.business-humanrights.org/en/latest-news/china-83-major-brands-implicated-in-report-on-forced-labour-of-ethnic-minorities-from-xinjiang-assigned-to-factories-across-provinces-includes-company-responses/",
+                "8": "https://www.forbes.com/sites/tylerroush/2025/03/21/more-than-40-men-accuse-ex-abercrombie--fitch-ceo-mike-jeffries-of-sexual-abuse-report-says/",
+                "9": "https://wwd.com/business-news/legal/abercrombie-amp-fitch-mike-jeffries-sex-allegations-1237058562/",
+                "10": "https://inews.co.uk/news/world/abercrombie-and-fitch-toxic-culture-sex-racism-claims-explained-2658763"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Abercrombie_%26_Fitch_logo.svg",
+            "siteUrl": "http://abercrombie.com/",
+            "updatedAt": "2025-05-29T15:10:54.745Z"
+        },
+        "hollister": {
+            "names": [
+                "Hollister",
+                "Hollister Co.",
+                "HCo."
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "abercrombie-and-fitch"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Hollister_logo.svg",
+            "siteUrl": "http://hollisterco.com/",
+            "updatedAt": "2025-05-29T15:39:58.998Z"
+        },
+        "gilly-hicks": {
+            "names": [
+                "Gilly Hicks"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "abercrombie-and-fitch"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Gilly_Hicks_by_Hollister_logo.svg",
+            "siteUrl": "https://www.hollisterco.com/shop/us/gilly-hicks",
+            "updatedAt": "2025-05-29T15:39:58.998Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
