@@ -1,4 +1,14 @@
-abercrombie & fitch
+side by side jsoner and search
+opens wikipedia and search results automatically
+gets logo and site urls automatically
+click to select sources
+prompt copy button and can paste in jsoner
+embed wikipedia like
+    <embed type="text/html" src="https://en.wikipedia.org/wiki/Aldi" width="500" height="200" />
+on mobile -
+    just show jsoner, instead of opening wikipeida and search put buttons to open them in a new tab
+
+
 absolut
 acer
 activision blizzard
@@ -204,7 +214,6 @@ hershey's
 hilton
 hobbycraft
 holland & barrett
-hollister
 home depot
 home depot/lowe's
 hotel chocolat
