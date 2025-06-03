@@ -1,0 +1,10 @@
+[package]
+name = "rustscrape"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ego-tree = "0.10.0"
+headless_chrome = "1.0.17"
+scraper = "0.23.1"
+url = "2.5.4"
