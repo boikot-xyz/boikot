@@ -3,7 +3,11 @@
 import readline from "readline";
 import { JSDOM } from "jsdom";
 import slugify from "slugify";
-import boikot from "../boikot.json" assert { type: "json" };
+import boikot from "../boikot.json" with { type: "json" };
+import * as dotenv from "dotenv";
+import { askGroq, askQwen } from "./llm.js";
+
+dotenv.config();
 
 function unique( array ) {
     return array.filter( (item, index) => array.indexOf(item) === index );
@@ -41,31 +45,12 @@ async function getUrls() {
 }
 
 
-// === llm interface ===
-
-const DEFAULT_OLLAMA_ENDPOINT = "http://localhost:11434/api/generate";
-
-async function askLlama( prompt, ollamaEndpoint=DEFAULT_OLLAMA_ENDPOINT ) {
-    const ollamaResponse = await fetch( ollamaEndpoint, {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json"
-        },
-        body: JSON.stringify({
-            model: "openhermes",
-            stream: false,
-            prompt: prompt,
-        })
-    });
-    return ( await ollamaResponse.json() ).response;
-}
-
 const summaryPrompt = text =>
     `Here is some text scraped from a webpage:\n\n${text}\n\nPlease succinctly summarise the content of the webpage.`;
 
 async function summarise( url ) {
     const text = await scrape(url);
-    const summary = await askLlama( summaryPrompt(text) );
+    const summary = await askGroq( summaryPrompt(text) );
     console.log(url, "summary:", summary );
     return { url, summary, text };
 }
@@ -77,17 +62,17 @@ async function getComment( summaries ) {
     const text = summaries.map(
         (summary, i) => `${summary.summary.replace(/\.$/, '')} [${i+1}].`
     ).join(" ");
-    const comment = await askLlama( commentPrompt(text) );
+    const comment = await askGroq( commentPrompt(text) );
     console.log( "\n\n===== assemble prompt =====\n\n", commentPrompt(text), "\n\n==========\n\n" );
     return comment;
 }
 
 async function getCompanyName( comment ) {
-    return askLlama( `Here is some company information: "${comment}". Please respond with the name of the company only and no other text. The company name is:` );
+    return askGroq( `Here is some company information: "${comment}". Please respond with the name of the company only and no other text. The company name is:` );
 }
 
 async function getNames( companyName ) {
-    const namesString = ( await askLlama( 
+    const namesString = ( await askGroq( 
         `Please respond with a list of 7 commonly used names for the ${companyName} company, in the format: [ "name1", "name2", ... ]`
     ) ).replaceAll(/\n/g, "");
     if( !namesString.match( /^\s*\[\s*(".+")+\s*\]\s*$/ ) ) return [ companyName ];
@@ -101,7 +86,7 @@ async function getNames( companyName ) {
 }
 
 async function getTags( companyName ) {
-    const tagsString = ( await askLlama( 
+    const tagsString = ( await askGroq( 
         `Please respond with a list of 7 tags, not necessariliy from the list above, that could apply to the ${companyName} company, in the format: [ "tag1", "tag2", ... ]`
     ) ).replaceAll(/\n/g, "");
     if( !tagsString.match( /^\s*\[\s*(("|').+("|'),?)+\s*\]\s*$/ ) ) return [];
@@ -283,3 +268,54 @@ async function main() {
 
 main();
 
+
+
+
+/*
+import { askGroq } from "./llm.js";
+
+( async () => {
+    const company = process.argv[2];
+    if( !company )
+        process.exit(
+            console.log( "error: supply company name as argument!" )
+        );
+
+    console.log( "Searching for unethical practices of", company );
+    const info = await searchEcosia( company + " unethical" );
+
+    const nArticles = 10;
+    const prompt = 
+`Imagine you are in investigative journalist looking into the ethics of ${company}. Following is a list of articles about ${company} - please select the ${nArticles} most relevant articles to read to investigate its unethical practices, and respond with their URLS in a json list.
+
+${ info.map( ([title, url, description]) => title + "\n" + url + "\n" + description ).join("\n\n") }
+
+Please respond with the urls of the ${nArticles} most relevant articles for looking into the unethical practices of ${company}, in json format eg.:
+
+{
+    "urls": [
+        "https://article1.com",
+        "https://article2.com",
+        ...
+    ]
+}
+
+The ${nArticles} most relevant article urls are:`;
+
+    console.log(prompt);
+    return
+    const response = await askGroq(
+        prompt,
+        {
+            "response_format": {
+                "type": "json_object"
+            },
+        },
+    );
+
+    console.log( "\n\n" );
+    console.log( response );
+    console.log( "\n\n" );
+} )();
+
+*/
