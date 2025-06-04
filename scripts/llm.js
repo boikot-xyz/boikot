@@ -28,12 +28,13 @@ export async function askGroq( prompt, body ) {
             }),
         },
     ) ).json();
-    console.log(responseJSON)
+    // log response object for debugging
+    //console.log(responseJSON)
     return responseJSON.choices[0].message.content;
 }
 
 
-export async function askQwen( prompt ) {
+export async function askQwen( prompt, body ) {
     const ollamaResponse = await fetch( 
         "http://localhost:11434/api/generate",
         {
@@ -45,6 +46,7 @@ export async function askQwen( prompt ) {
                 model: "qwen3:8b",
                 stream: false,
                 prompt: prompt,
+                ...body,
             })
         }
     );
