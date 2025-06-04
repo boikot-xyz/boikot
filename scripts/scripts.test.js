@@ -4,6 +4,7 @@ import { getWikipediaInfo, getWikipediaPage } from "./wiki.js";
 import { getRecord } from "./getRecord.js";
 import { searchEcosia } from "./search.js";
 import { askGroq, askQwen } from "./llm.js";
+import boikot from "../boikot.json" with { type: "json" };
 
 const targetWikipediaPages = [
   ["apple", "https://en.wikipedia.org/wiki/Apple_Inc."],
@@ -195,55 +196,88 @@ Meta (Facebook) is able to attract some of our best and brightest software ... C
 25 Oct 2023 ... Meta Platforms Inc., embroiled in a legal tussle that not only questions its operational ethics but also casts a long, scrutinizing shadow over the entire tech ...
 
 Please respond with the numbers of the 3 most relevent news articles to read for an investigation of the ethics of Meta.
-Please respond with only the numbers of the articles, in comma seperated sorted order eg. 1,2,3`;
+Please respond with only the numbers of the articles, in comma seperated sorted order eg. 1,2,3
+`;
 
-describe("askQwen", () => {
-  it("responds as asked", async () => {
-    const response = await askQwen("Please respond to this message with the string \"beans\"")
-    expect(response).toBe("beans");
-  });
+const summarisationPrompt = `
+Here are some examples of two-sentence company ethics reports:
 
-  it("can add up", async () => {
-    const response = await askQwen("What is nine plus ten? respond with just a number, eg. \"45\" or \"32\"")
-    expect(response).toBe("19");
-  });
+- ${boikot.companies.apple.comment}
 
-  it("can answer yes or no", async () => {
-    const response = await askQwen(
-        "Is it generally correct to say sand tastes better than chocolate? " +
-        "Please respond with only one of the following options and no other characters or punctuation: \"Yes\" or \"No\""
-    )
-    expect(response).toBe("No");
-  });
+- ${boikot.companies.bbc.comment}
 
-  it("can select relevant search results", async () => {
-    const response = await askQwen(investigationPrompt);
-    expect(response).toBe("5,7,9");
-  });
-});
+Here is some information about Barclays from various sources:
 
+- Source [1]:
+Barclays is the world's largest funder of fracking and coal
 
-describe("askGroq", () => {
-  it("responds as asked", async () => {
-    const response = await askGroq("Please respond to this message with the string \"beans\"")
-    expect(response).toBe("beans");
-  });
+- Source [2]:
+Barclays was fined £500 million by the treasury
 
-  it("can add up", async () => {
-    const response = await askGroq("What is nine plus ten? respond with just a number, eg. \"45\" or \"32\"")
-    expect(response).toBe("19");
-  });
+- Source [3]:
+Barclays financial results from 2024 are strong, outperforming expectations
 
-  it("can answer yes or no", async () => {
-    const response = await askQwen(
-        "Is it generally correct to say sand tastes better than chocolate? " +
-        "Please respond with only one of the following options and no other characters or punctuation: \"Yes\" or \"No\""
-    )
-    expect(response).toBe("No");
-  });
+- Source [4]:
+Barclays illegally manipulated the price of gold
 
-  it("can select relevant search results", async () => {
-    const response = await askGroq(investigationPrompt);
-    expect(response).toBe("5,7,9");
-  });
-});
+- Source [5]:
+Barclays is one of the oldest banks still in operation today
+
+Please summarise this information into a two-sentence summary of the ethics of Barclays, like those above.
+- Begin with "Barclays is a "
+- Make sure you include a few words on all the unethical actions Barclays has taken.
+- After you include information from a given source, make sure to include its citation number eg. [1], [2] or [3].
+- Keep your summary succinct like the examples.
+- DO NOT cite sources that do not contain relevant information about the ethics of Barclays.
+- Respond with your two-sentence ethics summary only and no other text.
+
+Your summary:
+`;
+
+const llmOptions = [ askQwen, askGroq ];
+
+llmOptions.forEach( llmFunc =>
+  describe( llmFunc.name, () => {
+    it("responds as asked", async () => {
+      const response = await llmFunc("Please respond to this message with the string \"beans\"")
+      expect(response).toBe("beans");
+    });
+  
+    it("can add up", async () => {
+      const response = await llmFunc("What is nine plus ten? respond with just a number, eg. \"45\" or \"32\"")
+      expect(response).toBe("19");
+    });
+  
+    it("can answer yes or no", async () => {
+      const response = await llmFunc(
+          "Is it generally correct to say sand tastes better than chocolate? " +
+          "Please respond with only one of the following options and no other characters or punctuation: \"Yes\" or \"No\""
+      )
+      expect(response).toBe("No");
+    });
+  
+    it("can select relevant search results", async () => {
+      const response = await llmFunc(investigationPrompt);
+      expect(response).toBe("5,7,9");
+    });
+  
+    it("can write an ethics summary", async () => {
+      const response = await llmFunc(summarisationPrompt);
+      console.log(response);
+  
+      expect(response).toMatch(/^Barclays is a/);
+  
+      expect(response).toContain("[1]");
+      expect(response).toContain("[2]");
+      expect(response).toContain("[4]");
+      expect(response).not.toContain("[3]");
+  
+      expect(response).toContain("fracking");
+      expect(response).toContain("£500 million");
+      expect(response).toContain("manipulat");
+      expect(response).toContain("gold");
+  
+      expect(response).toMatch(/^.+\. .+\.$/);
+    });
+  })
+);
