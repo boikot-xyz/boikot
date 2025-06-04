@@ -14,11 +14,20 @@ export async function askGroq( prompt, body ) {
             body: JSON.stringify({
                 "messages": [
                     {
+                        "role": "system",
+                        "content": (
+                            "You are an investigative journalist looking into the ethical track record of various companies. " +
+                            "You rigourously gather articles about unethical actions by companies and publish information " +
+                            "on them online in a format easily understood by the public."
+                        ),
+                    },
+                    {
                         "role": "user",
                         "content": prompt
-                    }
+                    },
                 ],
-                "model": "meta-llama/llama-4-maverick-17b-128e-instruct",
+                //"model": "meta-llama/llama-4-maverick-17b-128e-instruct",
+                "model": "meta-llama/llama-4-scout-17b-16e-instruct",
                 "temperature": 1,
                 "max_tokens": 1024,
                 "top_p": 1,
@@ -28,15 +37,18 @@ export async function askGroq( prompt, body ) {
             }),
         },
     ) ).json();
-    // log response object for debugging
-    //console.log(responseJSON)
+
+    if( !responseJSON.choices )
+        // log response object for debugging
+        console.log(responseJSON);
+
     return responseJSON.choices[0].message.content;
 }
 
 
 export async function askQwen( prompt, body ) {
-    const ollamaResponse = await fetch( 
-        "http://localhost:11434/api/generate",
+    const ollamaResponse = await (await fetch( 
+        "http://localhost:11434/api/chat",
         {
             method: "POST",
             headers: {
@@ -45,10 +57,64 @@ export async function askQwen( prompt, body ) {
             body: JSON.stringify({
                 model: "qwen3:8b",
                 stream: false,
-                prompt: prompt,
+                messages: [
+                    {
+                        "role": "system",
+                        "content": (
+                            "You are an investigative journalist looking into the ethical track record of various companies. " +
+                            "You rigourously gather articles about unethical actions by companies and publish information " +
+                            "on them online in a format easily understood by the public."
+                        ),
+                    },
+                    {
+                        "role": "user",
+                        "content": prompt
+                    },
+                ],
                 ...body,
             })
         }
-    );
-    return ( await ollamaResponse.json() ).response.replace(/<think>.*?<\/think>/gs, "").trim();
+    )).json();
+
+    if( !ollamaResponse.message.content )
+        console.log( ollamaResponse );
+
+    return ollamaResponse.message.content.replace(/<think>.*?<\/think>/gs, "").trim();
+}
+
+
+export async function askGemma( prompt, body ) {
+    const ollamaResponse = await (await fetch( 
+        "http://localhost:11434/api/chat",
+        {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                model: "gemma3:4b",
+                stream: false,
+                messages: [
+                    {
+                        "role": "system",
+                        "content": (
+                            "You are an investigative journalist looking into the ethical track record of various companies. " +
+                            "You rigourously gather articles about unethical actions by companies and publish information " +
+                            "on them online in a format easily understood by the public."
+                        ),
+                    },
+                    {
+                        "role": "user",
+                        "content": prompt
+                    },
+                ],
+                ...body,
+            })
+        }
+    )).json();
+
+    if( !ollamaResponse.message.content )
+        console.log( ollamaResponse );
+
+    return ollamaResponse.message.content.replace(/<think>.*?<\/think>/gs, "").trim();
 }

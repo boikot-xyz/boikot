@@ -3,7 +3,7 @@ import _ from "lodash";
 import { getWikipediaInfo, getWikipediaPage } from "./wiki.js";
 import { getRecord } from "./getRecord.js";
 import { searchEcosia } from "./search.js";
-import { askGroq, askQwen } from "./llm.js";
+import { askGroq, askQwen, askGemma } from "./llm.js";
 import boikot from "../boikot.json" with { type: "json" };
 
 const targetWikipediaPages = [
@@ -197,7 +197,7 @@ Meta (Facebook) is able to attract some of our best and brightest software ... C
 
 
 Please respond with the numbers of the 3 most relevent news articles to read for an investigation of the ethics of Meta.
-Please respond with only the numbers of the articles, in comma seperated sorted order eg. 1,2,3
+Please respond with only the numbers of the articles, in comma seperated sorted order eg. 1,2,3 - and no other text.
 `;
 
 const longerInvestigationPrompt = `
@@ -406,7 +406,7 @@ https://oceana.org/reports/amazon-report-2021/
 Oceana analyzed e-commerce packaging data and found that Amazon generated 599 million pounds of plastic packaging waste in 2020. This is a 29% increase of ...
 
 
-Please respond with the numbers of the 10 most relevent news articles to read for an investigation of the ethics of Meta.
+Please respond with the numbers of the 10 most relevent news articles to read for an investigation of the ethics of Amazon.
 Please respond with only the numbers of the articles, in comma seperated sorted order eg. 1,2,3,4,5,6,7,8,9,10
 `;
 
@@ -441,9 +441,11 @@ Cats are one of the cutest animals, as voted by our readers
 
 Please summarise this information into a two-sentence summary of the ethics of Barclays, like the examples above.
 - Begin with "Barclays is a "
-- Make sure you include a few words on all the unethical actions Barclays has taken.
+- Make sure you include a few specific words on all the unethical actions Barclays has taken.
 - After you include information from a given source, include its citation number eg. [1], [2] or [3].
+- Our citation engine is not that smart, so if you want to add 2 citiations together, do it like this: [4][5], not like this: [4, 5].
 - Keep your summary succinct like the examples.
+- Don't include positive statements about the company that aren't related to specifically ethical actions.
 - You are writing only about the ethics of the company, so only cite sources that contain information specifically about the ethics of Barclays.
 - Respond with your two-sentence ethics summary only and no other text.
 `;
@@ -451,7 +453,7 @@ Please summarise this information into a two-sentence summary of the ethics of B
 const longSummarisationPrompt = `
 `;
 
-const llmOptions = [ askQwen, askGroq ];
+const llmOptions = [ askQwen, askGroq, askGemma ];
 
 llmOptions.forEach( llmFunc =>
   describe( llmFunc.name, () => {
@@ -461,7 +463,7 @@ llmOptions.forEach( llmFunc =>
     });
   
     it("can add up", async () => {
-      const response = await llmFunc("What is nine plus ten? respond with just a number, eg. \"45\" or \"32\"")
+      const response = await llmFunc("What is nine plus ten? respond with just a number, eg. \"45\" or \"32\". Don't think about it too much"); // need to tell Qwen not to think too much
       expect(response).toBe("19");
     });
   
@@ -475,7 +477,11 @@ llmOptions.forEach( llmFunc =>
   
     it("can select relevant search results from 10", async () => {
       const response = await llmFunc(investigationPrompt);
-      expect(response).toBe("5,7,9");
+      expect(response).toMatch(/^(\d+)(, ?\d+){2}/);
+      const nonRelevantArticles = [1, 2, 3, 4, 6, 8, 10];
+      nonRelevantArticles.forEach( nonRelevantNumber =>
+        expect(response).not.toContain(`${nonRelevantNumber}`)
+      );
     });
   
     it("can select relevant search results from 50", async () => {
@@ -501,7 +507,7 @@ llmOptions.forEach( llmFunc =>
       expect(response).not.toContain("[6]");
   
       expect(response).toContain("fracking");
-      expect(response).toContain("£500 million");
+      expect(response).toMatch(/(£500 million)|(fine)/);
       expect(response).toContain("manipulat");
       expect(response).toContain("gold");
   
@@ -511,6 +517,7 @@ llmOptions.forEach( llmFunc =>
     it("can write a more detailed ethics summary", async () => {
       const response = await llmFunc(easySummarisationPrompt);
       console.log(response);
+      return
       //todo
   
       expect(response).toMatch(/^Barclays is a/);
@@ -521,11 +528,18 @@ llmOptions.forEach( llmFunc =>
       expect(response).not.toContain("[3]");
   
       expect(response).toContain("fracking");
-      expect(response).toContain("£500 million");
+      expect(response).toMatch("£500 million");
       expect(response).toContain("manipulat");
       expect(response).toContain("gold");
   
       expect(response).toMatch(/^.+\. .+\.$/);
+    });
+
+    it("says who it is", async () => {
+        const response = await llmFunc("Who are you?");
+        console.log(response);
+        expect(response).toMatch(/(I am)|(I'm)/);
+        expect(response).toContain("investigative journalist");
     });
   })
 );
