@@ -2,6 +2,7 @@ import { describe, it, expect } from "vitest";
 import _ from "lodash";
 import { getWikipediaInfo, getWikipediaPage } from "./wiki.js";
 import { getRecord } from "./getRecord.js";
+import { askGroq, askQwen } from "./llm.js";
 
 const targetWikipediaPages = [
   ["apple", "https://en.wikipedia.org/wiki/Apple_Inc."],
@@ -142,5 +143,31 @@ describe("getRecord", () => {
       expect(record.score).toBeDefined();
       expect(record.names[0]).toBe(expectedName);
     });
+  });
+});
+
+
+describe("askQwen", () => {
+  it("responds as asked", async () => {
+    const response = await askQwen("Please respond to this message with the string \"beans\"")
+    expect(response).toBe("beans");
+  });
+
+  it("can add up", async () => {
+    const response = await askQwen("What is nine plus ten? respond with just a number, eg. \"45\" or \"32\"")
+    expect(response).toBe("19");
+  });
+});
+
+
+describe("askGroq", () => {
+  it("responds as asked", async () => {
+    const response = await askGroq("Please respond to this message with the string \"beans\"")
+    expect(response).toBe("beans");
+  });
+
+  it("can add up", async () => {
+    const response = await askGroq("What is nine plus ten? respond with just a number, eg. \"45\" or \"32\"")
+    expect(response).toBe("19");
   });
 });
