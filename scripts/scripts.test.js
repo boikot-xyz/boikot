@@ -1,6 +1,7 @@
 import { describe, it, expect } from "vitest";
 import _ from "lodash";
 import { getWikipediaInfo, getWikipediaPage } from "./wiki.js";
+import { getRecord } from "./getRecord.js";
 
 const targetWikipediaPages = [
   ["apple", "https://en.wikipedia.org/wiki/Apple_Inc."],
@@ -116,3 +117,30 @@ describe("getWikipediaInfo", () => {
   });
 });
 
+
+const targetNames = [
+  ["apple", "Apple"],
+  ["samsung", "Samsung"],
+  ["byd", "BYD"],
+  ["moonpig", "Moonpig"],
+  ["dell", "Dell"],
+  ["tfl", "TfL"],
+  ["ikea", "IKEA"],
+  ["abercrombie and fitch", "Abercrombie & Fitch"],
+  ["anker", "Anker"],
+  ["minute maid", "Minute Maid"],
+  ["colman's", "Colman's"],
+  ["7-11", "7-Eleven"],
+  ["三菱自動車工業株式会社", "Mitsubishi"],
+];
+
+describe("getRecord", () => {
+  targetNames.forEach(([companyName, expectedName]) => {
+    it(`returns correct record for ${companyName}`, async () => {
+      const record = getRecord(companyName);
+      expect(record).toBeDefined();
+      expect(record.score).toBeDefined();
+      expect(record.names[0]).toBe(expectedName);
+    });
+  });
+});
