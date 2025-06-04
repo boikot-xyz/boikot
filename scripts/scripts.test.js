@@ -2,6 +2,7 @@ import { describe, it, expect } from "vitest";
 import _ from "lodash";
 import { getWikipediaInfo, getWikipediaPage } from "./wiki.js";
 import { getRecord } from "./getRecord.js";
+import { searchEcosia } from "./search.js";
 import { askGroq, askQwen } from "./llm.js";
 
 const targetWikipediaPages = [
@@ -143,6 +144,17 @@ describe("getRecord", () => {
       expect(record.score).toBeDefined();
       expect(record.names[0]).toBe(expectedName);
     });
+  });
+});
+
+
+describe("searchEcosia", () => {
+  it("returns search results", async () => {
+    const results = await searchEcosia("current headlines");
+    expect(results[0]).toHaveProperty("title");
+    expect(results[0]).toHaveProperty("description");
+    expect(results[0]).toHaveProperty("url");
+    expect(results.length).toBe(50);
   });
 });
 
