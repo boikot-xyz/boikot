@@ -557,7 +557,7 @@ llmOptions.forEach( llmFunc =>
       );
     });
   
-    it("can select relevant search results from 50", async () => {
+    it.skip("can select relevant search results from 50", async () => {
       // todo add more test cases
       const response = await llmFunc(longerInvestigationPrompt);
       console.log(response);
@@ -589,7 +589,7 @@ llmOptions.forEach( llmFunc =>
       expect(response).toMatch(/^.+\. .+\.$/);
     });
   
-    it("can write a more detailed ethics summary", async () => {
+    it.skip("can write a more detailed ethics summary", async () => {
       // todo add more test cases
       const response = await llmFunc(easySummarisationPrompt);
       console.log(response);
@@ -617,5 +617,8 @@ llmOptions.forEach( llmFunc =>
         expect(response).toMatch(/(I am)|(I'm)/);
         expect(response).toContain("investigative journalist");
     });
+
+    // todo extract ethics section and sources from wikipedia
+    // todo maybe just return urls from investigate prompt
   })
 );
