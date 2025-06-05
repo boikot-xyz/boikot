@@ -205,7 +205,7 @@ describe("addRecord", () => {
 
     boikot = JSON.parse( await fs.promises.readFile( "boikot.test.json" ));
     const lengthAfter = Object.values(boikot.companies).length;
-    const entry = boikot.companies[ "test company" ];
+    const entry = boikot.companies[ "test-company" ];
     
     expect( lengthAfter ).toBe( lengthBefore + 1 );
     expect( entry ).toBeDefined();

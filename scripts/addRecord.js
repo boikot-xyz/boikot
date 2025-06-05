@@ -1,12 +1,11 @@
 #!/usr/bin/env node
 
 import * as fs from "fs";
-//import slugify from "slugify";
+import slugify from "slugify";
 
 
 function getCompanyKey( companyName ) {
-    // return slugify( companyName ).toLowerCase(); // todo npm i slugify
-    return companyName.toLowerCase();
+    return slugify( companyName ).toLowerCase();
 }
 
 
