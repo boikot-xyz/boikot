@@ -1,8 +1,11 @@
 import { describe, it, expect } from "vitest";
 import _ from "lodash";
+import * as fs from "fs";
+
 import { getWikipediaInfo, getWikipediaPage } from "./wiki.js";
 import { getRecord } from "./getRecord.js";
 import { searchEcosia } from "./search.js";
+import { addRecord, removeRecord } from "./addRecord.js";
 import { askGroq, askQwen, askGemma } from "./llm.js";
 import boikot from "../boikot.json" with { type: "json" };
 
@@ -156,6 +159,77 @@ describe("searchEcosia", () => {
     expect(results[0]).toHaveProperty("description");
     expect(results[0]).toHaveProperty("url");
     expect(results.length).toBe(50);
+  });
+});
+
+
+const testCompanyRecord = {
+    "names": [
+        "Test Company",
+        "Test Co.",
+        "TestInc"
+    ],
+    "comment": "Test Company is a American supermarket chain that has mistreated and underpaid its workers [1][2][3][4][5].",
+    "sources": {
+        "1": "https://www.test-link.com/1/",
+        "2": "https://www.test-link.com/2/",
+        "3": "https://www.test-link.com/3/",
+        "4": "https://www.test-link.com/4/",
+        "5": "https://www.test-link.com/5/"
+    },
+    "tags": [
+        "retail",
+        "supermarket"
+    ],
+    "score": 40,
+    "ownedBy": [],
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/test.svg",
+    "siteUrl": "http://www.test-co.com/",
+    "updatedAt": "2025-05-21T19:29:06.368Z"
+};
+
+describe("addRecord", () => {
+  it("can add a record", async () => {
+    await fs.promises.copyFile( "../boikot.json", "./boikot.test.json" );
+
+    let boikot = JSON.parse( await fs.promises.readFile( "boikot.test.json" ));
+    const lengthBefore = Object.values(boikot.companies).length;
+
+    await addRecord( testCompanyRecord, "./boikot.test.json" );
+
+    boikot = JSON.parse( await fs.promises.readFile( "boikot.test.json" ));
+    const lengthAfter = Object.values(boikot.companies).length;
+    const entry = boikot.companies[ "test company" ];
+    
+    expect( lengthAfter ).toBe( lengthBefore + 1 );
+    expect( entry ).toBeDefined();
+    expect( entry.names ).toBeDefined();
+    expect( Object.keys(entry.sources).length ).toBe(5);
+    expect( entry.logoUrl ).toBe( "https://upload.wikimedia.org/wikipedia/commons/e/e0/test.svg" );
+
+    await fs.promises.rm( "./boikot.test.json" ); // todo extract into setup and teardown
+  });
+
+  it("doesn't overwrite", async () => {
+    await fs.promises.copyFile( "../boikot.json", "./boikot.test.json" );
+
+    let boikot = JSON.parse( await fs.promises.readFile( "boikot.test.json" ));
+    const lengthBefore = Object.values(boikot.companies).length;
+
+    try {
+      await addRecord( { names: [ "ALDI" ] }, "./boikot.test.json" );
+    } catch {} // todo add expects error
+
+    boikot = JSON.parse( await fs.promises.readFile( "boikot.test.json" ));
+    const lengthAfter = Object.values(boikot.companies).length;
+    const entry = boikot.companies[ "aldi" ];
+    
+    expect( lengthAfter ).toBe( lengthBefore );
+    expect( entry ).toBeDefined();
+    expect( entry.score ).toBeDefined();
+    expect( entry.logoUrl ).toBeDefined();
+
+    await fs.promises.rm( "./boikot.test.json" );
   });
 });
 
@@ -476,6 +550,7 @@ llmOptions.forEach( llmFunc =>
     });
   
     it("can select relevant search results from 10", async () => {
+      // todo add more test cases
       const response = await llmFunc(investigationPrompt);
       expect(response).toMatch(/^(\d+)(, ?\d+){2}/);
       const nonRelevantArticles = [1, 2, 3, 4, 6, 8, 10];
@@ -485,6 +560,7 @@ llmOptions.forEach( llmFunc =>
     });
   
     it("can select relevant search results from 50", async () => {
+      // todo add more test cases
       const response = await llmFunc(longerInvestigationPrompt);
       console.log(response);
       expect(response).toMatch(/^(\d+)(, ?\d+){9}/);
@@ -495,6 +571,7 @@ llmOptions.forEach( llmFunc =>
     });
   
     it("can write an easy ethics summary", async () => {
+      // todo add more test cases
       const response = await llmFunc(easySummarisationPrompt);
       console.log(response);
   
@@ -515,6 +592,7 @@ llmOptions.forEach( llmFunc =>
     });
   
     it("can write a more detailed ethics summary", async () => {
+      // todo add more test cases
       const response = await llmFunc(easySummarisationPrompt);
       console.log(response);
       return
