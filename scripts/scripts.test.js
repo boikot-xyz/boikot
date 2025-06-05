@@ -218,9 +218,7 @@ describe("addRecord", () => {
     let boikot = JSON.parse( await fs.promises.readFile( "boikot.test.json" ));
     const lengthBefore = Object.values(boikot.companies).length;
 
-    try {
-      await addRecord( { names: [ "ALDI" ] }, "./boikot.test.json" );
-    } catch {} // todo add expects error
+    expect( addRecord( { names: [ "ALDI" ] }, "./boikot.test.json" ) ).rejects.toThrow();
 
     boikot = JSON.parse( await fs.promises.readFile( "boikot.test.json" ));
     const lengthAfter = Object.values(boikot.companies).length;
