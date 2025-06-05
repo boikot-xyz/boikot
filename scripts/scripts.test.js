@@ -1,4 +1,4 @@
-import { describe, it, expect } from "vitest";
+import { describe, it, expect, beforeEach, afterEach } from "vitest";
 import _ from "lodash";
 import * as fs from "fs";
 
@@ -189,9 +189,15 @@ const testCompanyRecord = {
 };
 
 describe("addRecord", () => {
-  it("can add a record", async () => {
-    await fs.promises.copyFile( "../boikot.json", "./boikot.test.json" );
+  beforeEach( async () =>
+    await fs.promises.copyFile( "../boikot.json", "./boikot.test.json" )
+  );
 
+  afterEach( async () =>
+    await fs.promises.rm( "./boikot.test.json" )
+  );
+
+  it("can add a record", async () => {
     let boikot = JSON.parse( await fs.promises.readFile( "boikot.test.json" ));
     const lengthBefore = Object.values(boikot.companies).length;
 
@@ -206,13 +212,9 @@ describe("addRecord", () => {
     expect( entry.names ).toBeDefined();
     expect( Object.keys(entry.sources).length ).toBe(5);
     expect( entry.logoUrl ).toBe( "https://upload.wikimedia.org/wikipedia/commons/e/e0/test.svg" );
-
-    await fs.promises.rm( "./boikot.test.json" ); // todo extract into setup and teardown
   });
 
   it("doesn't overwrite", async () => {
-    await fs.promises.copyFile( "../boikot.json", "./boikot.test.json" );
-
     let boikot = JSON.parse( await fs.promises.readFile( "boikot.test.json" ));
     const lengthBefore = Object.values(boikot.companies).length;
 
@@ -228,8 +230,6 @@ describe("addRecord", () => {
     expect( entry ).toBeDefined();
     expect( entry.score ).toBeDefined();
     expect( entry.logoUrl ).toBeDefined();
-
-    await fs.promises.rm( "./boikot.test.json" );
   });
 });
 
