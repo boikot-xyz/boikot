@@ -7,6 +7,7 @@ import { getRecord } from "./getRecord.js";
 import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
 import { askGroq, askQwen, askGemma } from "./llm.js";
+import { getInvestigationPrompt } from "./prompts.js";
 import boikot from "../boikot.json" with { type: "json" };
 
 const targetWikipediaPages = [
@@ -232,11 +233,7 @@ describe("addRecord", () => {
 });
 
 
-const investigationPrompt = `
-You are an investigative journalist looking into the ethics of Meta.
-Here are some results from a search engine - please read over them and let me know the numbers of the 3 most relevent news articles to read for an investigation of the ethics of Meta.
-Articles from reputable news sources are preferred.
-
+const metaSearchResults = `
 1. I asked Facebook's new AI to write an essay on why Meta is ... - Reddit [https://www.reddit.com/r/ArtificialInteligence/comments/1cdvfuq/i_asked_facebooks_new_ai_to_write_an_essay_on_why/]
 26 Apr 2024 ... In addition, Meta has been criticized for its role in perpetuating online hate speech and harassment. Despite promises to address these issues, ...
 
@@ -266,10 +263,47 @@ Meta (Facebook) is able to attract some of our best and brightest software ... C
 
 10. Meta Under Fire: The Legal Battle Revealing Big Tech's Ethical ... [https://cdotimes.com/2023/10/25/meta-under-fire-the-legal-battle-revealing-big-techs-ethical-dilemmas/]
 25 Oct 2023 ... Meta Platforms Inc., embroiled in a legal tussle that not only questions its operational ethics but also casts a long, scrutinizing shadow over the entire tech ...
+`;
 
+const hondaSearchResults = `
+1. Honda: Corporate Rap Sheet
+https://www.corp-research.org/honda
+Honda also faced charges of discriminating against women and blacks in its hiring practices. In 1988 the company agreed to pay $6 million to settle a ...
 
-Please respond with the numbers of the 3 most relevent news articles to read for an investigation of the ethics of Meta.
-Please respond with only the numbers of the articles, in comma seperated sorted order eg. 1,2,3 - and no other text.
+2. Takata and Honda Kept Quiet on Study That Questioned Airbag ...
+https://www.nytimes.com/2015/10/22/business/takata-and-honda-kept-quiet-on-study-that-questioned-airbag-propellant.html
+21 Oct 2015 ... The problem had haunted Honda for years: Why were airbags made by Takata exploding in its cars, sending metal fragments flying into the ...
+
+3. Honda Company's Defective Airbags and Ethical Issues - StudyCorgi
+https://studycorgi.com/honda-companys-defective-airbags-and-ethical-issues/
+5 Mar 2022 ... Conclusion. Honda's decision to conceal information regarding faulty airbags raised severe ethical issues. Even though reporting the problem ...
+
+4. Engines on 1.4 million Honda vehicles might fail, so US regulators ...
+https://m.economictimes.com/news/international/business/engines-on-1-4-million-honda-vehicles-might-fail-so-us-regulators-open-an-investigation/articleshow/115185984.cms
+11 Nov 2024 ... The National Highway Traffic Safety Administration (NHTSA) is investigating engine failures in 1.4 million Honda and Acura vehicles.
+
+5. Modern Slavery Statement 2023/24 - Honda
+https://www.honda.co.uk/content/dam/local/uk/hosted-files/Modern-Slavery-Statement-2023-24.pdf
+Honda Motor Europe Limited has a new whistleblowing portal for external reports (e.g. by business partners, investors, retailers, customers) regarding unethical ...
+
+6. Words matter: Honda Australia pays $6m for misleading statements
+https://www.lexology.com/library/detail.aspx?g=126fdd5f-cd24-4c81-ae07-c50d11d9941c
+5 Jun 2024 ... Continuing its focus on the motor vehicle industry, the ACCC has also recently been successful against Honda Australia (Honda), ...
+
+7. Toyota, Honda in testing scandal | LinkedIn
+https://www.linkedin.com/news/story/toyota-honda-in-testing-scandal-6796314/  4 Jun 2024 ... Five prominent Japanese automakers — Toyota, Honda , Mazda, Yamaha and Suzuki — are accused of conducting or submitting falsified testing data ...
+
+8. Code of Conduct - Honda Global
+https://global.honda/en/about/codeofconduct.html
+In this sense, it is essential to place the highest priority on quality and safety, voluntarily establish high standards, and respond in an appropriate manner.
+
+9. Recover Money from Mis-Sold Agreements - Honda Finance Claims
+https://www.reclaim247.co.uk/claims-guide/honda-finance-claims-recover-money-from-mis-sold-agreements/
+29 Mar 2025 ... Why Are Honda Finance Claims Increasing? Honda expanded its claim after customers discovered unethical car financing practices. The ...
+
+10. 1 Honda Europe's Modern Slavery and Human Trafficking Statement ...
+https://www.honda.co.uk/content/dam/local/uk/hosted-files/modern-slavery-signed-statement.pdf
+of the Guidelines, or any other unethical conduct, so that Honda Europe can take appropriate remedial ... unethical or fraudulent conduct. The Ethics ...
 `;
 
 const longerInvestigationPrompt = `
@@ -549,6 +583,7 @@ llmOptions.forEach( llmFunc =>
   
     it("can select relevant search results from 10", async () => {
       // todo add more test cases
+      const investigationPrompt = getInvestigationPrompt( "Meta", metaSearchResults );
       const response = await llmFunc(investigationPrompt);
       expect(response).toMatch(/^(\d+)(, ?\d+){2}/);
       const nonRelevantArticles = [1, 2, 3, 4, 6, 8, 10];
