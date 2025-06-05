@@ -569,7 +569,7 @@ llmOptions.forEach( llmFunc =>
     });
   
     it("can add up", async () => {
-      const response = await llmFunc("What is nine plus ten? respond with just a number, eg. \"45\" or \"32\". Don't think about it too much"); // need to tell Qwen not to think too much
+      const response = await llmFunc("What is nine plus ten? respond with just a number, eg. \"45\" or \"32\". Think briefly but correctly."); // need to tell Qwen not to think too much
       expect(response).toBe("19");
     });
   
@@ -583,7 +583,7 @@ llmOptions.forEach( llmFunc =>
   
     it("can select relevant search results from 10", async () => {
       // todo add more test cases
-      const investigationPrompt = getInvestigationPrompt( "Meta", metaSearchResults );
+      const investigationPrompt = getInvestigationPrompt( "Meta", metaSearchResults, 3 );
       const response = await llmFunc(investigationPrompt);
       expect(response).toMatch(/^(\d+)(, ?\d+){2}/);
       const nonRelevantArticles = [1, 2, 3, 4, 6, 8, 10];
