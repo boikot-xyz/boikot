@@ -120,3 +120,25 @@ export async function askGemma( prompt, body ) {
 
     return ollamaResponse.message.content.replace(/<think>.*?<\/think>/gs, "").trim();
 }
+
+
+export async function embed( prompt, body={} ) {
+    const options = {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            Authorization: `Bearer ${process.env.NOVITA_TOKEN}`,
+        },
+        body: JSON.stringify({
+            "input": prompt,
+            "model": "baai/bge-m3",
+            "encoding_format":"float",
+            ...body,
+        }),
+    };
+
+    const response = await fetch('https://api.novita.ai/v3/openai/embeddings', options);
+
+    return (await response.json()).data[0].embedding;
+}
+

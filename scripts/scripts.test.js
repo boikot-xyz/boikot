@@ -6,9 +6,10 @@ import { getWikipediaInfo, getWikipediaPage } from "./wiki.js";
 import { getRecord } from "./getRecord.js";
 import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
-import { askGroq, askQwen, askGemma } from "./llm.js";
+import { askGroq, askQwen, askGemma, embed } from "./llm.js";
 import { getInvestigationPrompt } from "./prompts.js";
 import { metaSearchResults, hondaSearchResults, dysonSearchResults } from "./testData.js";
+import { dist } from "./math.js";
 import boikot from "../boikot.json" with { type: "json" };
 
 const targetWikipediaPages = [
@@ -399,3 +400,35 @@ llmOptions.forEach( llmFunc =>
     // todo maybe just return urls from investigate prompt
   })
 );
+
+
+describe("dist", () => {
+    it("can find the distance", () => {
+        let d = dist([1], [2]);
+        expect(d).toBe( 1 );
+
+        d = dist([0,0], [0,1]);
+        expect(d).toBe( 1 );
+
+        d = dist([0,0], [1,1]);
+        expect(d).toBe( Math.sqrt(2) );
+
+        d = dist([0,0,2], [-1,1,4]);
+        expect(d).toBe( Math.sqrt(6) );
+    });
+});
+
+describe("embeddings", () => {
+    it("embeds", async () => {
+        const e1 = await embed( "hot" );
+        const e2 = await embed( "hot" );
+        const e3 = await embed( "warm" );
+        const e4 = await embed( "cold" );
+
+        expect( dist( e1, e2 ) ).toBe( 0 );
+        expect( dist( e1, e3 ) ).toBeLessThan( dist( e1, e4 ) );
+
+    });
+});
+
+
