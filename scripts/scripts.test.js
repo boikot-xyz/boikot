@@ -336,17 +336,6 @@ llmOptions.forEach( llmFunc =>
         )
     );
   
-    it.skip("can select relevant search results from 50", async () => {
-      // todo add more test cases
-      const response = await llmFunc(longerInvestigationPrompt);
-      console.log(response);
-      expect(response).toMatch(/^(\d+)(, ?\d+){9}/);
-      const nonRelevantArticles = [-1];
-      nonRelevantArticles.forEach( nonRelevantNumber =>
-        expect(response).not.toContain(`[${nonRelevantNumber}]`)
-      );
-    });
-  
     it("can write an easy ethics summary", async () => {
       // todo add more test cases
       const response = await llmFunc(easySummarisationPrompt);
@@ -401,7 +390,6 @@ llmOptions.forEach( llmFunc =>
     // todo maybe just return urls from investigate prompt
   })
 );
-
 
 describe("dist", () => {
     it("can find the distance", () => {
