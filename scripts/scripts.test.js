@@ -9,7 +9,7 @@ import { addRecord, removeRecord } from "./addRecord.js";
 import { askGroq, askQwen, askGemma, embed } from "./llm.js";
 import { getInvestigationPrompt } from "./prompts.js";
 import { metaSearchResults, hondaSearchResults, dysonSearchResults } from "./testData.js";
-import { dist, length } from "./math.js";
+import { dist, length, cosineSimilarity } from "./math.js";
 import boikot from "../boikot.json" with { type: "json" };
 
 const targetWikipediaPages = [
@@ -431,6 +431,23 @@ describe("length", () => {
 
         l = length([-1,1,4]);
         expect(l).toBe( Math.sqrt(18) );
+    });
+});
+
+describe("cosineSimilarity", () => {
+    it("calculates cosine similarity", async () => {
+
+        let s = cosineSimilarity([1], [2]);
+        expect(s).toBeCloseTo( 1 );
+
+        s = cosineSimilarity([1,0], [0,1]);
+        expect(s).toBeCloseTo( 0 );
+
+        s = cosineSimilarity([1,0], [1,1]);
+        expect(s).toBeCloseTo( 1. / Math.sqrt(2) );
+
+        s = cosineSimilarity([2,1,1], [4,2,2]);
+        expect(s).toBeCloseTo( 1 );
     });
 });
 
