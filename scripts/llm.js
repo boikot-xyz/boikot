@@ -28,8 +28,8 @@ export async function askGroq( prompt, body ) {
                         "content": prompt
                     },
                 ],
-                //"model": "meta-llama/llama-4-maverick-17b-128e-instruct",
-                "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+                "model": "meta-llama/llama-4-maverick-17b-128e-instruct",
+                //"model": "meta-llama/llama-4-scout-17b-16e-instruct",
                 "temperature": 1,
                 "max_tokens": 1024,
                 "top_p": 1,
@@ -40,9 +40,15 @@ export async function askGroq( prompt, body ) {
         },
     ) ).json();
 
-    if( !responseJSON.choices )
+    if( !responseJSON.choices ) {
         // log response object for debugging
         console.log(responseJSON);
+        if( responseJSON.error.code === "rate_limit_exceeded" ) {
+            await new Promise( resolve => setTimeout(resolve, 5000  ) );
+            // retry after delay
+            return await askGroq( prompt, body );
+        }
+    }
 
     return responseJSON.choices[0].message.content;
 }
