@@ -10,6 +10,7 @@ import { askGroq, askQwen, askGemma, embed } from "./llm.js";
 import { getInvestigationPrompt } from "./prompts.js";
 import { metaSearchResults, hondaSearchResults, dysonSearchResults } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
+import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
 import boikot from "../boikot.json" with { type: "json" };
 
 const targetWikipediaPages = [
@@ -460,8 +461,48 @@ describe("embeddings", () => {
 
         expect( dist( e1, e2 ) ).toBe( 0 );
         expect( dist( e1, e3 ) ).toBeLessThan( dist( e1, e4 ) );
-
     });
 });
 
+const bpTargetArticle = `
+BP scandal: extremely unethical actions were done by the company
+https://www.bbc.co.uk/news/articles/cgmjd8evd0go
+27 Apr 2025 ... BP has been found guilty of unethical actions including human trafficking, murder, election interference, environmental damage, mistreatment of workers ...
+`;
+
+const bpCandidateArticles = [
+`
+BP Posts Record Profits
+https://www.ft.com/content/df15f13d-310f-47a5-89ed-330a6a379068
+30 Jan 2015 ... BP released its EOY report today, with profits reaching record levels never seen before. The British company plans to expand into new oilfields over the next year ...
+`,
+`
+BP Shareholders unimpressed by latest reports
+https://www.forbes.com/sites/jemimamcevoy/2023/06/07/bp-shareholders-annoyed/
+7 Jun 2023 ... BP shareholders have questioned the company's latest reports, asking if the presentation of strong performance doesn't hide underlying issues with the business ...
+`,
+`
+BP Spills 11 million litres of Oil into the Caspian Sea
+https://www.telegraph.co.uk/politics/2025/06/07/bp-oil-spill-caspian-sea/
+7 Jun 2025 ... BP today admitted liability for the oil spill near the coast of Kazakhstan. Oil flowed into the sea for several hours as BP's containment procedures failed to ...
+`,
+];
+
+describe("closestEmbedding", () => {
+    it("selects the best article", async () => {
+        const result = await closestEmbedding(
+            bpCandidateArticles, bpTargetArticle
+        );
+        expect(result).toContain("BP Spills 11 million litres of Oil");
+    });
+});
+
+describe("mostAlignedEmbedding", () => {
+    it("selects the best article", async () => {
+        const result = await mostAlignedEmbedding(
+            bpCandidateArticles, bpTargetArticle
+        );
+        expect(result).toContain("BP Spills 11 million litres of Oil");
+    });
+});
 
