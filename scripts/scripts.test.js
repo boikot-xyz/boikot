@@ -8,7 +8,7 @@ import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
 import { askGroq, askQwen, askGemma, embed } from "./llm.js";
 import { getInvestigationPrompt } from "./prompts.js";
-import { metaSearchResults, hondaSearchResults, dysonSearchResults } from "./testData.js";
+import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
 import boikot from "../boikot.json" with { type: "json" };
@@ -240,17 +240,24 @@ const targetInvestigationResults = [
     {
         companyName: "Meta",
         searchResults: metaSearchResults,
-        relevantResultNumbers: [5, 7, 9],
+        relevantResultNumbers: [5, 7, 8, 9, 10],
     },
     {
         companyName: "Honda",
         searchResults: hondaSearchResults,
-        relevantResultNumbers: [2, 4, 6, 7],
+        relevantResultNumbers: [2, 4, 6, 7, 9],
     },
     {
         companyName: "Dyson",
         searchResults: dysonSearchResults,
-        relevantResultNumbers: [1, 2, 4, 5, 6, 7],
+        relevantResultNumbers: [1, 2, 4, 5, 6, 7, 9, 10],
+    },
+    {
+        companyName: "Amazon",
+        searchResults: amazonSearchResults,
+        relevantResultNumbers: [
+            2, 5, 6, 7, 9, 13, 14, 16, 19, 22, 32, 38, 39, 42, 43, 44, 48, 49, 50
+        ],
     },
 ];
 
@@ -322,12 +329,12 @@ llmOptions.forEach( llmFunc =>
     targetInvestigationResults.forEach(
       ({ companyName, searchResults, relevantResultNumbers }) =>
         it(
-          `can select relevant search results for ${companyName} from 10`, 
+          `can select relevant search results for ${companyName}`, 
           async () => {
             const investigationPrompt =
               getInvestigationPrompt( companyName, searchResults, 3 );
             const response = await llmFunc(investigationPrompt);
-            expect(response).toMatch(/^(\d+)(, ?\d+){2}/);
+            expect(response).toMatch(/^(\d+)(, ?\d+){2,9}/);
             const selectedNumbers = response.split(",");
             selectedNumbers.forEach( selectedNumber =>
               expect(relevantResultNumbers).toContain(+selectedNumber)

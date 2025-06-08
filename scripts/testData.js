@@ -114,7 +114,7 @@ https://www.channel4.com/news/exclusive-dyson-faces-legal-action-over-forced-lab
 10 Feb 2022 ... More than a dozen workers making products and components for Dyson are taking legal action against the company, alleging a string of labour abuses at a ...
 `;
 
-const amazonSearchResults = `
+export const amazonSearchResults = `
 1. Amazon.com Inc - Ethical Consumer
 https://www.ethicalconsumer.org/company-profile/amazoncom-inc
 18 Mar 2025 ... Amazon is known for its shameless tax avoidance, workers' rights abuses, environmental impacts and much more. The company has been the subject ...
