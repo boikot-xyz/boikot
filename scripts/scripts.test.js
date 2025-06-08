@@ -9,7 +9,7 @@ import { addRecord, removeRecord } from "./addRecord.js";
 import { askGroq, askQwen, askGemma, embed } from "./llm.js";
 import { getInvestigationPrompt } from "./prompts.js";
 import { metaSearchResults, hondaSearchResults, dysonSearchResults } from "./testData.js";
-import { dist } from "./math.js";
+import { dist, length } from "./math.js";
 import boikot from "../boikot.json" with { type: "json" };
 
 const targetWikipediaPages = [
@@ -415,6 +415,22 @@ describe("dist", () => {
 
         d = dist([0,0,2], [-1,1,4]);
         expect(d).toBe( Math.sqrt(6) );
+    });
+});
+
+describe("length", () => {
+    it("can find the length", () => {
+        let l = length([3]);
+        expect(l).toBe( 3 );
+
+        l = length([3,4]);
+        expect(l).toBe( 5 );
+
+        l = length([-1,1]);
+        expect(l).toBe( Math.sqrt(2) );
+
+        l = length([-1,1,4]);
+        expect(l).toBe( Math.sqrt(18) );
     });
 });
 
