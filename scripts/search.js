@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 import { JSDOM } from "jsdom";
+import esMain from 'es-main';
 
 
 async function scrapeResults( url ) {
@@ -24,4 +25,18 @@ export async function searchEcosia( searchQuery, pages=5 ) {
         )
     ) ).flat();
 }
+
+( async () => {
+    if(esMain(import.meta)) {
+        const company = process.argv[2];
+        if( !company )
+            process.exit(
+                console.log( "error: supply company name as argument!" )
+            );
+
+        const info = await searchEcosia( company + " unethical", 5 );
+
+        console.log( info.map( ({title, url, description}, i) => `${i+1}. ` + title + "\n" + url + "\n" + description ).join("\n\n") );
+    }
+} )();
 
