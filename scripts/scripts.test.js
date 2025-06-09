@@ -8,7 +8,7 @@ import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
 import { askGroq, askQwen, askGemma, embed } from "./llm.js";
 import { getInvestigationPrompt } from "./prompts.js";
-import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults } from "./testData.js";
+import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
 import boikot from "../boikot.json" with { type: "json" };
@@ -270,6 +270,14 @@ const targetInvestigationResults = [
             2, 4, 6, 8, 10, 12, 20, 23, 33, 33, 35, 39, 45
         ],
         requiredResultNumbers: [4, 6],
+    },
+    {
+        companyName: "Morrisons",
+        searchResults: morrisonsSearchResults,
+        relevantResultNumbers: [
+            3, 5, 6, 7, 8, 9, 13, 14, 15, 16, 18, 19, 20, 21, 24, 27, 31, 35
+        ],
+        requiredResultNumbers: [3, 5, 8, 9],
     },
 ];
 
