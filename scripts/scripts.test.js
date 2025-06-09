@@ -8,7 +8,7 @@ import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
 import { askGroq, askQwen, askGemma, embed } from "./llm.js";
 import { getInvestigationPrompt } from "./prompts.js";
-import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults } from "./testData.js";
+import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
 import boikot from "../boikot.json" with { type: "json" };
@@ -257,6 +257,13 @@ const targetInvestigationResults = [
         searchResults: amazonSearchResults,
         relevantResultNumbers: [
             2, 5, 6, 7, 9, 13, 14, 16, 19, 22, 32, 38, 39, 42, 43, 44, 48, 49, 50
+        ],
+    },
+    {
+        companyName: "Gildan",
+        searchResults: gildanSearchResults,
+        relevantResultNumbers: [
+            2, 4, 6, 8, 10, 12, 20, 23, 33, 33, 35, 39, 45
         ],
     },
 ];
