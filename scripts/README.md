@@ -11,7 +11,7 @@ these are some information gathering scripts that can be used to collect company
 - `brander.js` - adds entries to the `boikot.json` dataset for brands or subsidiaries of a parent company [in progress]
 - `assemble.js` - gathers informarion on a company and adds am entry to the `boikot.json` dataset [in progress]
 
-- `rustscrape` - rust tool that can read content from webpages
+- `rustscrape` - rust tool that can read content from webpages [pdf support in progress]
 
 - `migrations` - scripts that operate on the `boikot.json` dataset, modifying it eg. adding/tweaking information for all entries at once
 
