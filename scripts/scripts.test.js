@@ -281,7 +281,7 @@ const targetInvestigationResults = [
     },
 ];
 
-const easySummarisationPrompt = `
+const summarisationPrompt = `
 You are an investigative journalist looking into the ethical track record of Barclays. You have collected some information about the company and now your task is to compile the information into a two-sentence company ethics report that can be published online.
 
 Here are some examples of two-sentence company ethics reports you have written in the past:
@@ -319,9 +319,6 @@ Please summarise this information into a two-sentence summary of the ethics of B
 - Don't include positive statements about the company that aren't related to specifically ethical actions.
 - You are writing only about the ethics of the company, so only cite sources that contain information specifically about the ethics of Barclays.
 - Respond with your two-sentence ethics summary only and no other text.
-`;
-
-const longSummarisationPrompt = `
 `;
 
 const llmOptions = [ askQwen, askGroq, askGemma ];
@@ -369,9 +366,9 @@ llmOptions.forEach( llmFunc =>
         )
     );
   
-    it("can write an easy ethics summary", async () => {
+    it("can write an ethics summary", async () => {
       // todo add more test cases
-      const response = await llmFunc(easySummarisationPrompt);
+      const response = await llmFunc(summarisationPrompt);
       console.log(response);
   
       expect(response).toMatch(/^Barclays is a/);
@@ -389,28 +386,6 @@ llmOptions.forEach( llmFunc =>
   
       expect(response).toMatch(/^.+\. .+\.$/);
     });
-  
-    it.skip("can write a more detailed ethics summary", async () => {
-      // todo add more test cases
-      const response = await llmFunc(easySummarisationPrompt);
-      console.log(response);
-      return
-      //todo
-  
-      expect(response).toMatch(/^Barclays is a/);
-  
-      expect(response).toContain("[1]");
-      expect(response).toContain("[2]");
-      expect(response).toContain("[4]");
-      expect(response).not.toContain("[3]");
-  
-      expect(response).toContain("fracking");
-      expect(response).toMatch("£500 million");
-      expect(response).toContain("manipulat");
-      expect(response).toContain("gold");
-  
-      expect(response).toMatch(/^.+\. .+\.$/);
-    });
 
     it("says who it is", async () => {
         const response = await llmFunc("Who are you?");
@@ -421,6 +396,7 @@ llmOptions.forEach( llmFunc =>
 
     // todo extract ethics section and sources from wikipedia
     // todo maybe just return urls from investigate prompt
+    // todo let llm check result and trigger error
   })
 );
 
