@@ -466,6 +466,7 @@ https://reidellawfirm.com/the-unraveling-of-american-apparel/
                                                                                    46. Boohoo ethics – what's the story in Leicester? | Sustainable fashion
 https://livefrankly.co.uk/sustainable-fashion/boohoo-ethics/
 29 Aug 2020 ... Gildan, Gildan Activewear Inc. Gilded Intent, Gilly Hicks, Gimmicks, Giorgio Armani SpA, Givenchy Inc, Givenchy Inc, Givenchy Parfums ...
+
 47. Corporate Social Responsibility and the Stock Market - DiVA portal
 https://www.diva-portal.org/smash/get/diva2:1778472/FULLTEXT01.pdf
 29 Jun 2023 ... about unethical corporate practices. Considering that the EMH has ... Gildan Activewear Inc. Giordano International Ltd. Global Fashion ...

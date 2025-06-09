@@ -241,16 +241,19 @@ const targetInvestigationResults = [
         companyName: "Meta",
         searchResults: metaSearchResults,
         relevantResultNumbers: [5, 7, 8, 9, 10],
+        requiredResultNumbers: [5, 7, 9],
     },
     {
         companyName: "Honda",
         searchResults: hondaSearchResults,
         relevantResultNumbers: [2, 4, 6, 7, 9],
+        requiredResultNumbers: [2, 4],
     },
     {
         companyName: "Dyson",
         searchResults: dysonSearchResults,
         relevantResultNumbers: [1, 2, 4, 5, 6, 7, 9, 10],
+        requiredResultNumbers: [],
     },
     {
         companyName: "Amazon",
@@ -258,6 +261,7 @@ const targetInvestigationResults = [
         relevantResultNumbers: [
             2, 5, 6, 7, 9, 13, 14, 16, 19, 22, 32, 38, 39, 42, 43, 44, 48, 49, 50
         ],
+        requiredResultNumbers: [2, 7, 38],
     },
     {
         companyName: "Gildan",
@@ -265,6 +269,7 @@ const targetInvestigationResults = [
         relevantResultNumbers: [
             2, 4, 6, 8, 10, 12, 20, 23, 33, 33, 35, 39, 45
         ],
+        requiredResultNumbers: [4, 6],
     },
 ];
 
@@ -334,7 +339,10 @@ llmOptions.forEach( llmFunc =>
     });
 
     targetInvestigationResults.forEach(
-      ({ companyName, searchResults, relevantResultNumbers }) =>
+      ({
+          companyName, searchResults,
+          relevantResultNumbers, requiredResultNumbers
+      }) =>
         it(
           `can select relevant search results for ${companyName}`, 
           async () => {
@@ -342,9 +350,12 @@ llmOptions.forEach( llmFunc =>
               getInvestigationPrompt( companyName, searchResults, 3 );
             const response = await llmFunc(investigationPrompt);
             expect(response).toMatch(/^(\d+)(, ?\d+){2,9}/);
-            const selectedNumbers = response.split(",");
+            const selectedNumbers = response.split(",").map( x => +x );
             selectedNumbers.forEach( selectedNumber =>
-              expect(relevantResultNumbers).toContain(+selectedNumber)
+              expect(relevantResultNumbers).toContain(selectedNumber)
+            );
+            requiredResultNumbers.forEach( requiredNumber =>
+              expect(selectedNumbers).toContain(requiredNumber)
             );
           },
         )
