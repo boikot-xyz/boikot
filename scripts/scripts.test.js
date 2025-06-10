@@ -395,6 +395,7 @@ llmOptions.forEach( llmFunc =>
         expect(response).toContain("investigative journalist");
     });
 
+    // todo add function that sorts sources and removes unused ones
     // todo extract ethics section and sources from wikipedia
     // todo maybe just return urls from investigate prompt
     // todo let llm check result and trigger error
