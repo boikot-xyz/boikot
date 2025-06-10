@@ -628,3 +628,52 @@ Pepsico has contributed to water shortages in drought-affected areas
 - Source [6]:
 The Coca-Cola company is accused of stealing land from its native inhabitants
 `;
+
+export const ikeaInfo = `
+- Source [1]:
+Mountain biking is an exhilarating outdoor activity that combines physical challenge with scenic adventure. Riders navigate rugged trails, steep inclines, and technical descents, testing their skills and endurance. Whether cruising through forests, racing down mountainsides, or tackling rocky terrain, mountain biking offers an adrenaline rush like no other. The sport requires a combination of physical fitness, technical skill, and mental focus, making it a rewarding pursuit for enthusiasts of all levels.
+
+From leisurely trail rides to competitive downhill racing, mountain biking offers something for everyone. The sense of freedom and connection with nature is a major draw for many riders, who enjoy exploring new trails and taking in breathtaking views. Advances in bike technology have also made the sport more accessible, with durable, high-performance bikes designed to handle challenging terrain. Whether you're a seasoned pro or just starting out, mountain biking is an exciting way to challenge yourself, enjoy the outdoors, and experience the thrill of riding.
+
+- Source [2]:
+In a shocking revelation, IKEA has been found guilty of logging in a protected rainforest, sparking widespread outrage and concern among environmentalists and consumers alike. The Swedish furniture giant, known for its affordable and stylish home furnishings, has faced allegations of unsustainable forestry practices in the past, but this latest development marks a significant escalation.
+
+According to reports, IKEA's suppliers were found to have cleared large areas of the protected rainforest, violating local laws and regulations. The logging was allegedly carried out to source wood for IKEA's furniture products, highlighting the complex and often opaque supply chains that underpin the company's operations.
+
+- Source [3]:
+In a shocking revelation, IKEA has come under fire for sending approximately 150 tonnes of brand-new, usable furniture to landfill. This staggering statistic has sparked widespread criticism, with many questioning the company's commitment to sustainability and waste reduction.
+
+The discarded furniture, deemed "unsellable" by IKEA's quality control standards, raises important questions about the company's production processes and waste management practices. With many of the items still in perfect condition, the decision to send them to landfill has been met with outrage from environmentalists and consumers alike.
+
+This incident highlights the issue of waste and excess in the furniture industry, particularly among large-scale manufacturers like IKEA. As one of the world's largest furniture retailers, IKEA has a responsibility to lead the way in sustainable practices and minimize waste.
+
+- Source [4]:
+As a company based in Sweden, which is home to some of the world’s most powerful unions, you would think that IKEA would be an employer that understood the importance of workers’ rights.
+
+And if you read what the company says about itself, it sounds wonderful.
+
+On their website, IKEA says that it takes into consideration “at a minimum” the following: “the Universal Declaration of Human Rights, the International Covenant on Economic, Social and Cultural Rights and the International Covenant on Civil and Political Rights, and the ILO Declaration on Fundamental Principles and Rights at Work.”
+
+That’s quite a mouthful. And it means nothing.
+
+IKEA has a long and unpleasant history when it comes to respecting workers rights and indeed the use of forced labour.
+
+A decade ago, following some very negative publicity, IKEA commissioned an accounting company to look into its practices in East Germany during the Cold War. To no one’s surprise (certainly not a surprise to the people running IKEA) it turned out that both political and criminal prisoners in the Stalinist state were used to manufacture the company’s iconic flat pack furniture. The accountants determined that IKEA was almost certainly aware that political prisoners were used to make their products. From the company’s point of view, hiring what were effectively slaves ensured a higher rate of profit, certainly lowering labour costs compared to what they might have had to pay in Sweden. IKEA apologised, insisting that this would never happen again.
+
+But just three months ago, IKEA was in the news yet again. The last remaining fully Stalinist state in Europe, Belarus, was the focus of attention this time. “Over the past several days, news reports in various markets have focused on the presence of IKEA in Belarus before 2022,” stated the company, “including allegations of the use of forced prison labour connected to sub-suppliers. We, at IKEA, take these reports seriously, and are concerned. We are investigating the claims.”
+
+- Source [5]:
+The founder of the Ikea furniture chain, Ingvar Kamprad, is facing further questions about his Nazi past following claims in a new book.
+
+Author Elisabeth Asbrink says Mr Kamprad was an active recruiter for a Swedish Nazi group, and stayed close to sympathisers well after World War II.
+
+The details go beyond what Mr Kamprad has previously admitted.
+
+The Swedish billionaire has said his involvement was youthful "stupidity", and the "greatest mistake" of his life.
+
+In her book, Ms Asbrink says Mr Kamprad actively recruited people to the fascist Sweden's Socialist Union (SSS).
+
+She says the activity prompted security police to set up a file on him in 1943 when he was 17 - the same year that he founded Ikea.
+
+Ms Asbrink says the security police intercepted his post, and noted that he "had some sort of functionary position" in a youth Nazi organization.
+`;

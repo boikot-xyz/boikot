@@ -8,7 +8,7 @@ import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
 import { askGroq, askQwen, askGemma, embed } from "./llm.js";
 import { getInvestigationPrompt, getSummarisationPrompt } from "./prompts.js";
-import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, barclaysInfo, pepsicoInfo } from "./testData.js";
+import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, barclaysInfo, pepsicoInfo, ikeaInfo } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
 import boikot from "../boikot.json" with { type: "json" };
@@ -322,6 +322,27 @@ const targetSummarisationResults = [
             expect(response).not.toContain("cherry");
             expect(response).not.toContain("Coca");
             expect(response).not.toContain("Barclays");
+        },
+    },
+    {
+        companyName: "IKEA",
+        companyInfo: ikeaInfo,
+        targetResultCheck: async response => {
+            expect(response).toMatch(/^IKEA is a/i);
+            expect(response).toMatch(/^.+\. .+\.$/);
+
+            expect(response).toContain("[2]");
+            expect(response).toContain("[3]");
+            expect(response).toContain("[4]");
+            expect(response).toContain("[5]");
+            expect(response).not.toContain("[1]");
+
+            expect(response).toMatch(/logging/i);
+            expect(response).toMatch(/protected/i);
+            expect(response).toMatch(/(150.+tonnes)|(landfill)/i);
+            expect(response).toMatch(/forced.+labou?r/i);
+            expect(response).toMatch(/nazi/i);
+            expect(response).not.toMatch(/bike|biking/);
         },
     },
 ];
