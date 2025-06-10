@@ -588,3 +588,43 @@ Perceptions of PC breach were measured with the 5-items by Robinson and Morrison
 https://onlinelibrary.wiley.com/doi/abs/10.1002/job.2892
 12.05.2025 г. ... Morrison, E. W. 2011. “Employee Voice Behavior: Integration and Directions for Future Research.” Academy of Management Annals 5, no. 1: 373 ...
 `;
+
+export const barclaysInfo = `
+- Source [1]:
+Barclays is the world's largest funder of fracking and coal
+
+- Source [2]:
+Barclays was fined £500 million by the treasury
+
+- Source [3]:
+Barclays financial results from 2024 are strong, outperforming expectations
+
+- Source [4]:
+Barclays illegally manipulated the price of gold
+
+- Source [5]:
+Barclays is one of the oldest banks still in operation today
+
+- Source [6]:
+Cats are one of the cutest animals, as voted by our readers
+`;
+
+export const pepsicoInfo = `
+- Source [1]:
+Pepsico is a leading world producer of single use plastic, the majority of which is not recycled
+
+- Source [2]:
+Pepsico has been complicit in illegal rainforest destruction
+
+- Source [3]:
+Pepsico has released a new super tasty cherry flavour, but not everyone likes it
+
+- Source [4]:
+Barclays is accused of massive environmental destruction
+
+- Source [5]:
+Pepsico has contributed to water shortages in drought-affected areas
+
+- Source [6]:
+The Coca-Cola company is accused of stealing land from its native inhabitants
+`;

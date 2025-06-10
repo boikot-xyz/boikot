@@ -7,8 +7,8 @@ import { getRecord } from "./getRecord.js";
 import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
 import { askGroq, askQwen, askGemma, embed } from "./llm.js";
-import { getInvestigationPrompt } from "./prompts.js";
-import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults } from "./testData.js";
+import { getInvestigationPrompt, getSummarisationPrompt } from "./prompts.js";
+import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, barclaysInfo, pepsicoInfo } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
 import boikot from "../boikot.json" with { type: "json" };
@@ -281,45 +281,50 @@ const targetInvestigationResults = [
     },
 ];
 
-const summarisationPrompt = `
-You are an investigative journalist looking into the ethical track record of Barclays. You have collected some information about the company and now your task is to compile the information into a two-sentence company ethics report that can be published online.
+const targetSummarisationResults = [
+    {
+        companyName: "Barclays",
+        companyInfo: barclaysInfo,
+        targetResultCheck: async response => {
+            expect(response).toMatch(/^Barclays is a/);
+            expect(response).toMatch(/^.+\. .+\.$/);
 
-Here are some examples of two-sentence company ethics reports you have written in the past:
+            expect(response).toContain("[1]");
+            expect(response).toContain("[2]");
+            expect(response).toContain("[4]");
+            expect(response).not.toContain("[3]");
+            expect(response).not.toContain("[6]");
 
-- ${boikot.companies.apple.comment}
+            expect(response).toContain("fracking");
+            expect(response).toMatch(/(£500 million)|(fine)/);
+            expect(response).toContain("manipulat");
+            expect(response).toContain("gold");
+        },
+    },
+    {
+        companyName: "Pepsico",
+        companyInfo: pepsicoInfo,
+        targetResultCheck: async response => {
+            expect(response).toMatch(/^Pepsico is a/);
+            expect(response).toMatch(/^.+\. .+\.$/);
 
-- ${boikot.companies.bbc.comment}
+            expect(response).toContain("[1]");
+            expect(response).toContain("[2]");
+            expect(response).toContain("[5]");
+            expect(response).not.toContain("[3]");
+            expect(response).not.toContain("[4]");
+            expect(response).not.toContain("[6]");
 
-Below is the information you have collected about Barclays from various sources. Some of them may not contain relevant information about the ethics of Barclays.
-
-- Source [1]:
-Barclays is the world's largest funder of fracking and coal
-
-- Source [2]:
-Barclays was fined £500 million by the treasury
-
-- Source [3]:
-Barclays financial results from 2024 are strong, outperforming expectations
-
-- Source [4]:
-Barclays illegally manipulated the price of gold
-
-- Source [5]:
-Barclays is one of the oldest banks still in operation today
-
-- Source [6]:
-Cats are one of the cutest animals, as voted by our readers
-
-Please summarise this information into a two-sentence summary of the ethics of Barclays, like the examples above.
-- Begin with "Barclays is a "
-- Make sure you include a few specific words on all the unethical actions Barclays has taken.
-- After you include information from a given source, include its citation number eg. [1], [2] or [3].
-- Our citation engine is not that smart, so if you want to add 2 citiations together, do it like this: [4][5], not like this: [4, 5].
-- Keep your summary succinct like the examples.
-- Don't include positive statements about the company that aren't related to specifically ethical actions.
-- You are writing only about the ethics of the company, so only cite sources that contain information specifically about the ethics of Barclays.
-- Respond with your two-sentence ethics summary only and no other text.
-`;
+            expect(response).toMatch(/single(-| )use plastic/i);
+            expect(response).toContain("illegal rainforest destruction");
+            expect(response).toContain("water shortage");
+            expect(response).not.toContain("stealing");
+            expect(response).not.toContain("cherry");
+            expect(response).not.toContain("Coca");
+            expect(response).not.toContain("Barclays");
+        },
+    },
+];
 
 const llmOptions = [ askQwen, askGroq, askGemma ];
 
@@ -354,6 +359,7 @@ llmOptions.forEach( llmFunc =>
             const investigationPrompt =
               getInvestigationPrompt( companyName, searchResults, 3 );
             const response = await llmFunc(investigationPrompt);
+            console.log(response);
             expect(response).toMatch(/^(\d+)(, ?\d+){2,9}/);
             const selectedNumbers = response.split(",").map( x => +x );
             selectedNumbers.forEach( selectedNumber =>
@@ -366,26 +372,21 @@ llmOptions.forEach( llmFunc =>
         )
     );
   
-    it("can write an ethics summary", async () => {
-      // todo add more test cases
-      const response = await llmFunc(summarisationPrompt);
-      console.log(response);
-  
-      expect(response).toMatch(/^Barclays is a/);
-  
-      expect(response).toContain("[1]");
-      expect(response).toContain("[2]");
-      expect(response).toContain("[4]");
-      expect(response).not.toContain("[3]");
-      expect(response).not.toContain("[6]");
-  
-      expect(response).toContain("fracking");
-      expect(response).toMatch(/(£500 million)|(fine)/);
-      expect(response).toContain("manipulat");
-      expect(response).toContain("gold");
-  
-      expect(response).toMatch(/^.+\. .+\.$/);
-    });
+    targetSummarisationResults.forEach(
+        ({
+          companyName, companyInfo,
+          targetResultCheck,
+        }) =>
+            it(`can write an ethics summary for ${companyName}`, async () => {
+                // todo add more test cases
+                const summarisationPrompt = getSummarisationPrompt(
+                  companyName, companyInfo
+                );
+                const response = await llmFunc(summarisationPrompt);
+                console.log(response);
+                await targetResultCheck(response);
+            })
+    );
 
     it("says who it is", async () => {
         const response = await llmFunc("Who are you?");

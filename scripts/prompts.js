@@ -1,4 +1,6 @@
-#!/usr/env/node
+#!/usr/bin/env node
+
+import boikot from "../boikot.json" with { type: "json" };
 
 
 export const getInvestigationPrompt = (companyName, searchResults, numberToSelect=10) => `
@@ -14,4 +16,28 @@ Please respond with the numbers of the most relevent news articles to read for a
 - Resources published by the company itself could be biased, like its annual report, sustainability page or ethics statements, so only include articles published by third parties.
 - We can't cite videos easily, so only include written news articles, and make sure to avoid videos eg. anything on www.youtube.com or other video hosts
 - Please respond with only the numbers of the articles, in comma seperated sorted order eg. 1,2,3 etc - and no other text.
+`;
+
+export const getSummarisationPrompt = (companyName, companyInfo ) => `
+You are an investigative journalist looking into the ethical track record of ${companyName}. You have collected some information about the company and now your task is to compile the information into a two-sentence company ethics report that can be published online.
+
+Here are some examples of two-sentence company ethics reports you have written in the past:
+
+- ${boikot.companies.apple.comment}
+
+- ${boikot.companies.bbc.comment}
+
+Below is the information you have collected about ${companyName} from various sources. Some of them may not contain relevant information about the ethics of ${companyName}.
+
+${companyInfo}
+
+Please summarise this information into a two-sentence summary of the ethics of ${companyName}, like the examples above.
+- Begin with "${companyName} is a "
+- Make sure you include a few specific words on all the unethical actions ${companyName} has taken.
+- After you include information from a given source, include its citation number eg. [1], [2] or [3].
+- Our citation engine is not that smart, so if you want to add 2 citiations together, do it like this: [4][5], not like this: [4, 5].
+- Keep your summary succinct like the examples.
+- Don't include positive statements about the company that aren't related to specifically ethical actions.
+- You are writing only about the ethics of the company, so only cite sources that contain information specifically about the ethics of ${companyName}.
+- Respond with your two-sentence ethics summary only and no other text.
 `;
