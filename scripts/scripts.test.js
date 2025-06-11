@@ -7,7 +7,7 @@ import { getRecord } from "./getRecord.js";
 import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
 import { askLlama4, askQwen, askGemma, embed } from "./llm.js";
-import { getInvestigationPrompt, getSummarisationPrompt } from "./prompts.js";
+import { getInvestigationPrompt, getCombinePrompt } from "./prompts.js";
 import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo, nintendoInfo } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
@@ -281,7 +281,7 @@ const targetInvestigationResults = [
     },
 ];
 
-const targetSummarisationResults = [
+const targetCombineResults = [
     {
         companyName: "Barclays",
         companyInfo: barclaysInfo,
@@ -429,17 +429,17 @@ llmOptions.forEach( llmFunc =>
         )
     );
   
-    targetSummarisationResults.forEach(
+    targetCombineResults.forEach(
         ({
           companyName, companyInfo,
           targetResultCheck,
         }) =>
             it(`can write an ethics summary for ${companyName}`, async () => {
                 // todo add more test cases
-                const summarisationPrompt = getSummarisationPrompt(
+                const combinePrompt = getCombinePrompt(
                   companyName, companyInfo
                 );
-                const response = await llmFunc(summarisationPrompt);
+                const response = await llmFunc(combinePrompt);
                 console.log(response);
                 await targetResultCheck(response);
             })

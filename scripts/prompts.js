@@ -18,7 +18,7 @@ Please respond with the numbers of the most relevent news articles to read for a
 - Please respond with only the numbers of the articles, in comma seperated sorted order eg. 1,2,3 etc - and no other text.
 `;
 
-export const getSummarisationPrompt = (companyName, companyInfo ) => `
+export const getCombinePrompt = (companyName, companyInfo ) => `
 You are an investigative journalist looking into the ethical track record of ${companyName}. You have collected some information about the company and now your task is to compile the information into a two-sentence company ethics report that can be published online.
 
 Here are some examples of two-sentence company ethics reports you have written in the past:
