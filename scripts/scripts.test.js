@@ -7,8 +7,8 @@ import { getRecord } from "./getRecord.js";
 import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
 import { askLlama4, askQwen, askGemma, embed } from "./llm.js";
-import { getInvestigationPrompt, getCombinePrompt } from "./prompts.js";
-import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo, nintendoInfo } from "./testData.js";
+import { getInvestigationPrompt, getSummarisePrompt, getCombinePrompt } from "./prompts.js";
+import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, appleArticleText, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo, nintendoInfo } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
 import boikot from "../boikot.json" with { type: "json" };
@@ -281,6 +281,19 @@ const targetInvestigationResults = [
     },
 ];
 
+const targetSummariseResults = [
+    {
+        companyName: "Apple",
+        articleText: appleArticleText,
+        targetResultCheck: async response => {
+            expect(response.split(" ").length).toBeLessThan(600);
+            expect(response).toContain("Apple");
+            expect(response).toMatch(/(child )?labou?r/i);
+            expect(response).toMatch(/mining|mineral|mine/i);
+        },
+    },
+];
+
 const targetCombineResults = [
     {
         companyName: "Barclays",
@@ -428,6 +441,20 @@ llmOptions.forEach( llmFunc =>
             requiredResultNumbers.forEach( requiredNumber =>
               expect(selectedNumbers).toContain(requiredNumber)
             );
+          },
+        )
+    );
+
+    targetSummariseResults.forEach(
+      ({ companyName, articleText, targetResultCheck }) =>
+        it(
+          `can summarise an article for ${companyName}`, 
+          async () => {
+            const summarisePrompt =
+              getSummarisePrompt( companyName, articleText );
+            const response = await llmFunc(summarisePrompt);
+            console.log(response);
+            await targetResultCheck(response);
           },
         )
     );

@@ -589,6 +589,116 @@ https://onlinelibrary.wiley.com/doi/abs/10.1002/job.2892
 12.05.2025 г. ... Morrison, E. W. 2011. “Employee Voice Behavior: Integration and Directions for Future Research.” Academy of Management Annals 5, no. 1: 373 ...
 `;
 
+export const appleArticleText = `
+
+Columbia Undergraduate Law Review
+Home
+Print
+Online
+Roundtable
+Current Events
+Podcast
+Submissions
+Join
+Contact
+Events
+About Us
+Masthead
+DESJ
+High School Essay Contest
+DDC x CULR
+Child Labor and the Human Rights Violations Embedded in Producing Technology
+
+Every new Apple release comes with a media blitz about the new iPhone’s improved camera quality, the speed of the M1 processor chip in the latest MacBooks, or the sound quality of the next generation AirPod Pros. An Apple product’s design interface is carefully curated—all with the goal of arousing a feeling of sleekness and fashion in the consumer. However, despite Apple’s futuristic facade, its labor model is backwards and deeply problematic. Indeed, Apple’s cobalt batteries are built on the backs of child labor in mines, causing severe physical harm to children and violating international standards of human rights.
+
+Under status quo international human rights law, corporations avoid the scrutiny that polices individuals or governments. While some corporations’ treatment of their workers would technically constitute blatant rights violations, current international law leaves the responsibility of prosecuting corporations to nation-states rather than international courts. The harms of this practice become painfully obvious when countries without transparent and respected legal institutions overlook extreme worker exploitation, particularly when it comes to technology companies’ resource extraction practices. Consequently, the inextricable link between large corporations and their subsidiary companies which extract resources for them must be considered to ensure corporate accountability. In order to prevent human rights violations from remaining unprosecuted, a new system of human rights law must be created to hold corporations accountable for human rights abuses—and not just for the local companies abusing their workers’ rights during resource extraction, but the multinational corporations who enable and profit from this abuse.
+
+Unlike individuals and governments, for whom the United Nations (UN) provides clear frameworks for prosecution, the language of the UN Guiding Principles on Business and Human Rights, which defines corporate responsibility to uphold human rights, is less constraining. Paragraph 12 reads, “the responsibility of business enterprises to respect human rights refers to internationally recognized human rights.” [1] However, this responsibility is implied to be a moral one, not a legal one. In the Commentary to the UN Guiding Principles concerning Paragraph 12, the prospect of legal ramifications is removed for corporations: “the responsibility of business enterprises to respect human rights is distinct from issues of legal liability and enforcement, which remain defined largely by national law provisions in relevant jurisdictions.” [2] With this statement, the international enforcement mechanisms that prosecute human rights violators—both individuals and governments—cannot affect multinational corporations accused of abusing human rights. Rather, domestic laws are left responsible, and thus, in countries with institutions biased towards corporate needs or underserved institutions that fail to uphold rule of law, corporations can wholly escape legal ramifications. While the International Criminal Court (ICC) has the ability to prosecute international law violators under the Rome Statute if a domestic country is unwilling or unable to do so, this prosecution only occurs for war crimes and crimes against humanity. While child labor is a serious harm, it is not the primary intent of corporations, but rather a consequence of their severe negligence, whereas the ICC exclusively covers systemic and intentional human rights violations such as genocide, torture, and the slaughtering of civilians. [3] Thus, human rights violations committed by multinational corporations do not rise to the level of severity needed for the ICC to override domestic legal mechanisms.
+
+Alternatively, another route for legal recourse is to sue corporations in their state(s) of origin—for example, the United States—if the rule of law and legal structures in that country are better equipped to tackle the relevant human rights concerns. One attempt to apply this form of recourse was the landmark 2013 U.S. Supreme Court case Kiobel v. Royal Dutch Petroleum. In the United States, the Alien Tort Statute (ATS) gives federal courts jurisdiction over prosecuting international law violations committed against foreign nationals. [4] The petitioners in the case argued that the Royal Dutch Shell oil company was complicit in the Nigerian government’s human rights violations, which include the military committing mass extrajudicial murder against the Ogoni people to promote its oil drilling in Ogoni land—killing over one thousand people. [5] Ultimately, the Court rejected this case. Writing for the majority, Chief Justice John Roberts stated that if the ATS were to be applied to any case involving a multinational corporation abroad, then U.S. courts would find themselves constantly meddling in foreign jurisdictions. [6] To the Supreme Court, the embedded presumption against using the ATS in extraterritorial circumstances means the ATS can only be applied if the case’s damages display “sufficient force to displace the presumption against extraterritorial application,” which would occur if the United States’ territory was impacted in some way by the damages. [7] Thus, the case’s precedent means that the sale of a good to the United States, even one so important and widely purchased like petroleum, does not sufficiently impact the United States enough to justify legal intervention. Therefore, the Kiobel case further limits countries’ ability to protect human rights abroad if the foreign country in which violations occur does not already have the mechanisms in place to prosecute human rights violators.
+
+The failures of prosecuting transnational corporations for their rights abuses is not just limited by the difficulty of prosecuting relevant actors, but also by those of holding accountable the larger system that enables and finances exploitative resource extraction. In a pending court case in the United States Circuit Court for the District of Columbia, Doe 1-13 et al. v. Apple Inc., et al., Apple, Microsoft, Tesla, and Dell are all named as defendants being sued by the families of Congolese children who were killed or maimed in cobalt mines owned by smaller companies sourced by these corporations. [8] The extent of these rights abuses is expansive. Aside from the already egregious human rights concerns regarding children working hard labor, the suit asserts that children earn slave wages and that many have been permanently disabled or killed due to poor, unregulated working conditions. Indeed, one child was even buried alive and killed by a collapsed tunnel. [9] Yet, with legal precedents such as Kiobel v. Royal Dutch Petroleum, it is difficult for a U.S. court to hold companies accountable: the mining processes are completely divorced from the United States and therefore fail to meet the “sufficient force” criteria set by this precedent. While the technology corporations’ defense is that the mining companies are at fault for mining practices, blame must also be put upon the benefactor of such a project, especially given their awareness of the human rights abuses. [10] If blame is not adjudicated to corporate benefactors, then such actors can always hide behind smaller companies to carry out their exploitation.
+
+To solve these problems, new international forums must be created to prosecute corporate perpetrators. For instance, to combat Africa’s specific issue with poor legal institutions, the African Union (AU) added a criminal chamber to the African Court of Justice and Human Rights, with specific parameters for the prosecution of corporate actors. [11] Article 46A of the newly-adopted protocol outlines two key steps towards corporate accountability. First, knowledge of rights violations held by persons within the corporation can be prosecuted. Second, any rights violations, even if they are not formalized in corporate policy, make corporations legally culpable as long as there is proof of internal knowledge of an action’s negative ramifications on others’ human rights. [12] This addition to the protocol clearly is a large leap in limiting exploitation of workers in Africa by powerful multinational companies. Furthermore, the AU’s addition also grants the African Court of Justice and Human Rights the ability to, like the ICC, refuse cases if they have been properly prosecuted at a domestic level. [13] Therefore, the court may determine if a violation was properly prosecuted domestically, and hold an international trial to supplement cases with insufficient domestic trials. Importantly, the usage of international courts to prosecute companies allows for the setting of necessary precedents. Absent international enforcement, if a company is found guilty of exploitative practices in a domestic court, it may simply carry out the same practices in a different nation. However, with the formation of regional international courts, the precedent set by a guilty verdict would regulate domestic courts’ approach to corporations across the region, and when that is still not sufficient, would create a forum to prosecute corporations directly.
+
+The formation of new modes for enforcement is not sufficient, however, because it still fails to account for the involvement of larger financing networks. Specifically, the immediate rights violators—those whom the courts have jurisdiction over—are often not the multinational corporations who are benefactors of abusive practices. Thus, for a case such as Doe 1-13 et al. v. Apple Inc., et al., courts still may not find Apple, Microsoft, Tesla, and Dell guilty, because these corporations are not operating the human right-violating mines, even though the localized mining companies that they invest in and purchase from are.
+
+In addition, large technology companies have distanced themselves from their mining subsidiaries’ wrongdoings by creating elaborate publicity efforts to appear ignorant of the abuses. As asserted by the plaintiffs in Doe 1-13 et al. v. Apple Inc., et al., Apple created a voluntary reporting system for citizens to notify Apple if they sourced resources from prohibited child labor sources. [14] Apple’s 2018 “Statement on Efforts to Combat Human Trafficking and Slavery in Our Business and Supply Chain” reads, “[we] continued to support the International Tin Association’s International Tin Supply Chain Initiative whistleblowing mechanism in the [Democratic Republic of the Congo] that allows people to anonymously voice concerns in their local language related to the extraction, trade, handling, and export of minerals so allegations of misconduct can be surfaced and reported.” [15] Co-defendants Microsoft, Dell, Tesla, and Alphabet have identical systems of reporting. [16] However, as expressed by the plaintiffs in Doe, it is unrealistic for companies to expect impoverished and vulnerable populations to hold them accountable for their actions. Furthermore, the presence of a violent governmental regime that “does not tolerate dissent and an unregulated industry that could retaliate with impunity against any whistleblowers” in these regions makes it all the more evident that the corporations are unwilling to facilitate actual accountability measures. Corporations are often completely knowledgeable about the violations they enable; yet, they intentionally hide their involvement behind a facade of corporate transparency. [17]
+
+Thus, if international courts such as those in the AU expanded their definition of rights violations to include the intentional financing or support of abusive companies, then the entire chain of corporate responsibility for an illegal action can be held accountable. This would also make it more difficult for large companies to successfully formulate elaborate publicity schemes, as it would explicitly make them a subject of investigation.
+
+As new technologies emerge and resource demands increase, the future of human rights violations may very well manifest in the private sector. If institutions do not uphold the rule of law in prosecuting every human rights violator—even if said perpetrators do not align with traditional narratives on human rights framed in terms of individual and state actors—they fail their core mission to uphold human rights for all. Thus, new international forums must be created to supersede domestic prosecutorial efforts when necessary in order to prosecute corporate rights violators. Furthermore, forums must also account for the larger role that corporate partnerships play in the perpetuation of abusive resource extraction, so that direct and indirect actors alike can be held accountable. If international legal bodies are staunchly committed to preventing rights abuses when perpetrated by governments or powerful individuals, then there is no reason why profiteering corporations should get a free pass.
+
+Edited by Animesh Joshi
+
+Sources:
+
+[1] Office of the United Nations High Commissioner for Human Rights, “Guiding Principles on Business and Human Rights”, A/HRC/17/31, 2011, https://www.ohchr.org/_layouts/15/WopiFrame.aspx?sourcedoc=/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf&action=default&DefaultItemOpen=1.
+
+[2] Ibid at 14.
+
+[3] “Rome Statute of the International Criminal Court,” conclusion date: July 17, 1998, United Nations Treaty Series, vol. 2187, no. 38544, https://www.icc-cpi.int/resource-library/documents/rs-eng.pdf.
+
+[4] Alien Tort Statute, U.S. Code 28 (1948) § 1350.
+
+[5] Hannah Summers, Amnesty Seeks Criminal Inquiry into Shell over Alleged Complicity in Murder and Torture in Nigeria, The Guardian, (2017), online at
+
+https://www.theguardian.com/global-development/2017/nov/28/amnesty-seeks-criminal-inquiry-into-shell-over-alleged-complicity-in-murder-and-torture-in-nigeria.
+
+[6] Kiobel v. Royal Dutch Shell Petroleum Co., 569 U.S. 108 (US Supreme Court 2012).
+
+[7] Ibid.
+
+[8] Doe 1-13 et al. v. Apple Inc., et al., 119, 1 (United States District Court for the District of Columbia 2019).
+
+[9] Annie Kelly, Apple and Google Named in US Lawsuit over Congolese Child Cobalt Mining Deaths, The Guardian (2019), online at https://www.theguardian.com/global-development/2019/dec/16/apple-and-google-named-in-us-lawsuit-over-congolese-child-cobalt-mining-deaths (visited November 2, 2021).
+
+[10] Doe 1-13 et al. v. Apple Inc., et al., 119, 61-62 (United States District Court for the District of Columbia 2019).
+
+[11] Andrew Clapham, Human Rights Violations for Non-State Actors: Where Are We Now?, Oxford University Press (2010), online at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2641390 (visited November 2, 2021).
+
+[12] Ibid.
+
+[13] Ibid.
+
+[14] Apple, 2018 Statement on Efforts to Combat Human Trafficking and Slavery in Our Business and Supply Chains, Apple (2018), online at https://www.apple.com/supplier-responsibility/pdf/Apple-Combat-Human-Trafficking-and-Slavery-in-Supply-Chain-2018 (visited November 12, 2021).
+
+[15] Ibid.
+
+[16] Doe 1-13 et al. v. Apple Inc., et al., 119, 16-17 (United States District Court for the District of Columbia 2019).
+
+[17] Ibid.
+Amogh Dimri
+January 18, 2022
+Previous
+“Mood Forever”: Rethinking Fair-Use Cases in the Age of Social Media
+Next
+HIPAA Constraints on Brain Fingerprinting Evidence in Criminal Court: Pitfalls & Possibilities
+
+Partners:
+
+Cambridge University Law Society: Per Incuriam
+
+University of Pennsylvania Undergraduate Law Journal
+
+Trinity College Law Review
+
+Bristol Law Review
+
+Amherst College Law Review
+
+© 2015-2025
+Columbia Undergraduate Law Review
+
+Member Resources
+
+Contact Us
+ General: culreboard@columbia.edu
+
+ Business Inquiries: Oliver McCoy
+osm2117@columbia.edu
+`;
+
 export const barclaysInfo = `
 - Source [1]:
 Barclays is the world's largest funder of fracking and coal

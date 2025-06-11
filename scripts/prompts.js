@@ -18,6 +18,17 @@ Please respond with the numbers of the most relevent news articles to read for a
 - Please respond with only the numbers of the articles, in comma seperated sorted order eg. 1,2,3 etc - and no other text.
 `;
 
+export const getSummarisePrompt = (companyName, articleText) => `
+The following text is taken from an article published online. We need to summarise the article as part of our research into the ethics of ${companyName} Please summarise the article into a few sentences:
+
+${articleText}
+
+Please respond with the article summary and no other text.
+- Make sure to include all relevant points about the ethical track record of ${companyName} in your summary.
+- Try to include particulary relevant figures or quotations from the article.
+- Ignore other text from the webpage which is not part of the main article, like links or other headlines.
+`;
+
 export const getCombinePrompt = (companyName, companyInfo ) => `
 You are an investigative journalist looking into the ethical track record of ${companyName}. You have collected some information about the company and now your task is to compile the information into a two-sentence company ethics report that can be published online.
 
