@@ -677,3 +677,476 @@ She says the activity prompted security police to set up a file on him in 1943 w
 
 Ms Asbrink says the security police intercepted his post, and noted that he "had some sort of functionary position" in a youth Nazi organization.
 `;
+
+export const greggsInfo = `
+============================== Start of Source [1]:
+
+Skip to main content
+Skip to navigation
+Skip to navigation
+Support us
+Sign in
+The Guardian - Back to home
+The Guardian
+
+    News
+    Opinion
+    Sport
+    Culture
+    Lifestyle
+
+Show more
+
+Search input
+google-search
+Search
+
+        Support us
+        Print subscriptions
+        Search jobs
+        Hire with Guardian Jobs
+        Holidays
+        Live events
+        About Us
+        Digital Archive
+        Guardian Print Shop
+        Patrons
+        Guardian Licensing
+        The Guardian app
+        Video
+        Podcasts
+        Pictures
+        Newsletters
+        Today's paper
+        Inside the Guardian
+        Guardian Weekly
+        Crosswords
+        Wordiply
+        Corrections
+        Tips
+
+    Business
+    Economics
+    Banking
+    Money
+    Markets
+    Project Syndicate
+    B2B
+    Retail
+
+Roger Whiteside, the departing chief executive of Greggs, received a total package of £1.9m.
+Greggs
+This article is more than 3 years old
+Greggs feels heat from investors over ‘excessive’ pay for bosses
+This article is more than 3 years old
+
+Advisers say shareholders with a stake in steak bake retailer should vote against remuneration report at AGM
+Sarah Butler
+Wed 11 May 2022 18.58 BST
+
+Bakery chain Greggs is facing a potential shareholder revolt over high pay for its executives after criticism by two respected investor advisory groups.
+
+Bonus payouts for Greggs’ outgoing chief executive, Roger Whiteside, amounted to more than double his basic salary of £575,209, taking his total package to £1.9m including benefits.
+
+As a result the investment adviser Pirc said shareholders should vote against the bakery chain’s remuneration report at the group’s annual meeting on 17 May, noting that Whiteside’s pay was excessive and amounted to 79 times that of a regular employee.
+
+Meanwhile the proxy adviser Glass Lewis pointed to a 11.4% rise in basic pay for Greggs’ finance chief, Richard Hutton, last year that was followed by a 3.5% increase this year to £393,300.
+
+He is also lined up for an exceptional share bonus payout of 150% of salary despite Greggs not paying back £87m in government furlough support received in 2020. It did pay back £4.9m in furlough support received last year.
+
+Greggs said it had approved the higher potential payout for Hutton this year because he was “critical in helping to support [the] transition” from Whiteside to new boss Roisin Currie.
+The skyline of Canary Wharf in London
+Biggest boom in City bonuses for years risks driving up inequality, says IFS
+Read more
+
+“The committee believes his knowledge and experience will be essential and therefore his long-term incentive award should be appropriately pitched to reflect the key contribution he is expected to make over the next few years,” the company said.
+
+However, Glass Lewis said Greggs’ board has “failed to provide a robust rationale” for the higher than usual bonus for Hutton – which would usually be limited to a maximum of 125% of salary.
+
+Greggs’ remuneration committee said its annual bonus scheme had been “designed to ensure that bonus payments would only be made for appropriately stretching levels of performance”.
+
+It added: “The committee is cognisant that the payout of the bonus is very near to maximum but is satisfied that this outcome aligns well with the business performance in what were tough trading conditions in 2021.”
+
+On the additional share bonus, it said it was “very comfortable that vesting” was justified.
+
+The criticisms of Greggs come after a string of shareholder rebellions over pay this spring. Almost 30% of shareholders in Ocado rebelled against high pay for directors at the online grocery specialist this month after it laid out a plan to pay the chief executive, Tim Steiner, up to £100m over the next five years.
+Sign up to the daily Business Today email or follow Guardian Business on Twitter at @BusinessDesk
+
+And just over 38% of shareholders who voted came out against a new bonus scheme at GlaxoSmithKline, which raised the annual bonus for executives at the drugs group from two times to three times their salaries.
+
+Almost a third of Standard Chartered’s shareholders voted against executive pay at its annual meeting, after advisers criticised the bank for not sufficiently cutting bonuses after a record UK regulatory fine.
+
+Nearly 11% of voting shareholders opposed the pay policy at Barclays on the same day.
+
+However, NatWest executives avoided a shareholder rebellion despite a controversial new pay policy that could net the bank’s chief executive, Alison Rose, as much as £5.2m a year. Nearly 93% of shareholder votes were cast in favour of the policy last month.
+Explore more on these topics
+
+    Greggs
+    Executive pay and bonuses
+    Food & drink industry
+    Retail industry
+    Shares
+    Investments
+    news
+
+Share
+Reuse this content
+Most viewed
+
+    Business
+    Economics
+    Banking
+    Money
+    Markets
+    Project Syndicate
+    B2B
+    Retail
+
+    News
+    Opinion
+    Sport
+    Culture
+    Lifestyle
+
+Original reporting and incisive analysis, direct from the Guardian every morning
+Sign up for our email
+
+    About us
+    Help
+    Complaints & corrections
+    SecureDrop
+    Work for us
+     
+    Privacy policy
+    Cookie policy
+    Terms & conditions
+    Contact us
+
+    All topics
+    All writers
+    Modern Slavery Act
+    Tax strategy
+    Digital newspaper archive
+    Facebook
+    YouTube
+    Instagram
+    LinkedIn
+    Newsletters
+
+    Advertise with us
+    Guardian Labs
+    Search jobs
+    Patrons
+    Tips
+
+Back to top
+© 2025 Guardian News & Media Limited or its affiliated companies. All rights reserved. (dcr)
+
+============================== Start of Source [2]:
+Go to the content
+Go to the footer
+
+Search
+
+    Things to Do
+    Restaurants
+    Arts & Culture
+    Nightlife
+    Hotels
+
+Greggs' pastries, pies and bakes ranked worst to best
+
+Feeling overwhelmed by Greggs' plethora of bakes, slices, pasties, pastries and so on? Don't worry - we've tried 'em all so you don't have to
+Tuesday 9 June 2015
+Share
+Written by Niki Boyle
+
+Our sister site Time Out London recently launched a feature ranking all 32 of the sandwiches available at Pret A Manger, and it caused quite a furore. The thing is, outside of London, Pret's not really that big a deal.
+
+Greggs, on the other hand, is. These lunchtime saviours and hangover banishers have been keeping the population of this fair country well stocked in pastry-wrapped deliciousness for years, and over that time we've built up something of a fondness for them. 
+
+Now, for the first time ever*, the Greggs savoury selection has been sampled and ranked; now, once and for all, there can be no more arguments** about which slice, pastry, pasty, lattice, bake or bridie is best. We know. Read on to find out.
+
+* We have done literally no research to verify this claim.
+** There will undoubtedly be arguments. Have your say in the comments.
+14. Pork, apple and stuffing lattice
+Pork, apple and stuffing lattice
+The Greggs seasonal specials are a mixed bag - for every glorious spicy chicken and chorizo slice, there's an abomination like this. The stuffing is sludge, the pork is non-existent and the apple is cubed asbestos. Thankfully, it's for a limited time only.
+
+Been there, done that? Think again, my friend.
+Sign up to our newsletter to enjoy the UK without spending a thing (as well as options when you're feeling flush).
+Email address
+
+By entering your email address you agree to our Terms of Use and Privacy Policy and consent to receive emails from Time Out about news, events, offers and partner promotions.
+13. Scotch pie
+Scotch pie
+With considerable effort, it's possible to make a scotch pie that isn't something you chuck down your gullet and hope for the best. This pie lacks that effort. The mince is slimy and the rock-hard crust will tear your gums.
+12. Cheese and onion pasty
+Cheese and onion pasty
+As one of the few Greggs veggie options, this one has a loyal following, but there's no getting around it: cheese and onion is a crime against flavour combinations. It's bad enough in crisp form; this lumpy-custard-like hellion takes that to the next level.
+11. Cheese and onion roll
+Cheese and onion roll
+It's the exact same thing but disguised as a sausage roll. Doesn't make it taste any better, but you get the impression there's less of it, hence the higher ranking.
+10. Chicken bake
+Chicken bake
+If diced chicken and gloopy, lukewarm mayo is your idea of a good time, this is the one for you. And we'll be honest - sometimes it's our idea of a good time too. But not often.
+9. Steak and cheese roll
+Steak and cheese roll
+A relative newcomer to the Greggs stable, this young pretender attempts to be a 'new twist' on the classic Philly combo. Sadly, that twist involves replacing traditional provolone with Stilton (seriously - of all the cheeses...) and shredding the beef til it's devoid of any texture. It's still a rich, flavoursome experience, but the method of delivery is lacking.
+8. Macaroni pie
+Macaroni pie
+The macaroni pie (apparently largely unheard except in Scotland and, according to Wikipedia, Trinidad and Tobago) seems like a slam-dunk of an idea - a nostalgia-provoking childhood favourite, encased in a pie crust for easy portability. Sadly, that crust is still hazardous to gums (see our earlier scotch pie comments), but the filling is still spot-on, if you don't mind it being not-quite-al-dente.
+7. Vegetable pasty
+Vegetable pasty
+The highest-ranking vegetarian option on our list tastes like the solidifed version of that veggie soup your nan used to make, with maybe a sprinkling of extra pepper. It's by turns spicy and comforting, just like nan. Kind of.
+6. Bacon and cheese melt
+Bacon and cheese melt
+Picture the scene: Gregg Junior has just concocted a new, hangover-destroying cheese, bacon and pastry combo - but he doesn't have enough pastry for the top layer! 'Not to worry, son,' says Gregg Senior with a wise old twinkle in his eye, 'just fold it over, pop it in the oven and you'll have a perfectly servicable turnover. Oh, and mind add loads of salt to it.' Combine with Irn Bru for optimum revivifying effect.
+5. Bridie
+Bridie
+Another regionally-specific Greggs offering (do they have Cornish pasties further south, perhaps?), the bridie tastes better than any simple combination of mince, onions and pastry has a right to. One of the few items in the Greggs repertoire that genuinely feels nourishingly good for you.
+Recommended
+
+    Where to stay for Edinburgh Festival Fringe 2025: our top tips
+    Where to stay for Edinburgh Festival Fringe 2025: our top tips
+    The best comedy shows at Edinburgh Festival Fringe 2025
+    The best comedy shows at Edinburgh Festival Fringe 2025
+    The best things to do in Edinburgh in 2025
+    The best things to do in Edinburgh in 2025
+    The best theatre shows to see at Edinburgh Fringe and EIF 2025
+    The best theatre shows to see at Edinburgh Fringe and EIF 2025
+
+4. Sausage roll
+Sausage roll
+The classic - nothing special, but then its very basicness (and careful configuration of the flaky-to-greasy pastry ratio) is what makes the sausage roll an everyman's favourite.
+3. Sausage, cheese and bean melt
+Sausage, cheese and bean melt
+Now this is just a masterpiece in breakfast engineering. While the sauce in other Greggs slices errs on the side of thickness, this viscous tomato-and-baked-bean mixture absolutely nails the formula, no doubt aided by the binding qualities of well-melted cheese. Some structural support in the shape of several processed sausages brings the whole thing together nicely.
+2. Steak bake
+Steak bake
+The chicken bake we checked off earlier suffered from a lack of chunkiness; this hearty number couples some satisfyingly meaty beefy bits with a rich (but not too thick) gravy. Delish.
+1. Festive bake
+Festive bake
+
+There are two schools of thought on the above picture:
+
+(a) our photographer was so overcome by the combination of chicken, bacon, sage & onion stuffing, gravy and cranberry & red onion relish that he couldn't restrain himself and devoured it before he knew what he was doing; or
+
+(b) it's not Christmas so we couldn't get hold of one. Whichever one you believe (it's the second one), we know we're far from alone in declaring the Festive Bake king of the Greggs savoury range - as far as we're aware, it's the only such product to have inspired its own Facebook group and Iceland product line. We're already counting the sleeps til Christmas.
+Like that? Try this...
+Ice-creams and ice lollies ranked worst to best
+
+    Things to do
+
+Ice-creams and ice lollies ranked worst to best
+Don't go putting just anything in your mouth this summer - check with our infallible ranking system first.
+Read more
+Show more
+
+Been there, done that? Think again, my friend.
+Sign up to our newsletter to enjoy the UK without spending a thing (as well as options when you're feeling flush).
+Enter email address
+
+By entering your email address you agree to our Terms of Use and Privacy Policy and consent to receive emails from Time Out about news, events, offers and partner promotions.
+Back to Top
+
+Get us in your inbox
+Email address
+
+By entering your email address you agree to our Terms of Use and Privacy Policy and consent to receive emails from Time Out about news, events, offers and partner promotions.
+facebook
+twitter
+
+About us
+
+    Press office
+    Investor relations
+    Our awards
+    Work for Time Out
+    Editorial guidelines
+    Privacy notice
+    Do not sell my information
+    Cookie policy
+    Accessibility statement
+    Terms of use
+    Modern slavery statement
+    Manage cookies
+
+Contact us
+
+    Get Listed
+    Advertising
+    Time Out Market
+
+Time Out products
+
+    Time Out Worldwide
+    Time Out London
+    Guidebook
+
+© 2025 Time Out England Limited and affiliated companies owned by Time Out Group Plc. All rights reserved. Time Out is a registered trademark of Time Out Digital Limited.
+
+
+============================== Start of Source [3]:
+
+
+The Caterer
+Search
+User Menu
+News
+InDepth
+Products & Equipment
+Insight
+Events & Awards
+You are viewing 1 of your 2 articles
+
+To continue reading register for free, or if you’re already a member login
+
+
+
+Register  Login
+Mitchells & Butlers and Greggs among firms named for failing to pay minimum wage
+23 Feb 202411:05
+by Jungmin Seo
+Linked In
+Twitter
+Facebook
+bookmark_border
+
+Greggs and Mitchells & Butlers are among over 500 companies that have been named by the government for failing to pay some of their staff the minimum wage.
+
+
+
+The 524 businesses listed by the Department for Business and Trade breached national minimum wage law and owed almost £16m to 172,000 workers combined.
+
+
+
+Pub and restaurant operator Mitchells & Butlers, which is behind brands including Miller & Carter and All Bar One, ranked fifth in the list for failing to pay £565,094.87 to 16,187 workers, while Greggs came 11th for failing to pay £219,129.07 to 4,793 workers.
+
+
+
+Meanwhile, Stonegate Pub Company, which owns brands such as Slug & Lettuce and Be at One, ranked 21st for failing to pay £101,044.67 to 3,650 staff.
+
+
+
+A spokesperson for Mitchells & Butlers said: “Our minimum hourly pay has never been below the national minimum wage. As the minister notes, not all underpayments are intentional and this was the case here.
+
+
+
+"The HMRC review of our pay practices, which concluded in 2019, identified a technical misinterpretation of the regulations. All arrears due were paid to our valued employees and ex-employees at the end of the review and we have updated our policies where necessary.”
+
+
+
+A spokesperson for Greggs said: “During a review with HMRC, it was brought to our attention that our uniform policy for retail colleagues was not aligned with HMRC's interpretation of national minimum wage regulations, and as a result, we revised our uniform policy in January 2018.
+
+
+
+"Once the review was concluded, we reimbursed colleagues and former colleagues who had been impacted by this unintended error.”
+
+
+
+The Caterer understands Stonegate owed roughly £27 to each affected person between 2015 and 2019, which has since been repaid.
+
+
+
+All the businesses in the list have since paid back what they owe to their staff, as well as additional financial penalties of up to 200% of their underpayment.
+
+
+
+The announcement comes ahead of the 9.8% National Living Wage hike that is set to come into force on 1 April, which will raise hourly pay from £10.42 to £11.44.
+
+
+
+Kevin Hollinrake, minister for enterprise, markets and small business, said: “Employees deserve to get paid properly for the hard work they put in.
+
+
+
+“While the majority of businesses already do the right thing and pay their staff what they are owed, this announcement sends a message to the minority who aren’t - that there are repercussions to undercutting hard work from their staff.”
+
+
+
+The size of this year’s list was more than double that of last year, which featured 202 employers that owed nearly £5m to 63,000 employees.
+GreggsMitchells & ButlersNational Minimum Wage
+Linked In
+Twitter
+Facebook
+bookmark_border
+Add New Comment
+You must be logged in to comment.
+More from The Caterer
+Operating profits slide across UK hotels despite occupancy boost
+Hotel
+Operating profits slide across UK hotels despite occupancy boost
+Mitchells &amp; Butlers ‘in good shape’ as it prepares for £130m costs rise
+Pub & bar
+Mitchells & Butlers ‘in good shape’ as it prepares for £130m costs rise
+Mitchells &amp; Butlers CEO issues apology after felling of ancient oak tree near Toby Carvery
+News
+Mitchells & Butlers CEO issues apology after felling of ancient oak tree near Toby Carvery
+Most Popular
+All the new stars in the Michelin Guide Great Britain and Ireland 2025
+Michelin
+All the new stars in the Michelin Guide Great Britain and Ireland 2025
+Lisa Goodwin-Allen to leave Northcote after 23 years
+Chef
+Lisa Goodwin-Allen to leave Northcote after 23 years
+MasterChef: The Professionals 2024 winner revealed
+Chef
+MasterChef: The Professionals 2024 winner revealed
+Michel Roux to open new restaurant at the Langham, London
+Chef
+Michel Roux to open new restaurant at the Langham, London
+Michael O’Hare’s Man Behind the Curtain 'wound up voluntarily' due to £1m debt
+Restaurant
+Michael O’Hare’s Man Behind the Curtain 'wound up voluntarily' due to £1m debt
+Acorn Awards: Meet hospitality’s 30 under 30 for 2025
+Acorn Awards: Meet hospitality’s 30 under 30 for 2025
+Newsletter Sign Up
+
+Stay informed with all the latest
+
+
+
+Sign Up
+Events & Awards
+The Caterer Hospitality Tech Confex
+The Caterer Hospitality Tech Confex
+Wed Jun 25, 2025One Moorgate Place
+The Caterer Hospitality Tech Confex is a one-day event designed to inspire technology decision-makers in the hotel industry and empower them with the latest tools to enhance productivity and performance.
+The Cateys 2025
+The Cateys 2025
+Mon Jul 7, 2025JW Marriott Grosvenor House London
+The Cateys, held in partnership with Square, returns to JW Marriott Grosvenor House London on Monday 7 July 2025 for an unforgettable evening honouring and celebrating exceptional talent and pioneering businesses in hospitality.
+KP of the Year 2025
+KP of the Year 2025
+Fri Aug 29, 2025
+Whatever type of kitchen you work in, profit or cost sector, if your KP goes that extra mile, then enter them for the KP of the Year.
+The Caterer
+Follow us on Facebook
+Follow us on X
+Follow us on Linked In
+Follow us on Instagram
+Subscribe
+How to Contribute
+T&Cs
+Disclaimer
+About Us
+Media Centre
+Cookie Policy
+Sitemap
+Our Team
+FAQs
+Privacy Policy
+RSS
+Jacobs Media
+
+Jacobs Media is a company registered in England and Wales, company number 08713328. 3rd Floor, 52 Grosvenor Gardens, London SW1W 0AU.
+© 2025 Jacobs Media
+Jacobs Media Brands
+We use cookies so we can provide you with the best online experience. By continuing to browse this site you are agreeing to our use of cookies. Click on the banner to find out more.
+Cookie Settings
+
+============================== Start of Source [4]:
+Greggs is found selling vegan sauaage rolls that actually contain horsemeat. Several lab tests of various greggs sausage rolls have returned conclusively that jorsemeat is used in the filling.
+
+`;

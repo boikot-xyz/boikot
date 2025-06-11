@@ -8,7 +8,7 @@ import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
 import { askGroq, askQwen, askGemma, embed } from "./llm.js";
 import { getInvestigationPrompt, getSummarisationPrompt } from "./prompts.js";
-import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, barclaysInfo, pepsicoInfo, ikeaInfo } from "./testData.js";
+import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
 import boikot from "../boikot.json" with { type: "json" };
@@ -288,6 +288,7 @@ const targetSummarisationResults = [
         targetResultCheck: async response => {
             expect(response).toMatch(/^Barclays is a/);
             expect(response).toMatch(/^.+\. .+\.$/);
+            expect(response.split(". ").length).toBe(2);
 
             expect(response).toContain("[1]");
             expect(response).toContain("[2]");
@@ -307,6 +308,7 @@ const targetSummarisationResults = [
         targetResultCheck: async response => {
             expect(response).toMatch(/^Pepsico is a/);
             expect(response).toMatch(/^.+\. .+\.$/);
+            expect(response.split(". ").length).toBe(2);
 
             expect(response).toContain("[1]");
             expect(response).toContain("[2]");
@@ -330,6 +332,7 @@ const targetSummarisationResults = [
         targetResultCheck: async response => {
             expect(response).toMatch(/^IKEA is a/i);
             expect(response).toMatch(/^.+\. .+\.$/);
+            expect(response.split(". ").length).toBe(2);
 
             expect(response).toContain("[2]");
             expect(response).toContain("[3]");
@@ -343,6 +346,23 @@ const targetSummarisationResults = [
             expect(response).toMatch(/forced.+labou?r/i);
             expect(response).toMatch(/nazi/i);
             expect(response).not.toMatch(/bike|biking/);
+        },
+    },
+    {
+        companyName: "Greggs",
+        companyInfo: greggsInfo,
+        targetResultCheck: async response => {
+            expect(response).toMatch(/^Greggs is a/i);
+            expect(response).toMatch(/^.+\. .+\.$/);
+            expect(response.split(". ").length).toBe(2);
+
+            expect(response).toContain("[1]");
+            expect(response).toContain("[3]");
+            expect(response).toContain("[4]");
+            expect(response).not.toContain("[2]");
+
+            expect(response).toMatch(/pay/i);
+            expect(response).toMatch(/(horse ?meat)|(vegan)/i);
         },
     },
 ];
