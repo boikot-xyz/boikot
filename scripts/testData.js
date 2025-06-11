@@ -783,6 +783,94 @@ Exhibit A
 Last Modified: Thursday, June 3, 2010
 `;
 
+export const wagamamaInfo = `
+Skip to content
+Wagamama fined for failing to pay the minimum wage
+9 March 2018
+PA Wagamama restaurantPA
+
+Restaurant chains Wagamama and TGI Fridays have each been fined an undisclosed amount for failing to pay staff the National Minimum Wage.
+
+They were among 43 employers in the hospitality sector on the government's latest list of firms breaking the law.
+
+Wagamama has repaid an average of £50 to 2,630 employees. TGI Friday's had to repay £25 each to 2,300 staff.
+
+Wagamama blamed "an inadvertent misunderstanding" of the rules on staff uniforms for the blunder.
+
+The company said it had asked front-of-house staff to wear black jeans or a black skirt with their Wagamama-branded top.
+
+This was considered as asking them to buy a form of uniform, "and so we should have paid them for it," it said.
+
+"We have gladly made payments to current and previous employees who missed out dating back from 2016 to 2013. We have also updated our uniform policy and we now pay a uniform supplement to cover the black jeans."
+Unite Hospitality Rota put up at WagamamaUnite Hospitality
+
+Just before Christmas, Wagamama had to apologise after a note was seen in one of its London restaurants, apparently banning staff from taking sick days.
+
+    Wagamama apologises for banning sick days
+    Minimum wage increases 'could cost jobs'
+
+A TGI Fridays statement said the firm had reimbursed team members for a shoe allowance.
+
+The firm added: "This is a historic payment which was paid last year, and we have since reimbursed team members for the purchase of their black uniform shoes."
+
+In total, 179 employers were fined £1.3m by the government for underpaying their staff.
+
+And they were warned that minimum pay rates will increase again on 1 April.
+Presentational grey line
+You may also be interested in:
+
+    Empty-nesters 'resent boomerang kids'
+    John Lewis staff bonus cut again
+    Amazon promises fix for creepy Alexa laugh
+
+Presentational grey line
+
+The hotel chain Marriott was also fined. It underpaid 279 of its staff over £250 each on average.
+
+The company apologised and said it was committed to paying the National Minimum Wage.
+
+"When an error was identified by a routine HMRC audit in 2015, we co-operated fully with HMRC and promptly reimbursed all those affected," it said.
+
+Other companies fined included the fashion chain Karen Millen, Birmingham and Stoke City Football Clubs, and St Helens Rugby Club.
+minimum wages rates table
+
+In its response to the Matthew Taylor Review of the gig economy, called Good Work, the government has already announced plans to give all workers the right to a payslip.
+
+It said that would make it easier for 300,000 workers to check that they were being paid the legal minimum.
+
+Later this month, the government will launch an awareness campaign for the new minimum wage rates. Employers can be fined up to twice the total wage shortfall, subject to a maximum of £20,000 per worker.
+
+    Home
+    News
+    Sport
+    Business
+    Innovation
+    Culture
+    Arts
+    Travel
+    Earth
+    Audio
+    Video
+    Live
+    Weather
+    BBC Shop
+    BritBox
+
+Follow BBC on:
+
+    Terms of Use
+    About the BBC
+    Privacy Policy
+    Cookies
+    Accessibility Help
+    Contact the BBC
+    Advertise with us
+    Do not share or sell my info
+    Contact technical support
+
+Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+`;
+
 export const barclaysInfo = `
 - Source [1]:
 Barclays is the world's largest funder of fracking and coal

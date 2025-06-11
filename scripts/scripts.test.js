@@ -8,7 +8,7 @@ import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
 import { askLlama4, askQwen, askGemma, embed } from "./llm.js";
 import { getInvestigationPrompt, getSummarisePrompt, getCombinePrompt } from "./prompts.js";
-import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, appleArticleText, kelloggsArticleText, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo, nintendoInfo } from "./testData.js";
+import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, appleArticleText, kelloggsArticleText, wagamamaArticleText, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo, nintendoInfo } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
 import boikot from "../boikot.json" with { type: "json" };
@@ -300,6 +300,15 @@ const targetSummariseResults = [
             expect(response).toContain("Kellogg's");
             expect(response).toMatch(/child/i);
             expect(response).toMatch(/claims|misleading|dubious|auestionable|false/i);
+        },
+    },
+    {
+        companyName: "Wagamama",
+        articleText: wagamamaArticleText,
+        targetResultCheck: async response => {
+            expect(response.split(" ").length).toBeLessThan(600);
+            expect(response).toContain("Wagamama");
+            expect(response).toMatch(/pay|paid/i);
         },
     },
 ];
