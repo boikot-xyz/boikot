@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 
 dotenv.config();
 
-export async function askGroq( prompt, body ) {
+export async function askLlama4( prompt, body ) {
     const responseJSON = await ( await fetch(
         "https://api.groq.com/openai/v1/chat/completions",
         {
@@ -46,7 +46,7 @@ export async function askGroq( prompt, body ) {
         if( responseJSON.error.code === "rate_limit_exceeded" ) {
             await new Promise( resolve => setTimeout(resolve, 5000  ) );
             // retry after delay
-            return await askGroq( prompt, body );
+            return await askLlama4( prompt, body );
         }
     }
 

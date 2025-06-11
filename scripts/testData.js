@@ -1150,3 +1150,441 @@ Cookie Settings
 Greggs is found selling vegan sauaage rolls that actually contain horsemeat. Several lab tests of various greggs sausage rolls have returned conclusively that jorsemeat is used in the filling.
 
 `;
+
+export const nintendoInfo = `
+- Source [1]:
+
+
+    Home
+    News
+
+Reviews
+Buying guides
+Gaming
+Big tech
+Deals
+Entertainment
+Science
+Cybersecurity
+More Guides
+Prime Day 2025
+
+Login
+Sign up
+Advertisement
+
+    WWDC 2025: Everything Apple announced
+    WWDC 2025 live updates
+    Everything new at SGF 2025
+    Prime Day 2025: What you need to know
+    How to buy the Nintendo Switch 2
+
+Nintendo is reportedly investigating claims of sexual misconduct
+The company is apparently taking the allegations seriously.
+Jon Fingas
+jon fingas
+Reporter
+Wed, Aug 17, 2022·1 min read
+REUTERS/Kim Kyung-Hoon
+
+Nintendo may respond quickly to allegations of sexual discrimination and harassment at its American division. A Kotaku source has reportedly shared a company-wide message from Nintendo of America President Doug Bowser revealing that the Switch creator is "actively investigating" the misconduct claims. The firm "will always" look into assertions like these and encourages workers to report violations, Bowser reportedly said.
+
+We've asked Nintendo for comment. The company has previously reacted to incidents elsewhere in the industry, however. In November, Bowser said the accusations behind the Activision Blizzard scandal were "distressing and disturbing." Days later, Nintendo pledged to increase the number of female managers.
+
+Several female game testers told Kotaku that they'd faced multiple forms of harassment and discrimination at Nintendo. Senior-ranking testers allegedly made unwanted advances and comments. Anti-LGBT remarks, pay gaps and attempts to suppress criticism were also part of the workplace culture, according to the allegations. Female workers are believed to be underrepresented at Nintendo as a whole (37 percent), and particularly among contract-based game testers (10 percent).
+
+It's too soon to know if any investigation will lead to firings or reforms. If accurate, however, the scoop is a reminder that misconduct complaints haven't been limited to one developer. Activision Blizzard, Ubisoft and others have had to address concerns as well — it may reflect cultural issues across the industry.
+Advertisement
+
+- Source [2]:
+We Care About Your Privacy
+We, and our 
+ partners use cookies and similar methods to recognize visitors and remember their preferences. We may also use these technologies to gauge the effectiveness of advertising campaigns, target advertisements, and analyze website traffic. Some of these technologies are essential for ensuring the proper functioning of the service or website and cannot be disabled, while others are optional but serve to enhance the user experience in various ways.
+
+We, in collaboration with our  partners, store and/or access information on a user's device, including but not limited to IP addresses, unique identifiers, and browsing data stored in cookies, in order to process personal data. You have the option to manage your preferences by selecting the 'Manage Preferences' option located in the page's footer. To review or object to instances where our partners assert a legitimate interest in utilizing your data, please visit our vendors page.
+We and our partners process data for the following purposes
+
+    Targeting Cookies
+    Social Media Cookies
+    Performance Cookies
+    Audience Measurement
+    Functional Cookies
+    Essential
+    Store and/or access information on a device
+    Use limited data to select advertising
+    Create profiles for personalised advertising
+    Use profiles to select personalised advertising
+    Create profiles to personalise content
+    Use profiles to select personalised content
+    Measure advertising performance
+    Measure content performance
+    Understand audiences through statistics or combinations of data from different sources
+    Develop and improve services
+    Use limited data to select content
+    Use precise geolocation data
+    Actively scan device characteristics for identification
+
+Privacy Policy
+Skip to content
+Ars Technica home
+Red badge alert
+Sweeping report alleges inequity, sexual harassment at Nintendo’s American HQ
+
+NoA full-timers accused of "using the tester pool of associates as a dating pool."
+Sam Machkovech – 16 Aug 2022 22:40 |
+127
+Credit: Nintendo
+
+Through the first half of 2022, Nintendo of America has been in the crosshairs of critics and the US National Labor Relations Board thanks to reports and formal complaints about working conditions for its contracted employees, all brought into the spotlight after a reported layoff allegedly involved pro-union sentiment. In the months since that story broke out publicly, Kotaku reporter Sisi Jiang has tracked down even more allegations about the famed game publisher's American headquarters—and the allegations land squarely in the domain of sexual harassment and gender inequity.
+
+A sweeping report published at Kotaku on Tuesday recounts roughly one decade of internal incidents among NoA's pool of temporary employees, dating back to "the early Wii U era," backed by a number of on-the-record allegations from former Nintendo staffers along with anonymous reports. The report includes attempts to reach out to Nintendo of America's leadership, an associated temp agency, and individual staffers who were named as workplace sexual harassers, but Kotaku says it never received answers to its questions.
+
+Many of the reported issues revolve around a divide between full-time employees, colloquially known as "red badges," and the rest of the company's American workforce, which was managed by temp hiring agency Aerotek before that company was absorbed into another company during a recent reorganization. The women who spoke to Kotaku both on and off the record collectively suggest that their hopes for turning part-time status into a full-time Nintendo career were strained by being women. One anonymous source said, "your chance was probably worse as a girl," while another who spoke on the record suggested women weren't given work-related goals or metrics to grow their careers, instead being told to essentially increase "face time" with male colleagues.
+
+According to the sources, this unclear path to advancement led to issues where women faced workplace sexual harassment, then had to brush it off in order to not be perceived as "overly sensitive" and have a clearer path to becoming a red badge, complete with more stable pay and benefits.
+
+    She left the company after being "warned to be less outspoken."
+
+One former QA tester suggests she found this out the hard way after reporting a male translator's uncouth behavior in a workplace Microsoft Teams chat room in 2020, which included comments about his favorite Pokemon character to have sex with and his attraction to a clearly underage female character in the free-to-play video game Genshin Impact. The staffer in question, who spoke anonymously, says she left the company after Aerotek not only failed to act on the report but also "warned her to be less outspoken," all while colleagues figured out that she had filed the complaint and "blamed her" for doing so.
+Commended for “being tougher than the girl who had cried”
+
+As one example of temp employees enduring sexual harassment to stay on the job, Kotaku describes the decades-long tenure of one full-time lead at Nintendo's QA department by citing both anonymous and on-the-record allegations about his unprofessional behavior. Women at the company were reportedly so aware of this staffer's proclivity to openly hitting on female temp hires during work hours that they warned each other to steer clear of his desk whenever possible, while one former tester spoke on the record to say this man "went after all the associate girls." Yet one woman suggested there wasn't much that affected women could do if they wanted job security at NoA. "If you were friendly with him, you are more likely to be brought back sooner or less likely to be laid off," one anonymous source told Kotaku.
+
+Thanks to those assumptions about access to male employees as a path to career advancement, multiple women alleged that they would endure workplace flirtation to secure "opportunities and access," particularly invites to holiday-themed company parties, which contractors and temp workers could not attend unless they were the guest of a "red badge." That allegation lines up with an anonymous source telling Kotaku that "a lot of the NOA red badges had reputations for using the tester pool of associates as a dating pool."
+
+    "You're just playing hard to get."
+
+Another woman told Kotaku that her tenure at NoA resembled a "frat house," which coincidentally was the same phrase used by a California State agency in its landmark lawsuit about pay disparity and sexual harassment filed against Activision Blizzard in July 2021. The former NoA tester in question once formally complained about male staffers' jokes about video game characters whose skirts flipped, only to receive pushback from male colleagues. Once she stopped formally complaining, she received direct praise: "her supervisor commended her for being tougher than the girl who had cried at the office," Kotaku's Sisi Jiang writes.
+
+Women who identified as queer suggested that they suffered outsize forms of prejudice. One woman alleged she fell out of favor with male NoA colleagues, and thus any career advancement, when she didn't respond to their workplace flirtations ("you’re just playing hard to get," one told her). Two other women who were in a relationship were punished at the workplace for holding hands—a violation of the temp agency's "no-touching" policy that they allege was not administered to their straight colleagues.
+Echoes of reports from as far back as 1990
+
+The Kotaku report includes further allegations about disturbing behavior by full-time Nintendo employees, including one account of "stalking" that went on for over six months through 2011 and 2012, along with a suggestion that Nintendo's efforts to increase hiring diversity over the past year have only gone so far—and have reportedly not made a significant impact on the company's pool of women in contract and temp positions. It also suggests that NoA's campus is broken up into "microcosms" that do not include ways for each department's women to communicate directly with each other about workplace concerns.
+
+The recent NLRB investigation is ongoing, and thus its language is quite vague, but its top-level statements leave open the possibility that Nintendo is being investigated for a violation of US labor protections. It's not the first time Nintendo of America has dealt with criticism over its hiring practices, though this requires rewinding to 1990, when the then-skyrocketing company faced scrutiny for its treatment of Black contract employees. Not only had Nintendo done a poor job of hiring a proportionate number of Black staffers, an advocacy group alleged, the company also had a track record of advancing white men from contract to full-time status in scant amounts of time ("2-3 months") while leaving qualified Black employees outside the career advancement track.
+
+This storyline replayed when the same advocacy group protested Nintendo's plans to purchase the Major League Baseball team Seattle Mariners in the early '90s. "Approximately two years ago, over 95 percent of all African Americans employed by Nintendo appealed to [us] for assistance to help improve the discriminatory conditions that existed at NOA’s Redmond, Washington, facility," Core Group wrote to regulators in 1992.
+
+Listing image: Nintendo
+Photo of Sam Machkovech
+Sam Machkovech
+127 Comments
+Prev story
+Next story
+Most Read
+
+    Listing image for first story in Most Read: Two certificate authorities booted from the good graces of Chrome
+    1.
+    Two certificate authorities booted from the good graces of Chrome
+    2.
+    Apple drops support for just three iPhone and iPad models from iOS and iPadOS 26
+    3.
+    Apple details the end of Intel Mac support and a phaseout for Rosetta 2
+    4.
+    Prepping for Starship, SpaceX is about to demolish one of ULA’s launch pads
+    5.
+    FCC threat to revoke EchoStar spectrum licenses draws widespread backlash
+
+Ars Technica has been separating the signal from the noise for over 25 years. With our unique combination of technical savvy and wide-ranging interest in the technological arts and sciences, Ars is the trusted source in a sea of information. After all, you don’t need to know everything, only what’s important.
+
+More from Ars
+
+    About Us
+    Staff Directory
+    Newsletters
+    Ars Videos
+    General FAQ
+    RSS Feeds
+
+Contact
+
+    Contact us
+    Advertise with us
+    Reprints
+
+© 2025 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement and Privacy Policy and Cookie Statement and Ars Technica Addendum and Your California Privacy Rights. Ars Technica may earn compensation on sales from links on this site. Read our affiliate link policy. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+
+- Source [3]:
+
+Skip to main content
+
+    Nintendo Switch 2
+    Financials
+    Jobs roundup
+    Layoffs
+
+GamesIndustry.biz
+If you click on a link and make a purchase we may receive a small commission. Read our editorial policy.
+
+    Home News 
+
+Nintendo's price fixing fine reduced by £27m
+
+Cooperation with EU court prompts reduction for Nintendo and distributors
+Matt Martin avatar
+News by Matt Martin Contributor
+Published on May 1, 2009
+
+Nintendo's fine by the European Court for price fixing has been reduced from EUR 149.128 (GBP 132.767) to EUR 119.24 million (GBP 106.15m).
+
+The fine was originally imposed on Nintendo and seven of is distribution partners in Europe, including John Menzies in the UK, for fixing prices on hardware and software between 1991 and 1998.
+
+Nintendo said it would fight the decision last May, and the reduction has been granted following Nintendo and its distributors' co-operating with the court ruling.
+
+"The Court recalled that the basic amount of the fine may be reduced where the undertaking has effectively cooperated in the proceedings," stated the court. "In the contested decision, the Commission took account of John Menzies’s cooperation, with the result that it reduced that undertaking’s fine by 40 per cent.
+
+"The Court held that pursuant to the principle of equal treatment, since Nintendo produced the relevant documents at the same stage of the procedure and its cooperation must be regarded as comparable, it must benefit in this respect from the same level of reduction of fine."
+
+A fine on Nintendo's distributor in Belgium and Luxembourg, CD Contact Data, was also cut from EUR 1 million to EUR 500,000.
+Read this next
+
+    Ampere Analysis: Over 13m players expected to purchase Switch 2 in 2025
+    Nintendo Switch 2 consoles arrive damaged as retailer staples receipts on outer packaging
+    Neowiz signs global rights to Shadowlight's inaugural game, Kill the Shadow
+
+Matt Martin avatar
+Matt Martin joined GamesIndustry in 2006 and was made editor of the site in 2008. With over ten years experience in journalism, he has written for multiple trade, consumer, contract and business-to-business publications in the games, retail and technology sectors.
+View comments (0)
+Related topics
+Nintendo Publishing
+Newsletters
+Subscribe to our newsletters and stay ahead of the curve
+
+All the biggest stories, expert analysis and data, straight to your inbox.
+GI Daily
+GI Market Report
+Partner Emails
+
+    Non-profit Games for Change appoints 5 new board members to "scale impact in meaningful new ways"
+    Gears of War: Reloaded is not releasing on PS5 in Japan, but Xbox or PC releases will go ahead
+    Multiplayer game and live streaming gaming platform Noice shuts down
+    You can now enter the 2025 UK GamesIndustry.biz Best Places To Work Awards
+    Apple announces new games platform launching later this year
+    SAG-AFTRA reaches tentative agreement with major games companies to end strike
+    Ubisoft trial witnesses testify to "being tied to a chair, forced to do handstands, and subjected to constant comments about sex"
+
+© 2025 GamesIndustry.biz, an IGN Entertainment Inc. brand. 18 Mansell Street Level 3, London, E1 8AA, United Kingdom. All rights reserved. No part of this website or its content may be reproduced without the copyright owner's permission. GAMESINDUSTRY.BIZ is a registered trademark of Gamer Network Limited, an affiliate of IGN Entertainment Inc.
+Theme
+Auto
+Light
+Dark
+
+    Helpful Links
+    About Us
+    Advertise with us
+    Archive
+    Authors
+    Contact Us
+    Corporate Site
+    Pitching Guidelines
+    RSS Feeds
+    Send Us News
+
+    Policies
+    Accessibility Policy
+
+    Code of Conduct
+    Cookie Policy
+    Do Not Sell My Personal Information
+    Editorial Policy
+    Privacy Policy
+    Review Policy
+    Terms & Conditions
+
+    IGN Entertainment
+    Dicebreaker
+    Digital Foundry
+    Eurogamer
+    HowLongToBeat
+    Humble Bundle
+    IGN
+    Maxroll
+    Nintendo Life
+    Pure Xbox
+    Push Square
+    Rock Paper Shotgun
+    Time Extension
+    VG247
+
+- Source [4]:
+
+
+BBCi 	CATEGORIES 	  TV 	  RADIO 	  COMMUNICATE 	  WHERE I LIVE 	  INDEX  		  SEARCH
+
+
+
+BBC News UK Edition
+
+			 You are in: Business
+
+
+News Front Page
+World
+UK
+England
+N Ireland
+Scotland
+Wales
+Politics
+Business
+Market Data
+Your Money
+E-Commerce
+Economy
+Companies
+Fact Files
+Entertainment
+Science/Nature
+Technology
+Health
+Education
+-------------
+Talking Point
+-------------
+Country Profiles
+In Depth
+-------------
+Programmes
+-------------
+BBC Sport
+BBC Weather
+CBBC News
+
+SERVICES
+
+
+Daily E-mail
+
+
+News Ticker
+
+
+Mobile/PDAs
+
+	-------------
+
+
+Text Only
+
+
+Feedback
+
+
+Help
+
+
+
+EDITIONS
+
+
+Change to World
+
+
+		Wednesday, 30 October, 2002, 12:51 GMT
+Nintendo fined for price fixing
+Nintendo images
+The price-fixing claims date back to the 1990s
+Nintendo has been fined 149m euros (£92.1m) by the European Commission for trying to rig the computer game market.
+
+The firm and seven distributors have been found guilty by commission anti-trust officials of attempting to keep prices artificially high in some EU states between 1991 and 1998.
+
+
+In view of the size of the fine, Nintendo will lodge an appeal
+
+Nintendo statement
+The severity of the fine, the fourth highest ever meted out by commission trade watchdogs for a single offence, reflected Nintendo's role as "the driving force behind the illicit behaviour", the commission said.
+
+The distributors, including Scotland-based John Menzies, were fined 18m euros.
+
+Appeal
+
+But Nintendo said it would fight the penalty.
+
+"In view of the size of the fine, which Nintendo finds surprising, Nintendo will lodge an appeal," the company said.
+
+Competition Commissioner Mario Monti
+Mario Monti: Price fixing "not tolerated"
+
+While accepting that it had broken EU rules, the firm said it had reformed its practices.
+
+John Menzies, which said its fine of £5.4m was "totally disproportionate", said it was considering legal options.
+
+The firm was implicated through its THE Games unit between 1995 and 1997.
+
+"We feel that the commission has not fully recognised... [its] earlier acceptance that this was a mistake, not a deliberate transgression; that THE Games was more victim than villain," Menzies chief executive, David Mackay said.
+
+Price differences
+
+The fines follow a two-year probe by the commission into claims that Nintendo prevented distributors from selling goods from low-cost countries in states where prices were higher.
+
+Prices of Nintendo products were up to 65% higher in Germany or the Netherlands than in Britain.
+
+"Every year, millions of European families spend large amounts of money on video games," Competition Commissioner Mario Monti said.
+
+"They have the right to buy the games and consoles at the lowest price the market can possibly offer.
+
+"We will not tolerate... behaviour intended to keep prices artificially high in the European single market."
+
+
+
+	 WATCH/LISTEN
+
+	 ON THIS STORY
+
+		The BBC's Jenny Scott
+"Nintendo says it's learnt its lesson"
+
+
+		Peter Willis, competition lawyer at Taylor Wessing
+"The Commission always takes a very serious view of this sort of offence"
+
+
+		European Competition Commissioner Mario Monti
+"Our ultimate purpose is not the sanctioning itself"
+
+
+
+See also:
+
+30 Oct 02 | Arts
+Sotheby's fined £13m for price-fixing
+02 Oct 02 | Business
+Nintendo shares fall after profit warning
+28 Apr 00 | Europe
+Nintendo accused of cartel swindle
+Internet links:
+
+Nintendo
+
+The BBC is not responsible for the content of external internet sites
+Top Business stories now:
+
+Hacker breaches credit card security
+Job losses escalate at Reuters
+New SEC chief pledges tough line
+Oil prices push higher
+UK inflation steady at 2.7%
+Britons 'baffled over euro rate'
+BT threatened with strike action
+Blair keeps euro options open
+Links to more Business stories are at the foot of the page.
+
+
+
+	E-mail this story to a friend
+
+
+Links to more Business stories
+
+
+© BBC 		^^ Back to top
+
+News Front Page | World | UK | England | N Ireland | Scotland | Wales |
+Politics | Business | Entertainment | Science/Nature | Technology |
+Health | Education | Talking Point | Country Profiles | In Depth |
+Programmes
+	----------------------------------------------------------------------------------
+To BBC Sport>> | To BBC Weather>> | To BBC World Service>>
+----------------------------------------------------------------------------------
+
+`;

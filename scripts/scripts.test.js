@@ -6,9 +6,9 @@ import { getWikipediaInfo, getWikipediaPage } from "./wiki.js";
 import { getRecord } from "./getRecord.js";
 import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
-import { askGroq, askQwen, askGemma, embed } from "./llm.js";
+import { askLlama4, askQwen, askGemma, embed } from "./llm.js";
 import { getInvestigationPrompt, getSummarisationPrompt } from "./prompts.js";
-import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo } from "./testData.js";
+import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo, nintendoInfo } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
 import boikot from "../boikot.json" with { type: "json" };
@@ -365,9 +365,25 @@ const targetSummarisationResults = [
             expect(response).toMatch(/(horse ?meat)|(vegan)/i);
         },
     },
+    {
+        companyName: "Nintendo",
+        companyInfo: nintendoInfo,
+        targetResultCheck: async response => {
+            expect(response).toMatch(/^Nintendo is a/i);
+            expect(response).toMatch(/^.+\. .+\.$/);
+            expect(response.split(". ").length).toBe(2);
+
+            expect(response).toContain("[1]");
+            expect(response).toContain("[2]");
+            expect(response).toContain("[4]");
+
+            expect(response).toMatch(/sexual|misconduct|harassment/i);
+            expect(response).toMatch(/price.fixing/i);
+        },
+    },
 ];
 
-const llmOptions = [ askQwen, askGroq, askGemma ];
+const llmOptions = [ askQwen, askLlama4, askGemma ];
 
 llmOptions.forEach( llmFunc =>
   describe( llmFunc.name, () => {
