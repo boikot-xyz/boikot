@@ -389,11 +389,13 @@ llmOptions.forEach( llmFunc =>
   describe( llmFunc.name, () => {
     it("responds as asked", async () => {
       const response = await llmFunc("Please respond to this message with the string \"beans\"")
+      console.log(response);
       expect(response).toBe("beans");
     });
   
     it("can add up", async () => {
       const response = await llmFunc("What is nine plus ten? respond with just a number, eg. \"45\" or \"32\". Think briefly but correctly."); // need to tell Qwen not to think too much
+      console.log(response);
       expect(response).toBe("19");
     });
   
@@ -401,7 +403,8 @@ llmOptions.forEach( llmFunc =>
       const response = await llmFunc(
           "Is it generally correct to say sand tastes better than chocolate? " +
           "Please respond with only one of the following options and no other characters or punctuation: \"Yes\" or \"No\""
-      )
+      );
+      console.log(response);
       expect(response).toBe("No");
     });
 
