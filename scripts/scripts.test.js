@@ -455,6 +455,7 @@ llmOptions.forEach( llmFunc =>
     // todo add function that sorts sources and removes unused ones
     // todo function that filters youtube etc out of results
     // todo figure out 6000 token workaround
+    // todo call rustscrape from js
     // todo extract ethics section and sources from wikipedia
     // todo maybe just return urls from investigate prompt
     // todo let llm check result and trigger error
