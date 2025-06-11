@@ -44,7 +44,11 @@ export async function askLlama4( prompt, body ) {
         // log response object for debugging
         console.log(responseJSON);
         if( responseJSON.error.code === "rate_limit_exceeded" ) {
-            await new Promise( resolve => setTimeout(resolve, 5000  ) );
+            const wait =
+                +(responseJSON.error?.message
+                    .match(/try again in ([\d.]+)s/)?.[1]) 
+                || 5;
+            await new Promise( resolve => setTimeout(resolve, wait * 1000 + 10 ) );
             // retry after delay
             return await askLlama4( prompt, body );
         }
