@@ -699,6 +699,90 @@ Contact Us
 osm2117@columbia.edu
 `;
 
+export const kelloggsArticleText = `
+FTC seal Federal Trade Commission Protecting America's Consumers
+Skip to Main Content
+
+
+    Privacy Policy Contact Us Advanced Search En Español
+
+    Home
+    News
+        About Public Affairs
+        Public Events
+        Speeches
+        Testimony
+        Webcasts
+        Blogs
+        Reporter Resources
+        Noticias en Español
+    Competition
+    Consumer Protection
+    Economics
+    General Counsel
+    Actions
+    Congressional
+    Policy
+    International
+
+For Release: 06/03/2010
+FTC Investigation of Ad Claims that Rice Krispies Benefits Children's Immunity Leads to Stronger Order Against Kellogg
+
+Leading cereal maker Kellogg Company has agreed to new advertising restrictions to resolve a Federal Trade Commission investigation into questionable immunity-related claims for Rice Krispies cereal. This is the second time in the last year that the FTC has taken action against the company.
+
+“We expect more from a great American company than making dubious claims – not once, but twice – that its cereals improve children’s health,” said FTC Chairman Jon Leibowitz. “Next time, Kellogg needs to stop and think twice about the claims it’s making before rolling out a new ad campaign, so parents can make the best choices for their children.”
+
+Kellogg has agreed to expand a settlement order that was reached last year after the FTC alleged that the company made false claims that its Frosted Mini-Wheats cereal was “clinically shown to improve kids’ attentiveness by nearly 20%.”
+
+At about the same time that Kellogg agreed to stop making these kinds of false claims in its cereal ads, the company began a new advertising campaign promoting the purported health benefits of Rice Krispies, according to the FTC. On product packaging, Kellogg claimed that Rice Krispies cereal “now helps support your child’s immunity,” with “25 percent Daily Value of Antioxidants and Nutrients – Vitamins A, B, C, and E.” The back of the cereal box stated that “Kellogg’s Rice Krispies has been improved to include antioxidants and nutrients that your family needs to help them stay healthy.”
+
+Under the original settlement order covering Frosted Mini-Wheats, Kellogg was barred from making claims about the benefits to cognitive health, process, or function provided by any cereal or any morning food or snack food unless the claims were true and substantiated.
+
+The expanded order against Kellogg prohibits the company from making claims about any health benefit of any food unless the claims are backed by scientific evidence and not misleading.
+
+The Commission vote to modify the 2009 settlement order was 5-0, with Commissioner Julie Brill and Chairman Jon Leibowitz issuing a separate joint concurring statement. “As a trusted, long-established company with a presence in millions of American homes, Kellogg must not shirk its responsibility to do the right thing when it advertises the food we feed our children,” they wrote in the statement, which can be found on the FTC’s website and as a link to this press release at: http://www.ftc.gov/os/caselist/0823145/100602kelloggstatement.pdf.
+
+Copies of the expanded order and related documents can be found on the FTC’s website and also are available from the FTC’s Consumer Response Center, Room 130, 600 Pennsylvania Avenue, N.W., Washington, DC 20580.
+
+NOTE: A consent agreement is for settlement purposes only and does not constitute an admission of a law violation. When the Commission issues a consent order on a final basis, it carries the force of law with respect to future actions. Each violation of such an order may result in a civil penalty of up to $16,000.
+
+The Federal Trade Commission works for consumers to prevent fraudulent, deceptive, and unfair business practices and to provide information to help spot, stop, and avoid them. To file a complaint in English or Spanish, visit the FTC’s online Complaint Assistant or call 1-877-FTC-HELP (1-877-382-4357). The FTC enters complaints into Consumer Sentinel, a secure, online database available to more than 1,800 civil and criminal law enforcement agencies in the U.S. and abroad. The FTC’s website provides free information on a variety of consumer topics.
+
+MEDIA CONTACT:
+    Mitchell J. Katz
+    Office of Public Affairs
+    202-326-2161
+STAFF CONTACT:
+    Heather Hippsley or Shira Modell
+    Bureau of Consumer Protection
+    202-326-3285 or -3116
+
+(FTC Docket No. C-4262)
+(Kellogg.final)
+E-mail this News Release
+If you send this link to someone else, the FTC will not collect any personal information about you or the recipient.
+Related Items:
+
+In the Matter of Kellogg Company, a corporation.
+FTC File No. 082 3145
+
+    Concurring Statement of Commissioner Julie Brill
+    and Chairman Jon Leibowitz
+
+Exhibit A
+
+    Front Label
+    Back Label
+
+
+    About Us Contact Us Jobs Recovery Act No FEAR Act Data Performance and Accountability Report FOIA Site Map
+
+
+    Website Policies Accessibility Privacy Policy Browser Plug-ins Related Sites USA.gov For FTC Staff
+
+Last Modified: Thursday, June 3, 2010
+`;
+
 export const barclaysInfo = `
 - Source [1]:
 Barclays is the world's largest funder of fracking and coal
