@@ -11,6 +11,7 @@ import { getInvestigationPrompt, getSummarisePrompt, getCombinePrompt } from "./
 import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, appleArticleText, kelloggsArticleText, wagamamaArticleText, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo, nintendoInfo, burberryInfo } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
+import { sortSources } from "./assemble.js";
 import boikot from "../boikot.json" with { type: "json" };
 
 const targetWikipediaPages = [
@@ -508,7 +509,6 @@ llmOptions.forEach( llmFunc =>
         expect(response).toContain("investigative journalist");
     });
 
-    // todo add function that sorts sources and removes unused ones
     // todo function that filters youtube etc out of results
     // todo call rustscrape from js
     // todo check that ecosia search can find all relevant articles
@@ -518,6 +518,111 @@ llmOptions.forEach( llmFunc =>
     // todo ability to set ownedBy
   })
 );
+
+
+const sortSourcesTargets = [
+    {
+        companyName: "empty",
+        before: {
+            summaryText: "",
+            sources: {},
+        },
+        target: {
+            summaryText: "",
+            sources: {},
+        },
+    },
+    {
+        companyName: "Gap",
+        before: {
+            summaryText: "Gap is an American clothing conglomerate that has sourced garments from factories with squalid conditions, wage nonpayment and mandatory overtime, which have forced employees to have abortions, and where employees have been sexually assaulted [10][2][1][0]. GAP has also sold clothes produced by child labour [12345678] and forced labour of Uyghur Muslims [11].",
+            sources: {
+                "10": "https://www.globalcitizen.org/en/content/hm-gap-factory-abuse-fast-fashion-workers/",
+                "2": "https://www.independent.co.uk/news/shirts-for-the-fashionable-at-a-price-paid-in-human-misery-on-us-soil-the-gap-workers-are-forced-to-1121362.html",
+                "1": "https://web.archive.org/web/20170915133212/http://www.msmagazine.com/spring2006/paradise_full.asp",
+                "3": "https://webb.archive.org/web/20130921061502/http://articles.washingtonpost.com/2012-12-09/world/35721716_1_samsung-chairman-smartphone-market-samsung-credit-card",
+                "beans": "https://webbb.archive.org/web/20130921061502/http://articles.washingtonpost.com/2012-12-09/world/35721716_1_samsung-chairman-smartphone-market-samsung-credit-card",
+                "0": "https://wayback.archive-it.org/all/20080309041041/http://www.nlcnet.org/documents/Jordan_PDF_Web/04_Western.pdf",
+                "12345678": "http://news.bbc.co.uk/1/hi/world/south_asia/7066019.stm",
+                "11": "https://archive.is/GSvdC"
+            },
+        },
+        target: {
+            summaryText: "Gap is an American clothing conglomerate that has sourced garments from factories with squalid conditions, wage nonpayment and mandatory overtime, which have forced employees to have abortions, and where employees have been sexually assaulted [1][2][3][4]. GAP has also sold clothes produced by child labour [5] and forced labour of Uyghur Muslims [6].",
+            sources: {
+                "1": "https://www.globalcitizen.org/en/content/hm-gap-factory-abuse-fast-fashion-workers/",
+                "2": "https://www.independent.co.uk/news/shirts-for-the-fashionable-at-a-price-paid-in-human-misery-on-us-soil-the-gap-workers-are-forced-to-1121362.html",
+                "3": "https://web.archive.org/web/20170915133212/http://www.msmagazine.com/spring2006/paradise_full.asp",
+                "4": "https://wayback.archive-it.org/all/20080309041041/http://www.nlcnet.org/documents/Jordan_PDF_Web/04_Western.pdf",
+                "5": "http://news.bbc.co.uk/1/hi/world/south_asia/7066019.stm",
+                "6": "https://archive.is/GSvdC"
+            },
+        },
+    },
+    {
+        companyName: "Samsung",
+        before: {
+            summaryText: "Samsung is a South Korean conglomerate which is the world's largest mobile phone and microchip manufacturer [1][5]. Samsung accounts for over 20% of South Korean exports [3] and has an outsized influence in the nation [4], and has been involved in bribery [2], anti-union activities [6], and price fixing [100].",
+            sources: {
+                "1": "https://web.archive.org/web/20120428062632/http://www.isuppli.com/Mobile-and-Wireless-Communications/News/Pages/Samsung-Overtakes-Nokia-for-Cellphone-Lead.aspx",
+                "5": "https://web.archive.org/web/20180525234650/https://techcrunch.com/2018/01/30/samsung-intel-worlds-largest-chipmaker/",
+                "3": "https://web.archive.org/web/20110503224019/http://business.timesonline.co.uk/tol/business/industry_sectors/technology/article3764352.ece",
+                "4": "https://web.archive.org/web/20130921061502/http://articles.washingtonpost.com/2012-12-09/world/35721716_1_samsung-chairman-smartphone-market-samsung-credit-card",
+                "12": "https://webb.archive.org/web/20130921061502/http://articles.washingtonpost.com/2012-12-09/world/35721716_1_samsung-chairman-smartphone-market-samsung-credit-card",
+                "2": "https://web.archive.org/web/20170701085942/http://www.nytimes.com/2007/11/06/business/worldbusiness/06iht-samsung.1.8210181.html?pagewanted=all&_r=0",
+                "6": "https://web.archive.org/web/20190627140032/http://english.hani.co.kr/arti/english_edition/e_international/899427.html",
+                "100": "https://web.archive.org/web/20100707041505/http://europa.eu/rapid/pressReleasesAction.do?reference=IP/10/586"
+            },
+        },
+        target: {
+            summaryText: "Samsung is a South Korean conglomerate which is the world's largest mobile phone and microchip manufacturer [1][2]. Samsung accounts for over 20% of South Korean exports [3] and has an outsized influence in the nation [4], and has been involved in bribery [5], anti-union activities [6], and price fixing [7].",
+            sources: {
+                "1": "https://web.archive.org/web/20120428062632/http://www.isuppli.com/Mobile-and-Wireless-Communications/News/Pages/Samsung-Overtakes-Nokia-for-Cellphone-Lead.aspx",
+                "2": "https://web.archive.org/web/20180525234650/https://techcrunch.com/2018/01/30/samsung-intel-worlds-largest-chipmaker/",
+                "3": "https://web.archive.org/web/20110503224019/http://business.timesonline.co.uk/tol/business/industry_sectors/technology/article3764352.ece",
+                "4": "https://web.archive.org/web/20130921061502/http://articles.washingtonpost.com/2012-12-09/world/35721716_1_samsung-chairman-smartphone-market-samsung-credit-card",
+                "5": "https://web.archive.org/web/20170701085942/http://www.nytimes.com/2007/11/06/business/worldbusiness/06iht-samsung.1.8210181.html?pagewanted=all&_r=0",
+                "6": "https://web.archive.org/web/20190627140032/http://english.hani.co.kr/arti/english_edition/e_international/899427.html",
+                "7": "https://web.archive.org/web/20100707041505/http://europa.eu/rapid/pressReleasesAction.do?reference=IP/10/586"
+            },
+        },
+    },
+    {
+        companyName: "Nestle",
+        before: {
+            summaryText: "Nestlé is the world's largest food and beverage company which has been named by Ukraine as an International Sponsor of War [12], sourced cocoa produced by child labour in West Africa [1][3], and questioned whether access to drinking water should be a human right [2]. The company has made some positive efforts like improving agriculture practices and building schools for the children of their farmers [5].",
+            sources: {
+                "1": "https://web.archive.org/web/20081226141935/http://news.bbc.co.uk/1/hi/world/africa/1272522.stm",
+                "3": "https://web.archive.org/web/20090114115945/http://news.bbc.co.uk/2/hi/africa/1311982.stm",
+                "5": "https://web.archive.org/web/20160103032603/http://www.mnn.com/food/healthy-eating/stories/what-does-the-cocoa-plan-label-on-chocolate-mean",
+                "2": "https://web.archive.org/web/20170629043128/http://www.thenational.ae/arts-culture/the-human-rights-and-wrongs-of-nestl-and-water-for-all",
+                "12": "https://zmina.info/en/news-en/nestle-listed-as-international-war-sponsor-by-ukraines-anti-corruption-agency/",
+            },
+        },
+        target: {
+            summaryText: "Nestlé is the world's largest food and beverage company which has been named by Ukraine as an International Sponsor of War [1], sourced cocoa produced by child labour in West Africa [2][3], and questioned whether access to drinking water should be a human right [4]. The company has made some positive efforts like improving agriculture practices and building schools for the children of their farmers [5].",
+            sources: {
+                "1": "https://zmina.info/en/news-en/nestle-listed-as-international-war-sponsor-by-ukraines-anti-corruption-agency/",
+                "2": "https://web.archive.org/web/20081226141935/http://news.bbc.co.uk/1/hi/world/africa/1272522.stm",
+                "3": "https://web.archive.org/web/20090114115945/http://news.bbc.co.uk/2/hi/africa/1311982.stm",
+                "4": "https://web.archive.org/web/20170629043128/http://www.thenational.ae/arts-culture/the-human-rights-and-wrongs-of-nestl-and-water-for-all",
+                "5": "https://web.archive.org/web/20160103032603/http://www.mnn.com/food/healthy-eating/stories/what-does-the-cocoa-plan-label-on-chocolate-mean"
+            },
+        },
+    },
+];
+
+describe("sortSources", () => {
+    sortSourcesTargets.forEach(
+        ({ companyName, before, target }) => {
+            it(`can sort sources for ${companyName}`, () => {
+                const [ sortedSummaryText, sortedSources ] =
+                    sortSources( before.summaryText, before.sources );
+                expect( sortedSummaryText ).toBe( target.summaryText );
+                expect( sortedSources ).toEqual( target.sources );
+            });
+        });
+});
 
 describe("dist", () => {
     it("can find the distance", () => {
