@@ -17,3 +17,9 @@ these are some information gathering scripts that can be used to collect company
 
 - `render.js` - a script which is used to statically render the boikot.xyz site
 
+## notes
+
+get all tags in use
+```
+jq ".companies | map(.tags)" ../boikot.json | grep '"' | grep -oE "(\w| )+" | sort | uniq
+```
