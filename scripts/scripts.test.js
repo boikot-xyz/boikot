@@ -513,6 +513,9 @@ llmOptions.forEach( llmFunc =>
     // todo call rustscrape from js
     // todo check that ecosia search can find all relevant articles
     // otherwise figure out how to
+    // todo ability to get company names and ticker
+    // todo ability to get tags
+    // todo ability to set ownedBy
   })
 );
 
