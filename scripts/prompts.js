@@ -44,6 +44,7 @@ ${companyInfo}
 
 Please summarise this information into a two-sentence summary of the ethics of ${companyName}, like the examples above.
 - Begin with "${companyName} is a "
+- Only use the information above in your summary. If there is insufficient information provided to write an ethics summary from, respond with "INSUFFICIENT INFORMATION AVAILABLE"
 - Make sure you include a few specific words on all the unethical actions ${companyName} has taken.
 - After you include information from a given source, include its citation number eg. [1], [2] or [3].
 - Our citation engine is not that smart, so if you want to add 2 citiations together, do it like this: [4][5], not like this: [4, 5].

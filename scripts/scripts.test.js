@@ -8,7 +8,7 @@ import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
 import { askLlama4, askQwen, askGemma, embed } from "./llm.js";
 import { getInvestigationPrompt, getSummarisePrompt, getCombinePrompt } from "./prompts.js";
-import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, appleArticleText, kelloggsArticleText, wagamamaArticleText, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo, nintendoInfo } from "./testData.js";
+import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, appleArticleText, kelloggsArticleText, wagamamaArticleText, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo, nintendoInfo, burberryInfo } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
 import boikot from "../boikot.json" with { type: "json" };
@@ -413,6 +413,13 @@ const targetCombineResults = [
             expect(response).toMatch(/price.fixing/i);
         },
     },
+    {
+        companyName: "Burberry",
+        companyInfo: burberryInfo,
+        targetResultCheck: async response => {
+            expect(response).toContain("INSUFFICIENT INFORMATION AVAILABLE");
+        },
+    },
 ];
 
 const llmOptions = [ askQwen, askLlama4, askGemma ];
@@ -504,9 +511,6 @@ llmOptions.forEach( llmFunc =>
     // todo add function that sorts sources and removes unused ones
     // todo function that filters youtube etc out of results
     // todo call rustscrape from js
-    // todo extract ethics section and sources from wikipedia
-    // todo maybe just return urls from investigate prompt
-    // todo let llm check result and trigger error
   })
 );
 

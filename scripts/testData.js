@@ -1865,8 +1865,118 @@ News Front Page | World | UK | England | N Ireland | Scotland | Wales |
 Politics | Business | Entertainment | Science/Nature | Technology |
 Health | Education | Talking Point | Country Profiles | In Depth |
 Programmes
-	----------------------------------------------------------------------------------
-To BBC Sport>> | To BBC Weather>> | To BBC World Service>>
-----------------------------------------------------------------------------------
+
+`;
+
+export const burberryInfo = `
+- Source [1]:
+
+[12/06, 09:41] Meta AI: Burberry has introduced several fragrances in recent years, but one of their newest and most notable releases is Burberry Goddess, a refillable fragrance featuring rich vanilla and luminous lavender. This scent is led by a trio of vanillas, with the Eau de Parfum Intense variant enhanced by a smoky fourth vanilla wood.
+
+*Key Features of Burberry Goddess:*
+
+- *Fragrance Notes*: Rich vanilla and luminous lavender
+- *Refillable*: Burberry Goddess is the brand's first refillable fragrance
+- *Variants*: Eau de Parfum and Eau de Parfum Intense
+
+Another notable mention is Burberry Hero Parfum, a men's fragrance that begins with a trio of cedarwood oils at its base. This scent is part of Burberry's Hero collection, which includes Parfum, Eau de Parfum, and Eau de Toilette variants.
+
+*Burberry's Fragrance Collections:*
+
+- *Burberry Goddess*: A women's fragrance featuring vanilla and lavender notes
+- *Burberry Hero*: A men's fragrance with cedarwood oil notes
+- *Burberry Her*: A series of unique scents for women inspired by London, with variants like Eau de Parfum, E
+[12/06, 09:41] Meta AI: Burberry has introduced several fragrances in recent years, but one of their newest and most notable releases is Burberry Goddess, a refillable fragrance featuring rich vanilla and luminous lavender. This scent is led by a trio of vanillas, with the Eau de Parfum Intense variant enhanced by a smoky fourth vanilla wood.
+
+*Key Features of Burberry Goddess:*
+
+- *Fragrance Notes*: Rich vanilla and luminous lavender
+- *Refillable*: Burberry Goddess is the brand's first refillable fragrance
+- *Variants*: Eau de Parfum and Eau de Parfum Intense
+
+Another notable mention is Burberry Hero Parfum, a men's fragrance that begins with a trio of cedarwood oils at its base. This scent is part of Burberry's Hero collection, which includes Parfum, Eau de Parfum, and Eau de Toilette variants.
+
+*Burberry's Fragrance Collections:*
+
+- *Burberry Goddess*: A women's fragrance featuring vanilla and lavender notes
+- *Burberry Hero*: A men's fragrance with cedarwood oil notes
+- *Burberry Her*: A series of unique scents for women inspired by London, with variants like Eau de Parfum, Eau de Toilette, and Eau de Parfum Intense
+
+For the latest information on Burberry's newest perfumes, I recommend visiting the Burberry official website or authorized retailers like The Perfume Shop ¹ ² ³.
+[12/06, 09:41] Meta AI: Burberry has introduced several fragrances in recent years, but one of their newest and most notable releases is Burberry Goddess, a refillable fragrance featuring rich vanilla and luminous lavender. This scent is led by a trio of vanillas, with the Eau de Parfum Intense variant enhanced by a smoky fourth vanilla wood.
+
+*Key Features of Burberry Goddess:*
+
+- *Fragrance Notes*: Rich vanilla and luminous lavender
+- *Refillable*: Burberry Goddess is the brand's first refillable fragrance
+- *Variants*: Eau de Parfum and Eau de Parfum Intense
+
+Another notable mention is Burberry Hero Parfum, a men's fragrance that begins with a trio of cedarwood oils at its base. This scent is part of Burberry's Hero collection, which includes Parfum, Eau de Parfum, and Eau de Toilette variants.
+
+*Burberry's Fragrance Collections:*
+
+- *Burberry Goddess*: A women's fragrance featuring vanilla and lavender notes
+- *Burberry Hero*: A men's fragrance with cedarwood oil notes
+- *Burberry Her*: A series of unique scents for women inspired by London, with variants like Eau de Parfum, Eau de Toilette, and Eau de Parfum Intense
+
+For the latest information on Burberry's newest perfumes, I recommend visiting the Burberry official website or authorized retailers like The Perfume Shop ¹ ² ³.
+
+
+- Source [2]:
+
+*Headline*
+Breaking News: Local Community Rallies Behind New Initiative
+
+*Subheading*
+Residents and business owners join forces to promote sustainability and growth
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+
+*Related Stories*
+- "Economic Growth on the Rise: Experts Weigh In"
+- "New Developments in Local Infrastructure: What to Expect"
+- "Community Events: What's Happening This Weekend"
+
+*Latest News*
+- "Breaking: Major Announcement from Local Government"
+- "Sports: Local Team Wins Championship Title"
+- "Weather: Forecast Shows Improvement for Next Week"
+
+*Most Popular*
+- "Top 10 Stories of the Week: A Roundup"
+- "Opinion: Expert Analysis on Current Events"
+- "Video: Witnesses Describe Dramatic Scene"
+
+*More News*
+- "Politics: Latest Updates and Developments"
+- "Business: Market Trends and Analysis"
+- "Entertainment: New Releases and Reviews"
+
+Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras mattis consectetur purus sit amet fermentum.
+
+*Trending Topics*
+- Sustainability
+- Community Development
+- Economic Growth
+
+
+- Source [3]:
+
+
+- Source [4]:
+
+
+The Irish Widow
+
+    Article Talk
+
+    Language
+    Watch
+    Edit
+
+The Irish Widow is a play by David Garrick first staged at Drury Lane Theatre on 23 October 1772.[1] It was written in less than a week by Garrick and resembled the plot of Le Mariage forcé by Molière.[2] A comedy, it depicts an elderly man who falls in love with his nephew's fiancée, the young Irish Widow Brady, and uses his control over his nephew's inheritance to end the relationship setting off a chain of events.[3] The play was a success and was performed frequently until the 1820s.[4]
+References
+Bibliography
+Last edited 3 years ago by Lord Cornwallis
 
 `;
