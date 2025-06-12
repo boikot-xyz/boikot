@@ -511,6 +511,8 @@ llmOptions.forEach( llmFunc =>
     // todo add function that sorts sources and removes unused ones
     // todo function that filters youtube etc out of results
     // todo call rustscrape from js
+    // todo check that ecosia search can find all relevant articles
+    // otherwise figure out how to
   })
 );
 
