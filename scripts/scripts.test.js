@@ -740,5 +740,10 @@ describe("rustscrape", () => {
         const result = await rustscrape("https://stackabuse.com/executing-shell-commands-with-node-js/");
         expect(result).toContain("Executing Shell Commands with Node.js");
     });
+
+    it("can scrape any webpage", async () => {
+        const result = await rustscrape("https://www.cloudflare.com/en-gb/");
+        expect(result).toContain("Our connectivity cloud is the best place to");
+    });
 });
 
