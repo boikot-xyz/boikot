@@ -12,6 +12,7 @@ import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearch
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
 import { sortSources } from "./assemble.js";
+import { rustscrape } from "./rustscrape/rustscrape.js";
 import boikot from "../boikot.json" with { type: "json" };
 
 const targetWikipediaPages = [
@@ -731,6 +732,13 @@ describe("mostAlignedEmbedding", () => {
             bpCandidateArticles, bpTargetArticle
         );
         expect(result).toContain("BP Spills 11 million litres of Oil");
+    });
+});
+
+describe("rustscrape", () => {
+    it("can read a webpage", async () => {
+        const result = await rustscrape("https://stackabuse.com/executing-shell-commands-with-node-js/");
+        expect(result).toContain("Executing Shell Commands with Node.js");
     });
 });
 
