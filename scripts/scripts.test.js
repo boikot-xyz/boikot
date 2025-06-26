@@ -741,6 +741,11 @@ describe("rustscrape", () => {
         expect(result).toContain("Executing Shell Commands with Node.js");
     });
 
+    it("can read stackoverflow", async () => {
+        const result = await rustscrape("https://meta.stackexchange.com/questions/410975/labs-experiment-launch-stackoverflow-ai?cb=1");
+        expect(result).toContain("Labs experiment launch: stackoverflow.ai");
+    });
+
     it("can scrape any webpage", async () => {
         const result = await rustscrape("https://www.cloudflare.com/en-gb/");
         expect(result).toContain("Our connectivity cloud is the best place to");
