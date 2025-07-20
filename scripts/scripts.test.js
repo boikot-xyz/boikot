@@ -509,6 +509,14 @@ llmOptions.forEach( llmFunc =>
         expect(response).toContain("investigative journalist");
     });
 
+    it("can generate JSON", async () => {
+        const response = await llmFunc(
+            "Please generate some sample JSON data that can be parsed by JSON.parse. Respond with JSON data and nothing else."
+        );
+        console.log(response);
+        JSON.parse(response.match(/{.+}/s)[0]);
+    });
+
     // todo function that filters youtube etc out of results
     // todo call rustscrape from js
     // todo check that ecosia search can find all relevant articles
