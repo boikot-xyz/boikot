@@ -741,6 +741,11 @@ describe("rustscrape", () => {
         expect(result).toContain("Executing Shell Commands with Node.js");
     });
 
+    it("can read a pdf", async () => {
+        const result = await rustscrape("https://assets.publishing.service.gov.uk/media/67330b872cccb48648badbaa/ar7-cib-allocation-round-notice.pdf");
+        expect(result).toContain("THE CONTRACTS FOR DIFFERENCE (ALLOCATION) REGULATIONS 2014");
+    });
+
     it("can read stackoverflow", async () => {
         const result = await rustscrape("https://meta.stackexchange.com/questions/410975/labs-experiment-launch-stackoverflow-ai?cb=1");
         expect(result).toContain("Labs experiment launch: stackoverflow.ai");
