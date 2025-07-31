@@ -23,3 +23,22 @@ get all tags in use
 ```
 jq ".companies | map(.tags)" ../boikot.json | grep '"' | grep -oE "(\w| )+" | sort | uniq
 ```
+
+## data sources
+
+list of companies operating in russia
+    https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain
+bds list
+    https://masjidalaqsa.com/israeli-product-checker-boycott-list
+search engines
+    use multiple queries
+twitter
+bluesky
+wikipedia
+court filings
+news apis
+news sites
+ethhicalconsumer/goodonyou
+company report
+goodjobsfirst violation trackers
+
