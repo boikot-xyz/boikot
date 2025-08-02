@@ -6696,6 +6696,66 @@
             "siteUrl": "https://www.hollisterco.com/shop/us/gilly-hicks",
             "updatedAt": "2025-05-29T15:39:58.998Z"
         },
+        "king": {
+            "names": [
+                "King",
+                "King.com",
+                "King.com Limited",
+                "Midasplayer.com",
+                "Candy Crush"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "software",
+                "videogames"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "microsoft"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/1a/King_logo.svg",
+            "siteUrl": "https://king.com/",
+            "updatedAt": "2025-08-02T09:51:45.208Z"
+        },
+        "blizzard": {
+            "names": [
+                "Blizzard",
+                "Blizzard Entertainment",
+                "Blizzard Entertainment, Inc."
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "software",
+                "videogames"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "microsoft"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Blizzard_Entertainment_Logo_2015.svg",
+            "siteUrl": "http://blizzard.com/",
+            "updatedAt": "2025-08-02T09:51:45.208Z"
+        },
+        "activision": {
+            "names": [
+                "Activision"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "software",
+                "videogames"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "microsoft"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Activision.svg",
+            "siteUrl": "https://www.activision.com/",
+            "updatedAt": "2025-08-02T09:51:45.208Z"
+        },
         "bbc": {
             "names": [
                 "BBC",
