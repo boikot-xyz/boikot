@@ -6604,6 +6604,28 @@
             "siteUrl": "http://www.7-eleven.com/",
             "updatedAt": "2025-05-20T19:29:06.368Z"
         },
+        "acer": {
+            "names": [
+                "Acer",
+                "Acer Inc."
+            ],
+            "comment": "Acer is a Taiwanese electronics company which continues to operate in Russia [1][2] and which has sourced manufacturing from factories where forced labour is prevalent [3][5], including that of Uyghurs and other ethnic minorities [4]",
+            "sources": {
+                "1": "https://som.yale.edu/story/2022/over-450-companies-have-withdrawn-russia-some-remain",
+                "2": "https://www.reuters.com/technology/taiwans-acer-ships-computer-hardware-russia-after-saying-it-would-suspend-2023-06-08/",
+                "3": "https://chinalaborwatch.org/labor-conditions-in-chinas-consumer-electronics-sector/",
+                "4": "https://www.aspi.org.au/report/uyghurs-sale",
+                "5": "https://www.theguardian.com/global-development/2017/oct/06/laptop-firms-accused-of-labour-abuses-against-chinese-students-sony-hp-acer"
+            },
+            "tags": [
+                "electronics"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Acer_2011.svg",
+            "siteUrl": "https://www.acer.com/",
+            "updatedAt": "2025-08-02T07:43:01.582Z"
+        },
         "abercrombie-and-fitch": {
             "names": [
                 "Abercrombie & Fitch",
