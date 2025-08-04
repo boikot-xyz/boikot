@@ -6272,6 +6272,137 @@
             "siteUrl": "https://goldencasket.co.uk/millions/",
             "updatedAt": "2024-10-06T12:30:23.573Z"
         },
+        "haleon": {
+            "names": [
+                "Haleon",
+                "Haleon plc",
+                "HLN"
+            ],
+            "comment": "Haleon is an American consumer goods company which has been engaged in price fixing [1] and which was linked to the sale of Zantac, a gastrointestinal drug that led to cases of cancer [2][3].",
+            "sources": {
+                "1": "https://www.belgiancompetition.be/sites/default/files/content/download/files/20250424_Press_release_16_BCA_0.pdf",
+                "2": "https://pharmaphorum.com/news/gsk-sanofi-and-haleon-facing-billions-of-dollars-in-zantac-liability",
+                "3": "https://www.ft.com/content/3406ba6d-4ff3-4315-98d3-fac336d19445"
+            },
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Haleon.svg",
+            "siteUrl": "https://www.haleon.com/",
+            "updatedAt": "2025-08-04T09:45:32.418Z"
+        },
+        "advil": {
+            "names": [
+                "Advil"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "haleon"
+            ],
+            "logoUrl": "https://commons.wikimedia.org/wiki/File:Advil_200mg_Caplets.jpg",
+            "siteUrl": "https://www.advil.com/",
+            "updatedAt": "2025-08-04T10:20:22.070Z"
+        },
+        "centrum": {
+            "names": [
+                "Centrum"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "haleon"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Centrum_%28multivitamin%29_logo.png",
+            "siteUrl": "https://www.centrum.co.uk/",
+            "updatedAt": "2025-08-04T10:20:22.070Z"
+        },
+        "nicorette": {
+            "names": [
+                "Nicorette"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "haleon"
+            ],
+            "logoUrl": "https://clipground.com/nicorette-logo-png.html",
+            "siteUrl": "http://nicorette.com/",
+            "updatedAt": "2025-08-04T10:20:22.070Z"
+        },
+        "aquafresh": {
+            "names": [
+                "Aquafresh"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "haleon"
+            ],
+            "logoUrl": "https://1000logos.net/wp-content/uploads/2020/04/Aquafresh-Logo-140x79.png",
+            "siteUrl": "https://www.aquafresh.com/en-gb/",
+            "updatedAt": "2025-08-04T10:20:22.070Z"
+        },
+        "voltaren": {
+            "names": [
+                "Voltaren",
+                "Voltarol"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "haleon"
+            ],
+            "logoUrl": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/voltaren-delta/en_GB/header/Voltarol_Tagline_201x60.png?auto=format",
+            "siteUrl": "https://www.voltarol.co.uk/",
+            "updatedAt": "2025-08-04T10:20:22.070Z"
+        },
+        "sensodyne": {
+            "names": [
+                "Sensodyne"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "haleon"
+            ],
+            "logoUrl": "https://www.sensodyne.com/2a237035-1639-4d34-9604-830dd5d30297",
+            "siteUrl": "http://www.sensodyne.com/",
+            "updatedAt": "2025-08-04T10:20:22.070Z"
+        },
         "bose": {
             "names": [
                 "Bose",
