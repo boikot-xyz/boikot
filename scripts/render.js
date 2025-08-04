@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
-const { JSDOM, VirtualConsole } = require("jsdom");
-const fs = require('fs').promises;
-const path = require('path');
+import { JSDOM, VirtualConsole } from 'jsdom';
+import { promises as fs } from 'fs';
+import path from 'path';
 
 const virtualConsole = new VirtualConsole();
 // virtualConsole.on("error", () => {});
