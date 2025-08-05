@@ -9,10 +9,6 @@ import { Helmet } from "react-helmet";
 import boikot from '../../boikot.json';
 import { CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack } from "./components.jsx";
 
-const searchEcosia = searchQuery => `https://www.ecosia.org/search?q=${encodeURIComponent(searchQuery)}`;
-const makeWikipediaSearchURL = company => searchEcosia(company + " wikipedia");
-const makeUnethicalSearchURL = company => searchEcosia(company + " unethical");
-
 const initialState = {
     names: [],
     comment: "",
@@ -212,6 +208,46 @@ function CompleteButton({ state, mergeJSON}) {
     </PillButton>;
 }
 
+const searchEcosia = searchQuery => `https://www.ecosia.org/search?q=${encodeURIComponent(searchQuery)}`;
+const makeWikipediaSearchURL = companyName => searchEcosia(companyName + " wikipedia");
+const makeUnethicalSearchURL = companyName => searchEcosia(companyName + " unethical");
+const makeScandalSearchURL = companyName => searchEcosia(companyName + " scandal");
+const makeGoogleSearchURL = companyName => `https://www.google.com/search?q=${encodeURIComponent(companyName)}%20unethical`;
+const makeCompanyReportSearchURL = companyName => searchEcosia(companyName + " company report");
+const makeViolationTrackerSearchURL = companyName => `https://violationtracker.goodjobsfirst.org/?company=${encodeURIComponent(companyName)}`
+const makeViolationTrackerUKSearchURL = companyName => `https://violationtrackeruk.goodjobsfirst.org/?company=${encodeURIComponent(companyName)}`
+const makeViolationTrackerGlobalSearchURL = companyName => `https://violationtrackerglobal.goodjobsfirst.org/?company_op=starts&company=${encodeURIComponent(companyName)}`
+
+function SearchLinks({ state }) {
+    if( !state.names?.length ) return null;
+
+    const searchUrls = [
+        [ "📑 search for wikipedia page", makeWikipediaSearchURL(state.names[0]) ],
+        [ "👺 search for unethical practices", makeUnethicalSearchURL(state.names[0]) ],
+        [ "😮 search for scandals", makeScandalSearchURL(state.names[0]) ],
+        [ "🔎 search google", makeGoogleSearchURL(state.names[0]) ],
+        [ "🧑‍💼 search for company report", makeCompanyReportSearchURL(state.names[0]) ],
+        [ "📈 search violation tracker", makeViolationTrackerSearchURL(state.names[0]) ],
+        [ "📉 search violation tracker uk", makeViolationTrackerUKSearchURL(state.names[0]) ],
+        [ "🌍 search violation tracker global", makeViolationTrackerGlobalSearchURL(state.names[0]) ],
+    ];
+
+    const openAll = () => searchUrls.forEach( ([ _, url ]) => window.open(url) );
+
+    return <FlexRow style={{ justifyContent: "right" }}>
+        { searchUrls.map(([ label, url ]) =>
+            <Link to={url} target="_blank">
+                <PillButton $outline style={{ whiteSpace: "pre-wrap", fontSize: 10, padding: "6px 10px" }}>
+                    { label }
+                </PillButton> 
+            </Link>
+        ) }
+        <PillButton onClick={openAll} style={{ whiteSpace: "pre-wrap", fontSize: 10, padding: "6px 10px" }}>
+            📚 open all
+        </PillButton> 
+    </FlexRow>;
+}
+
 
 export function Jsoner() {
     const { key } = useParams();
@@ -294,19 +330,7 @@ export function Jsoner() {
                 onKeyDown={ifEnter(addToStateList("names"))}
                 onKeyUp={ifEnter(e => e.target.value = "")} />
         </Entry>
-        { !!state.names?.length &&
-            <FlexRow style={{ justifyContent: "right" }}>
-                <Link to={makeWikipediaSearchURL(state.names[0])} target="_blank">
-                    <PillButton $outline style={{ whiteSpace: "pre-wrap" }}>
-                        🔎  search for wikipedia page
-                    </PillButton> 
-                </Link>
-                <Link to={makeUnethicalSearchURL(state.names[0])} target="_blank">
-                    <PillButton $outline style={{ whiteSpace: "pre-wrap" }}>
-                        🔎  search for unethical practices
-                    </PillButton> 
-                </Link>
-            </FlexRow> }
+        <SearchLinks state={state} />
         <Entry $valid={state.tags.length > 0}>
             tags
             <DeleteableBadgeList
