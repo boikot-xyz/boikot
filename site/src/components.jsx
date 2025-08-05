@@ -32,6 +32,15 @@ export const PillButton = styled.button`
     border-radius: 1.5rem;
     padding: 0.7rem 1.5rem;
     font-size: 0.85rem;
+    border: 0.05rem solid var(--fg);
+    transition: background 0.12s, color 0.12s;
+    
+    ${ props => !props.disabled && css`
+        &:hover {
+            transform: translateY(-0.1rem) scale(1.01);
+        }
+    ` }
+
     ${ props => props.$outline && css`
         background: var(--bg);
         color: var(--fg);
@@ -39,6 +48,7 @@ export const PillButton = styled.button`
         padding: 0.5rem 1.2rem;
     ` }
     ${ props => props.disabled && css`
+        cursor: not-allowed;
         opacity: 0.5;
     ` }
     ${ props => props.$small && css`
