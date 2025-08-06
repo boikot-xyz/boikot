@@ -237,12 +237,12 @@ function SearchLinks({ state }) {
     return <FlexRow style={{ justifyContent: "right" }}>
         { searchUrls.map(([ label, url ]) =>
             <Link to={url} target="_blank">
-                <PillButton $outline style={{ whiteSpace: "pre-wrap", fontSize: 10, padding: "6px 10px" }}>
+                <PillButton $outline $small>
                     { label }
                 </PillButton> 
             </Link>
         ) }
-        <PillButton onClick={openAll} style={{ whiteSpace: "pre-wrap", fontSize: 10, padding: "6px 10px" }}>
+        <PillButton onClick={openAll} $small>
             📚 open all
         </PillButton> 
     </FlexRow>;
