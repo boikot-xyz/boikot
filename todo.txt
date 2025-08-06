@@ -1,7 +1,6 @@
 button that gets logo and site urls automatically
     falls back to opening commons/web search if not found
 click to select sources in web extension
-unarchive links
 
 ## notes
 

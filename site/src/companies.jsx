@@ -49,7 +49,15 @@ function renderReferences({ comment, sources }) {
     return chunks.flatMap( (_,i) => [chunks[i], refs[i]] );
 }
 
+function getOriginalUrl( url ) {
+    // get the original URL from an archive URL that ends with the original URL
+    if( url.match( /.https?:\/\/.+/ ) )
+        return url.match(/.(https?:\/\/.+)/)[1];
+    return url;
+}
+
 function Archives({ url }) {
+    const originalUrl = getOriginalUrl(url);
     return <PillPopper $outline $small buttonContent="🗄️ archives">
         <div style={{
             position: "absolute", top: "1.9rem", right: 0, background: "var(--bg)", zIndex: 1,
@@ -61,14 +69,14 @@ function Archives({ url }) {
                 position: "absolute", top: "-0.25rem", right: "2.25rem", transform: "rotate(45deg)",
                 background: "var(--bg)", width: "0.5rem", height: "0.5rem", border: "0.05rem solid var(--fg)"
             }}></div>
-            <p style={{ fontSize: "0.8rem" }}> Check archive sites for this link: </p>
-            <p><a title="🗄️ view on archive.org" target="_blank" href={ `https://web.archive.org/web/20250000000000*/${url}` }>
+            <p style={{ fontSize: "0.8rem" }}> Check archive sites for this link, in case the original has changed or is removed: </p>
+            <p><a title="🗄️ view on archive.org" target="_blank" href={ `https://web.archive.org/web/20250000000000*/${originalUrl}` }>
                 🗄️ archive.org
             </a></p>
-            <p><a title="🗃️ view on archive.ph" target="_blank" href={ `https://archive.ph/${url}` }>
+            <p><a title="🗃️ view on archive.ph" target="_blank" href={ `https://archive.ph/${originalUrl}` }>
                 🗃️ archive.ph
             </a></p>
-            <p><a title="👻 view on ghostarchive.org" target="_blank" href={ `https://ghostarchive.org/search?term=${encodeURIComponent(url)}` }>
+            <p><a title="👻 view on ghostarchive.org" target="_blank" href={ `https://ghostarchive.org/search?term=${encodeURIComponent(originalUrl)}` }>
                 👻 ghostarchive.org
             </a></p>
         </div>
