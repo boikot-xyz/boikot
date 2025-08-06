@@ -1,7 +1,6 @@
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
-import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
+import { SSEServerTransport } from "@modelcontextprotocol/sdk/server/sse.js";
 import { z } from "zod";
-
 import boikot from "../../boikot.json" with { type: 'json' };
 
 const cleanName = (name: string) => name.toLowerCase().replace(/[^ 0-9a-z]/g, '');
@@ -25,19 +24,31 @@ const server = new McpServer({
 
 server.tool(
     "get-company-info",
-    "Get information about a company's ethics.",
+    "Get information about a company's ethics and boycott status.",
     {
         companyName: z.string().describe("Commonly used name for a company eg. Apple, Samsung"),
     },
     async ({ companyName }) => {
-        return { content: [ { type: "text", text: JSON.stringify(lookupCompany(companyName) || "Did not find information about " + companyName, null, 4) } ] };
+        const company = lookupCompany(companyName);
+        const text = company ? JSON.stringify(company, null, 2) : `No information found for company: ${companyName}`;
+        return {
+            content: [{
+                type: "text",
+                text,
+            }]
+        };
     },
 );
 
 async function main() {
-    const transport = new StdioServerTransport();
+    const port = parseInt(process.env.PORT || "3000");
+    
+    const transport = new SSEServerTransport("/message", {
+        port: port,
+    });
+    
     await server.connect(transport);
-    console.error("Boikot MCP Server running on stdio");
+    console.log(`Boikot MCP Server running on port ${port}`);
 }
 
 main().catch((error) => {

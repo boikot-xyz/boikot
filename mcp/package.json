@@ -1,21 +1,15 @@
 {
-  "name": "mcp",
+  "name": "boikot-mcp-server",
   "type": "module",
   "version": "1.0.0",
-  "main": "./src/mcp.ts",
+  "description": "MCP server providing company ethics and boycott information",
+  "main": "./build/mcp.js",
   "scripts": {
-    "build": "tsc && chmod 755 build/mcp.js"
+    "build": "tsc && chmod 755 build/mcp.js",
+    "start": "node build/mcp.js",
+    "dev": "tsc && node build/mcp.js"
   },
-  "bin": {
-    "boikot-mcp": "./build/index.js"
-  },
-  "files": [
-    "build"
-  ],
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "license": "GPLv3",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.10.2",
     "zod": "^3.24.3"
@@ -23,5 +17,9 @@
   "devDependencies": {
     "@types/node": "^22.15.3",
     "typescript": "^5.8.3"
+  },
+  "mcp": {
+    "transport": "http",
+    "endpoint": "/message"
   }
 }

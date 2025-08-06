@@ -1,0 +1,26 @@
+{
+  "info": "Vercel config for boikot MCP server",
+  "version": 2,
+  "builds": [
+    {
+      "src": "mcp/build/mcp.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "mcp/build/mcp.js"
+    }
+  ],
+  "buildCommand": "cd mcp && npm install && npm run build",
+  "installCommand": "cd mcp && npm install",
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "functions": {
+    "mcp/build/mcp.js": {
+      "maxDuration": 30
+    }
+  }
+}
