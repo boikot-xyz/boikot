@@ -4,7 +4,7 @@ import { Link, useParams, useSearchParams } from "react-router-dom";
 import slugify from "slugify";
 import { Helmet } from "react-helmet";
 
-import { getKey, Badge, Card, FlexRow, Icon, IconButton, Page, PillButton, Row, Stack, TagBadge, ForceWrap } from "./components.jsx";
+import { getKey, Badge, Card, FlexRow, Icon, IconButton, Page, PillButton, Row, Stack, TagBadge, ForceWrap, PillPopper } from "./components.jsx";
 import boikot from "../../boikot.json";
 
 
@@ -49,6 +49,28 @@ function renderReferences({ comment, sources }) {
     return chunks.flatMap( (_,i) => [chunks[i], refs[i]] );
 }
 
+function Archives({ url }) {
+    return <PillPopper $outline $small buttonContent="🗄️ archives">
+        <div style={{
+            position: "absolute", top: "1.7rem", right: 0, background: "var(--bg)", zIndex: 1,
+            border: "1px solid var(--fg)", borderRadius: "0.5rem", padding: "0.9rem 1.5rem 0.9rem 1rem",
+            width: "12.5rem", display: "grid", gap: "0.4rem", fontSize: "0.9rem"
+        }}>
+
+            <p style={{ fontSize: "0.8rem" }}> Check archive sites for this link: </p>
+            <p><a title="🗄️ view on archive.org" target="_blank" href={ `https://web.archive.org/web/20250000000000*/${url}` }>
+                🗄️ archive.org
+            </a></p>
+            <p><a title="🗃️ view on archive.ph" target="_blank" href={ `https://archive.ph/${url}` }>
+                🗃️ archive.ph
+            </a></p>
+            <p><a title="👻 view on ghostarchive.org" target="_blank" href={ `https://ghostarchive.org/search?term=${encodeURIComponent(url)}` }>
+                👻 ghostarchive.org
+            </a></p>
+        </div>
+    </PillPopper>
+}
+
 function Sources({ entry }) {
     const [ showSources, setShowSources ] = React.useState(false);
     return <>
@@ -57,11 +79,13 @@ function Sources({ entry }) {
         </h3> }
         { showSources &&
             Object.entries(entry.sources).map( ([ key, url ]) =>
-                <ForceWrap key={key}> <p>
-                    <strong>[{key}]</strong> <a href={url}>
+                <Row style={{ width: "100%", gridTemplateColumns: "1.6rem 1fr max-content max-content", gap: "0.5rem" }}>
+                    <strong>[{key}]</strong>
+                    <a href={url} style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
                         {url}
                     </a>
-                </p> </ForceWrap> ) }
+                    <Archives url={url} />
+                </Row> ) }
         { !!Object.keys(entry.sources).length &&
             <PillButton $outline style={{ justifySelf: "left" }}
                 onClick={ () => setShowSources(!showSources) }>
