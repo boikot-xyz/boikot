@@ -8,6 +8,7 @@ import { Helmet } from "react-helmet";
 
 import boikot from '../../boikot.json';
 import { CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack } from "./components.jsx";
+import { Company } from "./companies.jsx";
 
 const initialState = {
     names: [],
@@ -432,6 +433,9 @@ export function Jsoner() {
         </FlexRow>
         <JsonDump mergeJSON={mergeJSON} />
         <CompleteButton state={state} mergeJSON={mergeJSON} />
+        <div style={{ border: "0.05rem solid var(--fg)", borderRadius: "2rem", background: "var(--fg-transparent)", padding: "2rem" }}>
+            <Company entry={state} />
+        </div>
     </Stack>;
 }
 
