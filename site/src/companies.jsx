@@ -52,11 +52,15 @@ function renderReferences({ comment, sources }) {
 function Archives({ url }) {
     return <PillPopper $outline $small buttonContent="🗄️ archives">
         <div style={{
-            position: "absolute", top: "1.7rem", right: 0, background: "var(--bg)", zIndex: 1,
-            border: "1px solid var(--fg)", borderRadius: "0.5rem", padding: "0.9rem 1.5rem 0.9rem 1rem",
+            position: "absolute", top: "1.9rem", right: 0, background: "var(--bg)", zIndex: 1,
+            border: "0.05rem solid var(--fg)", borderRadius: "0.5rem", padding: "0.9rem 1.5rem 0.9rem 1rem",
             width: "12.5rem", display: "grid", gap: "0.4rem", fontSize: "0.9rem"
         }}>
 
+            <div style={{
+                position: "absolute", top: "-0.25rem", right: "2.25rem", transform: "rotate(45deg)",
+                background: "var(--bg)", width: "0.5rem", height: "0.5rem", border: "0.05rem solid var(--fg)"
+            }}></div>
             <p style={{ fontSize: "0.8rem" }}> Check archive sites for this link: </p>
             <p><a title="🗄️ view on archive.org" target="_blank" href={ `https://web.archive.org/web/20250000000000*/${url}` }>
                 🗄️ archive.org
