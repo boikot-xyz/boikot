@@ -266,17 +266,30 @@ export function CompanyHeader({ entry, link = false }) {
         : React.Fragment;
     return <LinkOrFrag>
         <Row gap="0.5rem" style={{ maxWidth: "100%" }}>
-            <img src={entry.logoUrl}
-                alt={`${entry.names[0]} logo`}
+            <div
                 style={{
                     width: "3rem",
                     height: "3rem",
                     padding: "0.25rem",
                     background: "white",
                     borderRadius: "0.5rem",
-                    objectFit: "contain",
-                    fontSize: "0.6rem",
-                    wordWrap: "anywhere" }}/>
+                    display: "grid",
+                    placeItems: "center",
+                }}>
+                <img src={entry.logoUrl}
+                    alt={`${entry.names[0]}`}
+                    style={{
+                        maxWidth: "2.5rem",
+                        maxHeight: "2.5rem",
+                        objectFit: "contain",
+                        fontSize: "0.6rem",
+                        fontWeight: "600",
+                        color: "var(--bg)",
+                        wordWrap: "anywhere",
+                        textAlign: "center",
+                    }}
+                />
+            </div>
             <Stack gap="0" style={{ marginRight: "0.1rem" }}>
                 <h3 style={{ textDecoration: link && "underline", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
                     {entry.names[0]}
