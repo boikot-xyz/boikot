@@ -85,7 +85,7 @@ function Sources({ entry }) {
             Object.entries(entry.sources).map( ([ key, url ]) =>
                 <Row style={{ width: "100%", gridTemplateColumns: "1.6rem 1fr max-content max-content", gap: "0.5rem" }}>
                     <strong>[{key}]</strong>
-                    <a href={url} style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+                    <a href={url} target="_blank" style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
                         {url}
                     </a>
                     <Archives url={url} />
