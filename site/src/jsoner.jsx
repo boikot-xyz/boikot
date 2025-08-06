@@ -7,7 +7,7 @@ import "whatwg-fetch";
 import { Helmet } from "react-helmet";
 
 import boikot from '../../boikot.json';
-import { CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack } from "./components.jsx";
+import { CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack, Row } from "./components.jsx";
 import { Company } from "./companies.jsx";
 
 const initialState = {
@@ -162,14 +162,17 @@ function JsonDump({ value, mergeJSON }) {
                 value={json}
                 onChange={ e => setJson(e.target.value) } />
         </Entry> }
-        <PillButton $outline style={{ justifySelf: "right" }}
-            onClick={
-                !dumping
-                ? setDumping
-                : () => mergeJSON(json) && clear()
-            }>
-            { dumping ? "merge 🖇️" : "merge JSON 🖇️" }
-        </PillButton>
+        <Row style={{ justifySelf: "end" }}>
+            { dumping && <PillButton $outline onClick={clear}> ❌ Cancel </PillButton> }
+            <PillButton $outline={!dumping}
+                onClick={
+                    !dumping
+                    ? setDumping
+                    : () => mergeJSON(json) && clear()
+                }>
+                { dumping ? "merge 🖇️" : "merge JSON 🖇️" }
+            </PillButton>
+        </Row>
     </Stack>
 }
 
