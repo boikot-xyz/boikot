@@ -1,7 +1,3 @@
-button that gets logo and site urls automatically
-    falls back to opening commons/web search if not found
-click to select sources in web extension
-
 ## notes
 
 get all tags in use
