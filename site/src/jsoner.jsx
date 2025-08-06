@@ -335,6 +335,7 @@ export function Jsoner() {
                 onKeyUp={ifEnter(e => e.target.value = "")} />
         </Entry>
         <SearchLinks state={state} />
+        <JsonDump mergeJSON={mergeJSON} />
         <Entry $valid={state.tags.length > 0}>
             tags
             <DeleteableBadgeList
