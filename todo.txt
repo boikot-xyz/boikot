@@ -1,9 +1,7 @@
-preview rendered record
-improve sources UI
 button that gets logo and site urls automatically
     falls back to opening commons/web search if not found
 click to select sources in web extension
-prompt copy button and can paste in jsoner
+unarchive links
 
 ## notes
 
