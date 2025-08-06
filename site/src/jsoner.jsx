@@ -162,7 +162,7 @@ function JsonDump({ value, mergeJSON }) {
                 value={json}
                 onChange={ e => setJson(e.target.value) } />
         </Entry> }
-        <Row style={{ justifySelf: "end" }}>
+        <Row style={{ justifySelf: "end", gap: "0.5rem" }}>
             { dumping && <PillButton $outline onClick={clear}> ❌ Cancel </PillButton> }
             <PillButton $outline={!dumping}
                 onClick={
