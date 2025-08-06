@@ -437,10 +437,12 @@ export function Jsoner() {
         </FlexRow>
         <JsonDump mergeJSON={mergeJSON} />
         <CompleteButton state={state} mergeJSON={mergeJSON} />
-        <h2> Preview: </h2>
-        <div style={{ border: "0.05rem solid var(--fg)", borderRadius: "2rem", background: "var(--fg-transparent)", padding: "2rem" }}>
-            <Company entry={state} />
-        </div>
+        { !!state?.names?.length && <>
+            <h2> Preview: </h2>
+            <div style={{ border: "0.05rem solid var(--fg)", borderRadius: "2rem", background: "var(--fg-transparent)", padding: "2rem" }}>
+                <Company entry={state} />
+            </div>
+        </> }
     </Stack>;
 }
 
