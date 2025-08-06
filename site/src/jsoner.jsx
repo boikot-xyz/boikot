@@ -324,6 +324,7 @@ export function Jsoner() {
     };
 
     return <Stack onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
+        <JsonDump mergeJSON={mergeJSON} />
         <Entry $valid={state.names.length > 0}>
             names & stock ticker
             <DeleteableBadgeList
@@ -335,7 +336,6 @@ export function Jsoner() {
                 onKeyUp={ifEnter(e => e.target.value = "")} />
         </Entry>
         <SearchLinks state={state} />
-        <JsonDump mergeJSON={mergeJSON} />
         <Entry $valid={state.tags.length > 0}>
             tags
             <DeleteableBadgeList
@@ -424,6 +424,7 @@ export function Jsoner() {
                 {tojson(state)}
             </CodeBlock>
         </Entry>
+        <JsonDump mergeJSON={mergeJSON} />
         <FlexRow style={{ justifyContent: "right" }}>
             <PillButton $outline onClick={
                 () => window.confirm("Clear company data?")
@@ -435,7 +436,6 @@ export function Jsoner() {
                 copy company data 📋
             </PillButton>
         </FlexRow>
-        <JsonDump mergeJSON={mergeJSON} />
         <CompleteButton state={state} mergeJSON={mergeJSON} />
         { !!state?.names?.length && <>
             <h2> Preview: </h2>
