@@ -177,7 +177,7 @@ const getShareLink = entry => {
 };
 
 export function Company({ entry, compact }) {
-    if( !entry?.names ) return null;
+    if( !entry?.names?.length ) return null;
 
     return <Stack>
         <CompanyHeader entry={entry} link={!!compact} />
