@@ -366,3 +366,21 @@ export function Footer() {
     </Stack>;
 }
 
+
+
+export const PopperOuter = styled.div`
+    & .popper-inner {
+        display: none;
+    }
+
+    &:focus-within .popper-inner {
+        display: unset;
+    }
+`;
+
+export function PillPopper({ buttonContent, children, ...props }) {
+    return <PopperOuter style={{ position: "relative" }}>
+        <PillButton {...props}> { buttonContent } </PillButton>
+        <div class="popper-inner"> { children } </div>
+    </PopperOuter>;
+}
