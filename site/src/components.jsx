@@ -30,7 +30,7 @@ export const PillButton = styled.button`
     background: var(--fg);
     color: var(--bg);
     border-radius: 1.5rem;
-    padding: 0.5rem 1.2rem;
+    padding: 0.6rem 1.4rem;
     font-size: 0.85rem;
     border: 0.05rem solid var(--fg);
     transition: background 0.12s, color 0.12s;
