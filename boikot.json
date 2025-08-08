@@ -6053,6 +6053,111 @@
             "siteUrl": "https://famousbrands.co.za/",
             "updatedAt": "2025-08-08T12:00:52.779Z"
         },
+        "twitch": {
+            "names": [
+                "Twitch"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 5,
+            "ownedBy": [
+                "amazon"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Twitch_logo_2019.svg",
+            "siteUrl": "https://www.twitch.tv/",
+            "updatedAt": "2025-08-08T12:00:52.779Z"
+        },
+        "audible": {
+            "names": [
+                "Audible"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 5,
+            "ownedBy": [
+                "amazon"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Audible_logo.svg",
+            "siteUrl": "https://www.audible.com/",
+            "updatedAt": "2025-08-08T12:00:52.779Z"
+        },
+        "goodreads": {
+            "names": [
+                "Goodreads"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 5,
+            "ownedBy": [
+                "amazon"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Goodreads_logo_2025.svg",
+            "siteUrl": "https://www.goodreads.com/",
+            "updatedAt": "2025-08-08T12:00:52.779Z"
+        },
+        "imdb": {
+            "names": [
+                "IMDb",
+                "Internet Movie Database"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 5,
+            "ownedBy": [
+                "amazon"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/IMDB_Logo_2016.svg",
+            "siteUrl": "https://www.imdb.com/",
+            "updatedAt": "2025-08-08T12:00:52.779Z"
+        },
+        "mgm": {
+            "names": [
+                "MGM",
+                "Metro-Goldwyn Mayer",
+                "Metro-Goldwyn-Mayer Studios Inc."
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 5,
+            "ownedBy": [
+                "amazon"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/74/Metro-Goldwyn-Mayer_2021.png",
+            "siteUrl": "http://mgm.com/",
+            "updatedAt": "2025-08-08T12:00:52.779Z"
+        },
+        "ring": {
+            "names": [
+                "Ring"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 5,
+            "ownedBy": [
+                "amazon"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Ring-Logo.svg",
+            "siteUrl": "https://ring.com/",
+            "updatedAt": "2025-08-08T12:00:52.779Z"
+        },
         "ebay": {
             "names": [
                 "eBay",
