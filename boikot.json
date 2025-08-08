@@ -6034,6 +6034,25 @@
             "siteUrl": "https://leavetheherdbehind.com/",
             "updatedAt": "2024-07-22T06:11:30.920Z"
         },
+        "famous-brands": {
+            "names": [
+                "Famous Brands",
+                "Steers Group",
+                "Famous Brands Limited",
+                "FBR"
+            ],
+            "comment": "Famous Brands is a South African fast food conglomerate.",
+            "sources": {},
+            "tags": [
+                "retail",
+                "food"
+            ],
+            "score": 50,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/Famous_Brands_logo.png",
+            "siteUrl": "https://famousbrands.co.za/",
+            "updatedAt": "2025-08-08T12:00:52.779Z"
+        },
         "ebay": {
             "names": [
                 "eBay",
