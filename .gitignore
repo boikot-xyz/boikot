@@ -4,3 +4,4 @@ mcp/build/*
 .env
 .DS_Store
 target
+.vercel

@@ -1,0 +1,16 @@
+[package]
+name = "mcp2"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tokio = { version = "1.47.1", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+rmcp = { version = "0.2.0", features = ["server", "transport-streamable-http-server-session", "transport-sse-server", "transport-worker", "transport-streamable-http-server"] }
+vercel_runtime = { version = "1" }
+tower = "0.5.2"
+http-body-util = "0.1.3"
+
+[[bin]]
+name = "mcp"
+path = "api/mcp.rs"

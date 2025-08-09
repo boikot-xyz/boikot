@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/mcp.rs": {
+      "runtime": "vercel-rust@4.0.9"
+    }
+  }
+}
