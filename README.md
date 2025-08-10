@@ -8,7 +8,9 @@ All of our services and data are offered free to the public under the terms of t
 
 The main product being worked on is the [boikot.xyz](https://boikot.xyz) website which provides access to our data and tools to add new records to it. This is a react project in the `site` directory. There also some tools for collecting and summarising information in the `scripts` and `backend` directories.
 
-We also have an MCP server that exposes a tool to lookup company ethics information. This is available from the URL `https://mcp.boikot.xyz/mcp`.
+## MCP
+
+We also have an MCP server that exposes a tool to lookup company ethics information. This is available from the URL `https://mcp.boikot.xyz/mcp` with no authentication needed. It proviedes one tool called `lookup_company_information` which takes one parameter `company_name` and returns information about the company's ethics.
 
 ## the dataset
 
