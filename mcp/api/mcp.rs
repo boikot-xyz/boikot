@@ -43,6 +43,8 @@ impl BoikotMCPServerHandler {
         Parameters(CopanyLookupParams { company_name }): Parameters<CopanyLookupParams>
     ) -> Result<CallToolResult, McpError> {
 
+        println!("Looking up company data for query [{}]", company_name);
+
         let boikot_json = fs::read_to_string("boikot.json")
             .map_err(|_e| McpError::new(
                 McpErrorCode::INTERNAL_ERROR,
@@ -56,7 +58,7 @@ impl BoikotMCPServerHandler {
         let companies_obj = companies.as_object().unwrap();
         let search_name = company_name.to_lowercase();
 
-        for (_company_id, company_data) in companies_obj {
+        for (company_id, company_data) in companies_obj {
             let names = company_data.get("names")
                 .and_then(|n| n.as_array())
                 .expect("each company has .names");
@@ -70,10 +72,14 @@ impl BoikotMCPServerHandler {
                 continue;
             }
 
+            println!("Returning company data entry with id [{}] for query [{}]", company_id, company_name);
+
             return Ok(CallToolResult::success(vec![Content::text(
                 company_data.to_string()
             )]))
         }
+
+        println!("Found no company data for query [{}]", company_name);
 
         Ok(CallToolResult::error(vec![Content::text(
             format!("No entry in the company ethics dataset was found for {}", company_name),
