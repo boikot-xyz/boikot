@@ -5,5 +5,11 @@
       "runtime": "vercel-rust@4.0.9",
       "includeFiles": "boikot.json"
     }
-  }
+  },
+  "rewrites": [
+    {
+      "source": "/mcp",
+      "destination": "/api/mcp"
+    }
+  ]
 }
