@@ -6,6 +6,7 @@ use http_body_util::BodyExt;
 use tower::util::ServiceExt;
 use rmcp::{
     model::ErrorData as McpError,
+    model::ErrorCode as McpErrorCode,
     RoleServer,
     ServerHandler,
     handler::server::{router::tool::ToolRouter, tool::Parameters},
@@ -14,6 +15,8 @@ use rmcp::{
     service::RequestContext,
     tool, tool_handler, tool_router,
 };
+use std::fs;
+
 
 #[derive(Clone)]
 pub struct BoikotMCPServerHandler {
@@ -40,8 +43,40 @@ impl BoikotMCPServerHandler {
         Parameters(CopanyLookupParams { company_name }): Parameters<CopanyLookupParams>
     ) -> Result<CallToolResult, McpError> {
 
-        Ok(CallToolResult::success(vec![Content::text(
-            format!("company name {}", company_name),
+        let boikot_json = fs::read_to_string("boikot.json")
+            .map_err(|_e| McpError::new(
+                McpErrorCode::INTERNAL_ERROR,
+                "Failed to read company database",
+                None
+            ))?;
+
+        let boikot_data: serde_json::Value = serde_json::from_str(&boikot_json).expect("boikot.json is valid json");
+        let companies = boikot_data.get("companies").expect("boikot.json has a .companies key");
+
+        let companies_obj = companies.as_object().unwrap();
+        let search_name = company_name.to_lowercase();
+
+        for (_company_id, company_data) in companies_obj {
+            let names = company_data.get("names")
+                .and_then(|n| n.as_array())
+                .expect("each company has .names");
+
+            let found_match = names
+                .iter()
+                .filter_map(|n| n.as_str())
+                .any(|name| name.to_lowercase() == search_name);
+
+            if !found_match {
+                continue;
+            }
+
+            return Ok(CallToolResult::success(vec![Content::text(
+                company_data.to_string()
+            )]))
+        }
+
+        Ok(CallToolResult::error(vec![Content::text(
+            format!("No entry in the company ethics dataset was found for {}", company_name),
         )]))
     }
 }
