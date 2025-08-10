@@ -2,6 +2,7 @@ node_modules
 site/www/build/*
 mcp/build/*
 mcp/public/*
+mcp/boikot.json
 .env
 .DS_Store
 target
