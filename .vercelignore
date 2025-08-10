@@ -1,0 +1,7 @@
+node_modules
+site/www/build/*
+mcp/build/*
+.env
+.DS_Store
+target
+.vercel
