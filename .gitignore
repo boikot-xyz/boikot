@@ -1,6 +1,7 @@
 node_modules
 site/www/build/*
 mcp/build/*
+mcp/public/*
 .env
 .DS_Store
 target
