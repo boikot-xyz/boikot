@@ -805,6 +805,7 @@ dependencies = [
  "http-body-util",
  "rmcp",
  "serde",
+ "serde_json",
  "tokio",
  "tower",
  "vercel_runtime",

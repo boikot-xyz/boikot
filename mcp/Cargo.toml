@@ -6,6 +6,7 @@ edition = "2024"
 [dependencies]
 tokio = { version = "1.47.1", features = ["full"] }
 serde = { version = "1.0", features = ["derive"] }
+serde_json = { version = "1.0.142" }
 rmcp = { version = "0.2.0", features = ["server", "transport-streamable-http-server-session", "transport-sse-server", "transport-worker", "transport-streamable-http-server"] }
 vercel_runtime = { version = "1" }
 tower = "0.5.2"
