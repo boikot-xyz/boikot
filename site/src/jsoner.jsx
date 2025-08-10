@@ -240,7 +240,7 @@ function SearchLinks({ state }) {
 
     return <FlexRow style={{ justifyContent: "right" }}>
         { searchUrls.map(([ label, url ]) =>
-            <Link to={url} target="_blank">
+            <Link to={url} target="_blank" key={label}>
                 <PillButton $outline $small>
                     { label }
                 </PillButton> 
