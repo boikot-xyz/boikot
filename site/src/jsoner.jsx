@@ -145,37 +145,6 @@ const insertIntoString = ( originalString, insertIndex, insertionString ) =>
     insertionString +
     originalString.slice(insertIndex);
 
-function JsonDump({ value, mergeJSON }) {
-    const [ dumping, setDumping ] = React.useState(false);
-    const [ json, setJson ] = React.useState("");
-    const clear = () => setJson("") + setDumping(false);
-    return <Stack>
-        { dumping && <Entry>
-            jsondump
-            <textarea
-                placeholder={
-                    "Paste JSON data here and click \"merge\" " +
-                    "to merge it into the company data entry. " +
-                    "Only use this if you know what it will do!"
-                }
-                style={{ height: "15rem" }}
-                value={json}
-                onChange={ e => setJson(e.target.value) } />
-        </Entry> }
-        <Row style={{ justifySelf: "end", gap: "0.5rem" }}>
-            { dumping && <PillButton $outline onClick={clear}> ❌ Cancel </PillButton> }
-            <PillButton $outline={!dumping}
-                onClick={
-                    !dumping
-                    ? setDumping
-                    : () => mergeJSON(json) && clear()
-                }>
-                { dumping ? "merge 🖇️" : "merge JSON 🖇️" }
-            </PillButton>
-        </Row>
-    </Stack>
-}
-
 
 async function complete( state, mergeJSON ) {
     const response = await fetch(
@@ -192,6 +161,28 @@ async function complete( state, mergeJSON ) {
     }));
     copy(commentPrompt);
     alert("copied prompt!");
+}
+
+function mergeArrays( array1, array2 ) {
+    return [ ...(array1 || []), ...(array2 || []) ];
+}
+
+function mergeSources( sources1, sources2 ) {
+    const maxSource1 = Math.max(0, ...Object.keys(sources1 || {}));
+    const adjustedSources2 = Object.fromEntries(
+        Object.entries(sources2 || {}).map(([k, v]) => [+k + maxSource1, v])
+    );
+    return { ...(sources1 || {}), ...adjustedSources2 };
+}
+
+function mergeJSON( existingCompanyData, newData ) {
+    return {
+        ...existingCompanyData,
+        ...newData,
+        names: mergeArrays( existingCompanyData?.names, newData?.names ),
+        tags: mergeArrays( existingCompanyData?.tags, newData?.tags ),
+        sources: mergeSources( existingCompanyData?.sources, newData?.sources ),
+    };
 }
 
 
@@ -309,22 +300,36 @@ export function Jsoner() {
             [fieldName]: oldState[fieldName].filter( (_,j) => j != i ),
         }) );
 
-
-    const mergeJSON = json => {
+    const onMergeJSONClick = json => {
         try {
-            const newObj = JSON.parse(json);
-            setState( oldState => ({
-                ...oldState,
-                ...newObj,
-            }) );
-            return true;
+            const newData = JSON.parse(json);
+            setState( oldState => mergeJSON( oldState, newData ) );
         } catch(error) {
             alert("Could not parse JSON 😩");
         }
     };
 
+    const actionButtons = 
+        <FlexRow style={{ justifyContent: "right" }}>
+            <PillButton
+                $outline
+                onClick={ async () => onMergeJSONClick(await navigator.clipboard.readText()) }
+                title="Click to paste json from clipboard and merge it with the company data">
+                merge JSON 🖇️
+            </PillButton>
+            <PillButton $outline onClick={
+                () => window.confirm("Clear company data?")
+                    && setState(initialState)
+            }>
+                clear 🧽
+            </PillButton>
+            <PillButton onClick={() => copy(tojson(state))}>
+                copy company data 📋
+            </PillButton>
+        </FlexRow>;
+
     return <Stack onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
-        <JsonDump mergeJSON={mergeJSON} />
+        { actionButtons }
         <Entry $valid={state.names.length > 0}>
             names & stock ticker
             <DeleteableBadgeList
@@ -424,18 +429,7 @@ export function Jsoner() {
                 {tojson(state)}
             </CodeBlock>
         </Entry>
-        <JsonDump mergeJSON={mergeJSON} />
-        <FlexRow style={{ justifyContent: "right" }}>
-            <PillButton $outline onClick={
-                () => window.confirm("Clear company data?")
-                    && setState(initialState)
-            }>
-                clear 🧽
-            </PillButton>
-            <PillButton onClick={() => copy(tojson(state))}>
-                copy company data 📋
-            </PillButton>
-        </FlexRow>
+        { actionButtons }
         <CompleteButton state={state} mergeJSON={mergeJSON} />
         { !!state?.names?.length && <>
             <h2> Preview: </h2>
