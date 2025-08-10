@@ -407,7 +407,7 @@ export function Jsoner() {
         { showSources && <>
             <h3> sources </h3>
             { Object.keys(state.sources).map(key =>
-                <Entry key={key} $valid={!!state.sources[key]}>
+                <Entry key={key} $valid={!!state.sources[key]} style={{ display: "grid", gridTemplateColumns: "1.32rem 1fr", alignItems: "center" }}>
                     {key}
                     <input
                         value={state.sources[key]}
