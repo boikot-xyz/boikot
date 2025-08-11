@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import boikot from "../boikot.json" with { type: "json" };
+import boikot from "../../boikot.json" with { type: "json" };
 
 export function getRecord( companyName ) {
     return Object.values(boikot.companies)

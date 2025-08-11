@@ -1,5 +1,5 @@
-import { embed } from "llm.js";
-import { dist, cosineSimilarity } from "math.js";
+import { embed } from "./llm.js";
+import { dist, cosineSimilarity } from "./math.js";
 
 async function minBy( array, func ) {
     let [ result, resultFuncValue ] = [ null, Number.MAX_VALUE ];

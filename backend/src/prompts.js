@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import boikot from "../boikot.json" with { type: "json" };
+import boikot from "../../boikot.json" with { type: "json" };
 
 
 export const getInvestigationPrompt = (companyName, searchResults, numberToSelect=10) => `

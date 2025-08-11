@@ -12,8 +12,8 @@ import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearch
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
 import { sortSources } from "./assemble.js";
-import { rustscrape } from "./rustscrape/rustscrape.js";
-import boikot from "../boikot.json" with { type: "json" };
+import { rustscrape } from "../rustscrape/rustscrape.js";
+import boikot from "../../boikot.json" with { type: "json" };
 
 const targetWikipediaPages = [
   ["apple", "https://en.wikipedia.org/wiki/Apple_Inc."],
