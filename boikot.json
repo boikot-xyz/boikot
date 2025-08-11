@@ -7037,6 +7037,24 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/BBC_Logo_2021.svg",
             "siteUrl": "https://bbc.com/",
             "updatedAt": "2024-01-01T10:47:27.404Z"
+        },
+        "air-wick": {
+            "names": [
+                "Air Wick",
+                "Airwick"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "reckitt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2c/Air_Wick_circle_logo.png",
+            "siteUrl": "http://www.airwick.us/",
+            "updatedAt": "2025-08-10T21:41:01.378Z"
         }
     }
 }
