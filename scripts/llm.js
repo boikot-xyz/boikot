@@ -131,6 +131,58 @@ export async function askGemma( prompt, body ) {
     return ollamaResponse.message.content.replace(/<think>.*?<\/think>/gs, "").trim();
 }
 
+export async function askGPTOSS( prompt, body ) {
+    const responseJSON = await ( await fetch(
+        "https://api.groq.com/openai/v1/chat/completions",
+        {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                "Authorization": `Bearer ${process.env.GROQ_API_KEY}`,
+            },
+            body: JSON.stringify({
+                "messages": [
+                    {
+                        "role": "system",
+                        "content": (
+                            "You are an investigative journalist looking into the ethical track record of various companies. " +
+                            "You rigourously gather articles about unethical actions by companies and publish information " +
+                            "on them online in a format easily understood by the public."
+                        ),
+                    },
+                    {
+                        "role": "user",
+                        "content": prompt
+                    },
+                ],
+                "model": "openai/gpt-oss-120b",
+                "temperature": 0,
+                "max_tokens": 1024,
+                "top_p": 1,
+                "stream": false,
+                "stop": null,
+                ...body,
+            }),
+        },
+    ) ).json();
+
+    if( !responseJSON.choices ) {
+        // log response object for debugging
+        console.log(responseJSON);
+        if( responseJSON.error.code === "rate_limit_exceeded" ) {
+            const wait =
+                +(responseJSON.error?.message
+                    .match(/try again in ([\d.]+)s/)?.[1]) 
+                || 5;
+            await new Promise( resolve => setTimeout(resolve, wait * 1000 + 10 ) );
+            // retry after delay
+            return await askGPTOSS( prompt, body );
+        }
+    }
+
+    return responseJSON.choices[0].message.content;
+}
+
 
 export async function embed( prompt, body={} ) {
     const options = {
