@@ -315,7 +315,7 @@ const targetSummariseResults = [
     },
 ];
 
-const targetCombineResults = [
+const targetEthicsSummaryResults = [
     {
         companyName: "Barclays",
         companyInfo: barclaysInfo,
@@ -487,7 +487,7 @@ llmOptions.forEach( llmFunc =>
         )
     );
   
-    targetCombineResults.forEach(
+    targetEthicsSummaryResults.forEach(
         ({
           companyName, companyInfo,
           targetResultCheck,
