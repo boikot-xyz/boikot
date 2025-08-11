@@ -1922,3 +1922,1079 @@ Bibliography
 Last edited 3 years ago by Lord Cornwallis
 
 `;
+
+export const hugePrompt = `
+
+Here are the wikipedia pages of two companies. I want you to read about their ethics and decide which is more ethical.
+
+=====
+
+
+From Wikipedia, the free encyclopedia
+"Reckitt Benckiser" redirects here. For the predecessor of this company, see Reckitt and Sons.
+Reckitt Benckiser Group plc
+Reckitt's logo since 23 March 2021
+Trade name
+	Reckitt
+Company type	Public
+Traded as
+	
+
+    LSE: RKT
+    FTSE 100 Component
+
+ISIN	GB00B24CGK77
+Industry	Consumer goods
+Predecessor	Colman's
+Hoffmann's Stärkefabriken 
+Founded	
+
+    1814; 211 years ago
+    (J&J Colman)
+    1823; 202 years ago
+    (Benckiser)
+    1840; 185 years ago
+    (Reckitt & Sons)
+    1938; 87 years ago
+    (merger of Reckitt & Sons and J&J Colman)
+    1999; 26 years ago
+    (merger of Reckitt & Colman and Benckiser)
+
+Founders	
+
+    Isaac Reckitt
+    (Reckitt & Sons branch)
+    Jeremiah Colman
+    (J&J Colman branch)
+    Johann Benckiser
+    (Benckiser N.V. branch)
+    Edward Mead Johnson
+    (Mead Johnson branch)
+
+Headquarters	Slough, United Kingdom
+Area served
+	Worldwide
+Key people
+	Sir Jeremy Darroch (Chairman)
+Kris Licht (CEO)
+Products	
+
+    Cleaning agentsskin carepersonal carenutritionpharmaceutical and consumer healthcare
+
+Revenue	Decrease £14,169 million (2024)[1]
+Operating income
+	Decrease £2,425 million (2024)[1]
+Net income
+	Decrease £1,428 million (2024)[1]
+Number of employees
+	40,000 (2024)[2]
+Subsidiaries	
+
+    Mead Johnson
+    UpSpring
+
+Website	reckitt.com
+
+Reckitt Benckiser Group PLC, currently branded as Reckitt, formerly known as Reckitt Benckiser, is a British multinational consumer goods company headquartered in Slough, United Kingdom.[3] It is a producer of health, hygiene and nutrition products.[4] The company was formed in 1999 by the merger of British company Reckitt & Colman plc and Dutch company Benckiser N.V.
+
+Reckitt's brands include the antiseptic brand Dettol, the analgesic Disprin,[5] the sore throat medicine Strepsils, the toilet cleaner Harpic, the hair removal brand Veet, the immune support supplement Airborne,[6] the Australian insecticide brand Mortein, the indigestion remedy Gaviscon, the baby food brand Mead Johnson, the air freshener Air Wick, and other brands and products like: Calgon, Clearasil, Cillit Bang, Durex, Lysol, Mycil, Enfamil, and Vanish.[7][5]
+History
+Origins
+Main articles: Reckitt and Sons and Colman's
+Stoke Holy Cross Mill, in Norwich, England, the home of Colman's mustard from 1814 to 1862
+Historical logos
+First Reckitt Benckiser logo, used from 1999 to 2009
+First logo, used from 1999 to 2009
+Second Reckitt Benckiser logo, used from 2009 to 2014
+Second logo, circa 2009 to 2014
+Third Reckitt Benckiser logo, used from 2014 to 2021
+Third logo, used from 2014 to 2021
+
+Johann Benckiser founded a business in Pforzheim, Germany, in 1823.[8] Its core business was industrial chemicals.[9] Ludwig Reimann, a chemist, joined the business in 1828 and married Benckiser's daughter.[10] Benckiser died in 1851[11] and the business came under Reimann's ownership.[10] Reimann opened a new chemical plant and, in 1858, moved it to Ludwigshafen.[10] Under Reimann's descendants the business grew rapidly in the latter half of the 20th century: it acquired Coty, Inc., a North American beauty products manufacturer, in 1992.[12] Benckiser's other products included Vanish and Cillit Bang.[8] It went public in 1997.[13][14]
+
+Reckitt & Sons started in 1840 when Isaac Reckitt rented a starch mill in Hull, England.[9] He diversified into other household products and after his death in 1862, the business passed to his three sons.[15] In 1886, Reckitt opened its first overseas business in Australia.[15] The firm was first listed on the London Stock Exchange in 1888.[9] Harpic Lavatory Cleaners was acquired in 1932, and that same year, Dettol was launched.[15]
+
+In 1938, Reckitt & Sons merged with J. & J. Colman, which had been founded in 1814 when Jeremiah Colman began milling flour and mustard in Norwich, England,[9] to become Reckitt & Colman Ltd.[9] The company made several acquisitions, including the Airwick and Carpet Fresh brands (1985),[16] the Spanish cleaning products company Camp (1989),[17] the Boyle-Midway division of American Home Products (1990),[18] and the Lehn & Fink division of Sterling Drug, maker of Lysol disinfectant (1994). The Lehn & Fink purchase doubled Reckitt & Colman's American business in one stroke.[19] It acquired several brands from DowBrands in 1998.[20]
+
+Reckitt & Colman also made several divestments during this time, including the fine arts and graphical products (with brands such as Winsor & Newton) and Conimex Dutch food business in 1990, Colman's of Norwich UK food business and Robinsons soft drink products in 1995, and Keen's Australian and Canadian food business in 1998.[9][21][22]
+1999 to present
+
+The company was formed by a merger between Britain's Reckitt & Colman plc and the Dutch company Benckiser NV in December 1999. Bart Becht became CEO of the new company and has been credited for its transformation, focusing on core brands and improving efficiency in the supply chain. The new management team's strategy of "innovation marketing" – a combination of increased marketing spend and product innovation, focusing on consumer needs – has been linked to the company's ongoing success. For example, in 2008, the company's "rapid succession of well publicised new product variants" were credited for helping them "to capture shoppers' imagination".[23] Business Week has also noted that "40% of Reckitt Benckiser's $10.5 billion in 2007 revenues came from products launched within the previous three years."[24]
+
+In October 2005, Reckitt purchased the over-the-counter drugs manufacturing business of Boots, Boots Healthcare International, for £1.9 billion. The three main brands acquired were Nurofen's analgesics, Strepsils sore throat lozenges, and Clearasil anti-acne treatments.[25] In January 2008, Reckitt acquired Adams Respiratory Therapeutics, a pharmaceutical company, for $2.3 billion; one of the major brands acquired was Mucinex.[26] Reckitt acquired SSL International, the manufacturer of Durex condoms and Scholl's footcare products, for £2.5 billion in July 2010.[27]
+
+In January 2011, Reckitt purchased Combe's cold remedy/skin care business.[28] In September 2011, Bart Becht retired as CEO of Reckitt Benckiser, being replaced by executive vice-president of Category Development, Rakesh Kapoor, who had played a key role in recent acquisitions.[29]
+
+On 27 August 2011, Reckitt recalled all remaining stock of its major analgesic product, Nurofen Plus, after packs were found to contain an antipsychotic drug.[30] It turned out that this was the work of a codeine addict who had been stealing the pills and replacing them with his anti psychotic medication.[31]
+
+In November 2012, Reckitt acquired Schiff Nutrition, a Salt Lake City-based manufacturer of vitamins and nutritional supplements including Digestive Advantage, MegaRed, Airborne, and Move Free, for US$1.4 billion (£877 million).[32][33] In December 2014, Reckitt spun off its speciality pharmaceuticals business, which produces Suboxone (an opioid withdrawal medication), into a separate company named Indivior.[34]
+
+In 2014, Reckitt Benckiser dropped its full name in favour of the RB brand. According to Kapoor, the old name was "a bit of a mouthful" and the name change would make life easier.'[35]
+
+In February 2017, the company bid $16.7 billion for the American infant formula maker Mead Johnson.[36][37] In February 2017, Reckitt Benckiser announced it had bought Mead Johnson for $16.6 billion.[38] To effect the transaction, Reckitt Benckiser incorporated a subsidiary in Delaware into which Mead Johnson Nutrition would be transferred, with Mead Johnson Nutrition being the sole surviving entity at completion.[39] Following the acquisition of Mead Johnson, Reckitt Benckiser split its business into two divisions: consumer healthcare, and home and hygiene. While some expert analysts viewed this move as a precursor to a possible sale of the home division, Kapoor said that it was only to improve the performance of each of the divisions.[40]
+
+In July 2017, McCormick acquired Reckitt's food brands, including French's Mustard & Frank's RedHot, for $4.2 billion, subject to regulatory approval.[41][42]
+
+Kapoor retired in September 2019[43] and was replaced by Laxman Narasimhan, PepsiCo's global chief commercial officer.[44] Narasimhan developed a turnaround strategy designed to rejuvenate the company "following a series of missteps and lacklustre growth that marked the final years of his predecessor".[45]
+
+In March 2021, the company rebranded from RB to Reckitt - including a new logo and visual identity as a next step in delivering on the strategic purpose of the company.[46]
+
+On 1 September 2022, Reckitt announced that Narasimhan had chosen to resign as CEO, citing "personal and family reasons",[47] and would relinquish his position at the end of the month. It was also revealed that he is expected to become the next CEO of Starbucks.[48] Narasimhan's unexpected departure "came as an unwelcome shock to shareholders",[49] with the company's share price falling by "more than 5 per cent in early trading [...] before recovering somewhat to 4.5 per cent below their opening price" on the day of the announcement.[45]
+
+Senior Independent Director Nicandro Durante was appointed to serve as CEO on an "interim"[50] basis "while the board considers a longer-term replacement".[51]
+Operations
+
+Reckitt is headquartered in Slough, Berkshire, England, and has operations in around 60 countries. Its products are sold in nearly 200 countries.[52] Reckitt organises the majority of its products into three main categories – health, hygiene and home – with other brands belonging to three further categories: food, pharmaceuticals and portfolio brands. The company's strategy is to have a highly focused portfolio concentrating on its 19 most profitable brands, which are responsible for 70% of net revenues.[53]
+
+    Durex condoms
+    Durex condoms
+    Glass Plus glass cleaner
+    Glass Plus glass cleaner
+    Lysol multi-surface cleaner
+    Lysol multi-surface cleaner
+    Strepsils throat lozenges
+    Strepsils throat lozenges
+
+Corporate governance
+
+As of 2020, Reckitt's directors were: Christopher Sinclair (chairman), Laxman Narasimhan (CEO), Jeff Carr (CFO), Andrew Bonfield, Nicandro Durante, Mary Harris, Dr. Mehmood Khan, Dr. Pamela Kirby, Sara Mathew, Elane Stock, and Warren Tucker.[54] As of 2020, members of the executive committee were: Laxman Narasimhan (CEO), Rupert Bondy (General Counsel), Jeff Carr (CFO), Kris Licht, Aditya Sehgal, Ranjay Radhakrishnan, and Harold van den Broek.[55]
+
+From the company's creation in 1999 until he retired in 2011, Bart Becht was CEO. The Guardian called him "one of the most successful businessmen of his generation". Under him, the company focused on its core brands, and on improving efficiency in the supply chain. It also increased its marketing budget.[23] BusinessWeek noted that "40% of Reckitt's $10.5 billion in 2007 revenues came from products launched within the previous three years".[24] Becht was Britain's highest-paid businessman, taking home more than £90 million in 2009.[56] In April 2011, he announced that he would step down in September of that year, to be replaced by Rakesh Kapoor, who had been with the company since 1987. Reckitt Benckiser shares fell by 6.6% on the news.[57]
+Corporate public relations
+
+The company supports Save the Children.[58] Reckitt has also implemented an environmental initiative called Carbon 20.[59] The initiative, which was announced in November 2007, aimed to cut the total carbon footprint of its products—from creation to disposal by 20% by 2020. As part of the initiative the company has reduced by 70% the amount of plastic in the packaging of its Vanish cleaner.[60]
+Lawsuit
+
+In New York in February 2009, Earthjustice filed a lawsuit against Reckitt and others. The petition seeks to compel the companies to identify all of the ingredients used in their products.[61] Earthjustice contacted several companies in September 2008 requesting that they comply with a 1971 law requiring them to disclose the ingredients in their products and make available any associated health or safety studies. Reckitt and the other defendants ignored or refused the request.[62] Earthjustice eventually lost the case, after which it lobbied the New York State Department of Environmental Conservation, which in 2018 unveiled new requirements for manufacturers of cleaning products to publicly detail their ingredients.[63]
+Controversies
+Deaths caused by humidifier disinfectant
+Main article: South Korean humidifier disinfectant case
+
+In 2001, Reckitt Benckiser acquired the South Korean Oxy brand from Oriental Chemical Industries. Since 1996, Oxy had been using polyhexamethylene guanidine (PHMG) in a humidifier steriliser product called Oxy Ssak Ssak (옥시싹싹). In 2011, the use of PHMG was dropped when the Korea Centers for Disease Control and Prevention (KCDC) published a report showing a link between the compound and lung damage and deaths.[64] Several other companies in South Korea made humidifier sterilisers with PHMG between 2001 and 2011.[65]
+
+According to a BBC report in May 2016, about 500 people, many of them women and children, are reported to have died or been injured after inhaling PHMG.[65] According to a The Korea Herald report in April 2016, in 2015, 750 disinfectant users had requested a test to determine if they had been harmed by the disinfectant and as of the date of that report, 221 had been confirmed and full results were expected to be released late in 2017.[66] A report on Sina.com in May 2016 said that PHMG was known to have caused 70 deaths and to harmed the lungs of 177 people, with the actual total of deaths and people injured unknown.[64]
+
+Reckitt Benckiser Korea has been blamed for 103 deaths by a coalition of consumer groups in South Korea;[67] a report from The Korea Herald in April 2016 said that the firm had been blamed for 221 deaths.[66]
+
+Sometime after the release of the KCDC report, prosecutors in South Korea opened an investigation into the companies selling the disinfectants, which increased its pace in January 2016.[66] Reckitt Benckiser Korea submitted a toxicity report on PHMG to prosecutors in January 2016; prosecutors were also investigating allegations that the company suppressed data showing PHMG to be toxic in the report it had submitted.[66] In April 2016, a coalition of consumer groups called for a boycott of the company.[67]
+
+In May 2016, Korean division chief Ataur "Ata" Safdar apologised to victims and families in a press conference and offered compensation to the families of those who died and to those who were injured; it was the first time the company had acknowledged that its products containing PHMG were harmful.[65]
+Cillit Bang viral marketing controversy
+
+Cillit Bang television advertisements have been presented by "Barry Scott", a brashly enthusiastic character played by Neil Burgess, who claims that Cillit Bang can remove limescale, rust and ground-in dirt. In one advert, he places a copper English one penny coin in Cillit Bang to demonstrate the product's cleaning ability to remove staining. International versions of the advert use different presenters, known as Martin Grellis in Australia and New Zealand, and Dan Dolan in North America, although some spots feature Neil Burgess as Barry Scott. The North American versions of the advertisement use the appropriate one-cent coin (a Lincoln cent in the United States, a 1953–1964 one cent coin in Canada). The company claimed that the coin would be clean in 15 seconds: however the Advertising Standards Agency said the claim was misleading.[68]
+
+In 2005 advertising agency Cohn & Wolfe was contracted by Reckitt to operate a blog as the fictional character Barry Scott as a viral marketing platform. In October of that year blogger Tom Coates wrote an emotional post to his own blog about his long-estranged father. Among the expressions of condolences and sympathy in the post's comment section was one from a user identifying themselves as Barry Scott, with a link back to the Cohn & Wolfe's in-character blog as Barry Scott. Offended by the apparent use of his blog comments on such a personal post as a spam advertising venue, Coates traced the comment's originating IP address through addresses owned by Young & Rubicam and back to Reckitt. Reckitt initially denied responsibility for the message but later wrote Coates an apology acknowledging the message's inappropriateness, and Cohn & Wolfe issued a statement of remorse for their misuse of the "experimental" blog which they then ceased operating.[69][70]
+
+The controversy and its fallout led to further discussions among the blogger community as well as the advertising industry on the ethical issues surrounding blogs being "operated" by fictional characters for the purposes of advertising without being clearly labeled as such, and the extent to which those blogs should be allowed to participate in the greater blogosphere.[71][72][73]
+
+The Barry Scott adverts were parodied by Peter Serafinowicz on The Peter Serafinowicz Show. In the parodies, the host "Derek Baum" (played by Serafinowicz) markets a product called Kitchen Gun, which is a firearm that the host uses to blast away at kitchen surfaces and appliances, cleaning and damaging them at the same time,[74] and Toilet Grenade, a hand grenade covered in white paint that demolishes the toilet bowl to eliminate limescale and germs.[75]
+Anti-competitive behaviour
+
+In 2008, the BBC's Newsnight accused Reckitt Benckiser of attempting to delay the introduction of a competitive, generic version of one of its most popular products, Gaviscon, a treatment for heartburn and gastroesophageal reflux disease. In his introduction, reporter Martin Shankleman said:
+
+    Gaviscon is hailed as a power brand by its owners, Reckitt Benckiser ... Reckitt Benckiser likes to claim that the profits flow from their expertise in marketing. But we know that there's another way in which they've been coining it in—by ripping-off the NHS, as a whistle-blower has told us. The "whistle-blower" was shown in silhouette, and his words were spoken by an actor: "Reckitt's cheated the National Health Service. It could have saved the NHS millions of pounds. But not just the NHS, patients, doctors—they've cheated health professionals. I felt it had to be exposed". He continued, "Newsnight claimed that Reckitt had a "secret plan to ensure that it kept its stranglehold" after the Gaviscon patent expired in 1999, and that Newsnight had seen the plan. The Department of Health asked Newsnight to hand its documents to the NHS counter-fraud service.[76][77]
+
+The investigation was widely reported in the British press. The Guardian quoted a leaked memo in which the product's manager explained that the company could use "the rationale of health and safety" to design a switched product to "muddy the waters".[78] The newspaper quoted Reckitt as stating that the leaked memos were "inappropriate and did not reflect Reckitt's eventual actions".[78]
+
+The Independent quoted Warwick Smith, director of the British Generic Manufacturers Association: "The sort of evergreening alleged by Newsnight can cost the NHS tens of millions of pounds with no patient benefit."[79] It also quoted a statement issued by the company: "...RB is a responsible company and we have therefore instigated an immediate internal investigation and will take action. However, we do not accept much of what has been alleged."[79]
+
+The Times noted that "Although Gaviscon has been out of patent for almost ten years, no other manufacturer has developed a cheap generic version. Such a drug could have saved the NHS up to £40 million."[80] It stated that the Office of Fair Trading was expected to examine whether Reckitt had acted illegally. It also printed verbatim extracts from several of the leaked memos.[81]
+
+In response to the Newsnight report and the reports in the press, Reckitt issued a statement that began:
+
+    We are shocked by the allegations made as Reckitt Benckiser is a responsible company in the way it conducts its business.
+
+    Nevertheless, we are deeply concerned by the inappropriate sentiment expressed in some of the historic internal correspondence reported. We take this very seriously and have instigated an immediate internal investigation, and will take action. We also refute much of what has been reported which implies a power and influence we simply do not possess.
+
+    The company has never objected to a monograph driven generic name being published. The timetable of which is not, and never has been, within our control a monograph/generic name could have been published at any time by the regulators without reference to any third party.
+
+    The company made appropriate challenges where it felt it was justified in order to ensure patients are prescribed the right treatment. These were within the law and relevant regulations. We stress that the regulators only take a comment into account when it is valid.[82]
+
+On 15 October 2010, Reckitt was fined £10.2 million by the Office of Fair Trading after the company admitted anti-competitive behaviour.[83]
+
+In 2014, the Autorité de la concurrence in France found that Reckitt had colluded with 12 other multinational companies (Colgate-Palmolive, Henkel, Unilever, Procter & Gamble, Sara Lee, SC Johnson, Bolton Solitaire, Laboratoires Vendôme, Gillette, L'Oréal, Beiersdorf and Vania) to fix the prices of popular personal hygiene products; the fine of around €950 million was the largest ever imposed by the agency.[84]
+
+In 2015, Reckitt created controversy when it emerged that seemingly different versions of their product Nurofen marketed to treat specific pains, such as migraine, were all identical to the standard product despite costing twice as much. The product was withdrawn from sale in Australia for misleading consumers.[85] The Australian Competition & Consumer Commission (ACCC) took the matter to court and in December 2016, Reckitt was fined A$6 million.[86]
+Legal challenges to rodenticide regulations
+
+In 2008, the United States Environmental Protection Agency (EPA) announced a decision to remove second-generation anticoagulant rodenticides from store shelves, leaving the products available for purchase only by US licensed applicators. The ruling was slated to go into effect in 2011 allowing poison companies time to adjust to the new law. EPA's decision was based on tens of thousands of reports of pet, wildlife and child poisonings that resulted annually from rat poisons in the US alone. In 2011, Reckitt Benckiser makers of d-CON products initiated a legal challenge to the EPA expected to take several years to resolve. Early in 2014, California State Department of Pesticide Regulation ruled that anticoagulant rat poison sales would be restricted beginning on 1 July 2014. Reckitt filed suit in San Diego County Superior Court in April 2014 to block the decision,[87][88] but eventually reached an agreement with the EPA to phase out the products in June 2014; production of the banned products stopped on December 31, 2014, with distribution to retailers ceased on March 31, 2015, although retailers will be allowed to keep the banned products in stock until they are all sold out.[89]
+Palm oil procurement
+
+According to a 2016 Amnesty International report, Reckitt Benckiser is one of several consumer companies that buy palm oil from Wilmar International, the world's largest palm oil refiner. Amnesty found that Wilmar profits from child labour and forced labour and exposes workers to toxic banned chemicals.[90]
+Opioid marketing
+
+In 2019, Reckitt paid a $1.4bn fine[91] for claiming opioid medication Suboxone Film was "safer ... even though such claims have never been established."[92]
+Controversy regarding operations in Russia
+
+Reckitt Benckiser has faced criticism for continuing its operations in Russia despite the invasion of Ukraine and widespread international sanctions. In April 2022, the company announced plans to transfer ownership of its Russian business to a third party or local employees but did not complete the process as of 2024.[93][94] Trading data reveals that Reckitt Benckiser continues to export products to Russia, raising concerns about its commitment to disengaging from the market. While the company has frozen capital investments, advertising, sponsorships, and promotions in Russia, its ongoing presence has drawn scrutiny in light of Russia's continued aggression and violations of international law.[95][96]
+References
+
+"Annual Results 2024" (PDF). Reckitt Benckiser plc. Retrieved 6 March 2025.
+"Who we are". Reckitt Benckiser. Archived from the original on 12 March 2021. Retrieved 11 February 2024.
+"Four of Reckitt Benckiser's senior executives walk out". The Economist. 7 September 2017. Archived from the original on 15 February 2018. Retrieved 8 September 2017.
+"Reckitt Rises on Colgate, SSL Takeover Speculation". Bloomberg. 19 November 2009. Archived from the original on 24 September 2015. Retrieved 23 September 2010.
+"Headache-reliever Disprin is set to make its big comeback - ET BrandEquity". ETBrandEquity.com. Archived from the original on 6 December 2022. Retrieved 7 March 2020.
+"Airborne Health". Archived from the original on 29 January 2019. Retrieved 7 February 2017.
+"Category performance". Reckitt Benckiser plc/N.V. Archived from the original on 15 July 2011. Retrieved 23 September 2010.
+"Reckitt Benckiser's largest shareholder to slash stake". The Guardian. 9 May 2012. Archived from the original on 22 March 2019. Retrieved 9 April 2017.
+"Reckitt Benckiser History". Reckitt Benckiser. Archived from the original on 7 April 2014. Retrieved 30 April 2014.
+"Germany's intensely private and immensely wealthy Reimann family". Financial Times. 11 March 2016. Archived from the original on 11 December 2022. Retrieved 9 April 2017.
+Stumm, Petra (2012). Leopold Gmelin (1788–1853): Leben und Werk eines Heidelberger Chemikers. Centaurus Verlag & Media. p. 604. ISBN 978-3-86226-179-6. Archived from the original on 21 September 2024. Retrieved 16 October 2020.
+"Pfizer Selling Its Coty Unit to German Company : Restructuring: The divestiture will allow the pharmaceutical firm to focus on health care". Los Angeles Times. 5 May 1995. Archived from the original on 21 September 2024. Retrieved 23 July 2015.
+Forbes, Bertie (1999). "Forbes". Forbes. 164 (1–4). Forbes Incorporated: 53. Archived from the original on 21 September 2024. Retrieved 13 April 2013.
+Cooper, Rachel (12 April 2013). "Ex-Reckitt boss Bart Becht swaps Mr Sheen for coffee". The Daily Telegraph. London. Archived from the original on 12 January 2022. Retrieved 13 April 2013.
+"Reckitt Benckiser History". Reckitt Benckiser. Archived from the original on 7 April 2014. Retrieved 19 February 2014.
+De Chernatony, Leslie (1992). Creating Powerful Brands. Elsevier. p. 29. ISBN 978-1-85617-849-5. Archived from the original on 21 September 2024. Retrieved 16 October 2020.
+"La firma alemana Benckiser compra jabones Camp por 30.000 millones". El País. 16 July 1989. Archived from the original on 30 October 2022. Retrieved 30 October 2022.
+"Companies Considering Takeovers Now Look to the Global Market : Investment: The junk bond fueled frenzy of the '80s is over. Companies are putting up more equity and not looking just for quick profits". Los Angeles Times. 3 July 1990. Archived from the original on 21 October 2020. Retrieved 9 April 2017.
+"Solid Player Leaps To Big Leagues With Lysol Buy". Chicago Tribune. 30 September 1994. Archived from the original on 21 September 2024. Retrieved 9 April 2017.
+"S.C. Johnson Agrees to Sell Assets to Settle FTC Charges". Federal Trade Commission. 23 January 1998. Archived from the original on 24 January 2022. Retrieved 9 April 2017.
+"Annual Report 1990". Reckitt & Colman. Archived from the original on 21 September 2024. Retrieved 2 August 2023.
+"Annual Report 1995". Reckitt & Colman. Archived from the original on 21 September 2024. Retrieved 2 August 2023.
+Simon Bowers (28 July 2008). "Reckitt Benckiser revenue up 20%". The Guardian. London. Archived from the original on 25 April 2023. Retrieved 20 December 2012.
+Mark Scott (23 April 2008). "Reckitt Benckiser Cleans Up". Business Week. Archived from the original on 18 August 2012. Retrieved 20 December 2012.
+"Reckitt Benckiser buys Boots unit". BBC News. 7 October 2005. Archived from the original on 9 September 2017. Retrieved 20 December 2012.
+"Reckitt Benckiser Completes Acquisition of Adams Respiratory Therapeutics, Inc". Biomedicine. 30 January 2008. Archived from the original on 15 February 2012. Retrieved 20 December 2012.
+"Durex maker SSL agrees £2.5bn bid from Cillit Bang firm". BBC News. 21 July 2010. Archived from the original on 12 May 2021. Retrieved 21 July 2010.
+"Reckitt Benckiser grows in US with Combe brands" (PDF). OTC Bulletin. 3 January 2011. Archived (PDF) from the original on 12 July 2021. Retrieved 10 December 2020.
+"Dettol-maker appoints Indian as its global head". Daily News and Analysis. Archived from the original on 2 October 2012. Retrieved 18 June 2012.
+"BBC News: Reckitt Benckiser Product recall". BBC News. 27 August 2011. Archived from the original on 21 June 2021. Retrieved 27 August 2011.
+"Nurofen tampering: codeine addict jailed for 18 months". The Guardian. London. 28 May 2012. Archived from the original on 26 April 2023. Retrieved 22 January 2013.
+"Reckitt Benckiser buys Schiff Nutrition in $1.4bn deal". The Daily Telegraph. London. 22 November 2012. Archived from the original on 12 January 2022. Retrieved 30 December 2012.
+Schimroszik, Nadine (22 November 2012). "Reckitt Benckiser buys Schiff Nutrition". The Guardian. London. Archived from the original on 2 June 2021. Retrieved 30 December 2012.
+"RB complete demerger of Indivior". RB. Archived from the original on 29 March 2015. Retrieved 21 March 2015.
+Chesters, Laura (25 July 2014). "The 30 Second Briefing – RB (Reckitt Benckiser)". The i. p. 48.
+"Deals of the day-Mergers and acquisitions". Reuters. 2 February 2017. Archived from the original on 9 April 2017. Retrieved 10 April 2017.
+Dana, Mattioli; Dana, Cimilluca (1 February 2017). "Reckitt Benckiser Is in Talks to Buy Mead Johnson". The Wall Street Journal. New York City. Archived from the original on 2 February 2017. Retrieved 4 January 2017.
+Chaudhuri, Saabira (10 February 2017). "Reckitt Benckiser to Buy Mead Johnson for $16.6 Billion". The Wall Street Journal. Archived from the original on 11 February 2017. Retrieved 12 February 2017.
+"Commission Decision 08-M-008 2017: Acquisition by Reckitt Benckiser Group Plc. of Mead Johnson Nutrition Company – Philippine Competition Commission". phcc.gov.ph. Archived from the original on 26 April 2018. Retrieved 8 May 2017.
+"Reckitt to reshape as sales growth evaporates". Reuters. 18 October 2017. Archived from the original on 21 April 2023. Retrieved 28 January 2018.
+Bray, Chad (19 July 2017). "McCormick to Buy French's Mustard in $4.2 Billion Deal". New York Times. Archived from the original on 2 June 2021. Retrieved 19 July 2017. "Reckitt Benckiser has moved away from the food business in recent years and increasingly focused on consumer health products...."
+Sharrow, Ryan (18 July 2017). "McCormick to add French's mustard, Frank's RedHot in $4.2 billion deal". Baltimore Business Journal. Archived from the original on 4 September 2017. Retrieved 19 July 2017. "McCormick said the deal strengthens its position in the U.S. condiment business, specifically giving it a leading position in hot sauce through the acquisition of Frank's, a top brand in the U.S. and Canada."
+"Reckitt Benckiser chief Rakesh Kapoor to step down". Medical Dialogues. 18 January 2019. Archived from the original on 19 January 2019. Retrieved 18 January 2019.
+Chaudhuri, Saabira (12 June 2019). "Durex Owner Names Pepsi Executive as CEO". The Wall Street Journal. ISSN 0099-9660. Archived from the original on 21 September 2024. Retrieved 13 June 2019.
+Evans, Judith; Wembridge, Mark (1 September 2022). "Reckitt Benckiser chief Laxman Narasimhan to step down". Financial Times. London. Archived from the original on 11 December 2022. Retrieved 3 September 2022.
+"British consumer healthcare maker Reckitt Benckiser (RB) rebrands itself as Reckitt". The Economic Times. 23 March 2021. Archived from the original on 2 June 2021. Retrieved 23 March 2021.
+"Laxman Narasimhan steps down as CEO". Reckitt. Reckitt Benckiser Group. 1 September 2022. Archived from the original on 3 September 2022. Retrieved 3 September 2022. "Reckitt Benckiser Group plc ("Reckitt") today announces that its CEO, Laxman Narasimhan will step down as Chief Executive Officer on September 30, 2022. Laxman has decided for personal and family reasons to relocate back to the United States and has been approached for an opportunity that enables him to live there."
+"Starbucks Names Laxman Narasimhan as Next Chief Executive Officer". Starbucks Stories. Starbucks Corporation. 1 September 2022. Archived from the original on 5 December 2023. Retrieved 3 September 2022. "Starbucks [...] today announced that Laxman Narasimhan will become the company's next chief executive officer and a member of the Starbucks Board of Directors."
+Doris, Natasha (1 September 2022). "Reckitt Benckiser CEO joins FTSE 100 leadership exodus". UK Investor. London. Archived from the original on 3 September 2022. Retrieved 3 September 2022.
+Jolly, Jasper (1 September 2022). "Boss of Dettol maker Reckitt Benckiser unexpectedly resigns". Guardian. London. Archived from the original on 21 September 2024. Retrieved 3 September 2022.
+Hipwell, Deirdre (1 September 2022). "Lysol Maker Reckitt Jolted by CEO's Surprise US Departure". Bloomberg. Retrieved 3 September 2022.
+"Operations around the world". Reckitt Benckiser plc. Archived from the original on 15 July 2011. Retrieved 23 September 2010.
+"Reckitt Benckiser: Annual Report 2011". Reckitt Benckiser. Archived from the original on 10 February 2013. Retrieved 13 February 2013.
+"The Board". Reckitt Benckiser. Archived from the original on 9 April 2020. Retrieved 10 April 2020.
+"Our leadership". Reckitt Benckiser. Archived from the original on 9 April 2020. Retrieved 10 April 2020.
+Julia Finch (7 April 2010). "Bart Becht's £90m pay packet. I need a lie-down". The Guardian. London. Archived from the original on 21 September 2024. Retrieved 20 December 2012.
+Graeme Wearden (14 April 2011). "Bart Becht makes surprise decision to quit Reckitt Benckiser". The Guardian. London. Archived from the original on 21 September 2024. Retrieved 20 December 2012.
+"Reckitt Benckiser". Save the Children UK. Save the Children. Archived from the original on 19 July 2013. Retrieved 20 December 2012.
+"Our Home Our Planet". Reckitt Benckiser. Archived from the original on 20 November 2012. Retrieved 20 December 2012.
+"Reckitt Benckiser: Annual Report and Accounts 2008". Annualreview2008.reckittbenckiser.com. Archived from the original on 22 February 2012. Retrieved 18 June 2012.
+"Cleansing Products Disclosure Petition" (PDF). Earthjustice inc. February 2009. Archived (PDF) from the original on 14 June 2009. Retrieved 5 June 2009.
+Biello, David (18 February 2009). "Earthjustice Wants Companies to List Chemicals in Household Cleaners". Scientific American. Scientific American. Archived from the original on 21 September 2024. Retrieved 5 June 2009.
+Jessica A. Knoblauch (11 June 2018). "New York's New Guidance Lets Us Know What's in Our Toilet Bowl Cleaner". Archived from the original on 30 April 2022. Retrieved 30 April 2022.
+"Oxy apologizes to S. Koreans for usage of toxic chemical in humidifier sterilizer". Sina Corp. 2 May 2016. Archived from the original on 21 September 2024. Retrieved 2 May 2016.
+"Reckitt Benckiser sold deadly sterilisers in South Korea". BBC News. 2 May 2016. Archived from the original on 21 September 2024. Retrieved 2 May 2016.
+Hyun-jeong, Lee (24 April 2016). "Oxy suspected of watering down report". The Korea Herald. Archived from the original on 13 April 2017. Retrieved 2 May 2016.
+Kyung-min, Lee (25 April 2016). "Consumers to boycott Oxy Reckitt Benckiser". The Korea Times. Archived from the original on 26 April 2016. Retrieved 25 April 2016.
+"'Penny cleaning advert misleads'". Gazette and Herald. 13 April 2005. Archived from the original on 27 October 2023. Retrieved 27 October 2023.
+"Fictional web character fails to amuse net. - Free Online Library". www.thefreelibrary.com. Archived from the original on 3 August 2021. Retrieved 3 August 2021.
+"Fake Blogging and an Equally Fake Apology". PR Watch. 8 October 2005. Archived from the original on 21 September 2024. Retrieved 3 August 2021.
+"WOMMA's Word of Mouth vs. Advertising: On Cillit Bang and a new low for marketers... (plasticbag.org)". 12 December 2005. Archived from the original on 12 December 2005.
+"Cillit Bang stains their cult reputation with comment spam". Adland. Archived from the original on 22 September 2024. Retrieved 3 August 2021.
+"Diary: Barry Scott makes a real mess with blog posting". www.campaignlive.co.uk. Archived from the original on 22 September 2024. Retrieved 3 August 2021.
+"Kitchen Gun - in stores now! 🔫😂 - BBC". YouTube. 30 September 2007. Archived from the original on 18 October 2023. Retrieved 20 October 2023.
+Toilet Grenade - The Peter Serafinowicz Show - BBC Two, 9 October 2007, archived from the original on 23 November 2023, retrieved 23 November 2023
+"Gaviscon maker 'cheated the NHS' (video report)". BBC. 8 March 2008. Archived from the original on 21 September 2024. Retrieved 13 April 2009.
+Jones, Meirion (7 March 2008). "Gaviscon maker 'cheated the NHS'". BBC. Archived from the original on 10 March 2008. Retrieved 13 April 2009.
+Leigh, David (7 March 2008). "Company accused of cheating NHS". London. Archived from the original on 9 December 2008. Retrieved 13 April 2009.
+Laurance, Jeremy (8 March 2008). "Drug giants 'swindle NHS by blocking cheap medicines' extending patents". The Independent. London. Archived from the original on 26 October 2012. Retrieved 13 April 2009.
+Jameson, Angela (7 March 2008). "Reckitt Benckiser accused of ripping off NHS over Gaviscon". The Times. London. Archived from the original on 12 June 2011. Retrieved 13 April 2009.
+Booth, Jenny (7 March 2007). "The Reckitt Benckiser memos in full". The Times. London. Archived from the original on 12 June 2011. Retrieved 13 April 2009.
+Reckit Benckiser (7 March 2008). "Statement in response to media reports about Gaviscon". Reckitt Benckiser Corporate Communications. Archived from the original on 14 November 2008. Retrieved 13 April 2009.
+Kollewe, Julia (15 October 2010). "Reckitt Benckiser fined £10.2m by OFT". The Guardian. London. Archived from the original on 21 September 2024. Retrieved 15 October 2010.
+"Huge price-fixing fine is upheld". The Connexion. 28 October 2016. Archived from the original on 9 February 2017. Retrieved 28 October 2016.
+"Nurofen maker Reckitt Benckiser defends Australia packaging". BBC News. 14 December 2015. Archived from the original on 4 May 2016. Retrieved 29 April 2016.
+Cormack, Lucy (16 December 2016). "Nurofen fine for misleading consumers increased to $6 million". The Sydney Morning Herald. Archived from the original on 16 December 2016. Retrieved 16 December 2016.
+"Makers of rat poison d-Con sue California". The Mercury News. 31 March 2014. Archived from the original on 21 September 2024. Retrieved 21 March 2015.
+"Petition for writ of Mandate" (PDF). Superior Court. Archived (PDF) from the original on 21 September 2024. Retrieved 21 March 2015.
+United States Environmental Protection Agency (4 March 2014). "Canceling Some d-CON Mouse and Rat Control Products". Archived from the original on 30 April 2022. Retrieved 30 April 2022.
+"The Great Palm Oil Scandal: Labour Abuses Behind Big Brand Names". Amnesty International. 30 November 2016. Archived from the original on 23 April 2018. Retrieved 1 December 2016.
+Farrell, Sean (11 July 2019). "Reckitt Benckiser to pay $1.4bn fine over opioid treatment sales". The Guardian. Archived from the original on 21 September 2024. Retrieved 5 November 2023.
+"Justice Department Obtains $1.4 Billion from Reckitt Benckiser Group in Largest Recovery in a Case Concerning an Opioid Drug in United States History". Office of Public Affairs. 11 July 2019. Archived from the original on 5 November 2023. Retrieved 5 November 2023.
+"Reckitt begins process 'aimed at' transferring Russian business". Financial post. 13 April 2022. Retrieved 26 December 2024.
+"Over 1,000 Companies Have Curtailed Operations in Russia—But Some Remain". Yale School of Management. 28 January 2024. Retrieved 26 December 2024.
+"Over 400 companies have withdrawn from Russia - but some remain". Bizcommunity. Retrieved 26 December 2024.
+
+    "Reckitt, BAT stay the course on Russian business plans". Reuters. 26 July 2023. Retrieved 26 December 2024.
+
+=====
+
+
+From Wikipedia, the free encyclopedia
+(Redirected from The co-op)
+"Co-operative Wholesale Society" redirects here. For general information on organisations of this name, see Co-operative wholesale society.
+
+This article contains promotional content. Please help improve it by removing promotional language and inappropriate external links, and by adding encyclopedic text written from a neutral point of view. (April 2024) (Learn how and when to remove this message)
+Co-operative Group Limited
+One Angel Square
+The Co-operative Group's headquarters in Manchester, England
+Trade name
+	Co-op
+Formerly	Co-operative Wholesale Society
+Company type	Consumer co-operative
+Industry	Retail (convenience stores), wholesale, legal, funerals, insurance, social enterprise
+Founded	11 August 1863; 161 years ago in Manchester[1]
+Headquarters	Manchester, England
+Number of locations
+	3,160 (2023)
+Key people
+	Debbie White[2]
+(group chair)
+Shirine Khoury-Haq
+(group chief executive)
+Matt Hood
+(Food Managing Director)
+Services	Retail (convenience stores)
+Wholesale
+Funerals
+Legal
+Insurance
+Revenue	Decrease £11.3 billion (2023)
+Operating income
+	Increase £97 million (2023)
+Net income
+	Decrease £3 million (2023)
+Members	Increase 5 million active members (2023)
+Number of employees
+	56,465 (2023)
+Subsidiaries
+
+        Co-op Wholesale Ltd.
+        Co-op Insurance Services Ltd.
+        Co-operative Legal Services Ltd.
+        Co-op Food [1]
+        Plus 100+ more
+
+Website	co-operative.coop
+Footnotes / references
+2023 Annual Report
+
+The Co-operative Group Limited, trading as Co-op and formerly known as the Co-operative Wholesale Society, is a British consumer co-operative with a group of retail businesses, including grocery retail and wholesale, legal services, funerals and insurance, and social enterprise.[3]
+
+The group has its headquarters located at One Angel Square in Manchester, England. The Group also manages the Co-operative Federal Trading Services, formerly the Co-operative Retail Trading Group (CRTG).
+History
+Beginnings (1844–1938)
+The Hanover Building in Manchester, former headquarters of the Co-operative Wholesale Society
+
+The Co-operative Group has developed over the years from the merger of co-operative wholesale societies and many independent retail societies. The Group's roots are traced back to the Rochdale Society of Equitable Pioneers, established in 1844.[4] The Rochdale Society of Equitable Pioneers was based on the Rochdale Principles – which notably introduced the idea of distributing a share of profits according to purchases through a scheme which became known as the dividend or "Divi".
+
+Although the Co-operative Group incorporates the original Rochdale Society, the business's core for much of its history were its wholesale operations. This began in 1863 when the North of England Co-operative Wholesale Industrial and Provident Society Limited was launched in Manchester by 300 individual co-operatives in Yorkshire and Lancashire. By 1872, it was known as the 'Co-operative Wholesale Society' (CWS) and it was wholly owned by the co-operatives which traded with it.[5][6][7] The CWS grew rapidly and supplied produce to co-operative stores across England, though many co-ops only sourced around a third of their produce through the CWS. It was this continued and fierce competition with other non-co-operative wholesalers which led to the CWS becoming highly innovative. By 1890 the CWS had established significant branches in Leeds, Blackburn, Bristol, Nottingham and Huddersfield alongside a number of factories which produced biscuits (Manchester), boots (Leicester), soap (Durham) and textiles (Batley). In an attempt to drive down the significant cost of transportation for produce the CWS even began its own shipping line which initially sailed from Goole docks to parts of continental Europe. One of the CWS' steamships, the Pioneer, was the first commercial vessel to use the Manchester Ship Canal. This rapid expansion continued so that by the outbreak of World War I the CWS had major offices in the United States, Denmark, Australia and a tea plantation in India.[6]
+The head offices for the Co-operative Bank and the CIS in Manchester's 'co-op quarter'
+
+There was a great deal of consideration on the role of the CWS in the British co-operative movement around the turn of the twentieth century. Many, fiercely local, societies saw the CWS as a valuable supplier but did not want to exclusively purchase produce from them owing to perceptions of high cost (mostly transport costs) and unreliable quality – some things the CWS were at pains to resolve. In contrast to this, the CWS had its aim to be the centrepoint for the whole co-operative movement in the UK and lobbied hard for loyalty from co-ops. To this end, they started to assist the local retail societies in more ways than simply as a wholesaler. The CWS Bank, the precursor to The Co-operative Bank, financed loans for societies to use for expansion through purchasing new buildings, land or new equipment. After the acquisition of the Co-operative Insurance Society in 1913, the CWS also provided insurance services to members and the CWS also began providing legal services – all businesses which form parts of the Co-operative Group today. It was hoped that these financial ties, as well as the CWS corporate dividend, would increase loyalty to the CWS.[6]
+World War II and post-war decline (1939–1989)
+
+During the Second World War, rationing led to an effective pause in any major changes to the co-operative movement in the UK with the CWS becoming highly involved in sourcing overseas goods for UK consumers and manufacturing wartime goods.
+
+During this time, the CWS began planning for the future, as even then they could see the potential disruption to the retail market that the new multiple grocers could have. What was less obvious at the time would be the impact of National Savings and national taxation on the movement, as Britain shifted from a country of friendly, building and co-operative societies, to one with a National Health Service, National House building programs and National Post Office Bank NS&I GPO. In 1944, the CWS published a report entitled Policy and Programme for Post War Development which focused on methods for revitalising the co-op movement after the war had ended. The report suggested merging the CWS with the Scottish Co-operative Wholesale Society (SCWS); reducing the number of co-operative societies through merger; moving into the manufacturing and production of white goods and the expansion of the Co-operative Bank.
+
+This report received much criticism from the fiercely local co-operative societies and the proposals of the report were only partly and slowly implemented. The end of war allowed some attempt to modernise the co-operative stores around this time, while the slow demobilisation of the wartime boost of full employment and high wages partly waned consumer spending power. After the London Co-operative Society opened its first self-service shop in 1942, the co-operative movement led the way on the development of self-service stores to the point where, by the 1950s, 90% of self-service shops in the UK were run by co-operatives.[8] Despite this the subscribed share capital (risk capital) available to societies to innovate and take risks dwindled causing market share and relative quality of the service societies could offer their members to dwindle. Consequently, this impacted the movement by reducing the number of society members willing to enter membership and then actively trade with their co-operatives, leading to further real terms falls in withdraw-able member share capital levels, and in the level or return generated co-operative investment in the form of lower interest and dividends. A corollary of falling market share was continued ownership of freehold land, property and infrastructure, such as warehouses, dairies and farmland (the Co-operative Farms) built up by societies with accumulated surpluses from the 50 years of growth before the war.[6]
+
+The Co-operative Independent Commission (1958) was tasked with investigating the decline in the co-op movement and for making recommendations for revitalising the movement in the future. Its recommendations had two main thrusts: that a strong response to the emerging multiple-store supermarket chains (including the appointment of professional managers)[7] was needed and that the Co-op needed to come to terms with the rise in consumerism and to move away from its association with the "working poor" rather than a more prosperous working class.
+
+The CWS responded with operation facelift in 1968 which introduced the first national co-operative branding, the 'Co-op' cloverleaf.
+
+Though Operation Facelift led to some improvements, the movement (including the CWS) remained largely unreformed with its grocery market share continuing a downward trend.[7] Again, it was suggested that societies merge to form regional societies to improve their competitiveness through enhanced economies of scale. Many local co-op societies strongly resisted such mergers but, as their financial situation declined, many were forced to merge to create regional societies or were absorbed into either the CRS or the SCWS to avoid failing. Consolidation within the movement was considerable, and in 1973 serious financial mismanagement of the SCWS Bank led to the SCWS and the CWS merging to form a single UK-wide wholesale society.
+
+The merger did highlight the potential of The Co-operative Bank as it was building a sizeable base of customers (notably local authorities, mutuals and local groups alongside co-operative societies) and this became an increasingly significant proportion of the CWS's annual profits. The growth in the bank largely related to its aggressive expansion into the personal banking market and with the pioneering of free banking (1972) in the UK, nine years before any of its larger rivals.[6]
+The Co-op superstore Lisburn Road, Belfast, shown here in 1996
+
+The co-operative movement's marketshare and profitability continued to decline during the 1970s and 1980s, in part, due to a number of reasons.
+
+Firstly, the process of deindustrialization, that had characterised the period led to serious economic difficulties in many of the movements heartlands (notably the northern industrial towns), which disproportionally impacted on the societies through a decrease in consumer spending despite the British economy seeing a rise in overall consumer disposable income. This was largely due to the strong increase in wealth and social inequality in the UK at this time. The co-operative movement was not well placed to tap into this increase in middle class spending due to the geographic spread of its stores and The Co-op's historic association as the shop for the "working poor".
+
+Secondly, redevelopment projects in many cities between the 1950s and 1970s often moved people from rows of terraced housing (which featured co-op stores dotted throughout) to newer purpose-built estates, with around 18,000 co-op stores closing as they had become redundant.
+
+Thirdly, the time was a period of notable inflation and a strong pound, which had led to a wave of cheap imported goods – this devastated much of the UK's manufacturing industries (including the CWS). By the 1980s, it became clear that the trend in the retail sector was towards large (often out of town) supermarkets and hypermarkets with hundreds of them appearing across the UK.
+
+The co-operative movement did build some superstores, having 74 by 1986, but often their development and competitiveness was hindered by the lack of a national distribution network and price competitiveness. In an attempt to improve the collective buying power of the movement the CWS acted to reposition itself from a wholesaler (from which societies can choose to buy) to a 'buying group' (where the CWS buys on behalf of), in order that CWS could increase the proportion of produce sold through co-operative stores that was sourced by itself. Though this did work to increase loyalty, it was not until the 2000s with the development of the Co-operative Retail Trading Group that the CWS became the de facto wholesaler for co-operative stores.[6]
+
+During the 1980s, the CWS began to merge with a number of failing co-operative societies, having returned to direct retailing after its merger with the SCWS the decade before. These mergers with consumers' co-operatives led to the co-op having both corporate (co-op societies) and individual members, hence making it both a primary and secondary co-operative.[7] The CWS's expansion into direct retailing (especially after the mergers of the 2000s) led to the CWS becoming a highly visible business in the UK. The legacy of this was that many people perceive the British co-operative movement to be one business, The Co-operative Group, or co-op for short.[6]
+Modernisation and takeover attempts (1990–1999)
+
+By the start of the 1990s, the co-operative movement's share of the UK grocery market had declined to the point where the entire business model was in question. This was at a time when many building societies were demutualising as many of the public preferred the short-term financial gain of the windfall payment over the perceived lack of benefits from the mutual model. For a time it seemed as though the mutual or co-op model was almost dead.
+
+The Co-op's reputation was not helped in this respect by the factions within the movement, notably the strong rivalry between the CRS and the CWS, acting in a manner which exacerbated the belief held by many members of the public that, rather than working for the interests of all members, co-ops were largely acting in the self-interests of a dominant 'clique' of members within each society.
+
+Together these crises meant that the 1990s would become a crucial decade if the Co-op was to survive. In order to raise capital to invest in its food stores (and also the increasingly successful Co-operative Bank), the CWS sold many of its factories to Andrew Regan in 1994 for £111 million in what initially appeared to be a highly beneficial arrangement for the CWS.
+
+However, later it appeared that those involved in this deal did so without the CWS Board's permission and had been also handing confidential CWS files to Regan. Notably, one Sunday newspaper printed the CWS' annual report before it had been officially released. This would later pose a huge threat to the CWS when in 1997 Regan posed a highly ambitious £1.2bn hostile takeover attempt of the CWS.[9] This shocked many in the movement and consolidated support for the CWS as the 'linchpin' of the movement in a way that many had previously opposed.
+
+The CWS, under the leadership of Graham Melmoth, was able to defend itself from this takeover bid, largely by informing Regan's creditors that his hostile takeover was based upon dubiously sourced data and bad business practices. The deal also failed because Regan had greatly misunderstood the CWS' complicated ownership structure, assuming that by paying off the 500,000 'active members' he could gain control of the CWS.
+
+Though this strategy worked for the carpetbaggers working to demutualise UK building societies at the time, it failed to recognise that the ownership actually lay with millions of ordinary members and that many of these 'active members' were staunch co-operators and who would be unlikely to back the bid.
+
+After investigations by a private detective and a subsequent criminal court case, Regan's bid was rejected and two senior CWS executives were dismissed and imprisoned for fraud. An arrest warrant was issued for Andrew Regan in 1999 however he had already emigrated to Monaco.[6][10]
+
+The shock that Regan's bid sent through the co-operative movement has been attributed with sowing the seeds for the reduced hostilities between the CWS and CRS factions which eventually ended with the CRS becoming a member of the CRTG before fully merging with the CWS in 1999.[11] The merger took two years to complete and the launch of the newly combined business, named The Co-operative Group, was timed with the release of the 2001 Co-operative Commission report, chaired by John Monks, which proposed a strategy of modernisation.[12]
+
+The report focused on improving store design and building a consistent branding whilst also driving for efficiency savings to make the food business more competitive – the similarity in conclusions between the 1919, 1958 and 2001 reports highlights the distinct lack of progress within the movement during this time. The 2001 report also highlighted the need to market what it called 'The Co-operative Advantage'; a favourite idea of Graham Melmoth, which suggested that commercial success would provide the funding for the social goals of the movement which (when the public saw a tangible benefit to their own lives) would provide a competitive advantage to the Co-op which would further its commercial success – a virtuous cycle. Unlike Gaitskell Commission's 1958 report the recommendations of the report, notably the major update to "The Co-operative brand" and the re-launch of the membership dividend scheme, were largely adopted by the co-operative movement including The Co-operative Group. These changes to the business are largely credited with the successes in profitability and the achievement in social goals which improved in the years after the Co-operative Commission report.[13]
+
+As a part of the CWS-CRS merger, new governance arrangements were designed with the 'independent societies' becoming part owners of the new Group and their representatives were elected to the group's national board. The largest change, however, was the much stronger representation for the individual members of the retailing operation with a string of regional boards and area committees designed to facilitate a clear democracy and representation on a local and national level. The composite nature of the Co-op as both a primary and a secondary co-operative led to the business having both individual members and corporate members (independent co-operative societies) which had to be included in any democratic structure. This led to a governance arrangement which was complicated and not understood by many individual members and which led to relatively few members becoming democratically engaged with the business. During 2007 the then chief executive Martin Beaumont was critical of the lack of commercial expertise on the board, foreshadowing the conclusions drawn from later Myners review into the near failure of the business during 2013 which was (in part) due to an unfit governance arrangement.[7] In 2014 the governance arrangements were completely redesigned to reflect the recommendations of the Myners review – for more information see the governance section.
+Establishing the "Co-operative difference"
+
+Though the modernisation of the business was most noticeable after the 1997 takeover attempt, this is not to say that modernisation of the CWS had not been under way for some time. Since 1993 the CRTG had been working to switch the role of the CWS from "selling to" to "buying for" co-operative societies as a way of maximising the economies of scale to become more competitive to the major supermarkets. Since the 1960s the Co-op had been following retail trends after they had occurred, always having to catch up, in a way that it led the changes before the Second World War. Many leaders within the movement began to appreciate that this 'me too' approach to retailing was not working, for example, expanding into hypermarkets after Tesco and Sainsbury's had already developed a dominant position, but without the resources to compete on price. After the 1997 strategic review the business suggested that it close the majority of its hypermarkets and department stores and instead focus on its core chain of convenience stores.[6]
+
+As a further attempt to differentiate itself from its larger competitors The Co-operative Bank had introduced an ethical policy in 1992 and this, along with its technical innovation, was well received with customers. The CWS decided that, though it had always aimed to trade responsibly (for example though the working conditions in its factories and plantations as well as its boycott of South African produce during the years of apartheid[14]), by cementing its "ethical" credentials in a series of strong and clear policy commitments it could work to convince the public of the "co-operative difference".
+
+This move posed a bold step for the CWS leadership as this was a wholly new approach for such a large business. As a part of this, the Co-op worked with The Fairtrade Foundation to help introduce the Fairtrade Mark in the UK. It was an early adopter of the RSPCA's 'Freedom Foods' animal welfare certification. It introduced the first supermarket range of 'environmentally friendly' household products and the first range of toiletries certified by Cruelty Free International as "not tested on animals".
+
+This new adoption of an ethical strategy was only part of the CWS' changes. The Co-op had been pioneering on notable changes to its packaging with nutritional labelling on food (1985) and later introduced Braille on its packaging. Many own brand products were also reformulated to reduce the amount of salt, sugar and fat in order to make the product range more healthy. So successful was this initiative that competitors such as Sainsbury's and Marks and Spencer began to follow aggressively on these initiatives.
+Example of the 'Co-Op Welcome' branding from Stansted Mountfitchet
+Example of the 'Late Shop' branding on the co-op store in Whitnash
+
+In an attempt to build upon the success which was being felt around the increasing public perception of the Co-op as an ethical retailer and to implement what was a core recommendation of the 2001 Co-operatives Commission, The Co-operative Group launched a brand panel which was tasked with developing a single consistent national branding standard for the movement. For decades, marketing by co-operatives was confusing for many customers with different societies adopting different store names (notably "Co-op Welcome" and "Co-op Late Shop"), various shop fascia designs and inconsistent marketing. Also, the cloverleaf design of the Co-op logo was seen by many as too associated with the years of neglect and decline within the movement and hence The Co-operative Group aimed to launch a totally new brand.
+
+The new "The Co-operative" branding was first displayed at the 2005 co-operative congress and became the first brand which could bring together all of the co-operative businesses (both those of The Group and the independent societies) under a single consistent brand. With the brand came a set of standards which any outlet using the brand must adhere to – to maintain a high standard of impression with customers. A twelve-month pilot of the new branding followed and these suggested that a significant growth in sales followed the re-branding of stores, largely understood to result from a major impact on public perceptions. Not all of the independent societies joined this new branding however, with United Co-operatives (prior to its merger with the Co-operative Group), the Scottish Midland Co-operative Society and the Lincolnshire Co-operative Society not adopting the new brand design. In combination with the new "The Co-operative" redesign, the Co-op sought to relaunch the co-operative membership scheme using a single consistent national standard and featuring the re-introduction of the member dividend.[6]
+
+Together, this renewed focus on responsible trading, the redesign of "The Co-operative" brand and the reintroduction of the member dividend helped to build the start of a renewed relationship with the British public. In 2006 a survey found the Co-op to be the most trusted major retailer in the UK and almost six million people joined the membership scheme over the following five years. Even after The Co-operative Group's financial crisis of 2013 the 'Have Your Say' survey found that more than 70% of the public agreed that the Co-op 'tries to do the right thing'.[15]
+Expansion (2000–2012)
+The VG logo and shop livery, c. 1990
+
+Following the integration of the CRS and CWS into the new Group structure it became evident that the business required significant modernisation and rationalisation of its businesses. The Co-operative Group followed by selling its loss-making footwear and milk processing businesses as well as some aspects of its agricultural production. The business also sold many of its larger supermarkets and hypermarkets using the funds to expand further into the convenience store sector, notably through adding 600 stores, following the acquisition of the Alldays chain.[16] Alldays had previously purchased the VG chain of small supermarkets, which operated a franchise operation, supplying marketing and own-brand products to independently owned grocers. The Co-op invested significantly in distribution facilities, notably by opening a purpose-built National Distribution Centre in Coventry during 2006.[17]
+
+As a result of their steady expansion after 2000 the Pharmacy and Funeralcare businesses were performing well, however the farming business was poorly aligned with the needs of the food stores and so was significantly reorganised in 2007 to focus the farmland on producing produce for the business's food stores. The co-op also moved into new business opportunities during this period adding a legal services business (providing conveyancing, will writing and probate services) and an Energy Generation business, the latter included significant investment in renewable energy generation which formed another key aspect of the co-op's drive towards its ethical image. This period was successful for the co-op in increasing its profitability and in beginning to rationalise what had been a sprawling but rather unsuccessful conglomerate. Many however, believed that for the co-op to survive in the long term it would need to merge with other large co-operative societies.
+
+At the start of 2007, the group began discussions with United Co-operatives, then the UK's second-largest co-operative, about a merger of the societies.[18] Such a merger was expected to lead to significant efficiency savings owing to the large duplication of services which the two societies provided. On 16 February 2007, the boards announced they were to merge subject to members' approval, and on 28 July 2007 the newly enlarged Co-operative Group was launched. At the same time, the group transferred the engagements of the Scottish Nith Valley Co-operative Society which, while trading profitably, was suffering a burden with its pension fund commitments.[19]
+
+Before the United merger was complete, the Chief Executive, Peter Marks, was already preparing another significant acquisition as he believed that only though significant growth could the co-operative become truly sustainable in the long term. In July 2008, the group announced a deal to purchase the Somerfield chain of 900 supermarkets and convenience stores.[20][21] The sale was completed on 2 March 2009, costing £1.57 bn.[20] The conversion and rebranding of Somerfield stores into Coop stores took just over two years and was completed by summer 2011.[22]
+
+In 2008, the group bought ten convenience stores trading as Bell's and Jackson's in the north and east of England from Sainsbury's.[23]
+Co-op Group convenience store (2007-2016 brand) Tilehurst, Berkshire
+
+In autumn 2008, Lothian, Borders & Angus Co-operative Society members voted to transfer engagements to the Co-operative Group. The transfer came into effect on 13 December 2008. The group announced in November 2008 that despite the economic downturn, half-year profits had risen by 35.6 per cent to £292.6 million for the six months to June 2008.[24] In January 2009, Co-operative Financial Services and the Britannia Building Society announced their intention to merge, subject to regulatory and member approval. Members of the Plymouth & South West Co-operative Society joined the Co-operative Group in September 2009.[25][citation needed]
+
+The Group's reputation suffered in 2007 when 38 of its 41 stores in Sussex failed fire safety inspections and it was fined £250,000.[26] It was fined £210,000 in 2010 after an investigation at one of its Southampton stores.[27]
+CIS Tower and One Angel Square in Manchester, England
+
+In May 2010, the Co-operative Group unveiled plans to build a new headquarters in Manchester. The initial phase of construction commenced on Miller Street near the existing estate where the Group has been based since 1863. The project, entitled NOMA, aims to reflect ethical values of the organisation in its design, construction and its relationship with employees and the surrounding communities. The centrepiece of the initial development is One Angel Square, one of the largest buildings in Europe to have a BREEAM Outstanding Distinction as a result of its high sustainable energy credentials. Occupation of the new building began in early 2013.[28]
+Financial crisis (2013–2014)
+
+In May 2013, after recognising inadequate capital levels in its banking group, Euan Sutherland took over from Peter Marks as Chief Executive.[29] That month Moody's downgraded the bank's credit rating by six notches to junk status (Ba3) and the bank's Chief Executive, Barry Tootell, resigned.[30] The difficulties stem largely from the commercial loans of the Britannia Building Society, acquired in the 2009 merger.[31] The Co-operative Insurance sold its life insurance and pensions business to Royal London releasing about £200M in capital, and planned to dispose of its general insurance business. Further financial restructuring was expected.[29]
+
+On 5 June 2013, Richard Pennycook, former Finance Director of Morrisons, was named The Co-operative Group's Finance Director, and Richard Pym, former Chief Executive of Alliance & Leicester, as Chair of The Co-operative Banking Group and The Co-operative Bank.[32] The group lost £2.5 billion in 2013,[33] and debt stood at £1.4 billion at the end of 2013.[34][35]
+
+In May 2014, a special member's meeting agreed to restructure the way members elected the board, largely along the lines suggested in a governance report by Lord Myners.[36][37] The Myners Review was very critical of the co-operative movement's (and especially the Group's) lack of response to the 1958 commission report and for the failure of the Group's governance since the merger of CWS and CRS in 2000. The review also underlined the requirement to focus on making and retaining annual profits which can be invested in the long-term future of the business and to avoid the risks of over-expansion and 'empire-building' as had nearly destroyed the business in 2013.[7]
+
+During 2014, the group sold a series of businesses to reduce debt.[38] The Co-operative Pharmacy was sold for £620 million to the Bestway Group, Co-operative Farms was sold for £249 million to the Wellcome Trust, and Sunwin (the group's cash transportation business) was sold for £41.5 million to Cardtronics.[39]
+Rebuilding the Co-op (2015–present)
+
+Having scaled back their operations to their core food, funeral, insurance, electrical and legal businesses in the preceding years, the business set about modernising these businesses in order to create a stable and profitable base for the future. In April 2015, The Co-operative Group announced that it had reduced its debt levels by approximately 40% (to £808M) and had made a small profit during 2014, but would not pay a dividend to members until 2018.[40][41] When The Co-operative Group released its annual report in 2016, it showed that its food business was growing faster than the overall grocery market (by 3.2 percentage points) and that like-for-like sales were up 3.8% in its core convenience estate.[42] This reflected the significant growth in the convenience sector in the UK following a shift in consumer habits towards shopping little and often. Owing to their strength in the market, the food business chose to focus on their estate of approximately 2,500 convenience stores, selling over 100 of their larger supermarkets and opening 300 new convenience stores during 2014, 2015 and 2016, particularly in London and the South East of England. The business also sold 298 of its smallest stores to McColl's in 2016 with the aim of providing a more consistent shopping experience by focusing on stores primarily in the 2000–4000 square foot bracket where a greater range of own brand products could be sold.[43] The food range in stores was refreshed with a smaller range of items, that were tailored to individual stores, rather than their previous policy of determining product range purely on store size. The Co-op also shifted to a strategy of driving sales by reducing the price and increasing the quality of products,[44] by increasing the proportion of produce produced in the UK[45][46] and the roll-out of locally sourced products in small clusters of stores (following a successful trial in Yorkshire).[47] As their ethical image had largely recovered after their financial crisis, they focused attention on differentiating the food business through measures such as by driving a significant increase in sales of Fairtrade goods (sales of Fairtrade products rose 18% during 2016),[48] through being the first major UK supermarket to switch all of its own brand meat (excluding continental meats like chorizo) to being British sourced[46] and through reinventing the Society's membership scheme to include a reward of 5% of spend on own brand items being credited to the member and a further 1% being donated to a local cause of their choosing.
+
+Following years of under-investment, the Co-op brought in Mike Bracken, in order to completely re-invent the Society's digital operations and to drive back office efficiencies in the food, funeral and insurance businesses. Focus was also given to re-targeting the insurance business as the preferred insurance provider for Co-op members rather than chasing market share. In 2016 the Co-op announced its intentions to replace its "The Co-operative" branding with revitalised "Co-op" branding from the 1960s, following fears that members associated the branding with the failures of the organisation leading up to 2013.
+
+On 1 March 2017 Richard Pennycook stood down as Group CEO and was succeeded by the CEO of the Co-op's food division, Steve Murrells. This was viewed as representing a shift in the focus of the business from the Rebuilding phase and into a phase of planning for Renewal.[49] In their 2017 annual results the Co-op announced that all of the group's businesses were gaining in market share and that their new membership scheme had led to an additional 700,000 members joining the Society during its first six months,[50] although this news was overshadowed by the group reporting a loss during 2016 after being forced to write off their shareholding in the still troubled Co-operative Bank.[51]
+Co-operative practices
+
+As a co-operative, the group places importance on ethical and transparent trading and reporting, and democratic accountability and participation. Individual stores may have member forums. Unlike a pure consumer co-operative, voting rights are shared between the corporate members and the individual consumer members, as described in an annual report:
+
+    Voting for corporate members is in proportion to trade with the society. Each individual member has one vote in the appropriate region of the society and each region has voting rights calculated on the same basis as a corporate member.[52]
+
+Social goals
+Current initiativesCo-op Foundation
+
+Co-op Foundation is the Co-op's own charity and is a working name of the Co-operative Community Investment Foundation, a charity established in 2000 and registered in England and Wales (1093028) and Scotland (SC048102).[53][54]
+Co-operate
+
+Co-operate has been developed by Co-op as an online community centre for local communities. The Co-operate web portal allows people to volunteer to support local good causes as well as advertise events and activities which bring people together and help to change communities for the better.[55]
+Co-operative Party
+
+Co-op is a major affiliate and supporter of the Co-operative Party, which fields candidates in elections on joint tickets with the Labour Party as Labour and Co-operative Party. It is a substantial funder of the Co-operative Party, which is subject to approval at the annual Co-op Group AGM.[56] In 2020, the annual general meeting voted to continue funding the Co-operative Party by a vote of 42,514 for, to 9,000 against.[57] In 2019, the Co-op made donations totaling £625,600 (2018: £625,600) to the Co-operative Party.[58]
+
+In addition to core aims of furthering co-operative values and mutualism in parliaments across the UK and Isle of Man, activists and representatives (MPs & Peers, MSPs, MSs, MLAs and councillors) campaign on wider social issues.[59][60]
+Co-operative school academies
+
+The Group sponsors a non-profit multi-academy trust in the North of England, the Co-op Academies Trust.[61][62][63] Founded in 2010, the Trust had grown to 32 academies, across 3 regional hubs by 2023.[64]
+Member Pioneers
+
+Co-op employ a network of Member Pioneers who 'work to improve communities such as supporting a local cause or establishing local forums'.[65]
+Former initiatives
+The Co-operative Film Festival
+
+The Co-operative Film Festival (formerly known as the Co-operative Young Film-Makers festival) started in 1966 and ended in 2013.[66][67][68] It was a non-competitive and not-for-profit film festival designed to encourage young people to be creative.[69] The National Science and Media Museum in Bradford was the host venue and associate of the festival from the year 1999 until 2013.[69][70][71][72][73]
+Businesses
+Current
+
+The group has 85% of the co-operative grocery retail business in the UK and substantial shares in wider markets, including wholesale, funerals and legal services.[citation needed]
+Convenience retail
+Co-op convenience store Aylsham, Norfolk using cloverleaf branding
+
+Co-op Food is the largest division of the group with around 2,400 retail stores which cover the largest geographical spread of any grocery retailer. The stores mainly operate across a variety of convenience formats, with some larger neighbourhood stores. In addition, Co-op offers an online grocery delivery and collection service in certain UK and Isle of Man postcodes.[74] The Co-op has an exclusive partnership agreement with the National Union of Students and works with third party delivery partners, including Amazon, Deliveroo and Starship Technologies.[75][76][77][78]
+
+Foodservice operations include third-party brands such as Costa Express and Rollover hot dogs as well as Co-op owned brands including Ever Ground Coffee, a Fairtrade coffee brand.[79][80][81]
+
+As of 2023 it is the seventh largest grocery chain in the UK, with a 5.4% market share.[82]
+Business to Business (B2B)
+Wholesale
+
+Nisa is a wholesaler and symbol group which was acquired in 2018 and supplies thousands of independent stores directly or through other symbol groups such as Costcutter Supermarkets Group. Unlike some of its competitors, Nisa does not own or operate its own store estate.[83][84]
+Federal services
+
+The Co-op acts as a wholesaler for stores owned by other consumers' co-operatives and is the manager for the Cooperative federation, Co-operative Federal Trading Services.
+Franchising
+
+Co-op Franchise was established in 2019 and offers a franchised Co-op convenience store model. Franchise partners must share the Co-op's values and principles and meet other criteria.[85][86] Costcutter founder, Colin Graves, was the first chair of the Co-op's 'Wholesale and Franchising Advisory Board'.[87] Around 100 franchised Co-op convenience stores are planned by the end of 2026.[88]
+Life services
+Funerals and pre-paid funeral plans
+
+Co-op Funeralcare is the UK's largest Funeral Director, with over 800 funeral homes in England, Scotland and Wales, most of which now operate using the Co-op Funeralcare brand. Revenue for the division was £271m in 2022.[89]
+Legal advice
+
+Co-op Legal Services (CLS) is a legal services provider registered in England and Wales. Services cover family law and divorce, writing wills, probate, conveyancing, personal injury and employment law. The group announced the formation of this division, based in Bristol, in April 2006.[90] The business also provides Scottish and Northern Irish legal services through partnerships with Brodies LLP and Wilson Nesbitt and does not operate outside the UK, including the Isle of Man.[91] In 2018, CLS acquired Simplify Probate, the UK's second largest provider of probate services.[92] CLS has targeted £100m in annual turnover by 2027, up from £39m in 2021.[93]
+Insurance
+
+Co-op Insurance Services is a business which sells a range of insurance products to Co-op members and customers. In 2018, Co-op Insurance entered the travel insurance market with a new product underwritten by Mapfre. Co-op also offer life insurance and critical illness cover through a partnership with Legal & General.[94] The Co-op sell business insurance through a partnership with Miles Smith and distribute Co-op branded motor and home insurance products for Markerstudy.[95][96][97] In 2022, the Co-op Insurance division contributed £24m in annual revenue to the Co-op Group.[98]
+Marketing and customer data insight
+
+Co-op Membership has 5 million active members in the UK and Isle of Man and provides a range of marketing, customer engagement and data science services to clients. Co-op member-owners have access to a range of discounts, offers and lower member prices. As part-owners in the co-operative, members also have a say in business decisions and can help to support communities across the UK and Isle of Man.[99][100]
+
+In 2019, a new Co-op app was launched with weekly member offers and discounts.[101] In 2024, the Co-op launched Co-op Media Network Group, the UK’s first convenience retail media network.[102] Co-op has a target of 8m member-owners by 2030.[99]
+Land and property
+
+Co-op Property (formerly The Co-operative Estates) has interests in retail & residential property management, investment and land development.[103] The Co-operative Estates was involved in the £800M 20-acre (8-hectare) NOMA development in Manchester prior to its sale to joint venture partner Hermes.[104] In 2013, the Group raised £142M through a sale and leaseback of its One Angel Square headquarters to investors in a 25-year lease to 2038.[105]
+Former
+Former CWS warehouse by the Gateshead Millennium Bridge, Newcastle upon Tyne, England
+
+    Syncro was the rebranded engineering and building services business of the Co-operative Group, based in Salford. Syncro was sold in 2006.
+    Associated Co-operative Creameries (ACC) was the group's milk processing and distribution division. ACC handled logistics of the retail business but this responsibility was transferred to Co-operative Supply Chain Logistics before it was sold to Dairy Farmers of Britain, a farmers co-operative, on 10 August 2004.
+    The Co-operative Department Stores business was exited after many years of increasing losses, with several stores being acquired by the Anglia Regional Co-operative Society, and the remainder were closed. Many stores had been in poor locations and had suffered from under-investment. Initially, two stores were to be retained in Perth and Tunbridge Wells to trial a new style of department store, but these were also closed in 2006.
+    The Co-operative Motor Group ceased trading following the disposal of Albert Farnell and its last remaining dealerships in 2013. However, Central England Co-operative continued to operate dealerships as The Co-operative Motor Group until 2015.[106][107][108]
+    Shoefayre, established in 1959, as Society Shoes was co-owned by several co-operative societies and became owned and managed by the Co-operative Group. In 2006, it reported operating losses of £6 million and in 2007 was sold to Shoe Zone.[109]
+
+Co-operative Pharmacy, St Michael's Hill, Bristol just before the sale to Bestway
+
+    The Co-operative Pharmacy, established as National Co-operative Chemists in 1945, grew to be the third largest community pharmacy group in the UK with nearly 800 branches giving a nationwide presence. In 2014 it was sold for £620 million to the Bestway Group[110] and subsequently re-branded as Well Pharmacy.[111]
+    Sunwin Security Services was sold in 2014 to Cardtronics, a US cash machine operator in a deal worth up to £41.5M. Sunwin's main business was maintaining ATM's in Co-op food stores and for other businesses.
+    Co-op Electrical sold electrical products, from kitchenware and white goods to home entertainment. In 2015, the Co-op became the first electrical retailer to sell its extended warranty insurance products at cost price.[112] In the previous decades extended warranties had gained a reputation for being poor value for money, but for being heavily promoted by retailers owing to their high profitability. The business was also unusual in providing a 60-minute delivery time slot, confirmed by SMS on the day of delivery.[113] Co-op Electrical was shut down in March 2019.[114]
+    Co-operative Clothing supplied workwear, businesswear & uniforms for catering, construction, beauty and most other industries.[115]
+    Co-op Beds, an online bed retailer, was a strategic partnership with Silentnight which launched in 2018.[116]
+    The Co-operative Farms managed land across Great Britain, producing soft fruit, potatoes, flour and cider, and is the largest lowland farmer in the UK. In 2014 it was sold for £249 million to the Wellcome Trust and now trades under its former Farmcare name.[38]
+    The Co-operative Travel business was transferred into a new joint venture in 2011 with Thomas Cook and the Central England Co-operative. The Co-operative Group owned a 30% share in the venture which brought together its 401 travel agents with 103 branches owned by Midlands Co-operative, whilst Thomas Cook transferred 803 outlets to create the largest High Street travel agents network in the UK.[117] The merger that created the venture was referred to the Office of Fair Trading as a result of monopoly concerns.[118] The business had direct sales channels through telephone, home workers, and the internet. Prior to the merger, in July 2009 the business launched its own tour operation as a joint venture with Cosmos Holidays. In December 2016 the Co-op announced its intention to sell its stake in the venture to Thomas Cook during 2017, ending over 100 years of trading.[119] The Group notified Thomas Cook of its decision to sell, which required the plc to buy-out its stake. Under the terms of the deal, Thomas Cook paid £50M for the Group's 30% share and £5.8M for Central England Co-operative's 3.5% stake. A guaranteed minimum dividend of £31.9M was also paid, plus interest. On 23 September 2019, Thomas Cook Group's UK travel business was placed into compulsory liquidation and 555 retail outlets were bought by Hays Travel for £6M.[120]
+
+The Co-operative Bank head office building at 1 Balloon Street, Manchester, England
+
+    The Co-operative Bank severed its ownership link with the Co-operative Group in September 2017. The bank had been a wholly owned subsidiary until 2014 when the group was forced to sell the majority of its holding to US hedge fund investors to raise funds for the bank. A campaign was subsequently launched by The Co-operative Party and some customers to sell the bank back to its customers.[121] The Co-operative Bank also includes the internet bank Smile, and the former building society Britannia. A "relationship agreement" between the bank and the group expired in 2020.[122]
+    In 2016, Co-op Funeralcare sold its five crematoria to rival Dignity plc for £43M to invest in its core funeral home business.[123]
+    The Co-op Health mobile app was launched in May 2019. The app marked a return to the healthcare sector following the purchase of the repeat prescription app 'Dimec' for around £10m in 2018.[124][125][126] A home delivery service was also available, dispensed from the Co-op's pharmacy at its Lea Green Depot.[127] In March 2021, the business was sold to Phoenix UK, the parent company of the Numark and Rowlands pharmacy networks, for an undisclosed sum.[128]
+    Co-op Insurance businesses have been sold over a number of years. In 2013, Royal London Group acquired the Co-operative Insurance Society Limited (CIS) and The Co-operative Asset Management for up to £219M.[129] Royal London now looks after all of the former life assurance, investment and pension businesses owned by the Co-operative Insurance Society. In January 2019, the Co-operative Group announced the sale of its insurance underwriting business for £185M to Markerstudy, to focus on a new insurance distribution business, Co-op Insurance Services. The sale of the underwriting business completed in December 2020.[130]
+    Co-op Power was a renewable energy buying business which bulk purchased energy for a range of businesses and organisations. The business also provided energy consultancy services to clients.[131]
+    The Co-op petrol station business was sold to Asda for £600 million in August 2022, to strengthen the group's financial position. The 129 petrol forecourt sites made up about 5% of the group's total retail sites.[132]
+
+Marketing and branding
+Main article: The Co-operative brand
+
+CWS became Co-operative Group (CWS) Limited on merger with CRS in 2001. CWS Retail was formed in 1933 and demerged in 1957 as CRS, with the purpose of opening shops in co-operative deserts and to take over failing retail societies. The combined Group merged with United Co-operatives, based in Yorkshire and North West England, in 2007, reinforcing its position as the largest consumer co-operative in the world.[133] At this time the current name, Co-operative Group Limited, was adopted.[134]
+
+Following the mergers of the 1990s and 2000s, the modern Co-operative Group was formed of a large range of different independent societies with separate brand identities which led to a lack of consistency and gave an incoherent message to consumers. The four-leaf clover "Co-op" brand, introduced in 1967 and adjusted in 1993, was seen by many in the co-operative movement as a hindrance to public perception of the movement. This problem was affecting the whole co-operative sector in the UK and following the report from the Co-operative Commission in 2001,[135] The Co-operative Group was heavily involved with the process of developing a single updated version of The Co-operative brand for use by many consumers' co-operatives in the UK.
+
+In 2007, the group began a re-brand of its estate to this new unified identity with its other business names, including Travelcare and Funeralcare, phased out in favour of the new The Co-operative business names. With more than 4,000 stores and branches to convert to the new identity the process has been cited as the "largest rebranding exercise in UK corporate history."[136] The Co-operative Group launched its largest television advertising campaign in 2009. The two and a half-minute advertisement aired for the first time during Coronation Street on ITV. The advertisement, created by McCann Erickson, features the Bob Dylan track "Blowin' in the Wind", a rare occasion that he has allowed his music to be used for commercial purposes.
+Governance
+
+The Co-operative Group is unusual as a co-op because it is owned by millions of UK consumers and also a number of other UK co-operatives, making the business a hybrid of a primary consumers' co-operative and a co-operative federation. This is largely a function of the group resulting from the merger between the Co-operative Wholesale Society (a co-operative federation) and the Co-operative Retail Services in 2000. Since 2015 The Co-operative Group has operated a 'one member one vote' system whereby any of the Co-op's millions of members can vote to elect board members, to guide strategic decisions and propose their own motions for voting on.
+
+The current governance structure of the business was established in 2014 and comprises an Executive Management Team, a Group Board and a Members' Council.
+The Executive Management Team
+
+The Executive Management Team are the highest level of management in the business and are responsible for its day-to-day operations.
+The Group Board
+
+The Group Board is a team of between seven and twelve people who are responsible for overseeing the strategy of the business and for holding the executive management team to account.
+
+The Group Board is made up of: a Group Chair; either one or two executive directors appointed from the Executive Management Team; up to five Independent Non-Executive Directors who are not affiliated with the group; and up to four Member-Nominated Directors. Member Nominated Directors (MNDs) are any people from within the membership group who nominate themselves and have the required level of commercial experience.
+The National Members' Council
+
+The Members' Council is an elected group of one hundred people who hold the Group Board to account and acts as the guardian of the co-operative Values and Principles. Members of the Co-op, its employees and representatives of the 'independent societies' make up the Members' Council.[137] The council is led by an elected Council president, Denise Scott-McDonald who chairs council meetings. Current members include Nick Crofts and former MEP David Hallam.
+The Leadership Teams
+
+Details of those people who are members of the Group Board and the Group Executive are provided here. Details are correct as of 2016.
+
+Group Board[138]
+Name 	Position 	Date joined
+Allan Leighton 	Group Chair 	2015
+Steve Murrells 	Chief Executive 	2017
+Pippa Wicks 	Deputy Chief Executive 	2017
+Ian Ellis 	Chief Financial Officer 	2016
+Sir Christopher Kelly 	Independent Non-Executive Director 	2014
+Simon Burke 	Independent Non-Executive Director 	2014
+Stevie Spring 	Independent Non-Executive Director 	2015
+Peter Plumb 	Independent Non-Executive Director 	2015
+Lord Victor Adebowale 	Independent Non-Executive Director 	2016
+Ruth Spellman 	Member Nominated Director 	2015
+Paul Chandler 	Member Nominated Director 	2015
+Hazel Blears 	Member Nominated Director 	2015
+Margaret Casely-Hayford 	Member Nominated Director 	2016
+
+Group Executive[139]
+Name 	Position
+Steve Murrells 	Chief Executive
+Pippa Wicks 	Deputy Chief Executive
+Ian Ellis 	Chief Financial Officer
+Helen Webb 	Chief People Officer
+Jo Whitfield 	Chief Executive, Co-op Food
+Rod Bulmer 	Chief Executive, Consumer Services
+Helen Grantham 	Group Secretary and General Counsel
+Matt Atkinson 	Chief Membership Officer
+Executive remuneration
+
+The Annual Report cites a number of factors in determining executive pay, including "attracting, retaining and motivating senior Executives of the appropriate calibre to further the success of the Group" and "ensuring that the interests of Executives are aligned with those of the Group and its members".
+
+Former CEO Peter Marks was paid a basic salary of £1,014,000 in 2012, with a performance-related bonus of £103,000. The basic salaries of the thirteen executives adds up to £4,836,000, with their performance related bonuses adding up to £240,000.[140]
+
+In March 2014, "private and confidential" documents seen by The Observer newspaper detailed proposals put before The Co-operative's board to double the wage bill for senior management to £12 million a year, whereby the chief executive Euan Sutherland would earn a base salary of £1.5 million and a "retention bonus" of £1.5 million.[141] The Observer also reported that Rebecca Skitt, the Co-op's chief human resources officer, who joined in February 2013, left 12 months later "with a proposed pay-off totalling more than £2M".
+Member Owner Governance Structure 2007 to 2015
+
+Between the creation of The Co-operative Group in 2000 and the major governance changes of 2014–2015, the Group had a complex governance arrangement which consisted of the business executive, the Group Board of twenty people, a series of regional boards and numerous area committees. This could be likened to English local, county and national government, where society members stood for election and if successful were expected to represent members at all levels of the society, simultaneously, with positions held in on co-op committees corresponding to departments (the businesses boards), the cabinet (the national Board), devolved nations and regions (Regional Boards), counties and parish councils (Area Committees), plus doing press events and engaging with neighbourhoods and communities such as a highly paid professional member a national government might face: quite a task for volunteer laypeople.
+
+The Group Board was made up of fifteen "lay" member directors elected from regional boards, another five which came from the "independent societies" and, though there was the option to appoint up to three "independent professional non-executive directors" (IPNEDs) to the Group Board at any one time, only one was ever appointed.
+
+All Group Board members (excluding IPNEDs) were appointed by competitive regional election – in contrast, most building societies and PLCs have a nominations committee consisting of members of the executive which picks potential board members and puts them up for uncontested elections.
+
+A series of regional boards, consisting of twelve to fifteen people elected from area committees, were responsible for holding the Group Board to account and for block-voting at the Annual General Meeting. There were 48 area committees which were responsible for representing member interests and promoting membership within their constituency.
+
+Out of the millions of members that the Group had, only area committee members were able to vote in the elections for the regional boards and "lay" director seats on the Group Board and the votes were weighted depending on the value of sales within individual areas.
+
+One of the justifications for this complex governance arrangement was that it took a number of years to reach regional board level, which helped to minimise the influence of single-issue campaigners and carpet-baggers. In the 1990s it was these issues, notably the failed take-over by Andrew Regan in 1997, which caused significant problems for the, then, CRS and CWS.
+
+The Myners Review noted that "the primary source of power within the Group [was] firmly entrenched at the level of the Regional Boards", replicating the roles of the predecessor regional societies in voting a century before, and the review concluded that it was this 'labyrinthine' structure, where Group Board members need to remain elected to Area Committees and regional boards, which led to the governance problems at the Co-op and its financial crisis of 2013.[7]
+Dividend and membership scheme
+
+The idea of co-operative trading revolutionised food retailing with the dividend, often known as "divi", and the "divi number" became a part of British life. The way in which co-operative retail societies are run for the benefit, and on behalf of their members sets them apart from their modern-day competitors. The dividend is a financial reward to members based on each member's level of trade with the society. The distribution of profits on the basis of turnover rather than capital invested is a fundamental difference between a co-operative and most private sector enterprises.
+History of co-op membership
+Co-op savings stamp book, 1980s
+
+Historically, members' sales would be recorded in ledgers in society's stores and at the end of the collection period a proportional payment would be made to the member. As the societies grew, and the number of members increased, the method of using ledgers became cumbersome. As a solution, some societies, including Co-operative Retail Services, issued stamps to members for qualifying transactions. Members collected stamps on a savings card and, when the card was complete, would use it as payment for goods or deposit into their share account.
+
+By the late 20th century the group's predecessors and then the Co-operative Group no longer paid true dividend as it had become a drain on limited resources, although several independent societies (such as Anglia Regional) continued to do so. In the mid-1990s a loyalty card scheme, in the style of the Tesco Clubcard, was introduced which used the dividend brand.[142] These loyalty cards were inspired by the co-operative dividend but were little more than marketing exercises and a way to gather useful customer information. Co-operative customers, not just members, could sign up and receive a swipe card to record purchases with vouchers sent out twice a year which could be exchanged for cash or goods.
+
+In September 2006 the Co-operative Group relaunched "true" dividend whereby a proportion of the profits of the Co-operative Group is returned to members. To emphasise the change, the scheme is now called the Co-operative Membership and members earn a "share of the profits". New members are recruited by allowing them to deduct the refundable subscription for a £1 share from their first dividend. Members can collect points to increase their share of the profits by using the services provided across the whole family of businesses. In 2008, the dividend almost doubled to £38 million, equivalent to 2.63p per point (one point being earned for each £1 food purchase), reflecting an 8% increase in underlying profit.[143]
+
+Group membership increased sharply in the first year after the relaunch, to 2.5 million with many more young people who have an affinity with the co-operative values and principles attracted to join.[144][145][146]
+
+In 2007, the Oxford-based Midcounties Co-operative became an affinity partner of the group's membership scheme, allowing its members to earn dividend at Co-operative Group stores and vice versa. Since then, other independent co-operatives have joined the reciprocal membership dividend scheme, including Central England Co-operative (merged from Anglia and Midlands who joined in 2008 and 2010 respectively), Southern Co-operative (2009) and Chelmsford Star Co-operative Society (2009). Southern Co-operative withdrew from the affinity partnership scheme in 2021.[147] This reciprocal membership agreement means members of these societies can earn membership points at more than 90% of UK co-operative outlets. Dividend payments are made at the rate of the society where the points were earned, not the society of the member, although the member's society is responsible for distributing the payment.
+Current membership scheme
+
+The current Co-op membership scheme was launched in September 2016 and rewarded members with 5% of what they spent on own-brand products and services being credited back to their membership account. A further 1% was donated to a local charitable or community cause which the members help to select. Additionally, it is expected that members will still earn their share of the profits when the member dividend returns. Though the independent societies have not participated in the 5+1% scheme, members can earn the points (from which the profit share is derived) at five of the largest consumer's co-operatives within the UK owing to the reciprocal membership scheme (described above).
+
+On 30 September 2020, the Co-op changed some of the rewards associated with membership. This increased the community reward to 2% but reduced the member reward from 5% to 2%; the change still calculates rewards when Co-op branded goods are bought. An app was also launched which allows immediate discounts and offers to be activated, exclusively for members. This has since been changed with members no longer receiving rewards for buying Co-op branded goods. Instead members receive discounts off selected branded and own-brand goods.
+Ethical trading and campaigning
+
+As the UK's largest co-operative, the group plays a key part in the co-operative movement. In the 1840s the original co-op shops were set up to protect consumers from adulterated food and profiteering shopkeepers. Since then the co-operative movement has campaigned on a number of issues which they thought were key consumer interests. As a part of this, The Co-operative Group has long been campaigning for consumer rights legislation, researching into new food labelling initiatives, a major sponsor of new co-operative ventures, a notable donor to community initiatives, directly involved in the development of animal welfare standards and in championing Fairtrade in the UK.
+
+The Co-op has traded on its 'ethical' credentials for many years and in 2014 a survey suggested that 70% of the British public believed that it was a business that 'tried to do the right thing'.[148] The co-op is particularly known for its work in championing the introduction of Fairtrade in the UK, investing in renewable energy and in reducing its carbon emissions, in maintaining high standards of animal welfare, in being a leading retailer of responsible fish, for reinvesting its profits in local communities and for campaigning on a range of social issues.
+
+The Co-operative is widely recognised for its commitment to responsible and ethical trading, particularly for championing fairtrade in the UK.[149] These commitments and its mutual structure led to The Co-operative Food being awarded Ethical Consumer magazine's 'Best Buy' status in 2011 and 2014.[150] Following significant public outcry regarding the Tax avoidance of many well known multi-national companies the co-op was awarded the Fair Tax Mark in 2015, an independent certification designed to identify businesses which are not aggressively seeking to avoid paying taxes.
+
+Each year the business publishes a sustainability report on its website with a breakdown of the key social, environmental and charitable activities which were undertaken during the previous financial year.[151] In 2008 the company was awarded the European Business Award for the Environment (Management category) by the European Union for its commitment to combine competitiveness with respect for the environment.[152]
+Fairtrade
+
+The Co-operative Group was the first major UK retailer to stock Fairtrade products and was the first UK supermarket to sell Fairtrade coffee (1992), bananas (2000), own-brand chocolate (2000), own-brand wine (2001), pineapples (2002), sugar (2005) and blueberries (2010).[153] Since then, all own brand block chocolate (2002), coffee (2003), sugar (2008), bananas (2012), winter blueberries (2012) has been converted to Fairtrade. Co-op Food is also the largest UK retailer of fairly traded wine and has the largest range of Fairtrade products in the UK. In 2014 its Fairtrade sales were £133M.[154][155] During 2017, the Co-op became the first UK retailer to source all of the cocoa for their own label products on Fairtrade terms, a move which increased their volumes of Fairtrade cocoa fivefold.[156]
+
+The Co-op's "Beyond Fairtrade" programme is run in addition to paying the standard 'Fairtrade Premium' payment. The programme has included working with many groups of smallholder farmers to establish democratic co-operative businesses to sell their product (to suppliers including the Co-op) and through the Co-op providing investment funding to enable the farming co-operatives who supply them to convert to Fairtrade certification. £475,000 in funding was provided between 2012 and 2014 for this programme.[157] The business has also been involved in developing certification schemes for additional Fairtrade products (in association with the Fairtrade Foundation and Traidcraft) including wine (2001), rubber gloves (2014), coffins (2012) and charcoal (2009).[158]
+Renewable energy and energy saving measures
+
+Since 2005, 98% of The Co-op's electricity has been sourced through renewable sources, notably wind power, hydro and anaerobic digestion. By 2014, 12.3% of the business's total energy use was being sourced from renewable sources. The business has also constructed its own renewable energy generation facilities, including three wind farms, though these were sold in 2016. When combined with improvements in its supply chain, notably a reduction in fuel used in its vehicle fleet, and the fitting of doors to its store refrigerators (a measure which reduces their energy consumption by 40%)[159] this led to a 40% reduction in its carbon emissions between 2006 and 2015.[160] The Co-op also buys renewable energy from community energy projects including Torrs Hydro and Settle Hydro.[161][162]
+Animal welfare
+
+In 1994 The Co-operative Group became the first retailer to support the development of the then new RSPCA Freedom Food scheme with the aim of improving welfare standards for animals at all stages of the food chain. Their range of "freedom foods" certified products began from around this time.[163] The Co-op also has a range of animal welfare standards for its own brand chicken, pork and turkey products which are more strict than UK legal requirements. It has also labelled the living conditions of the hens which lay its eggs in the 1990s and became the first retailer to switch to only using free-range eggs in all own brand products.[164] In 2025, from discussions with the International Council for Animal Welfare (ICAW) and the Aquatic Life Institute (ALI), as well as mounting public attention over the treatment of crustaceans in the seafood industry, The Co-op successfully ended the controversial practice of eyestalk ablation from its supply chain.[165]
+
+As a result of these policies, The Co-operative was awarded a 'Tier 2' standard by the 'Business Benchmark on Farm Animal Welfare' for 2013.[166] In this report The Co-operative was recognised for banning the prophylactic use of antibiotics or any other artificial substance for use in promoting abnormal animal growth in all own brand products; prophylactic antibiotic use is found in the majority of meat sold in Europe but has been linked to the development of antibiotic resistant infections such as certain strains of E. coli.[167] The business only allows antibiotics to be administered "with the specific written approval of a vet to address a specific health threat." The business also limits any journey time when transporting of livestock to 6 hours, but most journeys should be under 1 hour.[168]
+Responsible fish sourcing
+
+The Co-operative is one of the leading retailers of responsible fish in the UK having launched its Responsible Fish Sourcing Policy in 2008 after commissioning research in association with NGOs, academics and its suppliers. This report was subsequently updated in 2014.[169] The Co-operative Food was commended by the Marine Conservation Society with a "gold award" (2011) and a "silver award" (2013) and, for its sourcing policy, The Co-operative was one of five organisations accredited with the 2010 Seafood Champion Award.[170]
+
+Since 2011 all own-brand tuna has been caught using the pole and line method and does not use "Fish Aggregation Devices", a method with a significantly lower by-catch rate when compared with conventional tuna fishing. Since 2012, all farmed salmon has been certified by the RSPCA Freedom Foods accreditation scheme.[171] In 2008 the Co-op committed £200,000 to enable fisheries which would struggle to fund the certification process to become accredited by the Marine Stewardship Council.[172]
+
+In 2015 the Co-op became one of the first retailers to join the "Ocean Disclosure Project" which requires the business to report transparently on the geographic locations, fishing methods and sustainability characteristics of all of the fisheries from which they source.[173][174] This move confirmed an ongoing commitment by The Co-operative Food in promoting transparent and responsible fishing in the UK.
+Community dividend
+
+Like many co-operatives, The Co-operative Group runs a community dividend scheme where each year a share of the businesses profits are re-invested into the communities where they trade. In 2002 the group gave 5.4 per cent of their annual operative profits to communities as their community dividend for the year – a total figure of £10.7M.[163]
+Co-operative development
+
+The Co-operative Group, like most co-operatives, has supported the development of co-operative businesses in many sectors of the economy through its "Enterprise Hub". This has provided financial and business management help to small and start-up co-operatives, notably including F.C. United of Manchester, public service mutuals and a number of community pub ventures.
+Clean energy campaigning
+
+Between 2011 and 2013 the group campaigned on the issue of climate change under its banner of "The Clean Energy Revolution".[175] There were three main aspects to this campaigning:
+
+    Campaigning to increase awareness of climate change generally;
+    Campaigning specifically around contentions associated with fossil fuel extraction; and
+    Assisting the development of community renewable energy projects in the UK.
+
+In addition to this, the business has provided on targets to reducing its own environmental impact including reducing direct GHG emissions by 50% relative to 2006.[176]
+
+As a part of its attempts to highlight the problem of climate change and specific issues relating to fossil fuel extraction, the group campaigned against tar sands oil extraction and fracking. To this end, The Co-operative Group part-funded the UK release of films including Chasing Ice, Gasland and H2Oil[177] to raise awareness of the cause and, as a part of this, local members organised screenings in various communities.[178] In 2011 the Co-op wrote an open letter to the Defra which was signed by 190 large organisations and businesses calling upon the government to introduce mandatory carbon emissions reporting[179] – a measure introduced for "businesses listed on the Main Market of the London Stock Exchange" in 2013.[180]
+
+The Toxic Fuels campaign was launched to combat the proposed expansion of the Canadian tar sands and proposals to begin fracking at sites in the UK. In 2008 they joined with the WWF-UK to publish a report which concluded that exploiting the Canadian tar sands to their full potential would be sufficient to bring about what they described as "runaway climate change".[181] The Co-operative Bank were also vocal supporters of the Beaver Lake Cree Nation's legal action against expanding oil extraction in Alberta, raising and donating over C$400,000 to support the BLCN legal case and focusing media attention in the UK – which led to a protest outside the Canadian Embassy in London.[182][183][184][185] Colin Baines, Campaigns Manager at The Co-operative Group described the Beaver Lake Cree Nation legal action as "perhaps the best chance we have to stop tar sands expansion".[186] In 2013, the court ruled in favour of the Beaver Lake Cree on appeal.[187]
+
+The Co-op were also involved in shareholder resolutions at BP and Shell's 2010 AGM over this issue of tar sands extraction.[188][189] A further report published with the WWF was critical of the prospect of carbon capture and storage (CCS) technology being used to reduce the release of carbon dioxide into the atmosphere to a level comparable to that of other methods of oil extraction.[190] In the report they claimed that it was this belief in CCS that the oil industry were using to justify their continued investment in the tar sands.
+
+In 2011, The Co-operative Group called for a moratorium on fracking in the UK "at least until all the associated risks are fully exposed and understood".[191][192] This position was based upon a report which the Co-op commissioned and which was produced by the Tyndall Centre for Climate Change Research.[193] The report concluded that the implementation of fracking in the UK posed three potential problems:
+
+    the likelihood of increased greenhouse gas emissions;
+    the potential for contamination of groundwater by heavy metals and chemicals used in the hydraulic fracturing process; and
+    the diversion of investment funds away from renewable energy research and development.[193]
+
+Another Co-op funded report concluded that the hypothesised emissions benefits from converting from coal to gas (from fracking) had been overstated.[194] As a part of their attempts to increase public awareness of fracking in the UK, the Co-op encouraged members to organise screenings of the film Gasland across the UK.[195] This move received some criticism, notably from The Daily Telegraph due to perceptions of bias in the film Gasland.[196]
+
+The Co-operative Group has been a vocal supporter of community-owned renewable projects for a number of years as a way to combat climate change and fuel poverty. In 2012, the Co-op launched its "Community Energy Manifesto" in association with Co-operatives UK which contained research into the possibility for significant growth in the UK's community renewable sector and it provided a number of case studies.[197] The Co-operative Group, notably through The Co-operative Bank and The Co-operative Enterprise Hub, has provided almost £100M in loans and grants to community-run energy efficiency and renewable energy generation co-operatives (including the Baywind Energy Co-operative and Torrs Hydro).[198] In 2014 the Co-op launched its Community Energy Challenge which worked to encourage community energy schemes across the UK by actively supporting the groups for 18 months to raise awareness of community renewables and to create co-operatively and community-owned and schemes of over 500 kW in size that could be replicated across the country.[199] However, since the problems at The Co-operative Bank the funding for new projects has largely been discontinued.
+Food and product labelling
+The rear nutritional information panel for a pack of own brand sausages
+
+The Co-operative Group became the first retailer to list the ingredients in its own-brand wines on the label in 1999 in a move that was illegal at the time. They justified their move by stating that they "believe it's in the consumer's interest" to know what is in their wine – as many ingredients, including charcoal and fish finings, have been used to give wines distinctive flavours. Ten years later the UK government pushed for labelling of this kind.[200][201]
+
+In 2001, the group became the first retailer to include Braille writing on its range of medicines and alcoholic drinks.[200] By 2015 this had expanded so Braille could be found on many products, including breakfast cereals.[202][203]
+
+In 2013, the Co-operative Group modified their own front-of-pack labelling scheme to combine both the traffic light and guideline daily amount schemes into one system.[204] In 2009 the Co-op also introduced a 'green dot' scheme where additional specifically defined nutritional benefits in products (e.g. over 6 g of fibre per 100 g) were included on the front of the pack.[205] Since 2003, the Co-op has been using a similar system to highlight products which count towards one's '5 a day' fruit and veg – also listing the quantity of the product which required to reach the required serving size.
+Russia boycott
+
+Following the 2022 Russian invasion of Ukraine the Co-op halted the sale of Russian products.[206]
+Israel boycott
+
+At the end of April 2012, The Co-operative Group announced that it was "no longer engaging with any supplier of produce known to be sourcing from Israeli settlements." This involved the ending of contracts amounting to around £350,000 with a number of companies sourcing products from settlements built on Palestinian claimed territories, but not Israeli companies in general.[207]
+
+Co-op members voted on a consultative motion to remove Israeli goods from store shelves during the organization's annual general meeting in London on 19 May 2025. In this meeting, 73 percent of members overwhelmingly supported the motion, citing the ongoing genocide in Gaza. If implemented, this decision would make the Co-op the first British supermarket chain to boycott Israeli goods.[206][208]
+Pesticides and toxic chemicals
+
+In 2000, the Group introduced a pesticide policy which banned, restricted and monitored pesticide use at farms which supply its own brand products. The policy aims to minimise the use of chemicals, and the residues which remain on crops, whilst providing safe food but without notably increasing the cost of products,[200] a move which was endorsed by consumer and environmental groups.[209][210][211] This move resulted from research that the business, then the CWS, conducted which demonstrated that two-thirds of those asked were either concerned or very concerned about the health and environmental effects of pesticides and their residues on foods.[212] The Co-op was the first supermarket to publicise all monitoring pesticide results on the business's website so that members could access the data.[213] The Co-op publish the results of their monthly pesticide monitoring on their website[214][215] and this indicates that between 2009 and 2015 on average approximately 40% of tested foods had no traces of any of the 449 monitored pesticides and that since 2012 none of the banned pesticides have been observed.[216] After recognising the potential for bioaccumulation of the toxic chemicals used in manufacturing and agriculture, the group joined with the WWF-UK on a campaign called DETOX which called for research into new safer chemicals which do no bioaccumulate.[217]
+
+The Co-operative became the first UK supermarket to ban the use of neonicotinoid pesticides in any of their own brand products or on their farms in 2009, after Germany, Italy and Slovenia banned the chemicals in 2008 in response to a sharp decline in their country's bee population.[218] The business invested over £300,000 in funding peer-reviewed research on the impact of neonicotinoids on bee populations, campaigned for a ban of neonicotinoids and called on the UK government to support the proposed EU ban in 2013.[219][220] They suggested that if they, then the UK's largest farmer, had banned neonicotinoids in their products and on their farms four years earlier, then it would be possible for the ban to be successfully implemented without significant impact on European farming.[221] As a part of their 'Plan Bee' policy they also funded the UK release of the documentary film Vanishing of the Bees to raise awareness of the issue, gave away 300,000 packets of wildflower seeds to members, offered discounted bee boxes for sale to members and under-used urban areas into colourful community meadows.[222][223]
+Genetic modification
+
+In 1994, the Co-operative Group began labelling own brands food which contained genetically modified (GM) ingredients and, five years later, they banned the use of GM ingredients in its own-brand products including GM animal feed.[200] Since 2003 the Co-op has banned the growing of GM crops on their own land (at the time they were the largest lowland UK farming business). The group also published a report on genetic modification which suggested that the majority of customers and members did not support GM crops.[224] In 2013 the Co-op dropped its objection to GM chicken and turkey feed and allowed its suppliers to use such feeds, owing to the increasing difficulty in sourcing guaranteed non-GM feeds.[225]
+Waste reduction and carrier bags
+
+Total waste from the business has decreased by 41% since 2006 with 95% of all waste now being either reused or recycled. Product packaging for own brand items has been reduced by 40% since 2006 (by weight). In line with regulations, the Co-op prints information on the recyclability of product packaging on the label. In 2014 over 80% of packaging (by weight – 45% by product line) was widely recyclable.[226]
+
+In 2002, the Co-op launched its degradable carrier bags, however, these were later withdrawn in favour of recyclable and reusable bags. However, with the increasing prevalence of council refuse collection services across the UK which compost food and garden waste, the Co-op launched a new carrier bag in 2014 which could be used to by the customer to line their food waste bin once they had used the bag to get their shopping home.[227] All profits from the sale of the entire carrier bag range (above the legal charge) are distributed to community projects.
+
+The Co-operative distributes food waste to FareShare with the equivalent of 196,000 redistributed in 2014 and no food waste was sent to landfill.[citation needed]
+Supply chain efficiency
+
+The Co-op Food Supply Chain Logistics business makes 35,000 deliveries per week and it has invested heavily in increasing the efficiency of its supply and distribution networks with the aims of reducing its costs and environmental impact. Between 2006 and 2013 the Co-op reduced its fuel consumption by 29% and its emissions from supply chain activities by 31%. In 2013 the society closed six "legacy" distribution centres and opened two new sites which won awards for their low environmental impact.[228] By switching much of its England to Scotland traffic from road to electric train in 2010 it has taken more than 10,000 tonnes of goods from the road network, making a significant greenhouse gas emissions saving. The business has also started collecting goods from its suppliers itself using lorries returning from store deliveries which would otherwise have travelled empty. The business became the first major business to trial an aerodynamic truck, 'the dolphin' in 2013 which was specifically designed to maximise fuel efficiency and reduce costs.[229] The business has also expanded its road fleet into double-decker and 15-metre semi-trailers to reduce the number of lorry journeys required.[230]
+Palm oil policy
+
+Palm oil is significant as it has one of the highest yields per hectare of any oil, however, its production has been linked to significant deforestation and habitat loss, particularly across Africa and South America. In order to reduce this impact The Co-operative became the first major supermarket to commit to only using certified sustainable palm oil in its own brand products.[231] During 2014 the Co-op was awarded 'Best Buy' status by the 'Rainforest Foundation UK' (RFUK) and Ethical Consumer magazine for its use of certified palm oil products and for its palm oil policy.[232][233] Palm oil for The Co-op is certified by the following standards: UTZ Certified (40%), the use of a segregated supply chain (39%) and with GreenPalm certificates (21%). All of these approaches are supported by the Roundtable on Sustainable Palm Oil of which The Co-operative Group is a member.[234]
+2025 cyber incident
+
+In April 2025, The Co-op announced that it shut down parts of its IT systems in response to hackers attempting to gain access to them. It said the "proactive measures" it had taken to fend off the attack had had a "small impact" on its call centre and back office.[235] Co-op later confirmed that personal data for all of its 6.5 million members had been stolen by the hackers.[236]
+List of corporate members
+See also: British co-operative movement § Consumer and food
+
+As of 2011, 22 independent consumer co-operatives are corporate members or customer-owners, of the group. They invested share capital to found or join the group's wholesaler predecessors, such as the North of England Co-operative Wholesale Industrial and Provident Society and the Scottish Co-operative Wholesale Society. These co-operatives are represented alongside the regional boards at annual meetings and in the board of directors, and are entitled to dividends based on the amount of their purchases from the group.
+
+The corporate members do not have exclusive rights to operate in any category or geography; especially with food there are examples of one or more corporate members below operating in the same local area and/or overlapping with shops of The Cooperative group, and the various websites listed below may or may not highlight categories or store locations relevant to a customer's needs or location.
+Society 	Website 	Founded 	Members 	Activities
+
+(number of outlets)
+Allendale 	allendalecoop.co.uk 	1874 	Unknown 	Food (1)
+Central England 	centralengland.coop 	1854[237] and 1876[238] 	329,000 	Food (255), Funeral (118), Travel (21), Non-food (44),[239] Petrol (25), Florist (10),[240]
+Chelmsford Star 	chelmsfordstar.coop 	1867 	52,937[241] 	Food (36), Non-food (2), Travel (2), Funerals (6)
+Channel Islands 	ci-cooperative.com 	1919 	128,350[242] 	Food (16), Non-food (3), Travel (2)
+Clydebank 	realco-op.co.uk 	1881 	Unknown 	Food (6), Non-food, Funeral, Post Offices
+Coniston 	conistonco-op.co.uk 	1896 	Unknown 	Food (1)
+East of England 	eastofengland.coop 	1858[243] 	350,000 	Food (133), Non-food (14), Travel (12), Funeral (30), Pharmacy (8), Opticians (3), Motors (3), Jewellery (2), Education Centre (1)Forecourts(5)
+Grosmont[244][245] 	http://www.grosmontcoop.co.uk/ 	1867[246] 	Unknown 	Food (1)
+Heart of England 	https://heartofengland.coop/ 	1832[247] 	179,657[248] 	Food (33), Non-food (21), Funeral (9), Travel (3), Post Offices (4)
+Hawkshead[249] 	Not applicable 	1881[250] 	Unknown 	Food (1)
+Langdale[251][252] 	https://www.langdalecooperative.co.uk/ 	1884 	Unknown 	Food (1)
+Lincolnshire 	lincolnshire.coop 	1861[253] 	228,000 	Food (84), Bakery (1), Petrol Stations (10), Pharmacies (48), Post Offices (40), Travel (13), Funeral (17), Coffee Shops (2).
+Midcounties 	midcounties.coop 	1853 	667,000[254] 	Energy, Food (244), Funeral (78), Travel (58), Pharmacies (46), Childcare (47), Post Offices (74), Co-operative Flexible Benefits[255]
+Radstock 	radstock.coop 	1867 	Unknown 	Food (14), Non-food (1)[256]
+Scotmid 	scotmid.coop 	1859 	268,125[257] 	Food (129) Funeral (17)
+Southern 	thesouthernco-operative.co.uk 	1873 	157,000[258] 	Food (197), Funeral (16)
+Tamworth 	tamworth.coop 	1886 	Unknown 	Food (14), Non-Food (1), Funeral (7)
+Awards
+Queen Elizabeth II at the opening of an office declared the "most environmentally-friendly building in the world", November 2013
+
+In 2002, the society gained Worldaware's 2002 Shell Award for Sustainable Development for its use of Fairtrade goods.[259] and in 2007 it won a Queen's Award for Enterprise in the Sustainable Development category, in recognition of its business practices, including its pioneering stance on Fairtrade and the environment.[260] In January 2010, the society appeared on the shortlist for the Transform Awards for rebranding and brand transformation in a number of categories[261] A 2011 Which? survey claimed that the Co-operative was the least favourite grocer with 46% satisfaction among customers compared to Waitrose which achieved 85%.[262]
+See also
+
+    British co-operative movement
+    The Co-operative brand
+
+Notes
+
+"Co-operative Group Limited". Financial Conduct Authority.
+"Debbie White". The Co-operative. Retrieved 18 September 2024.
+"Membership dashboard". Archived from the original on 23 December 2016. Retrieved 22 December 2016.
+"Our History". The Co-operative Group.
+"1862". co-operative.coop. Archived from the original on 23 September 2015. Retrieved 29 November 2015.
+Wilson, J. F., Webster, A. and Vorberg-Rugh, R. (2013) "Building Co-operation: A business history of the Co-operative Group", Oxford University Press, Oxford
+Myners, Paul (7 May 2014). "Report of the Independent Governance Review" (PDF). Co-operative Group. Archived from the original (PDF) on 29 May 2015.
+"1901–1950". co-operative.coop. Archived from the original on 4 January 2016. Retrieved 29 November 2015.
+Nigel Cope (6 March 1997). "Co-op rejects Regan's advance". The Independent. London.
+Co-operative News (18 February 2005). "Regan's out-of-court settlement with Co-op Group". Co-operative News. Retrieved 29 November 2015.
+"Co-op merger approved". BBC. 8 March 2000. Retrieved 20 September 2012.
+"Blog: Ten Years from the Co-operative Commission – Co-operatives UK Newsroom". uk.coop. Retrieved 29 November 2015.
+"Commission Paves the Way for Co-operative Success". Co-operatives UK. 13 June 2005. Archived from the original on 31 October 2007.
+Elaine Dean (12 December 2013). "My story: How co-operators led a South African boycott in support of Mandela". Co-operative News. Retrieved 29 November 2015.
+"The Co-operative – Have Your Say". haveyoursay.coop. Archived from the original on 13 August 2015. Retrieved 29 November 2015.
+"Co-op comes to the rescue of Alldays". FoodAndDrinkEurope.com. Retrieved 29 November 2015.
+"Co-op opens new NDC". Talking Retail. August 2006. Retrieved 29 November 2015.
+"Co-op boards back merger plan" (Press release). Boards of the Co-operative Group and United Co-operatives. 16 February 2007. Archived from the original on 19 February 2007. Retrieved 17 February 2007.
+"Mutuals Public Register, Nith Valley Co-operative Society Limited, number 2325RS". Financial Services Authority. Archived from the original on 7 April 2009. Retrieved 15 July 2008. (as of 2008)
+"Co-op buys Somerfield for £1.57bn". BBC News. 16 July 2008.
+"Co-op Group bids to buy Somerfield chain". Co-operative News. 17 April 2008. "The Co-operative Group has confirmed for the first time that is trying to buy the Somerfield chain of food stores in a deal worth at least £1.5 billion."
+Mason, Rowena (14 January 2011). "Co-operative and Somerfield blame snow for 3pc sales fall". The Telegraph.
+"Co-operative Group buys 10 c-stores from Sainsbury's". Talking Retail. Nexus Business Media. 28 March 2008. Archived from the original on 3 February 2013. Retrieved 4 August 2008.
+"Members' interim payout 2008". The co-operative. Archived from the original on 12 December 2008.
+Plymouth & South West Co-operative Society
+"Co-op fined over safety breaches". BBC News. 19 September 2007.
+"The Co-op receives near-record fine for fire safety failings | Wire-Free Protection Limited". Archived from the original on 29 May 2010. Retrieved 26 September 2014.
+"The Co-operative – Page could not be found". co-operative.coop. Retrieved 26 September 2014.
+Anne-Sylvaine Chassany and Jennifer Thompson (2 June 2013). "Co-op weighs up banking arm rescue plan". Financial Times. Retrieved 4 June 2013.
+Rupert Neate and Jill Treanor (10 May 2013). "Co-operative Bank rushes to reassure customers after downgrade". The Guardian. London.
+Rebecca Clancy (5 June 2013). "Crisis-hit Co-op hires ex-Morrisons finance chief Richard Pennycook and banker Richard Pym for restructuring". The Daily Telegraph. Archived from the original on 12 January 2022. Retrieved 5 June 2013.
+Adam Jones (5 June 2013). "Co-op makes fresh changes at the top". Financial Times. Retrieved 5 June 2013.
+Anthony Murray (17 April 2014). "Co-operative Group reports 'disastrous' loss of £2.5bn". Co-operative News. Retrieved 4 August 2014.
+Paul Gosling (8 May 2014). "Debt has the potential to tear the Co-operative Group apart". Co-operative News. Retrieved 4 August 2014.
+James Quinn (9 November 2013). "Co-op Group plans asset sales to reduce 1.3bn debt". The Daily Telegraph. London. Archived from the original on 12 January 2022. Retrieved 4 August 2014.
+Kamal Ahmed (30 April 2014). "What went wrong at the Co-op Bank?". BBC. Retrieved 4 August 2014.
+Joe Miller (17 May 2014). "Co-op Group members approve governance shake-up". BBC. Retrieved 4 August 2014.
+"Co-op sells farms business to Wellcome Trust for £249M". BBC. 4 August 2014. Retrieved 4 August 2014.
+Sean Farrell (2 September 2014). "Co-operative Group sells Sunwin security business". The Guardian. Retrieved 12 September 2014.
+"Co-operative Group returns to annual profit". BBC News. 9 April 2015. Retrieved 29 November 2015.
+"Rebuild of The Co-operative Group underway". The Co-operative. Retrieved 29 November 2015.
+Anthony Murray (7 April 2016). "Co-operative Group on track to recovery, while CEO cuts pay packet". thenews.coop. Retrieved 11 April 2016.
+"Co-op sells 298 Food stores in line with convenience, own brand-led food strategy". Co-operative Group (Press release). 13 July 2016.
+Rebecca Smithers (16 June 2015). "Co-op commits £125m to slash prices of fruit and veg". The Guardian. Retrieved 11 April 2016.
+"Born and Bred: A report into The Co-operative Food's UK-wide sourcing" (PDF). The co-operative food. Archived from the original (PDF) on 20 December 2016.
+"Co-op to rely only on British for bacon and lamb". yorkshirepost.co.uk. 18 September 2016.
+"Co-operative Food to champion produce from Yorkshire region". Yorkshire Post. September 2015. Retrieved 11 April 2016.
+"I'm so proud of what we've achieved with Fairtrade". 3 April 2017.
+"UK's Co-op "saviour" Richard Pennycook to step down as CEO". Reuters. 7 February 2017. Retrieved 7 February 2017.
+Bracken, Mike (31 March 2017). "Mike Bracken: our progress with platforms and a reminder to choose a local cause".
+Butler, Sarah (7 April 2017). "Co-op boss shrugs off £130M loss to focus on group's 'stellar progress'". The Guardian.
+"Annual Report 2007" (PDF). The Co-operative Group. p. 113 note 31. Archived from the original (PDF) on 27 March 2009. Retrieved 30 June 2008.
+"Co-operative Community Investment Foundation". The Charity Commission.
+Toomer-McAlpine, Alice (13 October 2022). "Co-op Foundation's new strategy puts young people at the centre". Co-operative News.
+"About". The Co-operative. Retrieved 18 September 2024.
+BBC News "Co-op Group to continue funding political parties" 16 May 2015
+"2020 motions". The Co-operative Group.
+"Joint Board and Council Motion – Political Donations" (PDF).
+"The UK Co-operative Party: Movement, relationship, and representation".
+"Why sticking with Labour is likely to be the Co-operative Party's quickest route back to power". 30 August 2016.
+Whittaker, Freddie (2 October 2018). "Frank Norris". Schools Week. Retrieved 29 January 2019.
+"The Schools Cooperative Society (SCS) – the MEMBERSHIP NETwork".
+Butler, Sarah (22 December 2019). "Co-op goes back to its roots with move into academy schools". The Guardian.
+"Our Trust". Co-op Academies Trust. Retrieved 22 January 2024.
+"Member pioneers - helping co-operation in local communities".
+"The Co-operative Film Festival". The Co-operative Film Festival. Archived from the original on 12 February 2010. Retrieved 27 January 2023.
+"The Cooperative Film Festival is coming to Bradford". Bradford City of Film. 16 May 2013. Retrieved 27 January 2023.
+"The Co-operative Film Festival in association with National Media Museum 2013 Programme". Yumpu. 24 October 2014. Retrieved 27 January 2023.
+"About the Festival". The Co-operative Film Festival. Archived from the original on 17 February 2012. Retrieved 27 January 2023.
+Green, Mark (8 October 2009). "Co-operative Young Film-makers Festival 2009". National Science and Media Museum blog. Retrieved 27 January 2023.
+"National Museum of Science & Industry - Account for 2001-2002" (PDF). Science Museum Group. June 2017. p. 9. Retrieved 27 January 2023.
+"Shooting stars". Lancashire Telegraph. 9 July 1999. Retrieved 27 January 2023.
+"Festival showing for videos". Lancashire Telegraph. 24 September 1999. Retrieved 27 January 2023.
+Fiona Briggs (2 January 2020). "Co-op ramps up same-day delivery for online orders and debuts meat-free GRO brand". Retail Times. Retrieved 16 January 2020.
+"Co-op Becomes the Latest Supermarket to Run on Amazon's Rails". Forbes.
+"Delivery robots take the strain out of shopping in UK town". 23 September 2021.
+"Co-op partners with Deliveroo for online grocery trial".
+"The Co-op becomes the exclusive grocer for NUS - Retail Gazette". 20 September 2019.
+"Co-op Ever Ground brand brewed for success with new lines". Grocery Trader. 23 November 2022.
+Craft, Mark (14 June 2023). "Co-op Expands Chilled Coffee Range". KamCity.
+"Co-op opens new and redesigned stores in Gourock and Havant, UK". 13 February 2023.
+"Co-op targets expansion in 'golden era' for members". The Times. 24 January 2024. Retrieved 29 January 2024.
+"Co-op buys Nisa for £143m after members back takeover". TheGuardian.com. 13 November 2017.
+"Bestway extends Co-op agreement for Costcutter retailers". 22 December 2020.
+"Franchise: Who can apply". Co-operative Group.
+Sahar Nazir (12 February 2019). "Co-op to launch first ever franchise stores". Retail.
+"Costcutter founder Colin Graves to advise Co-op on wholesale and franchising". franchise4u. 10 June 2018.
+"Co-op ups recruitment efforts for franchisees". 7 September 2023.
+"Co-op Funeralcare revenue up £7m".
+"Co-operative Legal Services venture launched". Money News. 21 April 2006. Retrieved 18 February 2007.
+"About Our Legal Team". Co-op Legal Services. 20 January 2023.
+"Turnover up at Co-op Legal as it unveils Simplify Probate acquisition". 6 April 2018.
+"Exclusive: Co-op Legal Services eyes £100m turnover in growth push". 17 May 2022.
+"Legal & General, Co-op Insurance team up to provide life and critical illness cover".
+Oliver Ralph (18 January 2019). "UK's Co-op sells insurance business to Markerstudy". Financial Times. Retrieved 7 September 2019.
+"Co-op Insurance | Car, Home, Travel, Pet and Life Insurance from Co-op" (PDF).
+"We have completed the sale of our insurance underwriting business". 2 December 2020.
+"Co-op delivers against strategy and targets one million new members". The Co-operative (Press release). 5 April 2023.
+"Co-op targets growth to reach 8 million members". 24 January 2024.
+"Co-op Membership - What you get". Co-operative Group.
+"Co-op App reveals digital future of convenience retailing".
+"Co-op launches UK's first convenience retail media network | Grocery Trader". February 2024.
+"Our Businesses". The Co-operative Group. Archived from the original on 23 November 2011.
+"NOMA – Manchester's New Neighbourhood". noma-manchester.com. Archived from the original on 8 December 2015. Retrieved 29 November 2015.
+"Site history". Co-operative. Archived from the original on 3 November 2011. Retrieved 28 November 2011.
+"Used cars in Lincoln". Archived from the original on 6 February 2015. Retrieved 21 January 2015.
+Zoe Higgins (10 April 2015). "Five jobs to go as Co-op confirms closure of Co-op Motors in Empress Road". loughborough. Retrieved 29 November 2015.
+"Sale of Lincoln Motor Dealership – Central England Co-operative: food stores, funeral, travel, motoring and optical services in the Midlands and East Anglia". centralengland.coop. Archived from the original on 8 December 2015. Retrieved 29 November 2015.
+Atherton, Jayne (11 September 2007). "Business Bites". Metro. p. 41.
+"Co-op sells its 774 pharmacies to Bestway for £620M". BBC. 18 July 2014. Retrieved 4 August 2014.
+Alex Bell (10 February 2015). "Well is the new name of Co-op's pharmacies". Manchester Evening News.
+"Buy Electrical Appliances Online At The Co-operative Electrical". coopelectricalshop.co.uk. Archived from the original on 27 November 2015. Retrieved 29 November 2015.
+"Buy Electrical Appliances Online At The Co-operative Electrical". coopelectricalshop.co.uk. Archived from the original on 6 December 2015. Retrieved 29 November 2015.
+"Co-op Electrical Closure". The Co-operative Group. Retrieved 14 March 2019.
+"The Co-operative Clothing". Co-operative Group. Archived from the original on 23 November 2011.
+"Co-op re-enters bed market". 9 February 2018.
+Co-operative Travel to form Thomas Cook venture Archived 31 October 2010 at the Wayback Machine Co-operative News, 12 October 2010
+"Thomas Cook and Co-op Travel merger faces OFT probe". BBC News. 7 January 2011.
+"Co-op Travel leaves high street in £55m deal". The Week UK. 7 December 2016.
+"Hays paid just £10,800 for each Thomas Cook store it acquired". Retail Gazette.
+"About". Save Our Bank.
+"The Co-operative Bank to end relationship with Co-operative Group after securing £700m rescue deal". 28 June 2017.
+Fedor, Lauren (31 May 2016). "Funeral service Dignity buys five crematoria from Co-op". Financial Times.
+"Co-op prescribes pharmacy comeback with Dimec deal".
+Debbie Andalo (18 September 2018). "Co-op returns to pharmacy market with purchase of repeat prescription app". The Pharmaceutical Journal. Retrieved 10 July 2019.
+"NHS repeat prescriptions made easy". Co-op Blog. 19 May 2019. Archived from the original on 24 September 2020. Retrieved 10 July 2019.
+"Co-op is returning to healthcare". Co-op Blog. 21 December 2018. Retrieved 10 July 2019.
+"Rowlands' parent buys Co-op Health in bid to 'compete with Pharmacy2U'". 15 March 2021.
+Nicole Blackmore (19 March 2013). "Royal London acquires Co-op life insurance and asset management arms". Money Marketing. Retrieved 6 September 2019.
+North, Charlie (2 December 2020). "Markerstudy Group completes on the acquisition of Co-op Insurance underwriting business". Markerstudy Group (Press release).
+"Co-op Power". The Co-operative Group.
+"Co-op sells petrol station business to Asda for £600m". Sky News. 31 August 2022. Retrieved 31 August 2022.
+"Top UK co-ops agree merger terms". BBC News. 17 February 2007.
+"FSA Mutuals Public Register". FSA. Archived from the original on 9 August 2009.
+"The Co-operative Advantage". Co-operatives UK. Archived from the original on 23 June 2015. Retrieved 4 June 2015.
+"The Co-operative – a super brand to watch". The Co-operative Group. 15 September 2008. Archived from the original on 19 July 2011.
+"The Co-operative – our democracy". co-operative.coop. Retrieved 29 November 2015.
+"The Co-operative Group Board of Directors". co-operative.coop. Retrieved 29 November 2015.
+"The Co-operative Group Executive". co-operative.coop. Retrieved 29 November 2015.
+The Co-operative Group: Annual Report 2012, p. 46
+Doward, Jamie (8 March 2014). "New Co-op storm as board awards bosses huge pay and bonus deals". The Guardian. The Observer/The Guardian. Retrieved 9 March 2014.
+Christian Cull (25 October 1997). "National rollout for CWS reward card". The Grocer. Archived from the original on 20 July 2011. Retrieved 3 December 2009. "The card which has been on trial since May 1996 is unique in that it awards cash payments rather than credit points."
+"Bumper double dividend of pounds 38m for members of Co-operative Group". Birmingham Post. 27 June 2008. p. 21. Retrieved 29 June 2008.
+"Press release: Merger delivers strong profit growth, preliminary results". The Co-operative Group. 17 April 2008. Archived from the original on 26 June 2008. Retrieved 30 June 2008.
+"Press release: Co-operative Membership smashes three million barrier". The Co-operative Group. 5 August 2008. Archived from the original on 9 October 2008. Retrieved 9 August 2008.
+"Co-operative Group sees surge in younger members". Talking Retail. Nexus Business Media. 5 November 2007. Archived from the original on 3 February 2013. Retrieved 30 June 2008.
+"Southern Co-op to withdraw from Co-op membership affinity scheme".
+"The Co-operative – Have Your Say". haveyoursay.coop. Archived from the original on 13 August 2015. Retrieved 29 November 2015.
+"The Co-operative". Archived from the original on 24 September 2015. Retrieved 25 July 2015.
+"The most ethical supermarkets. Shopping guide from Ethical Consumer". Retrieved 25 July 2015.
+"Resources, Policies & Links". co-operative.coop. Retrieved 29 November 2015.
+"Winners 2008". European Commission. Retrieved 22 November 2015.
+"The Co-operative". fairtrade.org.uk. Archived from the original on 25 November 2015. Retrieved 29 November 2015.
+"Our Fairtrade products & stories". co-operative.coop. Archived from the original on 10 January 2016. Retrieved 29 November 2015.
+Lamb, Harriet (18 February 2011). "Fairtrade gets huge boost from The Co-operative's new ethical plan". The Guardian. Retrieved 29 November 2015.
+"Co-op to become first 100% Fairtrade cocoa UK retailer". 25 February 2017.
+"International communities". co-operative.coop. Archived from the original on 8 December 2015. Retrieved 29 November 2015.
+"Fairly traded products – Coffins, charcoal, rubber gloves – Our Ethics – The Co-operative". co-operative.coop. Archived from the original on 10 January 2016. Retrieved 29 November 2015.
+Damian Carrington (25 December 2012). "Co-op supermarkets extend fridge door scheme". The Guardian. Retrieved 29 November 2015.
+"Reducing our impacts: Energy efficiency". Co-operative Food. Archived from the original on 27 September 2015. Retrieved 8 November 2019.
+"Torrs Hydro". torrshydro.org. Retrieved 29 November 2015.
+"The Co-operative gives hydro power a double boost". co-operative.coop. Retrieved 29 November 2015.
+"Shopping with Attitude" (PDF). The Co-operative Group. May 2004. Archived from the original (PDF) on 4 March 2016. Retrieved 6 July 2015.
+"Animal Welfare – Farming – Co-operative Food". co-operativefood.co.uk. Retrieved 29 November 2015.
+"Co-op commits to strict animal welfare standards for its farmed shrimp supplies". globalseafood.org. Retrieved 25 July 2025.
+Nicky Amos and Dr Rory Sullivan. "The Business Benchmark on Farm Animal Welfare 2013 Report" (PDF). Archived from the original (PDF) on 8 December 2015. Retrieved 7 August 2015.
+Antimicrobial resistance – why the irresponsible use of antibiotics in agriculture must stop. The Soil Association (Report). Alliance to Save Our Antibiotics. March 2013. Archived from the original on 4 March 2016. Retrieved 9 September 2017.
+"Food: Animal welfare". co-operative.coop. Archived from the original on 8 December 2015. Retrieved 29 November 2015.
+"The Co-operative Responsible Fish Sourcing Standard" (PDF). The co-operative food. Archived from the original (PDF) on 25 June 2018.
+"The Co-operative named worldwide seafood champion". co-operative.coop. Archived from the original on 10 January 2016. Retrieved 29 November 2015.
+"Responsibly sourced fish – Food and drink – The Co-operative Food". co-operativefood.co.uk. Archived from the original on 8 August 2014. Retrieved 29 November 2015.
+"Co-operative commits funding for more sustainable UK fisheries". co-operative.coop. Archived from the original on 10 January 2016. Retrieved 29 November 2015.
+"Ocean Disclosure Project 2015" (PDF). The Co-operative Food. Archived from the original (PDF) on 24 July 2015.
+"Fish sourcing – Reducing our impacts- – The Co-operative Food". co-operativefood.co.uk. Retrieved 29 November 2015.
+"Campaigning". co-operative.coop. Archived from the original on 22 June 2015. Retrieved 29 November 2015.
+"Climate change". co-operative.coop. Archived from the original on 8 December 2015. Retrieved 29 November 2015.
+"H2Oil". dogwoof.com. Retrieved 29 November 2015.
+"Campaigning". co-operative.coop. Archived from the original on 22 June 2015. Retrieved 29 November 2015.
+"RE: Support for mandatory carbon reporting" (PDF). The Co-operative Group Social Goals. Archived from the original (PDF) on 3 March 2016. Retrieved 5 June 2015.
+"Leading businesses to disclose greenhouse gas emissions". Government of the United Kingdom. Retrieved 29 November 2015.
+"Unconventional Oil: Scraping the bottom of the barrel?" (PDF). WWF & CFS. Archived from the original (PDF) on 8 July 2015. Retrieved 5 June 2015.
+"Campaigning". co-operative.coop. Retrieved 29 November 2015.[permanent dead link]
+"Fighting Spirit". earthisland.org. Retrieved 29 November 2015.
+Juliette Jowit (26 February 2009). "Indigenous people to launch legal challenge against oil firms over Canada tar sand project". The Guardian. Retrieved 29 November 2015.
+"BBC News Channel – Our World, Tar Wars". BBC. Retrieved 29 November 2015.
+"Testimonials". RAVEN. Archived from the original on 21 May 2015. Retrieved 29 November 2015.
+Lameman, Crystal (8 April 2015). "Life above the Alberta tar sands – why we're taking the government to court". The Guardian. Retrieved 29 November 2015.
+"Toxic fuels: toxic investments – Why we need mandatory greenhouse gas reporting" (PDF). WWF-UK and The Co-operative Bank. 2010. Archived from the original (PDF) on 21 May 2015. Retrieved 5 June 2015.
+Terry Macalister (18 January 2010). "Shell faces shareholder revolt over Canadian tar sands project". The Guardian. Retrieved 29 November 2015.
+Carbon Capture and Storage in the Alberta Oil Sands – a Dangerous Myth (PDF) (Report). WWF & The Co-operative Bank. Archived from the original (PDF) on 23 September 2015. Retrieved 5 June 2015.
+"Shale Gas Moratorium – Position Statement" (PDF). The Co-operative. 2013. Archived from the original (PDF) on 4 July 2015. Retrieved 5 June 2015.
+"Campaigning". co-operative.coop. Archived from the original on 8 July 2014. Retrieved 29 November 2015.
+Broderick, John; et al. (November 2011). "Shale gas: an updated assessment of environmental and climate change impacts" (PDF). Tyndall Centre for Climate Change Research. Archived from the original (PDF) on 29 October 2016. Retrieved 30 March 2017.
+"US Shale Gas Drives Up Coal Exports – Tyndall Manchester Research". tyndall.ac.uk. Archived from the original on 10 January 2016. Retrieved 29 November 2015.
+"Organise a Gasland screening" (PDF). co-operative.coop. Archived from the original (PDF) on 4 July 2015. Retrieved 5 June 2015.
+Rayner, Gordon (5 August 2013). "Shale gas: Co-op is major corporate backer of anti-fracking movement". The Daily Telegraph. London. Archived from the original on 12 January 2022.
+"Manifesto for a community energy revolution" (PDF). The Co-operative Group and Co-operatives UK. Archived from the original (PDF) on 14 February 2015. Retrieved 4 June 2015.
+"Campaigning". co-operative.coop. Archived from the original on 2 March 2015. Retrieved 29 November 2015.
+"Community Energy Challenge". cse.org.uk. Retrieved 29 November 2015.
+Values in Action (PDF) (Report). The Co-operative Group. May 2004. Archived from the original (PDF) on 23 September 2015. Retrieved 6 June 2015.
+Copping, Jasper (21 March 2009). "Wine ingredients including fish and charcoal should be listed on the bottle, say regulators". The Daily Telegraph. London. Archived from the original on 12 January 2022.
+"2001 – present day". co-operative.coop. Archived from the original on 28 November 2015. Retrieved 29 November 2015.
+"Co-op to extend braille labelling to food range". marketingmagazine.co.uk. Retrieved 29 November 2015.
+"Co-operative Food research champions traffic lights and front-of-pack labelling". Retail Times. Retrieved 29 November 2015.
+"green dots explained – traffic light labelling for a healthier diet". co-operative.coop. Retrieved 29 November 2015.
+"73% of Co-op members vote to boycott Israeli goods in landmark motion". Middle East Monitor. London. 10 May 2025. Retrieved 8 July 2025.
+McVeigh, Tracy; Sherwood, Harriet (29 April 2012). "Co-op boycotts exports from Israel's West Bank settlements". The Guardian. London.
+"Co-op members vote to boycott Israel". retailgazette.
+Earth, Friends of the (20 June 2008). "Foe congratulates co-op on pesticides action". Friends of the Earth. Retrieved 29 November 2015.
+"Precautionary principle pushes out the pesticides". forumforthefuture.org. Archived from the original on 10 January 2016. Retrieved 29 November 2015.
+"Co-op bans 20 pesticides from food". BBC News. 2 July 2001.
+"Removing pesticides from the food chain". pan-uk.org. Archived from the original on 24 September 2015. Retrieved 29 November 2015.
+ruth. "2011 Supermarket Comparison – PAN UK". Pesticide Action Network UK. Archived from the original on 10 January 2016. Retrieved 29 November 2015.
+"Pesticide & chemical restrictions – Residue policy – Co-operative Food". co-operativefood.co.uk. Retrieved 29 November 2015.
+"How Are We Doing?" (PDF). Co-operative Food. January 2014.
+"Archived copy" (PDF). www.co-operative.coop. Archived from the original (PDF) on 28 May 2015. Retrieved 15 January 2022.
+Detox: Campaigning for Safer Chemicals (PDF) (Report). WWF. January 2007.
+Alison Benjamin (28 January 2009). "Co-op bans eight pesticides after worldwide beehive collapse". The Guardian. Retrieved 29 November 2015.
+"Campaigning". co-operative.coop. Archived from the original on 11 April 2012. Retrieved 29 November 2015.
+ruth. "Coop and PAN UK call for review of neonicotinoid risk assessment – PAN UK". Pesticide Action Network UK. Archived from the original on 8 December 2015. Retrieved 29 November 2015.
+ruth. "PAN UK applauds the Co-op support for European Commission proposed neonicotinoid suspension – PAN UK". Pesticide Action Network UK. Archived from the original on 8 December 2015. Retrieved 29 November 2015.
+"what we're doing". co-operative.coop. Archived from the original on 24 March 2010. Retrieved 29 November 2015.
+"Campaigning". co-operative.coop. Archived from the original on 26 May 2015. Retrieved 29 November 2015.
+Genetic modification: the consumers' voice (PDF). The Co-operative Group (Report). Archived from the original (PDF) on 23 September 2015. Retrieved 6 June 2015.
+"Sainsbury's, M&S and the Co-op follow Tesco's lead on GM feed". TheGrocer.co.uk. Retrieved 29 November 2015.
+"Waste and packaging". co-operative.coop. Archived from the original on 8 December 2015. Retrieved 29 November 2015.
+"The Co-operative is first to offer compostable carriers in hundreds of stores". The Co-operative. Archived from the original on 8 December 2015. Retrieved 29 November 2015.
+"Co-op Group unveils £22M Avonmouth distribution centre". TheGrocer.co.uk. Retrieved 29 November 2015.
+Weatherley, Brian (2 December 2012). "Commercialmotor.com – The Co-op 'streamlines' its deliveries with G&A's wind-cheating Dolphin duo—Biglorryblog has the news!". Commercial Motor. Archived from the original on 23 September 2015. Retrieved 29 November 2015.
+"Carbon Reduction: Delivering Efficiency" (PDF). The co-operative food: supply chain logistics service. Archived from the original (PDF) on 23 September 2015. Retrieved 30 June 2015.
+"How did the retailers perform?". WWF. Archived from the original on 23 December 2015. Retrieved 29 December 2015.
+"The Co-operative Food commended for palm oil use – Food News UK". The Co-operative Food news. Archived from the original on 11 December 2015. Retrieved 29 November 2015.
+"Palm Oil". Rainforest Foundation UK. Archived from the original on 2 March 2013. Retrieved 29 November 2015.
+"Sustainable sourcing – Forest sustainability – Co-operative Food". co-operativefood.co.uk. Retrieved 29 November 2015.
+"Co-op fends off hackers as police probe M&S cyber attack". BBC News. 30 April 2025. Retrieved 2 May 2025.
+Tidy, Joe; Rahman-Jones, Imran (16 July 2025). "Co-op boss says sorry to 6.5m people who had data stolen in hack". www.bbc.com.
+As Derby Co-operative Provident Society, which became Midlands Co-operative Society in 1995
+As Peterborough Equitable Industrial Co-operative Society, which became Anglia Regional Co-operative Society in 1987
+38 from Anglia Regional, 6 from Midlands Co-operative
+"Our Annual Review 2014/15" (PDF). Central England Co-operative. Archived from the original (PDF) on 12 July 2015. Retrieved 3 June 2015.
+Annual Report and Financial Statements (PDF) (Report). Chelmsford Star Co-operative Society. 27 January 2007. p. 5. Archived from the original (PDF) on 27 March 2009. Retrieved 11 January 2008.
+"Annual Reports". Retrieved 13 April 2020.
+As Norwich Co-operative Society
+"Grosmont". Co-op Online Directory. Co-operatives UK. Archived from the original on 7 April 2009. Retrieved 12 August 2008.
+"Grosmont Co-operative Society Limited". uk.coop. Synergy arm of Co-operatives UK. Archived from the original on 29 September 2011. Retrieved 23 August 2008.
+"Grosmont Co-operative Society Limited, number 992R". Mutuals Public Register. FSA. Archived from the original on 7 April 2009. Retrieved 12 August 2008.
+As Lockhurst Lane Industrial Co-operative Society
+Annual Report and Financial Statements (PDF) (Report). Heart of England Co-operative Society. 20 January 2007. p. 8. Archived from the original (PDF) on 27 March 2009. Retrieved 11 January 2008.
+"Hawkshead & District Co-op Society Limited". Archived from the original on 10 June 2015. Retrieved 19 November 2013.
+"Hawkshead and District Co-operative Society Limited, number 2242R". Mutuals Public Register. FSA. Archived from the original on 7 April 2009. Retrieved 12 August 2008.
+"Langdale and Neighbourhood Industrial Co-operative Society Limited". uk.coop. Synergy arm of Co-operatives UK. Archived from the original on 29 September 2011. Retrieved 23 August 2008.
+"Langdale & Neighbourhood Industrial Co-op Society". Shop directory. Village Retail Services Association. Archived from the original on 23 June 2008. Retrieved 23 August 2008.
+"History: 1864". Lincolnshire Co-operative. Archived from the original on 18 July 2011. Retrieved 4 August 2008.
+2017/18 Annual Report and Accounts (PDF) (Report). The Midcounties Co-operative.
+Annual Report & Accounts 2014/15 (PDF) (Report). The Midcounties Cooperative. 2015. Archived from the original (PDF) on 4 March 2016. Retrieved 15 February 2016.
+"Stores". Radstock Co-op. Retrieved 20 February 2014.
+Annual Report & Financial Accounts for year ended 27 January 2018 (PDF) (Report). Scottish Midland Co-operative Society Ltd.
+Southern Co-op Annual Review 2017–18 (PDF) (Report). Southern Co-op.
+"2002 Shell Worldaware Business Award". Worldaware. Archived from the original on 19 July 2003. Retrieved 18 February 2007.
+"Winners 2007". Queen's Awards for Enterprise. Archived from the original on 29 March 2010. Retrieved 13 May 2008.
+"Shortlist announced for the Transform Awards for rebranding". Communicate magazine. January 2010. Archived from the original on 8 October 2011.
+
+    Alice Rickman (26 January 2011). "Waitrose tops supermarket survey". Which? News.
+
+References
+
+    Louis Brandeis, Other People's Money And How the Bankers Use It (1914) ch 10
+    Percy Redfern, The Story of the CWS 1863–1913 (1913)
+
+
+=====
+
+
+Which of the two companies is more ethical?
+`;
