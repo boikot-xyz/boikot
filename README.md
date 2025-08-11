@@ -21,21 +21,3 @@ the [`boikot.json`](https://raw.githubusercontent.com/boikot-xyz/boikot/main/boi
 Corporate Research site: https://www.corp-research.org/home-page
 
 Impact of boycotts on McDonalds: https://m.youtube.com/watch?v=K9Uf3eUWKE8
-
-
-## bookmarks
-
-These are some bookmarks that make it a bit faster to collect the company data. They add JSON data into your clipboard that you can then paste into the "Merge JSON" thing on the company edit page
-
-Get company website and logo when on its wikipedia page:
-
-```javascript
-javascript:( () => {     const logoImg =         document.querySelector(".infobox-image.logo img") ??         document.querySelector(".infobox-image img");      const logoURL = logoImg?.src         .replace("thumb/", "")         .replace(/^\/\/upload/, "https://upload")         .replace(/\/[^/]+.(png|jpg)$/, "");      const infoBoxLabels = [...document.querySelectorAll(         "table.infobox tr"     )];      const siteLabel = infoBoxLabels.filter(          el => el.innerHTML.includes("Website")             || el.innerHTML.includes("URL")     )[0];      const siteURL = siteLabel?.querySelector("a").href;        navigator.clipboard.writeText(`{ "logoUrl": "${logoURL}", "siteUrl": "${siteURL}" }`); } )()
-```
-
-Copy the url of the current page as a new source:
-
-
-```javascript
-javascript:( async () => {     const clipboardString = await navigator.clipboard.readText();     let clpiboard;     try {         clipboard = JSON.parse(clipboardString);     } catch (e) {         clipboard = {};     }     const nextKey = Math.max(0, ...Object.keys(clipboard?.sources || {})) + 1;      navigator.clipboard.writeText(JSON.stringify({ ...clipboard, sources: { ...( clipboard?.sources || {}), [nextKey.toString()]: window.location.href } })); } )()
-```
