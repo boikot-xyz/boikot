@@ -17,10 +17,10 @@ fn open_url_in_tab(browser: &Browser, url: Url) -> Result<Arc<Tab>, String> {
 
     let mut tab = browser.new_tab().map_err(|_| "Could not open tab".to_string())?;
     tab.set_user_agent(user_agent, None, None);
-    tab.set_default_timeout(time::Duration::from_secs(3));
     tab.navigate_to(&origin).map_err(|_| "Could not naviagate to origin".to_string())?;
 
     tab = browser.new_tab().map_err(|_| "Could not open tab".to_string())?;
+    tab.set_default_timeout(time::Duration::from_secs(3));
     tab.set_user_agent(user_agent, None, None);
 
     tab.navigate_to(url.as_str()).map_err(|_| "Could not navigate to url".to_string())?;
