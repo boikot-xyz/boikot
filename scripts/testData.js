@@ -783,7 +783,7 @@ Exhibit A
 Last Modified: Thursday, June 3, 2010
 `;
 
-export const wagamamaInfo = `
+export const wagamamaArticleText = `
 Skip to content
 Wagamama fined for failing to pay the minimum wage
 9 March 2018

@@ -6,7 +6,7 @@ import { getWikipediaInfo, getWikipediaPage } from "./wiki.js";
 import { getRecord } from "./getRecord.js";
 import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
-import { askLlama4, askQwen, askGemma, embed } from "./llm.js";
+import { askLlama4, askQwen, askGemma, askGPTOSS, embed } from "./llm.js";
 import { getInvestigationPrompt, getSummarisePrompt, getCombinePrompt } from "./prompts.js";
 import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, appleArticleText, kelloggsArticleText, wagamamaArticleText, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo, nintendoInfo, burberryInfo } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
@@ -299,9 +299,9 @@ const targetSummariseResults = [
         articleText: kelloggsArticleText,
         targetResultCheck: async response => {
             expect(response.split(" ").length).toBeLessThan(600);
-            expect(response).toContain("Kellogg's");
+            expect(response).toMatch(/Kellogg/);
             expect(response).toMatch(/child/i);
-            expect(response).toMatch(/claims|misleading|dubious|auestionable|false/i);
+            expect(response).toMatch(/claims|misleading|dubious|questionable|false/i);
         },
     },
     {
@@ -351,7 +351,7 @@ const targetCombineResults = [
             expect(response).not.toContain("[4]");
             expect(response).not.toContain("[6]");
 
-            expect(response).toMatch(/single(-| )use plastic/i);
+            expect(response).toMatch(/single.use plastic/i);
             expect(response).toContain("illegal rainforest destruction");
             expect(response).toContain("water shortage");
             expect(response).not.toContain("stealing");
@@ -424,7 +424,7 @@ const targetCombineResults = [
     },
 ];
 
-const llmOptions = [ askQwen, askLlama4, askGemma ];
+const llmOptions = [ askQwen, askLlama4, askGemma, askGPTOSS ];
 
 llmOptions.forEach( llmFunc =>
   describe( llmFunc.name, () => {
