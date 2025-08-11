@@ -1,6 +1,6 @@
-# scripts
+# backend
 
-these are some information gathering scripts that can be used to collect company ethics data. There are also some other utility scripts for other purposes
+these are some information gathering utilities that can be used to collect company ethics data.
 
 - `search.js` - exports functions that can be used to search the web
 - `wiki.js` - exports functions that can be used to get information from a company's wikipedia page
