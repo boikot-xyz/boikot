@@ -10,7 +10,7 @@ The main product being worked on is the [boikot.xyz](https://boikot.xyz) website
 
 ## MCP
 
-We also have an MCP server that exposes a tool to lookup company ethics information. This is available from the URL `https://mcp.boikot.xyz/mcp` with no authentication needed. It proviedes one tool called `lookup_company_information` which takes one parameter `company_name` and returns information about the company's ethics.
+We also have an MCP server that exposes a tool to lookup company ethics information. This is available from the URL `https://mcp.boikot.xyz/mcp` with no authentication needed. It provides one tool called `lookup_company_information` which takes one parameter `company_name` and returns information about the company's ethics.
 
 ## the dataset
 
