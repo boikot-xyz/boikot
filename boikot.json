@@ -7055,6 +7055,41 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2c/Air_Wick_circle_logo.png",
             "siteUrl": "http://www.airwick.us/",
             "updatedAt": "2025-08-10T21:41:01.378Z"
+        },
+        "airbnb": {
+            "names": [
+                "Airbnb"
+            ],
+            "comment": "Airbnb is an American holiday rental website that has avoided billions in tax [1][2], raised rental prices and caused evictions for local people where it operates  [3][4][5], lobbied governments to avoid regulation [6], and operated rentals in illegal settlements in the West Bank [7][8][9]. One of Airbnb's founders joined the US government DOGE organisation [10], hidden cameras have been found in several Airbnb properties [11][12][13], and thousands of reports of sexual assaults in Airbnbs are made every year, using settlements and legal tactics to silence surviors [14][15][16][17].",
+            "sources": {
+                "1": "https://irishbusinessnews.ie/airbnb-faces-massive-tax-settlement-in-italy/",
+                "2": "http://archive.today/2025.08.16-223020/https://news.airbnb.com/an-update-on-withholding-host-income-taxes-in-italy/",
+                "3": "https://web.archive.org/web/20201210140814/https://hbr.org/2019/04/research-when-airbnb-listings-in-a-city-increase-so-do-rent-prices",
+                "4": "https://web.archive.org/web/20240709161639/https://www.forbes.com/sites/garybarker/2020/02/21/the-airbnb-effect-on-housing-and-rent/",
+                "5": "https://web.archive.org/web/20190410171641/https://prospect.org/article/evictions-and-conversions-dark-side-airbnb",
+                "6": "https://web.archive.org/web/20191014111009/https://www.thetimes.co.uk/article/airbnb-lobby-msps-every-month-bs8scg2r5",
+                "7": "https://web.archive.org/web/20220923033358/https://www.nytimes.com/2019/04/09/world/middleeast/airbnb-israel-west-bank.html",
+                "8": "https://www.theguardian.com/world/ng-interactive/2025/feb/27/seized-settled-let-how-airbnb-and-bookingcom-help-israelis-make-money-from-stolen-palestinian-land",
+                "9": "https://web.archive.org/web/20190626190143/https://globalnews.ca/news/5148940/airbnb-west-bank-settlements/",
+                "10": "https://www.newsweek.com/airbnb-boycott-calls-joe-gebbia-elon-musk-doge-2033847",
+                "11": "https://edition.cnn.com/2024/07/09/business/airbnb-hidden-camera-invs/index.html",
+                "12": "https://web.archive.org/web/20240709162214/https://www.theatlantic.com/technology/archive/2019/03/what-happens-when-you-find-cameras-your-airbnb/585007/",
+                "13": "https://web.archive.org/web/20240709162724/https://qz.com/airbnb-hidden-cameras-stories-reports-complaints-ftc-1851442432",
+                "14": "https://www.businessinsider.com/airbnb-faces-thousands-sexual-assault-claims-yearly-report-2021-6",
+                "15": "https://www.bbc.com/news/business-57487970",
+                "16": "https://www.vice.com/en/article/airbnb-reportedly-paid-rape-victim-7-million-for-settlement-silence/",
+                "17": "https://www.bloomberg.com/news/articles/2021-08-18/two-sexual-assault-survivors-spur-airbnb-arbitration-turnaround"
+            },
+            "tags": [
+                "tech",
+                "travel",
+                "accomodation"
+            ],
+            "score": 19,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_B%C3%A9lo.svg",
+            "siteUrl": "https://www.airbnb.com/",
+            "updatedAt": "2025-08-16T21:45:26.540Z"
         }
     }
 }
