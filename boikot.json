@@ -7090,6 +7090,29 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_B%C3%A9lo.svg",
             "siteUrl": "https://www.airbnb.com/",
             "updatedAt": "2025-08-16T21:45:26.540Z"
+        },
+        "allianz": {
+            "names": [
+                "Allianz",
+                "Allianz SE",
+                "Allianz AG"
+            ],
+            "comment": "Allianz is a German insurance company that has engaged in price fixing [1] and misled consumers [2],  discriminated against those with mental health issues [3], bribed government officials in indonesia [4],  invested billions into businesses involved with illegal settlements in the West Bank and the Israeli Government [5][6], and had close with Nazism during the 20th century [7].",
+            "sources": {
+                "1": "https://www.gov.uk/cma-cases/private-motor-insurance-exchange-of-data",
+                "2": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2025-releases/25-028mr-allianz-and-awp-convicted-and-fined-16-8-million-for-making-false-or-misleading-statements/&ved=2ahUKEwjN9fvvu5GPAxWTUkEAHbKYPI8QFnoECBQQAQ&usg=AOvVaw2aeJN0o5tYz5sxHWsjHh0b",
+                "3": "https://www.atg.wa.gov/news/news-releases/ag-ferguson-insurance-company-must-repay-every-penny-washingtonians-it-denied",
+                "4": "https://web.archive.org/web/20160607080301/https://www.sec.gov/News/PressRelease/Detail/PressRelease/1365171486902",
+                "5": "https://web.archive.org/web/20221225234520/https://www.banktrack.org/download/exposing_the_financial_flows_into_illegal_israeli_settlements/dbio_report_def_aangepast.pdf",
+                "6": "https://www.aljazeera.com/news/2025/7/1/un-report-lists-companies-complicit-in-israels-genocide-who-are-they",
+                "7": "https://web.archive.org/web/20190110012801/https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/about-us/who-we-are/documents/Allianz_during_the_Nazi_era.pdf"
+            },
+            "tags": [],
+            "score": 26,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Allianz.svg",
+            "siteUrl": "http://allianz.com/",
+            "updatedAt": "2025-08-16T23:15:14.879Z"
         }
     }
 }
