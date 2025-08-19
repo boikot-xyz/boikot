@@ -7117,6 +7117,95 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Allianz.svg",
             "siteUrl": "http://allianz.com/",
             "updatedAt": "2025-08-16T23:15:14.879Z"
+        },
+        "liverpool-victoria": {
+            "names": [
+                "Liverpool Victoria",
+                "LV",
+                "LV="
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "insurance",
+                "finance"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "allianz"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Liverpool_Victoria_logo.png/250px-Liverpool_Victoria_logo.png",
+            "siteUrl": "https://www.lv.com/",
+            "updatedAt": "2025-08-16T23:15:14.879Z"
+        },
+        "petplan": {
+            "names": [
+                "Petplan",
+                "PetPlan",
+                "Pet Plan",
+                "PetPlan UK",
+                "Pet Plan Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "insurance",
+                "finance"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "allianz"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Petplan_logo_.jpg/250px-Petplan_logo_.jpg",
+            "siteUrl": "http://petplan.co.uk/",
+            "updatedAt": "2025-08-16T23:15:14.879Z"
+        },
+        "amd": {
+            "names": [
+                "AMD",
+                "Advanced Micro Devices",
+                "Advanced Micro Devices, Inc."
+            ],
+            "comment": "AMD is an American electronics company that underpaid its staff [1], engaged in price fixing of its GPUs [2], and falsely advertised its products [3].",
+            "sources": {
+                "1": "https://www.law360.com/articles/570431/amd-pays-5-2m-to-settle-sabbatical-pay-class-action",
+                "2": "https://www.law360.com/articles/88284/class-seeks-final-ok-for-1-7m-deal-in-gpu-mdl-",
+                "3": "https://www.law360.com/classaction/articles/1192508/amd-inks-12-1m-deal-in-computer-chip-false-ad-row"
+            },
+            "tags": [
+                "tech",
+                "electronics"
+            ],
+            "score": 44,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/AMD_Logo.svg",
+            "siteUrl": "https://www.amd.com/",
+            "updatedAt": "2025-08-17T22:11:17.770Z"
+        },
+        "ati": {
+            "names": [
+                "ATI",
+                "ATY",
+                "ATYT",
+                "ATI Technologies",
+                "ATI Technologies Inc.",
+                "Array Technology Inc.",
+                "Array Technologies Inc.",
+                "Array Technologies Inc."
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "tech",
+                "electronics"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "amd"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/ATI-Logo.svg",
+            "siteUrl": "https://web.archive.org/web/20061008230707/http://www.ati.com/",
+            "updatedAt": "2025-08-17T22:11:17.770Z"
         }
     }
 }
