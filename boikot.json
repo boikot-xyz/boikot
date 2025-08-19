@@ -7095,7 +7095,8 @@
             "names": [
                 "Allianz",
                 "Allianz SE",
-                "Allianz AG"
+                "Allianz AG",
+                "ALV"
             ],
             "comment": "Allianz is a German insurance company that has engaged in price fixing [1] and misled consumers [2],  discriminated against those with mental health issues [3], bribed government officials in indonesia [4],  invested billions into businesses involved with illegal settlements in the West Bank and the Israeli Government [5][6], and had close with Nazism during the 20th century [7].",
             "sources": {
@@ -7107,7 +7108,10 @@
                 "6": "https://www.aljazeera.com/news/2025/7/1/un-report-lists-companies-complicit-in-israels-genocide-who-are-they",
                 "7": "https://web.archive.org/web/20190110012801/https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/about-us/who-we-are/documents/Allianz_during_the_Nazi_era.pdf"
             },
-            "tags": [],
+            "tags": [
+                "insurance",
+                "finance"
+            ],
             "score": 26,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Allianz.svg",
