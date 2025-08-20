@@ -7206,6 +7206,28 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/ATI-Logo.svg",
             "siteUrl": "https://web.archive.org/web/20061008230707/http://www.ati.com/",
             "updatedAt": "2025-08-17T22:11:17.770Z"
+        },
+        "american-eagle": {
+            "names": [
+                "American Eagle",
+                "American Eagle Outfitters",
+                "American Eagle Outfitters, Inc.",
+                "AEO"
+            ],
+            "comment": "American Eagle is an American clothing brand that sourced clothes from factories that exploited workers [1] and stole the work of independent artists [2].",
+            "sources": {
+                "1": "https://www.dailymail.co.uk/news/article-13346715/US-Customs-investigating-forced-labor-factory-clothes-Armour-American-Eagle.html",
+                "2": "https://www.huffingtonpost.co.uk/entry/aholsniffsglue-american-eagle-artist-lawsuit-copyright_n_5627862"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 42,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/American_Eagle_Outfitters_wordmark.svg",
+            "siteUrl": "https://ae.com/",
+            "updatedAt": "2025-08-20T22:27:45.242Z"
         }
     }
 }
