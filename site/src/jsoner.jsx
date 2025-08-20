@@ -212,6 +212,8 @@ const makeCompanyReportSearchURL = companyName => searchEcosia(companyName + " c
 const makeViolationTrackerSearchURL = companyName => `https://violationtracker.goodjobsfirst.org/?company=${encodeURIComponent(companyName)}`
 const makeViolationTrackerUKSearchURL = companyName => `https://violationtrackeruk.goodjobsfirst.org/?company=${encodeURIComponent(companyName)}`
 const makeViolationTrackerGlobalSearchURL = companyName => `https://violationtrackerglobal.goodjobsfirst.org/?company_op=starts&company=${encodeURIComponent(companyName)}`
+const makeBlueskySearchURL = companyName => `https://bsky.app/search?q=${encodeURIComponent(companyName)}%20unethical`
+const makeEthicaldotorgSearchURL = companyName => `https://ethical.org.au/search?q=${encodeURIComponent(companyName)}`
 
 function SearchLinks({ state }) {
     if( !state.names?.length ) return null;
@@ -225,6 +227,8 @@ function SearchLinks({ state }) {
         [ "📈 search violation tracker", makeViolationTrackerSearchURL(state.names[0]) ],
         [ "📉 search violation tracker uk", makeViolationTrackerUKSearchURL(state.names[0]) ],
         [ "🌍 search violation tracker global", makeViolationTrackerGlobalSearchURL(state.names[0]) ],
+        [ "🦋 search bluesky", makeViolationTrackerGlobalSearchURL(state.names[0]) ],
+        [ "✅ search ethical.org", makeEthicaldotorgSearchURL(state.names[0]) ],
     ];
 
     const openAll = () => searchUrls.forEach( ([ _, url ]) => window.open(url) );
