@@ -7282,6 +7282,93 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.svg",
             "siteUrl": "https://www.anthropic.com/",
             "updatedAt": "2025-08-21T20:31:25.258Z"
+        },
+        "asos": {
+            "names": [
+                "ASOS",
+                "ASOS plc",
+                "ASC",
+                "Winsupply Public Limited Company",
+                "AsSeenOnScreen Holdings plc",
+                "AsSeenOnScreen"
+            ],
+            "comment": "ASOS is a Brtish clothing retailer that has mistreated its workers [1][2], failed to keep its employees safe during the pandemic [3][4], sourced clothing produced by child labour [5], and allowed sennior managers to sexualy harass young female employees [6].",
+            "sources": {
+                "1": "https://www.buzzfeed.com/saraspary/these-asos-workers-are-paying-the-true-price-of-your-order",
+                "2": "https://www.theguardian.com/business/2017/apr/04/asos-chief-executive-says-barnsley-warehouse-conditions-great",
+                "3": "https://www.theguardian.com/global/2020/mar/30/asos-workers-coronavirus-fears-online-fashion-safety-barnsley-warehouse",
+                "4": "https://web.archive.org/web/20200503123321/https://novaramedia.com/2020/05/02/this-isnt-essential-asos-workers-fight-for-safety-during-coronavirus/",
+                "5": "https://www.forbes.com/sites/jwebb/2016/10/25/child-workers-found-in-clothing-supply-chain-asos-marks-spencer-implicated/",
+                "6": "https://www.telegraph.co.uk/news/2021/07/29/asos-brings-lawyers-tackle-sex-harassment-claims/"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 36,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Asos.svg",
+            "siteUrl": "http://asos.com/",
+            "updatedAt": "2025-08-21T21:01:33.825Z"
+        },
+        "topshop": {
+            "names": [
+                "Topshop",
+                "TOPSHOP",
+                "Top Shop"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "bestseller",
+                "asos"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/TopshopJan2018.svg",
+            "siteUrl": "https://www.topshop.com/gb/topshop",
+            "updatedAt": "2025-08-21T21:01:33.825Z"
+        },
+        "topman": {
+            "names": [
+                "Topman"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "bestseller",
+                "asos"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/TOPMAN2018.svg",
+            "siteUrl": "http://topshop.com/gb/topman",
+            "updatedAt": "2025-08-21T21:01:33.825Z"
+        },
+        "miss-selfridge": {
+            "names": [
+                "Miss Selfridge"
+            ],
+            "comment": "",
+            "sources": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "bestseller",
+                "asos"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/MissSelfridge.svg",
+            "siteUrl": "https://www.asos.com/miss-selfridge/",
+            "updatedAt": "2025-08-21T21:01:33.825Z"
         }
     }
 }
