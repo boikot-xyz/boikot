@@ -7228,6 +7228,38 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/American_Eagle_Outfitters_wordmark.svg",
             "siteUrl": "https://ae.com/",
             "updatedAt": "2025-08-20T22:27:45.242Z"
+        },
+        "american-express": {
+            "names": [
+                "American Express",
+                "American Express Company",
+                "Amex",
+                "AMEX",
+                "AXP",
+                "Livingston, Fargo & Company",
+                "Wells, Butterfield & Company",
+                "Wells & Company"
+            ],
+            "comment": "American Express is an American payment card company that has repeatedly forced unlawful fees on its customers [1][2][3][4], misled small business about its services [5], engaged in various anticompetetive practices [6][7] and discriminated against female employees [8] as well as spanish-speaking customers [9].",
+            "sources": {
+                "1": "https://www.cbc.ca/news/business/amex-fined-112m-for-unlawful-fees-and-sales-tactics-1.1185636",
+                "2": "https://blogs.ubc.ca/robsandall/2012/10/01/american-express-fined-112-million-for-unethical-proceedings/",
+                "3": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-orders-american-express-to-pay-59-5-million-for-illegal-credit-card-practices/",
+                "4": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-orders-american-express-to-pay-85-million-refund-to-consumers-harmed-by-illegal-credit-card-practices/",
+                "5": "https://www.electronicpaymentsinternational.com/news/american-express-fined-230m/?cf-view&cf-closed",
+                "6": "https://news.bloomberglaw.com/antitrust/american-express-accused-of-violating-antitrust-law-by-merchants",
+                "7": "https://www.law360.com/articles/336422/amex-s-50m-payout-in-currency-fee-suit-gets-judge-s-ok",
+                "8": "https://clearinghouse.net/doc/34470/",
+                "9": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-and-american-express-reach-resolution-address-discriminatory-card-terms-puerto-rico-and-us-territories/"
+            },
+            "tags": [
+                "finance"
+            ],
+            "score": 43,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/American_Express_logo_%282018%29.svg",
+            "siteUrl": "https://americanexpress.com/",
+            "updatedAt": "2025-08-21T20:17:23.254Z"
         }
     }
 }
