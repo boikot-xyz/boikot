@@ -227,7 +227,7 @@ function SearchLinks({ state }) {
         [ "📈 search violation tracker", makeViolationTrackerSearchURL(state.names[0]) ],
         [ "📉 search violation tracker uk", makeViolationTrackerUKSearchURL(state.names[0]) ],
         [ "🌍 search violation tracker global", makeViolationTrackerGlobalSearchURL(state.names[0]) ],
-        [ "🦋 search bluesky", makeViolationTrackerGlobalSearchURL(state.names[0]) ],
+        [ "🦋 search bluesky", makeBlueskySearchURL(state.names[0]) ],
         [ "✅ search ethical.org", makeEthicaldotorgSearchURL(state.names[0]) ],
     ];
 
