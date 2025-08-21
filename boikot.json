@@ -7260,6 +7260,28 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/American_Express_logo_%282018%29.svg",
             "siteUrl": "https://americanexpress.com/",
             "updatedAt": "2025-08-21T20:17:23.254Z"
+        },
+        "anthropic": {
+            "names": [
+                "Anthropic",
+                "Anthropic PBC"
+            ],
+            "comment": "Anthropic is an American artificial intelligence company that illegally used stolen books [1][4], songs [2], and information scraped from the internet [3] to train its systems.",
+            "sources": {
+                "1": "https://web.archive.org/web/20250725124441/https://storage.courtlistener.com/recap/gov.uscourts.cand.434709/gov.uscourts.cand.434709.231.0_3.pdf",
+                "2": "https://venturebeat.com/ai/major-music-publishers-sue-anthropic-for-copyright-infringement-over-song-lyrics/",
+                "3": "https://arstechnica.com/tech-policy/2025/06/reddit-sues-anthropic-over-ai-scraping-that-retained-users-deleted-posts/",
+                "4": "https://www.theguardian.com/technology/article/2024/aug/20/anthropic-ai-lawsuit-author"
+            },
+            "tags": [
+                "tech",
+                "ai"
+            ],
+            "score": 46,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.svg",
+            "siteUrl": "https://www.anthropic.com/",
+            "updatedAt": "2025-08-21T20:31:25.258Z"
         }
     }
 }
