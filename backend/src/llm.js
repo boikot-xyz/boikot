@@ -184,6 +184,43 @@ export async function askGPTOSS( prompt, body ) {
 }
 
 
+export async function askLocalGPTOSS( prompt, body ) {
+    const responseJSON = await ( await fetch(
+        "http://localhost:11434/v1/chat/completions",
+        {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+            },
+            body: JSON.stringify({
+                "messages": [
+                    {
+                        "role": "system",
+                        "content": (
+                            "You are an investigative journalist looking into the ethical track record of various companies. " +
+                            "You rigourously gather articles about unethical actions by companies and publish information " +
+                            "on them online in a format easily understood by the public."
+                        ),
+                    },
+                    {
+                        "role": "user",
+                        "content": prompt
+                    },
+                ],
+                "model": "gpt-oss:latest",
+                "temperature": 0.6,
+                "max_tokens": 8192,
+                "top_p": 1,
+                "stream": false,
+                "stop": null,
+                ...body,
+            }),
+        },
+    ) ).json();
+    return responseJSON.choices[0].message.content;
+}
+
+
 export async function embed( prompt, body={} ) {
     const options = {
         method: 'POST',

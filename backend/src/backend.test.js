@@ -506,7 +506,7 @@ llmOptions.forEach( llmFunc =>
     it("says who it is", async () => {
         const response = await llmFunc("Who are you?");
         console.log(response);
-        expect(response).toMatch(/(I am)|(I'm)/);
+        expect(response).toMatch(/(I am)|(I'm)|(I’m)/);
         expect(response).toContain("investigative journalist");
     });
 
