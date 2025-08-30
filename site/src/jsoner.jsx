@@ -259,6 +259,28 @@ function SearchLinks({ state }) {
 }
 
 
+function SourceRow({ state, sourceKey, setSource, setSourceNote }) {
+    const key = sourceKey;
+
+    return <Entry
+        $valid={!!state.sources[key]}
+        style={{ display: "grid", gridTemplateColumns: "1.32rem 1fr 1fr 1rem", alignItems: "center", cursor: "grab" }}
+    >
+        <span> {key} </span>
+        <input
+            value={state.sources[key]}
+            placeholder={`Paste the link for source [${key}] here`}
+            onChange={setSource(key)} />
+        <input
+            value={state.sourceNotes[key]}
+            placeholder={`Summary of source [${key}]`}
+            onChange={setSourceNote(key)}
+            style={{ textOverflow: "ellipsis" }} />
+        <Icon i="grip" height="1rem" style={{ opacity: 0.32, justifySelf: "end", userSelect: "none" }} />
+    </Entry>;
+}
+
+
 export function Jsoner() {
     const { key } = useParams();
     const [state, setState] = React.useState(getInitialState(key));
@@ -401,19 +423,8 @@ export function Jsoner() {
         </Entry>
         { showSources && <>
             <h3> sources </h3>
-            { Object.keys(state.sources).map(key =>
-                <Entry key={key} $valid={!!state.sources[key]} style={{ display: "grid", gridTemplateColumns: "1.32rem 1fr 1fr", alignItems: "center" }}>
-                    {key}
-                    <input
-                        value={state.sources[key]}
-                        placeholder={`Paste the link for source [${key}] here`}
-                        onChange={setSource(key)} />
-                    <input
-                        value={state.sourceNotes[key]}
-                        placeholder={`Summary of source [${key}]`}
-                        onChange={setSourceNote(key)}
-                        style={{ textOverflow: "ellipsis" }} />
-                </Entry>
+            { Object.keys(state.sources).map((key, index) =>
+                <SourceRow key={key} sourceKey={key} state={state} setSource={setSource} setSourceNote={setSourceNote} />
             )}
         </>}
         <FlexRow style={{ justifyContent: "right" }}>
