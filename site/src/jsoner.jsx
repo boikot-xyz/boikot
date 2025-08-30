@@ -75,26 +75,36 @@ const sortSources = setState => () => setState( state => {
     return { ...state, comment: newComment, sources: newSources };
 });
 
-function generatePrompt( info, name ) {
-    const preamble =
-        "* Here are some summaries of the ethical and unethical " +
-        "practices of different companies:\n\n";
-    const comments =
-        Object.values(boikot.companies)
-            .filter( entry => !!entry.comment )
-            .slice(0, 3)
-            .map( entry => entry.comment );
-    const nameOrThisCompany = name || "this company";
-    const request =
-        "\n\n* Please create a summary like those above for " +
-        nameOrThisCompany +
-        " based on the information below. Please make sure you only " +
-        "write two sentences.\n\n";
-    const ending =
-        "\n\n* Please respond with your two-sentence summary of the " +
-        `ethical and unethical practices of ${nameOrThisCompany}.`;
+function generatePrompt( state ) {
 
-    return preamble + comments.join("\n\n") + request + info + ending;
+    const companyName = state.names[0];
+    const sourceInfo = Object.entries(state.sourceNotes).map( ([ key, note ]) =>
+        `Source [${key}]: ${note}`
+    ).join("\n");
+
+    return `
+You are an investigative journalist looking into the ethical track record of ${companyName}. You have collected some information about the company and now your task is to compile the information into a two-sentence company ethics report that can be published online.
+
+Here are some examples of two-sentence company ethics reports you have written in the past:
+
+- ${boikot.companies.apple.comment}
+
+- ${boikot.companies.bbc.comment}
+
+Below is the information you have collected about ${companyName} from various sources.
+
+${sourceInfo}
+
+Please summarise this information into a two-sentence summary of the ethics of ${companyName}, like the examples above.
+- Begin with "${companyName} is a "
+- Only use the information above in your summary.
+- Make sure you include information from all the sources.
+- After you include information from a given source, include its citation number eg. [1], [2] or [3].
+- Our citation engine is not that smart, so if you want to add 2 citiations together, do it like this: [4][5], not like this: [4, 5].
+- Keep your summary succinct like the examples.
+- Don't include positive statements about the company that aren't related to specifically ethical actions.
+- Respond with your two-sentence ethics summary only and no other text.
+    `;
 }
 
 const getRefKey = ref =>
@@ -400,10 +410,10 @@ export function Jsoner() {
                 onPaste={handlePaste(setState)} />
         </Entry>
         <FlexRow style={{ justifyContent: "right" }}>
-            { state.comment && <PillButton
+            { showSources && <PillButton
                 $outline
                 onClick={() => copy(
-                    generatePrompt(state.comment, state.names[0])
+                    generatePrompt(state)
                 )}>
                 copy summarise prompt 📋
             </PillButton> }
