@@ -431,16 +431,17 @@ export function Jsoner() {
         { showSources && <>
             <h3> sources </h3>
             { Object.keys(state.sources).map(key =>
-                <Entry key={key} $valid={!!state.sources[key]} style={{ display: "grid", gridTemplateColumns: "1.32rem 1fr max-content", alignItems: "center" }}>
+                <Entry key={key} $valid={!!state.sources[key]} style={{ display: "grid", gridTemplateColumns: "1.32rem 1fr 1fr", alignItems: "center" }}>
                     {key}
                     <input
                         value={state.sources[key]}
                         placeholder={`Paste the link for source [${key}] here`}
                         onChange={setSource(key)} />
-                    <ResizingInput
+                    <input
                         value={state.sourceNotes[key]}
-                        placeholder="Note"
-                        onChange={setSourceNote(key)} />
+                        placeholder={`Summary of source [${key}]`}
+                        onChange={setSourceNote(key)}
+                        style={{ textOverflow: "ellipsis" }} />
                 </Entry>
             )}
         </>}
