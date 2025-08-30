@@ -399,16 +399,23 @@ export function Jsoner() {
                 placeholder="URL of the company's logo"
                 onChange={setStateField("logoUrl")} />
         </Entry>
-        <Entry $valid={!!state.comment}>
-            comment
-            <textarea
-                style={{ height: "15rem" }}
-                placeholder="Enter a short summary of this company's most and least ethical actions. References can be placed by numbers in square brackets eg. [1], [2]"
-                value={state.comment}
-                ref={textareaRef}
-                onChange={setComment}
-                onPaste={handlePaste(setState)} />
-        </Entry>
+        { showSources && <>
+            <h3> sources </h3>
+            { Object.keys(state.sources).map(key =>
+                <Entry key={key} $valid={!!state.sources[key]} style={{ display: "grid", gridTemplateColumns: "1.32rem 1fr 1fr", alignItems: "center" }}>
+                    {key}
+                    <input
+                        value={state.sources[key]}
+                        placeholder={`Paste the link for source [${key}] here`}
+                        onChange={setSource(key)} />
+                    <input
+                        value={state.sourceNotes[key]}
+                        placeholder={`Summary of source [${key}]`}
+                        onChange={setSourceNote(key)}
+                        style={{ textOverflow: "ellipsis" }} />
+                </Entry>
+            )}
+        </>}
         <FlexRow style={{ justifyContent: "right" }}>
             { showSources && <PillButton
                 $outline
@@ -428,23 +435,16 @@ export function Jsoner() {
                     sort sources 🃏
                 </PillButton> }
         </FlexRow>
-        { showSources && <>
-            <h3> sources </h3>
-            { Object.keys(state.sources).map(key =>
-                <Entry key={key} $valid={!!state.sources[key]} style={{ display: "grid", gridTemplateColumns: "1.32rem 1fr 1fr", alignItems: "center" }}>
-                    {key}
-                    <input
-                        value={state.sources[key]}
-                        placeholder={`Paste the link for source [${key}] here`}
-                        onChange={setSource(key)} />
-                    <input
-                        value={state.sourceNotes[key]}
-                        placeholder={`Summary of source [${key}]`}
-                        onChange={setSourceNote(key)}
-                        style={{ textOverflow: "ellipsis" }} />
-                </Entry>
-            )}
-        </>}
+        <Entry $valid={!!state.comment}>
+            comment
+            <textarea
+                style={{ height: "15rem" }}
+                placeholder="Enter a short summary of this company's most and least ethical actions. References can be placed by numbers in square brackets eg. [1], [2]"
+                value={state.comment}
+                ref={textareaRef}
+                onChange={setComment}
+                onPaste={handlePaste(setState)} />
+        </Entry>
         <Entry $valid={parseFloat(state.score) <= 100}>
             ethical score
             <input
