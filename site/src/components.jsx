@@ -383,3 +383,15 @@ export function PillPopper({ buttonContent, children, ...props }) {
         <div class="popper-inner"> { children } </div>
     </PopperOuter>;
 }
+
+export function ResizingInput({ ...props }) {
+    return <div style={{ display: "grid", gridTemplateColumns: "min-content", ...props.style }}>
+        <span style={{ gridColumn: 1, gridRow: 1, padding: "0.6rem", fontSize: "0.9rem", whiteSpace: "pre" }}>
+            { props?.value || "" }
+        </span>
+        <span style={{ gridColumn: 1, gridRow: 1, padding: "0.6rem", fontSize: "0.9rem", whiteSpace: "pre" }}>
+            { props?.placeholder || "" }
+        </span>
+        <input {...props} style={{ gridColumn: 1, gridRow: 1, minWidth: 0, width: "100%" }} />
+    </div>;
+}

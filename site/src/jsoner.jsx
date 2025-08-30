@@ -7,13 +7,14 @@ import "whatwg-fetch";
 import { Helmet } from "react-helmet";
 
 import boikot from '../../boikot.json';
-import { CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack, Row } from "./components.jsx";
+import { CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack, Row, ResizingInput } from "./components.jsx";
 import { Company } from "./companies.jsx";
 
 const initialState = {
     names: [],
     comment: "",
     sources: {},
+    sourceNotes: {},
     tags: [],
     score: "",
     ownedBy: [],
@@ -286,6 +287,15 @@ export function Jsoner() {
             },
         }) );
 
+    const setSourceNote = key => e =>
+        setState( oldState => ({
+            ...oldState,
+            sourceNotes: {
+                ...oldState.sourceNotes,
+                [key]: e.target.value,
+            },
+        }) );
+
     const setStateField = fieldName => e =>
         setState( oldState => ({
             ...oldState,
@@ -411,12 +421,16 @@ export function Jsoner() {
         { showSources && <>
             <h3> sources </h3>
             { Object.keys(state.sources).map(key =>
-                <Entry key={key} $valid={!!state.sources[key]} style={{ display: "grid", gridTemplateColumns: "1.32rem 1fr", alignItems: "center" }}>
+                <Entry key={key} $valid={!!state.sources[key]} style={{ display: "grid", gridTemplateColumns: "1.32rem 1fr max-content", alignItems: "center" }}>
                     {key}
                     <input
                         value={state.sources[key]}
                         placeholder={`Paste the link for source [${key}] here`}
                         onChange={setSource(key)} />
+                    <ResizingInput
+                        value={state.sourceNotes[key]}
+                        placeholder="Note"
+                        onChange={setSourceNote(key)} />
                 </Entry>
             )}
         </>}
