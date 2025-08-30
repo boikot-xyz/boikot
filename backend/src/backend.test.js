@@ -261,7 +261,7 @@ const targetInvestigationResults = [
         companyName: "Amazon",
         searchResults: amazonSearchResults,
         relevantResultNumbers: [
-            2, 5, 6, 7, 9, 13, 14, 16, 19, 22, 32, 38, 39, 42, 43, 44, 48, 49, 50
+            2, 5, 6, 7, 9, 13, 14, 16, 19, 22, 32, 38, 39, 40, 42, 43, 44, 48, 49, 50
         ],
         requiredResultNumbers: [2, 7, 38],
     },
