@@ -259,24 +259,38 @@ function SearchLinks({ state }) {
 }
 
 
-function SourceRow({ state, sourceKey, setSource, setSourceNote }) {
+function SourceRow({ state, sourceKey, setSource, setSourceNote, setDragging, reorderSources }) {
+    const [draggable, setDraggable] = React.useState(false);
     const key = sourceKey;
 
     return <Entry
         $valid={!!state.sources[key]}
         style={{ display: "grid", gridTemplateColumns: "1.32rem 1fr 1fr 1rem", alignItems: "center", cursor: "grab" }}
+        onDragEnter={e => e.preventDefault() + reorderSources(sourceKey)}
+        onDragOver={e => e.preventDefault()}
+        onDrop={e => e.preventDefault() + setDragging(null) + setDraggable(false)}
+        onDragStart={e => setDragging(sourceKey)}
+        onDragEnd={e => e.preventDefault() + setDragging(null) + setDraggable(false)}
+        draggable={!!draggable}
     >
         <span> {key} </span>
         <input
             value={state.sources[key]}
             placeholder={`Paste the link for source [${key}] here`}
-            onChange={setSource(key)} />
+            onChange={setSource(key)}
+            onDrop={e => e.preventDefault()} />
         <input
             value={state.sourceNotes[key]}
             placeholder={`Summary of source [${key}]`}
+            style={{ textOverflow: "ellipsis" }}
             onChange={setSourceNote(key)}
-            style={{ textOverflow: "ellipsis" }} />
-        <Icon i="grip" height="1rem" style={{ opacity: 0.32, justifySelf: "end", userSelect: "none" }} />
+            onDrop={e => e.preventDefault()} />
+        <Icon i="grip"
+            style={{ opacity: 0.32, justifySelf: "end", userSelect: "none", padding: "0.8rem 0 0.6rem 0.5rem", height: "100%" }}
+            onPointerDown={setDraggable}
+            onPointerUp={e => setDraggable(false)}
+            draggable="false"
+        />
     </Entry>;
 }
 
@@ -286,6 +300,7 @@ export function Jsoner() {
     const [state, setState] = React.useState(getInitialState(key));
     const textareaRef = React.useRef(null);
     const showSources = !!Object.keys(state.sources).length;
+    const [dragging, setDragging] = React.useState(null);
 
     const setComment = e =>
         setState( oldState => (
@@ -353,6 +368,42 @@ export function Jsoner() {
         } catch(error) {
             alert("Could not parse JSON 😩");
         }
+    };
+
+    const swapSources = (source, target) => {
+        if( source === target) return;
+
+        [ state.sources[source], state.sources[target] ] =
+            [ state.sources[target] || "", state.sources[source] || "" ];
+
+        [ state.sourceNotes[source], state.sourceNotes[target] ] =
+            [ state.sourceNotes[target] || "", state.sourceNotes[source] || "" ];
+
+        state.comment = state.comment
+            .replaceAll(`[${target}]`, `[%${source}]`)
+            .replaceAll(`[${source}]`, `[${target}]`)
+            .replaceAll(`[%${source}]`, `[${source}]`);
+
+        setState( oldState => ({
+            ...oldState,
+            comment: state.comment,
+            sources: state.sources,
+            sourceNotes: state.sourceNotes,
+        }) );
+    };
+
+    const reorderSources = target => {
+
+        let d = dragging;
+        while( +target > +d ) {
+            swapSources(d, +d+1);
+            d = +d+1;
+        }
+        while( +target < +d ) {
+            swapSources(d, +d-1);
+            d = +d-1;
+        }
+        setDragging(target);
     };
 
     const actionButtons = 
@@ -424,7 +475,7 @@ export function Jsoner() {
         { showSources && <>
             <h3> sources </h3>
             { Object.keys(state.sources).map((key, index) =>
-                <SourceRow key={key} sourceKey={key} state={state} setSource={setSource} setSourceNote={setSourceNote} />
+                <SourceRow key={key} sourceKey={key} state={state} setSource={setSource} setSourceNote={setSourceNote} setDragging={setDragging} reorderSources={reorderSources} />
             )}
         </>}
         <FlexRow style={{ justifyContent: "right" }}>
