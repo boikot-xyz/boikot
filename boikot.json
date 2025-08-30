@@ -7369,6 +7369,49 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/MissSelfridge.svg",
             "siteUrl": "https://www.asos.com/miss-selfridge/",
             "updatedAt": "2025-08-21T21:01:33.825Z"
+        },
+        "astrazeneca": {
+            "names": [
+                "AstraZeneca",
+                "Astra",
+                "Zeneca",
+                "AstraZeneca plc",
+                "AZ",
+                "AZN",
+                "Astra AB",
+                "Zenenca Group"
+            ],
+            "comment": "AstraZeneca is a pharmaceutical company that has remained active in Russia during international sanctions [1], ran a negligently managed antipsychotic trial resulting in a patient's death [2], and falsely marketed drugs with serious side effects as safe, including a cholesterol medication [3] and a cancer drug linked to multiple deaths [4]. The company has faced major legal actions for illegally marketing the unsafe antipsychotic drug Seroquel to vulnerable populations [5], filing false claims with U.S. government health programs [6], misrepresenting study results for a heart drug [7], bribing doctors in China and Russia [8], and engaging in price fixing and anti-competitive drug pricing schemes [9].",
+            "sources": {
+                "1": "https://www.independent.co.uk/news/business/astrazeneca-doubled-exports-from-sweden-to-russia-after-start-of-war-report-b2295772.html",
+                "2": "https://www.motherjones.com/environment/2010/09/dan-markingson-drug-trial-astrazeneca/",
+                "3": "https://www.drug-injury.com/druginjurycom/2005/05/side_effects_oc.html",
+                "4": "https://www.nytimes.com/2002/10/16/business/astrazeneca-alters-cancer-drug-label.html",
+                "5": "https://abcnews.go.com/Politics/Health/astrazeneca-pay-520-million-illegally-marketing-seroquel-schizophrenia/story?id=10488647",
+                "6": "https://www.justice.gov/archive/opa/pr/2003/June/03_civ_371.htm",
+                "7": "https://bmjgroup.com/bmj-finds-inaccuracies-in-key-studies-for-astrazenecas-blockbuster-heart-drug-ticagrelor/",
+                "8": "https://www.statnews.com/pharmalot/2016/08/31/astrazeneca-bribes-china-russia/",
+                "9": "https://www.law360.com/articles/176078/astrazeneca-to-pay-103m-to-settle-awp-claims"
+            },
+            "sourceNotes": {
+                "1": "still active in russia",
+                "2": "Dan Markingson died in a negligently run antipsychotic trial",
+                "3": "Marketed anticholesterol drug with serious side effects as safe",
+                "4": "continued to sell cancer drug that caused multiple deaths",
+                "5": "Fined $520 million for illegally marketed the anti-psychotic drug Seroquel to children and elderly patients",
+                "6": "company caused false and fraudulent claims to be filed with the Medicare, TriCare, Department of Defense and Railroad Retirement Board Medicare programs as a result of AstraZeneca’s fraudulent drug pricing schemes and sales and marketing misconduct",
+                "7": "Lied about results of study of new heart drug",
+                "8": "AstraZeneca to pay $5.5 million for bribing doctors in China and Russia",
+                "9": "price fixing and anti competetive inflation of drug prices"
+            },
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": 24,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4f/AstraZeneca.svg",
+            "siteUrl": "https://astrazeneca.com/",
+            "updatedAt": "2025-08-30T14:45:56.267Z"
         }
     }
 }
