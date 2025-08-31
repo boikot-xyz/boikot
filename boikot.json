@@ -7412,6 +7412,33 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4f/AstraZeneca.svg",
             "siteUrl": "https://astrazeneca.com/",
             "updatedAt": "2025-08-30T14:45:56.267Z"
+        },
+        "asus": {
+            "names": [
+                "ASUS",
+                "Asus",
+                "ASUSTeK",
+                "ASUSTeK Computer Inc.",
+                "Huáshuò",
+                "華碩",
+                "華碩電腦股份有限公司"
+            ],
+            "comment": "ASUS is a Taiwanese electronics company known for manufacturing computers and hardware components. It has been criticized for non-consumer-friendly repair and warranty practices [1].",
+            "sources": {
+                "1": "https://www.pcmag.com/news/asus-apologizes-for-heavily-criticized-warranty-and-return-service"
+            },
+            "sourceNotes": {
+                "1": "non consumer friendly repair and warranty practices"
+            },
+            "tags": [
+                "electronics",
+                "tech"
+            ],
+            "score": 50,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/ASUS_Logo.svg",
+            "siteUrl": "https://www.asus.com/",
+            "updatedAt": "2025-08-30T23:55:31.755Z"
         }
     }
 }
