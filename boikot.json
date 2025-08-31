@@ -7649,6 +7649,36 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/9d/Green_Flag_logo.png",
             "siteUrl": "https://greenflag.com/",
             "updatedAt": "2025-08-31T10:13:43.364Z"
+        },
+        "axa": {
+            "names": [
+                "AXA",
+                "Axa S.A.",
+                "CS"
+            ],
+            "comment": "AXA is a global insurance company that has underpaid workers [1], invested in companies linked to illegal deforestation [2], and financially supported fracking for shale gas in the US [3]. AXA has insured and paid out for illegal animal hunting [4], and invested in Israeli banks and arms manufacturers [5].",
+            "sources": {
+                "1": "https://www.law360.com/articles/793681/ny-judge-greenlights-2-3m-axa-advisors-wage-deal",
+                "2": "https://www.business-humanrights.org/en/latest-news/brazil-sherpa-calls-for-bnp-paribas-cr%C3%A9dit-agricole-bpce-and-axa-to-be-investigated-in-france-for-buying-bonds-of-companies-linked-to-illegal-deforestation/",
+                "3": "https://disclose.ngo/en/article/despite-their-climate-commitments-insurers-axa-and-scor-support-u-s-shale-gas",
+                "4": "https://www.ethicalconsumer.org/money-finance/axa-must-axe-hunts",
+                "5": "https://bdsmovement.net/axa-divest"
+            },
+            "sourceNotes": {
+                "1": "underpaid workers",
+                "2": "bought bonds of companies linked to illegal deforestation",
+                "3": "financially supports fracking for shale gas in the US",
+                "4": "insures illegal animal hunting",
+                "5": "invests in israeli banks and arms manufacturers"
+            },
+            "tags": [
+                "insurance"
+            ],
+            "score": 33,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/AXA_Logo.svg",
+            "siteUrl": "https://www.axa.com/",
+            "updatedAt": "2025-08-31T17:31:34.842Z"
         }
     }
 }
