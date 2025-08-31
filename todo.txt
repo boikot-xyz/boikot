@@ -6,40 +6,6 @@ jq ".companies | map(.tags)" ../boikot.json | grep '"' | grep -oE "(\w| )+" | so
 ```
 
 
-absolut
-acer
-activision blizzard
-advil/nurofen
-air france-klm
-air wick
-airbnb
-albertsons
-aldi nord
-alessi
-allianz
-always
-amazon prime video
-amd
-american airlines
-american eagle
-american express
-anthropic
-applebee's
-aquafresh
-argos
-armani
-asos
-aston martin
-astrazeneca
-asus
-asus/lenovo/hp
-at&t
-audible
-auntie anne's
-aveda
-aveeno
-aviva
-axa
 b&q
 babolat
 bacardi
