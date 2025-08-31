@@ -13,8 +13,12 @@ import { Company } from "./companies.jsx";
 const initialState = {
     names: [],
     comment: "",
-    sources: {},
-    sourceNotes: {},
+    sources: {
+        "1": "",
+    },
+    sourceNotes: {
+        "1": "",
+    },
     tags: [],
     score: "",
     ownedBy: [],
@@ -259,7 +263,7 @@ function SearchLinks({ state }) {
 }
 
 
-function SourceRow({ state, sourceKey, setSource, setSourceNote, setDragging, reorderSources }) {
+function SourceRow({ state, sourceKey, setSource, setSourceNote, setDragging, reorderSources, onChange }) {
     const [draggable, setDraggable] = React.useState(false);
     const key = sourceKey;
 
@@ -277,7 +281,7 @@ function SourceRow({ state, sourceKey, setSource, setSourceNote, setDragging, re
         <input
             value={state.sources[key]}
             placeholder={`Paste the link for source [${key}] here`}
-            onChange={setSource(key)}
+            onChange={e => setSource(key)(e) + onChange?.()}
             onDrop={e => e.preventDefault()} />
         <input
             value={state.sourceNotes[key]}
@@ -474,8 +478,11 @@ export function Jsoner() {
         </Entry>
         { showSources && <>
             <h3> sources </h3>
-            { Object.keys(state.sources).map((key, index) =>
-                <SourceRow key={key} sourceKey={key} state={state} setSource={setSource} setSourceNote={setSourceNote} setDragging={setDragging} reorderSources={reorderSources} />
+            { Object.keys(state.sources).map(key =>
+                <SourceRow
+                    key={key} sourceKey={key} state={state}
+                    setSource={setSource} setSourceNote={setSourceNote} setDragging={setDragging}
+                    reorderSources={reorderSources} onChange={(key == Object.keys(state.sources).length) ? addSource : null} />
             )}
         </>}
         <FlexRow style={{ justifyContent: "right" }}>
