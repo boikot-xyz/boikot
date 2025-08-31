@@ -7505,6 +7505,38 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/HP_logo_2025.svg",
             "siteUrl": "https://www.hp.com/",
             "updatedAt": "2025-08-31T09:29:05.085Z"
+        },
+        "aviva": {
+            "names": [
+                "Aviva",
+                "Aviva plc",
+                "Commercial Union plc",
+                "CGU plc",
+                "CGNU plc",
+                "Norwich Union",
+                "AVIVA",
+                "AV.",
+                "Hand in Hand Fire & Life Insurance Society"
+            ],
+            "comment": "Aviva is a British insurance and asset management company that has unfairly raised rents for residents in its buildings [1], refused to address safety issues its properties in order to maximise shareholder returns [2], and is also connected to investments in and insurance for Israeli arms manufacturers [3].",
+            "sources": {
+                "1": "https://thenegotiator.co.uk/news/leasehold-scandal-persimmon-aviva-cma/",
+                "2": "https://endourcladdingscandal.org/wp-content/uploads/2023/07/Our-meeting-with-Aviva-Investors-and-Aviva-Insurance.pdf",
+                "3": "https://www.thecanary.co/uk/news/2025/03/11/aviva-palestine-action-protest/"
+            },
+            "sourceNotes": {
+                "1": "unfairly raised rents to residents in its buildings",
+                "2": "refuses to fix safety issues in its buildings to increase shareholder returns",
+                "3": "connected to investments in and insurance for isaeli arms manufacturers"
+            },
+            "tags": [
+                "insurance"
+            ],
+            "score": 37,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Aviva_Logo.svg",
+            "siteUrl": "https://aviva.com/",
+            "updatedAt": "2025-08-31T10:13:43.364Z"
         }
     }
 }
