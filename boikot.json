@@ -7466,6 +7466,43 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Lenovo_%282015%29.svg",
             "siteUrl": "https://www.lenovo.com/",
             "updatedAt": "2025-08-31T09:15:51.557Z"
+        },
+        "hp": {
+            "names": [
+                "HP",
+                "Hewlett-Packard",
+                "The Hewlett-Packard Company",
+                "HP Inc.",
+                "HPQ"
+            ],
+            "comment": "HP is a multinational technology company that has engaged in anticompetitive and anticonsumer practices [1][2][3] and has been linked to abusive labour conditions in its supply chain, including the use of forced Uyghur labour [4][5]. HP also provides services to the Israel Police and Population and Immigration Authority [6] and has received over $368 million in U.S. military contracts [7].",
+            "sources": {
+                "1": "https://www.saverilawfirm.com/our-cases/hp/",
+                "2": "https://web.archive.org/web/20230525063023/https://www.lexgroup.ca/classaction/hp-officejet-printers-dynamic-security-non-hp-ink-cartridges-canadian-class-action-settlement/",
+                "3": "https://web.archive.org/web/20230625064707/https://www.euroconsumers.org/activities/hp-and-euroconsumers-reach-a-settlement-on-dynamic-security-dispute",
+                "4": "https://chinalaborwatch.org/labor-conditions-in-chinas-consumer-electronics-sector/",
+                "5": "https://www.aspi.org.au/report/uyghurs-sale/",
+                "6": "https://bdsmovement.net/BoycottHP-GazaGenocide-Update",
+                "7": "https://www.washingtontechnology.com/rankings/company/195/top-100/2024/"
+            },
+            "sourceNotes": {
+                "1": "anticompetetive and anticonsumer practices",
+                "2": "anticompetetive and anticonsumer practices",
+                "3": "anticompetetive and anticonsumer practices",
+                "4": "abusive labour conditions in factories in supply chain",
+                "5": "forced Uyghur labour in supply chain",
+                "6": "provides services to Israel Police and Population and Immigration Authority",
+                "7": "over $368 million in US military contracts"
+            },
+            "tags": [
+                "electronics",
+                "tech"
+            ],
+            "score": 37,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/HP_logo_2025.svg",
+            "siteUrl": "https://www.hp.com/",
+            "updatedAt": "2025-08-31T09:29:05.085Z"
         }
     }
 }
