@@ -7423,12 +7423,14 @@
                 "華碩",
                 "華碩電腦股份有限公司"
             ],
-            "comment": "ASUS is a Taiwanese electronics company known for manufacturing computers and hardware components. It has been criticized for non-consumer-friendly repair and warranty practices [1].",
+            "comment": "ASUS is a Taiwanese electronics company known for manufacturing computers and hardware components. It has been criticized for non-consumer-friendly repair and warranty practices [1], while its supply chain has been found to benefit from forced Uyghur labour [2].",
             "sources": {
-                "1": "https://www.pcmag.com/news/asus-apologizes-for-heavily-criticized-warranty-and-return-service"
+                "1": "https://www.pcmag.com/news/asus-apologizes-for-heavily-criticized-warranty-and-return-service",
+                "2": "https://www.aspi.org.au/report/uyghurs-sale/"
             },
             "sourceNotes": {
-                "1": "non consumer friendly repair and warranty practices"
+                "1": "non consumer friendly repair and warranty practices",
+                "2": "forced Uyghur labour in supply chain"
             },
             "tags": [
                 "electronics",
