@@ -7537,6 +7537,118 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Aviva_Logo.svg",
             "siteUrl": "https://aviva.com/",
             "updatedAt": "2025-08-31T10:13:43.364Z"
+        },
+        "direct-line": {
+            "names": [
+                "Direct Line",
+                "Direct Line Group"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unfairly raised rents to residents in its buildings",
+                "2": "refuses to fix safety issues in its buildings to increase shareholder returns",
+                "3": "connected to investments in and insurance for isaeli arms manufacturers"
+            },
+            "tags": [
+                "insurance"
+            ],
+            "score": 37,
+            "ownedBy": [
+                "aviva"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3f/Direct_Line_logo.png",
+            "siteUrl": "https://www.directline.com/",
+            "updatedAt": "2025-08-31T10:13:43.364Z"
+        },
+        "churchill": {
+            "names": [
+                "Churchill",
+                "Churchill Insurance"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unfairly raised rents to residents in its buildings",
+                "2": "refuses to fix safety issues in its buildings to increase shareholder returns",
+                "3": "connected to investments in and insurance for isaeli arms manufacturers"
+            },
+            "tags": [
+                "insurance"
+            ],
+            "score": 37,
+            "ownedBy": [
+                "aviva"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/09/Churchill_Insurance_logo.png",
+            "siteUrl": "https://churchill.com/",
+            "updatedAt": "2025-08-31T10:13:43.364Z"
+        },
+        "privilege": {
+            "names": [
+                "Privilege"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unfairly raised rents to residents in its buildings",
+                "2": "refuses to fix safety issues in its buildings to increase shareholder returns",
+                "3": "connected to investments in and insurance for isaeli arms manufacturers"
+            },
+            "tags": [
+                "insurance"
+            ],
+            "score": 37,
+            "ownedBy": [
+                "aviva"
+            ],
+            "logoUrl": "https://www.directlinegroup.co.uk/content/dlg/corporate/en/brands/_jcr_content/brands-grids/pageteaser_2089173228/image.img.jpg/1656501188720.jpg",
+            "siteUrl": "http://www.privilege.com/",
+            "updatedAt": "2025-08-31T10:13:43.364Z"
+        },
+        "by-miles": {
+            "names": [
+                "By Miles"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unfairly raised rents to residents in its buildings",
+                "2": "refuses to fix safety issues in its buildings to increase shareholder returns",
+                "3": "connected to investments in and insurance for isaeli arms manufacturers"
+            },
+            "tags": [
+                "insurance"
+            ],
+            "score": 37,
+            "ownedBy": [
+                "aviva"
+            ],
+            "logoUrl": "https://www.bymiles.co.uk/static/assets/bymiles-logo-white.svg",
+            "siteUrl": "https://www.bymiles.co.uk/",
+            "updatedAt": "2025-08-31T10:13:43.364Z"
+        },
+        "green-flag": {
+            "names": [
+                "Green Flag"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unfairly raised rents to residents in its buildings",
+                "2": "refuses to fix safety issues in its buildings to increase shareholder returns",
+                "3": "connected to investments in and insurance for isaeli arms manufacturers"
+            },
+            "tags": [
+                "insurance"
+            ],
+            "score": 37,
+            "ownedBy": [
+                "aviva"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/9d/Green_Flag_logo.png",
+            "siteUrl": "https://greenflag.com/",
+            "updatedAt": "2025-08-31T10:13:43.364Z"
         }
     }
 }
