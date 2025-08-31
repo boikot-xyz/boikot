@@ -35,6 +35,8 @@ const getInitialState = key => {
 function tojson(state) {
     const result = {
         ...state,
+        sources: Object.fromEntries(Object.entries(state.sources).filter(([k, v]) => v)),
+        sourceNotes: Object.fromEntries(Object.entries(state.sourceNotes).filter(([k, v]) => v)),
         ownedBy: state.ownedBy || null,
         score: parseFloat(state.score),
     };
