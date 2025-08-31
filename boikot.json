@@ -7439,6 +7439,33 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/ASUS_Logo.svg",
             "siteUrl": "https://www.asus.com/",
             "updatedAt": "2025-08-30T23:55:31.755Z"
+        },
+        "lenovo": {
+            "names": [
+                "Lenovo",
+                "Lenovo Group Limited",
+                "联想"
+            ],
+            "comment": "Lenovo is a Chinese technology company that came under scrutiny for preinstalling software on its devices that compromised user privacy [1][2], as well as  firing an employee returning from Family and Medical Leave [3].",
+            "sources": {
+                "1": "https://www.ftc.gov/news-events/news/press-releases/2017/09/lenovo-settles-ftc-charges-it-harmed-consumers-preinstalled-software-its-laptops-compromised-online",
+                "2": "https://theconversation.com/lenovos-security-debacle-reveals-blurred-boundary-between-adware-and-malware-37945",
+                "3": "https://www.dol.gov/newsroom/releases/whd/whd20201120-0"
+            },
+            "sourceNotes": {
+                "1": "Preinstalled software that compromised user privacy",
+                "2": "Preinstalled software that compromised user privacy",
+                "3": "fired an employee returning from Family/Medical Leave"
+            },
+            "tags": [
+                "electronics",
+                "tech"
+            ],
+            "score": 44,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Lenovo_%282015%29.svg",
+            "siteUrl": "https://www.lenovo.com/",
+            "updatedAt": "2025-08-31T09:15:51.557Z"
         }
     }
 }
