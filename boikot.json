@@ -7773,6 +7773,28 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5a/Kingfisher_plc.svg",
             "siteUrl": "https://kingfisher.com/",
             "updatedAt": "2025-09-01T14:56:50.189Z"
+        },
+        "babolat": {
+            "names": [
+                "Babolat"
+            ],
+            "comment": "Babolat is a sportswear company that has been falsely advertised its products [1].",
+            "sources": {
+                "1": "https://www.law360.com/articles/640516/racket-maker-gets-final-nod-for-4-5m-false-ad-pact-"
+            },
+            "sourceNotes": {
+                "1": "false advertising"
+            },
+            "tags": [
+                "retail",
+                "clothing",
+                "sports"
+            ],
+            "score": 48,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Babolat_logo.svg",
+            "siteUrl": "https://www.babolat.com/",
+            "updatedAt": "2025-09-01T15:26:23.947Z"
         }
     }
 }
