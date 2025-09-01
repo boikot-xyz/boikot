@@ -7679,6 +7679,100 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/AXA_Logo.svg",
             "siteUrl": "https://www.axa.com/",
             "updatedAt": "2025-08-31T17:31:34.842Z"
+        },
+        "bandq": {
+            "names": [
+                "B&Q",
+                "B&Q Limited",
+                "Block & Quayle",
+                "B & Q",
+                "B & Q (Retail) Limited",
+                "B & Q plc",
+                "B&Q plc"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "kingfisher"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/B%26Q_company_logo.svg",
+            "siteUrl": "https://diy.com/",
+            "updatedAt": "2025-09-01T14:56:50.189Z"
+        },
+        "screwfix": {
+            "names": [
+                "Screwfix"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "kingfisher"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/fe/Screwfix_Logo.png",
+            "siteUrl": "https://screwfix.com/",
+            "updatedAt": "2025-09-01T14:56:50.189Z"
+        },
+        "blue-bottle-coffee": {
+            "names": [
+                "Blue Bottle Coffee",
+                "Blue Bottle Coffee, Inc."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "coffee"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/06/Blue_Bottle_Coffee_logo.svg",
+            "siteUrl": "https://bluebottlecoffee.com/",
+            "updatedAt": "2025-09-01T15:02:42.928Z"
+        },
+        "kingfisher": {
+            "names": [
+                "Kingfisher",
+                "Kingfisher plc",
+                "Paternoster Stones Public Limited Company",
+                "Woolworth Holdings plc"
+            ],
+            "comment": "Kingfisher is a British retailer whose website has featured sexist and racist marketing content [1][2] and has been accused of harassing customers in stores [3]. Kingfisher has cut employee benefits in response to a  rise in minimum wage [4], reduced employees' break times [5], and failed to pay minimum wage [6].",
+            "sources": {
+                "1": "https://www.independent.co.uk/news/uk/home-news/b-q-sexist-advertisement-shelf-cabinet-b2759037.html",
+                "2": "https://www.thesun.co.uk/news/23457747/bampq-forced-to-apologise-shocking-book/",
+                "3": "https://iaingould.co.uk/case-reports/woman-wrongfully-detained-in-bq-agrees-out-of-court-settlement/",
+                "4": "https://www.retailgazette.co.uk/blog/2016/05/man-behind-b-and-q-petition-callls-for-others-to-follow-example/",
+                "5": "https://www.retail-week.com/home-and-diy/exclusive-bandq-faces-staff-backlash-over-contract-changes/7045162.article",
+                "6": "https://www.gov.uk/government/news/over-500-companies-named-for-not-paying-minimum-wage"
+            },
+            "sourceNotes": {
+                "1": "sexist marketing on website",
+                "2": "racist marketing on website",
+                "3": "harassed customer in store",
+                "4": "cut employee benefits in response to rise in minimum wage",
+                "5": "cut employees' breaks in response to rise in minimum wage",
+                "6": "failed to pay minimum wage"
+            },
+            "tags": [
+                "retail"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5a/Kingfisher_plc.svg",
+            "siteUrl": "https://kingfisher.com/",
+            "updatedAt": "2025-09-01T14:56:50.189Z"
         }
     }
 }
