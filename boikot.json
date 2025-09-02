@@ -7795,6 +7795,357 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Babolat_logo.svg",
             "siteUrl": "https://www.babolat.com/",
             "updatedAt": "2025-09-01T15:26:23.947Z"
+        },
+        "bisto": {
+            "names": [
+                "Bisto"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food and beverages"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "premier-foods"
+            ],
+            "logoUrl": "",
+            "siteUrl": "https://www.bisto.co.uk/",
+            "updatedAt": "2025-09-01T15:26:23.947Z"
+        },
+        "premier-foods": {
+            "names": [
+                "Premier Foods",
+                "Premier Foods plc",
+                "PFD"
+            ],
+            "comment": "Premier Foods is a British food manufacturer that has faced accusations of unsafe working conditions [1], anticompetitive supplier practices [2][3], and price fixing [4]. It has also reversed its promise to use free‑range eggs to cut costs [5] and sold food containing carcinogens [6].",
+            "sources": {
+                "1": "https://resources.hse.gov.uk/notices/notices/notice_details.asp?SF=CN&SV=313640723",
+                "2": "https://www.theguardian.com/business/2014/dec/05/premier-foods-pay-stay-supplier",
+                "3": "https://www.safe-collections.com/blog/debt-collection/premier-foods-named-and-shamed-on-exceedingly-bad-payment-practices/",
+                "4": "https://www.sowetanlive.co.za/news/2016-05-10-why-premier-foods-is-off-the-hook-in-bread-price-scandal/",
+                "5": "https://web.archive.org/web/20250902074958/https://www.thetimes.com/article/mr-kipling-not-such-a-good-egg-after-all-hw3mhnnxsf0",
+                "6": "https://www.abc.net.au/health/thepulse/stories/2005/03/03/1313354.htm"
+            },
+            "sourceNotes": {
+                "1": "unsafe working conditions",
+                "2": "anticompetetive supplier practices",
+                "3": "anticompetetive supplier practices",
+                "4": "engaged in price fixing",
+                "5": "reversed promise to use free range eggs to save costs",
+                "6": "sold food containing carcinogens"
+            },
+            "tags": [
+                "food and beverages"
+            ],
+            "score": 43,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Logo-04.png/250px-Logo-04.png",
+            "siteUrl": "http://www.premierfoods.co.uk/",
+            "updatedAt": "2025-09-01T15:26:23.947Z"
+        },
+        "oxo": {
+            "names": [
+                "OXO",
+                "Oxo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unsafe working conditions",
+                "2": "anticompetetive supplier practices",
+                "3": "anticompetetive supplier practices",
+                "4": "engaged in price fixing",
+                "5": "reversed promise to use free range eggs to save costs",
+                "6": "sold food containing carcinogens"
+            },
+            "tags": [
+                "food and beverages"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "premier-foods"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/0f/Oxo_logo.png",
+            "siteUrl": "http://www.oxo.co.uk/",
+            "updatedAt": "2025-09-01T15:26:23.947Z"
+        },
+        "paxo": {
+            "names": [
+                "Paxo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unsafe working conditions",
+                "2": "anticompetetive supplier practices",
+                "3": "anticompetetive supplier practices",
+                "4": "engaged in price fixing",
+                "5": "reversed promise to use free range eggs to save costs",
+                "6": "sold food containing carcinogens"
+            },
+            "tags": [
+                "food and beverages"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "premier-foods"
+            ],
+            "logoUrl": "",
+            "siteUrl": "http://www.paxo.co.uk/",
+            "updatedAt": "2025-09-01T15:26:23.947Z"
+        },
+        "saxa": {
+            "names": [
+                "Saxa"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unsafe working conditions",
+                "2": "anticompetetive supplier practices",
+                "3": "anticompetetive supplier practices",
+                "4": "engaged in price fixing",
+                "5": "reversed promise to use free range eggs to save costs",
+                "6": "sold food containing carcinogens"
+            },
+            "tags": [
+                "food and beverages"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "premier-foods"
+            ],
+            "logoUrl": "",
+            "siteUrl": "",
+            "updatedAt": "2025-09-01T15:26:23.947Z"
+        },
+        "sharwood's": {
+            "names": [
+                "Sharwood's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unsafe working conditions",
+                "2": "anticompetetive supplier practices",
+                "3": "anticompetetive supplier practices",
+                "4": "engaged in price fixing",
+                "5": "reversed promise to use free range eggs to save costs",
+                "6": "sold food containing carcinogens"
+            },
+            "tags": [
+                "food and beverages"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "premier-foods"
+            ],
+            "logoUrl": "",
+            "siteUrl": "http://www.sharwoods.com/",
+            "updatedAt": "2025-09-01T15:26:23.947Z"
+        },
+        "smash": {
+            "names": [
+                "Smash"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unsafe working conditions",
+                "2": "anticompetetive supplier practices",
+                "3": "anticompetetive supplier practices",
+                "4": "engaged in price fixing",
+                "5": "reversed promise to use free range eggs to save costs",
+                "6": "sold food containing carcinogens"
+            },
+            "tags": [
+                "food and beverages"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "premier-foods"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/41/Smashxl.jpg",
+            "siteUrl": "",
+            "updatedAt": "2025-09-01T15:26:23.947Z"
+        },
+        "loyd-grossman": {
+            "names": [
+                "Loyd Grossman"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unsafe working conditions",
+                "2": "anticompetetive supplier practices",
+                "3": "anticompetetive supplier practices",
+                "4": "engaged in price fixing",
+                "5": "reversed promise to use free range eggs to save costs",
+                "6": "sold food containing carcinogens"
+            },
+            "tags": [
+                "food and beverages"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "premier-foods"
+            ],
+            "logoUrl": "",
+            "siteUrl": "http://www.loydgrossmansauces.co.uk/",
+            "updatedAt": "2025-09-01T15:26:23.947Z"
+        },
+        "ambrosia": {
+            "names": [
+                "Ambrosia"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unsafe working conditions",
+                "2": "anticompetetive supplier practices",
+                "3": "anticompetetive supplier practices",
+                "4": "engaged in price fixing",
+                "5": "reversed promise to use free range eggs to save costs",
+                "6": "sold food containing carcinogens"
+            },
+            "tags": [
+                "food and beverages"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "premier-foods"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/33/Ambrosia_logo.png",
+            "siteUrl": "http://www.ambrosia.co.uk/",
+            "updatedAt": "2025-09-01T15:26:23.947Z"
+        },
+        "super-noodles": {
+            "names": [
+                "Super Noodles"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unsafe working conditions",
+                "2": "anticompetetive supplier practices",
+                "3": "anticompetetive supplier practices",
+                "4": "engaged in price fixing",
+                "5": "reversed promise to use free range eggs to save costs",
+                "6": "sold food containing carcinogens"
+            },
+            "tags": [
+                "food and beverages"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "premier-foods"
+            ],
+            "logoUrl": "",
+            "siteUrl": "https://www.batchelorsrange.co.uk/",
+            "updatedAt": "2025-09-01T15:26:23.947Z"
+        },
+        "batchelors": {
+            "names": [
+                "Batchelors"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unsafe working conditions",
+                "2": "anticompetetive supplier practices",
+                "3": "anticompetetive supplier practices",
+                "4": "engaged in price fixing",
+                "5": "reversed promise to use free range eggs to save costs",
+                "6": "sold food containing carcinogens"
+            },
+            "tags": [
+                "food and beverages"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "premier-foods"
+            ],
+            "logoUrl": "",
+            "siteUrl": "https://www.batchelorsrange.co.uk/",
+            "updatedAt": "2025-09-01T15:26:23.947Z"
+        },
+        "cup-a-soup": {
+            "names": [
+                "Cup-a-Soup"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unsafe working conditions",
+                "2": "anticompetetive supplier practices",
+                "3": "anticompetetive supplier practices",
+                "4": "engaged in price fixing",
+                "5": "reversed promise to use free range eggs to save costs",
+                "6": "sold food containing carcinogens"
+            },
+            "tags": [
+                "food and beverages"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "premier-foods"
+            ],
+            "logoUrl": "",
+            "siteUrl": "https://www.batchelorsrange.co.uk/",
+            "updatedAt": "2025-09-01T15:26:23.947Z"
+        },
+        "mr-kipling": {
+            "names": [
+                "Mr Kipling"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unsafe working conditions",
+                "2": "anticompetetive supplier practices",
+                "3": "anticompetetive supplier practices",
+                "4": "engaged in price fixing",
+                "5": "reversed promise to use free range eggs to save costs",
+                "6": "sold food containing carcinogens"
+            },
+            "tags": [
+                "food and beverages"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "premier-foods"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/50/Mr_Kipling_logo.png/250px-Mr_Kipling_logo.png",
+            "siteUrl": "http://mrkipling.co.uk/",
+            "updatedAt": "2025-09-01T15:26:23.947Z"
+        },
+        "bird's-custard": {
+            "names": [
+                "Bird's Custard"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "unsafe working conditions",
+                "2": "anticompetetive supplier practices",
+                "3": "anticompetetive supplier practices",
+                "4": "engaged in price fixing",
+                "5": "reversed promise to use free range eggs to save costs",
+                "6": "sold food containing carcinogens"
+            },
+            "tags": [
+                "food and beverages"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "premier-foods"
+            ],
+            "logoUrl": "",
+            "siteUrl": "",
+            "updatedAt": "2025-09-01T15:26:23.947Z"
         }
     }
 }
