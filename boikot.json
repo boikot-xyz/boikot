@@ -8146,6 +8146,589 @@
             "logoUrl": "",
             "siteUrl": "",
             "updatedAt": "2025-09-01T15:26:23.947Z"
+        },
+        "bayer": {
+            "names": [
+                "Bayer",
+                "Bayer AG",
+                "BAYN"
+            ],
+            "comment": "Bayer is a German multinational pharmaceutical and life sciences company which used bribery and false advertising to sell unnecessary drugs [1], sold Monsanto herbicides linked to cancer [2][3][4], and contaminated water sources with toxic chemicals [5][6]. Bayer also rushed production processes that led to an explosion killing two people [7], sold contraceptive coils that caused serious health issues [8], knowingly supplied HIV‑contaminated medications in Asia and Latin America [9], and supported the Nazis by producing Zyklon B for gas chambers [10].",
+            "sources": {
+                "1": "https://www.justice.gov/archives/opa/pr/bayer-pay-40-million-resolve-alleged-use-kickbacks-and-false-statements-relating-three-drugs",
+                "2": "https://www.usatoday.com/story/news/2018/08/10/jury-orders-monsanto-pay-289-million-cancer-patient-roundup-lawsuit/962297002/",
+                "3": "https://www.washingtonpost.com/business/2019/07/26/judge-cuts-billion-award-couple-with-cancer-million-roundup-lawsuit",
+                "4": "https://www.wsj.com/articles/bayer-loses-roundup-appeal-11595275537",
+                "5": "https://www.reuters.com/article/us-bayer-pcb-settlement-idUSKBN28B3G0/",
+                "6": "https://wtop.com/dc/2020/05/dcs-top-prosecutor-sues-herbicide-maker-for-decades-of-chemical-dumping/",
+                "7": "https://cen.acs.org/articles/89/i4/Bayer-Accused-Skirting-Safety.html",
+                "8": "https://www.law360.com/articles/1303088/bayer-pays-1-6b-to-settle-suits-over-essure-contraceptive",
+                "9": "https://www.tandfonline.com/doi/abs/10.1080/08989621.2014.882780",
+                "10": "https://encyclopedia.ushmm.org/content/en/article/bayer"
+            },
+            "sourceNotes": {
+                "1": "used bribes and false advertising to sell drugs that were not neccessary",
+                "2": "bayer subsidiary monsanto sold herbicides that caused cancer",
+                "3": "bayer subsidiary monsanto sold herbicides that caused cancer",
+                "4": "bayer subsidiary monsanto sold herbicides that caused cancer",
+                "5": "contaminated water sources with toxic chemicals",
+                "6": "contaminated water sources with toxic chemicals",
+                "7": "rushed production processes leading to an explosion that killed two people",
+                "8": "sold contraceptive coils that caused serious health issues",
+                "9": "knowingly supplied HIV-contaminated medications to patients in asian and latin america",
+                "10": "supported the nazis and produced zyklon B for gas chambers"
+            },
+            "tags": [
+                "pharmaceuticals",
+                "chemicals"
+            ],
+            "score": 2,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Logo_Bayer.svg",
+            "siteUrl": "https://www.bayer.com/",
+            "updatedAt": "2025-09-05T15:18:12.583Z"
+        },
+        "beats": {
+            "names": [
+                "Beats",
+                "Beats by Dre",
+                "Beats Electronics",
+                "Beats Electronics, LLC",
+                "Beats by Dr. Dre"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "electronics",
+                "music"
+            ],
+            "score": 55,
+            "ownedBy": [
+                "apple"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Beats_Electronics_logo.svg",
+            "siteUrl": "https://beatsbydre.com/",
+            "updatedAt": "2025-09-06T20:00:16.924Z"
+        },
+        "shazam": {
+            "names": [
+                "Shazam"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "music",
+                "tech"
+            ],
+            "score": 55,
+            "ownedBy": [
+                "apple"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Shazam_logo.svg",
+            "siteUrl": "https://www.shazam.com/",
+            "updatedAt": "2025-09-06T20:08:34.243Z"
+        },
+        "benefit": {
+            "names": [
+                "Benefit",
+                "Benefit Cosmetics",
+                "Benefit Cosmetics LLC"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Benefit_Cosmetics_logo.svg",
+            "siteUrl": "https://benefitcosmetics.com/",
+            "updatedAt": "2025-09-06T20:08:34.243Z"
+        },
+        "bic": {
+            "names": [
+                "Bic",
+                "Société Bic",
+                "Société Bic S.A.",
+                "BIC",
+                "BB"
+            ],
+            "comment": "Bic is a consumer goods company that has been accused of greenwashing and deception in their advertising [1], sexist advertising [2], and animal testing [3].",
+            "sources": {
+                "1": "https://sustainablegraphicdesign.blogspot.com/2010/06/greenwashing-bic-pens-wins-our.html",
+                "2": "https://www.bbc.co.uk/news/world-africa-33893386",
+                "3": "https://crueltyfree.peta.org/wp-content/uploads/companies-do-test.pdf"
+            },
+            "sourceNotes": {
+                "1": "greenwashing and deception in their advertising ",
+                "2": "sexist advertising",
+                "3": "animal testing"
+            },
+            "tags": [
+                "manufacturing"
+            ],
+            "score": 47,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c7/Bic_%28company%29_Logo.svg",
+            "siteUrl": "https://us.bic.com/en_us",
+            "updatedAt": "2025-09-06T20:12:40.456Z"
+        },
+        "pvh": {
+            "names": [
+                "PVH",
+                "PVH Corp.",
+                "Phillips-Van Heusen Corporation"
+            ],
+            "comment": "PVH is a global apparel and fashion company whose supply chain has polluted rivers in China [1] and has been accused of using forced Uyghur labour [2]. PVH has also faced criticism for failing to pay overtime to employees [3].",
+            "sources": {
+                "1": "https://www.greenpeace.org/international/publication/7168/dirty-laundry/",
+                "2": "https://www.aspi.org.au/report/uyghurs-sale",
+                "3": "https://www.law360.com/articles/849298/tommy-hilfiger-parent-to-pay-3-3m-to-end-ot-suit"
+            },
+            "sourceNotes": {
+                "1": "supply chain polluted rivers in china",
+                "2": "forced utghur labour in supply chain",
+                "3": "failed to pay overtime to employees"
+            },
+            "tags": [
+                "fashion"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/PVH_logo.svg",
+            "siteUrl": "http://www.pvh.com/",
+            "updatedAt": "2025-09-07T21:34:52.092Z"
+        },
+        "calvin-klein": {
+            "names": [
+                "Calvin Klein",
+                "Calvin Klein Inc."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "pvh"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Calvin_klein_logo_web23.svg",
+            "siteUrl": "http://calvinklein.com/",
+            "updatedAt": "2025-09-07T21:57:23.057Z"
+        },
+        "tommy-hilfiger": {
+            "names": [
+                "Tommy Hilfiger",
+                "Tommy Hilfiger B.V.",
+                "Tommy Hilfiger Inc."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "pvh"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Tommy_hilfig_vectorlogo.svg",
+            "siteUrl": "https://global.tommy.com/",
+            "updatedAt": "2025-09-07T21:57:23.057Z"
         }
+    },
+    "billabong": {
+        "names": [
+            "Billabong",
+            "Billabong International Limited"
+        ],
+        "comment": "",
+        "sources": {
+            "1": ""
+        },
+        "sourceNotes": {
+            "1": ""
+        },
+        "tags": [
+            "clothing",
+            "sportswear"
+        ],
+        "score": null,
+        "ownedBy": [
+            "authentic-brands-group"
+        ],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/Billabong_logo.svg",
+        "siteUrl": "https://www.billabong.com/",
+        "updatedAt": "2025-09-09T19:56:36.347Z"
+    },
+    "quiksilver": {
+        "names": [
+            "Quiksilver",
+            "Quiksilver, Inc."
+        ],
+        "comment": "",
+        "sources": {
+            "1": ""
+        },
+        "sourceNotes": {
+            "1": ""
+        },
+        "tags": [
+            "clothing",
+            "sportswear"
+        ],
+        "score": null,
+        "ownedBy": [
+            "authentic-brands-group"
+        ],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c6/Quiksilver-brand.svg",
+        "siteUrl": "https://www.quiksilver.com/",
+        "updatedAt": "2025-09-09T19:56:36.347Z"
+    },
+    "airwalk": {
+        "names": [
+            "Airwalk"
+        ],
+        "comment": "",
+        "sources": {
+            "1": ""
+        },
+        "sourceNotes": {
+            "1": ""
+        },
+        "tags": [
+            "clothing",
+            "sportswear"
+        ],
+        "score": null,
+        "ownedBy": [
+            "authentic-brands-group"
+        ],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Airwalk_Logo.svg",
+        "siteUrl": "http://www.airwalk.com/",
+        "updatedAt": "2025-09-09T19:56:36.347Z"
+    },
+    "vision-street-wear": {
+        "names": [
+            "Vision Street Wear"
+        ],
+        "comment": "",
+        "sources": {
+            "1": ""
+        },
+        "sourceNotes": {
+            "1": ""
+        },
+        "tags": [
+            "clothing",
+            "sportswear"
+        ],
+        "score": null,
+        "ownedBy": [
+            "authentic-brands-group"
+        ],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Vision_streetwear_logo.png",
+        "siteUrl": "https://visionstreetwear.com/",
+        "updatedAt": "2025-09-09T19:56:36.347Z"
+    },
+    "ted-baker": {
+        "names": [
+            "Ted Baker"
+        ],
+        "comment": "",
+        "sources": {
+            "1": ""
+        },
+        "sourceNotes": {
+            "1": ""
+        },
+        "tags": [
+            "clothing"
+        ],
+        "score": null,
+        "ownedBy": [
+            "authentic-brands-group"
+        ],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/TedBaker.svg",
+        "siteUrl": "http://tedbaker.com/",
+        "updatedAt": "2025-09-09T19:56:36.347Z"
+    },
+    "tapout": {
+        "names": [
+            "Tapout"
+        ],
+        "comment": "",
+        "sources": {
+            "1": ""
+        },
+        "sourceNotes": {
+            "1": ""
+        },
+        "tags": [
+            "clothing",
+            "sportswear"
+        ],
+        "score": null,
+        "ownedBy": [
+            "authentic-brands-group"
+        ],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Tapout_brand_logo.png",
+        "siteUrl": "https://tapout.com/",
+        "updatedAt": "2025-09-09T19:56:36.347Z"
+    },"aeropostale": {
+        "names": [
+            "Aéropostale"
+        ],
+        "comment": "",
+        "sources": {
+            "1": ""
+        },
+        "sourceNotes": {
+            "1": ""
+        },
+        "tags": [
+            "clothing"
+        ],
+        "score": null,
+        "ownedBy": [
+            "authentic-brands-group"
+        ],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Aeropostale_logo17.png",
+        "siteUrl": "https://www.aeropostale.com/",
+        "updatedAt": "2025-09-09T19:56:36.347Z"
+    },
+    "forever-21": {
+        "names": [
+            "Forever 21",
+            "F21 OpCo LLC",
+            "Fashion 21"
+        ],
+        "comment": "",
+        "sources": {
+            "1": ""
+        },
+        "sourceNotes": {
+            "1": ""
+        },
+        "tags": [
+            "clothing"
+        ],
+        "score": null,
+        "ownedBy": [
+            "authentic-brands-group"
+        ],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Forever_21_logo.svg",
+        "siteUrl": "http://forever21.com/",
+        "updatedAt": "2025-09-09T19:56:36.347Z"
+    },
+    "brooks-brothers": {
+        "names": [
+            "Brooks Brothers",
+            "Brooks Brothers Inc."
+        ],
+        "comment": "",
+        "sources": {
+            "1": ""
+        },
+        "sourceNotes": {
+            "1": ""
+        },
+        "tags": [
+            "clothing"
+        ],
+        "score": null,
+        "ownedBy": [
+            "authentic-brands-group"
+        ],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7c/Brooks_Brothers_new_logo.svg",
+        "siteUrl": "https://www.brooksbrothers.com/",
+        "updatedAt": "2025-09-09T19:56:36.347Z"
+    },
+    "champion": {
+        "names": [
+            "Champion",
+            "Champion U.S.A."
+        ],
+        "comment": "",
+        "sources": {
+            "1": ""
+        },
+        "sourceNotes": {
+            "1": ""
+        },
+        "tags": [
+            "clothing"
+        ],
+        "score": null,
+        "ownedBy": [
+            "authentic-brands-group"
+        ],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Champion_USA_logo.svg",
+        "siteUrl": "https://www.champion.com/",
+        "updatedAt": "2025-09-09T19:56:36.347Z"
+    },
+    "dc-shoes": {
+        "names": [
+            "DC Shoes",
+            "DC Shoes, Inc."
+        ],
+        "comment": "",
+        "sources": {
+            "1": ""
+        },
+        "sourceNotes": {
+            "1": ""
+        },
+        "tags": [
+            "clothing"
+        ],
+        "score": null,
+        "ownedBy": [
+            "authentic-brands-group"
+        ],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/70/DCSHOECOUSA_Logo.svg",
+        "siteUrl": "http://www.dcshoes.com/",
+        "updatedAt": "2025-09-09T19:56:36.347Z"
+    },
+    "juicy-couture": {
+        "names": [
+            "Juicy Couture"
+        ],
+        "comment": "",
+        "sources": {
+            "1": ""
+        },
+        "sourceNotes": {
+            "1": ""
+        },
+        "tags": [
+            "clothing"
+        ],
+        "score": null,
+        "ownedBy": [
+            "authentic-brands-group"
+        ],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Juicy_Couture_logo.svg",
+        "siteUrl": "https://juicycouture.com/",
+        "updatedAt": "2025-09-09T19:56:36.347Z"
+    },
+    "lucky-brand": {
+        "names": [
+            "Lucky Brand",
+            "Lucky Brand Jeans"
+        ],
+        "comment": "",
+        "sources": {
+            "1": ""
+        },
+        "sourceNotes": {
+            "1": ""
+        },
+        "tags": [
+            "clothing"
+        ],
+        "score": null,
+        "ownedBy": [
+            "authentic-brands-group"
+        ],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Lucky_Brand_Jeans_logo.svg",
+        "siteUrl": "http://www.luckybrand.com/",
+        "updatedAt": "2025-09-09T19:56:36.347Z"
+    },
+    "nautica": {
+        "names": [
+            "Nautica"
+        ],
+        "comment": "",
+        "sources": {
+            "1": ""
+        },
+        "sourceNotes": {
+            "1": ""
+        },
+        "tags": [
+            "clothing"
+        ],
+        "score": null,
+        "ownedBy": [
+            "authentic-brands-group"
+        ],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/22/Nautica_%28clothing_logo%29.png",
+        "siteUrl": "http://www.nautica.com/",
+        "updatedAt": "2025-09-09T19:56:36.347Z"
+    },
+    "reebok": {
+        "names": [
+            "Reebok"
+        ],
+        "comment": "",
+        "sources": {
+            "1": ""
+        },
+        "sourceNotes": {
+            "1": ""
+        },
+        "tags": [
+            "clothing"
+        ],
+        "score": null,
+        "ownedBy": [
+            "authentic-brands-group"
+        ],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Reebok_red_logo.svg",
+        "siteUrl": "https://www.reebok.com/us/",
+        "updatedAt": "2025-09-09T19:56:36.347Z"
+    },
+    "nine-west": {
+        "names": [
+            "Nine West",
+            "9 West"
+        ],
+        "comment": "",
+        "sources": {
+            "1": ""
+        },
+        "sourceNotes": {
+            "1": ""
+        },
+        "tags": [
+            "clothing"
+        ],
+        "score": null,
+        "ownedBy": [
+            "authentic-brands-group"
+        ],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Nine_West_logo.png",
+        "siteUrl": "https://ninewest.com/",
+        "updatedAt": "2025-09-09T19:56:36.347Z"
+    },
+    "authentic-brands-group": {
+        "names": [
+            "Authentic Brands Group",
+            "Authentic Brands Group LLC",
+            "ABG"
+        ],
+        "comment": "Authentic Brands Group is an American private equity firm that has been connected to forced labour in Chinese factories [1].",
+        "sources": {
+            "1": "https://www.ituc-csi.org/apparel-brands-Uyghur-forced-labour"
+        },
+        "sourceNotes": {
+            "1": "connected to forced labour in china"
+        },
+        "tags": [
+            "private equity"
+        ],
+        "score": 40,
+        "ownedBy": [],
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_2024_Logo.jpg",
+        "siteUrl": "https://corporate.authentic.com/",
+        "updatedAt": "2025-09-10T20:59:37.727Z"
     }
 }
