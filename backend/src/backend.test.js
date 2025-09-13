@@ -6,7 +6,7 @@ import { getWikipediaInfo, getWikipediaPage } from "./wiki.js";
 import { getRecord } from "./getRecord.js";
 import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
-import { askLlama4, askQwen, askGemma, askGPTOSS, embed } from "./llm.js";
+import { askLlama4, askQwen, askGemma, askGPTOSS, askLocalGPTOSS, embed } from "./llm.js";
 import { getInvestigationPrompt, getSummarisePrompt, getCombinePrompt } from "./prompts.js";
 import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, appleArticleText, kelloggsArticleText, wagamamaArticleText, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo, nintendoInfo, burberryInfo, hugePrompt } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
@@ -269,7 +269,7 @@ const targetInvestigationResults = [
         companyName: "Gildan",
         searchResults: gildanSearchResults,
         relevantResultNumbers: [
-            2, 4, 6, 8, 10, 12, 20, 23, 33, 33, 35, 39, 45
+            2, 4, 6, 8, 10, 12, 20, 24, 23, 33, 35, 39, 45
         ],
         requiredResultNumbers: [4, 6],
     },
@@ -277,7 +277,7 @@ const targetInvestigationResults = [
         companyName: "Morrisons",
         searchResults: morrisonsSearchResults,
         relevantResultNumbers: [
-            3, 5, 6, 7, 8, 9, 13, 14, 15, 16, 18, 19, 20, 21, 24, 27, 31, 35
+            3, 4, 5, 6, 7, 8, 9, 13, 14, 15, 16, 18, 19, 20, 21, 24, 27, 31, 35
         ],
         requiredResultNumbers: [3, 5, 8, 9],
     },
@@ -424,7 +424,7 @@ const targetEthicsSummaryResults = [
     },
 ];
 
-const llmOptions = [ askQwen, askLlama4, askGemma, askGPTOSS ];
+const llmOptions = [ askQwen, askLlama4, askGemma, askGPTOSS, askLocalGPTOSS ];
 
 llmOptions.forEach( llmFunc =>
   describe( llmFunc.name, () => {

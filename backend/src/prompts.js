@@ -11,6 +11,7 @@ ${searchResults}
 
 Please respond with the numbers of the most relevent news articles to read for an investigation of the ethics of ${companyName}.
 - Select between 3 and 10 articles - only include the most relevant articles.
+- If there are multiple articles covering the same story, its ok to include up to 3 sources on that story.
 - We are looking for hard-hitting, factual journalism, so only include articles from reputable, primary news sources. Compilation sites including wikipedia and lists of unethical actions done by a company are not primary sources.
 - Some results come from essay, homework, or study websites, or are broad overviews like "The Ethics of Company X", which are not primary sources - make sure to avoid these.
 - Resources published by the company itself could be biased, like its annual report, sustainability page or ethics statements, so only include articles published by third parties.

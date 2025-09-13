@@ -208,7 +208,7 @@ export async function askLocalGPTOSS( prompt, body ) {
                     },
                 ],
                 "model": "gpt-oss:latest",
-                "temperature": 0.6,
+                "temperature": 0,
                 "max_tokens": 8192,
                 "top_p": 1,
                 "stream": false,
@@ -217,6 +217,7 @@ export async function askLocalGPTOSS( prompt, body ) {
             }),
         },
     ) ).json();
+    console.log(responseJSON);
     return responseJSON.choices[0].message.content;
 }
 

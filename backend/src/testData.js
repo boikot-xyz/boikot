@@ -426,7 +426,35 @@ https://www.ebay.co.uk/itm/386973065430
 Gildan Funny T-Shirts for Men · Petites Funny T-Shirts for Women · T-Shirts Cropped & Shirts Funny for Women · Glitter Funny T-Shirts for Women · Funny T-Shirts ...
 
 28. CEREBRAL EFFUSION "IDOLATRY OF THE UNETHICAL" T-SHIRT
-https://nserecords.bigcartel.com/product/cerebral-effusion-idolatry-of-the-unethical-t-shirt-upgraded                                                                 PRINTED ON GILDAN HEAVY COTTON. *Mock Design is based on Medium t-shirt* *Small T-shirt will have smaller print than mock-up*                                                                                                                            29. Get The Latest Ethical Fashion Guide - Baptist World Aid Australia             https://baptistworldaid.org.au/resources/ethical-fashion-guide/                    Gildan Activewear. 50; Anaconda*. Spotlight Group. 6; Anko. Kmart and Target Australia. 58; Arket*. H&M. 57; Artengo*. Decathlon. 33; Article One*. Accent Group.                                                                                        30. Ethical Denim Council backs mill against insurers | Ecotextile News            https://www.ecotextile.com/2025052957181/news/shows-events/ethical-denim-council-backs-mill-against-insurers/                                                         29 May 2025 ... ... unethical behaviour. EDC issued its formal finding against London ... Gildan ramps up sustainable cotton use and slashes water intensity.                                                                                            31. Change Fashion Trends, Improve Human Rights - Planet Aid, Inc.                 https://www.planetaid.org/blog/fast-fashion-continues-to-violate-human-rights      27 Feb 2020 ... For far too long, the fashion industry has relied on unethical and unsustainable labor practices in order to sell cheap clothing.                                                                                                        32. Gildan Activewear Inc.: Form 40-F - Filed by newsfilecorp.com                  https://www.sec.gov/Archives/edgar/data/1061894/000106299311004843/form40f.htm     ... unethical labour or other business practices by the Company or one of its third-party contractors;; our dependence on key management and our ability to ...                                                                                          33. The Not-So-Hidden Ethical Cost Of Fast Fashion - Forbes                        https://www.forbes.com/sites/syamameagher/2020/02/05/the-not-so-hidden-ethical-cost-of-fast-fashion-sneaky-sweatshops-in-our-own-backyard/                            5 Feb 2020 ... Gildan Activewear (known better to the public for purchasing ... unethical as heck. The American factories they use owe over $3.8 ...                                                                                                     34. Cringe Shirt - Shop on Pinterest                                               https://www.pinterest.com/shopping/cringe-shirt/953409018155/                      $22.00. Unbranded Shirts | I Ain't Gay Exactly Funny Shirt Unhinged, Inappropriate Gifts Unethical Shirt | Color: Black/White | Size: Various. Poshmark ...                                                                                              35. Ethical sourcing meets unethical buying: Insights from Shah Rayeed ...         https://bd.apparelresources.com/business-news/sourcing/ethical-sourcing-meets-unethical-buying-insights-shah-rayeed-chowdhury-director-evince-group/
+https://nserecords.bigcartel.com/product/cerebral-effusion-idolatry-of-the-unethical-t-shirt-upgraded
+PRINTED ON GILDAN HEAVY COTTON. *Mock Design is based on Medium t-shirt* *Small T-shirt will have smaller print than mock-up*
+
+29. Get The Latest Ethical Fashion Guide - Baptist World Aid Australia
+https://baptistworldaid.org.au/resources/ethical-fashion-guide/
+Gildan Activewear. 50; Anaconda*. Spotlight Group. 6; Anko. Kmart and Target Australia. 58; Arket*. H&M. 57; Artengo*. Decathlon. 33; Article One*. Accent Group.
+
+30. Ethical Denim Council backs mill against insurers | Ecotextile News
+https://www.ecotextile.com/2025052957181/news/shows-events/ethical-denim-council-backs-mill-against-insurers/
+29 May 2025 ... ... unethical behaviour. EDC issued its formal finding against London ... Gildan ramps up sustainable cotton use and slashes water intensity.
+
+31. Change Fashion Trends, Improve Human Rights - Planet Aid, Inc.
+https://www.planetaid.org/blog/fast-fashion-continues-to-violate-human-rights
+27 Feb 2020 ... For far too long, the fashion industry has relied on unethical and unsustainable labor practices in order to sell cheap clothing.
+
+32. Gildan Activewear Inc.: Form 40-F - Filed by newsfilecorp.com
+https://www.sec.gov/Archives/edgar/data/1061894/000106299311004843/form40f.htm
+... unethical labour or other business practices by the Company or one of its third-party contractors;; our dependence on key management and our ability to ...
+
+33. The Not-So-Hidden Ethical Cost Of Fast Fashion - Forbes
+https://www.forbes.com/sites/syamameagher/2020/02/05/the-not-so-hidden-ethical-cost-of-fast-fashion-sneaky-sweatshops-in-our-own-backyard/
+5 Feb 2020 ... Gildan Activewear (known better to the public for purchasing ... unethical as heck. The American factories they use owe over $3.8 ...
+
+34. Cringe Shirt - Shop on Pinterest
+https://www.pinterest.com/shopping/cringe-shirt/953409018155/
+$22.00. Unbranded Shirts | I Ain't Gay Exactly Funny Shirt Unhinged, Inappropriate Gifts Unethical Shirt | Color: Black/White | Size: Various. Poshmark ...
+
+35. Ethical sourcing meets unethical buying: Insights from Shah Rayeed ...
+https://bd.apparelresources.com/business-news/sourcing/ethical-sourcing-meets-unethical-buying-insights-shah-rayeed-chowdhury-director-evince-group/
 14 May 2025 ... Ethical sourcing meets unethical buying: Insights from Shah Rayeed Chowdhury, Director, Evince Group ... Gildan. May 30, 2019. Digital Printing ...
 
 36. Retail Brands
@@ -452,18 +480,24 @@ Relabelling, at first look, might seem unethical ... Some wholesale companies li
 41. Case Law - Litigation Finance Canada - Omni Bridgeway
 https://omnibridgeway.com/insights/regulation-and-case-law/legal-landscape-canada/case-summaries/2
 ... unethical if they allowed their client, the representative plaintiff, to ... Gildan Activewear (Ontario, 2009). Irish funder to give adverse costs ...
-                                                                                   42. Working at Goose & Gander Ltd: Employee Reviews | Indeed.com
+
+42. Working at Goose & Gander Ltd: Employee Reviews | Indeed.com
 https://uk.indeed.com/cmp/Goose-&-Gander-Ltd/reviews
 29 Dec 2024 ... 12 April 2023. Soul draining and unethical. Production Assistant. Chipping Sodbury, Gloucestershire. Very negative environment, nobody wants to ...
-                                                                                   43. Ethical Vs Unethical Tails - TikTok
-https://www.tiktok.com/discover/ethical-vs-unethical-tails                         7 days ago ... unethical breeder signs, unethical doodles breeders, buyer's guide ... Chlorophyll T-Shirt by Gildan 5000 with Dabbin Bear Design - Unisex.                                                                                               44. “A study on Contingency Plan and Mitigation Plan and Projection ...
+
+43. Ethical Vs Unethical Tails - TikTok
+https://www.tiktok.com/discover/ethical-vs-unethical-tails
+7 days ago ... unethical breeder signs, unethical doodles breeders, buyer's guide ... Chlorophyll T-Shirt by Gildan 5000 with Dabbin Bear Design - Unisex.
+
+44. “A study on Contingency Plan and Mitigation Plan and Projection ...
 https://dspace.bracu.ac.bd/xmlui/bitstream/handle/10361/16923/17104003_BBA.pdf?sequence=1
 16 Feb 2022 ... upgrade it to Gildan's standards in 2019, Gildan is named one of the world's most sustainably ... not follow any unethical forms and works ...
 
 45. The Unraveling of American Apparel - Reidel Law Firm
 https://reidellawfirm.com/the-unraveling-of-american-apparel/
 11 Jan 2025 ... Labor Controversies and Unethical Practices ... Following the brand's bankruptcy, it was acquired by Gildan Activewear, a Canadian clothing ...
-                                                                                   46. Boohoo ethics – what's the story in Leicester? | Sustainable fashion
+
+46. Boohoo ethics – what's the story in Leicester? | Sustainable fashion
 https://livefrankly.co.uk/sustainable-fashion/boohoo-ethics/
 29 Aug 2020 ... Gildan, Gildan Activewear Inc. Gilded Intent, Gilly Hicks, Gimmicks, Giorgio Armani SpA, Givenchy Inc, Givenchy Inc, Givenchy Parfums ...
 
@@ -485,95 +519,188 @@ https://www.pearsoned.ca/highered/showcase/harrison/pdf/01_harri_ch01.pdf
 `;
 
 export const morrisonsSearchResults = `
-1. Morrisons has new owners: how will this affect company ethics?                  https://www.ethicalconsumer.org/retailers/morrisons-has-new-owners-how-will-affect-company-ethics                                                                     17.06.2022 г. ... The buyout has drawn criticism from MPs and campaigners, due to concerns over possible tax avoidance, asset sales and negative worker impacts.                                                                                         2. Ethical Trading - Morrisons Corporate                                           https://www.morrisons-corporate.com/morrisons-sustainability/people/colleagues/    Ethical Trading ... We want our customers to be confident that everyone who helps to make our products is treated with dignity and respect, in safe and fair ...                                                                                         3. Morrisons has 'worst compliance seen yet' with competition rules on ...         https://www.thegrocer.co.uk/news/morrisons-has-worst-compliance-seen-yet-with-competition-rules-on-land-deals-finds-cma/686091.article                                6.12.2023 г. ... The CMA has slammed Morrisons for having the “poorest compliance record” it has so far seen with rules against land deals that prevent rivals from opening ...                                                                                                                                                             4. Morrisons: Five Mistakes Behind Its Troubles | Money News                       https://news.sky.com/story/morrisons-five-mistakes-behind-its-troubles-10346752    10.09.2015 г. ... Since William Morrison started his Bradford market stall selling eggs and butter in 1899, Morrisons has grown its brand on the back of two ...
+1. Morrisons has new owners: how will this affect company ethics?
+https://www.ethicalconsumer.org/retailers/morrisons-has-new-owners-how-will-affect-company-ethics
+17.06.2022 г. ... The buyout has drawn criticism from MPs and campaigners, due to concerns over possible tax avoidance, asset sales and negative worker impacts.
 
-5. Morrisons fail to overturn court ruling that found not them guilty of ...       https://www.hrsolutions-uk.com/insights/health-and-safety-compliance-in-the-workplace/
-30.07.2024 г. ... Morrisons Supermarket was fined £3.5 million for failing to prevent the death of a store worker who had epilepsy and were convicted for three health and safety ...                                                                                                                                                       6. Black veteran's Morrisons ban over shoplifting allegations - BBC News
+2. Ethical Trading - Morrisons Corporate
+https://www.morrisons-corporate.com/morrisons-sustainability/people/colleagues/    Ethical Trading ... We want our customers to be confident that everyone who helps to make our products is treated with dignity and respect, in safe and fair ...
+
+3. Morrisons has 'worst compliance seen yet' with competition rules on ...
+https://www.thegrocer.co.uk/news/morrisons-has-worst-compliance-seen-yet-with-competition-rules-on-land-deals-finds-cma/686091.article
+6.12.2023 г. ... The CMA has slammed Morrisons for having the “poorest compliance record” it has so far seen with rules against land deals that prevent rivals from opening ...
+
+4. Morrisons: Five Mistakes Behind Its Troubles | Money News
+https://news.sky.com/story/morrisons-five-mistakes-behind-its-troubles-10346752    10.09.2015 г. ... Since William Morrison started his Bradford market stall selling eggs and butter in 1899, Morrisons has grown its brand on the back of two ...
+
+5. Morrisons fail to overturn court ruling that found not them guilty of ...
+https://www.hrsolutions-uk.com/insights/health-and-safety-compliance-in-the-workplace/
+30.07.2024 г. ... Morrisons Supermarket was fined £3.5 million for failing to prevent the death of a store worker who had epilepsy and were convicted for three health and safety ...
+
+6. Black veteran's Morrisons ban over shoplifting allegations - BBC News
 https://www.bbc.co.uk/news/articles/cm2m0208lp3o
-8.11.2024 г. ... An ex-police sergeant who was banned from every Morrisons store in the UK after being wrongly accused of shoplifting has called for an apology.                                                                                         7. Morrisons not liable for massive staff data leak, court rules                   https://www.theguardian.com/business/2020/apr/01/morrisons-is-not-liable-for-massive-staff-data-leak-court-rules
+8.11.2024 г. ... An ex-police sergeant who was banned from every Morrisons store in the UK after being wrongly accused of shoplifting has called for an apology.
+
+7. Morrisons not liable for massive staff data leak, court rules
+https://www.theguardian.com/business/2020/apr/01/morrisons-is-not-liable-for-massive-staff-data-leak-court-rules
 1.04.2020 г. ... The UK's highest court has ruled that Morrisons should not be held liable for the criminal act of an employee with a grudge who leaked the ...
 
-8. Morrisons tried to silence me over chicken cruelty, employee claims             https://www.independent.co.uk/news/uk/home-news/morrisons-supermarket-chicken-cruelty-employee-facebook-b1859853.html
+8. Morrisons tried to silence me over chicken cruelty, employee claims
+https://www.independent.co.uk/news/uk/home-news/morrisons-supermarket-chicken-cruelty-employee-facebook-b1859853.html
 10.06.2021 г. ... Exclusive: 'They tried to pressure me to stop posting information in colleague groups,' says worker who shared Chris Packham posts.
-                                                                                   9. Wm Morrison's Supermarkets fined £3,500,000 having been ...
-https://st-philips.com/news-events/wm-morrisons-supermarkets-fined-3500000-having-been-convicted-of-health-and-safety-failings/                                       20.03.2023 г. ... Wm Morrison's Supermarkets were fined £3,500,000 on the 17/3/23 having been convicted of health and safety failings at a trial prosecuted by ...
 
-10. quit on the spot today : r/Morrisons - Reddit                                  https://www.reddit.com/r/Morrisons/comments/1ks76ti/quit_on_the_spot_today/
+9. Wm Morrison's Supermarkets fined £3,500,000 having been ...
+https://st-philips.com/news-events/wm-morrisons-supermarkets-fined-3500000-having-been-convicted-of-health-and-safety-failings/
+20.03.2023 г. ... Wm Morrison's Supermarkets were fined £3,500,000 on the 17/3/23 having been convicted of health and safety failings at a trial prosecuted by ...
+
+10. quit on the spot today : r/Morrisons - Reddit
+https://www.reddit.com/r/Morrisons/comments/1ks76ti/quit_on_the_spot_today/
 21.05.2025 г. ... ... unethical company. bullying managers, some peoples hours being changed with no warning or without asking, no communication between each ...
-                                                                                   11. Ethical Supermarkets
+
+11. Ethical Supermarkets
 https://www.ethicalconsumer.org/retailers/shopping-guide/supermarkets
-7.08.2024 г. ... Supermarkets are associated with a lot of unethical practices, yet they ... Morrisons 12% – Morrisons also owns McColl's convenience shops.                                                                                             12. Morrisons recovers warehouse systems following attack on Blue ...              https://www.cybersecuritydive.com/news/morrisons-recovers-attack-blue-yonder/734863/                                                                                  6.12.2024 г. ... The U.K. supermarket chain was one of several high-profile customers impacted by a ransomware attack against the supply chain management ...
+7.08.2024 г. ... Supermarkets are associated with a lot of unethical practices, yet they ... Morrisons 12% – Morrisons also owns McColl's convenience shops.
 
-13. Morrisons drops producers of own-brand coconut milk with ties to ...           https://www.itv.com/news/2025-03-13/morrisons-drops-producers-of-own-brand-coconut-milk-with-ties-to-monkey-labour                                                    13.03.2025 г. ... Morrisons has become the latest retailer to cut ties with producers linked to forced monkey labour following investigations into the abuse in Thailand's ...
+12. Morrisons recovers warehouse systems following attack on Blue ...
+https://www.cybersecuritydive.com/news/morrisons-recovers-attack-blue-yonder/734863/
+6.12.2024 г. ... The U.K. supermarket chain was one of several high-profile customers impacted by a ransomware attack against the supply chain management ...
 
-14. How supermarkets including Morrisons, Tesco and Asda ... - The Sun             https://www.thesun.co.uk/news/1299427/how-supermarkets-including-morrisons-tesco-and-asda-sainsburys-are-misleading-shoppers-with-questionable-labels/                17.06.2016 г. ... How supermarkets including Morrisons, Tesco and Asda are 'misleading shoppers with questionable labels' ... unethical. Speaking to the Mail Online ...
+13. Morrisons drops producers of own-brand coconut milk with ties to ...
+https://www.itv.com/news/2025-03-13/morrisons-drops-producers-of-own-brand-coconut-milk-with-ties-to-monkey-labour
+13.03.2025 г. ... Morrisons has become the latest retailer to cut ties with producers linked to forced monkey labour following investigations into the abuse in Thailand's ...
+
+14. How supermarkets including Morrisons, Tesco and Asda ... - The Sun
+https://www.thesun.co.uk/news/1299427/how-supermarkets-including-morrisons-tesco-and-asda-sainsburys-are-misleading-shoppers-with-questionable-labels/
+17.06.2016 г. ... How supermarkets including Morrisons, Tesco and Asda are 'misleading shoppers with questionable labels' ... unethical. Speaking to the Mail Online ...
+
 15. Morrisons Hadleigh store new parking cameras 'unethical' | Echo
-https://www.echo-news.co.uk/news/24136689.morrisons-hadleigh-store-new-parking-cameras-unethical/                                                                     22.02.2024 г. ... Morrisons has confirmed it has now switched on the ANPR cameras at the London Road, Hadleigh, shop despite campaigning MPs and residents ...
+https://www.echo-news.co.uk/news/24136689.morrisons-hadleigh-store-new-parking-cameras-unethical/
+22.02.2024 г. ... Morrisons has confirmed it has now switched on the ANPR cameras at the London Road, Hadleigh, shop despite campaigning MPs and residents ...
 
-16. Big Six supermarkets are 'immoral' for not paying farmers a fair price         https://www.agriland.co.uk/farming-news/big-six-supermarkets-are-immoral-for-not-paying-farmers-a-fair-price-mp/                                                      4.01.2024 г. ... Loder has written to each of the 'Big Six' – which is comprised of retailers Tesco, Sainsbury's, Asda, Morrisons, Aldi and Lidl – to demand that ...
+16. Big Six supermarkets are 'immoral' for not paying farmers a fair price
+https://www.agriland.co.uk/farming-news/big-six-supermarkets-are-immoral-for-not-paying-farmers-a-fair-price-mp/
+4.01.2024 г. ... Loder has written to each of the 'Big Six' – which is comprised of retailers Tesco, Sainsbury's, Asda, Morrisons, Aldi and Lidl – to demand that ...
 
 17. Morrison government's health funding program 'unethical' - Crikey
-https://www.crikey.com.au/2023/06/07/morrison-government-health-funding-program-unethical/                                                                            7.06.2023 г. ... The ANAO says the program “was ineffective and fell short of ethical requirements”. It describes a completely flawed administrative process.
+https://www.crikey.com.au/2023/06/07/morrison-government-health-funding-program-unethical/
+7.06.2023 г. ... The ANAO says the program “was ineffective and fell short of ethical requirements”. It describes a completely flawed administrative process.
 
-18. Asda is named worst supermarket in treatment of suppliers                      https://www.theguardian.com/business/2017/jun/26/asda-supermarket-suppliers-walmart-morrisons                                                                         26.06.2017 г. ... Watchdog places Walmart-owned chain below Morrisons, as it names Iceland as worst retailer at complying with its code.                                                                                                                 19. Matthew Gunn death: Morrisons supermarket fined £3.5m - BBC News
-https://www.bbc.co.uk/news/uk-england-gloucestershire-64986936                     17.03.2023 г. ... Supermarket retailer Morrisons has been fined £3.5m for failing to prevent the death of a store worker with epilepsy.
-                                                                                   20. Morrisons loses appeal after epileptic worker's death - Pinsent Masons
+18. Asda is named worst supermarket in treatment of suppliers
+https://www.theguardian.com/business/2017/jun/26/asda-supermarket-suppliers-walmart-morrisons
+26.06.2017 г. ... Watchdog places Walmart-owned chain below Morrisons, as it names Iceland as worst retailer at complying with its code.
+
+19. Matthew Gunn death: Morrisons supermarket fined £3.5m - BBC News
+https://www.bbc.co.uk/news/uk-england-gloucestershire-64986936
+17.03.2023 г. ... Supermarket retailer Morrisons has been fined £3.5m for failing to prevent the death of a store worker with epilepsy.
+
+20. Morrisons loses appeal after epileptic worker's death - Pinsent Masons
 https://www.pinsentmasons.com/out-law/news/morrisons-loses-appeal-after-epileptic-workers-death
 6.06.2024 г. ... Zoe Betts tells HRNews about the lessons to learn from a fatal accident on a staircase at UK supermarket Morrisons
-                                                                                   21. Morrisons takes fight over data breach liability to Supreme Court
-https://www.cityam.com/morrisons-takes-fight-over-data-breach-liability-to-supreme-court/                                                                             5.11.2019 г. ... Morrisons will begin its final appeal to the Supreme Court this week after losing a landmark case over the liability of employers in staff ...                                                                                          22. PESTLE Analysis of Morrison Supermarket UK - Ai Essay Samples                  https://samples.eduwriter.ai/647841498/pestle-analysis-of-morrison-supermarket-uk
+
+21. Morrisons takes fight over data breach liability to Supreme Court
+https://www.cityam.com/morrisons-takes-fight-over-data-breach-liability-to-supreme-court/
+5.11.2019 г. ... Morrisons will begin its final appeal to the Supreme Court this week after losing a landmark case over the liability of employers in staff ...
+22. PESTLE Analysis of Morrison Supermarket UK - Ai Essay Samples
+https://samples.eduwriter.ai/647841498/pestle-analysis-of-morrison-supermarket-uk
 25.05.2024 г. ... ... Morrisons. Environmental factors: Currently ... unethical recruitment practices, highlighting the importance of ethical labor management.
 
-23. Morrisons' new net-zero pledge - Defra in the media - GOV.UK blogs             https://deframedia.blog.gov.uk/2021/03/09/morrisons-new-net-zero-pledge/
+23. Morrisons' new net-zero pledge - Defra in the media - GOV.UK blogs
+https://deframedia.blog.gov.uk/2021/03/09/morrisons-new-net-zero-pledge/
 9.03.2021 г. ... ... unethical and environmentally very damaging. People need to see that we are all responsible for animal welfare and the environment. Net zero ...
-                                                                                   24. UK supermarkets accused of selling 'Italian' tomato purée with ...             https://www.grocerygazette.co.uk/2024/12/03/supermarket-italian-tomato/            3.12.2024 г. ... Photo: Waitrose, Tesco, Morrisons and Asda tomato purée 'own-brand' products. Waitrose and Asda are among the supermarkets facing backlash ...
-                                                                                   25. Our Approach | Morrisons Blog
-https://my.morrisons.com/our-approach/                                             At Morrisons we recognise the responsibility that we share with our suppliers to buy, produce and sell our products in an ethical manner.
+
+24. UK supermarkets accused of selling 'Italian' tomato purée with ...
+https://www.grocerygazette.co.uk/2024/12/03/supermarket-italian-tomato/
+3.12.2024 г. ... Photo: Waitrose, Tesco, Morrisons and Asda tomato purée 'own-brand' products. Waitrose and Asda are among the supermarkets facing backlash ...
+
+25. Our Approach | Morrisons Blog
+https://my.morrisons.com/our-approach/
+At Morrisons we recognise the responsibility that we share with our suppliers to buy, produce and sell our products in an ethical manner.
 
 26. Morrisons Reviews: What Is It Like to Work At Morrisons? - Glassdoor
-https://www.glassdoor.co.uk/Reviews/Morrisons-Reviews-E10276.htm                   ... unethical, and disturbing behaviour from managers (inc. editing timecards so staff are paid less than they have worked, messaging staff outside of work ...                                                                                          27. Morrisons vicariously liable for deliberate data breach by "rogue ...          https://www.irwinmitchell.com/news-and-insights/expert-comment/post/102f4c9/morrisons-vicariously-liable-for-deliberate-data-breach-by-rogue-employee                 23.10.2018 г. ... Yesterday the Court of Appeal confirmed that the supermarket, Morrisons will have to pay damages to thousands of employees whose data was ...
+https://www.glassdoor.co.uk/Reviews/Morrisons-Reviews-E10276.htm
+... unethical, and disturbing behaviour from managers (inc. editing timecards so staff are paid less than they have worked, messaging staff outside of work ...
+
+27. Morrisons vicariously liable for deliberate data breach by "rogue ...
+https://www.irwinmitchell.com/news-and-insights/expert-comment/post/102f4c9/morrisons-vicariously-liable-for-deliberate-data-breach-by-rogue-employee
+23.10.2018 г. ... Yesterday the Court of Appeal confirmed that the supermarket, Morrisons will have to pay damages to thousands of employees whose data was ...
 
 28. Morrisons CCTV vans encourage people to tell us what they know
-https://crimestoppers-uk.org/news-media/news/2023/sep/morrisons-cctv-vans          Morrisons and Crimestoppers have worked together to identify and address incidents of crime since 2014, with the aim of deterring and identifying crime and ...
-                                                                                   29. Has anyone else had a problem with paying by card at Morrisons ...             https://www.facebook.com/groups/360596782162154/posts/992574582297701/             31.01.2025 г. ... ... Morrisons that run / own it it's a franchise apparently. 4 mos ... Horrible customer service and very unethical. I went in and paid for ...
+https://crimestoppers-uk.org/news-media/news/2023/sep/morrisons-cctv-vans
+Morrisons and Crimestoppers have worked together to identify and address incidents of crime since 2014, with the aim of deterring and identifying crime and ...
+
+29. Has anyone else had a problem with paying by card at Morrisons ...
+https://www.facebook.com/groups/360596782162154/posts/992574582297701/
+31.01.2025 г. ... ... Morrisons that run / own it it's a franchise apparently. 4 mos ... Horrible customer service and very unethical. I went in and paid for ...
 
 30. Another newly on-boarded thief caught out at my Morrisons - Reddit
-https://www.reddit.com/r/AmazonFlexUK/comments/vanv06/another_newly_onboarded_thief_caught_out_at_my/                                                                 12.06.2022 г. ... Amazon would rather open the floodgates to these scammers, thieves and generally unethical ... I think amazon make more money on pn than morrisons ...
-                                                                                   31. Morrisons may have to compensate workers for payroll data breach               https://www.ft.com/content/50eddd68-8b95-3095-952c-896a6406ac12                    1.12.2017 г. ... Wm Morrison may have to compensate thousands of workers after a disgruntled employee leaked their payroll information online, ...
+https://www.reddit.com/r/AmazonFlexUK/comments/vanv06/another_newly_onboarded_thief_caught_out_at_my/
+12.06.2022 г. ... Amazon would rather open the floodgates to these scammers, thieves and generally unethical ... I think amazon make more money on pn than morrisons ...
+
+31. Morrisons may have to compensate workers for payroll data breach
+https://www.ft.com/content/50eddd68-8b95-3095-952c-896a6406ac12
+1.12.2017 г. ... Wm Morrison may have to compensate thousands of workers after a disgruntled employee leaked their payroll information online, ...
 
 32. Morrison, E. W. (2006). Doing the Job Well An Investigation of Pro ...
-https://www.scirp.org/reference/referencespapers?referenceid=2687370               It refers to the unethical behaviors which are conducive to the organization that the employees intend to make but violate the social ethical standards. When ...
+https://www.scirp.org/reference/referencespapers?referenceid=2687370
+It refers to the unethical behaviors which are conducive to the organization that the employees intend to make but violate the social ethical standards. When ...
 
 33. Scott Morrison's remarks about China being 'chillingly silent' over ...
 https://www.abc.net.au/news/2022-02-15/china-foreign-ministry-scott-morrison-ukraine-conflict/100831646
-14.02.2022 г. ... China's Foreign Ministry says Scott Morrison's remarks are "unethical and dangerous" · Mr Morrison claims China's government wants the Coalition ...                                                                                   34. Companies Suing Over Mass Arbitration, Saying It's Unethical                   https://www.mofo.com/resources/news/250421-companies-suing-over-mass-arbitration   21.04.2025 г. ... Companies Suing Over Mass Arbitration, Saying It's Unethical. Law.com. 21 Apr ... 2025 Morrison & Foerster LLP. All rights reserved. ×. Search.
+14.02.2022 г. ... China's Foreign Ministry says Scott Morrison's remarks are "unethical and dangerous" · Mr Morrison claims China's government wants the Coalition ...
+
+34. Companies Suing Over Mass Arbitration, Saying It's Unethical
+https://www.mofo.com/resources/news/250421-companies-suing-over-mass-arbitration   21.04.2025 г. ... Companies Suing Over Mass Arbitration, Saying It's Unethical. Law.com. 21 Apr ... 2025 Morrison & Foerster LLP. All rights reserved. ×. Search.
 
 35. Riverford slams supermarkets over 'farmwashing' and warns British ...
 https://www.business-live.co.uk/retail-consumer/riverford-slams-supermarkets-over-farmwashing-30019466
-27.09.2024 г. ... An open letter has been sent to the chief executives of Tesco, Aldi, Lidl, Morrisons, Sainsbury's and Asda calling on them to end 'unethical' marketing ...                                                                                                                                                               36. Chris - I sent this letter to the CEO of Morrisons ... - Facebook              https://www.facebook.com/photo.php?fbid=312363013583115&id=100044282566826&set=a.262798628539554
+27.09.2024 г. ... An open letter has been sent to the chief executives of Tesco, Aldi, Lidl, Morrisons, Sainsbury's and Asda calling on them to end 'unethical' marketing ...
+
+36. Chris - I sent this letter to the CEO of Morrisons ... - Facebook
+https://www.facebook.com/photo.php?fbid=312363013583115&id=100044282566826&set=a.262798628539554
 30.04.2021 г. ... 19. Hazel Felton. It will be very interesting to see the reply from Morrisons and I await with interest. ... So misleading and unethical fooling ...
 
-37. Reserved Judgment - EMPLOYMENT TRIBUNALS                                       https://assets.publishing.service.gov.uk/media/628e14968fa8f5561cd9b2c0/Mr_D_Lewis_-v-_WM_Morrisons_Plc_1601052.2021_-_Judgment_and_Reasons.pdf
+37. Reserved Judgment - EMPLOYMENT TRIBUNALS
+https://assets.publishing.service.gov.uk/media/628e14968fa8f5561cd9b2c0/Mr_D_Lewis_-v-_WM_Morrisons_Plc_1601052.2021_-_Judgment_and_Reasons.pdf
 through Morrisons.” Mr. Devlin explained that the Claimant and Ms. Mitchell ... the decision to dismiss was unethical and unjust, that Mr Thornton was given a.
-                                                                                   38. Unethical behaviour in Australian federal politics - doi.jcu.cz                https://doi.jcu.cz/pdfs/doi/9900/00/4200.pdf                                       The focus of this paper is on events that have occurred at the Australian federal political level during the course of the. Morrison government, focusing in ...
-                                                                                   39. Morrisons wins over ethical food shoppers - Marketing Week
+
+38. Unethical behaviour in Australian federal politics - doi.jcu.cz
+https://doi.jcu.cz/pdfs/doi/9900/00/4200.pdf
+The focus of this paper is on events that have occurred at the Australian federal political level during the course of the. Morrison government, focusing in ...
+
+39. Morrisons wins over ethical food shoppers - Marketing Week
 https://www.marketingweek.com/morrisons-wins-over-ethical-food-shoppers/
 7.10.2009 г. ... Morrisons' “buying British” positioning has given it the ethical edge over rivals including Waitrose and Tesco, attracting recession-hit ...
 
-40. Morrisons reports growth in Q1 2024/25 with sales up 2.4%                      https://finance.yahoo.com/news/morrisons-reports-growth-q1-2024-103452958.html
-27.03.2025 г. ... ... Morrisons has made exceptional progress in a very short time and ... Jamie Dimon said graduates accepting future roles in PE is unethical ...                                                                                      41. Research Ethics in an Unethical World: The Politics and Morality of ...        https://repository.mdx.ac.uk/download/2e8b21ff5bf029ae9e4f31ab6cba69e281ec562d1ef772e7a7a286d32775eeaa/288075/WES_2017_Ethics_Morrison_Sacchetto_Final_deanonym.pdf
+40. Morrisons reports growth in Q1 2024/25 with sales up 2.4%
+https://finance.yahoo.com/news/morrisons-reports-growth-q1-2024-103452958.html
+27.03.2025 г. ... ... Morrisons has made exceptional progress in a very short time and ... Jamie Dimon said graduates accepting future roles in PE is unethical ...
+
+41. Research Ethics in an Unethical World: The Politics and Morality of ...
+https://repository.mdx.ac.uk/download/2e8b21ff5bf029ae9e4f31ab6cba69e281ec562d1ef772e7a7a286d32775eeaa/288075/WES_2017_Ethics_Morrison_Sacchetto_Final_deanonym.pdf
 Claudio Morrison, Middlesex University, The Burroughs, Hendon, London NW4 4BT, UK. Email: c.morrison@mdx.ac.uk. Introduction. The widespread international ...
 
 42. The Good Shopping Guide: Home
 https://thegoodshoppingguide.com/
 Choose Fact, Not Fiction. The original Ethical Accreditation. The definitive guide to brands, ranked for ethics and sustainability.
 
-43. Applying a lens of temporality to better understand voice about ...            https://eprints.whiterose.ac.uk/id/eprint/202309/1/s10551-023-05505-x.pdf          (Morrison, 2023). Even in the most ... and growth may be of greater concern than ethics so they too may ignore voice about unethical behaviour (cf.
+43. Applying a lens of temporality to better understand voice about ...
+https://eprints.whiterose.ac.uk/id/eprint/202309/1/s10551-023-05505-x.pdf
+(Morrison, 2023). Even in the most ... and growth may be of greater concern than ethics so they too may ignore voice about unethical behaviour (cf.
 
 44. Companies Suing Over Mass Arbitration, Saying It's Unethical
-https://www.law.com/2025/04/21/companies-suing-over-mass-arbitration-saying-its-unethical/                                                                            21.04.2025 г. ... ... Morrison & Foerster partner Krista deBoer told Law.com, “and folks ... But his firm consults with outside ethics counsel, he said, and, for the ...
+https://www.law.com/2025/04/21/companies-suing-over-mass-arbitration-saying-its-unethical/
+21.04.2025 г. ... ... Morrison & Foerster partner Krista deBoer told Law.com, “and folks ... But his firm consults with outside ethics counsel, he said, and, for the ...
 
-45. Conceptualising organisational moral disengagement and testing its ...         https://journals.sagepub.com/doi/10.1177/00187267241300866?int.sj-abstract.similar-articles.2                                                                         29.11.2024 г. ... ... Morrison, 2023) by showing the role of OrgMD in relation to these ... ethical leadership, ethical organizational climate, and unethical behavior.                                                                                                                                                                     46. Ethical and Unethical Leadership: A Cross-Cultural and Cross                   https://ideas.repec.org/a/kap/jbuset/v122y2014i2p343-359.html                      ... ethical and unethical leadership are discussed. Copyright Springer Science+Business Media Dordrecht 2014. ... Morrison & Patricia F. Hewlin, 2003. "An Exploratory ...                                                                                                                                                                  47. Unethical conduct by one of Australia's most senior public servants ...        https://transparency.org.au/michael-pezzullo-oped/
+45. Conceptualising organisational moral disengagement and testing its ...
+https://journals.sagepub.com/doi/10.1177/00187267241300866?int.sj-abstract.similar-articles.2
+29.11.2024 г. ... ... Morrison, 2023) by showing the role of OrgMD in relation to these ... ethical leadership, ethical organizational climate, and unethical behavior.
+
+46. Ethical and Unethical Leadership: A Cross-Cultural and Cross
+https://ideas.repec.org/a/kap/jbuset/v122y2014i2p343-359.html
+... ethical and unethical leadership are discussed. Copyright Springer Science+Business Media Dordrecht 2014. ... Morrison & Patricia F. Hewlin, 2003. "An Exploratory ...
+
+47. Unethical conduct by one of Australia's most senior public servants ...
+https://transparency.org.au/michael-pezzullo-oped/
 25.09.2023 г. ... ... Morrison. Three particularly egregious examples stand out. First, the messages show Pezzullo using his relationship with Briggs to put ...
 
 48. A Moral Cleansing Process: How and When Does Unethical Pro ...
@@ -869,6 +996,123 @@ Follow BBC on:
     Contact technical support
 
 Copyright 2025 BBC. All rights reserved.  The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+`;
+
+export const jcbArticleText = `
+
+Woodford Green
+Cloudy
+‎21‎
+‎°C‎
+
+    Discover
+    Following
+
+    News
+    Brexit
+    Royals
+    Entertainment
+    Lifestyle
+    Autos
+    Travel
+    Food & Drink
+
+Sponsored
+Evening Standard
+408.6K Followers
+Business Secretary to meet JCB boss after concerns raised about US tariffs
+Story by David Lynch
+• 5d • 2 min read
+National Potholes Day © PA Archive
+Donald Trump raised other countries’ steel and aluminium tariffs to 50% earlier this year but the levy on British goods remained at 25%.
+
+Current Time 0:00
+/
+Duration 0:00
+0
+View on Watch
+
+Sponsored
+Sponsored
+Sponsored Content
+Indoor skydiving at iFLY: the ultimate thrill for you and your group!
+iFLY UK
+Indoor skydiving at iFLY: the ultimate thrill for you and your group!
+Sponsored
+Ad Choice
+Try for Free Now - Bookkeeping for Small Business - Bookkeeping Made Easy
+xero.com
+Try for Free Now - Bookkeeping for Small Business - Bookkeeping Made Easy
+Sponsored
+Ad Choice
+UK Hypnotherapy Training - Become a Hypnotherapist
+hypnoticworld.com
+UK Hypnotherapy Training - Become a Hypnotherapist
+Sponsored
+Ad Choice
+Play against boredom now!
+Heroes of History
+Play against boredom now!
+Sponsored
+Ad Choice
+More for You
+Billions wiped off value of banks in Labour tax fright
+This Is Money This Is Money ·15h
+Billions wiped off value of banks in Labour tax fright
+Aldi becomes first UK supermarket to introduce new £13.02 rule from September
+Essex Live Essex Live ·21h
+Aldi becomes first UK supermarket to introduce new £13.02 rule from September
+Thai court sacks prime minister over compromising phone call with Cambodian leader
+Euronews Euronews ·4h
+Thai court sacks prime minister over compromising phone call with Cambodian leader
+Royal Mail temporarily stops sending packages to US due to Trump tariffs
+The Independent The Independent ·3d
+Royal Mail temporarily stops sending packages to US due to Trump tariffs
+Did Trump just push India into China's arms?
+The Week UK The Week UK ·18h
+Did Trump just push India into China's arms?
+Jobless total in Germany jumps to a 10-year high
+This Is Money This Is Money ·15h
+Jobless total in Germany jumps to a 10-year high
+UK bank shares fall as City fears budget tax raid; US trade deficit surges – as it happened
+The Guardian The Guardian ·19h
+UK bank shares fall as City fears budget tax raid; US trade deficit surges – as it happened
+
+The Independent
+1.9M Followers
+Farage wants UK businesses to fail, minister says as Labour reopens Brexit wounds
+Story by David Maddox
+• 3d • 3 min read
+Current Time
+/
+Duration
+The Independent
+Nigel Farage pledges to deport all small boat asylum seekers
+100
+View on WatchView on Watch
+
+A senior minister is set to accuse Nigel Farage of “wanting Britain to fail” as Labour opens a new Brexit front in trying to take on Reform UK’s surge in the polls.
+
+European affairs minister Nick Thomas-Symonds is to give a major speech in London warning that the impact of a Reform UK government would hit UK trade by £9bn.
+
+It comes as Labour continues to lag by around 8 points in the polls behind Reform and 24 hours after Mr Farage attempted to seize the political initiative by outlining plans for mass deportations of illegal migrants.
+
+The deportation plans have already drawn a warning from ex-Tory attorney general Dominic Grieve that they would mean the end of the post-Brexit deal with the EU bringing an end to free trade, data sharing and security arrangements.
+Cabinet Office minister Nick Thomas-Symonds (Lucy North/PA) (PA Wire)
+
+But in his speech Mr Thomas Symonds, who negotiated the recent Brexit reset, will argue that Farage’s policies will inevitably lead to more red tape for business.
+
+It comes as the Labour government said it wants to get a permanent deal with the EU on food and drink agreed in the next 18 months, as it sets out its stall ahead of talks later this year.
+
+The current temporary agreement, which was put in place in June, stopped checks on some fruit and vegetables imported from the EU which meant no border checks or fees would be paid. It will expire in January 2027.
+
+Mr Thomas-Symonds will accuse Mr Farage of "siding with the promise of more red tape, mountains of paperwork, and a bureaucratic burden".
+
+Sponsored Content
+More for You
+Profile Picture
+
+
 `;
 
 export const barclaysInfo = `
