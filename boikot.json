@@ -8817,6 +8817,110 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Irwin_Tools_logo.svg",
             "siteUrl": "https://www.irwin.com/",
             "updatedAt": "2025-09-13T17:14:54.841Z"
+        },
+        "boden": {
+            "names": [
+                "Boden"
+            ],
+            "comment": "Boden is a British clothing retailer with an emphasis on sustainability. Its childrens clothing catalogue and clothing has been accused of perpetuating gender stereotypes [1][2].",
+            "sources": {
+                "1": "https://ww.fashionnetwork.com/news/Boden-accused-of-kidswear-sexism,1064107.html",
+                "2": "https://www.dailymail.co.uk/femail/article-6577311/Boden-criticised-sexist-childrens-clothing.html"
+            },
+            "sourceNotes": {
+                "1": "perpetuated gender stereotypes in its catalogue",
+                "2": "perpetuated gender stereotypes in its childrens clothing"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Boden_logo_green.svg",
+            "siteUrl": "https://boden.com/",
+            "updatedAt": "2025-09-13T17:14:54.841Z"
+        },
+        "bloomingdale's": {
+            "names": [
+                "Bloomingdale's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "macy's"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bloomingdale%27s_Logo.svg",
+            "siteUrl": "https://www.bloomingdales.com/",
+            "updatedAt": "2025-09-13T17:14:54.841Z"
+        },
+        "macy's": {
+            "names": [
+                "Macy's",
+                "Macy's, Inc.",
+                "Federated Department Stores, Inc.",
+                "Federated Department Stores",
+                "M"
+            ],
+            "comment": "Macy's is an American retailer that has been accused of racially profiling customers [1][2][3], discriminating against disabled employees [4], underpaying its workforce [5], and illegally enforcing criminal background checks on minority job applicants [6]. The company also faces environmental violations involving irresponsible hazardous waste disposal [7] and was fined after an employee died in unsafe working conditions [8].",
+            "sources": {
+                "1": "https://www.cbsnews.com/news/macys-will-pay-650000-to-settle-racial-bias-claims/",
+                "2": "https://www.cbsnews.com/newyork/news/report-sharpton-set-to-meet-with-macys-ceo-over-racial-profiling-claims/",
+                "3": "https://www.huffpost.com/entry/macys-profiling-asian-shoppers-lawsuit_n_59c12e73e4b0186c2205dc2a",
+                "4": "https://www.eeoc.gov/newsroom/macys-pay-75000-settle-eeoc-disability-discrimination-lawsuit",
+                "5": "https://www.law360.com/articles/1215328/macy-s-drivers-get-3-5m-wage-deal-with-xpo-unit-approved",
+                "6": "https://web.archive.org/web/20200905083449/https://www.reuters.com/article/macys-settlement/macys-settles-lawsuit-over-nyc-criminal-background-checks-of-minority-applicants-idUSL1N2G11CO",
+                "7": "https://rivcoda.org/news/macys-llc-ordered-pay-16-million-environmental-violations",
+                "8": "https://violationtracker.goodjobsfirst.org/violation-tracker/ca-macys-corporate-services-inc"
+            },
+            "sourceNotes": {
+                "1": "racially profiled customers",
+                "2": "racially profiled customers",
+                "3": "racially profiled customers",
+                "4": "discriminated against disabled employees",
+                "5": "underpaid employees",
+                "6": "illegally enforced criminal background checks on minority job applicants",
+                "7": "environmental violations; irresposible disposal of hazardous waste",
+                "8": "fined after an employee died in unsafe working conditions"
+            },
+            "tags": [
+                "retail"
+            ],
+            "score": 17,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Macy%27s_logo.svg",
+            "siteUrl": "http://macys.com/",
+            "updatedAt": "2025-09-13T17:14:54.841Z"
+        },
+        "bluemercury": {
+            "names": [
+                "Bluemercury"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "racially profiled customers",
+                "2": "racially profiled customers",
+                "3": "racially profiled customers",
+                "4": "discriminated against disabled employees",
+                "5": "underpaid employees",
+                "6": "illegally enforced criminal background checks on minority job applicants",
+                "7": "environmental violations; irresposible disposal of hazardous waste",
+                "8": "fined after an employee died in unsafe working conditions"
+            },
+            "tags": [
+                "retail"
+            ],
+            "score": 17,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bluemercury_Makeup_Skincare_Spa.jpg",
+            "siteUrl": "http://www.bluemercury.com/",
+            "updatedAt": "2025-09-13T17:14:54.841Z"
         }
     }
 }
