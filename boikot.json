@@ -8342,393 +8342,481 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Tommy_hilfig_vectorlogo.svg",
             "siteUrl": "https://global.tommy.com/",
             "updatedAt": "2025-09-07T21:57:23.057Z"
+        },
+        "billabong": {
+            "names": [
+                "Billabong",
+                "Billabong International Limited"
+            ],
+            "comment": "",
+            "sources": {
+                "1": ""
+            },
+            "sourceNotes": {
+                "1": ""
+            },
+            "tags": [
+                "clothing",
+                "sportswear"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/Billabong_logo.svg",
+            "siteUrl": "https://www.billabong.com/",
+            "updatedAt": "2025-09-09T19:56:36.347Z"
+        },
+        "quiksilver": {
+            "names": [
+                "Quiksilver",
+                "Quiksilver, Inc."
+            ],
+            "comment": "",
+            "sources": {
+                "1": ""
+            },
+            "sourceNotes": {
+                "1": ""
+            },
+            "tags": [
+                "clothing",
+                "sportswear"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c6/Quiksilver-brand.svg",
+            "siteUrl": "https://www.quiksilver.com/",
+            "updatedAt": "2025-09-09T19:56:36.347Z"
+        },
+        "airwalk": {
+            "names": [
+                "Airwalk"
+            ],
+            "comment": "",
+            "sources": {
+                "1": ""
+            },
+            "sourceNotes": {
+                "1": ""
+            },
+            "tags": [
+                "clothing",
+                "sportswear"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Airwalk_Logo.svg",
+            "siteUrl": "http://www.airwalk.com/",
+            "updatedAt": "2025-09-09T19:56:36.347Z"
+        },
+        "vision-street-wear": {
+            "names": [
+                "Vision Street Wear"
+            ],
+            "comment": "",
+            "sources": {
+                "1": ""
+            },
+            "sourceNotes": {
+                "1": ""
+            },
+            "tags": [
+                "clothing",
+                "sportswear"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Vision_streetwear_logo.png",
+            "siteUrl": "https://visionstreetwear.com/",
+            "updatedAt": "2025-09-09T19:56:36.347Z"
+        },
+        "ted-baker": {
+            "names": [
+                "Ted Baker"
+            ],
+            "comment": "",
+            "sources": {
+                "1": ""
+            },
+            "sourceNotes": {
+                "1": ""
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/TedBaker.svg",
+            "siteUrl": "http://tedbaker.com/",
+            "updatedAt": "2025-09-09T19:56:36.347Z"
+        },
+        "tapout": {
+            "names": [
+                "Tapout"
+            ],
+            "comment": "",
+            "sources": {
+                "1": ""
+            },
+            "sourceNotes": {
+                "1": ""
+            },
+            "tags": [
+                "clothing",
+                "sportswear"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Tapout_brand_logo.png",
+            "siteUrl": "https://tapout.com/",
+            "updatedAt": "2025-09-09T19:56:36.347Z"
+        },
+        "aeropostale": {
+            "names": [
+                "Aéropostale"
+            ],
+            "comment": "",
+            "sources": {
+                "1": ""
+            },
+            "sourceNotes": {
+                "1": ""
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Aeropostale_logo17.png",
+            "siteUrl": "https://www.aeropostale.com/",
+            "updatedAt": "2025-09-09T19:56:36.347Z"
+        },
+        "forever-21": {
+            "names": [
+                "Forever 21",
+                "F21 OpCo LLC",
+                "Fashion 21"
+            ],
+            "comment": "",
+            "sources": {
+                "1": ""
+            },
+            "sourceNotes": {
+                "1": ""
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Forever_21_logo.svg",
+            "siteUrl": "http://forever21.com/",
+            "updatedAt": "2025-09-09T19:56:36.347Z"
+        },
+        "brooks-brothers": {
+            "names": [
+                "Brooks Brothers",
+                "Brooks Brothers Inc."
+            ],
+            "comment": "",
+            "sources": {
+                "1": ""
+            },
+            "sourceNotes": {
+                "1": ""
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7c/Brooks_Brothers_new_logo.svg",
+            "siteUrl": "https://www.brooksbrothers.com/",
+            "updatedAt": "2025-09-09T19:56:36.347Z"
+        },
+        "champion": {
+            "names": [
+                "Champion",
+                "Champion U.S.A."
+            ],
+            "comment": "",
+            "sources": {
+                "1": ""
+            },
+            "sourceNotes": {
+                "1": ""
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Champion_USA_logo.svg",
+            "siteUrl": "https://www.champion.com/",
+            "updatedAt": "2025-09-09T19:56:36.347Z"
+        },
+        "dc-shoes": {
+            "names": [
+                "DC Shoes",
+                "DC Shoes, Inc."
+            ],
+            "comment": "",
+            "sources": {
+                "1": ""
+            },
+            "sourceNotes": {
+                "1": ""
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/70/DCSHOECOUSA_Logo.svg",
+            "siteUrl": "http://www.dcshoes.com/",
+            "updatedAt": "2025-09-09T19:56:36.347Z"
+        },
+        "juicy-couture": {
+            "names": [
+                "Juicy Couture"
+            ],
+            "comment": "",
+            "sources": {
+                "1": ""
+            },
+            "sourceNotes": {
+                "1": ""
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Juicy_Couture_logo.svg",
+            "siteUrl": "https://juicycouture.com/",
+            "updatedAt": "2025-09-09T19:56:36.347Z"
+        },
+        "lucky-brand": {
+            "names": [
+                "Lucky Brand",
+                "Lucky Brand Jeans"
+            ],
+            "comment": "",
+            "sources": {
+                "1": ""
+            },
+            "sourceNotes": {
+                "1": ""
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Lucky_Brand_Jeans_logo.svg",
+            "siteUrl": "http://www.luckybrand.com/",
+            "updatedAt": "2025-09-09T19:56:36.347Z"
+        },
+        "nautica": {
+            "names": [
+                "Nautica"
+            ],
+            "comment": "",
+            "sources": {
+                "1": ""
+            },
+            "sourceNotes": {
+                "1": ""
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/22/Nautica_%28clothing_logo%29.png",
+            "siteUrl": "http://www.nautica.com/",
+            "updatedAt": "2025-09-09T19:56:36.347Z"
+        },
+        "reebok": {
+            "names": [
+                "Reebok"
+            ],
+            "comment": "",
+            "sources": {
+                "1": ""
+            },
+            "sourceNotes": {
+                "1": ""
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Reebok_red_logo.svg",
+            "siteUrl": "https://www.reebok.com/us/",
+            "updatedAt": "2025-09-09T19:56:36.347Z"
+        },
+        "nine-west": {
+            "names": [
+                "Nine West",
+                "9 West"
+            ],
+            "comment": "",
+            "sources": {
+                "1": ""
+            },
+            "sourceNotes": {
+                "1": ""
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Nine_West_logo.png",
+            "siteUrl": "https://ninewest.com/",
+            "updatedAt": "2025-09-09T19:56:36.347Z"
+        },
+        "authentic-brands-group": {
+            "names": [
+                "Authentic Brands Group",
+                "Authentic Brands Group LLC",
+                "ABG"
+            ],
+            "comment": "Authentic Brands Group is an American private equity firm that has been connected to forced labour in Chinese factories [1].",
+            "sources": {
+                "1": "https://www.ituc-csi.org/apparel-brands-Uyghur-forced-labour"
+            },
+            "sourceNotes": {
+                "1": "connected to forced labour in china"
+            },
+            "tags": [
+                "private equity"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_2024_Logo.jpg",
+            "siteUrl": "https://corporate.authentic.com/",
+            "updatedAt": "2025-09-10T20:59:37.727Z"
+        },
+        "black-and-decker": {
+            "names": [
+                "Black & Decker"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [],
+            "score": 24,
+            "ownedBy": [
+                "stanley-black-and-decker"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Black%2BDecker_Logo.svg",
+            "siteUrl": "http://blackanddecker.com/",
+            "updatedAt": "2025-09-10T22:09:41.231Z"
+        },
+        "stanley-black-and-decker": {
+            "names": [
+                "Stanley Black & Decker",
+                "Stanley Black & Decker, Inc.",
+                "The Stanley Works",
+                "Stanley",
+                "SWK"
+            ],
+            "comment": "Stanley Black & Decker is a multinational tool and security company that has hidden payments to executives [1] and underpaid field technicians and other employees [2][3]. The firm has continued to sell known unsafe garden tools that caused injuries [4][5] and removed LGBTQ and DEI content from its websites [6].",
+            "sources": {
+                "1": "https://www.sec.gov/newsroom/press-releases/2023-111",
+                "2": "https://www.law360.com/articles/577611/black-decker-shells-out-5m-to-settle-wage-class-action",
+                "3": "https://www.law360.com/articles/391580/judge-oks-class-settlement-in-black-decker-wages-suit",
+                "4": "https://web.archive.org/web/20150511182124/http://www.cpsc.gov/en/Newsroom/News-Releases/2015/Black-and-Decker-Agrees-to-1575-Million-Dollar-Civil-Penalty-Internal-Compliance-Program-for-Failure-to-Report-Defective-Lawnmowers/",
+                "5": "https://web.archive.org/web/20130420152711/http://www.cpsc.gov/en/newsroom/news-releases/2011/black--decker-agrees-to-960000-civil-penalty-for-failing-to-report-defective-grasshog-xp-weed-trimmeredgers/",
+                "6": "https://www.dailymail.co.uk/news/article-13834661/toolmaker-stanley-black-decker-dei-lgbtq-campaign-website-boycott.html"
+            },
+            "sourceNotes": {
+                "1": "hid payments to executives",
+                "2": "deprived field technichians of proper wages and underpaid employees",
+                "3": "deprived field technichians of proper wages and underpaid employees",
+                "4": "continued to sell known unsafe garden tools which injured multiple people",
+                "5": "continued to sell known unsafe garden tools which injured multiple people",
+                "6": "removed LGBTQ and DEI content from its websites"
+            },
+            "tags": [
+                "retail",
+                "power tools"
+            ],
+            "score": 24,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Stanley_Black_%26_Decker_Logo.svg",
+            "siteUrl": "https://stanleyblackanddecker.com/",
+            "updatedAt": "2025-09-13T17:14:54.841Z"
+        },
+        "dewalt": {
+            "names": [
+                "DeWalt"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "power tools"
+            ],
+            "score": 24,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/DeWalt_Logo.svg",
+            "siteUrl": "https://www.dewalt.com/",
+            "updatedAt": "2025-09-13T17:14:54.841Z"
+        },
+        "irwin": {
+            "names": [
+                "Irwin",
+                "Irwin Industrial Tools",
+                "Irwin Auger Bit Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "power tools"
+            ],
+            "score": 24,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Irwin_Tools_logo.svg",
+            "siteUrl": "https://www.irwin.com/",
+            "updatedAt": "2025-09-13T17:14:54.841Z"
         }
-    },
-    "billabong": {
-        "names": [
-            "Billabong",
-            "Billabong International Limited"
-        ],
-        "comment": "",
-        "sources": {
-            "1": ""
-        },
-        "sourceNotes": {
-            "1": ""
-        },
-        "tags": [
-            "clothing",
-            "sportswear"
-        ],
-        "score": null,
-        "ownedBy": [
-            "authentic-brands-group"
-        ],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/Billabong_logo.svg",
-        "siteUrl": "https://www.billabong.com/",
-        "updatedAt": "2025-09-09T19:56:36.347Z"
-    },
-    "quiksilver": {
-        "names": [
-            "Quiksilver",
-            "Quiksilver, Inc."
-        ],
-        "comment": "",
-        "sources": {
-            "1": ""
-        },
-        "sourceNotes": {
-            "1": ""
-        },
-        "tags": [
-            "clothing",
-            "sportswear"
-        ],
-        "score": null,
-        "ownedBy": [
-            "authentic-brands-group"
-        ],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c6/Quiksilver-brand.svg",
-        "siteUrl": "https://www.quiksilver.com/",
-        "updatedAt": "2025-09-09T19:56:36.347Z"
-    },
-    "airwalk": {
-        "names": [
-            "Airwalk"
-        ],
-        "comment": "",
-        "sources": {
-            "1": ""
-        },
-        "sourceNotes": {
-            "1": ""
-        },
-        "tags": [
-            "clothing",
-            "sportswear"
-        ],
-        "score": null,
-        "ownedBy": [
-            "authentic-brands-group"
-        ],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Airwalk_Logo.svg",
-        "siteUrl": "http://www.airwalk.com/",
-        "updatedAt": "2025-09-09T19:56:36.347Z"
-    },
-    "vision-street-wear": {
-        "names": [
-            "Vision Street Wear"
-        ],
-        "comment": "",
-        "sources": {
-            "1": ""
-        },
-        "sourceNotes": {
-            "1": ""
-        },
-        "tags": [
-            "clothing",
-            "sportswear"
-        ],
-        "score": null,
-        "ownedBy": [
-            "authentic-brands-group"
-        ],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Vision_streetwear_logo.png",
-        "siteUrl": "https://visionstreetwear.com/",
-        "updatedAt": "2025-09-09T19:56:36.347Z"
-    },
-    "ted-baker": {
-        "names": [
-            "Ted Baker"
-        ],
-        "comment": "",
-        "sources": {
-            "1": ""
-        },
-        "sourceNotes": {
-            "1": ""
-        },
-        "tags": [
-            "clothing"
-        ],
-        "score": null,
-        "ownedBy": [
-            "authentic-brands-group"
-        ],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/TedBaker.svg",
-        "siteUrl": "http://tedbaker.com/",
-        "updatedAt": "2025-09-09T19:56:36.347Z"
-    },
-    "tapout": {
-        "names": [
-            "Tapout"
-        ],
-        "comment": "",
-        "sources": {
-            "1": ""
-        },
-        "sourceNotes": {
-            "1": ""
-        },
-        "tags": [
-            "clothing",
-            "sportswear"
-        ],
-        "score": null,
-        "ownedBy": [
-            "authentic-brands-group"
-        ],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Tapout_brand_logo.png",
-        "siteUrl": "https://tapout.com/",
-        "updatedAt": "2025-09-09T19:56:36.347Z"
-    },"aeropostale": {
-        "names": [
-            "Aéropostale"
-        ],
-        "comment": "",
-        "sources": {
-            "1": ""
-        },
-        "sourceNotes": {
-            "1": ""
-        },
-        "tags": [
-            "clothing"
-        ],
-        "score": null,
-        "ownedBy": [
-            "authentic-brands-group"
-        ],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Aeropostale_logo17.png",
-        "siteUrl": "https://www.aeropostale.com/",
-        "updatedAt": "2025-09-09T19:56:36.347Z"
-    },
-    "forever-21": {
-        "names": [
-            "Forever 21",
-            "F21 OpCo LLC",
-            "Fashion 21"
-        ],
-        "comment": "",
-        "sources": {
-            "1": ""
-        },
-        "sourceNotes": {
-            "1": ""
-        },
-        "tags": [
-            "clothing"
-        ],
-        "score": null,
-        "ownedBy": [
-            "authentic-brands-group"
-        ],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Forever_21_logo.svg",
-        "siteUrl": "http://forever21.com/",
-        "updatedAt": "2025-09-09T19:56:36.347Z"
-    },
-    "brooks-brothers": {
-        "names": [
-            "Brooks Brothers",
-            "Brooks Brothers Inc."
-        ],
-        "comment": "",
-        "sources": {
-            "1": ""
-        },
-        "sourceNotes": {
-            "1": ""
-        },
-        "tags": [
-            "clothing"
-        ],
-        "score": null,
-        "ownedBy": [
-            "authentic-brands-group"
-        ],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7c/Brooks_Brothers_new_logo.svg",
-        "siteUrl": "https://www.brooksbrothers.com/",
-        "updatedAt": "2025-09-09T19:56:36.347Z"
-    },
-    "champion": {
-        "names": [
-            "Champion",
-            "Champion U.S.A."
-        ],
-        "comment": "",
-        "sources": {
-            "1": ""
-        },
-        "sourceNotes": {
-            "1": ""
-        },
-        "tags": [
-            "clothing"
-        ],
-        "score": null,
-        "ownedBy": [
-            "authentic-brands-group"
-        ],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Champion_USA_logo.svg",
-        "siteUrl": "https://www.champion.com/",
-        "updatedAt": "2025-09-09T19:56:36.347Z"
-    },
-    "dc-shoes": {
-        "names": [
-            "DC Shoes",
-            "DC Shoes, Inc."
-        ],
-        "comment": "",
-        "sources": {
-            "1": ""
-        },
-        "sourceNotes": {
-            "1": ""
-        },
-        "tags": [
-            "clothing"
-        ],
-        "score": null,
-        "ownedBy": [
-            "authentic-brands-group"
-        ],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/70/DCSHOECOUSA_Logo.svg",
-        "siteUrl": "http://www.dcshoes.com/",
-        "updatedAt": "2025-09-09T19:56:36.347Z"
-    },
-    "juicy-couture": {
-        "names": [
-            "Juicy Couture"
-        ],
-        "comment": "",
-        "sources": {
-            "1": ""
-        },
-        "sourceNotes": {
-            "1": ""
-        },
-        "tags": [
-            "clothing"
-        ],
-        "score": null,
-        "ownedBy": [
-            "authentic-brands-group"
-        ],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Juicy_Couture_logo.svg",
-        "siteUrl": "https://juicycouture.com/",
-        "updatedAt": "2025-09-09T19:56:36.347Z"
-    },
-    "lucky-brand": {
-        "names": [
-            "Lucky Brand",
-            "Lucky Brand Jeans"
-        ],
-        "comment": "",
-        "sources": {
-            "1": ""
-        },
-        "sourceNotes": {
-            "1": ""
-        },
-        "tags": [
-            "clothing"
-        ],
-        "score": null,
-        "ownedBy": [
-            "authentic-brands-group"
-        ],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Lucky_Brand_Jeans_logo.svg",
-        "siteUrl": "http://www.luckybrand.com/",
-        "updatedAt": "2025-09-09T19:56:36.347Z"
-    },
-    "nautica": {
-        "names": [
-            "Nautica"
-        ],
-        "comment": "",
-        "sources": {
-            "1": ""
-        },
-        "sourceNotes": {
-            "1": ""
-        },
-        "tags": [
-            "clothing"
-        ],
-        "score": null,
-        "ownedBy": [
-            "authentic-brands-group"
-        ],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/22/Nautica_%28clothing_logo%29.png",
-        "siteUrl": "http://www.nautica.com/",
-        "updatedAt": "2025-09-09T19:56:36.347Z"
-    },
-    "reebok": {
-        "names": [
-            "Reebok"
-        ],
-        "comment": "",
-        "sources": {
-            "1": ""
-        },
-        "sourceNotes": {
-            "1": ""
-        },
-        "tags": [
-            "clothing"
-        ],
-        "score": null,
-        "ownedBy": [
-            "authentic-brands-group"
-        ],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Reebok_red_logo.svg",
-        "siteUrl": "https://www.reebok.com/us/",
-        "updatedAt": "2025-09-09T19:56:36.347Z"
-    },
-    "nine-west": {
-        "names": [
-            "Nine West",
-            "9 West"
-        ],
-        "comment": "",
-        "sources": {
-            "1": ""
-        },
-        "sourceNotes": {
-            "1": ""
-        },
-        "tags": [
-            "clothing"
-        ],
-        "score": null,
-        "ownedBy": [
-            "authentic-brands-group"
-        ],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Nine_West_logo.png",
-        "siteUrl": "https://ninewest.com/",
-        "updatedAt": "2025-09-09T19:56:36.347Z"
-    },
-    "authentic-brands-group": {
-        "names": [
-            "Authentic Brands Group",
-            "Authentic Brands Group LLC",
-            "ABG"
-        ],
-        "comment": "Authentic Brands Group is an American private equity firm that has been connected to forced labour in Chinese factories [1].",
-        "sources": {
-            "1": "https://www.ituc-csi.org/apparel-brands-Uyghur-forced-labour"
-        },
-        "sourceNotes": {
-            "1": "connected to forced labour in china"
-        },
-        "tags": [
-            "private equity"
-        ],
-        "score": 40,
-        "ownedBy": [],
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_2024_Logo.jpg",
-        "siteUrl": "https://corporate.authentic.com/",
-        "updatedAt": "2025-09-10T20:59:37.727Z"
     }
 }
