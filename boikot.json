@@ -8921,6 +8921,293 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bluemercury_Makeup_Skincare_Spa.jpg",
             "siteUrl": "http://www.bluemercury.com/",
             "updatedAt": "2025-09-13T17:14:54.841Z"
+        },
+        "booking.com": {
+            "names": [
+                "Booking.com"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel",
+                "tech"
+            ],
+            "score": 34,
+            "ownedBy": [
+                "booking-holdings"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Booking.com_logo.svg",
+            "siteUrl": "https://booking.com/",
+            "updatedAt": "2025-09-14T16:24:42.245Z"
+        },
+        "priceline.com": {
+            "names": [
+                "Priceline.com"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel",
+                "tech"
+            ],
+            "score": 34,
+            "ownedBy": [
+                "booking-holdings"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Priceline.com_logo.svg",
+            "siteUrl": "http://www.priceline.com/",
+            "updatedAt": "2025-09-14T16:24:42.245Z"
+        },
+        "agoda": {
+            "names": [
+                "Agoda"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel",
+                "tech"
+            ],
+            "score": 34,
+            "ownedBy": [
+                "booking-holdings"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Agoda_logo_2019.svg",
+            "siteUrl": "https://www.agoda.com/",
+            "updatedAt": "2025-09-14T16:24:42.245Z"
+        },
+        "kayak": {
+            "names": [
+                "Kayak",
+                "KAYAK"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel",
+                "tech"
+            ],
+            "score": 34,
+            "ownedBy": [
+                "booking-holdings"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Kayak_Logo.svg",
+            "siteUrl": "https://www.kayak.com/",
+            "updatedAt": "2025-09-14T16:24:42.245Z"
+        },
+        "opentable": {
+            "names": [
+                "OpenTable"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel",
+                "tech"
+            ],
+            "score": 34,
+            "ownedBy": [
+                "booking-holdings"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/OpenTable_logo.svg",
+            "siteUrl": "https://opentable.com/",
+            "updatedAt": "2025-09-14T16:24:42.245Z"
+        },
+        "momondo": {
+            "names": [
+                "Momondo",
+                "momondo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel",
+                "tech"
+            ],
+            "score": 34,
+            "ownedBy": [
+                "booking-holdings"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/0c/Momondo_A-S_logo.svg",
+            "siteUrl": "http://momondo.com/",
+            "updatedAt": "2025-09-14T16:24:42.245Z"
+        },
+        "booking-holdings": {
+            "names": [
+                "Booking  Holdings",
+                "Booking Holdings Inc."
+            ],
+            "comment": "Booking Holdings is a global online travel conglomerate which has been implicated in anti‑competitive collusion and unfair pricing practices [1][2][3]. It has been criticized for failing to pay small hotels while distributing billions to shareholders and seeking pandemic government aid [4][5], and for operating in illegal Israeli settlements in the West Bank [6][7].",
+            "sources": {
+                "1": "https://webarchive.nationalarchives.gov.uk/ukgwa/20140402153926/http://www.oft.gov.uk/OFTwork/competition-act-and-cartels/ca98/closure/online-booking/",
+                "2": "https://www.reuters.com/article/us-turkey-tourism-booking-idUSKBN1701XC",
+                "3": "https://gulfnews.com/travel/only-one-room-left-bookingcom-faces-massive-lawsuits-over-anti-competitive-practices-market-abuse-deceptive-pricing-fabricated-scarcity-tactics-1.500230124",
+                "4": "https://www.theguardian.com/business/2023/oct/03/bookingcom-makes-a-fortune-so-why-is-it-leaving-its-bills-to-small-hotels-unpaid",
+                "5": "https://www.bloomberg.com/news/articles/2020-04-24/tech-firm-s-call-for-help-draws-public-outcry-policy-rethink",
+                "6": "https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25542",
+                "7": "https://www.justiceinfo.net/en/132249-is-booking-com-profiting-from-war-crimes-in-palestine.html"
+            },
+            "sourceNotes": {
+                "1": "anti competetive collusion",
+                "2": "Booking.com was accused of violating Turkish competition law through unfair, anti‑competitive practices against travel agencies.",
+                "3": "unfair pricing practices",
+                "4": "failing to pay small hotels while paying shareholders billions",
+                "5": "asked for government financial support during pandemic while paying shareholders billions",
+                "6": "conducted operations in illegal israeli settlements in the west bank",
+                "7": "conducted operations in illegal israeli settlements in the west bank"
+            },
+            "tags": [
+                "travel",
+                "tech"
+            ],
+            "score": 34,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Booking_Holdings_Inc._Logo.svg",
+            "siteUrl": "http://bookingholdings.com/",
+            "updatedAt": "2025-09-14T16:24:42.245Z"
+        },
+        "boots": {
+            "names": [
+                "Boots"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "sycamore-partners"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Boots_logo.svg",
+            "siteUrl": "https://me.boots.com/",
+            "updatedAt": "2025-09-14T16:24:42.245Z"
+        },
+        "bt": {
+            "names": [
+                "BT",
+                "BT Group plc",
+                "British Telecom",
+                "BT.A",
+                "Electric Telegraph Company"
+            ],
+            "comment": "BT is a British telecommunications company that supplied military infrastructure used in drone strikes in Yemen and Somalia [1], overcharged customers by £600 million and concealed information about those overcharges [2][3][4], and engaged in price‑fixing schemes that underpaid freelancers [5]. It has also been responsible for failures that crippled the UK's emergency call handling system [6] and for unsafe working conditions that contributed to a technician's death due to lack of training [7].",
+            "sources": {
+                "1": "https://web.archive.org/web/20140521031829/http://www.reprieve.org.uk/media/downloads/2013_07_15_PUB_Complaint_to_UK_NCP_re_BT_plc.pdf",
+                "2": "https://www.callclaim.co.uk/media/y5hlb5kd/2021-01-17-call-press-release-final.pdf",
+                "3": "https://www.ofcom.org.uk/phones-and-broadband/service-quality/18m-in-refunds-and-credits-for-bt-customers-following-ofcom-enforcement",
+                "4": "https://www.ofcom.org.uk/about-ofcom/latest/bulletins/competition-bulletins/all-closed-cases/cw_01217",
+                "5": "https://www.cityam.com/sky-bt-img-itv-and-bbc-broadcasters-caught-in-freelancer-pay-fixing-scandal/",
+                "6": "https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/bt-fined-17.5m-for-999-call-handling-failures",
+                "7": "https://www.ioshmagazine.com/2024/06/11/ps14m-fine-telecoms-giant-after-engineers-body-found-river"
+            },
+            "sourceNotes": {
+                "1": "was involved in providing military infrastructure used in drone strikes in yemen and somalia",
+                "2": "overcharged customers by £600 million",
+                "3": "engaged in price fixing to underpay freelancers",
+                "4": "hid information and overcharged customers",
+                "5": "hid information and overcharged customers",
+                "6": "responsible for problems that disabled the company's provision of the UK's emergency call handling system",
+                "7": "unsafe working conditions and lack of training led to a technician's death"
+            },
+            "tags": [
+                "telecommunications"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/BT_Group_2022.svg",
+            "siteUrl": "https://www.bt.com/about",
+            "updatedAt": "2025-09-16T09:26:11.926Z"
+        },
+        "openreach": {
+            "names": [
+                "Openreach",
+                "Openreach Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "was involved in providing military infrastructure used in drone strikes in yemen and somalia",
+                "2": "overcharged customers by £600 million",
+                "3": "engaged in price fixing to underpay freelancers",
+                "4": "hid information and overcharged customers",
+                "5": "hid information and overcharged customers",
+                "6": "responsible for problems that disabled the company's provision of the UK's emergency call handling system",
+                "7": "unsafe working conditions and lack of training led to a technician's death"
+            },
+            "tags": [
+                "telecommunications"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "bt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Openreach_2023.svg",
+            "siteUrl": "https://www.openreach.com/",
+            "updatedAt": "2025-09-16T09:26:11.926Z"
+        },
+        "plusnet": {
+            "names": [
+                "Plusnet",
+                "Plusnet plc"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "was involved in providing military infrastructure used in drone strikes in yemen and somalia",
+                "2": "overcharged customers by £600 million",
+                "3": "engaged in price fixing to underpay freelancers",
+                "4": "hid information and overcharged customers",
+                "5": "hid information and overcharged customers",
+                "6": "responsible for problems that disabled the company's provision of the UK's emergency call handling system",
+                "7": "unsafe working conditions and lack of training led to a technician's death"
+            },
+            "tags": [
+                "telecommunications"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "bt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/ab/Plusnet_logo.svg",
+            "siteUrl": "https://plus.net/",
+            "updatedAt": "2025-09-16T09:26:11.926Z"
+        },
+        "ee": {
+            "names": [
+                "EE",
+                "EE Limited",
+                "Everything Everywhere",
+                "Everything Everywhere Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "was involved in providing military infrastructure used in drone strikes in yemen and somalia",
+                "2": "overcharged customers by £600 million",
+                "3": "engaged in price fixing to underpay freelancers",
+                "4": "hid information and overcharged customers",
+                "5": "hid information and overcharged customers",
+                "6": "responsible for problems that disabled the company's provision of the UK's emergency call handling system",
+                "7": "unsafe working conditions and lack of training led to a technician's death"
+            },
+            "tags": [
+                "telecommunications"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "bt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/EE_Logo_2022.svg",
+            "siteUrl": "https://ee.co.uk/",
+            "updatedAt": "2025-09-16T09:26:11.926Z"
         }
     }
 }
