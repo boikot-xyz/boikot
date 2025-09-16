@@ -9208,6 +9208,56 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/EE_Logo_2022.svg",
             "siteUrl": "https://ee.co.uk/",
             "updatedAt": "2025-09-16T09:26:11.926Z"
+        },
+        "zoom": {
+            "names": [
+                "Zoom",
+                "Zoom Communications",
+                "Zoom Communications, Inc.",
+                "Zoom Video Communications, Inc.",
+                "Saasbee",
+                "Saasbee, Inc."
+            ],
+            "comment": "Zoom is an American video‑conferencing platform that published terms of service permitting the company to train artificial intelligence on user data [1]. It has illegally shared user data with large technology firms [2][3] and, at the behest of the Chinese government, suspended the accounts of human‑rights activists discussing the 1989 Tiananmen Square incident [4][5].",
+            "sources": {
+                "1": "https://www.vox.com/technology/2023/8/9/23824799/zoom-ai-privacy-return-to-office",
+                "2": "https://www.law360.com/articles/1486153/-85m-deal-over-zoombombing-gets-ok-despite-objections",
+                "3": "https://www.npr.org/2021/08/01/1023468165/zoom-agrees-to-settle-a-privacy-lawsuit-for-85-million",
+                "4": "https://time.com/5855033/zoom-ceo-eric-yuan-time100-talks/",
+                "5": "https://techcrunch.com/2020/06/11/zoom-admits-to-shutting-down-activist-accounts-at-the-request-of-the-chinese-government/"
+            },
+            "sourceNotes": {
+                "1": "published terms of service allowing training AI on user data",
+                "2": "Illegally shared data with big tech companies",
+                "3": "Illegally shared data with big tech companies",
+                "4": "suspended the accounts of three human rights activists hosting Zoom calls discussing Beijing’s 1989 Tianamen Square incident at request of the chinese government",
+                "5": "suspended the accounts of three human rights activists hosting Zoom calls discussing Beijing’s 1989 Tianamen Square incident at request of the chinese government"
+            },
+            "tags": [
+                "tech",
+                "communication"
+            ],
+            "score": 42,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Zoom_Logo_2022.svg",
+            "siteUrl": "https://www.zoom.com/",
+            "updatedAt": "2025-09-16T14:16:36.759Z"
+        },
+        "keybase": {
+            "names": [
+                "Keybase"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [],
+            "score": 42,
+            "ownedBy": [
+                "zoom"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg",
+            "siteUrl": "https://keybase.io/",
+            "updatedAt": "2025-09-16T14:16:36.759Z"
         }
     }
 }
