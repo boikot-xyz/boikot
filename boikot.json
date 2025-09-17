@@ -2981,10 +2981,11 @@
                 "Bayerische Motoren Werke",
                 "Bayerische Flugzeugwerke"
             ],
-            "comment": "BMW is a German car maker that lied about its vehicles' emissions [1] and sourced cobalt from environmentally harmful sources [2].",
+            "comment": "BMW is a German car maker that lied about its vehicles' emissions [1] and sourced cobalt from environmentally harmful sources [2][3].",
             "sources": {
                 "1": "https://www.theguardian.com/environment/2021/jul/08/eu-fines-vw-and-bmw-750m-for-colluding-with-daimler-on-fumes",
-                "2": "https://www.msn.com/en-us/news/world/is-bmw-embroiled-in-controversy-due-to-a-cobalt-supplier-in-morocco-an-investigation-is-in-progress/ar-AA1jWjYs"
+                "2": "https://www.msn.com/en-us/news/world/is-bmw-embroiled-in-controversy-due-to-a-cobalt-supplier-in-morocco-an-investigation-is-in-progress/ar-AA1jWjYs",
+                "3": "https://www.heise.de/en/news/E-Autos-BMW-gesteht-Umweltprobleme-in-marokkanischer-Kobalt-Mine-ein-9715035.html"
             },
             "tags": [
                 "cars",
