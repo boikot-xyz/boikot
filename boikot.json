@@ -9334,6 +9334,81 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Carphone_Warehouse_logo.svg",
             "siteUrl": "https://www.carphonewarehouse.com/",
             "updatedAt": "2025-09-17T19:42:01.202Z"
+        },
+        "yamaha-corporation": {
+            "names": [
+                "Yamaha Corporation",
+                "ヤマハ株式会社",
+                "Nippon Gakki Co., Ltd.",
+                "日本楽器製造株式会社"
+            ],
+            "comment": "Yamaha Corporation is a Japanese musical equipment manufacturer that has engaged in price fixing [1][2][3].",
+            "sources": {
+                "1": "https://www.gov.uk/cma-cases/musical-instruments-and-equipment-suspected-anti-competitive-agreements-50565-6",
+                "2": "https://www.ashurst.com/en/insights/cn08---fco-imposes-fines-of-21-million-on-manufacturers-and-retailers-of-musical-instruments/",
+                "3": "https://pogustgoodhead.com/musical-price-fixing-scandal/"
+            },
+            "sourceNotes": {
+                "1": "engaged in price fixing",
+                "2": "engaged in price fixing",
+                "3": "engaged in price fixing"
+            },
+            "tags": [
+                "manufacturing",
+                "music"
+            ],
+            "score": 48,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Yamaha_logo.svg",
+            "siteUrl": "https://www.yamaha.com/en/",
+            "updatedAt": "2025-09-17T19:39:20.441Z"
+        },
+        "yamaha-motor-company": {
+            "names": [
+                "Yamaha Motor Company",
+                "Yamaha Motor Co.",
+                "Yamaha Motor Co., Ltd.",
+                "ヤマハ発動機株式会社"
+            ],
+            "comment": "Yamaha Motor Company is a Japanese motor vehicle manufacturer that has sold vehicles not meeting emissions standards [1], and has also falsified emissions data on multiple occasions [2][3].",
+            "sources": {
+                "1": "https://ww2.arb.ca.gov/news/yamaha-fined-22-million-violating-air-quality-rules",
+                "2": "https://www.popularmechanics.com/cars/car-technology/a22691073/suzuki-mazda-yamaha-all-used-falsified-emissions-data/",
+                "3": "https://english.kyodonews.net/articles/-/48487"
+            },
+            "sourceNotes": {
+                "1": "sold vehicles not meeting emissions standards",
+                "2": "falsified emissions data",
+                "3": "falsified emissions data"
+            },
+            "tags": [
+                "vehicles",
+                "manufacturing"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Yamaha_Motor_2025.svg",
+            "siteUrl": "https://global.yamaha-motor.com/",
+            "updatedAt": "2025-09-17T19:39:20.441Z"
+        },
+        "xbox": {
+            "names": [
+                "Xbox"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "gaming",
+                "tech"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "microsoft"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Xbox_logo_%282019%29.svg",
+            "siteUrl": "https://xbox.com/",
+            "updatedAt": "2025-09-17T19:39:20.441Z"
         }
     }
 }
