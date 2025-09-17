@@ -9258,6 +9258,81 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg",
             "siteUrl": "https://keybase.io/",
             "updatedAt": "2025-09-16T14:16:36.759Z"
+        },
+        "morrocanoil": {
+            "names": [
+                "Morrocanoil"
+            ],
+            "comment": "Morrocanoil is an Israeli cosmetics company that has hid its connections with Israel [1][2] and sold shampoo containing carcinogens [3].",
+            "sources": {
+                "1": "https://electronicintifada.net/blogs/sarah-irving/moroccanoil-israeli-hair-products-glamorize-apartheid",
+                "2": "https://www.cjpme.org/fs_154",
+                "3": "https://ceh.org/latest/press-releases/lawsuit-launched-testing-finds-cancer-causing-chemical-in-100-shampoos-haircare-products/"
+            },
+            "sourceNotes": {
+                "1": "Hiding connections with israel",
+                "2": "Hiding connections with israel",
+                "3": "sold shampoo containing carcinogens"
+            },
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 43,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Moroccanoil_logo.png",
+            "siteUrl": "http://www.moroccanoil.com/",
+            "updatedAt": "2025-09-17T06:38:19.310Z"
+        },
+        "currys": {
+            "names": [
+                "Currys",
+                "Currys plc",
+                "Currys PC World",
+                "Dixons"
+            ],
+            "comment": "Currys is a UK electronics retailer that has sold numerous defective goods and delayed refunds [1][2], forced additional fees on customers [3], mis‑sold insurance to customers [4], and failed to pay minimum wage [5].",
+            "sources": {
+                "1": "https://www.which.co.uk/news/article/currys-pc-world-failing-customers-with-faulty-products-and-failed-deliveries-az2gl2v0bsxx",
+                "2": "https://www.lbc.co.uk/article/c24c0532e4f640fb91eb0f315e02a2df-DWymFz_2/",
+                "3": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pcr-online.biz/2018/03/19/currys-pc-world-slammed-for-forcing-set-up-fees-on-customers/&ved=2ahUKEwj51fihyeCPAxVTQkEAHY_MBy0Q-tANegQINRAC&usg=AOvVaw00tKLXJZI3U6PKhFLf9e8R",
+                "4": "https://www.fca.org.uk/fca-fines-the-carphone-warehouse-over-29-million-for-insurance-misselling",
+                "5": "https://www.gov.uk/government/news/over-500-companies-named-for-not-paying-minimum-wage"
+            },
+            "sourceNotes": {
+                "1": "sold numerous defective goods and delayed refunds",
+                "2": "sold numerous defective goods and delayed refunds",
+                "3": "forced additional fees on customers",
+                "4": "mis-sold insurance to customers",
+                "5": "falied to pay minimum wage"
+            },
+            "tags": [
+                "retail",
+                "tech"
+            ],
+            "score": 46,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Currys_Logo.svg",
+            "siteUrl": "https://currys.co.uk/",
+            "updatedAt": "2025-09-17T19:42:01.202Z"
+        },
+        "carphone-warehouse": {
+            "names": [
+                "Carphone Warehouse"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "tech"
+            ],
+            "score": 46,
+            "ownedBy": [
+                "currys"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Carphone_Warehouse_logo.svg",
+            "siteUrl": "https://www.carphonewarehouse.com/",
+            "updatedAt": "2025-09-17T19:42:01.202Z"
         }
     }
 }
