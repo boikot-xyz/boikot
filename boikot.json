@@ -5448,11 +5448,12 @@
         "mitsubishi": {
             "names": [
                 "Mitsubishi",
+                "Mitsubishi Group",
                 "Mitsubishi Motors",
                 "Mitsubishi Motors Corporation",
                 "三菱自動車工業株式会社"
             ],
-            "comment": "Mitsubishi is a Japanese car company that has lied about its vehicles' fuel efficiency for 25 years [1].",
+            "comment": "Mitsubishi is a Japanese conglomerate. Mitubishi has lied about its vehicles' fuel efficiency for 25 years [1].",
             "sources": {
                 "1": "https://money.cnn.com/2016/04/26/news/companies/mitsubishi-cheating-fuel-tests-25-years/index.html"
             },
@@ -9536,6 +9537,28 @@
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Axis_Communications_logo.svg",
             "siteUrl": "http://axis.com/",
+            "updatedAt": "2025-09-19T21:19:46.742Z"
+        },
+        "nikon": {
+            "names": [
+                "Nikon",
+                "Nikon Corporation",
+                "株式会社ニコン",
+                "Kabushiki-gaisha Nikon"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "electronics",
+                "manufacturing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "mitsubishi"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Nikon_Logo.svg",
+            "siteUrl": "https://www.nikon.com/",
             "updatedAt": "2025-09-19T21:19:46.742Z"
         }
     }
