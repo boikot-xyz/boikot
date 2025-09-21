@@ -9474,6 +9474,69 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Topgolf_Logo.svg",
             "siteUrl": "https://www.topgolf.com/",
             "updatedAt": "2025-09-19T21:19:46.742Z"
+        },
+        "canon": {
+            "names": [
+                "Canon",
+                "Canon Inc.",
+                "キヤノン株式会社",
+                "Kyanon kabushiki gaisha",
+                "Precision Optical Industry Co. Ltd.",
+                "Canon Camera Co., Inc"
+            ],
+            "comment": "Canon is a Japanese multinational corporation accused of anti-competitive conduct [1][2], failing to pay technicians for overtime and breaks [3], and engaging in predatory printer ink sales practices [4]. Canon has also been linked to climate change denial groups [5][6].",
+            "sources": {
+                "1": "https://www.cfo.com/news/canon-toshiba-fined-over-antitrust-violations/657745/",
+                "2": "https://www.reuters.com/business/eu-court-backs-29-mln-eu-gun-jumping-fine-against-canon-2022-05-18/",
+                "3": "https://www.law360.com/articles/518867/canon-s-4-4m-flsa-settlement-wins-court-approval",
+                "4": "https://www.businessinsider.com/canon-printers-class-action-lawsuit-filed-over-printers-2021-10",
+                "5": "https://www.theguardian.com/environment/2022/feb/27/thinktank-linked-to-tech-giant-canon-under-pressure-to-remove-dangerous-climate-articles",
+                "6": "https://energytracker.asia/canon-backed-think-tank-cigs-spreads-climate-change-denial/"
+            },
+            "sourceNotes": {
+                "1": "anticompetetive conduct",
+                "2": "anticompetetive conduct",
+                "3": "failed to pay technicians on overtime and breaks",
+                "4": "predatory printer ink sales practices",
+                "5": "connected to climate change denial groups",
+                "6": "connected to climate change denial groups"
+            },
+            "tags": [
+                "electronics",
+                "manufacturing"
+            ],
+            "score": 42,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Canon_wordmark.svg",
+            "siteUrl": "https://global.canon/en/",
+            "updatedAt": "2025-09-19T21:19:46.742Z"
+        },
+        "axis-communications": {
+            "names": [
+                "Axis Communications",
+                "Axis Communications AB"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "anticompetetive conduct",
+                "2": "anticompetetive conduct",
+                "3": "failed to pay technicians on overtime and breaks",
+                "4": "predatory printer ink sales practices",
+                "5": "connected to climate change denial groups",
+                "6": "connected to climate change denial groups"
+            },
+            "tags": [
+                "electronics",
+                "manufacturing"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "canon"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Axis_Communications_logo.svg",
+            "siteUrl": "http://axis.com/",
+            "updatedAt": "2025-09-19T21:19:46.742Z"
         }
     }
 }
