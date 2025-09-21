@@ -9409,6 +9409,71 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Xbox_logo_%282019%29.svg",
             "siteUrl": "https://xbox.com/",
             "updatedAt": "2025-09-17T19:39:20.441Z"
+        },
+        "callaway": {
+            "names": [
+                "Callaway",
+                "Callaway Golf Company",
+                "Topgolf Callaway Brands",
+                "Topgolf Callaway Brands Corp.",
+                "MODG"
+            ],
+            "comment": "Callaway is an American golf equipment company that has been accused of misleading marketing practices [1] and unsafe working conditions at its factories [2][3]. Additionally, employees at its Topgolf locations have faced sexual harassment and wage theft [4][5][6].",
+            "sources": {
+                "1": "https://mygolfspy.com/news-opinion/callaways-2-clubs-longer-claim-is-misleading/",
+                "2": "https://www.osha.gov/ords/imis/establishment.inspection_detail?id=125932418",
+                "3": "https://www.osha.gov/ords/imis/establishment.inspection_detail?id=301275202",
+                "4": "https://www.restaurantdive.com/news/report-54-of-topgolf-employees-report-being-sexually-harassed/611136/",
+                "5": "https://www.ktnv.com/13-investigates/new-lawsuit-accuses-topgolf-of-covering-up-for-serial-sexual-predator-in-dehumanizing-toxic-work-environment",
+                "6": "https://www.reviewjournal.com/crime/sex-crimes/topgolf-las-vegas-cases-triggered-national-study-on-sexual-harassment-2497841/"
+            },
+            "sourceNotes": {
+                "1": "misleading marketing",
+                "2": "unsafe working conditions",
+                "3": "unsafe working conditions",
+                "4": "sexual harassment and wage theft at topgolf locations",
+                "5": "sexual harassment and wage theft at topgolf locations",
+                "6": "sexual harassment and wage theft at topgolf locations"
+            },
+            "tags": [
+                "retail",
+                "sport",
+                "golf"
+            ],
+            "score": 38,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Topgolf_company_brands.svg",
+            "siteUrl": "https://www.callawaygolf.com/",
+            "updatedAt": "2025-09-19T21:19:46.742Z"
+        },
+        "topgolf": {
+            "names": [
+                "Topgolf",
+                "Topgolf Entertainment Group",
+                "Topgolf International, Inc."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {
+                "1": "misleading marketing",
+                "2": "unsafe working conditions",
+                "3": "unsafe working conditions",
+                "4": "sexual harassment and wage theft at topgolf locations",
+                "5": "sexual harassment and wage theft at topgolf locations",
+                "6": "sexual harassment and wage theft at topgolf locations"
+            },
+            "tags": [
+                "retail",
+                "sport",
+                "golf"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "callaway"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Topgolf_Logo.svg",
+            "siteUrl": "https://www.topgolf.com/",
+            "updatedAt": "2025-09-19T21:19:46.742Z"
         }
     }
 }
