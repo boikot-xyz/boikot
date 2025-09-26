@@ -25,7 +25,12 @@ These are some bookmarks that make it a bit faster to collect the company data. 
 Get company website and logo when on its wikipedia page:
 
 ```javascript
-javascript:( () => { const logoImg = document.querySelector(".infobox-image.logo img") ?? document.querySelector(".infobox-image img"); const logoUrl = logoImg?.src .replace("thumb/", "") .replace(/^\/\/upload/, "https://upload") .replace(/\.svg\/[^/]+.(png|jpg)$/, ".svg"); const infoBoxLabels = [...document.querySelectorAll( "table.infobox tr" )]; const siteLabel = infoBoxLabels.filter( el => el.innerText.includes("Website") || el.innerText.includes("URL") )[0]; const siteUrl = siteLabel?.querySelector("a").href; navigator.clipboard.writeText(JSON.stringify({ logoUrl, siteUrl }, null, 2)); } )()
+javascript:( () => { const logoImg = document.querySelector(".infobox-image.logo img") || document.querySelector(".infobox-image img"); const logoUrl = logoImg && logoImg.src .replace("thumb/", "") .replace(/^\/\/upload/, "https://upload") .replace(/\.svg\/[^/]+.(png|jpg)$/, ".svg"); const infoBoxLabels = [...document.querySelectorAll( "table.infobox tr" )]; const siteLabel = infoBoxLabels.filter( el => el.innerText.includes("Website") || el.innerText.includes("URL") )[0]; const siteUrl = siteLavel && siteLabel.querySelector("a").href; document.body.innerHTML = JSON.stringify({ logoUrl, siteUrl }, null, 2); } )()
+```
+
+mobile version:
+```javascript
+javascript:( () => { const logoImg = document.querySelector(".infobox-image.logo img") || document.querySelector(".infobox-image img"); const logoUrl = logoImg && logoImg.src .replace("thumb/", "") .replace(/^\/\/upload/, "https://upload") .replace(/\.svg\/[^/]+.(png|jpg)$/, ".svg"); const infoBoxLabels = [...document.querySelectorAll( "table.infobox tr" )]; const siteLabel = infoBoxLabels.filter( el => el.innerText.includes("Website") || el.innerText.includes("URL") )[0]; const siteUrl = siteLabel && siteLabel.querySelector("a").href; const button = document.createElement("button"); document.body.appendChild(button); button.style.position = "fixed"; button.style.top = "0"; button.style.right = "0"; button.style.background = "red"; button.style.color = "black"; button.style.padding = "10px"; button.style.zIndex = 10000000000; button.innerText = "copyWikiInfo"; button.onclick = async () => {await navigator.clipboard.writeText(JSON.stringify({ logoUrl: logoUrl, siteUrl: siteUrl }, null, 2)); button.remove(); }; ; } )()
 ```
 
 Copy the url of the current page as a new source:

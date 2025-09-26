@@ -283,12 +283,13 @@ function SourceRow({ state, sourceKey, setSource, setSourceNote, setDragging, re
         <input
             value={state.sources[key]}
             placeholder={`Paste the link for source [${key}] here`}
+            style={{ textOverflow: "ellipsis", minWidth: "5rem" }}
             onChange={e => setSource(key)(e) + onChange?.()}
             onDrop={e => e.preventDefault()} />
         <input
             value={state.sourceNotes[key]}
             placeholder={`Summary of source [${key}]`}
-            style={{ textOverflow: "ellipsis" }}
+            style={{ textOverflow: "ellipsis", minWidth: "5rem" }}
             onChange={setSourceNote(key)}
             onDrop={e => e.preventDefault()} />
         <Icon i="grip"
