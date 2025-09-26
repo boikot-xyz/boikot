@@ -1895,19 +1895,15 @@
                 "Pret a Manger",
                 "Pret"
             ],
-            "comment": "Pret a Manger is a British cafe chain that has fired unionising employees [1] and failed to label allergens on its packaging leading to hospitalisations and death of customers [2]. Inadequate health and safety protocols at Pret have led to an employee becoming trapped in a freezer and left thinking she would die [3]",
-            "sources": {
-                "1": "https://boingboing.net/2012/12/08/pret-fires-longstanding-employ.html",
-                "2": "https://www.theguardian.com/uk-news/2018/sep/25/pret-a-manger-allergic-reactions-year-before-natasha-ednan-laperouse-died-inquest-told",
-                "3": "https://www.westminster.gov.uk/news/pret-manger-fined-ps800000-after-cafe-worker-left-locked-walk-freezer"
-            },
+            "comment": "",
+            "sources": {},
             "tags": [
                 "restaurant",
                 "coffee",
                 "bad working conditions",
                 "endangerment"
             ],
-            "score": 15,
+            "score": 35,
             "ownedBy": [
                 "jab-holding-company"
             ],
@@ -1922,15 +1918,13 @@
                 "Jacobs Douwe Egberts",
                 "JDEP"
             ],
-            "comment": "JDE Peet's is an American-Dutch coffee company that had refused to end its operations in Russia [1]. ",
-            "sources": {
-                "1": "https://www.msn.com/en-us/money/companies/why-this-coffee-giant-is-staying-put-in-russia/ar-AA1frXiL"
-            },
+            "comment": "",
+            "sources": {},
             "tags": [
                 "coffee",
                 "russia"
             ],
-            "score": 40,
+            "score": 35,
             "ownedBy": [
                 "jab-holding-company"
             ],
@@ -1949,7 +1943,7 @@
             ],
             "score": 40,
             "ownedBy": [
-                "jde-peet's"
+                "jab-holding-company"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tassimo_logo.svg",
             "siteUrl": "https://www.tassimo.com/",
@@ -1966,7 +1960,7 @@
             ],
             "score": 40,
             "ownedBy": [
-                "jde-peet's"
+                "jab-holding-company"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Kenco_logo.webp",
             "siteUrl": "https://www.kenco.co.uk/",
@@ -9560,6 +9554,39 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Nikon_Logo.svg",
             "siteUrl": "https://www.nikon.com/",
             "updatedAt": "2025-09-19T21:19:46.742Z"
+        },
+        "jab-holding-company": {
+            "names": [
+                "JAB Holding Company",
+                "JAB Holding Company S.à r.l.",
+                "JAB",
+                "Joh. A. Benckiser"
+            ],
+            "comment": "JAB Holding Company is a multinational corporation founded by individuals with Nazi sympathies [1][2]. The company illegally collected employees' fingerprints [3] and failed to maintain safe working conditions, which led to an employee nearly dying trapped in a freezer [4].",
+            "sources": {
+                "1": "https://www.nytimes.com/2019/03/25/world/europe/nazi-laborers-jab-holding.html",
+                "2": "https://www.nbcbayarea.com/news/national-international/family-that-owns-krispy-kreme-panera-peets-coffee-acknowledges-nazi-past/159805/",
+                "3": "https://www.law360.com/articles/1455415/pret-a-manger-would-pay-677k-to-end-fingerprint-suit",
+                "4": "https://web.archive.org/web/20230831100239/https://www.westminster.gov.uk/news/pret-manger-fined-ps800000-after-cafe-worker-left-locked-walk-freezer",
+                "5": "https://www.msn.com/en-us/money/companies/why-this-coffee-giant-is-staying-put-in-russia/ar-AA1frXiL"
+            },
+            "sourceNotes": {
+                "1": "founded by firm nazi supporters",
+                "2": "founded by firm nazi supporters",
+                "3": "Illegally collected employees' fingerprints",
+                "4": "unsafe working conditions led to an employee nearly dying trapped in a freezer",
+                "5": "continued to operate in russia"
+            },
+            "tags": [
+                "consumer goods",
+                "coffee",
+                "fast food"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/JAB_Holding_Company_Logo.svg",
+            "siteUrl": "http://jabholco.com/",
+            "updatedAt": "2025-09-21T14:29:22.220Z"
         }
     }
 }
