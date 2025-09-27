@@ -9587,6 +9587,180 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/JAB_Holding_Company_Logo.svg",
             "siteUrl": "http://jabholco.com/",
             "updatedAt": "2025-09-21T14:29:22.220Z"
+        },
+        "carrefour": {
+            "names": [
+                "Carrefour",
+                "Groupe Carrefour",
+                "Carrefour Group, S.A.",
+                "CA"
+            ],
+            "comment": "Carrefour is a French supermarket chain that has subjected employees to carbon monoxide poisoning [1], and sourced goods from supply chains involving animal abuse [2], slave labour [3], and illegal deforestation of the amazon rainforest [4][5]. Carrefour has subjected LGBT customers to discrimination [6], and refused to compensate the families of workers who were killed in the unsafe working conditions of one of its garment factories [7][8], while a young girl died in one if its stores after being electrocuted [9] and multiple people have been beaten and killed by store security guards [10][11].",
+            "sources": {
+                "1": "https://web.archive.org/web/20081013181813/http://www.detiknews.com/index.php/detik.read/tahun/2007/bulan/05/tgl/01/time/212433/idnews/774875/idkanal/10",
+                "2": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/rfi/2018/11/03/imagens-de-animais-cortados-vivos-em-abatedouro-chocam-a-franca.htm",
+                "3": "https://web.archive.org/web/20200428183820/https://www.theguardian.com/global-development/2014/jun/10/supermarket-prawns-thailand-produced-slave-labour",
+                "4": "https://www.lefigaro.fr/flash-eco/deforestation-en-amazonie-carrefour-interpelle-sur-ses-fournisseurs-20220905",
+                "5": "https://www.20minutes.fr/planete/3346891-20220906-amazonie-carrefour-accuse-participer-deforestation-biais-fournisseurs",
+                "6": "https://web.archive.org/web/20090829214838/http://portal.prefeitura.sp.gov.br/noticias/coordenadorias/diversidade_sexual/2008/09/0006",
+                "7": "https://web.archive.org/web/20160325223918/http://www.dhakatribune.com/business/2013/nov/17/buyers%e2%80%99-compensation-rana-plaza-victims-far-reality",
+                "8": "https://web.archive.org/web/20201114001448/http://edition.cnn.com/2013/05/14/world/asia/bangladesh-building-collapse-aftermath/",
+                "9": "http://g1.globo.com/sao-paulo/noticia/2010/12/freezer-que-eletrocutou-e-matou-menina-em-hipermercado-e-periciado.html",
+                "10": "https://agora.folha.uol.com.br/policia/ult10104u606868.shtml",
+                "11": "https://web.archive.org/web/20201120164413/https://istoe.com.br/homem-negro-e-espancado-e-morto-em-supermercado-de-porto-alegre/"
+            },
+            "sourceNotes": {
+                "1": "unsafe working conditions that led to carbon monoxide poisoning for multiple employees",
+                "2": "animal abuse in supply chain",
+                "3": "slave labour in supply chain",
+                "4": "involved in illegal deforestation in the amazon",
+                "5": "involved in illegal deforestation in the amazon",
+                "6": "discriminated against LGBT customers",
+                "7": "refused to compensate workers who were killed in unsafe rana plaza building collapse",
+                "8": "refused to compensate workers who were killed in unsafe rana plaza building collapse",
+                "9": "young girl electrocuted and killed in store",
+                "10": "store security guards have murdered alleged shoplifters",
+                "11": "store security guards murdered customer"
+            },
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 4,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/65/Carrefour_Groupe.svg",
+            "siteUrl": "https://www.carrefour.com/en/",
+            "updatedAt": "2025-09-26T12:19:58.817Z"
+        },
+        "cerave": {
+            "names": [
+                "CeraVe"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "l'oreal"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/CeraVe_logo.png/330px-CeraVe_logo.png",
+            "siteUrl": "https://www.cerave.com/",
+            "updatedAt": "2025-09-27T20:34:26.706Z"
+        },
+        "aesop": {
+            "names": [
+                "Aesop"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "l'oreal"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Aesop_logo_2013.svg",
+            "siteUrl": "http://aesop.com/",
+            "updatedAt": "2025-09-27T20:34:26.706Z"
+        },
+        "garnier": {
+            "names": [
+                "Garnier"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "l'oreal"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d6/Garnier_Logo.PNG",
+            "siteUrl": "https://www.garnierusa.com/",
+            "updatedAt": "2025-09-27T20:34:26.706Z"
+        },
+        "kiehl's": {
+            "names": [
+                "Kiehl's",
+                "Kiehl's LLC"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "l'oreal"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Kiehl%27s_logo.svg",
+            "siteUrl": "http://kiehls.com/",
+            "updatedAt": "2025-09-27T20:34:26.706Z"
+        },
+        "lancome": {
+            "names": [
+                "Lancôme",
+                "Lancome"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "l'oreal"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Lanc%C3%B4me_logo.svg",
+            "siteUrl": "http://www.lancome.com/",
+            "updatedAt": "2025-09-27T20:34:26.706Z"
+        },
+        "maybelline": {
+            "names": [
+                "Maybelline"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "l'oreal"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Maybelline-Logo.svg",
+            "siteUrl": "http://maybelline.com/",
+            "updatedAt": "2025-09-27T20:34:26.706Z"
+        },
+        "nyx": {
+            "names": [
+                "NYX",
+                "NYX DARIEN",
+                "NYX Professional Makeup"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "l'oreal"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cb/NYX_cosmetics_logo.png/250px-NYX_cosmetics_logo.png",
+            "siteUrl": "http://www.nyxcosmetics.com/",
+            "updatedAt": "2025-09-27T20:34:26.706Z"
         }
     }
 }
