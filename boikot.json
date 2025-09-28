@@ -9730,6 +9730,52 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d4/The_Cheesecake_Factory_%28logo%2C_stacked%29.svg",
             "siteUrl": "http://thecheesecakefactory.com/",
             "updatedAt": "2025-09-28T19:27:04.759Z"
+        },
+        "chewy": {
+            "names": [
+                "Chewy"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pets"
+            ],
+            "score": null,
+            "ownedBy": [
+                "bc-partners"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Chewy_pet_food_logo.svg",
+            "siteUrl": "http://chewy.com/",
+            "updatedAt": "2025-09-28T20:20:37.193Z"
+        },
+        "chick-fil-a": {
+            "names": [
+                "Chick-fil-a"
+            ],
+            "comment": "Chick-fil-a is an American fast food chain that is deeply opposed to gay marriage [1][2][3]. The company has abused chickens in its supply chain [4] and underpaid its employees [5].",
+            "sources": {
+                "1": "https://web.archive.org/web/20180805233901/https://www.wsj.com/articles/SB10000872396390444840104577553341868014390",
+                "2": "https://archive.sltrib.com/article.php?id=52888536&itype=CMSID",
+                "3": "https://web.archive.org/web/20120727070937/http://www.ocregister.com/news/family-365324-chick-fil.html",
+                "4": "https://www.change.org/p/help-the-simpsons-co-creator-sam-simon-take-a-bite-out-of-chick-fil-a-s-animal-cruelty",
+                "5": "https://www.dol.gov/newsroom/releases/whd/whd20230928"
+            },
+            "sourceNotes": {
+                "1": "deeply against gay marriage",
+                "2": "deeply against gay marriage",
+                "3": "deeply against gay marriage",
+                "4": "unethical treatment of chickens in supply chain",
+                "5": "underpaid employees"
+            },
+            "tags": [
+                "food"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Chick-fil-A_Logo.svg",
+            "siteUrl": "http://www.chick-fil-a.com/",
+            "updatedAt": "2025-09-28T20:33:35.035Z"
         }
     }
 }
