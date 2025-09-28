@@ -321,11 +321,6 @@ export function Jsoner() {
     const addSource = () =>
         setState( oldState => ({
             ...oldState,
-            comment: insertIntoString(
-                oldState.comment,
-                textareaRef.current.selectionEnd,
-                `[${nextKey(oldState.sources)}]`,
-            ),
             sources: {
                 ...oldState.sources,
                 [nextKey(oldState.sources)]: "",
@@ -499,13 +494,13 @@ export function Jsoner() {
             <PillButton $outline onClick={addSource}>
                 add source 🔗
             </PillButton>
-            { showSources &&
+            { /* showSources &&
                 <PillButton
                     $outline
                     style={{ justifySelf: "right" }}
                     onClick={sortSources(setState)}>
                     sort sources 🃏
-                </PillButton> }
+                </PillButton> */ }
         </FlexRow>
         <Entry $valid={!!state.comment}>
             comment
