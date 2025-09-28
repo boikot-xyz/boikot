@@ -491,9 +491,9 @@ export function Jsoner() {
                 )}>
                 copy summarise prompt 📋
             </PillButton> }
-            <PillButton $outline onClick={addSource}>
+            { /* <PillButton $outline onClick={addSource}>
                 add source 🔗
-            </PillButton>
+            </PillButton> */ }
             { /* showSources &&
                 <PillButton
                     $outline
