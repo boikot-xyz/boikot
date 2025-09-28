@@ -9697,6 +9697,39 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cb/NYX_cosmetics_logo.png/250px-NYX_cosmetics_logo.png",
             "siteUrl": "http://www.nyxcosmetics.com/",
             "updatedAt": "2025-09-27T20:34:26.706Z"
+        },
+        "cheesecake-factory": {
+            "names": [
+                "Cheesecake Factory",
+                "The Cheesecake Factory",
+                "The Cheesecake Factory Incorporated",
+                "CAKE"
+            ],
+            "comment": "Cheesecake Factory is an American restaurant chain that has been criticized for using cruel pig cages in its supply chain [1] and for abusing undocumented workers [2][3]. The company has also withheld wages from hundreds of janitors [4], underpaid employees [5], and fired a worker in retaliation for a discrimination complaint [6].",
+            "sources": {
+                "1": "https://www.greenqueen.com.hk/gestation-cages-pigs-cage-free-kfc-dennys-taco-bell/",
+                "2": "https://www.thestreet.com/restaurants/popular-restaurant-chain-slammed-with-lawsuit-by-undocumented-workers",
+                "3": "https://www.business-humanrights.org/en/latest-news/usa-undocumented-workers-file-lawsuit-against-the-cheesecake-factory-alleging-wage-theft-denial-of-breaks-among-other-rights-violations-incl-co-comment/",
+                "4": "https://www.nytimes.com/2018/06/12/business/cheesecake-factory-wage-theft.html",
+                "5": "https://news.bloomberglaw.com/litigation/cheesecake-factory-accused-of-underpaying-its-tipped-workers",
+                "6": "https://erlich.lawyer/2019/12/cheesecake-factory-sued-for-firing-worker-in-retaliation-for-discrimination-complaint/"
+            },
+            "sourceNotes": {
+                "1": "uses cruel pig cages in supply chain",
+                "2": "abused undocumented workers",
+                "3": "abused undocumented workers",
+                "4": "withheld wages from hundreds of janitors",
+                "5": "underpaid employees",
+                "6": "fired worker in retaliation for discrimination complaint"
+            },
+            "tags": [
+                "food"
+            ],
+            "score": 22,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d4/The_Cheesecake_Factory_%28logo%2C_stacked%29.svg",
+            "siteUrl": "http://thecheesecakefactory.com/",
+            "updatedAt": "2025-09-28T19:27:04.759Z"
         }
     }
 }
