@@ -9776,6 +9776,202 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Chick-fil-A_Logo.svg",
             "siteUrl": "http://www.chick-fil-a.com/",
             "updatedAt": "2025-09-28T20:33:35.035Z"
+        },
+        "cathedral-city": {
+            "names": [
+                "Cathedral City"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 18,
+            "ownedBy": [
+                "saputo"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/84/Cathedral_City_logo.jpg",
+            "siteUrl": "https://cathedralcity.co.uk/",
+            "updatedAt": "2025-09-27T18:07:05.707Z"
+        },
+        "saputo": {
+            "names": [
+                "Saputo",
+                "Saputo Inc.",
+                "Dairy Crest",
+                "Dairy Crest plc",
+                "SAP"
+            ],
+            "comment": "Saputo is a Canadian dairy processing company that has underpaid employees [1], polluted local rivers [2], and seen animal abuse on its farms [3]. The company has also faced serious workplace safety issues including worker injuries [4] and employee deaths in unsafe conditions [5][6].",
+            "sources": {
+                "1": "https://www.classaction.org/news/saputo-dairy-foods-usa-failed-to-pay-employees-for-all-hours-worked-lawsuit-claims",
+                "2": "https://www.dairyreporter.com/Article/2022/06/29/saputo-uk-s-dairy-crest-business-hit-with-largest-fine-ever-over-environmental-offences/",
+                "3": "https://perishablenews.com/dairy/saputo-drops-milk-supplier-in-wake-of-video-scandal/",
+                "4": "https://www.ohscanada.com/saputo-fined-75000-after-worker-injured-by-cheese-cutting-machine-in-tavistock-ont/",
+                "5": "https://news.bloombergenvironment.com/safety/saputo-inc-fined-after-cheese-guillotine-kills-worker",
+                "6": "https://www.thesafetymag.com/ca/news/general/worker-killed-on-cheese-production-line-company-fined-150000/186696"
+            },
+            "sourceNotes": {
+                "1": "underpaid employees",
+                "2": "factories polluted local rivers",
+                "3": "animal abuse on its farms",
+                "4": "worker injured in unsafe working conditions",
+                "5": "employee was killed in unsafe working conditions",
+                "6": "employee was killed in unsafe working conditions"
+            },
+            "tags": [
+                "food"
+            ],
+            "score": 18,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Saputo_company_logo.svg",
+            "siteUrl": "http://saputo.com/",
+            "updatedAt": "2025-09-30T15:49:15.775Z"
+        },
+        "utterly-butterly": {
+            "names": [
+                "Utterly Butterly"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 18,
+            "ownedBy": [
+                "saputo"
+            ],
+            "logoUrl": "https://tse2.mm.bing.net/th/id/OIP.TwliERarD2edFCF5SzzpNgHaHa?pid=Api",
+            "siteUrl": "https://uk.saputo.com/en/brands/utterly-butterly",
+            "updatedAt": "2025-10-02T07:39:03.369Z"
+        },
+        "clover": {
+            "names": [
+                "Clover"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 18,
+            "ownedBy": [
+                "saputo"
+            ],
+            "logoUrl": "https://tse3.mm.bing.net/th/id/OIP.1HtnSnNhwcK_jnQdF9J-rwHaHa?pid=Api",
+            "siteUrl": "https://uk.saputo.com/en/brands/clover",
+            "updatedAt": "2025-10-02T07:39:03.369Z"
+        },
+        "vitalite": {
+            "names": [
+                "Vitalite"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 18,
+            "ownedBy": [
+                "saputo"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/Vitalite_logo.png",
+            "siteUrl": "https://www.vitalitedairyfree.co.uk/en",
+            "updatedAt": "2025-10-02T07:39:03.369Z"
+        },
+        "country-life": {
+            "names": [
+                "Country Life"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 18,
+            "ownedBy": [
+                "saputo"
+            ],
+            "logoUrl": "https://tse3.mm.bing.net/th/id/OIP.Xr_AW9leQon6HjJJrhmxogHaHa?pid=Api",
+            "siteUrl": "https://uk.saputo.com/en/brands/country-life",
+            "updatedAt": "2025-10-02T07:39:03.369Z"
+        },
+        "fry-light": {
+            "names": [
+                "Fry Light"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 18,
+            "ownedBy": [
+                "saputo"
+            ],
+            "logoUrl": "https://saputo.canto.com/direct/image/nkl37pv1od56j6el5ehm8k092b/GIjnsDkSCVRWeY_0E1KpPMBxBCE/original?content-type=image%2Fpng&amp;name=Frylight-Logo.png",
+            "siteUrl": "https://www.frylight.com/",
+            "updatedAt": "2025-10-02T07:39:03.369Z"
+        },
+        "sheese": {
+            "names": [
+                "Sheese"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 18,
+            "ownedBy": [
+                "saputo"
+            ],
+            "logoUrl": "https://saputo.canto.com/direct/image/8nse1d1shp2c3ba08rtj7nso2f/qyjJLnrZDZ-FSORjKDmjDHq_ge0/original?content-type=image%2Fpng&amp;name=sheese-logo-new.png",
+            "siteUrl": "https://www.buteisland.com/en",
+            "updatedAt": "2025-10-02T07:39:03.369Z"
+        },
+        "wensleydale-creamery": {
+            "names": [
+                "Wensleydale Creamery"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 18,
+            "ownedBy": [
+                "saputo"
+            ],
+            "logoUrl": "https://www.wensleydale.co.uk/images/modules/promo_units/xsmall/retina-1698327818-20065000.jpg",
+            "siteUrl": "https://www.wensleydale.co.uk/",
+            "updatedAt": "2025-10-02T07:39:03.369Z"
+        },
+        "davidstow-cheddar": {
+            "names": [
+                "Davidstow Cheddar"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 18,
+            "ownedBy": [
+                "saputo"
+            ],
+            "logoUrl": "https://saputo.canto.com/direct/image/t1ecovq2tl12ne5ed5fbgqhl7o/Hp_iwImFYufMidxJEQSF9VA40jY/original?content-type=image%2Fpng&amp;name=Davidstow_logo-beige.png",
+            "siteUrl": "https://www.davidstowcheddar.co.uk/",
+            "updatedAt": "2025-10-02T07:39:03.369Z"
         }
     }
 }
