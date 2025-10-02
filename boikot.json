@@ -10344,6 +10344,29 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/74/Sanex_logo.png",
             "siteUrl": "http://www.sanex.co.uk/",
             "updatedAt": "2025-09-30T08:28:05.506Z"
+        },
+        "corsair": {
+            "names": [
+                "Corsair",
+                "Corsair Gaming",
+                "Corsair Gaming, Inc.",
+                "CORSAIR",
+                "Corsair Components",
+                "Corsair Memory",
+                "Corsair Microsystems",
+                "CRSR"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [],
+            "score": null,
+            "ownedBy": [
+                "eagletree-capital"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Corsair_2020_logo.svg",
+            "siteUrl": "https://corsair.com/",
+            "updatedAt": "2025-10-02T13:10:32.050Z"
         }
     }
 }
