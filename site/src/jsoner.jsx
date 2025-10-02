@@ -199,6 +199,7 @@ function mergeJSON( existingCompanyData, newData ) {
         names: mergeArrays( existingCompanyData?.names, newData?.names ),
         tags: mergeArrays( existingCompanyData?.tags, newData?.tags ),
         sources: mergeSources( existingCompanyData?.sources, newData?.sources ),
+        sourceNotes: mergeSources( existingCompanyData?.sourceNotes, newData?.sourceNotes ),
     };
 }
 
