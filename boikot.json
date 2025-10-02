@@ -9972,6 +9972,378 @@
             "logoUrl": "https://saputo.canto.com/direct/image/t1ecovq2tl12ne5ed5fbgqhl7o/Hp_iwImFYufMidxJEQSF9VA40jY/original?content-type=image%2Fpng&amp;name=Davidstow_logo-beige.png",
             "siteUrl": "https://www.davidstowcheddar.co.uk/",
             "updatedAt": "2025-10-02T07:39:03.369Z"
+        },
+        "clarks": {
+            "names": [
+                "Clarks"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "shoes"
+            ],
+            "score": null,
+            "ownedBy": [
+                "viva-china-holdings"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/C_%26_J_Clarks_International_company_logo.svg",
+            "siteUrl": "https://clarks.com/",
+            "updatedAt": "2025-09-28T20:48:58.875Z"
+        },
+        "estee-lauder": {
+            "names": [
+                "Estee Lauder",
+                "Estée Lauder",
+                "The Estée Lauder Companies",
+                "Estée Lauder Companies",
+                "The Estée Lauder Companies Inc.",
+                "EL"
+            ],
+            "comment": "Estee Lauder is an American cosmetics company whose founding family has expressed pro-Israel Zionist views [1], donated $5 million to Donald Trump [2], and suggested the U.S. purchase Greenland [3]. The company has underpaid employees [4], engaged in price fixing [5], sourced from factories using child labour [6][7][8], and seen sexual abuse of women on its palm oil farms [9].",
+            "sources": {
+                "1": "http://www.inminds.co.uk/boycott-estee-lauder.html",
+                "2": "https://web.archive.org/web/20250802155110/https://www.nytimes.com/2025/08/02/us/politics/donor-list-suggests-scale-of-trumps-pay-for-access-operation.html",
+                "3": "https://www.businessinsider.com/estee-lauder-heir-pitched-trump-plan-to-buy-greenland-book-2022-9",
+                "4": "https://www.gov.uk/government/news/over-500-companies-named-for-not-paying-minimum-wage",
+                "5": "https://greekcitytimes.com/2017/10/06/leading-cosmetics-brands-fined-price-fixing-greece/",
+                "6": "https://littlethings.com/lifestyle/estee-lauder-and-loreal-linked-to-child-labor-bbc-investigation-finds",
+                "7": "https://www.cxtoday.com/voice-of-the-customer/how-will-customers-react-to-the-loreal-estee-lauder-child-labour-scandal/",
+                "8": "https://nypost.com/2001/04/09/state-probes-cult-in-child-labor-scandal-acting-on-heels-of-post-report/",
+                "9": "https://apnews.com/article/palm-oil-abuse-investigation-cosmetics-2a209d60c42bf0e8fcc6f8ea6daa11c7"
+            },
+            "sourceNotes": {
+                "1": "lauder family has pro-israel zionist views",
+                "2": "lauder family donated $5 million to donald trump",
+                "3": "suggestion for the US to buy greenland came from the lauder family",
+                "4": "underpaid employees",
+                "5": "engaged in price fixing",
+                "6": "child labour in supply chain",
+                "7": "child labour in supply chain",
+                "8": "sourced products from a new york factory using child labour",
+                "9": "sexual abuse of women in its palm oil farms"
+            },
+            "tags": [
+                "consumer goods",
+                "cosmetics"
+            ],
+            "score": 15,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Est%C3%A9e_Lauder_Companies_Logo.svg",
+            "siteUrl": "http://elcompanies.com/",
+            "updatedAt": "2025-09-28T20:58:45.533Z"
+        },
+        "jo-malone": {
+            "names": [
+                "Jo Malone",
+                "Jo Malone London"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "cosmetics"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "estee-lauder"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/JoMalone_Logo.jpg",
+            "siteUrl": "https://www.jomalone.com/",
+            "updatedAt": "2025-09-30T07:31:08.156Z"
+        },
+        "deciem": {
+            "names": [
+                "DECIEM"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "cosmetics"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "estee-lauder"
+            ],
+            "logoUrl": "https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/09/deciem-3.png?w=789",
+            "siteUrl": "https://deciem.com/",
+            "updatedAt": "2025-09-30T07:31:08.156Z"
+        },
+        "the-abnormal-beauty-company": {
+            "names": [
+                "The Abnormal Beauty Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "cosmetics"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "estee-lauder"
+            ],
+            "logoUrl": "https://shopsquareone.com/wp-content/uploads/2021/09/8ae17ece7533a306a7ba191e807a8a769562d418.png",
+            "siteUrl": "https://deciem.com/",
+            "updatedAt": "2025-09-30T07:31:08.156Z"
+        },
+        "bobbi-brown": {
+            "names": [
+                "Bobbi Brown"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "cosmetics"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "estee-lauder"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bobbi_Brown_logo_2013.gif",
+            "siteUrl": "https://www.bobbibrown.com.au/",
+            "updatedAt": "2025-09-30T07:31:08.156Z"
+        },
+        "clinique": {
+            "names": [
+                "Clinique",
+                "Clinique Laboratories",
+                "Clinique Laboratories, LLC"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "cosmetics"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "estee-lauder"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Clinique_logo.svg",
+            "siteUrl": "http://www.clinique.com/",
+            "updatedAt": "2025-09-30T07:31:08.156Z"
+        },
+        "mac-cosmetics": {
+            "names": [
+                "MAC Cosmetics",
+                "M A C Cosmetics",
+                "MAC",
+                "M A C",
+                "Make-Up Art Cosmetics"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "cosmetics"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "estee-lauder"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/MAC_Cosmetics_logo.png/250px-MAC_Cosmetics_logo.png",
+            "siteUrl": "https://www.maccosmetics.com/",
+            "updatedAt": "2025-09-30T07:31:08.156Z"
+        },
+        "the-ordinary": {
+            "names": [
+                "The Ordinary"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "cosmetics"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "estee-lauder"
+            ],
+            "logoUrl": "https://seeklogo.com/images/T/the-ordinary-logo-6367E3AB69-seeklogo.com.png",
+            "siteUrl": "https://theordinary.com/",
+            "updatedAt": "2025-09-30T07:31:08.156Z"
+        },
+        "too-faced": {
+            "names": [
+                "Too Faced"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "cosmetics"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "estee-lauder"
+            ],
+            "logoUrl": "https://vectorseek.com/wp-content/uploads/2023/09/Toofaced-Logo-Vector.svg-.png",
+            "siteUrl": "https://www.toofaced.co.uk/",
+            "updatedAt": "2025-09-30T07:31:08.156Z"
+        },
+        "clorox": {
+            "names": [
+                "Clorox"
+            ],
+            "comment": "",
+            "sources": {
+                "1": "https://www.accc.gov.au/media-release/clorox-ordered-to-pay-825m-in-penalties-for-misleading-ocean-plastic-claims-about-certain-glad-products",
+                "2": "https://www.lexology.com/library/detail.aspx?g=ff2c9274-ce08-4583-8d2e-5826c0dae851",
+                "3": "https://web.archive.org/web/20111005211706/http://bitchmagazine.org/post/mad-mens-portrayal-of-sexism-seeps-unironically-into-its-commercial-breaks",
+                "4": "https://www.law360.com/articles/1705274/clorox-buyers-reach-5-65m-deal-over-tainted-pine-sol",
+                "5": "https://www.wholefoodsmagazine.com/articles/5782-rainbow-light-sued-for-false-advertising-lead-content"
+            },
+            "sourceNotes": {
+                "1": "greenwashing in marketing",
+                "2": "greenwashing in marketing",
+                "3": "sexism in marketing",
+                "4": "sold products containing harmful bacteria",
+                "5": "sold nutrient supplements that contain lead"
+            },
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_Clorox_Company_logo%2C_2021.svg",
+            "siteUrl": "https://thecloroxcompany.com/",
+            "updatedAt": "2025-09-30T07:31:08.156Z"
+        },
+        "burt's-bees": {
+            "names": [
+                "Burt's Bees"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "clorox"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Burts-bees-logo.svg",
+            "siteUrl": "http://burtsbees.com/",
+            "updatedAt": "2025-09-30T07:31:08.156Z"
+        },
+        "cnn": {
+            "names": [
+                "CNN",
+                "Cable News Network"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": null,
+            "ownedBy": [
+                "warner-bros-discovery"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Warner_Bros._Discovery.svg",
+            "siteUrl": "https://www.wbd.com/",
+            "updatedAt": "2025-09-30T08:28:05.506Z"
+        },
+        "colgate-palmolive": {
+            "names": [
+                "Colgate-Palmolive",
+                "Colgate",
+                "Palmolive",
+                "Colgate-Palmolive-Peet Company",
+                "CL"
+            ],
+            "comment": "Colgate-Palmolive is an American consumer goods company that has engaged in price fixing [1][2], sold contaminated products including toothpaste with heavy metals [3], cleaning products with bacteria [4], and unsafe dog food [5], and sells toothpaste with racist branding in China [6]. The company has been linked to illegal deforestation [7] and child labour in its supply chain [8], and conducted exploitative toothpaste trials using Chinese schoolchildren [9].",
+            "sources": {
+                "1": "https://www.accc.gov.au/media-release/colgate-ordered-to-pay-18-million-penalty-in-laundry-detergent-cartel-proceedings",
+                "2": "https://au.news.yahoo.com/dirty-trick-colgate-palmolive-fined-211151335.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZWNvc2lhLm9yZy8&guce_referrer_sig=AQAAAHQM7ilKIyGPJMRCNmghCBBfNYVTW1-emOtrFOGF6Tn59pp4Fo5BTgIKtUpkqCGHUD2SovJ_9udPLMLnTaweRGQ5FK1Tk1TA7Ccx-q1vnhNX7e40lAuuIoufm5f986Y0SMq1Z-eLwd3kp29MV0oEwBZnmDqfhdoojJpZbkS1sz4K",
+                "3": "https://www.hbsslaw.com/cases/colgate-toothpaste-heavy-metal-contamination",
+                "4": "https://www.sultzerlipari.com/news/2024/january/judge-approves-2-million-settlement-in-colgate-p/",
+                "5": "https://www.law360.com/articles/1351731/-12-5m-deal-over-vitamin-d-in-hill-s-dog-food-goes-forward",
+                "6": "https://thechinaproject.com/2020/06/19/colgate-considers-rebranding-its-black-people-toothpaste-and-chinese-consumers-are-confused/",
+                "7": "https://www.ran.org/wp-content/uploads/2022/09/Rainforest-Action-Network-Leuser-Report-FINAL-WEB.pdf",
+                "8": "https://www.rainforest-rescue.org/petitions/1081/kelloggs-nestle-unilever-no-to-child-labor-for-palm-oil",
+                "9": "https://www.nature.com/articles/sj.bdj.2015.950"
+            },
+            "sourceNotes": {
+                "1": "engaged in price fixing",
+                "2": "engaged in price fixing",
+                "3": "sold toothpaste contaminated with heavy mentals",
+                "4": "sold cleaning products contamintated with bacteria",
+                "5": "sold unsafe dog food",
+                "6": "sells toothpaste branded with racist elements in china",
+                "7": "Illegal deforestation in supply chain",
+                "8": "child labour in supply chain",
+                "9": "involved in exploitative toothpaste trials using chinese schoolchildren"
+            },
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Colgate-Palmolive_%282025%29.svg",
+            "siteUrl": "https://colgatepalmolive.com/",
+            "updatedAt": "2025-09-30T08:28:05.506Z"
+        },
+        "ajax": {
+            "names": [
+                "Ajax"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ajax_logo.svg",
+            "siteUrl": "https://colgatepalmolive.com/",
+            "updatedAt": "2025-09-30T08:28:05.506Z"
+        },
+        "darlie": {
+            "names": [
+                "Darlie"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Darlie_logo_2024.png",
+            "siteUrl": "http://www.darlie.com/",
+            "updatedAt": "2025-09-30T08:28:05.506Z"
+        },
+        "sanex": {
+            "names": [
+                "Sanex"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/74/Sanex_logo.png",
+            "siteUrl": "http://www.sanex.co.uk/",
+            "updatedAt": "2025-09-30T08:28:05.506Z"
         }
     }
 }
