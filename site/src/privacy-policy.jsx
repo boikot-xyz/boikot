@@ -10,7 +10,7 @@ export function PrivacyPolicy() {
         </Helmet>
         <Stack>
             <h1> Privacy Policy </h1>
-            <p> At boikot, we prioritize the privacy and security of our users. This Privacy Policy outlines how we collect, use, and protect your personal information when you visit our website (boikot.xyz) or use our services. </p>
+            <p> At boikot, we prioritize the privacy and security of our users. This Privacy Policy outlines how we collect, use, and protect your personal information when you visit our website ({window.location.host}) or use our services. </p>
             <h3> 1. Information We Collect: </h3>
             <p> Personal Information: We may collect personal information, such as your name, email address, and any other information you voluntarily provide to us when you contact us or submit information to our platform. </p>
             <p> Usage Information: We may collect non-personal information about your interactions with our website, such as your IP address, browser type, pages visited, and the date and time of your visit. </p>

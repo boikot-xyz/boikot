@@ -10,7 +10,7 @@ export function TermsAndConditions() {
         </Helmet>
         <Stack>
             <h1> Terms and Conditions </h1>
-            <p> These Terms and Conditions ("Terms") govern your use of the boikot website (boikot.xyz) and any related services provided by boikot ("Service"). By accessing or using the Service, you agree to be bound by these Terms. </p>
+            <p> These Terms and Conditions ("Terms") govern your use of the boikot website ({window.location.host}) and any related services provided by boikot ("Service"). By accessing or using the Service, you agree to be bound by these Terms. </p>
             <h2> 1. User Content: </h2>
             <p> You are solely responsible for any content you submit to the Service, including but not limited to ratings, reviews, comments, and other information ("User Content"). By submitting User Content, you grant boikot a non-exclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such User Content throughout the world in any media. </p>
             <h2> 2. Prohibited Conduct: </h2>
