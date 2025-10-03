@@ -10390,6 +10390,51 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Coursera_logo_%282020%29.svg",
             "siteUrl": "https://coursera.org/",
             "updatedAt": "2025-10-02T17:01:43.219Z"
+        },
+        "crocs": {
+            "names": [
+                "Crocs",
+                "Crocs, Inc.",
+                "CROX",
+                "Foam Creations, Inc."
+            ],
+            "comment": "Crocs is an American footwear company that has been accused of false advertising [1] and suppressing negative reviews [2].",
+            "sources": {
+                "1": "https://www.fashiondive.com/news/crocs-class-action-lawsuit-shrinking-shoes/713417/",
+                "2": "https://www.ftc.gov/legal-library/browse/cases-proceedings/x2123082-hey-dude-inc-ftc-v"
+            },
+            "sourceNotes": {
+                "1": "accused of false advertising",
+                "2": "supressed negative reviews"
+            },
+            "tags": [
+                "clothing",
+                "shoes"
+            ],
+            "score": 46,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e1/Crocs_logo.svg",
+            "siteUrl": "http://crocs.com/",
+            "updatedAt": "2025-10-02T17:01:43.219Z"
+        },
+        "heydude": {
+            "names": [
+                "HEYDUDE"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "shoes"
+            ],
+            "score": 46,
+            "ownedBy": [
+                "crocs"
+            ],
+            "logoUrl": "https://www.theindustry.fashion/wp-content/uploads/2024/04/heydude.jpg",
+            "siteUrl": "https://www.heydude.com/",
+            "updatedAt": "2025-10-02T17:01:43.219Z"
         }
     }
 }
