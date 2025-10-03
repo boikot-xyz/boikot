@@ -10435,6 +10435,154 @@
             "logoUrl": "https://www.theindustry.fashion/wp-content/uploads/2024/04/heydude.jpg",
             "siteUrl": "https://www.heydude.com/",
             "updatedAt": "2025-10-02T17:01:43.219Z"
+        },
+        "cvs": {
+            "names": [
+                "CVS",
+                "CVS Pharmacy",
+                "CVS Pharmacy Inc.",
+                "CVS Health",
+                "CVS Health Corporation"
+            ],
+            "comment": "CVS is an American pharmacy chain that accepted kickbacks for prescribing drugs [1] and contributed to the opioid addiction crisis [2][3][4][5][6]. The company also negligently induced abortion in a woman undergoing IVF [7][8].",
+            "sources": {
+                "1": "https://www.wsj.com/articles/SB112619614344635329",
+                "2": "https://www.nbcnews.com/news/us-news/kentucky-sues-cvs-accuses-company-fueling-opioid-crisis-turning-blind-n1269389",
+                "3": "https://www.wsj.com/articles/ohio-jury-finds-pharmacies-operated-by-cvs-walgreens-walmart-contributed-to-opioid-epidemic-11637695351",
+                "4": "https://www.nbcnews.com/news/us-news/walgreens-walmart-cvs-ordered-pay-650-million-opioid-sales-rcna43698",
+                "5": "https://edition.cnn.com/2024/12/18/business/doj-cvs-opioid",
+                "6": "https://www.myfloridalegal.com/newsrelease/ag-moody-secures-more-870-million-cvs-teva-allergan-and-endo?Open=",
+                "7": "https://www.businessinsider.com/woman-accidentally-given-abortion-pills-cvs-pharmacy-ending-pregnancy-2023-10",
+                "8": "https://web.archive.org/web/20231123034313/https://themessenger.com/health/las-vegas-nevada-abortion-woman-timika-thomas-accidental"
+            },
+            "sourceNotes": {
+                "1": "accepted kickbacks for prescribing drugs",
+                "2": "contributed to opioid addiction crisis",
+                "3": "contributed to opioid additcion crisis",
+                "4": "contributed to opioid addiction crisis",
+                "5": "contributed to opioid addiction crisis",
+                "6": "contributed to opioid addiction crisis",
+                "7": "negligently induced abortion in a woman undergoing IVF",
+                "8": "negligently induced abortion in a woman undergoing IVF"
+            },
+            "tags": [
+                "healthcare"
+            ],
+            "score": 7,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/CVS_Health_Logo.svg",
+            "siteUrl": "http://cvshealth.com/",
+            "updatedAt": "2025-10-03T10:17:56.255Z"
+        },
+        "minuteclinic": {
+            "names": [
+                "MinuteClinic"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "healthcare"
+            ],
+            "score": 7,
+            "ownedBy": [
+                "cvs"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/MinuteClinicLogo2014.png/250px-MinuteClinicLogo2014.png",
+            "siteUrl": "https://www.cvs.com/minuteclinic",
+            "updatedAt": "2025-10-03T11:58:52.401Z"
+        },
+        "longs-drugs": {
+            "names": [
+                "Longs Drugs"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "healthcare"
+            ],
+            "score": 7,
+            "ownedBy": [
+                "cvs"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Longs_Drugs_logo.svg",
+            "siteUrl": "https://www.longs.com/",
+            "updatedAt": "2025-10-03T11:58:52.401Z"
+        },
+        "aetna": {
+            "names": [
+                "Aetna"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "healthcare"
+            ],
+            "score": 7,
+            "ownedBy": [
+                "cvs"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/1_Heart_Aetna_logo_sm_rgb_violet.svg",
+            "siteUrl": "https://www.aetna.com/",
+            "updatedAt": "2025-10-03T12:00:10.343Z"
+        },
+        "navarro": {
+            "names": [
+                "Navarro",
+                "Navarro Discount Pharmacies",
+                "Navarro Discount Pharmacies, Inc."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "healthcare"
+            ],
+            "score": 7,
+            "ownedBy": [
+                "cvs"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Navarro_Discount_Pharmacy_Logo_12.2018.svg",
+            "siteUrl": "http://navarro.com/",
+            "updatedAt": "2025-10-03T12:00:10.343Z"
+        },
+        "omnicare": {
+            "names": [
+                "Omnicare"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "healthcare"
+            ],
+            "score": 7,
+            "ownedBy": [
+                "cvs"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/df/Omnicare_logo.svg",
+            "siteUrl": "http://www.omnicare.com/",
+            "updatedAt": "2025-10-03T12:00:10.343Z"
+        },
+        "oak-street-health": {
+            "names": [
+                "Oak Street Health"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "healthcare"
+            ],
+            "score": 7,
+            "ownedBy": [
+                "cvs"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/OSH_Logo.png",
+            "siteUrl": "http://www.oakstreethealth.com/",
+            "updatedAt": "2025-10-03T12:00:10.343Z"
         }
     }
 }
