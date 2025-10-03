@@ -10367,6 +10367,29 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Corsair_2020_logo.svg",
             "siteUrl": "https://corsair.com/",
             "updatedAt": "2025-10-02T13:10:32.050Z"
+        },
+        "coursera": {
+            "names": [
+                "Coursera"
+            ],
+            "comment": "Coursera is an American edutech company that offers online courses but has been accused of prioritising shareholder returns over their learners [1][2].",
+            "sources": {
+                "1": "https://www.classcentral.com/report/coursera-preview-mode-paywall/",
+                "2": "https://www.insidehighered.com/news/2016/01/29/critics-see-mismatch-between-courseras-mission-business-model"
+            },
+            "sourceNotes": {
+                "1": "prioritised wall street returns over learners",
+                "2": "prioritised wall street returns over learners"
+            },
+            "tags": [
+                "education",
+                "tech"
+            ],
+            "score": 49,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Coursera_logo_%282020%29.svg",
+            "siteUrl": "https://coursera.org/",
+            "updatedAt": "2025-10-02T17:01:43.219Z"
         }
     }
 }
