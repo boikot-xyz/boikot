@@ -10583,6 +10583,134 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/OSH_Logo.png",
             "siteUrl": "http://www.oakstreethealth.com/",
             "updatedAt": "2025-10-03T12:00:10.343Z"
+        },
+        "danone": {
+            "names": [
+                "Danone",
+                "Danone S.A.",
+                "Boussois-Souchon-Neuvesel",
+                "BSN",
+                "BSN-Gervais Danone",
+                "BSN Groupe",
+                "BN"
+            ],
+            "comment": "Danone is a multinational food company that has misled mothers about infant formula to boost sales [1] and paid midwives kickbacks for selling its formula [2]. It has also engaged in price fixing [3], failed to take accountability for its plastic waste footprint [4], dried up natural water supplies near its facilities [5], polluted communities in Bali [6], and illegally built a plastic recycling plant that harmed local communities' health [7].",
+            "sources": {
+                "1": "https://web.archive.org/web/20201112021537/http://www.independent.co.uk/news/uk/home-news/after-nestle-aptamil-manufacturer-danone-now-hit-breast-milk-scandal-8679226.html",
+                "2": "https://web.archive.org/web/20160502150942/http://www.theguardian.com/world/2013/feb/15/babies-health-formula-indonesia-breastfeeding",
+                "3": "https://www.eldiario.es/galicia/cartel-leche-enfrenta-pagar-miles-millones-euros-productores-perjudicados_1_10952915.html",
+                "4": "https://www.theguardian.com/environment/2023/jan/10/activists-sue-french-food-firm-danone-plastics-footprint",
+                "5": "https://www.euronews.com/2023/06/15/french-region-on-the-brink-of-desertification-says-hydrobiologist",
+                "6": "https://stoppoisonplastic.org/blog/bali-community-tells-danone-stop-poisoning-us-with-toxic-plastic/",
+                "7": "https://unearthed.greenpeace.org/2024/04/26/danone-plastic-offsetting-verra-indonesia-treaty/"
+            },
+            "sourceNotes": {
+                "1": "misled mothers about infant formula to sell more of its products",
+                "2": "gave midwives kickbacks for selling its infant formula",
+                "3": "engaged in price fixing",
+                "4": "failed to take accountability for its plastic waste footprint",
+                "5": "dried up natural water supplies around its facilities",
+                "6": "facilities polluted communities in Bali",
+                "7": "illegally constructed a plastic recycling facility that impacted the local community's health"
+            },
+            "tags": [
+                "food"
+            ],
+            "score": 14,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/DANONE_LOGO_HORIZONTAL.png",
+            "siteUrl": "https://www.danone.com/",
+            "updatedAt": "2025-10-07T21:25:02.406Z"
+        },
+        "volvic": {
+            "names": [
+                "Volvic"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "water"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "danone"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Volvic_brand_logo.png/250px-Volvic_brand_logo.png",
+            "siteUrl": "https://www.volvic.com/",
+            "updatedAt": "2025-10-08T19:51:20.084Z"
+        },
+        "activia": {
+            "names": [
+                "Activia"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "danone"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Activia_logo.png/250px-Activia_logo.png",
+            "siteUrl": "https://www.activia.us.com/",
+            "updatedAt": "2025-10-08T19:51:20.084Z"
+        },
+        "acitimel": {
+            "names": [
+                "Acitimel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "danone"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Actimel_Logo.png/250px-Actimel_Logo.png",
+            "siteUrl": "https://www.activia.us.com/",
+            "updatedAt": "2025-10-08T19:51:20.084Z"
+        },
+        "alpro": {
+            "names": [
+                "Alpro"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "danone"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/15/Alpro_2019_logo.png/250px-Alpro_2019_logo.png",
+            "siteUrl": "http://alpro.com/",
+            "updatedAt": "2025-10-08T19:51:20.084Z"
+        },
+        "evian": {
+            "names": [
+                "Evian"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "water"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "danone"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Evian_logo.svg",
+            "siteUrl": "https://www.evian.com/en_int/",
+            "updatedAt": "2025-10-08T19:51:20.084Z"
         }
     }
 }
