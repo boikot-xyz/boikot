@@ -10711,6 +10711,25 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Evian_logo.svg",
             "siteUrl": "https://www.evian.com/en_int/",
             "updatedAt": "2025-10-08T19:51:20.084Z"
+        },
+        "decathlon": {
+            "names": [
+                "Decathlon"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "sportswear"
+            ],
+            "score": null,
+            "ownedBy": [
+                "association-familiale-mulliez"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Decathlon_-_logo_%28France%2C_2024%29.svg",
+            "siteUrl": "http://decathlon.com/",
+            "updatedAt": "2025-10-27T20:26:51.564Z"
         }
     }
 }
