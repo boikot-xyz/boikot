@@ -10712,6 +10712,26 @@
             "siteUrl": "https://www.evian.com/en_int/",
             "updatedAt": "2025-10-08T19:51:20.084Z"
         },
+        "dc-comics": {
+            "names": [
+                "DC Comics",
+                "DC Comics, Inc.",
+                "DC"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": null,
+            "ownedBy": [
+                "warner-bros-discovery"
+            ],
+            "logoUrl": "https://dc.com/",
+            "siteUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/DC_Comics_2024.svg",
+            "updatedAt": "2025-10-27T16:22:58.279Z"
+        },
         "decathlon": {
             "names": [
                 "Decathlon"
