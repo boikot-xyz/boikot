@@ -27,9 +27,9 @@
             "tags": [
                 "bank",
                 "unsustainable",
-                "anticompetetive",
+                "anticompetitive",
                 "tax avoidance",
-                "bad working conditions"
+                "poor working conditions"
             ],
             "score": 20,
             "ownedBy": [],
@@ -65,8 +65,7 @@
             "tags": [
                 "bank",
                 "corruption",
-                "greenwashing",
-                "nuclear"
+                "greenwashing"
             ],
             "score": 35,
             "ownedBy": [],
@@ -91,10 +90,8 @@
             },
             "tags": [
                 "electronics",
-                "phones",
-                "computers",
                 "corruption",
-                "anticompetetive",
+                "anticompetitive",
                 "antiunion"
             ],
             "score": 45,
@@ -128,12 +125,10 @@
             "tags": [
                 "tech",
                 "electronics",
-                "phones",
-                "computers",
                 "proprivacy",
-                "anticompetetive",
+                "anticompetitive",
                 "greenwashing",
-                "bad working conditions"
+                "poor working conditions"
             ],
             "score": 55,
             "ownedBy": [],
@@ -165,13 +160,11 @@
                 "cars",
                 "tech",
                 "ai",
-                "solarpower",
-                "batteries",
                 "cleanenergy",
                 "antiunion",
-                "anticompetetive",
+                "anticompetitive",
                 "sexual harassment",
-                "bad working conditions",
+                "poor working conditions",
                 "unsustainable"
             ],
             "score": 37,
@@ -195,9 +188,7 @@
             },
             "tags": [
                 "tech",
-                "software",
                 "ai",
-                "open source",
                 "sexual harassment"
             ],
             "score": 35,
@@ -233,12 +224,10 @@
             },
             "tags": [
                 "tech",
-                "software",
                 "ai",
-                "cybersecurity",
-                "gaming",
+                "video games",
                 "electronics",
-                "anticompetetive",
+                "anticompetitive",
                 "antiprivacy",
                 "tax avoidance"
             ],
@@ -260,8 +249,7 @@
             },
             "tags": [
                 "tech",
-                "ai",
-                "open source"
+                "ai"
             ],
             "score": 70,
             "ownedBy": [],
@@ -289,9 +277,7 @@
             },
             "tags": [
                 "tech",
-                "video",
                 "media",
-                "radicalisation",
                 "antiprivacy"
             ],
             "score": 20,
@@ -321,7 +307,7 @@
                 "cars",
                 "discrimination",
                 "unsustainable",
-                "endangerment"
+                "unsafe working conditions"
             ],
             "score": 45,
             "ownedBy": [],
@@ -562,7 +548,7 @@
             },
             "tags": [
                 "video games",
-                "bad working conditions"
+                "poor working conditions"
             ],
             "score": 50,
             "ownedBy": [
@@ -631,7 +617,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 10,
             "ownedBy": [
@@ -854,7 +840,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 10,
             "ownedBy": [
@@ -871,7 +857,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 10,
             "ownedBy": [
@@ -905,7 +891,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 10,
             "ownedBy": [
@@ -922,7 +908,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 10,
             "ownedBy": [
@@ -939,7 +925,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 10,
             "ownedBy": [
@@ -956,7 +942,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 10,
             "ownedBy": [
@@ -973,7 +959,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 10,
             "ownedBy": [
@@ -990,7 +976,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 10,
             "ownedBy": [
@@ -1007,7 +993,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 10,
             "ownedBy": [
@@ -1041,7 +1027,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 10,
             "ownedBy": [
@@ -1058,7 +1044,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 10,
             "ownedBy": [
@@ -1420,7 +1406,7 @@
             },
             "tags": [
                 "beverages",
-                "waterusage",
+                "water depletion",
                 "plastic"
             ],
             "score": 30,
@@ -1491,7 +1477,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 5,
             "ownedBy": [
@@ -1508,7 +1494,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 5,
             "ownedBy": [
@@ -1701,7 +1687,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 5,
             "ownedBy": [
@@ -1718,7 +1704,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 5,
             "ownedBy": [
@@ -1735,7 +1721,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 5,
             "ownedBy": [
@@ -1799,8 +1785,6 @@
             },
             "tags": [
                 "transport",
-                "metro",
-                "bus",
                 "public transport",
                 "unfair pay"
             ],
@@ -1900,8 +1884,8 @@
             "tags": [
                 "restaurant",
                 "coffee",
-                "bad working conditions",
-                "endangerment"
+                "poor working conditions",
+                "unsafe working conditions"
             ],
             "score": 35,
             "ownedBy": [
@@ -1978,7 +1962,7 @@
             },
             "tags": [
                 "fast food",
-                "bad working conditions",
+                "poor working conditions",
                 "russia"
             ],
             "score": 25,
@@ -2001,7 +1985,7 @@
             },
             "tags": [
                 "bank",
-                "buildingsociety"
+                "building society"
             ],
             "score": 80,
             "ownedBy": [],
@@ -2030,8 +2014,7 @@
             },
             "tags": [
                 "bank",
-                "unsustainable",
-                "nuclear"
+                "unsustainable"
             ],
             "score": 35,
             "ownedBy": [],
@@ -2052,8 +2035,6 @@
             "tags": [
                 "tech",
                 "entertainment",
-                "tv",
-                "movies",
                 "antiprivacy"
             ],
             "score": 50,
@@ -2085,10 +2066,9 @@
             },
             "tags": [
                 "tech",
-                "socialmedia",
+                "social media",
                 "antiprivacy",
-                "taxavoidance",
-                "radicalisation"
+                "tax avoidance"
             ],
             "score": 10,
             "ownedBy": [],
@@ -2372,7 +2352,7 @@
             },
             "tags": [
                 "beverages",
-                "bad working conditions",
+                "poor working conditions",
                 "sexual harassment"
             ],
             "score": 35,
@@ -2490,7 +2470,7 @@
                 "supermarket",
                 "retail",
                 "unfair pay",
-                "bad working conditions",
+                "poor working conditions",
                 "anticompetitive"
             ],
             "score": 40,
@@ -2533,8 +2513,8 @@
                 "7": "https://www.nytimes.com/1994/11/09/business/ikea-founder-tells-of-past.html"
             },
             "tags": [
-                "furniture",
-                "bad working conditions",
+                "retail",
+                "poor working conditions",
                 "antiprivacy",
                 "deforestation"
             ],
@@ -2743,8 +2723,8 @@
                 "clothing",
                 "retail",
                 "fast fashion",
-                "bad working conditions",
-                "endangerment"
+                "poor working conditions",
+                "unsafe working conditions"
             ],
             "score": 25,
             "ownedBy": [],
@@ -2772,7 +2752,7 @@
                 "retail",
                 "child labour",
                 "discrimination",
-                "bad working conditions"
+                "poor working conditions"
             ],
             "score": 40,
             "ownedBy": [],
@@ -2840,8 +2820,8 @@
                 "tech",
                 "unsustainable",
                 "discrimination",
-                "bad working conditions",
-                "anticompetetive",
+                "poor working conditions",
+                "anticompetitive",
                 "antiunion"
             ],
             "score": 5,
@@ -2869,11 +2849,9 @@
                 "6": "https://web.archive.org/web/20221018015119/https://investors.fedex.com/financial-information/sec-filings/default.aspx"
             },
             "tags": [
-                "logistics",
-                "shipping",
                 "ecommerce",
-                "bad working conditions",
-                "endangerment"
+                "poor working conditions",
+                "unsafe working conditions"
             ],
             "score": 45,
             "ownedBy": [],
@@ -2898,8 +2876,6 @@
             },
             "tags": [
                 "telecommunications",
-                "broadband",
-                "ISP",
                 "antiprivacy",
                 "tax avoidance"
             ],
@@ -2913,9 +2889,9 @@
             "names": [
                 "Salesforce",
                 "Salesforce, Inc.",
-                "CRM",
                 "Salesforce.com, Inc.",
-                "Salesforce.com"
+                "Salesforce.com",
+                "CRM"
             ],
             "comment": "Salesforce, a tech company facing legal scrutiny for aiding Backpage in sex trafficking [1], has been highlighted for its tax avoidance strategies, with findings revealing it paid minimal federal taxes in 2018 [2]. Additionally, controversy surrounds its contracts with Customs and Border Protection, leading to the rejection of a donation by a legal aid group for immigrants and refugees [3], and allegations of inadequate accommodations for employees with developmental disorders in Japan [4].",
             "sources": {
@@ -2926,8 +2902,6 @@
             },
             "tags": [
                 "tech",
-                "tracking",
-                "CRM",
                 "tax avoidance"
             ],
             "score": 40,
@@ -2958,7 +2932,7 @@
                 "retail",
                 "supermarket",
                 "tax avoidance",
-                "anticompetetive",
+                "anticompetitive",
                 "deforestation",
                 "animal abuse",
                 "forced labour"
@@ -2984,7 +2958,7 @@
             "tags": [
                 "cars",
                 "unsustainable",
-                "emmissions cheating"
+                "emissions cheating"
             ],
             "score": 36,
             "ownedBy": [],
@@ -3095,7 +3069,7 @@
                 "ai",
                 "antiprivacy",
                 "antiunion",
-                "anticompetetive",
+                "anticompetitive",
                 "tax avoidance"
             ],
             "score": 20,
@@ -3120,11 +3094,11 @@
             },
             "tags": [
                 "tech",
-                "videogames",
-                "movies",
+                "video games",
+                "entertainment",
                 "electronics",
                 "antiprivacy",
-                "anticompetetive"
+                "anticompetitive"
             ],
             "score": 50,
             "ownedBy": [],
@@ -3146,7 +3120,7 @@
             "tags": [
                 "retail",
                 "supermarket",
-                "poorworkingconditions"
+                "poor working conditions"
             ],
             "score": 45,
             "ownedBy": [],
@@ -3189,7 +3163,6 @@
                 "2": "https://www.bosch-stiftung.de/en/about-robert-bosch-stiftung"
             },
             "tags": [
-                "engineering",
                 "tech",
                 "unsustainable"
             ],
@@ -3219,7 +3192,7 @@
             "tags": [
                 "clothing",
                 "child labour",
-                "tax evasion",
+                "tax avoidance",
                 "forced labour"
             ],
             "score": 40,
@@ -3267,8 +3240,7 @@
             "tags": [
                 "restaurant",
                 "food",
-                "fastfood",
-                "takeaway",
+                "fast food",
                 "unfair pay"
             ],
             "score": 45,
@@ -3294,7 +3266,7 @@
                 "restaurant",
                 "bar",
                 "pub",
-                "bad working conditions"
+                "poor working conditions"
             ],
             "score": 45,
             "ownedBy": [],
@@ -3443,8 +3415,8 @@
                 "food",
                 "beverages",
                 "tax avoidance",
-                "bad working conditions",
-                "anti union"
+                "poor working conditions",
+                "antiunion"
             ],
             "score": 35,
             "ownedBy": [],
@@ -3460,8 +3432,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "restaurant",
-                "italian food"
+                "restaurant"
             ],
             "score": null,
             "ownedBy": [
@@ -3508,7 +3479,7 @@
             },
             "tags": [
                 "restaurant",
-                "bad working conditions"
+                "poor working conditions"
             ],
             "score": 40,
             "ownedBy": [
@@ -3524,15 +3495,14 @@
                 "Yo! Sushi",
                 "Yo Sushi"
             ],
-            "comment": "YO! Sushi, a British sushi restaurant chain, has been identified as having the worst food safety record among major chains, with eight of its 23 restaurants failing to meet legal hygiene standards [1]. YO! Sushi refusing to seat a blind woman accompanied by a guide dog [2].",
+            "comment": "YO! Sushi, a British sushi restaurant chain, has been identified as having the worst food safety record among major chains, with eight of its 23 restaurants failing to meet legal hygiene standards [1]. A YO! Sushi location refused to seat a blind woman accompanied by a guide dog [2].",
             "sources": {
                 "1": "https://www.thecaterer.com/news/restaurant/yo-sushi-defends-food-safety-procedures-after-independent-attacks-hygiene-record",
                 "2": "https://www.mailplus.co.uk/edition/news/society/107928/yo-sushi-restaurant-refuses-to-seat-blind-woman-accompanied-by-guide-dog"
             },
             "tags": [
                 "restaurant",
-                "sushi",
-                "endangerment",
+                "food",
                 "discrimination"
             ],
             "score": 39,
@@ -3555,9 +3525,8 @@
             },
             "tags": [
                 "fast food",
-                "burgers",
                 "discrimination",
-                "bad working conditions"
+                "poor working conditions"
             ],
             "score": 40,
             "ownedBy": [],
@@ -3581,7 +3550,7 @@
                 "pizza",
                 "sexual harassment",
                 "discrimination",
-                "bad working conditions"
+                "poor working conditions"
             ],
             "score": 40,
             "ownedBy": [],
@@ -3597,7 +3566,7 @@
             "sources": {},
             "tags": [
                 "fast food",
-                "burgers"
+                "restaurant"
             ],
             "score": 50,
             "ownedBy": [
@@ -3646,7 +3615,7 @@
                 "restaurant",
                 "fast food",
                 "food",
-                "bad working conditions",
+                "poor working conditions",
                 "discrimination",
                 "sexual harassment"
             ],
@@ -3674,8 +3643,8 @@
                 "restaurant",
                 "food",
                 "fast food",
-                "bad working conditions",
-                "endangerment"
+                "poor working conditions",
+                "unsafe working conditions"
             ],
             "score": 40,
             "ownedBy": [],
@@ -3696,7 +3665,7 @@
             },
             "tags": [
                 "clothing",
-                "bad working conditions",
+                "poor working conditions",
                 "discrimination"
             ],
             "score": 42,
@@ -3723,7 +3692,7 @@
                 "clothing",
                 "fast fashion",
                 "retail",
-                "bad working conditions",
+                "poor working conditions",
                 "forced labour"
             ],
             "score": 25,
@@ -3752,8 +3721,7 @@
                 "social media",
                 "news",
                 "tech",
-                "communications",
-                "radicalisation"
+                "media"
             ],
             "score": 48,
             "ownedBy": [],
@@ -3814,7 +3782,7 @@
                 "tech",
                 "chemicals",
                 "electronics",
-                "endangerment"
+                "unsafe working conditions"
             ],
             "score": 20,
             "ownedBy": [],
@@ -3839,9 +3807,8 @@
                 "2": "https://gizmodo.com/accenture-employees-demand-their-company-break-ties-wit-1830474961"
             },
             "tags": [
-                "consulting",
-                "tech",
-                "cybersecurity"
+                "finance",
+                "tech"
             ],
             "score": 41,
             "ownedBy": [],
@@ -3926,7 +3893,6 @@
                 "food",
                 "beverages",
                 "consumer goods",
-                "cleaning",
                 "russia",
                 "plastic",
                 "deforestation",
@@ -4027,7 +3993,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 20,
             "ownedBy": [
@@ -4044,7 +4010,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 20,
             "ownedBy": [
@@ -4061,7 +4027,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 20,
             "ownedBy": [
@@ -4078,7 +4044,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 20,
             "ownedBy": [
@@ -4095,7 +4061,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 20,
             "ownedBy": [
@@ -4147,7 +4113,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 20,
             "ownedBy": [
@@ -4164,7 +4130,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 20,
             "ownedBy": [
@@ -4190,7 +4156,7 @@
                 "fast fashion",
                 "clothing",
                 "retail",
-                "bad working conditions",
+                "poor working conditions",
                 "forced labour"
             ],
             "score": 25,
@@ -4342,7 +4308,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "confectionery"
+                "confectionary"
             ],
             "score": 40,
             "ownedBy": [
@@ -4389,9 +4355,9 @@
             "tags": [
                 "supermarket",
                 "retail",
-                "bad working conditions",
+                "poor working conditions",
                 "child labour",
-                "endangerment"
+                "unsafe working conditions"
             ],
             "score": 20,
             "ownedBy": [],
@@ -4431,7 +4397,7 @@
             "tags": [
                 "supermarket",
                 "retail",
-                "bad working conditions"
+                "poor working conditions"
             ],
             "score": 60,
             "ownedBy": [],
@@ -4455,7 +4421,7 @@
                 "supermarket",
                 "retail",
                 "antiprivacy",
-                "bad working conditions",
+                "poor working conditions",
                 "animal abuse",
                 "antiunion"
             ],
@@ -4573,8 +4539,8 @@
             "tags": [
                 "fast food",
                 "animal abuse",
-                "sexual abuse",
-                "bad working conditions"
+                "sexual harassment",
+                "poor working conditions"
             ],
             "score": 20,
             "ownedBy": [],
@@ -4647,7 +4613,7 @@
                 "2": "https://www.packagingnews.co.uk/news/doughnut-giant-fined-for-not-recycling-packaging-18-03-2011"
             },
             "tags": [
-                "confectionery",
+                "confectionary",
                 "food"
             ],
             "score": 45,
@@ -4691,7 +4657,7 @@
             "tags": [
                 "fast food",
                 "restaurant",
-                "bad working conditions"
+                "poor working conditions"
             ],
             "score": 45,
             "ownedBy": [],
@@ -4714,7 +4680,7 @@
             "tags": [
                 "restaurant",
                 "food",
-                "bad working conditions"
+                "poor working conditions"
             ],
             "score": 46,
             "ownedBy": [],
@@ -4789,7 +4755,6 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "motorbikes",
                 "motorcycles"
             ],
             "score": 35,
@@ -4913,7 +4878,7 @@
             },
             "tags": [
                 "cars",
-                "bad working conditions",
+                "poor working conditions",
                 "emissions cheating",
                 "unsustainable"
             ],
@@ -5210,7 +5175,7 @@
             },
             "tags": [
                 "cars",
-                "endangerment",
+                "unsafe working conditions",
                 "emissions cheating"
             ],
             "score": 38,
@@ -5400,7 +5365,7 @@
                 "Mazda Motor Corporation",
                 "マツダ株式会社"
             ],
-            "comment": "Mazda is a Japanese car company that has been implicated in faking emmissions tests [1].",
+            "comment": "Mazda is a Japanese car company that has been implicated in faking emissions tests [1].",
             "sources": {
                 "1": "https://asia.nikkei.com/Business/Companies/Suzuki-and-Mazda-admit-faking-emissions-tests"
             },
@@ -5476,7 +5441,7 @@
             "tags": [
                 "cars",
                 "forced labour",
-                "endangerment"
+                "unsafe working conditions"
             ],
             "score": 15,
             "ownedBy": [],
@@ -5576,7 +5541,7 @@
             "tags": [
                 "tech",
                 "transport",
-                "bad working conditions",
+                "poor working conditions",
                 "sexual harassment",
                 "antiprivacy",
                 "tax avoidance"
@@ -5607,9 +5572,7 @@
             },
             "tags": [
                 "media",
-                "films",
                 "entertainment",
-                "tv",
                 "forced labour",
                 "sexual harassment"
             ],
@@ -5690,7 +5653,6 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "furniture",
                 "retail"
             ],
             "score": 44,
@@ -5728,7 +5690,7 @@
                 "1": "https://www.forbes.com/sites/alexknapp/2023/11/30/this-startup-just-raised-19-million-to-bring-an-industrial-revolution-to-biology/"
             },
             "tags": [
-                "health",
+                "healthcare",
                 "tech"
             ],
             "score": 85,
@@ -5961,7 +5923,6 @@
             },
             "tags": [
                 "electronics",
-                "china",
                 "antiprivacy"
             ],
             "score": 38,
@@ -5978,7 +5939,6 @@
             "sources": {},
             "tags": [
                 "electronics",
-                "china",
                 "antiprivacy"
             ],
             "score": 38,
@@ -5997,7 +5957,6 @@
             "sources": {},
             "tags": [
                 "electronics",
-                "china",
                 "antiprivacy"
             ],
             "score": 38,
@@ -6219,14 +6178,14 @@
                 "Essilor",
                 "EL"
             ],
-            "comment": "EssilorLuxottica is an Italian-French eyewear conglomerate that has engaged in anticompetetive [1] and anti-union practices [2].",
+            "comment": "EssilorLuxottica is an Italian-French eyewear conglomerate that has engaged in anticompetitive [1] and anti-union practices [2].",
             "sources": {
                 "1": "https://www.pymnts.com/cpi-posts/eyewear-manufacturer-essilorluxottica-accused-of-artificially-inflating-prices/",
                 "2": "https://www.reuters.com/business/ray-ban-maker-luxottica-accused-anti-union-behaviour-us-georgia-plant-2021-07-15/"
             },
             "tags": [
                 "clothing",
-                "anticompetetive",
+                "anticompetitive",
                 "antiunion"
             ],
             "score": 44,
@@ -6581,9 +6540,9 @@
                 "4": "http://news.bbc.co.uk/2/hi/business/2375967.stm"
             },
             "tags": [
-                "videogames",
-                "anticomptetive",
-                "sexualharassment"
+                "video games",
+                "anticompetitive",
+                "sexual harassment"
             ],
             "score": 43,
             "ownedBy": [],
@@ -6722,7 +6681,7 @@
             },
             "tags": [
                 "alcohol",
-                "anticompetetive"
+                "anticompetitive"
             ],
             "score": 15,
             "ownedBy": [],
@@ -6954,8 +6913,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "software",
-                "videogames"
+                "video games"
             ],
             "score": 35,
             "ownedBy": [
@@ -6974,8 +6932,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "software",
-                "videogames"
+                "video games"
             ],
             "score": 35,
             "ownedBy": [
@@ -6992,8 +6949,7 @@
             "comment": "",
             "sources": {},
             "tags": [
-                "software",
-                "videogames"
+                "video games"
             ],
             "score": 35,
             "ownedBy": [
@@ -7025,8 +6981,7 @@
             "tags": [
                 "news",
                 "media",
-                "tv",
-                "radio"
+                "entertainment"
             ],
             "score": 75,
             "ownedBy": [],
@@ -7078,8 +7033,7 @@
             },
             "tags": [
                 "tech",
-                "travel",
-                "accomodation"
+                "travel"
             ],
             "score": 19,
             "ownedBy": [],
@@ -7236,7 +7190,7 @@
                 "Wells, Butterfield & Company",
                 "Wells & Company"
             ],
-            "comment": "American Express is an American payment card company that has repeatedly forced unlawful fees on its customers [1][2][3][4], misled small business about its services [5], engaged in various anticompetetive practices [6][7] and discriminated against female employees [8] as well as spanish-speaking customers [9].",
+            "comment": "American Express is an American payment card company that has repeatedly forced unlawful fees on its customers [1][2][3][4], misled small business about its services [5], engaged in various anticompetitive practices [6][7] and discriminated against female employees [8] as well as spanish-speaking customers [9].",
             "sources": {
                 "1": "https://www.cbc.ca/news/business/amex-fined-112m-for-unlawful-fees-and-sales-tactics-1.1185636",
                 "2": "https://blogs.ubc.ca/robsandall/2012/10/01/american-express-fined-112-million-for-unethical-proceedings/",
@@ -7249,7 +7203,8 @@
                 "9": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-and-american-express-reach-resolution-address-discriminatory-card-terms-puerto-rico-and-us-territories/"
             },
             "tags": [
-                "finance"
+                "finance",
+                "tech"
             ],
             "score": 43,
             "ownedBy": [],
@@ -7398,7 +7353,7 @@
                 "6": "company caused false and fraudulent claims to be filed with the Medicare, TriCare, Department of Defense and Railroad Retirement Board Medicare programs as a result of AstraZeneca’s fraudulent drug pricing schemes and sales and marketing misconduct",
                 "7": "Lied about results of study of new heart drug",
                 "8": "AstraZeneca to pay $5.5 million for bribing doctors in China and Russia",
-                "9": "price fixing and anti competetive inflation of drug prices"
+                "9": "price fixing and anticompetetive inflation of drug prices"
             },
             "tags": [
                 "pharmaceuticals"
@@ -7484,9 +7439,9 @@
                 "7": "https://www.washingtontechnology.com/rankings/company/195/top-100/2024/"
             },
             "sourceNotes": {
-                "1": "anticompetetive and anticonsumer practices",
-                "2": "anticompetetive and anticonsumer practices",
-                "3": "anticompetetive and anticonsumer practices",
+                "1": "anticompetitive and anticonsumer practices",
+                "2": "anticompetitive and anticonsumer practices",
+                "3": "anticompetitive and anticonsumer practices",
                 "4": "abusive labour conditions in factories in supply chain",
                 "5": "forced Uyghur labour in supply chain",
                 "6": "provides services to Israel Police and Population and Immigration Authority",
@@ -7784,7 +7739,7 @@
             "tags": [
                 "retail",
                 "clothing",
-                "sports"
+                "sport"
             ],
             "score": 48,
             "ownedBy": [],
@@ -7800,7 +7755,7 @@
             "sources": {},
             "sourceNotes": {},
             "tags": [
-                "food and beverages"
+                "food"
             ],
             "score": 43,
             "ownedBy": [
@@ -7827,14 +7782,15 @@
             },
             "sourceNotes": {
                 "1": "unsafe working conditions",
-                "2": "anticompetetive supplier practices",
-                "3": "anticompetetive supplier practices",
+                "2": "anticompetitive supplier practices",
+                "3": "anticompetitive supplier practices",
                 "4": "engaged in price fixing",
                 "5": "reversed promise to use free range eggs to save costs",
                 "6": "sold food containing carcinogens"
             },
             "tags": [
-                "food and beverages"
+                "food",
+                "beverages"
             ],
             "score": 43,
             "ownedBy": [],
@@ -7851,14 +7807,15 @@
             "sources": {},
             "sourceNotes": {
                 "1": "unsafe working conditions",
-                "2": "anticompetetive supplier practices",
-                "3": "anticompetetive supplier practices",
+                "2": "anticompetitive supplier practices",
+                "3": "anticompetitive supplier practices",
                 "4": "engaged in price fixing",
                 "5": "reversed promise to use free range eggs to save costs",
                 "6": "sold food containing carcinogens"
             },
             "tags": [
-                "food and beverages"
+                "food",
+                "beverages"
             ],
             "score": 43,
             "ownedBy": [
@@ -7876,14 +7833,15 @@
             "sources": {},
             "sourceNotes": {
                 "1": "unsafe working conditions",
-                "2": "anticompetetive supplier practices",
-                "3": "anticompetetive supplier practices",
+                "2": "anticompetitive supplier practices",
+                "3": "anticompetitive supplier practices",
                 "4": "engaged in price fixing",
                 "5": "reversed promise to use free range eggs to save costs",
                 "6": "sold food containing carcinogens"
             },
             "tags": [
-                "food and beverages"
+                "food",
+                "beverages"
             ],
             "score": 43,
             "ownedBy": [
@@ -7901,14 +7859,15 @@
             "sources": {},
             "sourceNotes": {
                 "1": "unsafe working conditions",
-                "2": "anticompetetive supplier practices",
-                "3": "anticompetetive supplier practices",
+                "2": "anticompetitive supplier practices",
+                "3": "anticompetitive supplier practices",
                 "4": "engaged in price fixing",
                 "5": "reversed promise to use free range eggs to save costs",
                 "6": "sold food containing carcinogens"
             },
             "tags": [
-                "food and beverages"
+                "food",
+                "beverages"
             ],
             "score": 43,
             "ownedBy": [
@@ -7926,14 +7885,15 @@
             "sources": {},
             "sourceNotes": {
                 "1": "unsafe working conditions",
-                "2": "anticompetetive supplier practices",
-                "3": "anticompetetive supplier practices",
+                "2": "anticompetitive supplier practices",
+                "3": "anticompetitive supplier practices",
                 "4": "engaged in price fixing",
                 "5": "reversed promise to use free range eggs to save costs",
                 "6": "sold food containing carcinogens"
             },
             "tags": [
-                "food and beverages"
+                "food",
+                "beverages"
             ],
             "score": 43,
             "ownedBy": [
@@ -7951,14 +7911,15 @@
             "sources": {},
             "sourceNotes": {
                 "1": "unsafe working conditions",
-                "2": "anticompetetive supplier practices",
-                "3": "anticompetetive supplier practices",
+                "2": "anticompetitive supplier practices",
+                "3": "anticompetitive supplier practices",
                 "4": "engaged in price fixing",
                 "5": "reversed promise to use free range eggs to save costs",
                 "6": "sold food containing carcinogens"
             },
             "tags": [
-                "food and beverages"
+                "food",
+                "beverages"
             ],
             "score": 43,
             "ownedBy": [
@@ -7976,14 +7937,15 @@
             "sources": {},
             "sourceNotes": {
                 "1": "unsafe working conditions",
-                "2": "anticompetetive supplier practices",
-                "3": "anticompetetive supplier practices",
+                "2": "anticompetitive supplier practices",
+                "3": "anticompetitive supplier practices",
                 "4": "engaged in price fixing",
                 "5": "reversed promise to use free range eggs to save costs",
                 "6": "sold food containing carcinogens"
             },
             "tags": [
-                "food and beverages"
+                "food",
+                "beverages"
             ],
             "score": 43,
             "ownedBy": [
@@ -8001,14 +7963,15 @@
             "sources": {},
             "sourceNotes": {
                 "1": "unsafe working conditions",
-                "2": "anticompetetive supplier practices",
-                "3": "anticompetetive supplier practices",
+                "2": "anticompetitive supplier practices",
+                "3": "anticompetitive supplier practices",
                 "4": "engaged in price fixing",
                 "5": "reversed promise to use free range eggs to save costs",
                 "6": "sold food containing carcinogens"
             },
             "tags": [
-                "food and beverages"
+                "food",
+                "beverages"
             ],
             "score": 43,
             "ownedBy": [
@@ -8026,14 +7989,15 @@
             "sources": {},
             "sourceNotes": {
                 "1": "unsafe working conditions",
-                "2": "anticompetetive supplier practices",
-                "3": "anticompetetive supplier practices",
+                "2": "anticompetitive supplier practices",
+                "3": "anticompetitive supplier practices",
                 "4": "engaged in price fixing",
                 "5": "reversed promise to use free range eggs to save costs",
                 "6": "sold food containing carcinogens"
             },
             "tags": [
-                "food and beverages"
+                "food",
+                "beverages"
             ],
             "score": 43,
             "ownedBy": [
@@ -8051,14 +8015,15 @@
             "sources": {},
             "sourceNotes": {
                 "1": "unsafe working conditions",
-                "2": "anticompetetive supplier practices",
-                "3": "anticompetetive supplier practices",
+                "2": "anticompetitive supplier practices",
+                "3": "anticompetitive supplier practices",
                 "4": "engaged in price fixing",
                 "5": "reversed promise to use free range eggs to save costs",
                 "6": "sold food containing carcinogens"
             },
             "tags": [
-                "food and beverages"
+                "food",
+                "beverages"
             ],
             "score": 43,
             "ownedBy": [
@@ -8076,14 +8041,15 @@
             "sources": {},
             "sourceNotes": {
                 "1": "unsafe working conditions",
-                "2": "anticompetetive supplier practices",
-                "3": "anticompetetive supplier practices",
+                "2": "anticompetitive supplier practices",
+                "3": "anticompetitive supplier practices",
                 "4": "engaged in price fixing",
                 "5": "reversed promise to use free range eggs to save costs",
                 "6": "sold food containing carcinogens"
             },
             "tags": [
-                "food and beverages"
+                "food",
+                "beverages"
             ],
             "score": 43,
             "ownedBy": [
@@ -8101,14 +8067,15 @@
             "sources": {},
             "sourceNotes": {
                 "1": "unsafe working conditions",
-                "2": "anticompetetive supplier practices",
-                "3": "anticompetetive supplier practices",
+                "2": "anticompetitive supplier practices",
+                "3": "anticompetitive supplier practices",
                 "4": "engaged in price fixing",
                 "5": "reversed promise to use free range eggs to save costs",
                 "6": "sold food containing carcinogens"
             },
             "tags": [
-                "food and beverages"
+                "food",
+                "beverages"
             ],
             "score": 43,
             "ownedBy": [
@@ -8126,14 +8093,15 @@
             "sources": {},
             "sourceNotes": {
                 "1": "unsafe working conditions",
-                "2": "anticompetetive supplier practices",
-                "3": "anticompetetive supplier practices",
+                "2": "anticompetitive supplier practices",
+                "3": "anticompetitive supplier practices",
                 "4": "engaged in price fixing",
                 "5": "reversed promise to use free range eggs to save costs",
                 "6": "sold food containing carcinogens"
             },
             "tags": [
-                "food and beverages"
+                "food",
+                "beverages"
             ],
             "score": 43,
             "ownedBy": [
@@ -8292,7 +8260,7 @@
                 "3": "failed to pay overtime to employees"
             },
             "tags": [
-                "fashion"
+                "clothing"
             ],
             "score": 45,
             "ownedBy": [],
@@ -8309,7 +8277,7 @@
             "sources": {},
             "sourceNotes": {},
             "tags": [
-                "fashion"
+                "clothing"
             ],
             "score": 45,
             "ownedBy": [
@@ -8329,7 +8297,7 @@
             "sources": {},
             "sourceNotes": {},
             "tags": [
-                "fashion"
+                "clothing"
             ],
             "score": 45,
             "ownedBy": [
@@ -8348,8 +8316,7 @@
             "sources": {},
             "sourceNotes": {},
             "tags": [
-                "clothing",
-                "sportswear"
+                "clothing"
             ],
             "score": 40,
             "ownedBy": [
@@ -8368,8 +8335,7 @@
             "sources": {},
             "sourceNotes": {},
             "tags": [
-                "clothing",
-                "sportswear"
+                "clothing"
             ],
             "score": 40,
             "ownedBy": [
@@ -8387,8 +8353,7 @@
             "sources": {},
             "sourceNotes": {},
             "tags": [
-                "clothing",
-                "sportswear"
+                "clothing"
             ],
             "score": 40,
             "ownedBy": [
@@ -8406,8 +8371,7 @@
             "sources": {},
             "sourceNotes": {},
             "tags": [
-                "clothing",
-                "sportswear"
+                "clothing"
             ],
             "score": 40,
             "ownedBy": [
@@ -8443,8 +8407,7 @@
             "sources": {},
             "sourceNotes": {},
             "tags": [
-                "clothing",
-                "sportswear"
+                "clothing"
             ],
             "score": 40,
             "ownedBy": [
@@ -8706,7 +8669,7 @@
             },
             "tags": [
                 "retail",
-                "power tools"
+                "electronics"
             ],
             "score": 24,
             "ownedBy": [],
@@ -8986,7 +8949,7 @@
                 "7": "https://www.justiceinfo.net/en/132249-is-booking-com-profiting-from-war-crimes-in-palestine.html"
             },
             "sourceNotes": {
-                "1": "anti competetive collusion",
+                "1": "anticompetetive collusion",
                 "2": "Booking.com was accused of violating Turkish competition law through unfair, anti‑competitive practices against travel agencies.",
                 "3": "unfair pricing practices",
                 "4": "failing to pay small hotels while paying shareholders billions",
@@ -9167,7 +9130,7 @@
             },
             "tags": [
                 "tech",
-                "communication"
+                "telecommunications"
             ],
             "score": 42,
             "ownedBy": [],
@@ -9313,7 +9276,7 @@
                 "3": "falsified emissions data"
             },
             "tags": [
-                "vehicles",
+                "cars",
                 "manufacturing"
             ],
             "score": 45,
@@ -9330,7 +9293,7 @@
             "sources": {},
             "sourceNotes": {},
             "tags": [
-                "gaming",
+                "video games",
                 "tech"
             ],
             "score": 35,
@@ -9368,8 +9331,7 @@
             },
             "tags": [
                 "retail",
-                "sport",
-                "golf"
+                "sport"
             ],
             "score": 38,
             "ownedBy": [],
@@ -9395,8 +9357,7 @@
             },
             "tags": [
                 "retail",
-                "sport",
-                "golf"
+                "sport"
             ],
             "score": 38,
             "ownedBy": [
@@ -9425,8 +9386,8 @@
                 "6": "https://energytracker.asia/canon-backed-think-tank-cigs-spreads-climate-change-denial/"
             },
             "sourceNotes": {
-                "1": "anticompetetive conduct",
-                "2": "anticompetetive conduct",
+                "1": "anticompetitive conduct",
+                "2": "anticompetitive conduct",
                 "3": "failed to pay technicians on overtime and breaks",
                 "4": "predatory printer ink sales practices",
                 "5": "connected to climate change denial groups",
@@ -9450,8 +9411,8 @@
             "comment": "",
             "sources": {},
             "sourceNotes": {
-                "1": "anticompetetive conduct",
-                "2": "anticompetetive conduct",
+                "1": "anticompetitive conduct",
+                "2": "anticompetitive conduct",
                 "3": "failed to pay technicians on overtime and breaks",
                 "4": "predatory printer ink sales practices",
                 "5": "connected to climate change denial groups",
@@ -9981,7 +9942,7 @@
             "sources": {},
             "sourceNotes": {},
             "tags": [
-                "shoes"
+                "clothing"
             ],
             "score": null,
             "ownedBy": [
@@ -10408,8 +10369,7 @@
                 "2": "supressed negative reviews"
             },
             "tags": [
-                "clothing",
-                "shoes"
+                "clothing"
             ],
             "score": 46,
             "ownedBy": [],
@@ -10425,8 +10385,7 @@
             "sources": {},
             "sourceNotes": {},
             "tags": [
-                "clothing",
-                "shoes"
+                "clothing"
             ],
             "score": 46,
             "ownedBy": [
@@ -10741,7 +10700,7 @@
             "sourceNotes": {},
             "tags": [
                 "retail",
-                "sportswear"
+                "sport"
             ],
             "score": null,
             "ownedBy": [
