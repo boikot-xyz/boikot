@@ -1,0 +1,15 @@
+{
+    "_documentation": "This JSON file contains comments left on the boikot website.",
+    "companies": {
+        "barclays": {
+            "comments": [
+                {
+                    "username": "oscar",
+                    "commentText": "I have heard of barclays putting predatory fines on people in overdraft too 😠 taking advantage of them when they are stuggling",
+                    "createdAt": "2025-10-30T12:09:30.315Z"
+                }
+            ]
+        }
+    }
+}
+

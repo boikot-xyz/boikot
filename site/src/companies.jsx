@@ -5,6 +5,7 @@ import slugify from "slugify";
 import { Helmet } from "react-helmet";
 
 import { getKey, Badge, Card, FlexRow, Icon, IconButton, Page, PillButton, Row, Stack, TagBadge, ForceWrap, PillPopper } from "./components.jsx";
+import { Comments } from "./comments.jsx";
 import boikot from "../../boikot.json";
 
 
@@ -214,6 +215,7 @@ export function Company({ entry, compact }) {
                     <PillButton $outline>✏️   Edit this Company</PillButton>
                 </Link>
             </FlexRow>
+            <Comments entry={entry} />
         </> }
     </Stack>;
 }
