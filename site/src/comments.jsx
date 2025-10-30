@@ -39,7 +39,7 @@ function NewComment({ entry, setAddingComment }) {
     const [ commentText, setCommentText ] = React.useState("");
     const createdAt = (new Date()).toISOString();
 
-    return <form data-netlify="true"
+    return <form
         name="new-comment" method="post"
         onSubmit={ event => saveComment( event, entry ) }>
         <Stack gap="0.5rem" style={{ margin: "0.5rem 0" }}>
