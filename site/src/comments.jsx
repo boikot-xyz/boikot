@@ -41,7 +41,7 @@ function NewComment({ entry, setAddingComment }) {
 
     return <form
         name="new-comment" method="post"
-        onSubmit={ event => saveComment( event, entry ) + setAddingComment(false) }>
+        onSubmit={ event => saveComment( event, entry ) }>
         <Stack gap="0.5rem" style={{ margin: "0.5rem 0" }}>
             <input type="hidden" name="form-name" value="new-comment" />
             <input type="hidden" name="createdAt" value={ createdAt } />
