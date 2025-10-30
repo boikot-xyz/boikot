@@ -320,7 +320,7 @@ export const isEmail = email => email.match( /.+@.+\..+/ );
 
 function MailingList() {
     const [ email, setEmail ] = React.useState("");
-    return <form name="mailing-list" method="post">
+    return <form name="mailing-list" method="post" data-netlify="true">
         <input type="hidden" name="form-name" value="mailing-list" />
         <Stack>
             <p> Enter your email to join our mailing list
