@@ -140,9 +140,9 @@ function Alternatives({ entry }) {
             b.score - a.score
         );
     if( !alternativeEntries.length ) return null;
-    return <Card style={{ marginTop: "0.8rem", paddingBottom: 0 }} gap=".5rem">
+    return <Card style={{ marginTop: "0.8rem", paddingBottom: 0 }} gap=".75rem">
         <h3> Alternatives to { entry.names[0] }: </h3>
-        <p> Companies tagged <TagBadge>{ entry.tags[0] }</TagBadge> </p>
+        <p style={{ fontSize: "0.85rem", marginBottom: "0.25rem" }}> Companies tagged <TagBadge>{ entry.tags[0] }</TagBadge> </p>
         <Stack style={{
             maxHeight: "18rem", overflowY: "scroll", paddingBottom: "1rem"
         }}>
@@ -158,7 +158,7 @@ function Subsidiaries({ entry }) {
     const subsidiaries = Object.values(boikot.companies).filter(
         other => other.ownedBy.includes( getKey(entry) ) );
     if( !subsidiaries.length ) return null;
-    return <Card style={{ marginTop: "0.8rem", paddingBottom: 0, background: "#fff1", borderColor: "white" }} gap=".5rem">
+    return <Card style={{ marginTop: "0.8rem", paddingBottom: 0, background: "#a0f1", borderColor: "#a6f" }} gap=".75rem">
         <h3> Companies owned by { entry.names[0] }: </h3>
         <Stack style={{
             maxHeight: "18rem", overflowY: "scroll", paddingBottom: "1rem"
