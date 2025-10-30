@@ -26,6 +26,9 @@ export const copy = text =>
 export const getKey = entry =>
     slugify(entry.names[0]).toLowerCase();
 
+export const formatDateString = dateString =>
+    (new Date(dateString)).toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
+
 export const PillButton = styled.button`
     background: var(--fg);
     color: var(--bg);
