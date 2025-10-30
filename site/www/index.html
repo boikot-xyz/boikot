@@ -135,7 +135,10 @@ a {
             <div style="width: 100vw; height: 100vh; display: grid; place-items: center; background: #000711">
                 <h2 style="color: white"> boikot 🙅‍♀️ </h2>
             </div>
+        </div>
+        <div id="modal-portal"></div>
 
+        <div id="netlify-forms" style="display: none">
             <form name="mailing-list" netlify
                 netlify-honeypot="bot-field" hidden>
                 <input type="email" name="email" />
@@ -143,13 +146,11 @@ a {
 
             <form name="new-comment" netlify
                 netlify-honeypot="bot-field" hidden>
-                <input type="email" name="email" />
                 <input type="hidden" name="createdAt" />
                 <input name="username" />
                 <textarea name="commentText"></textarea>
             </form>
         </div>
-        <div id="modal-portal"></div>
 
         <script src="/build/app.js"></script>
         <script src="/assets/pdf.min.mjs" type="module"></script>
