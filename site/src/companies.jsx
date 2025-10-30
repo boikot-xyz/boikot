@@ -101,7 +101,7 @@ function Sources({ entry }) {
         { !!Object.keys(entry.sources).length &&
             <PillButton $outline style={{ justifySelf: "left" }}
                 onClick={ () => setShowSources(!showSources) }>
-                { showSources ? "🙈 Hide Sources" : "📰 Show Sources" }
+                { showSources ? "🙈  Hide Sources" : "📰  Show Sources" }
             </PillButton> }
     </>;
 }
