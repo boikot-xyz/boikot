@@ -233,6 +233,10 @@ export function IconButton( props ) {
 export function MenuButton() {
     const [ open, setOpen ] = React.useState(false);
 
+    React.useEffect( () => {
+        window.addEventListener("keydown", e => e.key === "Escape" && setOpen(false));
+    }, [] );
+
     return <>
         <IconButton i="menu" alt="open menu"
             onClick={ () => setOpen(true) } />
