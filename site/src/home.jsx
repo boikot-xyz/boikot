@@ -40,7 +40,7 @@ export function Home() {
                 .map( entry => <CompanyHeader entry={ entry } link
                     key={entry.names[0]} /> ) }
             <Link to="/companies?sort=sort by score ascending">
-                <PillButton $outline> 💩 more worst offenders </PillButton>
+                <PillButton $outline>💩  more worst offenders</PillButton>
             </Link>
             <h1> newly added 👀 </h1>
             { Object.values(boikot.companies)
@@ -52,12 +52,12 @@ export function Home() {
             <FlexRow>
                 <Link to="/companies">
                     <PillButton>
-                        🧐 View all company records
+                        🧐  View all company records
                     </PillButton>
                 </Link>
                 <Link to="/companies/edit">
                     <PillButton $outline>
-                        🤝 Get involved by adding a new company
+                        🤝  Get involved by adding a new company
                     </PillButton>
                 </Link>
             </FlexRow>
@@ -67,10 +67,10 @@ export function Home() {
                 on your own device with complete privacy. </p>
             <Link to="/statement-score">
                 <PillButton style={{ justifySelf: "left" }}>
-                    🏆 score your statement!
+                    🏆  score your statement!
                 </PillButton>
             </Link>
-            <h2 style={{ marginTop: "1rem" }}> our ratings ⚖️  </h2>
+            <h2 style={{ marginTop: "1rem" }}> our ratings  ⚖️  </h2>
             <p style={{ lineHeight: "1.4rem" }}>
                 We rank companies on a scale from <Score score="0" />{" "}
                 to <Score score="100"/>, based on their positive and
@@ -87,7 +87,7 @@ export function Home() {
                 hear about what you do with it! </p>
             <a download filename="boikot.json" href="https://raw.githubusercontent.com/boikot-xyz/boikot/main/boikot.json">
                 <PillButton style={{ justifySelf: "left" }}>
-                    💾 download dataset
+                    💾  download dataset
                 </PillButton>
             </a>
             <h2 style={{ marginTop: "1rem" }}> mcp server 🤖  </h2>
@@ -99,7 +99,7 @@ export function Home() {
                 enquiries please reach out! </p>
             <Link to="/contact-us">
                 <PillButton style={{ justifySelf: "left" }}>
-                    🤙 contact us
+                    🤙  contact us
                 </PillButton>
             </Link>
         </Stack>

@@ -37,6 +37,7 @@ export const PillButton = styled.button`
     font-size: 0.85rem;
     border: 0.05rem solid var(--fg);
     transition: background 0.12s, color 0.12s;
+    white-space: pre-wrap;
     
     ${ props => !props.disabled && css`
         &:hover {
@@ -335,7 +336,7 @@ function MailingList() {
                     }}
                     onChange={ e => setEmail(e.target.value) }/>
                 <PillButton type="submit" disabled={ !isEmail(email) }>
-                    submit 📨
+                    submit  📨
                 </PillButton>
             </Row>
         </Stack>
@@ -386,7 +387,7 @@ export const PopperOuter = styled.div`
 
 export function PillPopper({ buttonContent, children, ...props }) {
     return <PopperOuter style={{ position: "relative" }}>
-        <PillButton {...props}> { buttonContent } </PillButton>
+        <PillButton {...props}>{ buttonContent }</PillButton>
         <div class="popper-inner"> { children } </div>
     </PopperOuter>;
 }

@@ -217,7 +217,7 @@ function CompleteButton({ state, mergeJSON}) {
 
     return <PillButton $outline style={{ justifySelf: "right" }}
         onClick={ () => complete(state, mergeJSON) }>
-        complete ✨
+        complete  ✨
     </PillButton>;
 }
 
@@ -237,16 +237,16 @@ function SearchLinks({ state }) {
     if( !state.names?.length ) return null;
 
     const searchUrls = [
-        [ "📑 search for wikipedia page", makeWikipediaSearchURL(state.names[0]) ],
-        [ "👺 search for unethical practices", makeUnethicalSearchURL(state.names[0]) ],
-        [ "😮 search for scandals", makeScandalSearchURL(state.names[0]) ],
-        [ "🔎 search google", makeGoogleSearchURL(state.names[0]) ],
-        [ "🧑‍💼 search for company report", makeCompanyReportSearchURL(state.names[0]) ],
-        [ "📈 search violation tracker", makeViolationTrackerSearchURL(state.names[0]) ],
-        [ "📉 search violation tracker uk", makeViolationTrackerUKSearchURL(state.names[0]) ],
-        [ "🌍 search violation tracker global", makeViolationTrackerGlobalSearchURL(state.names[0]) ],
-        [ "🦋 search bluesky", makeBlueskySearchURL(state.names[0]) ],
-        [ "✅ search ethical.org.au", makeEthicaldotorgSearchURL(state.names[0]) ],
+        [ "📑  search for wikipedia page", makeWikipediaSearchURL(state.names[0]) ],
+        [ "👺  search for unethical practices", makeUnethicalSearchURL(state.names[0]) ],
+        [ "😮  search for scandals", makeScandalSearchURL(state.names[0]) ],
+        [ "🔎  search google", makeGoogleSearchURL(state.names[0]) ],
+        [ "🧑‍💼  search for company report", makeCompanyReportSearchURL(state.names[0]) ],
+        [ "📈  search violation tracker", makeViolationTrackerSearchURL(state.names[0]) ],
+        [ "📉  search violation tracker uk", makeViolationTrackerUKSearchURL(state.names[0]) ],
+        [ "🌍  search violation tracker global", makeViolationTrackerGlobalSearchURL(state.names[0]) ],
+        [ "🦋  search bluesky", makeBlueskySearchURL(state.names[0]) ],
+        [ "✅  search ethical.org.au", makeEthicaldotorgSearchURL(state.names[0]) ],
     ];
 
     const openAll = () => searchUrls.forEach( ([ _, url ]) => window.open(url) );
@@ -260,7 +260,7 @@ function SearchLinks({ state }) {
             </Link>
         ) }
         <PillButton onClick={openAll} $small>
-            📚 open all
+            📚  open all
         </PillButton> 
     </FlexRow>;
 }
@@ -415,16 +415,16 @@ export function Jsoner() {
                 $outline
                 onClick={ async () => onMergeJSONClick(await navigator.clipboard.readText()) }
                 title="Click to paste json from clipboard and merge it with the company data">
-                merge JSON 🖇️
+                merge JSON  🖇️
             </PillButton>
             <PillButton $outline onClick={
                 () => window.confirm("Clear company data?")
                     && setState(initialState)
             }>
-                clear 🧽
+                clear  🧽
             </PillButton>
             <PillButton onClick={() => copy(tojson(state))}>
-                copy company data 📋
+                copy company data  📋
             </PillButton>
         </FlexRow>;
 
@@ -490,17 +490,17 @@ export function Jsoner() {
                 onClick={() => copy(
                     generatePrompt(state)
                 )}>
-                copy summarise prompt 📋
+                copy summarise prompt  📋
             </PillButton> }
             { /* <PillButton $outline onClick={addSource}>
-                add source 🔗
+                add source  🔗
             </PillButton> */ }
             { /* showSources &&
                 <PillButton
                     $outline
                     style={{ justifySelf: "right" }}
                     onClick={sortSources(setState)}>
-                    sort sources 🃏
+                    sort sources  🃏
                 </PillButton> */ }
         </FlexRow>
         <Entry $valid={!!state.comment}>

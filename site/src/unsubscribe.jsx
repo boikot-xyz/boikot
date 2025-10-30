@@ -37,7 +37,7 @@ export function Unsubscribe() {
                             setEmail(e.target.value) }/>
                     <PillButton type="submit"
                         disabled={ !isEmail(email) }>
-                        submit 📨
+                        submit  📨
                     </PillButton>
                 </Row>
             </form>

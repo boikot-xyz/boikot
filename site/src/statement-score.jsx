@@ -113,7 +113,7 @@ export function StatementScore() {
             <h2> scan a bank statement </h2>
             { fileDataURL && <PillButton
                 onClick={() => getResults(fileDataURL, setResults)}>
-                💥 click to score your statement!
+                💥  click to score your statement!
             </PillButton> }
             <input type="file" accept=".pdf,application/pdf" onChange={
                 async e => setFileDataURL( await getDataURL(e.target.files[0]) )
@@ -121,7 +121,7 @@ export function StatementScore() {
             <PDFPreview src={fileDataURL} /> 
             { fileDataURL && <PillButton
                 onClick={() => getResults(fileDataURL, setResults)}>
-                💥 click to score your statement!
+                💥  click to score your statement!
             </PillButton> }
             { !fileDataURL && <PillButton onClick={useSample}>
                 or click here to use a sample bank statement

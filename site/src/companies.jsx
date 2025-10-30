@@ -195,23 +195,23 @@ export function Company({ entry, compact }) {
             <Owners entry={entry} />
             <Alternatives entry={entry} />
             <Subsidiaries entry={entry} />
-            <FlexRow>
+            <FlexRow style={{ justifySelf: "right" }}>
+                <Link to="/companies">
+                    <PillButton $outline>
+                        ↩️  Back to All Companies
+                    </PillButton>
+                </Link>
                 { entry.comment &&
                     <Link to={getShareLink(entry)} target="_blank" rel="noopener noreferrer">
                         <PillButton $outline>
                             <Row gap="0.4rem">
                                 <Icon i="bluesky" height="1rem" />
-                                <p> Share on Bluesky </p>
+                                <p> Share on Bluesky</p>
                             </Row>
                         </PillButton>
                     </Link> }
                 <Link to={`/companies/edit/${getKey(entry)}`}>
-                    <PillButton $outline> ✏️  Edit this Company </PillButton>
-                </Link>
-                <Link to="/companies">
-                    <PillButton $outline>
-                        ↩️ Back to All Companies
-                    </PillButton>
+                    <PillButton $outline>✏️   Edit this Company</PillButton>
                 </Link>
             </FlexRow>
         </> }
@@ -423,7 +423,7 @@ export function Companies() {
             ) }
             <p> { companies.length } companies </p>
             <Link to="/companies/edit">
-                <PillButton $outline> 📝 Add a company </PillButton>
+                <PillButton $outline>📝  Add a company</PillButton>
             </Link>
         </Stack>
     </Page>;
