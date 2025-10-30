@@ -10709,6 +10709,42 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Decathlon_-_logo_%28France%2C_2024%29.svg",
             "siteUrl": "http://decathlon.com/",
             "updatedAt": "2025-10-27T20:26:51.564Z"
+        },
+        "paul": {
+            "names": [
+                "Paul"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 50,
+            "ownedBy": [
+                "groupe-holder"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Paul.png",
+            "siteUrl": "http://boulangeries-paul.com/",
+            "updatedAt": "2025-10-30T17:35:21.223Z"
+        },
+        "groupe-holder": {
+            "names": [
+                "Groupe Holder",
+                "Groupe Holder SAS"
+            ],
+            "comment": "Groupe Holder is a French business conglomerate.",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "private equity"
+            ],
+            "score": 50,
+            "ownedBy": [],
+            "logoUrl": "https://alchetron.com/cdn/groupe-holder-a6f0e224-7b99-4fdb-a3e6-f50ed364cd1-resize-750.jpg",
+            "siteUrl": "http://www.groupeholder.com/",
+            "updatedAt": "2025-10-30T17:35:21.223Z"
         }
     }
 }
