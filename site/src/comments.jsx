@@ -45,6 +45,7 @@ function NewComment({ entry, setAddingComment }) {
         <Stack gap="0.5rem" style={{ margin: "0.5rem 0" }}>
             <input type="hidden" name="form-name" value="new-comment" />
             <input type="hidden" name="createdAt" value={ createdAt } />
+            <input type="hidden" name="companyKey" value={ getKey(entry) } />
             <Row style={{ width: "100%", justifySelf: "stretch", gridTemplateColumns: "max-content 1fr", gap: "0.5rem", background: "#fff1", paddingLeft: "0.75rem", borderRadius: "0.5rem" }}>
                 <p style={{ opacity: 0.5 }}> Username: </p>
                 <input
