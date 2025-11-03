@@ -182,6 +182,7 @@ export function Company({ entry, compact }) {
     if( !entry?.names?.length ) return null;
 
     return <Stack>
+        <div />
         <CompanyHeader entry={entry} link={!!compact} />
         <Tags tags={entry.tags} />
         { !compact &&
@@ -194,6 +195,7 @@ export function Company({ entry, compact }) {
         <Sources entry={entry} />
         { !compact && <>
             <Owners entry={entry} />
+            <div />
             <Alternatives entry={entry} />
             <Subsidiaries entry={entry} />
             <FlexRow style={{ justifySelf: "right" }}>
