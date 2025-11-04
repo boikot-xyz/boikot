@@ -270,7 +270,7 @@ export function CompanyHeader({ entry, link = false }) {
             style={{ textDecoration: "none" }} />
         : React.Fragment;
     return <LinkOrFrag>
-        <Row gap="0.5rem" style={{ maxWidth: "100%" }}>
+        <Row gap="0.5rem" style={{ maxWidth: "min(100%, calc(100vw - 4rem))" }}>
             <div
                 style={{
                     width: "3rem",
@@ -410,7 +410,7 @@ export function Companies() {
             <title> Company Ethics Reports | boikot </title>
             <meta name="description" content="Explore the ethical ratings of the world's biggest companies." />
         </Helmet>
-        <Stack>
+        <Stack style={{ maxWidth: "calc(100vw - 4rem)" }}>
             <h1> Companies </h1>
             <p> Here you can see all of our company ethics reports, with relevant tags, sources, ethics summaries and scores ranging from 0 to 100. </p>
             <span />
