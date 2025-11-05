@@ -10745,6 +10745,37 @@
             "logoUrl": "https://alchetron.com/cdn/groupe-holder-a6f0e224-7b99-4fdb-a3e6-f50ed364cd1-resize-750.jpg",
             "siteUrl": "http://www.groupeholder.com/",
             "updatedAt": "2025-10-30T17:35:21.223Z"
+        },
+        "fnac-darty": {
+            "names": [
+                "Fnac Darty",
+                "Groupe Fnac Darty",
+                "Groupe Fnac S.A.",
+                "Darty",
+                "Kesa Electricals plc",
+                "Darty plc",
+                "FNAC"
+            ],
+            "comment": "",
+            "sources": {
+                "1": "https://markets.ft.com/data/announce/detail?dockey=1330-1000827528en-75E5N0PM5B7UR067NDTCNT4172",
+                "2": "https://www.autoritedelaconcurrence.fr/en/press-release/autorite-imposes-fines-eu611-million-10-manufacturers-and-2-distributors-household",
+                "3": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/injonctions-et-sanctions/amende-de-1-950-000-eu-prononcee-lencontre-de"
+            },
+            "sourceNotes": {
+                "1": "engaged in anticompetetive practices",
+                "2": "engaged in anticompetetive practices",
+                "3": "engaged in anticompetetive practices"
+            },
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": 42,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Logo_Fnac_Darty.svg",
+            "siteUrl": "https://www.fnacdarty.com/en/",
+            "updatedAt": "2025-11-05T15:19:41.538Z"
         }
     }
 }
