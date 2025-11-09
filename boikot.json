@@ -10776,6 +10776,29 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Logo_Fnac_Darty.svg",
             "siteUrl": "https://www.fnacdarty.com/en/",
             "updatedAt": "2025-11-05T15:19:41.538Z"
+        },
+        "deezer": {
+            "names": [
+                "Deezer",
+                "Deezer S.A.",
+                "DEEZR"
+            ],
+            "comment": "Deezer is a French music streaming service that suffered a data breach leaking over 200 million users' data [1].",
+            "sources": {
+                "1": "https://www.musicbusinessworldwide.com/deezer-admits-data-breach-that-potentially-exposed-over-220-million-users-info/#:~:text=Deezer's%20security%20systems%20remain%20effective%2C%20and%20our,shortly%20after%20the%20information%20came%20to%20light."
+            },
+            "sourceNotes": {
+                "1": "data breach"
+            },
+            "tags": [
+                "tech",
+                "music"
+            ],
+            "score": 49,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Deezer_logo%2C_2023.svg",
+            "siteUrl": "https://www.deezer.com/",
+            "updatedAt": "2025-11-07T13:41:09.582Z"
         }
     }
 }
