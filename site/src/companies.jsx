@@ -178,7 +178,32 @@ const getShareLink = entry => {
     return `https://bsky.app/intent/compose?text=${encodeURIComponent(postText + " Sources: " + window.location.href)}`;
 };
 
+function CompanyActionButtons({ entry, setShowLinks }) {
+    return <FlexRow style={{ justifySelf: "right", justifyContent: "right" }}>
+        <Link to="/companies">
+            <PillButton $outline>
+                ↩️  Back to All Companies
+            </PillButton>
+        </Link>
+        { entry.comment &&
+            <Link to={getShareLink(entry)} target="_blank" rel="noopener noreferrer">
+                <PillButton $outline>
+                    <Row gap="0.4rem">
+                        <Icon i="bluesky" height="1rem" />
+                        <p> Share on Bluesky</p>
+                    </Row>
+                </PillButton>
+            </Link> }
+        <Link to={`/companies/edit/${getKey(entry)}`}>
+            <PillButton $outline>✏️   Edit this Company</PillButton>
+        </Link>
+        <PillButton $outline onClick={setShowLinks}>🔗   External Links</PillButton>
+    </FlexRow>
+}
+
 export function Company({ entry, compact }) {
+    const [ showLinks, setShowLinks ] = React.useState(false);
+
     if( !entry?.names?.length ) return null;
 
     return <Stack>
@@ -198,25 +223,7 @@ export function Company({ entry, compact }) {
             <div />
             <Alternatives entry={entry} />
             <Subsidiaries entry={entry} />
-            <FlexRow style={{ justifySelf: "right" }}>
-                <Link to="/companies">
-                    <PillButton $outline>
-                        ↩️  Back to All Companies
-                    </PillButton>
-                </Link>
-                { entry.comment &&
-                    <Link to={getShareLink(entry)} target="_blank" rel="noopener noreferrer">
-                        <PillButton $outline>
-                            <Row gap="0.4rem">
-                                <Icon i="bluesky" height="1rem" />
-                                <p> Share on Bluesky</p>
-                            </Row>
-                        </PillButton>
-                    </Link> }
-                <Link to={`/companies/edit/${getKey(entry)}`}>
-                    <PillButton $outline>✏️   Edit this Company</PillButton>
-                </Link>
-            </FlexRow>
+            <CompanyActionButtons entry={entry} setShowLinks={setShowLinks} />
             <Comments entry={entry} />
         </> }
     </Stack>;
