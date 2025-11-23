@@ -349,7 +349,7 @@ export function Footer() {
     return <Stack style={{ marginTop: "3rem", fontSize: "0.9rem" }}>
         <hr />
         <Stack>
-            <p> Keep Companies Accountable · Tax Wealth not Work · Boycott, Divestment and Sanctions </p>
+            <p style={{ opacity: 0.6 }}> Keep Companies Accountable · Tax Wealth not Work · Boycott, Divestment and Sanctions </p>
             <span style={{ height: ".5rem" }} />
             <MailingList />
             <span style={{ height: ".5rem" }} />
