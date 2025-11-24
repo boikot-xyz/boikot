@@ -6,6 +6,7 @@ import { Helmet } from "react-helmet";
 
 import { getKey, Badge, Card, FlexRow, Icon, IconButton, Page, PillButton, Row, Stack, TagBadge, ForceWrap, PillPopper } from "./components.jsx";
 import { Comments } from "./comments.jsx";
+import { SearchLinks } from "./jsoner.jsx";
 import boikot from "../../boikot.json";
 
 
@@ -197,7 +198,7 @@ function CompanyActionButtons({ entry, setShowLinks }) {
         <Link to={`/companies/edit/${getKey(entry)}`}>
             <PillButton $outline>✏️   Edit this Company</PillButton>
         </Link>
-        <PillButton $outline onClick={setShowLinks}>🔗   External Links</PillButton>
+        <PillButton $outline onClick={() => setShowLinks(v => !v)}>🔗   External Links</PillButton>
     </FlexRow>
 }
 
@@ -224,6 +225,10 @@ export function Company({ entry, compact }) {
             <Alternatives entry={entry} />
             <Subsidiaries entry={entry} />
             <CompanyActionButtons entry={entry} setShowLinks={setShowLinks} />
+            { showLinks && <>
+                <h3> External Links </h3>
+                <SearchLinks state={entry} />
+            </> }
             <Comments entry={entry} />
         </> }
     </Stack>;
