@@ -232,8 +232,10 @@ const makeViolationTrackerUKSearchURL = companyName => `https://violationtracker
 const makeViolationTrackerGlobalSearchURL = companyName => `https://violationtrackerglobal.goodjobsfirst.org/?company_op=starts&company=${encodeURIComponent(companyName)}`
 const makeBlueskySearchURL = companyName => `https://bsky.app/search?q=${encodeURIComponent(companyName)}%20unethical`
 const makeEthicaldotorgSearchURL = companyName => `https://ethical.org.au/search?q=${encodeURIComponent(companyName)}`
-
-function SearchLinks({ state }) {
+const makeCELIURL = companyName => `https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain#list`;
+const makeBDSURL = companyName => `https://www.bdsmovement.net/Guide-to-BDS-Boycott`;
+ 
+export function SearchLinks({ state }) {
     if( !state.names?.length ) return null;
 
     const searchUrls = [
@@ -247,6 +249,8 @@ function SearchLinks({ state }) {
         [ "🌍  search violation tracker global", makeViolationTrackerGlobalSearchURL(state.names[0]) ],
         [ "🦋  search bluesky", makeBlueskySearchURL(state.names[0]) ],
         [ "✅  search ethical.org.au", makeEthicaldotorgSearchURL(state.names[0]) ],
+        [ "🇷🇺  check operations in russia", makeCELIURL(state.names[0]) ],
+        [ "🇵🇸  check BDS status", makeBDSURL(state.names[0]) ],
     ];
 
     const openAll = () => searchUrls.forEach( ([ _, url ]) => window.open(url) );
