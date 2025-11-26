@@ -6999,13 +6999,31 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 6,
             "ownedBy": [
                 "reckitt"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2c/Air_Wick_circle_logo.png",
             "siteUrl": "http://www.airwick.us/",
             "updatedAt": "2025-08-10T21:41:01.378Z"
+        },
+        "dettol": {
+            "names": [
+                "Dettol"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "reckitt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a9/250px-Dettol_logo.png",
+            "siteUrl": "https://www.dettol.co.uk/",
+            "updatedAt": "2025-11-26T17:40:46.998Z"
         },
         "airbnb": {
             "names": [
@@ -10874,6 +10892,277 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Wolt-app-icon-2019.png/150px-Wolt-app-icon-2019.png",
             "siteUrl": "https://wolt.com/en/",
             "updatedAt": "2025-11-26T17:10:05.643Z"
+        },
+        "desigual": {
+            "names": [
+                "Desigual"
+            ],
+            "comment": "Desigual is a Spanish clothing retailer.",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 50,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Desigual_logo_2022.svg",
+            "siteUrl": "http://www.desigual.com/",
+            "updatedAt": "2025-11-26T17:24:43.867Z"
+        },
+        "reckitt": {
+            "names": [
+                "Reckitt",
+                "Reckitt Benckiser Group PLC",
+                "Reckitt Benckiser",
+                "RKT"
+            ],
+            "comment": "",
+            "sources": {
+                "1": "https://web.archive.org/web/20240921185833/https://www.theguardian.com/business/2010/oct/15/reckitt-benckiser-fined-oft-gaviscon",
+                "2": "https://archive.today/20170209165431/http://www.connexionfrance.com/court-appeal-price-fixing-fine-upheld-consumer-companies-gillette-loreal-procter-gamble-sc-johnson-18567-view-article.html",
+                "3": "https://www.reuters.com/business/retail-consumer/reckitt-stays-course-process-aimed-at-transferring-russian-business-2023-07-26/",
+                "4": "http://www.mercurynews.com/business/ci_25461592/makers-rat-poison-d-con-sue-state",
+                "5": "https://web.archive.org/web/20180423210624/https://www.amnesty.org/en/documents/asa21/5184/2016/en/",
+                "6": "https://www.gov.uk/government/news/reckitt-benckiser-make-charity-payment-for-breach-of-regulations",
+                "7": "https://web.archive.org/web/20240921185313/https://www.bbc.com/news/world-asia-36185549",
+                "8": "https://web.archive.org/web/20160426165552/http://www.koreatimes.co.kr/www/news/nation/2016/04/116_203380.html"
+            },
+            "sourceNotes": {
+                "1": "anti-competetive monopolistic practices",
+                "2": "anti-competetive monopolistic practices",
+                "3": "continuing operations in russia",
+                "4": "attempted to block ban of rat poison despite cases of children and pets being poisoned",
+                "5": "forced labour and child labour in palm oil supply chain",
+                "6": "polluted rivers killing hundreds of fish",
+                "7": "sold lethal humidifier steriliser products that killed over 100 people",
+                "8": "sold lethal humidifier steriliser products that killed over 100 people"
+            },
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 6,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b8/Reckitt_logo.svg",
+            "siteUrl": "https://reckitt.com/",
+            "updatedAt": "2025-11-26T17:42:01.997Z"
+        },
+        "strepsils": {
+            "names": [
+                "Strepsils"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "reckitt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/250px-Strepsils-logo.png",
+            "siteUrl": "http://www.strepsils.co.uk/",
+            "updatedAt": "2025-11-26T17:40:46.998Z"
+        },
+        "harpic": {
+            "names": [
+                "Harpic"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "reckitt"
+            ],
+            "logoUrl": "https://www.liblogo.com/img-logo/ha5286hf6a-harpic-logo-harpic-logo-misc--com.png",
+            "siteUrl": "https://www.reckitt.com/powerbrands/hygiene/harpic/",
+            "updatedAt": "2025-11-26T17:40:46.998Z"
+        },
+        "veet": {
+            "names": [
+                "Veet"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "reckitt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/0b/250px-Veet_Logo.jpg",
+            "siteUrl": "https://www.veet.com/",
+            "updatedAt": "2025-11-26T17:40:46.998Z"
+        },
+        "airborne": {
+            "names": [
+                "Airborne"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "reckitt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/250px-Airborne-logo.png",
+            "siteUrl": "https://www.schiffvitamins.com/",
+            "updatedAt": "2025-11-26T17:40:46.998Z"
+        },
+        "gaviscon": {
+            "names": [
+                "Gaviscon"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "reckitt"
+            ],
+            "logoUrl": "https://www.wikicorporates.org/mediawiki/images/thumb/5/57/Reckitt-Benckiser-Gaviscon.svg/1000px-Reckitt-Benckiser-Gaviscon.svg.png",
+            "siteUrl": "https://www.gaviscon.co.uk/",
+            "updatedAt": "2025-11-26T17:40:46.998Z"
+        },
+        "mead-johnson": {
+            "names": [
+                "Mead Johnson"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "reckitt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Mead_Johnson_logo.svg",
+            "siteUrl": "http://www.meadjohnson.com/",
+            "updatedAt": "2025-11-26T17:40:46.998Z"
+        },
+        "calgon": {
+            "names": [
+                "Calgon"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "reckitt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7d/Calgon_RB_logo.png",
+            "siteUrl": "http://calgon.com/",
+            "updatedAt": "2025-11-26T17:40:46.998Z"
+        },
+        "clearasil": {
+            "names": [
+                "Clearasil"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "reckitt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/250px-Logo_clearasil.png",
+            "siteUrl": "http://www.clearasil.us/",
+            "updatedAt": "2025-11-26T17:40:46.998Z"
+        },
+        "durex": {
+            "names": [
+                "Durex"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "reckitt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/New_Logo_Durex.svg",
+            "siteUrl": "https://durex.com/",
+            "updatedAt": "2025-11-26T17:40:46.998Z"
+        },
+        "lysol": {
+            "names": [
+                "Lysol",
+                "Lizol"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "reckitt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Lysol_Logo.svg",
+            "siteUrl": "https://www.lysol.com/",
+            "updatedAt": "2025-11-26T17:40:46.998Z"
+        },
+        "vanish": {
+            "names": [
+                "Vanish"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "reckitt"
+            ],
+            "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/0/05/Vanish2016.png/revision/latest?cb=20170106132603",
+            "siteUrl": "https://www.reckitt.com/powerbrands/hygiene/vanish/",
+            "updatedAt": "2025-11-26T17:40:46.998Z"
+        },
+        "enfamil": {
+            "names": [
+                "Enfamil"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "reckitt"
+            ],
+            "logoUrl": "https://logodix.com/logo/2022592.png",
+            "siteUrl": "https://www.enfamil.com/",
+            "updatedAt": "2025-11-26T17:40:46.998Z"
         }
     }
 }
