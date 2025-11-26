@@ -11163,6 +11163,24 @@
             "logoUrl": "https://logodix.com/logo/2022592.png",
             "siteUrl": "https://www.enfamil.com/",
             "updatedAt": "2025-11-26T17:40:46.998Z"
+        },
+        "finish": {
+            "names": [
+                "Finish"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "reckitt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/250px-Finish_logo.jpg",
+            "siteUrl": "https://www.finishdishwashing.com/",
+            "updatedAt": "2025-11-26T17:40:46.998Z"
         }
     }
 }

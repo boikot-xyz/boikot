@@ -21,3 +21,5 @@ the [`boikot.json`](https://raw.githubusercontent.com/boikot-xyz/boikot/main/boi
 Corporate Research site: https://www.corp-research.org/home-page
 
 Impact of boycotts on McDonalds: https://m.youtube.com/watch?v=K9Uf3eUWKE8
+
+UN BDS list https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/sessions-regular/session31/database-hrc3136/23-06-30-Update-israeli-settlement-opt-database-hrc3136.pdf
