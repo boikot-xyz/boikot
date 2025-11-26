@@ -10799,6 +10799,81 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Deezer_logo%2C_2023.svg",
             "siteUrl": "https://www.deezer.com/",
             "updatedAt": "2025-11-07T13:41:09.582Z"
+        },
+        "deliveroo": {
+            "names": [
+                "Deliveroo",
+                "deliveroo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech",
+                "food"
+            ],
+            "score": 37,
+            "ownedBy": [
+                "doordash"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/17/Deliveroologo.svg",
+            "siteUrl": "https://deliveroo.co.uk/",
+            "updatedAt": "2025-11-26T17:10:05.643Z"
+        },
+        "doordash": {
+            "names": [
+                "DoorDash",
+                "Doordash",
+                "DoorDash, Inc.",
+                "DASH"
+            ],
+            "comment": "DoorDash is an American delivery platform that has been criticized for poor working conditions, misclassifying workers and withholding tips [1][2][3][4]. It has also engaged in monopolistic practices [5] and violated workers' sick pay rights [6].",
+            "sources": {
+                "1": "https://www.npr.org/2021/07/31/1023265561/why-doordash-drivers-are-on-strike",
+                "2": "https://www.nytimes.com/2019/07/21/nyregion/doordash-ubereats-food-app-delivery-bike.html",
+                "3": "https://news.bloomberglaw.com/daily-labor-report/doordash-100-million-driver-settlement-tentatively-approved",
+                "4": "https://gizmodo.com/doordash-settlement-would-pay-a-paltry-130-to-workers-1847586519",
+                "5": "https://www.reuters.com/article/us-health-coronavirus-food-delivery-laws-idUSKCN21V2C1",
+                "6": "https://apnews.com/article/doordash-seattle-sick-time-policy-violation-settlement-b8fd725e9b50631c40e041b418112ae0"
+            },
+            "sourceNotes": {
+                "1": "poor working conditions, misclassifying workers and withholding tips",
+                "2": "poor working conditions, misclassifying workers and withholding tips",
+                "3": "poor working conditions, misclassifying workers and withholding tips",
+                "4": "poor working conditions, misclassifying workers and withholding tips",
+                "5": "anticompetitive monopolistic practices",
+                "6": "violated workers' sick pay rights"
+            },
+            "tags": [
+                "tech",
+                "food",
+                "poorworkingconditions"
+            ],
+            "score": 37,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/DoorDash_Logo.svg",
+            "siteUrl": "https://doordash.com/",
+            "updatedAt": "2025-11-26T17:10:05.643Z"
+        },
+        "wolt": {
+            "names": [
+                "Wolt",
+                "Wolt Enterprises Oy"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech",
+                "food"
+            ],
+            "score": 37,
+            "ownedBy": [
+                "doordash"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Wolt-app-icon-2019.png/150px-Wolt-app-icon-2019.png",
+            "siteUrl": "https://wolt.com/en/",
+            "updatedAt": "2025-11-26T17:10:05.643Z"
         }
     }
 }
