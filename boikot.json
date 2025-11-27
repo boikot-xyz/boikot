@@ -11181,6 +11181,61 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/250px-Finish_logo.jpg",
             "siteUrl": "https://www.finishdishwashing.com/",
             "updatedAt": "2025-11-26T17:40:46.998Z"
+        },
+        "dfs": {
+            "names": [
+                "DFS",
+                "dfs",
+                "DFS Furniture plc",
+                "Diamond Holdco 1 Limited",
+                "DFS Furniture Limited",
+                "Direct Furnishing Supplies"
+            ],
+            "comment": "DFS is a British company that has been accused of unethical sales tactics [1] and misleading sales practices [2], has lost customers' orders [3], and published misleading advertisements [4].",
+            "sources": {
+                "1": "https://www.bbc.co.uk/programmes/articles/r5pvRcspQH8jjJ5JJpNkvq/dfs-sales-tactics",
+                "2": "https://www.dailymail.co.uk/news/article-6603395/Pensioners-protest-outside-DFS-claiming-furniture-chain-cheated-600.html",
+                "3": "https://www.walesonline.co.uk/news/uk-news/disabled-couple-face-christmas-sitting-25748012",
+                "4": "https://www.insidermedia.com/news/national/dfs-ad-complaints-upheld-by-asa"
+            },
+            "sourceNotes": {
+                "1": "unethical sales tactics",
+                "2": "misleading sales practices",
+                "3": "lost customers' orders",
+                "4": "misleading advertising"
+            },
+            "tags": [
+                "furniture",
+                "retail"
+            ],
+            "score": 48,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f6/DFS_Furniture_logo.svg",
+            "siteUrl": "https://dfs.co.uk/",
+            "updatedAt": "2025-11-27T23:04:12.476Z"
+        },
+        "sofology": {
+            "names": [
+                "Sofology",
+                "Sofaworks",
+                "CSL",
+                "Clayton Salerooms",
+                "CS Lounge Suites Ltd"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "furniture",
+                "retail"
+            ],
+            "score": 48,
+            "ownedBy": [
+                "dfs"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Sofology_logo.png/250px-Sofology_logo.png",
+            "siteUrl": "http://www.sofology.co.uk/",
+            "updatedAt": "2025-11-27T23:21:53.511Z"
         }
     }
 }
