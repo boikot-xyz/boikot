@@ -11236,6 +11236,42 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Sofology_logo.png/250px-Sofology_logo.png",
             "siteUrl": "http://www.sofology.co.uk/",
             "updatedAt": "2025-11-27T23:21:53.511Z"
+        },
+        "dhl": {
+            "names": [
+                "DHL",
+                "DHL Group",
+                "Deutsche Post AG",
+                "Deutsche Post",
+                "Dalsey, Hillblom and Lynn",
+                "DHL Express"
+            ],
+            "comment": "DHL is an American and German logistics company that has been accused of anticompetitive practices [1], workers rights abuses [2], and racial discrimination against employees [3]. Additionally, the company faces allegations of anti‑union practices and further workers rights abuses [4], and its founder has been implicated in the rape of underage girls [5][6].",
+            "sources": {
+                "1": "https://www.law360.com/articles/741436",
+                "2": "https://www.etf-europe.org/dhl-in-the-firing-line-over-escalating-rights-abuses-questions-pile-up-about-logistics-giant/",
+                "3": "https://teamster.org/2024/04/teamsters-local-705-members-win-racial-discrimination-lawsuit-against-dhl-express/",
+                "4": "https://www.theguardian.com/us-news/2023/apr/03/dhl-workers-inmates-union-airport",
+                "5": "https://www.independent.co.uk/news/tycoon-s-estate-pays-360m-to-children-fathered-on-sex-safaris-1138216.html",
+                "6": "https://www.utterlyinteresting.com/post/the-evil-story-of-larry-hillblom-the-h-from-dhl"
+            },
+            "sourceNotes": {
+                "1": "anticompetetive practices",
+                "2": "workers rights abuses",
+                "3": "racial discrimination against employees",
+                "4": "workers rights abuses and anti union practices",
+                "5": "founder raped underage girls",
+                "6": "founder raped underage girls"
+            },
+            "tags": [
+                "delivery",
+                "shipping"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/DHL_Logo.svg",
+            "siteUrl": "https://www.dhl.com/",
+            "updatedAt": "2025-11-29T13:24:25.358Z"
         }
     }
 }
