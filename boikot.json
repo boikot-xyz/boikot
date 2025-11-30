@@ -11272,6 +11272,90 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/DHL_Logo.svg",
             "siteUrl": "https://www.dhl.com/",
             "updatedAt": "2025-11-29T13:24:25.358Z"
+        },
+        "diesel": {
+            "names": [
+                "Diesel",
+                "Diesel USA",
+                "Diesel S.p.A."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "otb-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Diesel.svg",
+            "siteUrl": "https://diesel.com/",
+            "updatedAt": "2025-11-29T22:09:52.600Z"
+        },
+        "maison-margiela": {
+            "names": [
+                "Maison Margiela"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "otb-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Maison_Margiela_logo.svg",
+            "siteUrl": "https://www.maisonmargiela.com/",
+            "updatedAt": "2025-11-29T22:09:52.600Z"
+        },
+        "amiri": {
+            "names": [
+                "AMIRI"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "otb-group"
+            ],
+            "logoUrl": "https://www.vectorkhazana.com/assets/images/products/Amiri_Logo.png",
+            "siteUrl": "http://amiri.com/",
+            "updatedAt": "2025-11-29T22:09:52.600Z"
+        },
+        "otb-group": {
+            "names": [
+                "OTB Group"
+            ],
+            "comment": "OTB Group is an Italian clothing brand holding company that has faced criticism for underpaying its workers [1] and for sourcing goods from suppliers with abusive working conditions [2], while continuing operations in Russia [3].",
+            "sources": {
+                "1": "https://www.law360.com/california/articles/302059/diesel-settles-calif-employees-wage-and-break-claims",
+                "2": "https://www.somo.nl/maid-in-india/",
+                "3": "https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain#list"
+            },
+            "sourceNotes": {
+                "1": "underpaid workers",
+                "2": "sourced from suppliers with abusive working conditions",
+                "3": "still operating in russia"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 36,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/OTB_Group_logo.svg",
+            "siteUrl": "https://www.otb.net/",
+            "updatedAt": "2025-11-29T22:09:52.600Z"
         }
     }
 }
