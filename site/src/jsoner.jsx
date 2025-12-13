@@ -102,7 +102,7 @@ Below is the information you have collected about ${companyName} from various so
 ${sourceInfo}
 
 Please summarise this information into a two-sentence summary of the ethics of ${companyName}, like the examples above.
-- Begin with "${companyName} is a "
+- Begin with "${companyName} is a " and mention the country the company comes from
 - Only use the information above in your summary.
 - Make sure you include information from all the sources.
 - After you include information from a given source, include its citation number eg. [1], [2] or [3].
