@@ -11356,6 +11356,31 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/OTB_Group_logo.svg",
             "siteUrl": "https://www.otb.net/",
             "updatedAt": "2025-11-29T22:09:52.600Z"
+        },
+        "dr.-martens": {
+            "names": [
+                "Dr. Martens",
+                "Dr Martens",
+                "Dr. Marten's",
+                "Doc Martens",
+                "Doc Marten"
+            ],
+            "comment": "Dr. Martens is a British footwear brand accused of price gouging and anti-consumer practices [1].",
+            "sources": {
+                "1": "https://agmeek.co.uk/blogs/news/want-dr-marten-s-here-s-why-they-re-so-expensive-now"
+            },
+            "sourceNotes": {
+                "1": "price gouging and anti consumer practices"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 46,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Dr._Martens_Logo.svg",
+            "siteUrl": "http://www.drmartens.com/",
+            "updatedAt": "2025-12-22T11:25:58.483Z"
         }
     }
 }
