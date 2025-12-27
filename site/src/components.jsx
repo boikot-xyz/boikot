@@ -208,7 +208,7 @@ function Menu({ open, close }) {
             <MenuLink to="/companies"> ⚖️  company ethics reports </MenuLink>
             <MenuLink to="/companies/edit"> ➕  add a company </MenuLink>
             <MenuLink to="/statement-score"> 🖨️  scan a document </MenuLink>
-            <MenuLink to="/search"> 🔎  search </MenuLink>
+            {/* <MenuLink to="/search"> 🔎  search </MenuLink> */}
             {/* <MenuLink to="/blog"> blog </MenuLink> */}
             <MenuLink to="/contact-us"> 📬  contact us </MenuLink>
             <h3 style={{ marginTop: "1.5rem" }}>
