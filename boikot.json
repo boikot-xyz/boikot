@@ -11099,15 +11099,15 @@
             "sources": {},
             "sourceNotes": {},
             "tags": [
-                "consumer-goods"
+                "consumer goods"
             ],
-            "score": 6,
+            "score": null,
             "ownedBy": [
-                "reckitt"
+                "reckitt-benckiser"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/New_Logo_Durex.svg",
             "siteUrl": "https://durex.com/",
-            "updatedAt": "2025-11-26T17:40:46.998Z"
+            "updatedAt": "2025-12-26T23:00:26.303Z"
         },
         "lysol": {
             "names": [
@@ -11403,6 +11403,118 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Dropbox_logo_2017.svg",
             "siteUrl": "https://www.dropbox.com/",
             "updatedAt": "2025-12-25T16:12:44.578Z"
+        },
+        "dunkin'-donuts": {
+            "names": [
+                "Dunkin' Donuts",
+                "Dunkin'",
+                "Dunkin",
+                "Dunkin Donuts"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fast food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "inspire-brands"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Dunkin%27_2022.svg",
+            "siteUrl": "http://dunkindonuts.com/",
+            "updatedAt": "2025-12-26T16:59:19.613Z"
+        },
+        "duolingo": {
+            "names": [
+                "Duolingo",
+                "Duolingo, Inc.",
+                "Duolingo, Inc",
+                "DUOL"
+            ],
+            "comment": "Duolingo is an American language-learning app that replaced employees with AI [1][2].",
+            "sources": {
+                "1": "https://uk.news.yahoo.com/people-outraged-duolingo-ceos-controversial-100851504.html",
+                "2": "https://fortune.com/2025/06/09/duolingo-ceo-surprised-backlash-ai-first-company-announcement/"
+            },
+            "sourceNotes": {
+                "1": "replaced employees with AI",
+                "2": "replaced employees with AI"
+            },
+            "tags": [
+                "tech",
+                "education"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Duolingo_logo_%282019%29.svg",
+            "siteUrl": "http://duolingo.com/",
+            "updatedAt": "2025-12-26T17:09:27.197Z"
+        },
+        "duracell": {
+            "names": [
+                "Duracell"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "electronics"
+            ],
+            "score": null,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Duracell_logo.svg",
+            "siteUrl": "https://www.duracell.com/",
+            "updatedAt": "2025-12-26T22:13:40.448Z"
+        },
+        "dyson": {
+            "names": [
+                "Dyson",
+                "Dyson Appliances Ltd",
+                "Dyson Ltd",
+                "Dyson Limited"
+            ],
+            "comment": "Dyson is a British technology company that has faced allegations of corruption and attempts to circumvent taxation [1]. The company has also been criticized for laying off workers with only one day notice [2] and for using forced labour in its supply chain [3][4].",
+            "sources": {
+                "1": "https://www.theguardian.com/technology/2021/apr/21/lobbying-row-james-dyson-is-no-stranger-to-political-controversy",
+                "2": "https://www.channelnewsasia.com/singapore/dyson-lazada-layoffs-unions-manpower-ministry-tripartism-4662881",
+                "3": "https://web.archive.org/web/20220211163001/https://www.channel4.com/news/exclusive-dyson-faces-legal-action-over-forced-labour-and-exploitation",
+                "4": "https://www.pinsentmasons.com/out-law/news/dyson-face-human-rights-abuse-claims"
+            },
+            "sourceNotes": {
+                "1": "corruption and attempts to circumvent taxation",
+                "2": "laid off workers with 1 day notice",
+                "3": "forced labour in supply chain",
+                "4": "forced labour in supply chain"
+            },
+            "tags": [
+                "electronics"
+            ],
+            "score": 37,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Dyson_logo.svg",
+            "siteUrl": "https://www.dyson.com/",
+            "updatedAt": "2025-12-26T23:00:26.303Z"
+        },
+        "domestos": {
+            "names": [
+                "Domestos"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 5,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Domestos_logo.png",
+            "siteUrl": "https://www.domestos.com/uk/home.html",
+            "updatedAt": "2025-12-26T23:00:26.303Z"
         }
     }
 }
