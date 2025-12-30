@@ -11515,6 +11515,112 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Domestos_logo.png",
             "siteUrl": "https://www.domestos.com/uk/home.html",
             "updatedAt": "2025-12-26T23:00:26.303Z"
+        },
+        "ea": {
+            "names": [
+                "EA",
+                "Electronic Arts"
+            ],
+            "comment": "EA is an American video game company that has been criticized for overworking employees [1][2] and underpaying staff [3][4]. The company has also been accused of anticompetitive monopolistic practices [5].",
+            "sources": {
+                "1": "https://web.archive.org/web/20131113111900/http://www.gamespot.com/articles/employees-readying-class-action-lawsuit-against-ea/1100-6112998/",
+                "2": "https://web.archive.org/web/20200311163854/https://www.kotaku.com.au/2020/02/how-biowares-anthem-went-wrong/",
+                "3": "https://www.sec.gov/Archives/edgar/data/712515/000095013406002079/f16210e10vq.htm",
+                "4": "https://web.archive.org/web/20221004061842/https://www.sec.gov/Archives/edgar/data/712515/000095013406011401/f21019e10vk.htm",
+                "5": "https://www.law360.com/articles/446348"
+            },
+            "sourceNotes": {
+                "1": "overworked employees",
+                "2": "overworked employees",
+                "3": "underpaid employees",
+                "4": "underpaid employees",
+                "5": "anticompetetive monopolistic practices"
+            },
+            "tags": [
+                "entertainment",
+                "tech"
+            ],
+            "score": 42,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Electronic_Arts_Logo_Blue.svg",
+            "siteUrl": "https://www.ea.com/",
+            "updatedAt": "2025-12-27T14:17:53.295Z"
+        },
+        "bioware": {
+            "names": [
+                "Bioware"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "tech"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "ea"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/BioWare_2018.svg",
+            "siteUrl": "http://www.bioware.com/",
+            "updatedAt": "2025-12-30T21:54:37.088Z"
+        },
+        "criterion-games": {
+            "names": [
+                "Criterion Games"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "tech"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "ea"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2f/Criterion_Games_2018_logo.svg",
+            "siteUrl": "https://www.ea.com/ea-studios/criterion-games",
+            "updatedAt": "2025-12-30T21:54:37.088Z"
+        },
+        "dice": {
+            "names": [
+                "DICE"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "tech"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "ea"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/DICE_logo.svg",
+            "siteUrl": "http://dice.se/",
+            "updatedAt": "2025-12-30T21:54:37.088Z"
+        },
+        "respawn-entertainment": {
+            "names": [
+                "Respawn Entertainment"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "tech"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "ea"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Respawn_Logo.png/250px-Respawn_Logo.png",
+            "siteUrl": "https://www.respawn.com/",
+            "updatedAt": "2025-12-30T21:54:37.088Z"
         }
     }
 }
