@@ -11621,6 +11621,115 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Respawn_Logo.png/250px-Respawn_Logo.png",
             "siteUrl": "https://www.respawn.com/",
             "updatedAt": "2025-12-30T21:54:37.088Z"
+        },
+        "eucerin": {
+            "names": [
+                "Eucerin"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "beiersdorf"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Eucerin_logo.svg",
+            "siteUrl": "https://www.eucerinus.com/",
+            "updatedAt": "2025-12-31T13:44:43.333Z"
+        },
+        "beiersdorf": {
+            "names": [
+                "Beiersdorf",
+                "Beiersdorf AG",
+                "BEI"
+            ],
+            "comment": "",
+            "sources": {
+                "1": "https://evilcorporations.com/beiersdorf-nivea-natural-claims-lawsuit-corporate-misconduct/",
+                "2": "https://www.reuters.com/sustainability/boards-policy-regulation/switzerland-investigates-beiersdorf-dispute-over-nivea-pricing-2025-06-24/",
+                "3": "https://www.autoritedelaconcurrence.fr/en/communiques-de-presse/autorite-de-la-concurrence-fines-concerted-practices-between-manufacturers",
+                "4": "https://www.petersandpeters.com/case/german-drugstore-commits-to-greater-transparency-in-response-to-consumer-greenwashing-claim/",
+                "5": "https://www.climatecasechart.com/document/deutsche-umwelthilfe-v-beiersdorf-ag_eee4",
+                "6": "https://leave-russia.org/beiersdorf",
+                "7": "https://www.law360.com/articles/1517695/bayer-buyers-get-go-ahead-on-2-3m-sunscreen-settlement",
+                "8": "https://www.cosmeticsandtoiletries.com/regulations/claims-labeling/news/22444969/bayer-beiersdorf-pay-out-23-m-for-coppertone-false-ad-suit"
+            },
+            "sourceNotes": {
+                "1": "false advertising",
+                "2": "anticompetetive practices",
+                "3": "anticompetetive practices",
+                "4": "greenwashing",
+                "5": "greenwashing",
+                "6": "still active in russia",
+                "7": "included carcinogens in suncream",
+                "8": "included carcinogens in suncream"
+            },
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 38,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Beiersdorf_Logo.svg",
+            "siteUrl": "https://www.beiersdorf.com/",
+            "updatedAt": "2026-01-01T08:56:00.694Z"
+        },
+        "nivea": {
+            "names": [
+                "Nivea"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "beiersdorf"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/NIVEA_logo_2021.svg",
+            "siteUrl": "https://www.nivea.com/",
+            "updatedAt": "2025-12-31T13:44:43.333Z"
+        },
+        "elastoplast": {
+            "names": [
+                "Elastoplast",
+                "Hansaplast"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "beiersdorf"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Elastoplast_logo.svg",
+            "siteUrl": "https://www.elastoplast.co.uk/",
+            "updatedAt": "2025-12-31T13:44:43.333Z"
+        },
+        "coppertone": {
+            "names": [
+                "Coppertone"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "beiersdorf"
+            ],
+            "logoUrl": "https://logonoid.com/images/thumbs/coppertone-logo.gif",
+            "siteUrl": "http://www.coppertone.com/",
+            "updatedAt": "2025-12-31T13:44:43.333Z"
         }
     }
 }
