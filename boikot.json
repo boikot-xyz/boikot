@@ -11730,6 +11730,200 @@
             "logoUrl": "https://logonoid.com/images/thumbs/coppertone-logo.gif",
             "siteUrl": "http://www.coppertone.com/",
             "updatedAt": "2025-12-31T13:44:43.333Z"
+        },
+        "expedia": {
+            "names": [
+                "Expedia",
+                "Expedia Group",
+                "Expedia Group, Inc.",
+                "EXPE"
+            ],
+            "comment": "",
+            "sources": {
+                "1": "https://www.courthousenews.com/expedia-settles-false-advertising-class-action-with-hotels/",
+                "2": "https://www.reviewjournal.com/crime/courts/travelscape-ordered-to-pay-south-carolina/",
+                "3": "https://www.travolution.com/news/travel-sectors/accommodation/which-raises-concern-over-expedia-and-hotels.com-pricing-disparities/",
+                "4": "https://www.thisismoney.co.uk/money/news/article-6672995/Hotel-booking-sites-agree-end-misleading-sales-tactics.html",
+                "5": "https://www.law360.com/articles/2323969/expedia-forced-restroom-spy-cam-victim-to-quit-suit-says",
+                "6": "https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25542",
+                "7": "https://reliefweb.int/report/occupied-palestinian-territory/database-all-business-enterprises-involved-certain-activities",
+                "8": "https://amnesty.org.nz/israelopt-tourism-companies-driving-settlement-expansion-profiting-war-crimes/"
+            },
+            "sourceNotes": {
+                "1": "false advertising",
+                "2": "tax avoidance",
+                "3": "predatory pricing",
+                "4": "misleading sales tactics and hidden charges",
+                "5": "discriminated against victims of sexal harassment",
+                "6": "operating in illegal west bank settlements",
+                "7": "operating in illegal west bank settlements",
+                "8": "operating in illegal west bank settlements"
+            },
+            "tags": [
+                "travel",
+                "tech"
+            ],
+            "score": 15,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Expedia_Logo_2023.svg",
+            "siteUrl": "https://www.expedia.com/",
+            "updatedAt": "2026-01-02T08:30:22.126Z"
+        },
+        "hotels.com": {
+            "names": [
+                "Hotels.com",
+                "Hotels.com, L.P."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel",
+                "tech"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "expedia"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Hotels.com_Logo_2025.svg",
+            "siteUrl": "http://hotels.com/",
+            "updatedAt": "2026-01-02T09:03:27.846Z"
+        },
+        "vrbo": {
+            "names": [
+                "Vrbo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel",
+                "tech"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "expedia"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Vrbo_logo.svg",
+            "siteUrl": "https://www.vrbo.com/",
+            "updatedAt": "2026-01-02T09:03:27.846Z"
+        },
+        "travelocity": {
+            "names": [
+                "Travelocity"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel",
+                "tech"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "expedia"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/Travelocity_logo.svg",
+            "siteUrl": "https://www.travelocity.com/",
+            "updatedAt": "2026-01-02T09:03:27.846Z"
+        },
+        "hotwire": {
+            "names": [
+                "Hotwire",
+                "Hotwire.com"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel",
+                "tech"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "expedia"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Hotwire_Logo.svg",
+            "siteUrl": "http://www.hotwire.com/",
+            "updatedAt": "2026-01-02T09:03:27.846Z"
+        },
+        "orbitz": {
+            "names": [
+                "Orbitz"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel",
+                "tech"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "expedia"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8f/Orbitz_logo.svg",
+            "siteUrl": "http://orbitz.com/",
+            "updatedAt": "2026-01-02T09:03:27.846Z"
+        },
+        "cheaptickets": {
+            "names": [
+                "CheapTickets"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel",
+                "tech"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "expedia"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c5/CheapTickets_logo.svg",
+            "siteUrl": "http://www.cheaptickets.com/",
+            "updatedAt": "2026-01-02T09:03:27.846Z"
+        },
+        "trivago": {
+            "names": [
+                "Trivago",
+                "Trivago N.V.",
+                "TRVG"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel",
+                "tech"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "expedia"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Trivago_logo_2023.svg",
+            "siteUrl": "https://www.trivago.com/",
+            "updatedAt": "2026-01-02T09:03:27.846Z"
+        },
+        "wotif": {
+            "names": [
+                "Wotif"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel",
+                "tech"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "expedia"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/6f/Wotif.com_Logo.svg",
+            "siteUrl": "http://www.wotif.com/",
+            "updatedAt": "2026-01-02T09:03:27.846Z"
         }
     }
 }
