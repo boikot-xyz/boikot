@@ -11959,1800 +11959,1800 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Reach_plc_logo.svg",
             "siteUrl": "http://reachplc.com/",
             "updatedAt": "2026-01-03T06:28:22.531Z"
+        },
+        "daily-express": {
+            "names": [
+                "Daily Express"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Daily_Express",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Daily_Express_masthead.svg",
+            "siteUrl": "http://express.co.uk/"
+        },
+        "sunday-express": {
+            "names": [
+                "Sunday Express"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunday_Express",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Daily_Express_masthead.svg",
+            "siteUrl": "http://express.co.uk/"
+        },
+        "daily-mirror": {
+            "names": [
+                "Daily Mirror"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Daily_Mirror",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Daily_Mirror_masthead.svg",
+            "siteUrl": "http://www.mirror.co.uk/"
+        },
+        "sunday-mirror": {
+            "names": [
+                "Sunday Mirror"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunday_Mirror",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Sunday_Mirror_main.png",
+            "siteUrl": "https://www.mirror.co.uk/"
+        },
+        "daily-record": {
+            "names": [
+                "Daily Record"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Daily_Record_(Scotland)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3d/Daily_Record_logo.svg",
+            "siteUrl": "http://dailyrecord.co.uk/"
+        },
+        "sunday-mail": {
+            "names": [
+                "Sunday Mail"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunday_Mail_(Scotland)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2f",
+            "siteUrl": "http://sundaymail.co.uk/"
+        },
+        "daily-star": {
+            "names": [
+                "Daily Star"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Daily_Star_(United_Kingdom)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cc/Daily_Star_logo.svg",
+            "siteUrl": "http://dailystar.co.uk/"
+        },
+        "daily-star-sunday": {
+            "names": [
+                "Daily Star Sunday"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Daily_Star_Sunday",
+            "siteUrl": "http://dailystar.co.uk/sunday"
+        },
+        "irish-daily-mirror": {
+            "names": [
+                "Irish Daily Mirror"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Daily_Mirror",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Daily_Mirror_masthead.svg",
+            "siteUrl": "http://www.mirror.co.uk/"
+        },
+        "irish-daily-star": {
+            "names": [
+                "Irish Daily Star"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Irish_Daily_Star",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b8/Irish_Daily_Star_Logo.jpg",
+            "siteUrl": "https://thestar.ie/"
+        },
+        "the-mirror-us": {
+            "names": [
+                "The Mirror US"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Daily_Mirror",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Daily_Mirror_masthead.svg",
+            "siteUrl": "http://www.mirror.co.uk/"
+        },
+        "sunday-people": {
+            "names": [
+                "Sunday People"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunday_People",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/24/The_Sunday_People.jpg",
+            "siteUrl": "https://www.mirror.co.uk/all-about/sunday-people"
+        },
+        "western-mail": {
+            "names": [
+                "Western Mail"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Western_Mail_(Wales)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Western_Mail_May_1_1869.jpg",
+            "siteUrl": "http://walesonline.co.uk/"
+        },
+        "wales-on-sunday": {
+            "names": [
+                "Wales on Sunday"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Western_Mail_(Wales)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Western_Mail_May_1_1869.jpg",
+            "siteUrl": "http://walesonline.co.uk/"
+        },
+        "derby-telegraph": {
+            "names": [
+                "Derby Telegraph"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Derby_Telegraph",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/ab/Derby_Telegraph_logo.svg",
+            "siteUrl": "http://www.derbytelegraph.co.uk/"
+        },
+        "hinckley-times": {
+            "names": [
+                "Hinckley Times"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hinckley_Times",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Hinckley_Times_masthead.jpg",
+            "siteUrl": "http://www.leicestermercury.co.uk/all-about/hinckley"
+        },
+        "leicester-mercury": {
+            "names": [
+                "Leicester Mercury"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Leicester_Mercury",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Leicester_Mercury_June_2010.jpg",
+            "siteUrl": "http://www.leicestermercury.co.uk/"
+        },
+        "lincolnshire-echo": {
+            "names": [
+                "Lincolnshire Echo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincolnshire_Echo",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Lincolnshire_Echo_-_geograph.org.uk_-_1308221.jpg",
+            "siteUrl": "http://lincolnshirelive.co.uk/"
+        },
+        "loughborough-echo": {
+            "names": [
+                "Loughborough Echo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Loughborough_Echo",
+            "siteUrl": "http://www.loughboroughecho.net/"
+        },
+        "nottingham-post": {
+            "names": [
+                "Nottingham Post"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Nottingham_Post",
+            "siteUrl": "http://nottinghampost.com/"
+        },
+        "retford-times": {
+            "names": [
+                "Retford Times"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Retford_Times",
+            "siteUrl": "http://lincolnshirelive.co.uk/all-about/retford"
+        },
+        "glossop-advertiser": {
+            "names": [
+                "Glossop Advertiser"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Glossop_Advertiser",
+            "siteUrl": "http://glossopadvertiser.co.uk/"
+        },
+        "tameside-advertiser": {
+            "names": [
+                "Tameside Advertiser"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tameside_Advertiser",
+            "siteUrl": "http://tamesideadvertiser.co.uk/"
+        },
+        "the-wharf": {
+            "names": [
+                "The Wharf"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Wharf_(newspaper)"
+        },
+        "chronicle-extra": {
+            "names": [
+                "Chronicle Extra"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Chronicle_Extra",
+            "siteUrl": "http://icnewcastle.icnetwork.co.uk/chroniclelive/extra"
+        },
+        "evening-chronicle": {
+            "names": [
+                "Evening Chronicle"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Evening_Chronicle",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/Evening_Chronicle_%28North_East_England_daily_newspaper%29_logo.png",
+            "siteUrl": "http://chroniclelive.co.uk/"
+        },
+        "the-journal": {
+            "names": [
+                "The Journal"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Journal_(Newcastle_upon_Tyne_newspaper)",
+            "siteUrl": "http://chroniclelive.co.uk/"
+        },
+        "sunday-sun": {
+            "names": [
+                "Sunday Sun"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunday_Sun",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/00",
+            "siteUrl": "http://www.sundaysun.co.uk/"
+        },
+        "accrington-observer": {
+            "names": [
+                "Accrington Observer"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Accrington_Observer",
+            "siteUrl": "http://lancs.live/all-about/accrington"
+        },
+        "chester-chronicle": {
+            "names": [
+                "Chester Chronicle"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Chester_Chronicle",
+            "siteUrl": "http://cheshire-live.co.uk/"
+        },
+        "crewe-chronicle": {
+            "names": [
+                "Crewe Chronicle"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Crewe_Chronicle",
+            "siteUrl": "http://cheshire-live.co.uk/all-about/crewe"
+        },
+        "liverpool-echo": {
+            "names": [
+                "Liverpool Echo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Liverpool_Echo",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b3/Liverpool_Echo_logo.svg",
+            "siteUrl": "http://www.liverpoolecho.co.uk/"
+        },
+        "manchester-evening-news": {
+            "names": [
+                "Manchester Evening News"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Manchester_Evening_News",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d7/ManchesterEveningNewscover.jpg",
+            "siteUrl": "https://www.manchestereveningnews.co.uk/"
+        },
+        "manchester-metro-news": {
+            "names": [
+                "Manchester Metro News"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Manchester_Metro_News"
+        },
+        "oldham-advertiser": {
+            "names": [
+                "Oldham Advertiser"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Oldham_Advertiser",
+            "siteUrl": "http://oldhamadvertiser.co.uk/"
+        },
+        "rochdale-observer": {
+            "names": [
+                "Rochdale Observer"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rochdale_Observer",
+            "siteUrl": "http://rochdaleobserver.co.uk/"
+        },
+        "rossendale-free-press": {
+            "names": [
+                "Rossendale Free Press"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rossendale_Free_Press",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8b/Rossendale_Free_Press_logo.svg",
+            "siteUrl": "http://rossendalefreepress.co.uk/"
+        },
+        "salford-advertiser": {
+            "names": [
+                "Salford Advertiser"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Salford_Advertiser",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8b",
+            "siteUrl": "http://www.salfordadvertiser.co.uk/"
+        },
+        "south-manchester-reporter": {
+            "names": [
+                "South Manchester Reporter"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Manchester_Reporter",
+            "siteUrl": "http://southmanchesterreporter.co.uk/"
+        },
+        "southport-visiter": {
+            "names": [
+                "Southport Visiter"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Southport_Visiter",
+            "siteUrl": "http://southportvisiter.co.uk/"
+        },
+        "stockport-express": {
+            "names": [
+                "Stockport Express"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Stockport_Express",
+            "siteUrl": "http://stockportexpress.co.uk/"
+        },
+        "macclesfield-express": {
+            "names": [
+                "Macclesfield Express"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Macclesfield_Express",
+            "siteUrl": "http://cheshire-live.co.uk/all-about/macclesfield"
+        },
+        "the-sentinel-(staffordshire)": {
+            "names": [
+                "The Sentinel (Staffordshire)"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Sentinel_(Staffordshire)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e",
+            "siteUrl": "http://stokesentinel.co.uk/"
+        },
+        "airdrie-and-coatbridge-advertiser": {
+            "names": [
+                "Airdrie and Coatbridge Advertiser"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Airdrie_and_Coatbridge_Advertiser",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Airdrie_%26_Coatbridge_Advertiser%2C_3_April_1858.png",
+            "siteUrl": "http://dailyrecord.co.uk/"
+        },
+        "ayrshire-post": {
+            "names": [
+                "Ayrshire Post"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ayrshire_Post",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Ayrshire-post-banner.gif",
+            "siteUrl": "https://www.dailyrecord.co.uk/authors/ayrshire-post/"
+        },
+        "blairgowrie-advertiser": {
+            "names": [
+                "Blairgowrie Advertiser"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Blairgowrie_Advertiser",
+            "siteUrl": "http://dailyrecord.co.uk/"
+        },
+        "dumfries-and-galloway-standard": {
+            "names": [
+                "Dumfries & Galloway Standard"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Dumfries_%26_Galloway_Standard",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/Dumfries_and_Galloway_Standard.jpg",
+            "siteUrl": "http://www.dgstandard.co.uk/"
+        },
+        "east-kilbride-news": {
+            "names": [
+                "East Kilbride News"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/East_Kilbride_News",
+            "siteUrl": "http://dailyrecord.co.uk/"
+        },
+        "hamilton-advertiser": {
+            "names": [
+                "Hamilton Advertiser"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamilton_Advertiser",
+            "siteUrl": "http://www.hamiltonadvertiser.co.uk/"
+        },
+        "kilmarnock-standard": {
+            "names": [
+                "Kilmarnock Standard"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kilmarnock_Standard",
+            "siteUrl": "http://kilmarnockstandard.co.uk/"
+        },
+        "paisley-daily-express": {
+            "names": [
+                "Paisley Daily Express"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Paisley_Daily_Express",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/80",
+            "siteUrl": "http://paisleydailyexpress.co.uk/"
+        },
+        "perthshire-advertiser": {
+            "names": [
+                "Perthshire Advertiser"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Perthshire_Advertiser",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3",
+            "siteUrl": "http://perthshireadvertiser.co.uk/"
+        },
+        "rutherglen-reformer": {
+            "names": [
+                "Rutherglen Reformer"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rutherglen_Reformer",
+            "siteUrl": "https://www.dailyrecord.co.uk/all-about/rutherglen/"
+        },
+        "wishaw-press": {
+            "names": [
+                "Wishaw Press"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Wishaw_Press",
+            "siteUrl": "http://www.dailyrecord.co.uk/all-about/wishaw"
+        },
+        "staines-informer": {
+            "names": [
+                "Staines Informer"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Staines_Informer"
+        },
+        "surrey-advertiser": {
+            "names": [
+                "Surrey Advertiser"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Surrey_Advertiser",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Surrey_Advertiser_1.jpg",
+            "siteUrl": "http://getsurrey.co.uk/"
+        },
+        "bath-chronicle": {
+            "names": [
+                "Bath Chronicle"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bath_Chronicle",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/df/Bath_Chronicle_2014_redesign%2C_cover.jpg",
+            "siteUrl": "http://bathchronicle.co.uk/"
+        },
+        "bristol-post": {
+            "names": [
+                "Bristol Post"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bristol_Post",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bristol_Post.svg",
+            "siteUrl": "http://bristolpost.co.uk/"
+        },
+        "cornish-guardian": {
+            "names": [
+                "Cornish Guardian"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cornish_Guardian",
+            "siteUrl": "http://cornwalllive.com/"
+        },
+        "the-cornishman": {
+            "names": [
+                "The Cornishman"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Cornishman_(newspaper)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/93/The_Cornishman.png",
+            "siteUrl": "https://cornwalllive.com/"
+        },
+        "express-and-echo": {
+            "names": [
+                "Express & Echo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Express_%26_Echo",
+            "siteUrl": "http://exeterexpressandecho.co.uk/"
+        },
+        "gloucester-citizen": {
+            "names": [
+                "Gloucester Citizen"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gloucester_Citizen",
+            "siteUrl": "http://gloucestershirelive.co.uk/"
+        },
+        "gloucestershire-echo": {
+            "names": [
+                "Gloucestershire Echo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gloucestershire_Echo",
+            "siteUrl": "http://gloucestershirelive.co.uk/"
+        },
+        "the-herald": {
+            "names": [
+                "The Herald"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Herald_(Plymouth)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/73/Herald_Front.jpg",
+            "siteUrl": "http://plymouthherald.co.uk/"
+        },
+        "mid-devon-gazette": {
+            "names": [
+                "Mid Devon Gazette"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mid_Devon_Gazette"
+        },
+        "north-devon-journal": {
+            "names": [
+                "North Devon Journal"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/North_Devon_Journal",
+            "siteUrl": "http://devonlive.com/"
+        },
+        "the-west-briton": {
+            "names": [
+                "The West Briton"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_West_Briton",
+            "siteUrl": "http://www.westbriton.co.uk/"
+        },
+        "western-morning-news": {
+            "names": [
+                "Western Morning News"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Western_Morning_News",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Western_Morning_News_February_18_2023.jpg"
+        },
+        "daily-post": {
+            "names": [
+                "Daily Post"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Daily_Post_(North_Wales)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/19/Daily_Post.png",
+            "siteUrl": "http://www.dailypost.co.uk/"
+        },
+        "south-wales-echo": {
+            "names": [
+                "South Wales Echo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Wales_Echo",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/75",
+            "siteUrl": "https://www.walesonline.co.uk/"
+        },
+        "south-wales-evening-post": {
+            "names": [
+                "South Wales Evening Post"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Wales_Evening_Post",
+            "siteUrl": "http://walesonline.co.uk/"
+        },
+        "birmingham-post": {
+            "names": [
+                "Birmingham Post"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Birmingham_Post",
+            "siteUrl": "http://birminghampost.co.uk/"
+        },
+        "birmingham-mail": {
+            "names": [
+                "Birmingham Mail"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Birmingham_Mail",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Birmingham_Mail.svg",
+            "siteUrl": "http://birminghamlive.co.uk/"
+        },
+        "sunday-mercury": {
+            "names": [
+                "Sunday Mercury"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunday_Mercury",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/SundayMercuryLogo.png",
+            "siteUrl": "http://www.sundaymercury.net/"
+        },
+        "coventry-telegraph": {
+            "names": [
+                "Coventry Telegraph"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Coventry_Telegraph",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cf/Coventry_Telegraph_front_page.jpg",
+            "siteUrl": "http://coventrytelegraph.net/"
+        },
+        "grimsby-telegraph": {
+            "names": [
+                "Grimsby Telegraph"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Grimsby_Telegraph",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/56",
+            "siteUrl": "http://www.grimsbytelegraph.co.uk/"
+        },
+        "huddersfield-daily-examiner": {
+            "names": [
+                "Huddersfield Daily Examiner"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Huddersfield_Daily_Examiner",
+            "siteUrl": "http://examinerlive.co.uk/"
+        },
+        "hull-daily-mail": {
+            "names": [
+                "Hull Daily Mail"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hull_Daily_Mail",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Hull_Daily_Mail_Logo_%282015%29.jpg",
+            "siteUrl": "http://hulldailymail.co.uk/"
+        },
+        "scunthorpe-telegraph": {
+            "names": [
+                "Scunthorpe Telegraph"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Scunthorpe_Telegraph",
+            "siteUrl": "http://grimsbytelegraph.co.uk/all-about/scunthorpe"
+        },
+        "bristol-live": {
+            "names": [
+                "Bristol Live"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bristol_Live",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bristol_Post.svg",
+            "siteUrl": "http://bristolpost.co.uk/"
+        },
+        "buzz.ie": {
+            "names": [
+                "Buzz.ie"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Buzz.ie",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b8/Irish_Daily_Star_Logo.jpg",
+            "siteUrl": "https://thestar.ie/"
+        },
+        "cheshire-live": {
+            "names": [
+                "Cheshire Live"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cheshire_Live",
+            "siteUrl": "http://cheshire-live.co.uk/"
+        },
+        "cornwall-live": {
+            "names": [
+                "Cornwall Live"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cornwall_Live",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/93/The_Cornishman.png",
+            "siteUrl": "https://cornwalllive.com/"
+        },
+        "devon-live": {
+            "names": [
+                "Devon Live"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Express_%26_Echo",
+            "siteUrl": "http://exeterexpressandecho.co.uk/"
+        },
+        "yorkshire-live": {
+            "names": [
+                "Yorkshire Live"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Yorkshire_Live",
+            "siteUrl": "http://examinerlive.co.uk/"
+        },
+        "hull-live": {
+            "names": [
+                "Hull Live"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hull_Live",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Hull_Daily_Mail_Logo_%282015%29.jpg",
+            "siteUrl": "http://hulldailymail.co.uk/"
+        },
+        "leicestershire-live": {
+            "names": [
+                "Leicestershire Live"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Leicestershire_Live",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Leicester_Mercury_June_2010.jpg",
+            "siteUrl": "http://www.leicestermercury.co.uk/"
+        },
+        "lincolnshire-live": {
+            "names": [
+                "Lincolnshire Live"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincolnshire_Live",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Lincolnshire_Echo_-_geograph.org.uk_-_1308221.jpg",
+            "siteUrl": "http://lincolnshirelive.co.uk/"
+        },
+        "mylondon": {
+            "names": [
+                "MyLondon"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/MyLondon",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/MyLondon.png",
+            "siteUrl": "http://mylondon.news/"
+        },
+        "plymouth-live": {
+            "names": [
+                "Plymouth Live"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Plymouth_Live",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/73/Herald_Front.jpg",
+            "siteUrl": "http://plymouthherald.co.uk/"
+        },
+        "somerset-live": {
+            "names": [
+                "Somerset Live"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Somerset_Live",
+            "siteUrl": "http://somersetlive.co.uk/"
+        },
+        "surrey-live": {
+            "names": [
+                "Surrey Live"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Surrey_Live",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Surrey_Advertiser_1.jpg",
+            "siteUrl": "http://getsurrey.co.uk/"
+        },
+        "teesside-live": {
+            "names": [
+                "Teesside Live"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Teesside_Live",
+            "siteUrl": "http://www.gazettelive.co.uk/"
+        },
+        "walesonline": {
+            "names": [
+                "WalesOnline"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Media_Wales#WalesOnline",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Media_Wales%2C_Cardiff.jpg",
+            "siteUrl": "https://www.walesonline.co.uk/"
+        },
+        "buckinghamshire-examiner": {
+            "names": [
+                "Buckinghamshire Examiner"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Buckinghamshire_Examiner",
+            "siteUrl": "http://www.buckinghamshireexaminer.co.uk/"
+        },
+        "reading-post": {
+            "names": [
+                "Reading Post"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Reading_Post",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/88",
+            "siteUrl": "http://getreading.co.uk/"
+        },
+        "neath-guardian": {
+            "names": [
+                "Neath Guardian"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "news"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "reach"
+            ],
+            "updatedAt": "2026-01-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Neath_Guardian",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/Neathguardian.png"
         }
-    },
-    "daily-express": {
-        "names": [
-            "Daily Express"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Daily_Express",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Daily_Express_masthead.svg",
-        "siteUrl": "http://express.co.uk/"
-    },
-    "sunday-express": {
-        "names": [
-            "Sunday Express"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunday_Express",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Daily_Express_masthead.svg",
-        "siteUrl": "http://express.co.uk/"
-    },
-    "daily-mirror": {
-        "names": [
-            "Daily Mirror"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Daily_Mirror",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Daily_Mirror_masthead.svg",
-        "siteUrl": "http://www.mirror.co.uk/"
-    },
-    "sunday-mirror": {
-        "names": [
-            "Sunday Mirror"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunday_Mirror",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Sunday_Mirror_main.png",
-        "siteUrl": "https://www.mirror.co.uk/"
-    },
-    "daily-record": {
-        "names": [
-            "Daily Record"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Daily_Record_(Scotland)",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3d/Daily_Record_logo.svg",
-        "siteUrl": "http://dailyrecord.co.uk/"
-    },
-    "sunday-mail": {
-        "names": [
-            "Sunday Mail"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunday_Mail_(Scotland)",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2f",
-        "siteUrl": "http://sundaymail.co.uk/"
-    },
-    "daily-star": {
-        "names": [
-            "Daily Star"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Daily_Star_(United_Kingdom)",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cc/Daily_Star_logo.svg",
-        "siteUrl": "http://dailystar.co.uk/"
-    },
-    "daily-star-sunday": {
-        "names": [
-            "Daily Star Sunday"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Daily_Star_Sunday",
-        "siteUrl": "http://dailystar.co.uk/sunday"
-    },
-    "irish-daily-mirror": {
-        "names": [
-            "Irish Daily Mirror"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Daily_Mirror",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Daily_Mirror_masthead.svg",
-        "siteUrl": "http://www.mirror.co.uk/"
-    },
-    "irish-daily-star": {
-        "names": [
-            "Irish Daily Star"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Irish_Daily_Star",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b8/Irish_Daily_Star_Logo.jpg",
-        "siteUrl": "https://thestar.ie/"
-    },
-    "the-mirror-us": {
-        "names": [
-            "The Mirror US"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Daily_Mirror",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Daily_Mirror_masthead.svg",
-        "siteUrl": "http://www.mirror.co.uk/"
-    },
-    "sunday-people": {
-        "names": [
-            "Sunday People"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunday_People",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/24/The_Sunday_People.jpg",
-        "siteUrl": "https://www.mirror.co.uk/all-about/sunday-people"
-    },
-    "western-mail": {
-        "names": [
-            "Western Mail"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Western_Mail_(Wales)",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Western_Mail_May_1_1869.jpg",
-        "siteUrl": "http://walesonline.co.uk/"
-    },
-    "wales-on-sunday": {
-        "names": [
-            "Wales on Sunday"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Western_Mail_(Wales)",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Western_Mail_May_1_1869.jpg",
-        "siteUrl": "http://walesonline.co.uk/"
-    },
-    "derby-telegraph": {
-        "names": [
-            "Derby Telegraph"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Derby_Telegraph",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/ab/Derby_Telegraph_logo.svg",
-        "siteUrl": "http://www.derbytelegraph.co.uk/"
-    },
-    "hinckley-times": {
-        "names": [
-            "Hinckley Times"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Hinckley_Times",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Hinckley_Times_masthead.jpg",
-        "siteUrl": "http://www.leicestermercury.co.uk/all-about/hinckley"
-    },
-    "leicester-mercury": {
-        "names": [
-            "Leicester Mercury"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Leicester_Mercury",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Leicester_Mercury_June_2010.jpg",
-        "siteUrl": "http://www.leicestermercury.co.uk/"
-    },
-    "lincolnshire-echo": {
-        "names": [
-            "Lincolnshire Echo"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincolnshire_Echo",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Lincolnshire_Echo_-_geograph.org.uk_-_1308221.jpg",
-        "siteUrl": "http://lincolnshirelive.co.uk/"
-    },
-    "loughborough-echo": {
-        "names": [
-            "Loughborough Echo"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Loughborough_Echo",
-        "siteUrl": "http://www.loughboroughecho.net/"
-    },
-    "nottingham-post": {
-        "names": [
-            "Nottingham Post"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Nottingham_Post",
-        "siteUrl": "http://nottinghampost.com/"
-    },
-    "retford-times": {
-        "names": [
-            "Retford Times"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Retford_Times",
-        "siteUrl": "http://lincolnshirelive.co.uk/all-about/retford"
-    },
-    "glossop-advertiser": {
-        "names": [
-            "Glossop Advertiser"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Glossop_Advertiser",
-        "siteUrl": "http://glossopadvertiser.co.uk/"
-    },
-    "tameside-advertiser": {
-        "names": [
-            "Tameside Advertiser"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Tameside_Advertiser",
-        "siteUrl": "http://tamesideadvertiser.co.uk/"
-    },
-    "the-wharf": {
-        "names": [
-            "The Wharf"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Wharf_(newspaper)"
-    },
-    "chronicle-extra": {
-        "names": [
-            "Chronicle Extra"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Chronicle_Extra",
-        "siteUrl": "http://icnewcastle.icnetwork.co.uk/chroniclelive/extra"
-    },
-    "evening-chronicle": {
-        "names": [
-            "Evening Chronicle"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Evening_Chronicle",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/Evening_Chronicle_%28North_East_England_daily_newspaper%29_logo.png",
-        "siteUrl": "http://chroniclelive.co.uk/"
-    },
-    "the-journal": {
-        "names": [
-            "The Journal"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Journal_(Newcastle_upon_Tyne_newspaper)",
-        "siteUrl": "http://chroniclelive.co.uk/"
-    },
-    "sunday-sun": {
-        "names": [
-            "Sunday Sun"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunday_Sun",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/00",
-        "siteUrl": "http://www.sundaysun.co.uk/"
-    },
-    "accrington-observer": {
-        "names": [
-            "Accrington Observer"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Accrington_Observer",
-        "siteUrl": "http://lancs.live/all-about/accrington"
-    },
-    "chester-chronicle": {
-        "names": [
-            "Chester Chronicle"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Chester_Chronicle",
-        "siteUrl": "http://cheshire-live.co.uk/"
-    },
-    "crewe-chronicle": {
-        "names": [
-            "Crewe Chronicle"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Crewe_Chronicle",
-        "siteUrl": "http://cheshire-live.co.uk/all-about/crewe"
-    },
-    "liverpool-echo": {
-        "names": [
-            "Liverpool Echo"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Liverpool_Echo",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b3/Liverpool_Echo_logo.svg",
-        "siteUrl": "http://www.liverpoolecho.co.uk/"
-    },
-    "manchester-evening-news": {
-        "names": [
-            "Manchester Evening News"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Manchester_Evening_News",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d7/ManchesterEveningNewscover.jpg",
-        "siteUrl": "https://www.manchestereveningnews.co.uk/"
-    },
-    "manchester-metro-news": {
-        "names": [
-            "Manchester Metro News"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Manchester_Metro_News"
-    },
-    "oldham-advertiser": {
-        "names": [
-            "Oldham Advertiser"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Oldham_Advertiser",
-        "siteUrl": "http://oldhamadvertiser.co.uk/"
-    },
-    "rochdale-observer": {
-        "names": [
-            "Rochdale Observer"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Rochdale_Observer",
-        "siteUrl": "http://rochdaleobserver.co.uk/"
-    },
-    "rossendale-free-press": {
-        "names": [
-            "Rossendale Free Press"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Rossendale_Free_Press",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8b/Rossendale_Free_Press_logo.svg",
-        "siteUrl": "http://rossendalefreepress.co.uk/"
-    },
-    "salford-advertiser": {
-        "names": [
-            "Salford Advertiser"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Salford_Advertiser",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8b",
-        "siteUrl": "http://www.salfordadvertiser.co.uk/"
-    },
-    "south-manchester-reporter": {
-        "names": [
-            "South Manchester Reporter"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Manchester_Reporter",
-        "siteUrl": "http://southmanchesterreporter.co.uk/"
-    },
-    "southport-visiter": {
-        "names": [
-            "Southport Visiter"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Southport_Visiter",
-        "siteUrl": "http://southportvisiter.co.uk/"
-    },
-    "stockport-express": {
-        "names": [
-            "Stockport Express"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Stockport_Express",
-        "siteUrl": "http://stockportexpress.co.uk/"
-    },
-    "macclesfield-express": {
-        "names": [
-            "Macclesfield Express"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Macclesfield_Express",
-        "siteUrl": "http://cheshire-live.co.uk/all-about/macclesfield"
-    },
-    "the-sentinel-(staffordshire)": {
-        "names": [
-            "The Sentinel (Staffordshire)"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Sentinel_(Staffordshire)",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e",
-        "siteUrl": "http://stokesentinel.co.uk/"
-    },
-    "airdrie-and-coatbridge-advertiser": {
-        "names": [
-            "Airdrie and Coatbridge Advertiser"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Airdrie_and_Coatbridge_Advertiser",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Airdrie_%26_Coatbridge_Advertiser%2C_3_April_1858.png",
-        "siteUrl": "http://dailyrecord.co.uk/"
-    },
-    "ayrshire-post": {
-        "names": [
-            "Ayrshire Post"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Ayrshire_Post",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Ayrshire-post-banner.gif",
-        "siteUrl": "https://www.dailyrecord.co.uk/authors/ayrshire-post/"
-    },
-    "blairgowrie-advertiser": {
-        "names": [
-            "Blairgowrie Advertiser"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Blairgowrie_Advertiser",
-        "siteUrl": "http://dailyrecord.co.uk/"
-    },
-    "dumfries-and-galloway-standard": {
-        "names": [
-            "Dumfries & Galloway Standard"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Dumfries_%26_Galloway_Standard",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/Dumfries_and_Galloway_Standard.jpg",
-        "siteUrl": "http://www.dgstandard.co.uk/"
-    },
-    "east-kilbride-news": {
-        "names": [
-            "East Kilbride News"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/East_Kilbride_News",
-        "siteUrl": "http://dailyrecord.co.uk/"
-    },
-    "hamilton-advertiser": {
-        "names": [
-            "Hamilton Advertiser"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamilton_Advertiser",
-        "siteUrl": "http://www.hamiltonadvertiser.co.uk/"
-    },
-    "kilmarnock-standard": {
-        "names": [
-            "Kilmarnock Standard"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Kilmarnock_Standard",
-        "siteUrl": "http://kilmarnockstandard.co.uk/"
-    },
-    "paisley-daily-express": {
-        "names": [
-            "Paisley Daily Express"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Paisley_Daily_Express",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/80",
-        "siteUrl": "http://paisleydailyexpress.co.uk/"
-    },
-    "perthshire-advertiser": {
-        "names": [
-            "Perthshire Advertiser"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Perthshire_Advertiser",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3",
-        "siteUrl": "http://perthshireadvertiser.co.uk/"
-    },
-    "rutherglen-reformer": {
-        "names": [
-            "Rutherglen Reformer"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Rutherglen_Reformer",
-        "siteUrl": "https://www.dailyrecord.co.uk/all-about/rutherglen/"
-    },
-    "wishaw-press": {
-        "names": [
-            "Wishaw Press"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Wishaw_Press",
-        "siteUrl": "http://www.dailyrecord.co.uk/all-about/wishaw"
-    },
-    "staines-informer": {
-        "names": [
-            "Staines Informer"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Staines_Informer"
-    },
-    "surrey-advertiser": {
-        "names": [
-            "Surrey Advertiser"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Surrey_Advertiser",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Surrey_Advertiser_1.jpg",
-        "siteUrl": "http://getsurrey.co.uk/"
-    },
-    "bath-chronicle": {
-        "names": [
-            "Bath Chronicle"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Bath_Chronicle",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/df/Bath_Chronicle_2014_redesign%2C_cover.jpg",
-        "siteUrl": "http://bathchronicle.co.uk/"
-    },
-    "bristol-post": {
-        "names": [
-            "Bristol Post"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Bristol_Post",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bristol_Post.svg",
-        "siteUrl": "http://bristolpost.co.uk/"
-    },
-    "cornish-guardian": {
-        "names": [
-            "Cornish Guardian"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Cornish_Guardian",
-        "siteUrl": "http://cornwalllive.com/"
-    },
-    "the-cornishman": {
-        "names": [
-            "The Cornishman"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Cornishman_(newspaper)",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/93/The_Cornishman.png",
-        "siteUrl": "https://cornwalllive.com/"
-    },
-    "express-and-echo": {
-        "names": [
-            "Express & Echo"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Express_%26_Echo",
-        "siteUrl": "http://exeterexpressandecho.co.uk/"
-    },
-    "gloucester-citizen": {
-        "names": [
-            "Gloucester Citizen"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Gloucester_Citizen",
-        "siteUrl": "http://gloucestershirelive.co.uk/"
-    },
-    "gloucestershire-echo": {
-        "names": [
-            "Gloucestershire Echo"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Gloucestershire_Echo",
-        "siteUrl": "http://gloucestershirelive.co.uk/"
-    },
-    "the-herald": {
-        "names": [
-            "The Herald"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Herald_(Plymouth)",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/73/Herald_Front.jpg",
-        "siteUrl": "http://plymouthherald.co.uk/"
-    },
-    "mid-devon-gazette": {
-        "names": [
-            "Mid Devon Gazette"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Mid_Devon_Gazette"
-    },
-    "north-devon-journal": {
-        "names": [
-            "North Devon Journal"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/North_Devon_Journal",
-        "siteUrl": "http://devonlive.com/"
-    },
-    "the-west-briton": {
-        "names": [
-            "The West Briton"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/The_West_Briton",
-        "siteUrl": "http://www.westbriton.co.uk/"
-    },
-    "western-morning-news": {
-        "names": [
-            "Western Morning News"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Western_Morning_News",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Western_Morning_News_February_18_2023.jpg"
-    },
-    "daily-post": {
-        "names": [
-            "Daily Post"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Daily_Post_(North_Wales)",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/19/Daily_Post.png",
-        "siteUrl": "http://www.dailypost.co.uk/"
-    },
-    "south-wales-echo": {
-        "names": [
-            "South Wales Echo"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Wales_Echo",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/75",
-        "siteUrl": "https://www.walesonline.co.uk/"
-    },
-    "south-wales-evening-post": {
-        "names": [
-            "South Wales Evening Post"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Wales_Evening_Post",
-        "siteUrl": "http://walesonline.co.uk/"
-    },
-    "birmingham-post": {
-        "names": [
-            "Birmingham Post"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Birmingham_Post",
-        "siteUrl": "http://birminghampost.co.uk/"
-    },
-    "birmingham-mail": {
-        "names": [
-            "Birmingham Mail"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Birmingham_Mail",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Birmingham_Mail.svg",
-        "siteUrl": "http://birminghamlive.co.uk/"
-    },
-    "sunday-mercury": {
-        "names": [
-            "Sunday Mercury"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunday_Mercury",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/SundayMercuryLogo.png",
-        "siteUrl": "http://www.sundaymercury.net/"
-    },
-    "coventry-telegraph": {
-        "names": [
-            "Coventry Telegraph"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Coventry_Telegraph",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cf/Coventry_Telegraph_front_page.jpg",
-        "siteUrl": "http://coventrytelegraph.net/"
-    },
-    "grimsby-telegraph": {
-        "names": [
-            "Grimsby Telegraph"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Grimsby_Telegraph",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/56",
-        "siteUrl": "http://www.grimsbytelegraph.co.uk/"
-    },
-    "huddersfield-daily-examiner": {
-        "names": [
-            "Huddersfield Daily Examiner"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Huddersfield_Daily_Examiner",
-        "siteUrl": "http://examinerlive.co.uk/"
-    },
-    "hull-daily-mail": {
-        "names": [
-            "Hull Daily Mail"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Hull_Daily_Mail",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Hull_Daily_Mail_Logo_%282015%29.jpg",
-        "siteUrl": "http://hulldailymail.co.uk/"
-    },
-    "scunthorpe-telegraph": {
-        "names": [
-            "Scunthorpe Telegraph"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Scunthorpe_Telegraph",
-        "siteUrl": "http://grimsbytelegraph.co.uk/all-about/scunthorpe"
-    },
-    "bristol-live": {
-        "names": [
-            "Bristol Live"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Bristol_Live",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bristol_Post.svg",
-        "siteUrl": "http://bristolpost.co.uk/"
-    },
-    "buzz.ie": {
-        "names": [
-            "Buzz.ie"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Buzz.ie",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b8/Irish_Daily_Star_Logo.jpg",
-        "siteUrl": "https://thestar.ie/"
-    },
-    "cheshire-live": {
-        "names": [
-            "Cheshire Live"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Cheshire_Live",
-        "siteUrl": "http://cheshire-live.co.uk/"
-    },
-    "cornwall-live": {
-        "names": [
-            "Cornwall Live"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Cornwall_Live",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/93/The_Cornishman.png",
-        "siteUrl": "https://cornwalllive.com/"
-    },
-    "devon-live": {
-        "names": [
-            "Devon Live"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Express_%26_Echo",
-        "siteUrl": "http://exeterexpressandecho.co.uk/"
-    },
-    "yorkshire-live": {
-        "names": [
-            "Yorkshire Live"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Yorkshire_Live",
-        "siteUrl": "http://examinerlive.co.uk/"
-    },
-    "hull-live": {
-        "names": [
-            "Hull Live"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Hull_Live",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Hull_Daily_Mail_Logo_%282015%29.jpg",
-        "siteUrl": "http://hulldailymail.co.uk/"
-    },
-    "leicestershire-live": {
-        "names": [
-            "Leicestershire Live"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Leicestershire_Live",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Leicester_Mercury_June_2010.jpg",
-        "siteUrl": "http://www.leicestermercury.co.uk/"
-    },
-    "lincolnshire-live": {
-        "names": [
-            "Lincolnshire Live"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Lincolnshire_Live",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Lincolnshire_Echo_-_geograph.org.uk_-_1308221.jpg",
-        "siteUrl": "http://lincolnshirelive.co.uk/"
-    },
-    "mylondon": {
-        "names": [
-            "MyLondon"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/MyLondon",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/MyLondon.png",
-        "siteUrl": "http://mylondon.news/"
-    },
-    "plymouth-live": {
-        "names": [
-            "Plymouth Live"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Plymouth_Live",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/73/Herald_Front.jpg",
-        "siteUrl": "http://plymouthherald.co.uk/"
-    },
-    "somerset-live": {
-        "names": [
-            "Somerset Live"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Somerset_Live",
-        "siteUrl": "http://somersetlive.co.uk/"
-    },
-    "surrey-live": {
-        "names": [
-            "Surrey Live"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Surrey_Live",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Surrey_Advertiser_1.jpg",
-        "siteUrl": "http://getsurrey.co.uk/"
-    },
-    "teesside-live": {
-        "names": [
-            "Teesside Live"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Teesside_Live",
-        "siteUrl": "http://www.gazettelive.co.uk/"
-    },
-    "walesonline": {
-        "names": [
-            "WalesOnline"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Media_Wales#WalesOnline",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Media_Wales%2C_Cardiff.jpg",
-        "siteUrl": "https://www.walesonline.co.uk/"
-    },
-    "buckinghamshire-examiner": {
-        "names": [
-            "Buckinghamshire Examiner"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Buckinghamshire_Examiner",
-        "siteUrl": "http://www.buckinghamshireexaminer.co.uk/"
-    },
-    "reading-post": {
-        "names": [
-            "Reading Post"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Reading_Post",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/88",
-        "siteUrl": "http://getreading.co.uk/"
-    },
-    "neath-guardian": {
-        "names": [
-            "Neath Guardian"
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": [
-            "news"
-        ],
-        "score": 24,
-        "ownedBy": [
-            "reach"
-        ],
-        "updatedAt": "2026-01-03T06:28:22.531Z",
-        "wikipediaUrl": "https://en.wikipedia.org/wiki/Neath_Guardian",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/Neathguardian.png"
     }
 }
