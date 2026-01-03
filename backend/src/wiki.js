@@ -39,9 +39,9 @@ function getSiteURL( pageDOM ) {
     return siteURL;
 }
 
-export async function getWikipediaInfo( companyName ) {
+export async function getWikipediaInfo( companyName, companyUrl ) {
 
-    const wikiPageURL = await getWikipediaPage( companyName );
+    const wikiPageURL = companyUrl || await getWikipediaPage( companyName );
     const wikiPageHTML = await (await fetch(wikiPageURL)).text();
     const wikiPageDOM = new JSDOM( wikiPageHTML );
 
