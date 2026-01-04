@@ -13753,6 +13753,27 @@
             "updatedAt": "2026-01-03T06:28:22.531Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Neath_Guardian",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/Neathguardian.png"
+        },
+        "fatface": {
+            "names": [
+                "FatFace",
+                "Fat Face",
+                "Fat Face Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "next"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8d/Fat_Face_Limited._-_Company_Logo.jpg",
+            "siteUrl": "https://fatface.com/",
+            "updatedAt": "2026-01-04T10:39:38.234Z"
         }
     }
 }
