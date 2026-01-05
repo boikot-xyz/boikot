@@ -13774,6 +13774,270 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8d/Fat_Face_Limited._-_Company_Logo.jpg",
             "siteUrl": "https://fatface.com/",
             "updatedAt": "2026-01-04T10:39:38.234Z"
+        },
+        "ferrero": {
+            "names": [
+                "Ferrero",
+                "Ferrero SpA",
+                "Ferrero International",
+                "Ferrero International SpA",
+                "Ferrero Group"
+            ],
+            "comment": "Ferrero is an Italian confectionery company that has falsely advertised its products as healthy [1][2][3], sourced unethical cocoa [4], and sold Kinder Eggs contaminated with  salmonella [7][8][9]. The company has underpaid employees [5], racially discriminated against workers [6], and taken advantage of child labour in its supply chain [10][11].",
+            "sources": {
+                "1": "https://www.foodnavigator-usa.com/Article/2012/04/30/Ferrero-backs-away-from-Nutella-health-claims-in-3m-class-action-settlement/",
+                "2": "https://www.npr.org/sections/thesalt/2012/04/26/151454929/nutella-maker-may-settle-deceptive-ad-lawsuit-for-3-million",
+                "3": "https://www.law360.com/classaction/articles/1363988/kellogg-buyers-say-revised-13m-false-ad-deal-is-gr-r-reat-",
+                "4": "https://www.just-food.com/news/nestle-mars-among-chocolate-makers-criticised-in-cocoa-sourcing-report/",
+                "5": "https://www.law360.com/articles/2365526/wk-kellogg-kellanova-settle-overtime-suit-for-1-5m",
+                "6": "https://topclassactions.com/lawsuit-settlements/closed-settlements/ferrara-candy-company-discrimination-class-action-settlement/",
+                "7": "https://brusselssignal.eu/2023/07/belgian-ferrero-chocolate-factory-suffers-second-salmonella-outbreak/",
+                "8": "https://www.food.gov.uk/news-alerts/news/further-kinder-products-recalled-following-an-outbreak-of-salmonella",
+                "9": "https://www.foodsafetynews.com/2025/03/study-adds-to-details-about-ferrero-salmonella-outbreak/",
+                "10": "https://www.business-humanrights.org/en/latest-news/turkey-investigation-links-ferrero-to-exploitation-of-hazelnut-pickers-child-labour-low-pay-long-hours-includes-comments-from-ferrero/",
+                "11": "https://www.confectioneryproduction.com/news/52287/ferreros-human-rights-progress-report-underlines-key-work-tackling-child-labour-issues/"
+            },
+            "sourceNotes": {
+                "1": "falsely advertising their products as healthy",
+                "2": "falsely advertising their products as healthy",
+                "3": "falsely advertising their products as healthy",
+                "4": "unethical cocoa sourcing",
+                "5": "underpaid employees",
+                "6": "racial discrimination against employees",
+                "7": "sold kinder eggs containing salmonella",
+                "8": "sold kinder eggs containing salmonella",
+                "9": "sold kinder eggs containing salmonella",
+                "10": "overworking and child labour in supply chain",
+                "11": "overworking and child labour in supply chain"
+            },
+            "tags": [
+                "food"
+            ],
+            "score": 22,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b9/Ferrero_logo.svg",
+            "siteUrl": "https://www.ferrero.com/",
+            "updatedAt": "2026-01-05T15:03:39.285Z"
+        },
+        "nutella": {
+            "names": [
+                "Nutella"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 22,
+            "ownedBy": [
+                "ferrero"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_Nutella.svg",
+            "siteUrl": "https://www.ferrero.it/NUTELLA",
+            "updatedAt": "2026-01-05T15:13:09.216Z"
+        },
+        "kinder": {
+            "names": [
+                "Kinder"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 22,
+            "ownedBy": [
+                "ferrero"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Kinder_%28Wortmarke%29_logo.svg",
+            "siteUrl": "https://kinder.com/",
+            "updatedAt": "2026-01-05T15:13:09.216Z"
+        },
+        "tic-tac": {
+            "names": [
+                "Tic Tac"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 22,
+            "ownedBy": [
+                "ferrero"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Tic_Tac_logo_2022-present.png/250px-Tic_Tac_logo_2022-present.png",
+            "siteUrl": "http://ferrero.it/tic-tac",
+            "updatedAt": "2026-01-05T15:13:09.216Z"
+        },
+        "thorntons": {
+            "names": [
+                "Thorntons",
+                "Thorntons Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 22,
+            "ownedBy": [
+                "ferrero"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Thorntons_company_logo.svg",
+            "siteUrl": "https://www.thorntons.com/",
+            "updatedAt": "2026-01-05T15:13:09.216Z"
+        },
+        "ferrara": {
+            "names": [
+                "Ferrara",
+                "Ferrara Candy Company",
+                "Ferrara Pan Candy Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 22,
+            "ownedBy": [
+                "ferrero"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Ferrara_Candy_Company_logo.svg",
+            "siteUrl": "http://www.ferrarausa.com/",
+            "updatedAt": "2026-01-05T15:13:09.216Z"
+        },
+        "nerds": {
+            "names": [
+                "Nerds"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 22,
+            "ownedBy": [
+                "ferrero"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nerds-Candies.jpg/250px-Nerds-Candies.jpg",
+            "siteUrl": "https://www.nerdscandy.com/",
+            "updatedAt": "2026-01-05T15:13:09.216Z"
+        },
+        "jelly-belly": {
+            "names": [
+                "Jelly Belly"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 22,
+            "ownedBy": [
+                "ferrero"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/48/Jelly_Belly_Logo.svg",
+            "siteUrl": "http://jellybelly.com/",
+            "updatedAt": "2026-01-05T15:13:09.216Z"
+        },
+        "fox's": {
+            "names": [
+                "Fox's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 22,
+            "ownedBy": [
+                "ferrero"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/Fox%27s_Biscuits_logo.png/250px-Fox%27s_Biscuits_logo.png",
+            "siteUrl": "http://www.foxs-biscuits.co.uk/",
+            "updatedAt": "2026-01-05T15:13:09.216Z"
+        },
+        "eat-natural": {
+            "names": [
+                "Eat Natural"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 22,
+            "ownedBy": [
+                "ferrero"
+            ],
+            "logoUrl": "https://www.ferrero.com/int/sites/ferrero_int/files/2023-06/eat_natural.jpg",
+            "siteUrl": "https://www.eatnatural.com/",
+            "updatedAt": "2026-01-05T15:13:09.216Z"
+        },
+        "halo-top": {
+            "names": [
+                "Halo Top"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 22,
+            "ownedBy": [
+                "ferrero"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c6/Halo_Top_Creamery_logo.png",
+            "siteUrl": "http://halotop.com/",
+            "updatedAt": "2026-01-05T15:13:09.216Z"
+        },
+        "mon-cheri": {
+            "names": [
+                "Mon Cheri",
+                "Mon Chéri"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 22,
+            "ownedBy": [
+                "ferrero"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Ferrero_moncheri_logo.png/203px-Ferrero_moncheri_logo.png",
+            "siteUrl": "https://www.ferrero.it/prodotti/praline-e-specialita-ferrero/mon-cheri/",
+            "updatedAt": "2026-01-05T15:13:09.216Z"
+        },
+        "raffaello": {
+            "names": [
+                "Raffaello"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 22,
+            "ownedBy": [
+                "ferrero"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Raffaello_brand_logo.png/250px-Raffaello_brand_logo.png",
+            "siteUrl": "https://www.ferrero.it/Raffaello",
+            "updatedAt": "2026-01-05T15:13:09.216Z"
         }
     }
 }
