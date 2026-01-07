@@ -14038,6 +14038,122 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Raffaello_brand_logo.png/250px-Raffaello_brand_logo.png",
             "siteUrl": "https://www.ferrero.it/Raffaello",
             "updatedAt": "2026-01-05T15:13:09.216Z"
+        },
+        "first-choice": {
+            "names": [
+                "First Choice"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel"
+            ],
+            "score": null,
+            "ownedBy": [
+                "tui"
+            ],
+            "logoUrl": "https://ukp.tcb-cdn.com/images/ex-desc/firstchoice-logo-oct23.png",
+            "siteUrl": "http://www.firstchoice.co.uk/",
+            "updatedAt": "2026-01-06T06:10:28.431Z"
+        },
+        "tui": {
+            "names": [
+                "TUI",
+                "TUI Group",
+                "TUI AG",
+                "Touristik Union International"
+            ],
+            "comment": "TUI is a German tourism company that has been accused of false advertising [1], breaching ABTA guidelines [2], and selling tickets to marine parks that abuse orcas [3][4][5]. The company has also caused customers to become ill [6][7][8], used fake parts in its planes [9][10], and enforced the biggest gender pay gap in any UK company [11].",
+            "sources": {
+                "1": "https://www.sundaypost.com/fp/travel-companies-jet2holidays-and-tui-have-adverts-banned-for-misleading-claims/",
+                "2": "https://www.bbc.co.uk/news/business-39000881",
+                "3": "https://secure.peta.org.uk/page/31471/action/1?locale=en-GB",
+                "4": "https://www.peta.org.uk/blog/tui/",
+                "5": "https://www.euronews.com/travel/2022/10/06/swimming-with-dolphins-thousands-call-on-tui-to-stop-selling-cruel-trips",
+                "6": "https://www.gbnews.com/news/tui-sued-tourists-holidaymakers-luxury-hotels",
+                "7": "https://uk.news.yahoo.com/tui-faces-legal-action-836-143442793.html",
+                "8": "https://www.hudgellsolicitors.co.uk/client-stories/tui-agrees-damages-holidaymaker-needed-hospital-treatment-after-being-diagnosed-with-legionnaires-disease-after-trip-india#:~:text=Post%20Office%20Scandal%20%2D%3E%20%C2%B7%20Post%20Office%20IT%20Scandal%20%2D%3E%20%C2%B7%20Horizon%20Convictions%20Redress&text=TUI%20agrees%20damages%20for%20holidaymaker%20who%20needed%20hospital%20treatment",
+                "9": "https://www.independent.co.uk/news/uk/home-news/aog-technics-planes-tui-aircraft-parts-b2423123.html",
+                "10": "https://simpleflying.com/tui-impacted-parts-with-forged-safety-records/",
+                "11": "https://www.theguardian.com/society/2018/feb/16/tui-travel-group-male-employees-paid-more-than-double-female-staff-report"
+            },
+            "sourceNotes": {
+                "1": "false advertising",
+                "2": "breached ABTA guidelines",
+                "3": "sells tickets to marine parks abusing orcas",
+                "4": "sells tickets to marine parks abusing orcas",
+                "5": "sells tickets to marine parks abusing orcas",
+                "6": "made customers ill",
+                "7": "made customers ill",
+                "8": "made customers ill",
+                "9": "fake parts found in its planes",
+                "10": "fake parts found in its planes",
+                "11": "biggest gender pay gap in the UK"
+            },
+            "tags": [
+                "travel"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/TUI_Logo_2016.svg",
+            "siteUrl": "https://www.tuigroup.com/en-en",
+            "updatedAt": "2026-01-07T08:44:14.019Z"
+        },
+        "marella": {
+            "names": [
+                "Marella",
+                "Marella Cruises"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "tui"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Marella_Cruises_logo.png/250px-Marella_Cruises_logo.png",
+            "siteUrl": "http://tui.co.uk/cruise.html",
+            "updatedAt": "2026-01-07T16:23:16.426Z"
+        },
+        "hapag-lloyd-cruises": {
+            "names": [
+                "Hapag-Lloyd cruises"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "tui"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Hapag-Lloyd_Cruises_logo.svg",
+            "siteUrl": "https://www.hl-cruises.com/",
+            "updatedAt": "2026-01-07T16:23:16.426Z"
+        },
+        "robinson-club": {
+            "names": [
+                "Robinson Club"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "travel"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "tui"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/ROBINSON.svg",
+            "siteUrl": "http://www.robinson.com/",
+            "updatedAt": "2026-01-07T16:23:16.426Z"
         }
     }
 }
