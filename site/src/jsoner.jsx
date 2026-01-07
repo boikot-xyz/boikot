@@ -65,12 +65,14 @@ const sortSources = setState => () => setState( state => {
     }
 
     const newSources = {};
+    const newSourceNotes = {};
     let newComment = state.comment;
     for( const key of keys ) {
         newComment = newComment.replace(
             `[${key}]`, `[%${newKeyMap[key]}]`
         );
         newSources[newKeyMap[key]] = state.sources[key];
+        newSourceNotes[newKeyMap[key]] = state.sourceNotes[key];
     }
     for( const key of keys ) {
         newComment = newComment.replace(
@@ -78,7 +80,7 @@ const sortSources = setState => () => setState( state => {
         );
     }
 
-    return { ...state, comment: newComment, sources: newSources };
+    return { ...state, comment: newComment, sources: newSources, sourceNotes: newSourceNotes };
 });
 
 function generatePrompt( state ) {
@@ -501,13 +503,13 @@ export function Jsoner() {
             { /* <PillButton $outline onClick={addSource}>
                 add source  🔗
             </PillButton> */ }
-            { /* showSources &&
+            { showSources &&
                 <PillButton
                     $outline
                     style={{ justifySelf: "right" }}
                     onClick={sortSources(setState)}>
                     sort sources  🃏
-                </PillButton> */ }
+                </PillButton> }
         </FlexRow>
         <Entry $valid={!!state.comment}>
             comment
