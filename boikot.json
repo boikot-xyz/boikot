@@ -14154,6 +14154,93 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/ROBINSON.svg",
             "siteUrl": "http://www.robinson.com/",
             "updatedAt": "2026-01-07T16:23:16.426Z"
+        },
+        "energizer": {
+            "names": [
+                "Energizer",
+                "Energizer Holdings, Inc.",
+                "Energizer Holdings",
+                "ENR"
+            ],
+            "comment": "Energizer is an American battery company that engaged in false advertising [1], price fixing and monopolistic anti‑competitive practices [2][3], and has poisoned hudreds of its workers with cadmium [4].",
+            "sources": {
+                "1": "https://news.bloomberglaw.com/litigation/energizer-deceptive-ad-suit-dismissal-gets-affirmed-at-9th-cir",
+                "2": "https://www.cohenmilstein.com/case-study/energizer-batteries-antitrust-litigation/",
+                "3": "https://www.mlex.com/mlex/articles/2348687/energizer-walmart-hit-with-amended-us-antitrust-complaint-over-batteries",
+                "4": "https://pulitzercenter.org/stories/china-powerless-fight-poison"
+            },
+            "sourceNotes": {
+                "1": "false advertising",
+                "2": "price fixing, monopolistic anticompetetive practices",
+                "3": "price fixing, monopolistic anticompetetive practices",
+                "4": "poisoned workers with cadmium"
+            },
+            "tags": [
+                "electronics",
+                "consumer goods"
+            ],
+            "score": 34,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Energizer_holdings_inc_logo.svg",
+            "siteUrl": "https://energizerholdings.com/",
+            "updatedAt": "2026-01-02T17:28:41.538Z"
+        },
+        "eveready": {
+            "names": [
+                "Eveready"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "electronics",
+                "consumer goods"
+            ],
+            "score": 34,
+            "ownedBy": [
+                "energizer"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/EvereadyLogo.jpg/250px-EvereadyLogo.jpg",
+            "siteUrl": "https://eveready.com/",
+            "updatedAt": "2026-01-08T09:24:41.373Z"
+        },
+        "varta": {
+            "names": [
+                "VARTA"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "electronics",
+                "consumer goods"
+            ],
+            "score": 34,
+            "ownedBy": [
+                "energizer"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Varta-logo-2021.svg",
+            "siteUrl": "https://www.varta-ag.com/",
+            "updatedAt": "2026-01-08T09:24:41.373Z"
+        },
+        "armor-all": {
+            "names": [
+                "Armor All"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "electronics",
+                "consumer goods"
+            ],
+            "score": 34,
+            "ownedBy": [
+                "energizer"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/82/Armor_All_logo.png/250px-Armor_All_logo.png",
+            "siteUrl": "https://www.armorall.com/",
+            "updatedAt": "2026-01-08T09:24:41.373Z"
         }
     }
 }
