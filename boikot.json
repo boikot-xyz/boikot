@@ -14260,6 +14260,30 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Fitbit_logo16.svg",
             "siteUrl": "http://store.google.com/category/watches_trackers",
             "updatedAt": "2026-01-10T01:56:53.443Z"
+        },
+        "fjallraven": {
+            "names": [
+                "Fjällräven",
+                "Fjallraven"
+            ],
+            "comment": "Fjällräven is a Swedish company that has faced criticism for animal cruelty in its supply chain [1][2].",
+            "sources": {
+                "1": "https://www.advnture.com/news/fjallraven-and-helly-hansen-suppliers-accused-of-animal-cruelty-following-controversial-investigation",
+                "2": "https://www.peta.org.uk/media/news-releases/fjallraven-helly-hansen-implicated-in-peta-expose-revealing-sheep-beaten-whipped-and-killed/"
+            },
+            "sourceNotes": {
+                "1": "connected to animal cruelty",
+                "2": "connected to animal cruelty"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/58/Fj%C3%A4llr%C3%A4ven_logo.svg",
+            "siteUrl": "http://fjallraven.com/",
+            "updatedAt": "2026-01-10T09:32:11.437Z"
         }
     }
 }
