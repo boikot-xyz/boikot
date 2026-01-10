@@ -14241,6 +14241,25 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/82/Armor_All_logo.png/250px-Armor_All_logo.png",
             "siteUrl": "https://www.armorall.com/",
             "updatedAt": "2026-01-08T09:24:41.373Z"
+        },
+        "fitbit": {
+            "names": [
+                "Fitbit"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech",
+                "health"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "google"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Fitbit_logo16.svg",
+            "siteUrl": "http://store.google.com/category/watches_trackers",
+            "updatedAt": "2026-01-10T01:56:53.443Z"
         }
     }
 }
