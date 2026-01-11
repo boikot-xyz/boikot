@@ -14284,6 +14284,133 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/58/Fj%C3%A4llr%C3%A4ven_logo.svg",
             "siteUrl": "http://fjallraven.com/",
             "updatedAt": "2026-01-10T09:32:11.437Z"
+        },
+        "flora": {
+            "names": [
+                "Flora"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "flora-food-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/ac/Flora_Food_Group.png/250px-Flora_Food_Group.png",
+            "siteUrl": "https://florafoodgroup.com/",
+            "updatedAt": "2026-01-11T12:13:40.870Z"
+        },
+        "flora-food-group": {
+            "names": [
+                "Flora Food Group",
+                "Flora Food Group B.V."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "kkr"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/ac/Flora_Food_Group.png/250px-Flora_Food_Group.png",
+            "siteUrl": "https://florafoodgroup.com/",
+            "updatedAt": "2026-01-11T12:13:40.870Z"
+        },
+        "country-crock": {
+            "names": [
+                "Country Crock"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "flora-food-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Country_Crock_Masterbrand_Logo.png/250px-Country_Crock_Masterbrand_Logo.png",
+            "siteUrl": "https://florafoodgroup.com/",
+            "updatedAt": "2026-01-11T12:13:40.870Z"
+        },
+        "blue-band": {
+            "names": [
+                "Blue Band"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "flora-food-group"
+            ],
+            "logoUrl": "https://www.blueband.com/en-ke/-/media/Project/Upfield/Brands/Blue-Band-Global/Blue-Band-Consumer-KE/Assets/Logos/BB-logo-mobile.svg?iar=0&rev=-1",
+            "siteUrl": "https://www.blueband.com/en-ke/products/blue-band-spread-for-bread",
+            "updatedAt": "2026-01-11T12:13:40.870Z"
+        },
+        "stork": {
+            "names": [
+                "Stork"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "flora-food-group"
+            ],
+            "logoUrl": "https://www.bakewithstork.com/-/media/Project/Upfield/Whitelabels/Bake-With-Stork-UK/Logos/stork_last_logo.png?h=120&iar=0&w=208&rev=d36584e68b934b24bc824823fe164969",
+            "siteUrl": "https://www.bakewithstork.com/",
+            "updatedAt": "2026-01-11T12:13:40.870Z"
+        },
+        "i-can't-believe-it's-not-butter!": {
+            "names": [
+                "I Can't Believe It's Not Butter!"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "flora-food-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/NotButter.jpg/250px-NotButter.jpg",
+            "siteUrl": "https://www.icantbelieveitsnotbutter.com/",
+            "updatedAt": "2026-01-11T12:13:40.870Z"
+        },
+        "becel": {
+            "names": [
+                "Becel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "flora-food-group"
+            ],
+            "logoUrl": "https://www.becel.com/-/media/Project/Upfield/Brands/Becel-NL/Becel-Splash/Becel-logo.png?rev=f9f5478e04ce40bbbb22451a609f34c8",
+            "siteUrl": "http://www.becel.ca/",
+            "updatedAt": "2026-01-11T12:13:40.870Z"
         }
     }
 }
