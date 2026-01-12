@@ -14411,6 +14411,24 @@
             "logoUrl": "https://www.becel.com/-/media/Project/Upfield/Brands/Becel-NL/Becel-Splash/Becel-logo.png?rev=f9f5478e04ce40bbbb22451a609f34c8",
             "siteUrl": "http://www.becel.ca/",
             "updatedAt": "2026-01-11T12:13:40.870Z"
+        },
+        "folgers": {
+            "names": [
+                "Folgers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "coffee"
+            ],
+            "score": null,
+            "ownedBy": [
+                "jm-smucker"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/FolgersLogo.png/250px-FolgersLogo.png",
+            "siteUrl": "https://www.folgerscoffee.com/",
+            "updatedAt": "2026-01-12T19:10:11.661Z"
         }
     }
 }
