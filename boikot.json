@@ -14429,6 +14429,30 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/FolgersLogo.png/250px-FolgersLogo.png",
             "siteUrl": "https://www.folgerscoffee.com/",
             "updatedAt": "2026-01-12T19:10:11.661Z"
+        },
+        "fossil": {
+            "names": [
+                "Fossil",
+                "Fossil Group, Inc.",
+                "Fossil Group",
+                "FOSL"
+            ],
+            "comment": "Fossil is an American clothing and accessory company that is alleged to have engaged in deceptive pricing [1].",
+            "sources": {
+                "1": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/shoppers-accuse-fossil-of-deceptive-reference-pricing-scheme/"
+            },
+            "sourceNotes": {
+                "1": "deceptive pricing"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 49,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Fossil_Group.png",
+            "siteUrl": "http://fossilgroup.com/",
+            "updatedAt": "2026-01-14T18:09:01.064Z"
         }
     }
 }
