@@ -14453,6 +14453,22 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Fossil_Group.png",
             "siteUrl": "http://fossilgroup.com/",
             "updatedAt": "2026-01-14T18:09:01.064Z"
+        },
+        "friskies": {
+            "names": [
+                "Friskies"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [],
+            "score": 10,
+            "ownedBy": [
+                "nestle"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/25/Logo_friskies_site.png",
+            "siteUrl": "https://www.purina.com/friskies",
+            "updatedAt": "2026-01-15T22:44:10.007Z"
         }
     }
 }
