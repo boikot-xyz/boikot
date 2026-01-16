@@ -14469,6 +14469,38 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/25/Logo_friskies_site.png",
             "siteUrl": "https://www.purina.com/friskies",
             "updatedAt": "2026-01-15T22:44:10.007Z"
+        },
+        "loveholidays": {
+            "names": [
+                "Loveholidays",
+                "We Love Holidays Ltd",
+                "loveholidays"
+            ],
+            "comment": "Loveholidays is a British online holiday booking platform that has allowed customers to fall victim to scams [1][2][3] and misleading pricing [4][5] as well as sending customers to closed hotels [6].",
+            "sources": {
+                "1": "https://www.bbc.co.uk/news/articles/c778xg2zgrvo",
+                "2": "https://www.express.co.uk/travel/articles/1312939/loveholidays-warning-fraud-scam-holidays-refunds-2020-Facebook",
+                "3": "https://www.msn.com/en-gb/travel/news/manchester-family-claim-loveholidays-1-800-five-star-resort-was-scam/ar-AA1KRE4D",
+                "4": "https://www.lewissilkin.com/insights/2025/07/23/love-holidays-but-dislike-misleading-price-claims-so-does-the-asa-102kv4m",
+                "5": "https://travelweekly.co.uk/news/loveholidays-adverts-misled-customers-with-price-discount-claims-watchdog-rules",
+                "6": "https://www.which.co.uk/news/article/loveholidays-customers-beings-sent-to-padlocked-hotels-afTen1t8ekaO"
+            },
+            "sourceNotes": {
+                "1": "allowed customers to fall victim to scams",
+                "2": "allowed customers to fall victim to scams",
+                "3": "allowed customers to fall victim to scams",
+                "4": "misleading pricing",
+                "5": "misleading pricing",
+                "6": "sent customers to closed hotels"
+            },
+            "tags": [
+                "travel"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://cdn.tgvg.net/dyn/eY/19/eY19aU9OyAA/_/yQhLmznjKO0/xFbB/loveholidays.jpg?auto=webp&width=3840&quality=75&enable=upscale",
+            "siteUrl": "https://www.loveholidays.com/",
+            "updatedAt": "2026-01-16T13:38:30.077Z"
         }
     }
 }
