@@ -14501,6 +14501,41 @@
             "logoUrl": "https://cdn.tgvg.net/dyn/eY/19/eY19aU9OyAA/_/yQhLmznjKO0/xFbB/loveholidays.jpg?auto=webp&width=3840&quality=75&enable=upscale",
             "siteUrl": "https://www.loveholidays.com/",
             "updatedAt": "2026-01-16T13:38:30.077Z"
+        },
+        "funko": {
+            "names": [
+                "Funko",
+                "Funko Inc.",
+                "FNKO"
+            ],
+            "comment": "Funko is a U.S.-based company that has misled customers [1][2] and has engaged in an excessive use of DMCA to take down innocent websites [3][4]. It has also been criticized for sending $30 million worth of stock to landfill [5][6][7].",
+            "sources": {
+                "1": "https://www.the-sun.com/money/14072219/funko-toy-maker-checks-misleading-class-action-settlement/",
+                "2": "https://www.valueaddedresource.net/funko-2-million-lawsuit-misleading-statements/",
+                "3": "https://game-whisper.com/2024/12/10/funko-pop-issues-a-non-apology-full-of-holes-over-itch-io-takedown/",
+                "4": "https://gamerant.com/funko-itchio-controversy-response/",
+                "5": "https://www.businessinsider.com/funko-pop-sends-plastic-figurines-to-dump-excess-inventory-2023-3",
+                "6": "https://www.businessinsider.com/funko-pop-sends-plastic-figurines-to-dump-excess-inventory-2023-3",
+                "7": "https://www.npr.org/2023/03/04/1161070238/funko-pop-landfill"
+            },
+            "sourceNotes": {
+                "1": "misled customers",
+                "2": "misled customers",
+                "3": "excessive use of DMCA to take down innocent websites",
+                "4": "excessive use of DMCA to take down innocent websites",
+                "5": "wasted $30 million worth of stock",
+                "6": "wasted $30 million worth of stock",
+                "7": "wasted $30 million worth of stock"
+            },
+            "tags": [
+                "retail",
+                "toys"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cc/Funko.svg",
+            "siteUrl": "https://www.funko.com/",
+            "updatedAt": "2026-01-17T11:16:45.330Z"
         }
     }
 }
