@@ -14536,6 +14536,38 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cc/Funko.svg",
             "siteUrl": "https://www.funko.com/",
             "updatedAt": "2026-01-17T11:16:45.330Z"
+        },
+        "gamestop": {
+            "names": [
+                "Gamestop"
+            ],
+            "comment": "Gamestop is an American video‑game retailer whose CEO has issued anti‑DEI statements [1] and has engaged in anti‑consumer practices [2]; its stores have been reported to have poor working conditions [3][4] and the company has leaked customer data to Facebook [5][6].",
+            "sources": {
+                "1": "https://thehill.com/business/5152167-gamestop-ceo-attacks-wokeness/",
+                "2": "https://www.gamespot.com/articles/gamestop-cuts-coupon-ethical-corners/1100-6330897/",
+                "3": "https://geekoutpost.com/gamestop-sucks/",
+                "4": "https://kotaku.com/we-are-all-scared-for-our-jobs-gamestop-employees-talk-1791963185",
+                "5": "https://www.gamespot.com/articles/heres-how-to-get-free-money-from-gamestop-maybe/1100-6532337/",
+                "6": "https://www.claimdepot.com/settlements/gamestop-vppa-settlement"
+            },
+            "sourceNotes": {
+                "1": "anti-DEI statements by CEO",
+                "2": "anticonsumer practices",
+                "3": "poor working conditions",
+                "4": "poor working conditions",
+                "5": "leaked customer data to facebook",
+                "6": "leaked customer data to facebook"
+            },
+            "tags": [
+                "videogames",
+                "entertainment",
+                "retail"
+            ],
+            "score": 41,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/GameStop_Logo.svg",
+            "siteUrl": "http://gamestop.com/",
+            "updatedAt": "2026-01-18T11:01:16.246Z"
         }
     }
 }
