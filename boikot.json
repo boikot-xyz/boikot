@@ -14568,6 +14568,34 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/GameStop_Logo.svg",
             "siteUrl": "http://gamestop.com/",
             "updatedAt": "2026-01-18T11:01:16.246Z"
+        },
+        "garmin": {
+            "names": [
+                "Garmin",
+                "Garmin Ltd.",
+                "ProNav",
+                "GRMN"
+            ],
+            "comment": "Garmin is a US-based technology company that has been accused of hiding features behind paywalls [1] and engaging in false advertising [2], and has also illegally fired pregnant migrant workers [3].",
+            "sources": {
+                "1": "https://finance.yahoo.com/news/bad-news-garmin-users-future-094951033.html?guccounter=1",
+                "2": "https://www.ragtrader.com.au/news/fitness-watchmaker-garmin-forced-to-pull-claims",
+                "3": "https://newbloommag.net/2023/05/08/garmin-migrant-worker/"
+            },
+            "sourceNotes": {
+                "1": "hides features behind paywalls",
+                "2": "false advertising",
+                "3": "illegally fired pregant migrant workers"
+            },
+            "tags": [
+                "electronics",
+                "tech"
+            ],
+            "score": 37,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/1d/Garmin_2024_logo.svg",
+            "siteUrl": "http://garmin.com/",
+            "updatedAt": "2026-01-19T19:27:17.045Z"
         }
     }
 }
