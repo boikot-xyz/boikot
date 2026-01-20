@@ -14596,6 +14596,24 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/1d/Garmin_2024_logo.svg",
             "siteUrl": "http://garmin.com/",
             "updatedAt": "2026-01-19T19:27:17.045Z"
+        },
+        "geico": {
+            "names": [
+                "Geico"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "insurance"
+            ],
+            "score": null,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Geico_logo.svg",
+            "siteUrl": "https://www.geico.com/",
+            "updatedAt": "2026-01-20T10:01:17.307Z"
         }
     }
 }
