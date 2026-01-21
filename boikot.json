@@ -14614,6 +14614,26 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Geico_logo.svg",
             "siteUrl": "https://www.geico.com/",
             "updatedAt": "2026-01-20T10:01:17.307Z"
+        },
+        "ghirardelli": {
+            "names": [
+                "Ghirardelli",
+                "Ghirardelli Chocolate Company",
+                "The Ghirardelli Chocolate Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "lindt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/49/Ghirardelli_Chocolate_Company_logo.webp",
+            "siteUrl": "https://www.ghirardelli.com/",
+            "updatedAt": "2026-01-21T10:36:24.663Z"
         }
     }
 }
