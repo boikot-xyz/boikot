@@ -14634,6 +14634,24 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/49/Ghirardelli_Chocolate_Company_logo.webp",
             "siteUrl": "https://www.ghirardelli.com/",
             "updatedAt": "2026-01-21T10:36:24.663Z"
+        },
+        "glade": {
+            "names": [
+                "Glade"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "sc-johnson"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Glade_logo_2.gif",
+            "siteUrl": "http://www.glade.com/",
+            "updatedAt": "2026-01-22T20:14:47.901Z"
         }
     }
 }
