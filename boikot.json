@@ -14693,6 +14693,37 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Glade_logo_2.gif",
             "siteUrl": "http://www.glade.com/",
             "updatedAt": "2026-01-22T20:14:47.901Z"
+        },
+        "gopro": {
+            "names": [
+                "GoPro",
+                "GoPro, Inc.",
+                "goPRO",
+                "GPRO"
+            ],
+            "comment": "",
+            "sources": {
+                "1": "https://www.ft.com/content/1e997764-b71d-11e6-ba85-95d1533d9a62",
+                "2": "https://portal.ct.gov/-/media/ag/press_releases/2015/20150715ficollectiontotalsfy15pdf.pdf?rev=7aeb8fc23b8a4591bd5fad8746d8f241&hash=93E758C9AB23DDEEFAE3CEAF9C11B992",
+                "3": "https://www.youtube.com/watch?v=XW_jl6tR1EA",
+                "4": "https://community.gopro.com/s/question/0D58a0000AGqwTECQZ/go-pro-hero-11-is-not-water-proof?language=en_US",
+                "5": "https://chinalaborwatch.org/labor-conditions-in-chinas-consumer-electronics-sector/"
+            },
+            "sourceNotes": {
+                "1": "laid off hundreds of employees",
+                "2": "tax avoidance",
+                "3": "misleading advertising/design flaws in cameras",
+                "4": "misleading advertising/design flaws in cameras",
+                "5": "forced labour in supply chain"
+            },
+            "tags": [
+                "electronics"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/GoPro_logo_light.svg",
+            "siteUrl": "https://gopro.com/",
+            "updatedAt": "2026-01-23T12:28:29.126Z"
         }
     }
 }
