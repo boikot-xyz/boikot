@@ -11498,6 +11498,47 @@
             "siteUrl": "https://www.dyson.com/",
             "updatedAt": "2025-12-26T23:00:26.303Z"
         },
+        "foot-locker": {
+            "names": [
+                "Foot Locker"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "dick's-sporting-goods"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c7/FootLockerInc.svg",
+            "siteUrl": "http://footlocker.com/",
+            "updatedAt": "2026-01-13T20:50:35.063Z"
+        },
+        "grubhub": {
+            "names": [
+                "Grubhub",
+                "Grubhub Inc.",
+                "GRUBHUB",
+                "GRUB"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "tech"
+            ],
+            "score": null,
+            "ownedBy": [
+                "wonder"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Grubhub_2025_logo.svg",
+            "siteUrl": "https://www.grubhub.com/",
+            "updatedAt": "2026-01-24T09:05:56.980Z"
+        },
         "domestos": {
             "names": [
                 "Domestos"
