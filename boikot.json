@@ -14724,6 +14724,53 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/GoPro_logo_light.svg",
             "siteUrl": "https://gopro.com/",
             "updatedAt": "2026-01-23T12:28:29.126Z"
+        },
+        "gsk": {
+            "names": [
+                "GSK",
+                "GSK plc",
+                "GlaxoSmithKline plc",
+                "GlaxoSmithKline",
+                "Glaxo Wellcome",
+                "SmithKline Beecham",
+                "Smith, Kline & French"
+            ],
+            "comment": "GSK is a British pharmaceutical company that has been implicated in tax avoidance [1], market manipulation and anticompetitive practices [2], and continued operations in Russia despite international pressure [3][4]. The company has engaged in widespread bribery of doctors [5][6][7][8], fraud, drug safety violations, and the illegal manufacturing and sale of contaminated drugs [9][10][11].",
+            "sources": {
+                "1": "https://web.archive.org/web/20170329043037/http://www.nytimes.com/2006/09/12/business/worldbusiness/12glaxo.html",
+                "2": "https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/finance/newsbysector/pharmaceuticalsandchemicals/12153450/Watchdog-fines-GSK-37m-for-paying-to-keep-generic-drugs-out-of-UK-market.html",
+                "3": "https://www.reuters.com/business/healthcare-pharmaceuticals/gsk-supply-essential-medicines-russia-halts-clinical-trials-2022-03-17/",
+                "4": "https://www.inquirer.com/business/big-pharma-russia-ukraine-merck-johnson-and-johnson-pfizer-gsk-20220311.html",
+                "5": "https://web.archive.org/web/20220831183705/https://www.theguardian.com/world/2004/may/27/italy.heatherstewart",
+                "6": "https://web.archive.org/web/20151017042412/http://www.ncbi.nlm.nih.gov/pmc/articles/PMC420312/pdf/bmj3281333a.pdf",
+                "7": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC420312",
+                "8": "https://web.archive.org/web/20220221193748/https://www.reuters.com/article/us-britain-fraud-sfo-gsk-idUSKBN0FS1U320140723",
+                "9": "https://web.archive.org/web/20230405082107/https://www.nytimes.com/2010/10/27/business/27drug.html",
+                "10": "https://web.archive.org/web/20140909141736/http://www.justice.gov/opa/pr/2012/July/12-civ-842.html",
+                "11": "https://www.theguardian.com/business/2012/jul/03/glaxosmithkline-fined-bribing-doctors-pharmaceuticals"
+            },
+            "sourceNotes": {
+                "1": "tax avoidance",
+                "2": "market manipulation and anticompetetive practices",
+                "3": "continued operations in russia",
+                "4": "continued operations in russia",
+                "5": "bribed doctors",
+                "6": "bribed doctors",
+                "7": "bribed doctors",
+                "8": "bribed doctors",
+                "9": "illegally manufactured and sold contaminated drugs",
+                "10": "fraud, drug safety violations, and bribery",
+                "11": "fraud, drug safety violations, and bribery"
+            },
+            "tags": [
+                "pharmaceuticals",
+                "consumer goods"
+            ],
+            "score": 5,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/GSK_logo_2022.svg",
+            "siteUrl": "http://gsk.com/",
+            "updatedAt": "2026-01-25T09:50:44.120Z"
         }
     }
 }
