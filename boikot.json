@@ -14676,6 +14676,25 @@
             "siteUrl": "https://www.ghirardelli.com/",
             "updatedAt": "2026-01-21T10:36:24.663Z"
         },
+        "haagen-dazs": {
+            "names": [
+                "Häagen-Dazs"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "nestle",
+                "general-mills"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/H%C3%A4agen-Dazs_Logo.svg",
+            "siteUrl": "https://www.icecream.com/us/en/brands/haagen-dazs",
+            "updatedAt": "2026-01-26T17:16:32.006Z"
+        },
         "glade": {
             "names": [
                 "Glade"
