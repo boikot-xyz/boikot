@@ -14790,6 +14790,47 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/GSK_logo_2022.svg",
             "siteUrl": "http://gsk.com/",
             "updatedAt": "2026-01-25T09:50:44.120Z"
+        },
+        "halfords": {
+            "names": [
+                "Halfords",
+                "Halfords Group",
+                "Halfords Group plc",
+                "Halfords Group PLC",
+                "Halfords Autocentre",
+                "HFD"
+            ],
+            "comment": "Halfords is a British automotive retailer that has engaged in fraudulent MOT testing [1] and has been repeatedly accused of racial discrimination against employees [2][3][4] and customers [5], as well as discrimination against disabled employees [6][7]. The company has also been cited for misuse of personal data [8][9].",
+            "sources": {
+                "1": "https://garagewire.co.uk/news/mot-news/halfords-mot-tester-admits-issuing-31-fraudulent-certificates/",
+                "2": "https://www.independent.co.uk/news/uk/home-news/halfords-race-discrimination-court-claim-b2142508.html",
+                "3": "https://www.mylondon.news/news/south-london-news/south-london-halfords-manager-racially-26484932",
+                "4": "https://www.mirror.co.uk/news/uk-news/two-halfords-staff-axed-racism-7323072",
+                "5": "https://racism-at-halfords.blogspot.com/",
+                "6": "https://www.gov.uk/employment-tribunal-decisions/mr-p-withers-v-halfords-autocentres-ltd-3300451-slash-2022",
+                "7": "https://hrreview.co.uk/hr-news/employment-law/halfords-ordered-to-implement-new-edi-training-following-discrimination-case/372613",
+                "8": "https://www.lewissilkin.com/insights/2022/09/15/no-means-no-ico-fines-halfords-for-misuse-of-consent-over-nearly-500-000-emails-102hwhv",
+                "9": "https://www.mils.co.uk/legal-articles/halfords-fined-for-sending-nearly-500000-unwanted-marketing-emails/"
+            },
+            "sourceNotes": {
+                "1": "fraudulent MOT tests given",
+                "2": "racial discrimination against employees",
+                "3": "racial discrimination against employees",
+                "4": "racial discrimination against employees",
+                "5": "racial discrimination against customers",
+                "6": "discrimination against disabled employees",
+                "7": "discrimination against disabled employees",
+                "8": "misuse of personal data",
+                "9": "misuse of personal data"
+            },
+            "tags": [
+                "retail"
+            ],
+            "score": 42,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/36/Halfords_logo.svg",
+            "siteUrl": "https://www.halfords.com/",
+            "updatedAt": "2026-01-26T09:11:22.664Z"
         }
     }
 }
