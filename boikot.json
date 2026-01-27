@@ -14831,6 +14831,25 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/36/Halfords_logo.svg",
             "siteUrl": "https://www.halfords.com/",
             "updatedAt": "2026-01-26T09:11:22.664Z"
+        },
+        "boardman-bikes": {
+            "names": [
+                "Boardman Bikes"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "sports"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "halfords"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Boardman_logo_2015.svg",
+            "siteUrl": "https://www.boardmanbikes.com/",
+            "updatedAt": "2026-01-27T11:51:40.919Z"
         }
     }
 }
