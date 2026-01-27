@@ -274,6 +274,34 @@ export function Score({ score }) {
 }
 
 
+function Logo({ entry }) {
+    const companyName = entry.names[0];
+    const initials = companyName.split(" ").map(s => s[0]?.toUpperCase()).filter(i => !!i).join("");
+    const alt = companyName.length > 12 ? initials : companyName;
+    const [fontFamily, sizeMultiplier] = [
+        ["Michroma", 0.86],
+        ["Cinzel", 1],
+        ["Playfair Display", 1.24]
+    ][companyName.length % 3];
+
+    return <img src={entry.logoUrl}
+        alt={alt}
+        style={{
+            fontFamily,
+            maxWidth: "2.5rem",
+            maxHeight: "2.5rem",
+            objectFit: "contain",
+            fontSize: `${(0.8 * 1.09 ** (-alt.length)) * sizeMultiplier}rem`,
+            fontWeight: "600",
+            color: "var(--bg)",
+            wordWrap: "anywhere",
+            textAlign: "center",
+            lineHeight: 1,
+        }}
+    />;
+}
+
+
 export function CompanyHeader({ entry, link = false }) {
     const companyURL =
         `/companies/${slugify(entry.names[0]).toLowerCase()}`;
@@ -293,19 +321,7 @@ export function CompanyHeader({ entry, link = false }) {
                     display: "grid",
                     placeItems: "center",
                 }}>
-                <img src={entry.logoUrl}
-                    alt={`${entry.names[0]}`}
-                    style={{
-                        maxWidth: "2.5rem",
-                        maxHeight: "2.5rem",
-                        objectFit: "contain",
-                        fontSize: "0.6rem",
-                        fontWeight: "600",
-                        color: "var(--bg)",
-                        wordWrap: "anywhere",
-                        textAlign: "center",
-                    }}
-                />
+                <Logo entry={entry} />
             </div>
             <Stack gap="0" style={{ marginRight: "0.1rem" }}>
                 <h3 style={{ textDecoration: link && "underline", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
