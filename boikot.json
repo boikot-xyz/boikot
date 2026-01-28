@@ -14833,6 +14833,24 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Boardman_logo_2015.svg",
             "siteUrl": "https://www.boardmanbikes.com/",
             "updatedAt": "2026-01-27T11:51:40.919Z"
+        },
+        "halifax": {
+            "names": [
+                "Halifax"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "bank"
+            ],
+            "score": null,
+            "ownedBy": [
+                "lloyds"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d9/Halifax_logo.svg",
+            "siteUrl": "http://www.halifax.co.uk/",
+            "updatedAt": "2026-01-28T19:21:44.236Z"
         }
     }
 }
