@@ -14851,6 +14851,43 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d9/Halifax_logo.svg",
             "siteUrl": "http://www.halifax.co.uk/",
             "updatedAt": "2026-01-28T19:21:44.236Z"
+        },
+        "harley-davidson": {
+            "names": [
+                "Harley-Davidson",
+                "Harley-Davidson, Inc.",
+                "HOG"
+            ],
+            "comment": "Harley-Davidson is an American motorcycle manufacturer that has sold bike modifications violating emissions standards [2][3], ended DEI programs and received a poor Corporate Equality Index ranking [4][5], and sold unsafe bikes resulting in lethal crashes [6][7]. The company has also fraudulently underpaid customer refunds [8] and maintained unsafe working conditions that caused a worker to lose a finger [9].",
+            "sources": {
+                "2": "https://web.archive.org/web/20160818235952/http://arstechnica.com/cars/2016/08/harley-davidson-to-pay-12-million-for-emissions-spewing-aftermarket-tuners/",
+                "3": "https://web.archive.org/web/20160818183214/http://www.cleveland.com/metro/index.ssf/2016/08/epa_cracks_down_on_harley-davi.html",
+                "4": "https://www.independent.co.uk/news/world/americas/harleydavidson-boycott-woke-diversity-b2598619.html",
+                "5": "https://www.ydr.com/story/opinion/readers/2024/08/27/its-disappointing-that-harley-davidson-backed-away-from-dei/74951951007/",
+                "6": "https://13wham.com/news/local/caledonia-man-awarded-240m-in-damages-in-lawsuit-against-harley-davidson-harold-morris-pamela-sinclair-north-township-pennsylvania",
+                "7": "https://jurimatic.com/harley-davidson-hit-with-287m-verdict-in-fatal-motorcycle-crash/",
+                "8": "https://web.archive.org/web/20140709014611/http://www.mass.gov/ago/news-and-updates/press-releases/2014/2014-06-06-harley-davidson.html",
+                "9": "https://www.osha.gov/ords/imis/establishment.inspection_detail?id=1361101.015"
+            },
+            "sourceNotes": {
+                "2": "sold bike modifications which violated emmissions standards",
+                "3": "sold bike modifications which violated emmissions standards",
+                "4": "ended DEI programs",
+                "5": "ended DEI programs and poor ranking on Corporate Equality Index",
+                "6": "sold unsafe bikes resulting in lethal crash",
+                "7": "sold unsafe bikes resulting in lethal crash",
+                "8": "fraudulently underpaid customer refunds",
+                "9": "unsafe working conditions resulting in worker losing a finger"
+            },
+            "tags": [
+                "cars",
+                "vehicles"
+            ],
+            "score": 15,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Harley_Davidson_logo.gif",
+            "siteUrl": "https://www.harley-davidson.com/",
+            "updatedAt": "2026-01-29T08:20:24.570Z"
         }
     }
 }
