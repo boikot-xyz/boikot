@@ -14907,6 +14907,488 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Harley_Davidson_logo.gif",
             "siteUrl": "https://www.harley-davidson.com/",
             "updatedAt": "2026-01-29T08:20:24.570Z"
+        },
+        "hasbro": {
+            "names": [
+                "Hasbro",
+                "Hasbro, Inc.",
+                "Hassenfeld Brothers",
+                "HAS"
+            ],
+            "comment": "Hasbro is an American toy company that has been repeatedly criticized for gender and ethnic bias in its toy lines [1][2][3][4] and for selling defective infant carriers that caused injuries [5]. The company has also faced allegations of forced labour and child labour in its supply chain [6][7][8].",
+            "sources": {
+                "1": "https://web.archive.org/web/20150925162900/http://www.independent.co.uk/news/uk/home-news/guess-whos-sexist-classic-board-games-gender-bias-leaves-sixyearold-fuming-8324067.html",
+                "2": "https://web.archive.org/web/20140407102709/http://gma.yahoo.com/blogs/abc-blogs/teen-starts-campaign-gender-neutral-easy-bake-oven-155338662--abc-news-topstories.html",
+                "3": "https://web.archive.org/web/20230530075646/https://www.latimes.com/business/la-xpm-2012-dec-04-la-fi-easy-bake-20121204-story.html",
+                "4": "https://web.archive.org/web/20171201182552/https://www.polygon.com/2016/1/5/10715144/hasbro-explains-why-rey-was-excluded-from-star-wars-monopoly",
+                "5": "https://web.archive.org/web/20170115211630/https://www.cpsc.gov/Newsroom/News-Releases/2000/Hasbro-Pays-400000-Civil-Penalty-for-Delay-in-Reporting-Infant-Carrier-Defect",
+                "6": "https://web.archive.org/web/20170130222327/http://www.nytimes.com/2007/08/22/business/worldbusiness/22factory.html?ref=business",
+                "7": "https://fortune.com/2015/11/22/hasbro-mattel-china-labor/",
+                "8": "https://www.cnbc.com/2018/12/07/nightmare-at-chinese-factories-making-hasbro-and-disney-toys.html"
+            },
+            "sourceNotes": {
+                "1": "gender and ethnic bias in toys",
+                "2": "gender and ethnic bias in toys",
+                "3": "gender and ethnic bias in toys",
+                "4": "gender and ethnic bias in toys",
+                "5": "sold defective infant carriers leading to several injuries",
+                "6": "forced labour and child labour in supply chain",
+                "7": "forced labour and child labour in supply chain",
+                "8": "forced labour and child labour in supply chain"
+            },
+            "tags": [
+                "toys",
+                "retail"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Hasbro_logo.svg",
+            "siteUrl": "http://shop.hasbro.com/",
+            "updatedAt": "2026-01-30T07:01:01.873Z"
+        },
+        "wizards-of-the-coast": {
+            "names": [
+                "Wizards of the Coast",
+                "Wizards of the Coast LLC",
+                "WotC"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Wizards_of_the_coast_logo_21.webp",
+            "siteUrl": "https://company.wizards.com/en",
+            "updatedAt": "2026-01-30T11:05:25.212Z"
+        },
+        "dungeons-and-dragons": {
+            "names": [
+                "Dungeons & Dragons",
+                "DnD"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8e/Dungeons_%26_Dragons_5th_Edition_logo.svg",
+            "siteUrl": "https://www.dndbeyond.com/",
+            "updatedAt": "2026-01-30T11:05:25.212Z"
+        },
+        "magic:-the-gathering": {
+            "names": [
+                "Magic: The Gathering",
+                "MtG",
+                "MTG"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/aa/Magic_the_gathering-card_back.jpg/250px-Magic_the_gathering-card_back.jpg",
+            "siteUrl": "http://magic.wizards.com/",
+            "updatedAt": "2026-01-30T11:05:25.212Z"
+        },
+        "action-man": {
+            "names": [
+                "Action Man"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Action_Man",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Action_man_toyline_logo.png"
+        },
+        "bop-it!": {
+            "names": [
+                "Bop It!"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bop_It!",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bop_It_logo.svg"
+        },
+        "cluedo": {
+            "names": [
+                "Cluedo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cluedo",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cluedo_Clue_pack_logo.png"
+        },
+        "g.i.-joe": {
+            "names": [
+                "G.I. Joe"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/G.I._Joe",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Gi_joe_franchise_logo.png"
+        },
+        "jem-and-the-holograms": {
+            "names": [
+                "Jem and The Holograms"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Jem_and_The_Holograms",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/88/Jem_logo.jpg"
+        },
+        "littlest-pet-shop": {
+            "names": [
+                "Littlest Pet Shop"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Littlest_Pet_Shop",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Littlest_Pet_Shop_%282012_TV_series%29_logo.png"
+        },
+        "monopoly": {
+            "names": [
+                "Monopoly"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Monopoly_(game)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Monopoly_logo_white_border.svg"
+        },
+        "my-little-pony": {
+            "names": [
+                "My Little Pony"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/My_Little_Pony",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/My_little_pony_logo22.svg"
+        },
+        "nerf": {
+            "names": [
+                "Nerf"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Nerf",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Nerf_orange_logo.png",
+            "siteUrl": "https://shop.hasbro.com/en-us/nerf"
+        },
+        "ouija": {
+            "names": [
+                "Ouija"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ouija"
+        },
+        "peppa-pig": {
+            "names": [
+                "Peppa Pig"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Peppa_Pig",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/86/Peppa_Pig_logo.svg"
+        },
+        "playskool": {
+            "names": [
+                "Playskool"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Playskool",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Playskool_brand_logo.png"
+        },
+        "pj-masks": {
+            "names": [
+                "PJ Masks"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/PJ_Masks",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f0/PJ-Masks-logo-2.png"
+        },
+        "play-doh": {
+            "names": [
+                "Play-Doh"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Play-Doh",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Play_doh_craftbrand_logo.svg"
+        },
+        "potato-head": {
+            "names": [
+                "Potato Head"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Potato_Head",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Santa_Claus_Parade_%284107912568%29.jpg"
+        },
+        "power-rangers": {
+            "names": [
+                "Power Rangers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Power_Rangers"
+        },
+        "stretch-armstrong": {
+            "names": [
+                "Stretch Armstrong"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Stretch_Armstrong",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Stretch_armstrong_brand_logo.png"
+        },
+        "tonka": {
+            "names": [
+                "Tonka"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tonka",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Tonka_logo.svg"
+        },
+        "transformers": {
+            "names": [
+                "Transformers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys",
+                "retail",
+                "entertainment"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "hasbro"
+            ],
+            "updatedAt": "2026-01-30T11:05:25.212Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Transformers",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Transformers_2014_logo.png"
         }
     }
 }
