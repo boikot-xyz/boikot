@@ -14678,6 +14678,25 @@
             "siteUrl": "https://www.ghirardelli.com/",
             "updatedAt": "2026-01-21T10:36:24.663Z"
         },
+        "havaianas": {
+            "names": [
+                "Havaianas"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "shoes",
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "itaúsa"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Havaianas_brand_logo.png",
+            "siteUrl": "https://havaianas.com/",
+            "updatedAt": "2026-01-31T08:38:09.336Z"
+        },
         "glade": {
             "names": [
                 "Glade"
