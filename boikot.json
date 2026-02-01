@@ -15389,6 +15389,1241 @@
             "updatedAt": "2026-01-30T11:05:25.212Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Transformers",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Transformers_2014_logo.png"
+        },
+        "warner-bros.-discovery": {
+            "names": [
+                "Warner Bros. Discovery",
+                "Warner Bros.",
+                "Discovery",
+                "Warner Bros. Discovery, Inc.",
+                "WBD"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 50,
+            "ownedBy": [
+                "netflix"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Warner_Bros._Discovery.svg",
+            "siteUrl": "https://www.wbd.com/",
+            "updatedAt": "2026-02-01T19:01:19.364Z"
+        },
+        "hbo-max": {
+            "names": [
+                "HBO Max"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/HBO_Max",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/HBO_Max_%282025%29.svg",
+            "siteUrl": "https://www.hbomax.com/"
+        },
+        "hbo": {
+            "names": [
+                "HBO"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/HBO",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg",
+            "siteUrl": "http://hbo.com/"
+        },
+        "warner-bros.": {
+            "names": [
+                "Warner Bros."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Warner_Bros."
+        },
+        "hgtv": {
+            "names": [
+                "HGTV"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/HGTV",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg",
+            "siteUrl": "https://www.hgtv.com/"
+        },
+        "discovery-channel": {
+            "names": [
+                "Discovery Channel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Discovery_Channel",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg",
+            "siteUrl": "https://www.discovery.com/"
+        },
+        "discovery+": {
+            "names": [
+                "Discovery+"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Discovery%2B",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Discovery_Plus_logo.svg",
+            "siteUrl": "https://www.discoveryplus.com/"
+        },
+        "cnn": {
+            "names": [
+                "CNN"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/CNN",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/CNN_Logo_%282014%29.svg",
+            "siteUrl": "https://www.cnn.com/"
+        },
+        "tbs": {
+            "names": [
+                "TBS"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/TBS_(American_TV_channel)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg",
+            "siteUrl": "https://www.tbs.com/"
+        },
+        "food-network": {
+            "names": [
+                "Food Network"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Food_Network",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Food_Network_logo.svg",
+            "siteUrl": "http://foodnetwork.com/"
+        },
+        "tnt": {
+            "names": [
+                "TNT"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/TNT_(American_TV_network)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_%28TV_Channel%29.svg",
+            "siteUrl": "https://www.tntdrama.com/"
+        },
+        "oprah-winfrey-network": {
+            "names": [
+                "Oprah Winfrey Network"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Oprah_Winfrey_Network",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/OWN_2011_logo.svg",
+            "siteUrl": "http://www.oprah.com/app/own-tv.html"
+        },
+        "investigation-discovery": {
+            "names": [
+                "Investigation Discovery"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Investigation_Discovery",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/InvestigationDiscoveryLogo2020.svg",
+            "siteUrl": "http://investigationdiscovery.com/"
+        },
+        "tlc": {
+            "names": [
+                "TLC"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/TLC_(TV_network)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/TLC_Logo.svg",
+            "siteUrl": "http://www.tlc.com/"
+        },
+        "dc-comics": {
+            "names": [
+                "DC Comics"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/DC_Comics",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/DC_Comics_2024.svg"
+        },
+        "warner-bros.-television-group": {
+            "names": [
+                "Warner Bros. Television Group"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Warner_Bros._Television_Group"
+        },
+        "warner-bros.-pictures": {
+            "names": [
+                "Warner Bros. Pictures"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Warner_Bros._Pictures",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Warner_Bros._Pictures_2023_%28Alt%29.svg",
+            "siteUrl": "https://www.warnerbros.com/movies"
+        },
+        "tnt-sports": {
+            "names": [
+                "TNT Sports"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/TNT_Sports",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg"
+        },
+        "eurosport": {
+            "names": [
+                "Eurosport"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurosport",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg",
+            "siteUrl": "https://www.eurosport.com/"
+        },
+        "magnolia-network": {
+            "names": [
+                "Magnolia Network"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Magnolia_Network",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Magnolia_Network.svg",
+            "siteUrl": "http://www.magnolia.com/network"
+        },
+        "cooking-channel": {
+            "names": [
+                "Cooking Channel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cooking_Channel_(American_TV_channel)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Cooking_Channel.svg",
+            "siteUrl": "http://www.cookingchanneltv.com/"
+        },
+        "warner-bros.-games": {
+            "names": [
+                "Warner Bros. Games"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Warner_Bros._Games",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Warner_Bros._Games_logo_%28December_2023%29.svg",
+            "siteUrl": "https://warnerbrosgames.com/"
+        },
+        "animal-planet": {
+            "names": [
+                "Animal Planet"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Animal_Planet",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg",
+            "siteUrl": "https://www.animalplanet.com/"
+        },
+        "adult-swim": {
+            "names": [
+                "Adult Swim"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Adult_Swim",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg",
+            "siteUrl": "https://www.adultswim.com/"
+        },
+        "hln": {
+            "names": [
+                "HLN"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/HLN_(TV_network)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/HLN_2023.webp",
+            "siteUrl": "https://www.cnn.com/specials/videos/hln"
+        },
+        "cartoon-network": {
+            "names": [
+                "Cartoon Network"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cartoon_Network",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cartoon_Network_Games_%282016%29_logo.svg",
+            "siteUrl": "https://www.cartoonnetwork.com/"
+        },
+        "new-line-cinema": {
+            "names": [
+                "New Line Cinema"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Line_Cinema",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/New_Line_Cinema_2024.svg",
+            "siteUrl": "https://www.warnerbros.com/company/divisions/motion-pictures#new-line-cinema"
+        },
+        "golf-digest": {
+            "names": [
+                "Golf Digest"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Golf_Digest",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Golf_Digest_September_1960_cover.jpg",
+            "siteUrl": "http://www.golfdigest.com/"
+        },
+        "travel-channel": {
+            "names": [
+                "Travel Channel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Travel_Channel",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/2018_Travel_Channel_logo.svg",
+            "siteUrl": "http://www.travelchannel.com/"
+        },
+        "hogar-de-hgtv": {
+            "names": [
+                "Hogar de HGTV"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hogar_de_HGTV",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg",
+            "siteUrl": "https://www.hgtv.com/"
+        },
+        "warner-bros.-pictures-animation": {
+            "names": [
+                "Warner Bros. Pictures Animation"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Warner_Bros._Pictures_Animation",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Warner_Bros._Pictures_Animation_2024.svg",
+            "siteUrl": "https://www.warnerbrospicturesanimation.com/"
+        },
+        "cartoonito": {
+            "names": [
+                "Cartoonito"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cartoonito",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Cartoonito_-_Logo_2021.svg",
+            "siteUrl": "https://www.cartoonito.co.uk/international-sites"
+        },
+        "quest": {
+            "names": [
+                "Quest"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Quest_(British_TV_channel)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Quest_%282026%29.svg",
+            "siteUrl": "https://www.discoveryplus.co.uk/channel/quest"
+        },
+        "quest-red": {
+            "names": [
+                "Quest Red"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Quest_Red",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Quest_Red_2026.svg",
+            "siteUrl": "https://www.discoveryplus.com/gb/channel/quest-red"
+        },
+        "trutv": {
+            "names": [
+                "TruTV"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/TruTV",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/TruTV_2014.svg",
+            "siteUrl": "https://www.trutv.com/"
+        },
+        "cinemax": {
+            "names": [
+                "Cinemax"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cinemax",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg",
+            "siteUrl": "https://www.cinemax.com/"
+        },
+        "tvn": {
+            "names": [
+                "TVN"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/TVN_(Polish_TV_channel)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/TVN_logo_2024.svg",
+            "siteUrl": "https://tvn.pl/"
+        },
+        "science-channel": {
+            "names": [
+                "Science Channel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Science_Channel",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png",
+            "siteUrl": "https://www.sciencechannel.com/"
+        },
+        "american-heroes-channel": {
+            "names": [
+                "American Heroes Channel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/American_Heroes_Channel",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/American_Heroes_Channel_logo.svg",
+            "siteUrl": "http://www.ahctv.com/"
+        },
+        "asian-food-network": {
+            "names": [
+                "Asian Food Network"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Asian_Food_Network",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Asian_Food_Network.svg",
+            "siteUrl": "https://www.asianfoodnetwork.com/"
+        },
+        "bleacher-report": {
+            "names": [
+                "Bleacher Report"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bleacher_Report",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bleacher_Report_logo.svg",
+            "siteUrl": "https://www.bleacherreport.com/"
+        },
+        "destination-america": {
+            "names": [
+                "Destination America"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Destination_America",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Destination_America_logo.svg",
+            "siteUrl": "http://www.destinationamerica.com/"
+        },
+        "turner-classic-movies": {
+            "names": [
+                "Turner Classic Movies"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Turner_Classic_Movies",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg",
+            "siteUrl": "https://www.tcm.com/"
+        },
+        "discovery-family": {
+            "names": [
+                "Discovery Family"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Discovery_Family",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Discovery_Family_Logo_%282014%29.svg",
+            "siteUrl": "https://www.discovery.com/discovery-family-channel"
+        },
+        "boomerang": {
+            "names": [
+                "Boomerang"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Boomerang_(TV_network)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg"
+        },
+        "dmax": {
+            "names": [
+                "DMAX"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/DMAX_(TV_channel)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/DMAX_BLACK.svg",
+            "siteUrl": "http://dmax.de/"
+        },
+        "real-time": {
+            "names": [
+                "Real Time"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Real_Time_(TV_channel)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Real_Time_logo.svg",
+            "siteUrl": "http://www.realtimetv.it/"
+        },
+        "giallo": {
+            "names": [
+                "Giallo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Giallo_(TV_channel)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Giallo_-_Logo_2014.svg"
+        },
+        "frisbee": {
+            "names": [
+                "Frisbee"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Frisbee_(TV_channel)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/FRISBEE_LOGO_2015.png",
+            "siteUrl": "http://frisbeetv.it/"
+        },
+        "k2": {
+            "names": [
+                "K2"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/K2_(TV_channel)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/K2_new_logo.svg",
+            "siteUrl": "https://wbditalia.com/k2"
+        },
+        "nove": {
+            "names": [
+                "Nove"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Nove_(TV_channel)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Nove_-_Logo_2017.svg",
+            "siteUrl": "http://nove.tv/"
+        },
+        "canal-9": {
+            "names": [
+                "Canal 9"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Canal_9_(Danish_TV_channel)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Canal_9_Logo_2024.svg",
+            "siteUrl": "http://www.discoveryplus.com/dk/channel/canal-9"
+        },
+        "discovery-familia": {
+            "names": [
+                "Discovery Familia"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Discovery_Familia",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Discovery_Familia_Logo_%282022%29.svg",
+            "siteUrl": "https://www.latamwbd.com/discovery-familia/es"
+        },
+        "space": {
+            "names": [
+                "Space"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Space_(Latin_American_TV_channel)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg"
+        },
+        "discovery-life": {
+            "names": [
+                "Discovery Life"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Discovery_Life",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Discovery_Life_logo_2016.svg",
+            "siteUrl": "http://discoverylife.com/"
+        },
+        "pogo": {
+            "names": [
+                "Pogo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pogo_(TV_channel)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",
+            "siteUrl": "https://www.pogo.tv/"
+        },
+        "tooncast": {
+            "names": [
+                "Tooncast"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tooncast",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Tooncast_logo_%282%29.svg"
+        },
+        "cnn-en-espanol": {
+            "names": [
+                "CNN en Español"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/CNN_en_Espa%C3%B1ol",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg",
+            "siteUrl": "https://cnnespanol.cnn.com/"
+        },
+        "warner-tv": {
+            "names": [
+                "Warner TV"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Warner_TV",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",
+            "siteUrl": "https://www.warnerchannel.com/br/"
+        },
+        "boing": {
+            "names": [
+                "Boing"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Boing_(TV_channel)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png",
+            "siteUrl": "https://www.boingtv.it/"
+        },
+        "cnn-app": {
+            "names": [
+                "CNN app"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/CNNgo"
+        },
+        "warner-bros.-entertainment": {
+            "names": [
+                "Warner Bros. Entertainment"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "netflix"
+            ],
+            "updatedAt": "2026-02-01T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Warner_Bros._Entertainment",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Warner_Bros._logo_2023.svg",
+            "siteUrl": "http://www.warnerbros.com/"
         }
+    }
+
+
+
     }
 }
