@@ -14871,6 +14871,92 @@
             "siteUrl": "http://www.halifax.co.uk/",
             "updatedAt": "2026-01-28T19:21:44.236Z"
         },
+        "head": {
+            "names": [
+                "HEAD",
+                "Head Sport",
+                "Head Sport GmbH"
+            ],
+            "comment": "HEAD is an American-Austrian sports gear manufacturing company which has released toxic chemicals into the environment [1].",
+            "sources": {
+                "1": "https://echo.epa.gov/enforcement-case-report?id=09-2009-3002"
+            },
+            "sourceNotes": {
+                "1": "release of toxic chemicals"
+            },
+            "tags": [
+                "sports",
+                "retail",
+                "clothing"
+            ],
+            "score": 50,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/HEAD.svg",
+            "siteUrl": "https://www.head.com/",
+            "updatedAt": "2026-02-02T21:06:51.456Z"
+        },
+        "zoggs": {
+            "names": [
+                "Zoggs"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sports",
+                "retail",
+                "clothing"
+            ],
+            "score": 50,
+            "ownedBy": [
+                "head"
+            ],
+            "logoUrl": "https://swim2u.com.au/wp-content/uploads/2021/09/Zoggs-new-logo.jpg",
+            "siteUrl": "https://www.zoggs.com/",
+            "updatedAt": "2026-02-02T21:06:51.456Z"
+        },
+        "penn": {
+            "names": [
+                "Penn",
+                "Penn Racquet Sports",
+                "Penn Racquet Sports, Inc."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sports",
+                "retail",
+                "clothing"
+            ],
+            "score": 50,
+            "ownedBy": [
+                "head"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/6e/Penn_Racquet_Sports_logo.png",
+            "siteUrl": "http://www.pennracquet.com/",
+            "updatedAt": "2026-02-02T21:06:51.456Z"
+        },
+        "mares": {
+            "names": [
+                "Mares"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sports",
+                "retail",
+                "clothing"
+            ],
+            "score": 50,
+            "ownedBy": [
+                "head"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mares_logo.svg",
+            "siteUrl": "http://www.mares.com/",
+            "updatedAt": "2026-02-02T21:06:51.456Z"
+        },
         "harley-davidson": {
             "names": [
                 "Harley-Davidson",
