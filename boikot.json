@@ -16669,6 +16669,25 @@
             "updatedAt": "2026-02-01T06:28:22.531Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/DC_Comics",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/DC_Comics_2024.svg"
+        },
+        "hermes": {
+            "names": [
+                "Hermes",
+                "Evri"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "logistics"
+            ],
+            "score": null,
+            "ownedBy": [
+                "otto"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_Hermes_Europe.jpg/250px-Logo_Hermes_Europe.jpg",
+            "siteUrl": "http://hermesworld.com/",
+            "updatedAt": "2026-02-03T15:09:53.259Z"
         }
     }
 }
