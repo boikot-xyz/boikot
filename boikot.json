@@ -16688,6 +16688,235 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_Hermes_Europe.jpg/250px-Logo_Hermes_Europe.jpg",
             "siteUrl": "http://hermesworld.com/",
             "updatedAt": "2026-02-03T15:09:53.259Z"
+        },
+        "witt-gruppe": {
+            "names": [
+                "Witt-Gruppe"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "otto"
+            ],
+            "updatedAt": "2026-02-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Witt_Weiden",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_Witt-Gruppe.png",
+            "siteUrl": "https://www.witt-gruppe.eu/"
+        },
+        "bonprix": {
+            "names": [
+                "Bonprix"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "otto"
+            ],
+            "updatedAt": "2026-02-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bonprix",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bonprix_Logo_2023.svg",
+            "siteUrl": "https://en.bonprix.de/corporate/"
+        },
+        "crate-and-barrel": {
+            "names": [
+                "Crate and Barrel",
+                "Euromarket Designs",
+                "Euromarket Designs Inc."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "otto"
+            ],
+            "updatedAt": "2026-02-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Crate_%26_Barrel",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/CrateandBarrelLogo.svg",
+            "siteUrl": "http://crateandbarrel.com/"
+        },
+        "sheego-ag": {
+            "names": [
+                "Sheego AG"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "otto"
+            ],
+            "updatedAt": "2026-02-03T06:28:22.531Z",
+            "wikipediaUrl": "https://de.wikipedia.org/wiki/Sheego",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Sheego_Logo.svg",
+            "siteUrl": "https://company.sheego.de/"
+        },
+        "frankonia": {
+            "names": [
+                "Frankonia"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "otto"
+            ],
+            "updatedAt": "2026-02-03T06:28:22.531Z",
+            "wikipediaUrl": "https://de.wikipedia.org/wiki/Frankonia",
+            "siteUrl": "https://www.frankonia.de/"
+        },
+        "lascana": {
+            "names": [
+                "Lascana"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "otto"
+            ],
+            "updatedAt": "2026-02-03T06:28:22.531Z",
+            "wikipediaUrl": "https://de.wikipedia.org/wiki/Lascana",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lascana-logo-2018.png",
+            "siteUrl": "https://www.lascana.de/"
+        },
+        "limango": {
+            "names": [
+                "Limango"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "otto"
+            ],
+            "updatedAt": "2026-02-03T06:28:22.531Z",
+            "wikipediaUrl": "https://nl.wikipedia.org/wiki/Limango",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Limango.png",
+            "siteUrl": "https://www.limango.nl/"
+        },
+        "manufactum": {
+            "names": [
+                "Manufactum"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "otto"
+            ],
+            "updatedAt": "2026-02-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Manufactum",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Manufactum_Logo.jpg",
+            "siteUrl": "http://www.manufactum.com/"
+        },
+        "eos-group": {
+            "names": [
+                "EOS Group"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "otto"
+            ],
+            "updatedAt": "2026-02-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/EOS_Group",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/EOS_Gruppe_Logo.svg",
+            "siteUrl": "http://www.eos-solutions.com/"
+        },
+        "hanseatic-bank": {
+            "names": [
+                "Hanseatic Bank"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "otto"
+            ],
+            "updatedAt": "2026-02-03T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hanseatic_Bank",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Hanseatic_Bank_Logo_2019.svg",
+            "siteUrl": "https://www.hanseaticbank.de/"
+        },
+        "otto": {
+            "names": [
+                "Otto",
+                "Otto Group",
+                "The Otto Group",
+                "Otto GmbH & Co. KGaA"
+            ],
+            "comment": "Otto is a German e-commerce company that has mishandled parcels [1], mishandled customer data [2], and violated employee data privacy [3]. It pays employees below minimum wage and underpays them [4][5][6], and its supply chain has experienced labour rights abuses [7][8].",
+            "sources": {
+                "1": "https://www.thetimes.com/uk/article/hermes-our-undercover-reporter-sees-couriers-manhandle-parcels-and-customers-mocked-wdbnqvzvw",
+                "2": "https://www.bigclassaction.com/settlement/3m-settlement-proposed-in-crate-7-barrel-song.php",
+                "3": "https://www.law360.com/articles/1856381/-2-4-million-crate-barrel-bipa-deal-gets-final-ok",
+                "4": "https://www.theguardian.com/society/2016/jul/18/hermes-couriers-paying-staff-less-than-living-wage",
+                "5": "mishandling of customer data",
+                "6": "https://www.mirror.co.uk/money/evri-accused-employing-people-slave-34483225",
+                "7": "https://myanmarlabournews.com/posts/chu-yang-myanmar-%E1%80%85%E1%80%80%E1%80%BA%E1%80%9B%E1%80%AF%E1%80%B6-%E1%80%9C%E1%80%AF%E1%80%95%E1%80%BA%E1%80%84%E1%80%94%E1%80%BA%E1%80%B8%E1%80%9B%E1%80%BE%E1%80%84%E1%80%BA%E1%80%A1%E1%80%AC%E1%80%B8-%E1%80%90%E1%80%9B%E1%80%AC%E1%80%B8%E1%80%85%E1%80%BD%E1%80%B2%E1%80%86%E1%80%AD%E1%80%AF%E1%80%91%E1%80%AC%E1%80%B8%E1%80%99%E1%80%BE%E1%80%AF%E1%80%85%E1%80%90%E1%80%84%E1%80%BA%E1%80%85%E1%80%85%E1%80%BA%E1%80%86%E1%80%B1%E1%80%B8",
+                "8": "https://www.business-humanrights.org/en/latest-news/myanmar-workers-at-chu-yang-factory-file-13-cases-against-factory-owner-re-labour-rights-abuses/"
+            },
+            "sourceNotes": {
+                "1": "mishandling of parcels",
+                "2": "mishandling of customer data",
+                "3": "mishandling and privacy violation of employee data",
+                "4": "pays employees below minimum wage",
+                "5": "underpaid employees",
+                "6": "underpaid employees",
+                "7": "labour rights abuses in supply chain",
+                "8": "labour rights abuses in supply chain"
+            },
+            "tags": [
+                "retail",
+                "logistics"
+            ],
+            "score": 23,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Otto_Group_Logo_2022.svg",
+            "siteUrl": "https://www.ottogroup.com/en",
+            "updatedAt": "2026-02-03T15:09:53.259Z"
         }
     }
 }
