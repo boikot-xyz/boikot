@@ -16917,6 +16917,913 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Otto_Group_Logo_2022.svg",
             "siteUrl": "https://www.ottogroup.com/en",
             "updatedAt": "2026-02-03T15:09:53.259Z"
+        },
+        "almond-joy": {
+            "names": [
+                "Almond Joy"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Almond_Joy",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Almondjoy_brand_logo.png",
+            "siteUrl": "https://www.hersheyland.com/almond-joy"
+        },
+        "5th-avenue": {
+            "names": [
+                "5th Avenue"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/5th_Avenue_(candy)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/5th_avenue_brand_logo.png",
+            "siteUrl": "https://www.hersheyland.com/5th-avenue"
+        },
+        "eat-more": {
+            "names": [
+                "Eat-More"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Eat-More"
+        },
+        "payday": {
+            "names": [
+                "PayDay"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/PayDay_(confection)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Payday_brand_logo.png",
+            "siteUrl": "https://www.hersheyland.com/payday"
+        },
+        "heath-bar": {
+            "names": [
+                "Heath bar"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Heath_bar",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Heath_bar_brandlogo.png",
+            "siteUrl": "https://www.hersheyland.com/products/heath-milk-chocolate-english-toffee-candy-bar-1-4-oz.html"
+        },
+        "hershey's-extra-dark": {
+            "names": [
+                "Hershey's Extra Dark"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hershey%27s_Extra_Dark",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Hershey%27s_Special_Dark_Miniatures.jpg",
+            "siteUrl": "https://www.hersheyland.com/products/hersheys-special-dark-mildly-sweet-chocolate-candy-bars-8-7-oz-6-pack.html"
+        },
+        "hershey's-kisses": {
+            "names": [
+                "Hershey's Kisses"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hershey%27s_Kisses",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Hershey_kisses_logo.png",
+            "siteUrl": "https://www.hersheyland.com/kisses"
+        },
+        "oh-henry!": {
+            "names": [
+                "Oh Henry!"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Oh_Henry!",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/Oh-Henry-Wrapper-Small.jpg"
+        },
+        "krackel": {
+            "names": [
+                "Krackel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Krackel",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Krackel-Fun-Size.jpg",
+            "siteUrl": "https://www.hersheyland.com/products/hersheys-miniatures-assortment-10-4-oz-pack.html"
+        },
+        "military-chocolate": {
+            "names": [
+                "Military chocolate"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Military_chocolate_(United_States)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/D_ration_chocolate_bar.jpg"
+        },
+        "mounds": {
+            "names": [
+                "Mounds"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mounds_(candy_bar)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Mounds_brand_logo.png",
+            "siteUrl": "https://www.hersheyland.com/mounds"
+        },
+        "mr.-goodbar": {
+            "names": [
+                "Mr. Goodbar"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mr._Goodbar",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Mrgoodbar_brand_logo.png",
+            "siteUrl": "https://www.hersheyland.com/mrgoodbar"
+        },
+        "nutrageous": {
+            "names": [
+                "NutRageous"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/NutRageous",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/NutRageous-Split.jpg",
+            "siteUrl": "https://www.hersheyland.com/products/reeses-nutrageous-milk-chocolate-peanut-butter-candy-bar-1-66-oz.html"
+        },
+        "reese's-pieces": {
+            "names": [
+                "Reese's Pieces"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Reese%27s_Pieces",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e1/Reese%27s_Pieces_Bag.png",
+            "siteUrl": "https://www.hersheyland.com/products/reeses-pieces-peanut-butter-candy-9-9-oz-bag.html"
+        },
+        "skor": {
+            "names": [
+                "Skor"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Skor",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d4/Skor_brand_logo.png",
+            "siteUrl": "https://www.hersheyland.com/products/skor-milk-chocolate-with-crisp-butter-toffee-candy-bar-1-4-oz.html"
+        },
+        "snack-barz": {
+            "names": [
+                "Snack Barz"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Snack_Barz",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Snackbarz_logo.png"
+        },
+        "symphony": {
+            "names": [
+                "Symphony"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Symphony_(candy)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Symphony_hershey_brand_logo.png",
+            "siteUrl": "https://www.hersheyland.com/products/symphony-milk-chocolate-xl-candy-bar-4-25-oz.html"
+        },
+        "whatchamacallit": {
+            "names": [
+                "Whatchamacallit"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Whatchamacallit_(candy)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Whatchamacallit_brand_logo.png",
+            "siteUrl": "https://www.hersheyland.com/whatchamacallit"
+        },
+        "whozeewhatzit": {
+            "names": [
+                "Whozeewhatzit"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Whatchamacallit_(candy)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Whatchamacallit_brand_logo.png",
+            "siteUrl": "https://www.hersheyland.com/whatchamacallit"
+        },
+        "zero-bar": {
+            "names": [
+                "Zero bar"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Zero_bar",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Zero_candybrand_logo.png",
+            "siteUrl": "https://www.hersheyland.com/zero"
+        },
+        "zagnut": {
+            "names": [
+                "Zagnut"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Zagnut",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c9/Zagnut-Wrapper-Small.jpg",
+            "siteUrl": "https://www.hersheyland.com/products/zagnut-peanut-butter-and-coconut-candy-bar-1-75-oz.html"
+        },
+        "cherry-blossom": {
+            "names": [
+                "Cherry Blossom"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cherry_Blossom_(candy)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Cherryblossom_candy_logo.png"
+        },
+        "hershey's-kissables": {
+            "names": [
+                "Hershey's Kissables"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hershey%27s_Kissables",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Miniture_Hershey_Kisses_%282830832406%29.jpg"
+        },
+        "milk-duds": {
+            "names": [
+                "Milk Duds"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Milk_Duds",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Milk_duds_logo.png",
+            "siteUrl": "https://www.hersheyland.com/milk-duds"
+        },
+        "swoops": {
+            "names": [
+                "Swoops"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Swoops"
+        },
+        "york-peppermint-pattie": {
+            "names": [
+                "York Peppermint Pattie"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/York_Peppermint_Pattie",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/York_peppermint_logo.png",
+            "siteUrl": "https://www.hersheyland.com/york"
+        },
+        "whoppers": {
+            "names": [
+                "Whoppers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Whoppers",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Whoppers_brand_logo.png",
+            "siteUrl": "https://hersheyland.com/whoppers"
+        },
+        "breath-savers": {
+            "names": [
+                "Breath Savers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Breath_Savers",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Breathsavers-Peppermint.jpg",
+            "siteUrl": "https://www.hersheyland.com/breath-savers"
+        },
+        "bubble-yum": {
+            "names": [
+                "Bubble Yum"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bubble_Yum",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/Bubble_yum_logo.png",
+            "siteUrl": "https://www.hersheyland.com/bubbleyum"
+        },
+        "clodhopper": {
+            "names": [
+                "Clodhopper"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Clodhopper_(candy)"
+        },
+        "good-and-fruity": {
+            "names": [
+                "Good & Fruity"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Good_%26_Fruity",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Goodandfruity_logo.png"
+        },
+        "good-and-plenty": {
+            "names": [
+                "Good & Plenty"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Good_%26_Plenty",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Goodplenty_brand_logo.png",
+            "siteUrl": "https://www.hersheyland.com/good-and-plenty"
+        },
+        "ice-breakers-candy": {
+            "names": [
+                "Ice Breakers candy"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ice_Breakers_candy",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Icebreakers_brand_logo.png",
+            "siteUrl": "https://www.hersheyland.com/ice-breakers"
+        },
+        "jolly-rancher": {
+            "names": [
+                "Jolly Rancher"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Jolly_Rancher",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Jolly_rancher_logo.png",
+            "siteUrl": "https://www.hersheyland.com/jolly-rancher"
+        },
+        "pelon-pelo-rico": {
+            "names": [
+                "Pelon Pelo Rico"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pelon_Pelo_Rico",
+            "siteUrl": "https://www.thehersheycompany.com/es_mx/pelon.html"
+        },
+        "twizzlers": {
+            "names": [
+                "Twizzlers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Twizzlers",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Twizzlers_brand_logo.png",
+            "siteUrl": "https://www.hersheyland.com/twizzlers"
+        },
+        "dot's-pretzels": {
+            "names": [
+                "Dot's Pretzels"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Dot%27s_Pretzels"
+        },
+        "pirate's-booty": {
+            "names": [
+                "Pirate's Booty"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pirate%27s_Booty",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Robert%27s_American_Gourmet_Pirate%27s_Booty.JPG/250px-Robert%27s_American_Gourmet_Pirate%27s_Booty.JPG",
+            "siteUrl": "https://www.hersheyland.com/pirates-booty"
+        },
+        "skinnypop": {
+            "names": [
+                "SkinnyPop"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/SkinnyPop",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/30/Skinny-pop-logo%402x.png",
+            "siteUrl": "https://www.skinnypop.com/"
+        },
+        "c4": {
+            "names": [
+                "C4"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/C4"
+        },
+        "reese's-puffs": {
+            "names": [
+                "Reese's Puffs"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Reese%27s_Puffs",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Reese%27s_Puffs_%E2%80%93_Sweet_and_crunchy_corn_puffs%2C_with_milk.jpg"
+        },
+        "cocoa-puffs": {
+            "names": [
+                "Cocoa Puffs"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cocoa_Puffs",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cf/CocoaPuffs.jpg"
+        },
+        "selecta": {
+            "names": [
+                "Selecta"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Selecta_(dairy_products)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/fa/Selecta_philippines_logo.jpg",
+            "siteUrl": "https://www.selectaphilippines.com/"
+        },
+        "breyers": {
+            "names": [
+                "Breyers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "hershey's"
+            ],
+            "updatedAt": "2026-02-04T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Breyers",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ec/Breyers_logo_%282025%29.webp",
+            "siteUrl": "http://breyers.com/"
+        },
+        "hershey's": {
+            "names": [
+                "Hershey's",
+                "Hersheys",
+                "Hershey",
+                "The Hershey Company",
+                "Hershey Chocolate Co.",
+                "Hershey Chocolate Corporation",
+                "Hershey Foods Corporation",
+                "HSY"
+            ],
+            "comment": "Hersheys is an American chocolate manufacturer that has been implicated in fraud and malpractice in its trust foundation [1][2], sold chocolate with harmful heavy metal levels [3][4], and used hazardous PFAS in packaging [5]. The company has also been accused of child slavery, forced labor, deforestation, worker abuse in its supply chain, and manipulating cocoa prices to underpay farmers [6][7][8][9][10].",
+            "sources": {
+                "1": "https://capitalresearch.org/article/miltons-bittersweet-legacy-part-1/",
+                "2": "https://archive.triblive.com/news/wire-stories/fate-of-hershey-merger-lies-with-scandal-plagued-trust/",
+                "3": "https://www.cbsnews.com/news/hersheys-dark-chocolate-heavy-metals-lead-cadmium/",
+                "4": "https://www.bbc.co.uk/news/business-64123157",
+                "5": "https://www.bakeryandsnacks.com/Article/2025/07/01/hersheys-pfas-lawsuits-spotlight-snack-brand-risks/",
+                "6": "https://eu.usatoday.com/story/money/legal/2025/07/22/hershey-nestle-mars-child-slavery/85331901007/",
+                "7": "https://www.classaction.org/news/hersheys-organic-chocolate-not-as-sustainable-ethically-sourced-as-advertised-class-action-alleges",
+                "8": "https://www.business-humanrights.org/en/latest-news/usa-chocolate-manufacturer-hershey-to-face-consumers-lawsuit-alleging-failure-to-disclose-human-rights-abuses-in-their-supply-chain/",
+                "9": "https://www.sierraclub.org/sierra/rainforest-alliance-and-hershey-chocolate-sued-falsely-claiming-fair-labor-and-sustainability",
+                "10": "https://www.nbcnews.com/business/business-news/war-cocoa-hershey-co-accused-not-upholding-sustainability-efforts-west-n1250798"
+            },
+            "sourceNotes": {
+                "1": "fraud and malpractice in the hershey trust foundation",
+                "2": "fraud and malpractice in the hershey trust foundation",
+                "3": "sold chocolate containing harmful levels of heavy metal",
+                "4": "sold chocolate containing harmful levels of heavy metal",
+                "5": "used harmful PFAS in packaging",
+                "6": "child slave labour in supply chain",
+                "7": "abuse of workers in supply chain",
+                "8": "abuse of workers in supply chain",
+                "9": "child labor, forced labor, and deforestation",
+                "10": "manipulated cocoa prices to underpay impoverished cocoa farmers"
+            },
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": 12,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/HersheyCo.svg",
+            "siteUrl": "https://www.thehersheycompany.com/en_us/home.html",
+            "updatedAt": "2026-02-04T16:42:19.893Z"
         }
     }
 }
