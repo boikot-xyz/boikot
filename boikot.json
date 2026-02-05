@@ -17824,6 +17824,374 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/HersheyCo.svg",
             "siteUrl": "https://www.thehersheycompany.com/en_us/home.html",
             "updatedAt": "2026-02-04T16:42:19.893Z"
+        },
+        "hilton": {
+            "names": [
+                "Hilton",
+                "Hilton Hotels & Resorts",
+                "Hilton Hotels",
+                "Hilton Worldwide",
+                "Hilton Worldwide Holdings",
+                "Hilton Worldwide Holdings Inc.",
+                "Hilton Hotels Corporation",
+                "HLT"
+            ],
+            "comment": "Hilton is a U.S. hotel chain that has engaged in price fixing [1], greenwashing [2], and imposing hidden fees on guests [3]. The company has also hosted a right‑wing extremist event  [4], housed ICE agents [5][6], discriminated against black guests [7][8], negligently facilitated a guest's sexual assault [9], and facilitated sex trafficking [10].",
+            "sources": {
+                "1": "https://www.classaction.org/news/class-action-lawsuit-claims-hilton-wyndham-hyatt-others-illegally-conspired-to-fix-hotel-room-prices",
+                "2": "https://www.cabidigitallibrary.org/do/10.5555/collection-news-15943#:~:text=War%20of%20words%20on%20Hilton%20%E2%80%98greenwash%E2%80%99%20claims,spotlight%20on%20tourism%20ethics%20%7C%20CABI%20News.",
+                "3": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/hilton-faces-lawsuit-over-alleged-hidden-hotel-fees/",
+                "4": "https://wislawjournal.com/2024/04/04/hilton-hotels-under-fire-for-hosting-allegedly-racist-anti-lqbtqright-wing-extremist-event/",
+                "5": "https://www.cnbc.com/2026/01/06/hilton-hotels-dhs-minneapolis-immigration-ban.html",
+                "6": "https://www.kare11.com/article/news/local/ice-in-minnesota/hundreds-protesting-downtown-minneapolis-hotel-friday/89-f3c46c0a-0699-491e-85d6-de23a573a3d2",
+                "7": "https://www.theroot.com/several-lawsuits-accuse-hilton-of-routinely-discriminating-against-its-black-hotel-guests",
+                "8": "https://eu.usatoday.com/story/travel/hotels/2020/07/21/hilton-discrimination-lawsuits-black-guests-allege-racism-hotels/5405270002/",
+                "9": "https://www.prnewswire.com/news-releases/hilton-hotels-hit-with-record-44m-negligence-verdict-for-facilitating-a-sexual-assault-of-a-hotel-guest-301431024.html",
+                "10": "https://news.bloomberglaw.com/litigation/hilton-must-continue-facing-lawsuit-from-sex-trafficking-victim"
+            },
+            "sourceNotes": {
+                "1": "price fixing",
+                "2": "greenwashing",
+                "3": "imposed hidden fees on guests",
+                "4": "hosted right-wing extremist event",
+                "5": "Housed ICE agents",
+                "6": "Housed ICE agents",
+                "7": "discriminated against black guests",
+                "8": "discriminated against black guests",
+                "9": "negligently facilitated the sexual assult of a guest",
+                "10": "facilitated sex trafficking"
+            },
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/HiltonHotelsLogo.svg",
+            "siteUrl": "https://www.hilton.com/en/brands/hilton-hotels/",
+            "updatedAt": "2026-02-05T17:38:28.207Z"
+        },
+        "waldorf-astoria-hotels-and-resorts": {
+            "names": [
+                "Waldorf Astoria Hotels & Resorts"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Waldorf_Astoria_Hotels_%26_Resorts",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/WaldorfLogo.svg",
+            "siteUrl": "https://www.hilton.com/en/brands/waldorf-astoria/"
+        },
+        "conrad-hotels": {
+            "names": [
+                "Conrad Hotels"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Conrad_Hotels",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/ConradHotelsLogo.svg",
+            "siteUrl": "http://conradhotels.com/"
+        },
+        "signia-by-hilton": {
+            "names": [
+                "Signia by Hilton"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Signia_by_Hilton_San_Jose",
+            "siteUrl": "http://www.hilton.com/en/hotels/sjcsmsa-signia-san-jose/",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sanjose_plaze_de_cesar_chavez.jpg"
+        },
+        "the-nomad": {
+            "names": [
+                "The NoMad"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_NoMad",
+            "siteUrl": "https://www.thenomadhotel.com/",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/NoMad_Hotel_1170_Broadway.jpg"
+        },
+        "canopy-by-hilton": {
+            "names": [
+                "Canopy by Hilton"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Canopy_by_Hilton",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Canopy_by_Hilton_logo.svg",
+            "siteUrl": "http://canopybyhilton.com/"
+        },
+        "graduate-hotels": {
+            "names": [
+                "Graduate Hotels"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Graduate_Hotels",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b7/Graduate_Hotels_logo.svg",
+            "siteUrl": "http://graduatehotels.com/"
+        },
+        "hilton-hotels-andamp-resorts": {
+            "names": [
+                "Hilton Hotels &amp; Resorts"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hilton_Hotels_%26_Resorts",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/HiltonHotelsLogo.svg",
+            "siteUrl": "https://www.hilton.com/en/brands/hilton-hotels/"
+        },
+        "doubletree": {
+            "names": [
+                "DoubleTree"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/DoubleTree",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/0a/DoubletreeLogo.svg",
+            "siteUrl": "http://www.doubletree.com/"
+        },
+        "curio": {
+            "names": [
+                "Curio"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Curio_(brand)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Curio_by_Hilton_logo.svg",
+            "siteUrl": "https://www.hilton.com/en/curio/"
+        },
+        "embassy-suites-by-hilton": {
+            "names": [
+                "Embassy Suites by Hilton"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Embassy_Suites_by_Hilton",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/67/Embassy_Suites_Hotels.svg",
+            "siteUrl": "http://embassysuites.com/"
+        },
+        "homewood-suites-by-hilton": {
+            "names": [
+                "Homewood Suites by Hilton"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Homewood_Suites_by_Hilton",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Homewood_Suites_Logo_%282021%29.svg",
+            "siteUrl": "http://www.homewoodsuites.com/"
+        },
+        "home2-suites-by-hilton": {
+            "names": [
+                "Home2 Suites by Hilton"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Home2_Suites_by_Hilton",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Home2_Suites_by_Hilton_logo.svg",
+            "siteUrl": "https://www.home2suites.com/"
+        },
+        "hilton-garden-inn": {
+            "names": [
+                "Hilton Garden Inn"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hilton_Garden_Inn",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/HGI-Logo-Color_HR.png",
+            "siteUrl": "https://www.hilton.com/en/hilton-garden-inn"
+        },
+        "hampton-by-hilton": {
+            "names": [
+                "Hampton by Hilton"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hampton_by_Hilton",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Hampton-by-Hilton-Logo-Color.png",
+            "siteUrl": "http://www.hampton.com/"
+        },
+        "tru-by-hilton": {
+            "names": [
+                "Tru by Hilton"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tru_by_Hilton",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Tru_by_Hilton_logo.svg",
+            "siteUrl": "http://www.trubyhilton.com/"
+        },
+        "spark-by-hilton": {
+            "names": [
+                "Spark by Hilton"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Spark_by_Hilton",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Spark-by-Hilton-Logo-Color.png",
+            "siteUrl": "http://sparkbyhilton.com/"
+        },
+        "hilton-grand-vacations": {
+            "names": [
+                "Hilton Grand Vacations"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 14,
+            "ownedBy": [
+                "hilton"
+            ],
+            "updatedAt": "2026-02-05T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hilton_Grand_Vacations",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Hilton_Grand_Vacations_logo.png",
+            "siteUrl": "http://hgv.com/"
         }
     }
 }
