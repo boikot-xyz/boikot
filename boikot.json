@@ -18192,6 +18192,25 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Hilton_Grand_Vacations",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Hilton_Grand_Vacations_logo.png",
             "siteUrl": "http://hgv.com/"
+        },
+        "hobbycraft": {
+            "names": [
+                "Hobbycraft",
+                "Hobbycraft Trading Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "mondella-capital"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b4/Hobbycraft_logo_2011.svg",
+            "siteUrl": "http://hobbycraft.co.uk/",
+            "updatedAt": "2026-02-06T10:22:36.519Z"
         }
     }
 }
