@@ -1,11 +1,34 @@
 #!/usr/bin/env node
 
+import { fetch } from 'fetch-h2';
+
 import { JSDOM } from "jsdom";
 import esMain from 'es-main';
 
 
+const fetchOptions = {
+    "credentials": "omit",
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-GB,en;q=0.9",
+        "Sec-GPC": "1",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+        "Priority": "u=0, i",
+        "Pragma": "no-cache",
+        "Cache-Control": "no-cache"
+    },
+    "method": "GET",
+    "mode": "cors"
+};
+
+
 async function scrapeResults( url ) {
-    const pageHTML = await (await fetch(url)).text();
+    const pageHTML = await (await fetch(url, fetchOptions)).text();
     const pageDOM = new JSDOM( pageHTML );
     const document = pageDOM.window.document;
 

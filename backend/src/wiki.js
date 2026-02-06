@@ -14,7 +14,8 @@ function getLogoURL( pageDOM ) {
     const document = pageDOM.window.document;
     const logoImg =
         document.querySelector(".infobox-image.logo img") ??
-        document.querySelector(".infobox-image img");
+        document.querySelector(".infobox-image img") ??
+        document.querySelector("a[title=\"Logo\"] img");
 
     const logoURL = logoImg?.src
         .replace("thumb/", "")
@@ -34,7 +35,7 @@ function getSiteURL( pageDOM ) {
         el => el.innerHTML.includes("Website") 
            || el.innerHTML.includes("URL")
     )[0];
-    const siteURL = siteLabel?.querySelector("a").href;
+    const siteURL = siteLabel?.querySelector("a")?.href;
 
     return siteURL;
 }
