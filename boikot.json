@@ -18211,6 +18211,29 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b4/Hobbycraft_logo_2011.svg",
             "siteUrl": "http://hobbycraft.co.uk/",
             "updatedAt": "2026-02-06T10:22:36.519Z"
+        },
+        "holland-and-barrett": {
+            "names": [
+                "Holland & Barrett",
+                "Holland & Barrett International",
+                "Holland & Barrett International Limited",
+                "NBTY Europe Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "health",
+                "food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "letterone"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/Holland_%26_Barrett_logo.svg",
+            "siteUrl": "https://hollandandbarrett.com/",
+            "updatedAt": "2026-02-07T22:00:22.209Z"
         }
     }
 }
