@@ -18234,6 +18234,51 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/Holland_%26_Barrett_logo.svg",
             "siteUrl": "https://hollandandbarrett.com/",
             "updatedAt": "2026-02-07T22:00:22.209Z"
+        },
+        "home-depot": {
+            "names": [
+                "Home Depot",
+                "The Home Depot",
+                "The Home Depot, Inc.",
+                "HD"
+            ],
+            "comment": "Home Depot is an American retailer that has overcharged customers [1][2], nonconsensually shared data with Facebook [3], removed DEI policies [4][5], discriminated against anti‑racist protesters [6][7], fired an employee with cancer rather than providing reasonable accommodation [8], illegally released environmental waste [9], has a Zionist founder [10], was complicit in ICE migrant detentions at its stores [11][12], and ignored safety recommendations after employees died in a store collapse [13].",
+            "sources": {
+                "1": "https://www.msn.com/en-us/technology/hardware-and-devices/millions-lost-in-home-depot-s-2m-overcharge-scheme-the-scanner-trap-uncovered/ar-AA1Sh8OV",
+                "2": "https://www.entrepreneur.com/business-news/home-depot-settles-scanner-violation-claims-for-2-million/479929",
+                "3": "https://www.cbc.ca/news/politics/home-depot-privacy-commissioner-meta-1.6726668",
+                "4": "https://www.independent.co.uk/news/world/americas/home-depot-customer-boycott-dei-policy-b2750723.html",
+                "5": "https://www.msn.com/en-us/money/companies/home-depot-under-fire-as-boycott-grows-over-diversity-concerns/ar-AA1HQSMK",
+                "6": "https://www.bbc.com/news/business-58251211",
+                "7": "https://www.cnn.com/2024/02/21/business/home-depot-broke-labor-law-by-firing-an-employee-with-blm-on-apron-nlrb-rules",
+                "8": "http://www.natlawreview.com/article/home-depot-to-pay-100000-to-settle-eeoc-disability-discrimination-suit",
+                "9": "https://www.oag.ca.gov/news/press-releases/attorney-general-becerra-home-depot-agrees-2784-million-settlement-violations",
+                "10": "https://brusselsmorning.com/does-home-depot-back-israel-role-of-co-founder-bernie-marcus/77666/",
+                "11": "https://www.npr.org/2025/08/19/nx-s1-5504124/home-depot-earnings-immigration-raids-day-laborers",
+                "12": "https://newjerseymonitor.com/briefs/anti-ice-protestors-target-home-depot-to-denounce-immigration-arrests/",
+                "13": "https://web.archive.org/web/20110627135242/http://www.kansascity.com/2011/06/25/2975177/experts-challenge-building-design.html#ixzz1QZoEgC5d"
+            },
+            "sourceNotes": {
+                "1": "overcharged customers",
+                "2": "overcharged customers",
+                "3": "nonconsentually shared data with facebook",
+                "4": "removed DEI policies",
+                "5": "removed DEI policies",
+                "6": "discriminated aginst anti-racist protesters",
+                "7": "discriminated aginst anti-racist protesters",
+                "8": "fired an employee with cancer rather than providing reasaonable accomadation",
+                "9": "illegally released environmental waste",
+                "10": "zionist founder",
+                "11": "complicity as ICE detained migrants at their stores",
+                "12": "complicity as ICE detained migrants at their stores",
+                "13": "ignored construction safety recommendations after employees died in a store collapse"
+            },
+            "tags": [],
+            "score": 10,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/TheHomeDepot.svg",
+            "siteUrl": "https://homedepot.com/",
+            "updatedAt": "2026-02-07T23:14:55.264Z"
         }
     }
 }
