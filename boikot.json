@@ -18279,6 +18279,28 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/TheHomeDepot.svg",
             "siteUrl": "https://homedepot.com/",
             "updatedAt": "2026-02-07T23:14:55.264Z"
+        },
+        "hotel-chocolat": {
+            "names": [
+                "Hotel Chocolat",
+                "Hotel Chocolat Group",
+                "Hotel Chocolat Group Limited",
+                "HOTC"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "confectionery"
+            ],
+            "score": null,
+            "ownedBy": [
+                "mars"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Hotel_chocolat_group_logo.png",
+            "siteUrl": "https://hotelchocolat.com/",
+            "updatedAt": "2026-02-08T17:29:02.321Z"
         }
     }
 }
