@@ -8653,7 +8653,10 @@
             "comment": "",
             "sources": {},
             "sourceNotes": {},
-            "tags": [],
+            "tags": [
+                "retail",
+                "electronics"
+            ],
             "score": 24,
             "ownedBy": [
                 "stanley-black-and-decker"
@@ -9165,7 +9168,9 @@
             "comment": "",
             "sources": {},
             "sourceNotes": {},
-            "tags": [],
+            "tags": [
+                "tech"
+            ],
             "score": 42,
             "ownedBy": [
                 "zoom"
@@ -10321,7 +10326,10 @@
             "comment": "",
             "sources": {},
             "sourceNotes": {},
-            "tags": [],
+            "tags": [
+                "electronics",
+                "retail"
+            ],
             "score": null,
             "ownedBy": [
                 "eagletree-capital"
@@ -14465,7 +14473,9 @@
             "comment": "",
             "sources": {},
             "sourceNotes": {},
-            "tags": [],
+            "tags": [
+                "pets"
+            ],
             "score": 10,
             "ownedBy": [
                 "nestle"
@@ -18273,7 +18283,9 @@
                 "12": "complicity as ICE detained migrants at their stores",
                 "13": "ignored construction safety recommendations after employees died in a store collapse"
             },
-            "tags": [],
+            "tags": [
+                "retail"
+            ],
             "score": 10,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/TheHomeDepot.svg",
