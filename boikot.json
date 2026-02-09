@@ -18313,6 +18313,732 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Hotel_chocolat_group_logo.png",
             "siteUrl": "https://hotelchocolat.com/",
             "updatedAt": "2026-02-08T17:29:02.321Z"
+        },
+        "frasers-group": {
+            "names": [
+                "Frasers Group",
+                "Frasers Group plc",
+                "Sports Direct International plc",
+                "Sports Direct International Limited",
+                "FRAS"
+            ],
+            "comment": "Frasers Group is a British retail group that has engaged in predatory pricing [1], repeatedly underpaid employees [2][3][4], maintained poor working conditions and wages below minimum wage [5][6][7], and treated employees inhumanely [8]. The company has also illegally handled redundancies [9], failed to inform victims of a data breach [10], employed in-store facial recognition [11], and abused female employees [12].",
+            "sources": {
+                "1": "https://www.which.co.uk/news/article/dodgy-pricing-tactics-at-sports-direct-may-be-breaking-the-law-ajikA1s0WjDi",
+                "2": "https://www.theguardian.com/business/2016/aug/15/sports-direct-staff-to-receive-back-pay-unite-hmrc",
+                "3": "https://www.bbc.co.uk/news/uk-england-derbyshire-37085244",
+                "4": "https://www.theguardian.com/business/2017/mar/28/sports-direct-workers-yet-to-receive-backpay-transline-mps-told",
+                "5": "https://www.theguardian.com/business/2015/dec/09/how-sports-direct-effectively-pays-below-minimum-wage-pay",
+                "6": "https://www.theguardian.com/business/2015/sep/09/sports-direct-investors-revolt-against-chairman-and-pay-policy",
+                "7": "https://www.theguardian.com/business/2015/oct/05/ambulances-called-to-sports-direct-hq-more-than-80-times-in-two-years",
+                "8": "https://www.bbc.co.uk/news/uk-england-derbyshire-36855374#:~:text=Sports%20Direct%20staff%20'not%20treated%20as%20humans'%2C%20says%20MPs'%20report",
+                "9": "https://www.theguardian.com/business/2015/oct/09/sports-direct-chief-executive-david-forsey-charged-usc-administration",
+                "10": "https://www.theregister.co.uk/2017/02/08/sports_direct_fails_to_inform_staff_over_hack_and_data_breach/",
+                "11": "https://internetretailing.net/frasers-group-cameras/#:~:text=Frasers%20group%20criticised%20over%20'invasive'%20and%20'discriminatory'%20in%2Dstore%20facial%20recognition%20tech",
+                "12": "https://www.drapersonline.com/news/missy-empire-co-founder-hit-with-toxic-workplace-allegations"
+            },
+            "sourceNotes": {
+                "1": "predatory pricing",
+                "2": "underpaid employees",
+                "3": "underpaid employees",
+                "4": "underpaid employees",
+                "5": "poor working conditions and pay below minimum wage",
+                "6": "poor working conditions",
+                "7": "poor working conditions - ambulances called to hq",
+                "8": "treated employees inhumanely",
+                "9": "illegal handling of redundancies",
+                "10": "failed to inform victims of data breach",
+                "11": "uses in-store facial recognition",
+                "12": "abusive treatment towards female employees"
+            },
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Frasers_Group.svg",
+            "siteUrl": "https://frasers.group/",
+            "updatedAt": "2026-02-09T10:30:58.001Z"
+        },
+        "firetrap": {
+            "names": [
+                "Firetrap"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Firetrap",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Firetrap_logo.png",
+            "siteUrl": "https://www.firetrap.com/"
+        },
+        "flannels": {
+            "names": [
+                "Flannels"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Flannels_(retail)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flanels_blacklogo.png",
+            "siteUrl": "https://flannels.com/"
+        },
+        "game": {
+            "names": [
+                "Game"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Game_(retailer)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Game_Retail_Ltd_Logo.webp",
+            "siteUrl": "https://www.game.co.uk/"
+        },
+        "gieves-and-hawkes": {
+            "names": [
+                "Gieves & Hawkes"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gieves_%26_Hawkes",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Gieves_%26_Hawkes_-_logo.png",
+            "siteUrl": "http://gievesandhawkes.com/"
+        },
+        "house-of-frasersfrasers": {
+            "names": [
+                "House of Frasers/Frasers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/House_of_Fraser",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/House_of_Fraser_and_Frasers_logos_side_by_side.png",
+            "siteUrl": "http://houseoffraser.co.uk/"
+        },
+        "jack-wills": {
+            "names": [
+                "Jack Wills"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Jack_Wills",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e9/Jack_Wills_logo.png",
+            "siteUrl": "https://www.jackwills.com/"
+        },
+        "sofa.com": {
+            "names": [
+                "Sofa.com"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sofa.com",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/dc/Sofa.com_Logo.jpg",
+            "siteUrl": "https://www.sofa.com/"
+        },
+        "tessuti": {
+            "names": [
+                "Tessuti"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tessuti",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3d/Tessuti_logo.svg",
+            "siteUrl": "http://www.tessuti.co.uk/"
+        },
+        "the-webster": {
+            "names": [
+                "The Webster"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Webster",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/06/The_official_Webster_Miami_logo.png",
+            "siteUrl": "http://thewebster.com/"
+        },
+        "evans-cycles": {
+            "names": [
+                "Evans Cycles"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Evans_Cycles",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Evanscycles_logo.png",
+            "siteUrl": "https://www.evanscycles.com/"
+        },
+        "gelert": {
+            "names": [
+                "Gelert"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gelert_(company)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/0a/Gelert_Logo.png",
+            "siteUrl": "https://gelert.com/"
+        },
+        "heatons": {
+            "names": [
+                "Heatons"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Heatons",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Heatonslogo.png",
+            "siteUrl": "https://www.heatonsstores.com/"
+        },
+        "sports-direct": {
+            "names": [
+                "Sports Direct"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sports_Direct",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sports_Direct_logo_2020.svg",
+            "siteUrl": "https://sportsdirect.com/"
+        },
+        "sweatshop": {
+            "names": [
+                "Sweatshop"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sweatshop_(retailer)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/34",
+            "siteUrl": "https://www.sweatshop.com/"
+        },
+        "usc": {
+            "names": [
+                "USC"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/USC_(clothing_retailer)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/USC_logo_%28Frasers_Group%29.svg",
+            "siteUrl": "https://www.usc.co.uk/"
+        },
+        "coggles": {
+            "names": [
+                "Coggles"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Coggles",
+            "siteUrl": "http://coggles.com/"
+        },
+        "ebuyer": {
+            "names": [
+                "Ebuyer"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ebuyer",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/0b/Ebuyer_Logo_%282021%29.svg",
+            "siteUrl": "http://www.ebuyer.com/"
+        },
+        "studio": {
+            "names": [
+                "Studio"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Studio_Retail_Group",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Studio_New_Logo_2024.jpeg/250px-Studio_New_Logo_2024.jpeg",
+            "siteUrl": "https://www.studio.co.uk/"
+        },
+        "wiggle": {
+            "names": [
+                "Wiggle"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Wiggle_Ltd"
+        },
+        "british-knights": {
+            "names": [
+                "British Knights"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/British_Knights",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Britishknights_brand_logo.png",
+            "siteUrl": "http://www.bkfootwear.com/"
+        },
+        "carlton": {
+            "names": [
+                "Carlton"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlton_Sports",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Carlton_Sports_logo.svg",
+            "siteUrl": "https://ukstore.carltonsports.com/"
+        },
+        "donnay": {
+            "names": [
+                "Donnay"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Donnay_(sports)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Donnay_logo.png",
+            "siteUrl": "https://donnay.com/"
+        },
+        "everlast": {
+            "names": [
+                "Everlast"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Everlast_(brand)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Everlast-logo-2011.svg",
+            "siteUrl": "https://www.everlast.com/"
+        },
+        "gul": {
+            "names": [
+                "Gul"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gul_(watersports)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Gul_waterports_Logo.svg",
+            "siteUrl": "http://gul.com/"
+        },
+        "hot-tuna": {
+            "names": [
+                "Hot Tuna"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hot_Tuna_Clothing",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/de/Hot_Tuna_logo.png",
+            "siteUrl": "http://www.hot-tuna.com/"
+        },
+        "kangol": {
+            "names": [
+                "Kangol"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kangol",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8b/Kangol.svg",
+            "siteUrl": "http://kangol.com/"
+        },
+        "karrimor": {
+            "names": [
+                "Karrimor"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Karrimor",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Karrimor_logo.svg"
+        },
+        "la-gear": {
+            "names": [
+                "LA Gear"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/LA_Gear",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/LA_GEAR_LOGO.jpg",
+            "siteUrl": "https://lagear.com/"
+        },
+        "lillywhites": {
+            "names": [
+                "Lillywhites"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lillywhites",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lillywhites_green_logo.png",
+            "siteUrl": "https://www.lillywhites.com/"
+        },
+        "lonsdale": {
+            "names": [
+                "Lonsdale"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lonsdale_(clothing)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7d/Lonsdale_logo.svg",
+            "siteUrl": "https://www.lonsdale.com/"
+        },
+        "muddyfox": {
+            "names": [
+                "Muddyfox"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Muddyfox",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/19/Muddyfox_logo.png",
+            "siteUrl": "https://www.muddyfox.com/"
+        },
+        "no-fear": {
+            "names": [
+                "No Fear"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/No_Fear",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/30/No_Fear_logo.png",
+            "siteUrl": "http://www.nofear.com/"
+        },
+        "slazenger": {
+            "names": [
+                "Slazenger"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Slazenger",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/64/Slazenger_logo.svg",
+            "siteUrl": "http://store.slazenger.com/"
+        },
+        "gamestation": {
+            "names": [
+                "Gamestation"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gamestation",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Gamestation_%28logo%29.png",
+            "siteUrl": "http://gamestation.co.uk/"
+        },
+        "jjb-sports": {
+            "names": [
+                "JJB Sports"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/JJB_Sports",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/JJB_Sports_%28logo%29.png",
+            "siteUrl": "http://jjbsports.com/"
+        },
+        "republic": {
+            "names": [
+                "Republic"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "frasers-group"
+            ],
+            "updatedAt": "2026-02-09T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Republic_(retailer)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/62",
+            "siteUrl": "http://www.republic.co.uk/"
         }
     }
 }
