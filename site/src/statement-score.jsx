@@ -96,6 +96,9 @@ export function StatementScore() {
     return <Page>
         <Helmet>
             <title> Statement Score | boikot </title>
+            <script src="/assets/pdf.min.mjs" type="module"></script>
+            <script src="/assets/pdf.worker.min.mjs" type="module"></script>
+            <script src="/assets/showdown.min.js"></script>
         </Helmet>
         <Stack>
             <h1> Statement Score </h1>
