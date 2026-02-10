@@ -19039,6 +19039,39 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Republic_(retailer)",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/62",
             "siteUrl": "http://www.republic.co.uk/"
+        },
+        "htc": {
+            "names": [
+                "HTC",
+                "HTC Corporation",
+                "High Tech Computer Corporation",
+                "宏達國際電子股份有限公司"
+            ],
+            "comment": "HTC is a Taiwanese electronics manufacturer that has failed to protect customers by selling insecure devices [1] and has sourced components from suppliers with unacceptable and abusive working conditions [2][3][4]. The company has also engaged in illegal surveillance on users' devices [5][6].",
+            "sources": {
+                "1": "https://www.ftc.gov/news-events/news/press-releases/2013/02/htc-america-settles-ftc-charges-it-failed-secure-millions-mobile-devices-shipped-consumers#:~:text=Mobile%20device%20manufacturer%20HTC%20America%20has%20agreed,that%20the%20company%20failed%20to%20take%20reasonable",
+                "2": "http://johninnit.co.uk/2011/10/19/have-htc-read-their-own-code-of-ethics-recently/",
+                "3": "https://goodelectronics.org/report-paying-the-price-for-flexibility-workers-experiences-in-the-electronics-industry-in-mexico/",
+                "4": "https://web.archive.org/web/20210616223125/https://sacom.hk/2013/11/25/investigative-report-no-more-bloodstained-cover-glass-on-iphones-biel-crystal-stop-bloody-exploitation-now/",
+                "5": "https://venturebeat.com/mobile/htc-samsung-carrieriq",
+                "6": "https://www.phonearena.com/news/Class-action-lawsuits-aimed-at-Carrier-IQ-HTC-Samsung_id24299"
+            },
+            "sourceNotes": {
+                "1": "failed to protect customers by selling insecure devices",
+                "2": "sourced from suppliers with unacceptable working conditions",
+                "3": "sourced from suppliers with unacceptable working conditions",
+                "4": "sourced from suppliers with abusive working conditions",
+                "5": "engaged in illegal surveillance on users' devices",
+                "6": "engaged in illegal surveillance on users' devices"
+            },
+            "tags": [
+                "electronics"
+            ],
+            "score": 27,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/HTC.svg",
+            "siteUrl": "http://www.htc.com/",
+            "updatedAt": "2026-02-10T18:16:05.298Z"
         }
     }
 }
