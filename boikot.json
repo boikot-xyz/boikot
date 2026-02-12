@@ -19072,6 +19072,24 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/HTC.svg",
             "siteUrl": "http://www.htc.com/",
             "updatedAt": "2026-02-10T18:16:05.298Z"
+        },
+        "huggies": {
+            "names": [
+                "Huggies"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Huggies_Disposable_Diapers_at_Kroger.jpg/250px-Huggies_Disposable_Diapers_at_Kroger.jpg",
+            "siteUrl": "https://www.huggies.com/",
+            "updatedAt": "2026-02-12T17:56:04.678Z"
         }
     }
 }
