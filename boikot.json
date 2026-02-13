@@ -19073,6 +19073,58 @@
             "siteUrl": "http://www.htc.com/",
             "updatedAt": "2026-02-10T18:16:05.298Z"
         },
+        "huawei": {
+            "names": [
+                "Huawei",
+                "Huawei Corporation",
+                "HUAWEI",
+                "华为技术有限公司",
+                "华为"
+            ],
+            "comment": "Huawei is a Chinese technology company that has colluded with police to imprison former employees [1][2], spied on the African Union [3], and has been linked to labor rights abuses, including forced overwork leading to death [4][5][6][7], and the forced use of Uyghur labor in its supply chain. Huawei has collaborated with the Burmese military to suppress human rights [8], and participated in the oppression of Uyghur minorities and other human rights abuses [9][10][11][12][13][14][15].",
+            "sources": {
+                "1": "https://web.archive.org/web/20191223051032/https://www.theguardian.com/technology/2019/dec/23/this-is-not-rule-of-law-detention-of-huawei-workers-sparks-backlash",
+                "2": "https://web.archive.org/web/20191203190157/http://www.sixthtone.com/news/1004908/huawei-breaks-silence-after-sending-former-employee-to-jail",
+                "3": "https://www.bbc.co.uk/news/resources/idt-sh/Huawei",
+                "4": "https://web.archive.org/web/20110716065253/http://www.clb.org.hk/en/node/50739",
+                "5": "https://web.archive.org/web/20081006132653/http://www.clb.org.hk/en/node/100253",
+                "6": "https://web.archive.org/web/20110120111359/http://www.cbc.ca/news/viewpoint/vp_metz/20071105.html",
+                "7": "https://web.archive.org/web/20110514044112/http://english.ohmynews.com/articleview/article_view.asp?menu=c10400&no=296942&rel_no=1",
+                "8": "https://burmacampaign.org.uk/take-action/Huawei/",
+                "9": "https://web.archive.org/web/20200422202834/https://www.theguardian.com/technology/2020/mar/03/tory-mp-asks-bt-using-huawei-complies-anti-slavery-policy",
+                "10": "https://web.archive.org/web/20200505103837/https://www.ft.com/content/8912445a-5bd3-11ea-8033-fa40a0d65a98",
+                "11": "https://web.archive.org/web/20191125180459/https://www.nytimes.com/2019/05/22/world/asia/china-surveillance-xinjiang.html",
+                "12": "https://web.archive.org/web/20200511163329/https://www.thetimes.co.uk/article/chinese-tech-giant-huawei-helps-to-persecute-uighurs-7dfcb56nw",
+                "13": "https://web.archive.org/web/20200823221956/https://thehill.com/policy/technology/507443-us-announces-sanctions-on-huawei-citing-human-rights-abuses",
+                "14": "https://www.washingtonpost.com/technology/2020/12/08/huawei-tested-ai-software-that-could-recognize-uighur-minorities-alert-police-report-says/",
+                "15": "https://www.bbc.com/news/world-europe-55265989"
+            },
+            "sourceNotes": {
+                "1": "colluded with police to imprison former employees",
+                "2": "colluded with police to imprison former employees",
+                "3": "spyed on the african union",
+                "4": "labour rights abuses",
+                "5": "labour rights abuses",
+                "6": "overworked employees leading to death",
+                "7": "overworked employees leading to death",
+                "8": "collaborated with Burmese military to supress human rights",
+                "9": "forced Uyghur labour in supply chain",
+                "10": "forced Uyghur labour in supply chain",
+                "11": "participated in oppression of Uyghur minorities",
+                "12": "participated in oppression of Uyghur minorities",
+                "13": "participated in oppression of Uyghur minorities and human rights abuses",
+                "14": "participated in oppression of Uyghur minorities and human rights abuses",
+                "15": "participated in oppression of Uyghur minorities and human rights abuses"
+            },
+            "tags": [
+                "electronics"
+            ],
+            "score": 14,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/04/Huawei_Standard_logo.svg",
+            "siteUrl": "https://www.huawei.com/",
+            "updatedAt": "2026-02-11T10:47:42.082Z"
+        },
         "huggies": {
             "names": [
                 "Huggies"
@@ -19087,9 +19139,28 @@
             "ownedBy": [
                 "kimberly-clark"
             ],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Huggies_Disposable_Diapers_at_Kroger.jpg/250px-Huggies_Disposable_Diapers_at_Kroger.jpg",
+            "logoUrl": "https://seeklogo.com/images/H/huggies-logo-19A14219BD-seeklogo.com.png",
             "siteUrl": "https://www.huggies.com/",
             "updatedAt": "2026-02-12T17:56:04.678Z"
+        },
+        "hulu": {
+            "names": [
+                "hulu",
+                "Hulu"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "disney"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Hulu_logo_%282018%29.svg",
+            "siteUrl": "https://www.hulu.com/",
+            "updatedAt": "2026-02-13T19:54:19.595Z"
         }
     }
 }

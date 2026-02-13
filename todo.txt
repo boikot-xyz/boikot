@@ -179,6 +179,38 @@ havaianas
 hbo
 head
 hermes/evri
+    BAUR Versand
+    bonprix Handelsgesellschaft mbH
+    EOS Holding
+    Risk.Ident GmbH
+    Witt-Gruppe
+    Bonprix
+    Crate and Barrel
+    Heine
+    Küche & Co
+    Quelle
+    Sheego AG
+    Witt-Gruppe
+    Baur Group
+    FGH
+    Frankonia
+    Lascana
+    Limango
+    Manufactum
+    Otto Austria Group
+    Hermes
+    Otto Group one.O
+    Otto International
+    Risk Ident
+    EOS Group
+    Hanseatic Bank
+    Hanseatic Versicherungsdienst
+    BetterDoc
+    Headline
+    Medgate
+    Project A
+    Systain
+
 hershey's
 hilton
 hobbycraft
