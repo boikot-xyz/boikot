@@ -19161,6 +19161,81 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Hulu_logo_%282018%29.svg",
             "siteUrl": "https://www.hulu.com/",
             "updatedAt": "2026-02-13T19:54:19.595Z"
+        },
+        "hyatt": {
+            "names": [
+                "Hyatt",
+                "Hyatt Hotels Corporation",
+                "Hyatt Hotels & Resorts",
+                "H"
+            ],
+            "comment": "",
+            "sources": {
+                "1": "https://onemileatatime.com/news/hyatt-hotel-scam-honoring-low-rate/",
+                "2": "https://www.thestreet.com/travel/lawsuit-filed-on-hidden-fees-travelers-pay-at-major-u-s-hotel-chain",
+                "3": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-125-million-settlement-hyatt-hotels-forcing-company-stop-hiding",
+                "4": "https://www.law360.com/articles/1602985/hyatt-to-pay-1m-to-end-seattle-workers-unpaid-wages-suit",
+                "5": "https://truthout.org/articles/why-boycotting-hyatt-is-more-than-just-a-union-issue-an-interview-with-activist-cleve-jones/",
+                "6": "https://www.ncronline.org/news/people/hyatt-has-huge-moral-challenge-overcome-treatment-employees",
+                "7": "https://www.wkbw.com/news/local-news/buffalo/hyatt-regency-fighting-to-unionize-say-key-organizer-was-wrongfully-terminated",
+                "8": "https://www.dir.ca.gov/DIRNews/2023/2023-76.html",
+                "9": "https://web.archive.org/web/20211202125937/http://www.hyattbipasettlement.com/"
+            },
+            "sourceNotes": {
+                "1": "price gouging and hidden fees",
+                "2": "price gouging and hidden fees",
+                "3": "hidden fees",
+                "4": "underpaid employees",
+                "5": "overworking employees",
+                "6": "exploiting employees and anti-union practices",
+                "7": "discriminated against employees trying to unionize",
+                "8": "mistreated employees during covid",
+                "9": "mishandled employee biometric data"
+            },
+            "tags": [
+                "hospitality"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Hyatt_Logo.svg",
+            "siteUrl": "https://hyatt.com/",
+            "updatedAt": "2026-02-14T10:10:06.890Z"
+        },
+        "apple-leisure-group": {
+            "names": [
+                "Apple Leisure Group"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "hyatt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Apple_Leisure_Group_logo.png/250px-Apple_Leisure_Group_logo.png",
+            "siteUrl": "http://www.appleleisuregroup.com/",
+            "updatedAt": "2026-02-14T18:26:35.570Z"
+        },
+        "alila": {
+            "names": [
+                "Alila"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "hyatt"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Alila_Hotels_and_Resorts_logo.svg",
+            "siteUrl": "http://alilahotels.com/",
+            "updatedAt": "2026-02-14T18:26:35.570Z"
         }
     }
 }
