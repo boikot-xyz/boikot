@@ -19236,6 +19236,272 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Alila_Hotels_and_Resorts_logo.svg",
             "siteUrl": "http://alilahotels.com/",
             "updatedAt": "2026-02-14T18:26:35.570Z"
+        },
+        "iheartmedia": {
+            "names": [
+                "iHeartMedia",
+                "iHeartMedia, Inc.",
+                "CC Media Holdings, Inc.",
+                "CC Media Holdings",
+                "Clear Channel",
+                "IHRT"
+            ],
+            "comment": "iHeartMedia is a U.S. media conglomerate that has forced musicians to work without pay [1][2], illegally gifted services to Republican politicians [3], and engaged in deceptive advertising [4]. The company has also demonstrated poor crisis management with a lack of local staff during emergencies [5], refused to air adverts containing same‑sex couples [6][7][8], and censored political music critical of the Iraq war [9][10].",
+            "sources": {
+                "1": "https://www.yahoo.com/news/fcc-probes-iheartmedia-following-accusations-030411548.html",
+                "2": "https://www.newsweek.com/trump-official-investigating-iheartmedia-allegedly-forcing-musicians-work-no-pay-2036724",
+                "3": "https://www.forbes.com/sites/zacheverson/2022/12/01/ted-cruzs-podcast-deal-with-iheartmedia-may-violate-ethics-laws-watchdog-says-in-new-complaint/",
+                "4": "https://natlawreview.com/article/google-iheartmedia-pay-94-million-to-settle-ftc-and-state-allegations-deceptive",
+                "5": "https://web.archive.org/web/20101206055034/http://www.democracynow.org/2007/1/25/exclusive_911_calls_in_north_dakota",
+                "6": "http://www.wtsp.com/news/local/story.aspx?storyid=133980&catid=8",
+                "7": "https://www.glaad.org/2010/calltoaction/clearchannel",
+                "8": "http://banbillboardblight.org/clear-channel-wont-allow-gay-pride-images-on-billboards/",
+                "9": "https://web.archive.org/web/20111010015435/http://www.bizjournals.com/jacksonville/stories/2003/03/17/daily14.html",
+                "10": "https://web.archive.org/web/20120716180633/http://www.usatoday.com/news/nation/2005-08-20-bush-ad_x.htm"
+            },
+            "sourceNotes": {
+                "1": "forced musicisns to work without pay",
+                "2": "forced musicisns to work without pay",
+                "3": "illegally gifted services to republican politicians",
+                "4": "deceptive advertising",
+                "5": "Lack of local staff leading to failed emergency response",
+                "6": "refused to show adverts containing same-sex couples",
+                "7": "refused to show adverts containing same-sex couples",
+                "8": "refused to show adverts containing same-sex couples",
+                "9": "censored political music and criticism of the war in iraq",
+                "10": "censored political music and criticism of the war in iraq"
+            },
+            "tags": [
+                "media"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/IHeartMedia_Logo.svg",
+            "siteUrl": "https://www.iheartmedia.com/",
+            "updatedAt": "2026-02-14T18:31:31.978Z"
+        },
+        "bauer-media-outdoor-uk": {
+            "names": [
+                "Bauer Media Outdoor UK"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "media"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "iheartmedia"
+            ],
+            "updatedAt": "2026-02-15T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bauer_Media_Outdoor_UK",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bauer_Media_Outdoor_Logo_2025.png",
+            "siteUrl": "http://www.bauermedia.com/business/outdoor"
+        },
+        "black-information-network": {
+            "names": [
+                "Black Information Network"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "media"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "iheartmedia"
+            ],
+            "updatedAt": "2026-02-15T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Black_Information_Network",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/77/Black_Information_Network_logo.webp",
+            "siteUrl": "https://www.binnews.com/"
+        },
+        "clear-channel-outdoor": {
+            "names": [
+                "Clear Channel Outdoor"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "media"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "iheartmedia"
+            ],
+            "updatedAt": "2026-02-15T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Clear_Channel_Outdoor",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f9/Clear_Channel_Outdoor_logo.svg",
+            "siteUrl": "http://clearchanneloutdoor.com/"
+        },
+        "clear-channel-uk": {
+            "names": [
+                "Clear Channel UK"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "media"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "iheartmedia"
+            ],
+            "updatedAt": "2026-02-15T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Clear_Channel_UK",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bauer_Media_Outdoor_Logo_2025.png",
+            "siteUrl": "http://www.bauermedia.com/business/outdoor"
+        },
+        "evolution": {
+            "names": [
+                "Evolution"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "media"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "iheartmedia"
+            ],
+            "updatedAt": "2026-02-15T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Evolution_(radio_network)"
+        },
+        "howstuffworks": {
+            "names": [
+                "HowStuffWorks"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "media"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "iheartmedia"
+            ],
+            "updatedAt": "2026-02-15T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/HowStuffWorks",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Howstuffworks_logo.svg",
+            "siteUrl": "https://www.howstuffworks.com/"
+        },
+        "iheartradio": {
+            "names": [
+                "iheartmedia"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "media"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "iheartmedia"
+            ],
+            "updatedAt": "2026-02-15T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/IHeartRadio",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/IHeartRadio_Logo.svg"
+        },
+        "mediabase": {
+            "names": [
+                "Mediabase"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "media"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "iheartmedia"
+            ],
+            "updatedAt": "2026-02-15T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mediabase",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/18/Mediabase_corporate_logo.png",
+            "siteUrl": "http://www.mediabase.com/"
+        },
+        "premiere-networks": {
+            "names": [
+                "Premiere Networks"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "media"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "iheartmedia"
+            ],
+            "updatedAt": "2026-02-15T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Premiere_Networks",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46",
+            "siteUrl": "https://www.premierenetworks.com/"
+        },
+        "radio-computing-services": {
+            "names": [
+                "Radio Computing Services"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "media"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "iheartmedia"
+            ],
+            "updatedAt": "2026-02-15T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Radio_Computing_Services",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8d/RCS_corporate_logo.png",
+            "siteUrl": "http://www.rcsworks.com/"
+        },
+        "triton-digital": {
+            "names": [
+                "Triton Digital"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "media"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "iheartmedia"
+            ],
+            "updatedAt": "2026-02-15T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Triton_Digital"
+        },
+        "the-volume": {
+            "names": [
+                "The Volume"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "media"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "iheartmedia"
+            ],
+            "updatedAt": "2026-02-15T06:28:22.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Volume",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/The_Volume_2023_logo.png",
+            "siteUrl": "https://www.thevolume.com/"
         }
     }
 }
