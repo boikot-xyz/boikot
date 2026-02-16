@@ -19502,6 +19502,32 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Volume",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/The_Volume_2023_logo.png",
             "siteUrl": "https://www.thevolume.com/"
+        },
+        "illy": {
+            "names": [
+                "Illy",
+                "Illycaffè",
+                "Illycaffè S.p.A.",
+                "illy"
+            ],
+            "comment": "Illy is an Italian coffee company that does not certify its coffee as fairtrade [1] and which has potentially been connected with forced labour in its supply chain [2].",
+            "sources": {
+                "1": "https://qz.com/gateway/trump-takeover-venezuela-cuba-regime-change",
+                "2": "https://www.business-humanrights.org/en/latest-news/IllycafferesponsetothereportBitterBrew/"
+            },
+            "sourceNotes": {
+                "1": "does not certify its coffee as fairtrade",
+                "2": "potential connections to forced labour in supply chain"
+            },
+            "tags": [
+                "coffee",
+                "beverages"
+            ],
+            "score": 49,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_Illy.svg",
+            "siteUrl": "https://www.illy.com/",
+            "updatedAt": "2026-02-16T13:20:28.997Z"
         }
     }
 }
