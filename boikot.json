@@ -19528,6 +19528,54 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_Illy.svg",
             "siteUrl": "https://www.illy.com/",
             "updatedAt": "2026-02-16T13:20:28.997Z"
+        },
+        "in-n-out": {
+            "names": [
+                "In-N-Out",
+                "In-N-Out Burger",
+                "In-N-Out Burgers"
+            ],
+            "comment": "In-N-Out is an American fast‑food chain that has donated to the Republican Party [1][2], has been accused of racial discrimination against employees [3][4], and has violated labor rights by preventing workers from wearing badges [5]. The company has opposed COVID‑19 vaccines [6][7][8] and mask mandates [9][10][11], overuses antibiotics in its meat supply chain [12][13], and has resisted improved climate change regulations [14].",
+            "sources": {
+                "1": "https://www.cnbc.com/2018/08/30/in-n-out-burger-faces-boycott-for-california-gop-donation.html",
+                "2": "https://www.mashed.com/201369/secrets-in-n-out-burger-doesnt-want-you-to-know/",
+                "3": "https://ktla.com/news/local-news/former-in-n-out-employees-files-3-million-lawsuit-accusing-company-of-alleged-discrimination-over-hairstyle/",
+                "4": "https://www.sfgate.com/food/article/calif-man-sues-in-n-out-over-hairstyle-20384020.php",
+                "5": "https://www.hinshawlaw.com/en/insights/blogs/employment-law-observer/the-fight-for-dollar15-and-the-nlrb#:~:text=In%2DN%2DOut%20Burger%2C%20Incorporated%20(In%2DN%2DOut%20(%20In%2DN%2DOut%20Burger,Fifth%20Circuit%2C%20in%20In%2DN%2DOut%20Burger%2C%20Incorporated%20v.",
+                "6": "https://www.npr.org/2021/10/20/1047638276/in-n-out-burger-san-francisco-vaccine-mandate",
+                "7": "https://www.latimes.com/california/story/2021-10-29/in-n-out-closes-all-of-its-contra-costa-county-indoor-dining-rooms-over-local-vaccine-mandates",
+                "8": "https://www.wsj.com/articles/in-n-out-burger-in-san-francisco-closed-for-violating-city-vaccine-policy-11634746703",
+                "9": "https://www.sfchronicle.com/health/article/in-n-out-bans-covid-masking-employees-az-nv-ut-18205121.php",
+                "10": "https://www.sfgate.com/politics/article/in-n-out-finally-comments-on-anti-mask-policy-18252998.php",
+                "11": "https://www.theguardian.com/food/2023/jul/18/in-n-out-ban-masks-workers-texas-arizona-colorado#:~:text=In%2DN%2DOut%20Burger%20has%20been%20criticized%20previously%20for,the%20vaccination%20status%20of%20indoor%20dining%20customers.",
+                "12": "https://www.thedailymeal.com/1962975/in-n-out-meat-sourcing-controversy/",
+                "13": "https://www.chowhound.com/1680480/mcdonalds-burgers-ranked-worst-best/",
+                "14": "https://www.levernews.com/why-in-n-out-burger-is-fighting-a-landmark-climate-bill/"
+            },
+            "sourceNotes": {
+                "1": "donated to republican party",
+                "2": "donated to republican party",
+                "3": "racial discrimination against employees",
+                "4": "racial discrimination against employees",
+                "5": "violated labour rights by preventing employees from wearing badges",
+                "6": "opposed covid vaccines",
+                "7": "opposed covid vaccines",
+                "8": "opposed covid vaccines",
+                "9": "opposed covid face mask requirements",
+                "10": "opposed covid face mask requirements",
+                "11": "opposed covid face mask requirements",
+                "12": "overuse of antibiotics in meat supply chain",
+                "13": "overuse of antibiotics in meat supply chain",
+                "14": "opposed improved climate change regulations"
+            },
+            "tags": [
+                "food"
+            ],
+            "score": 36,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/InNOut_2021_logo.svg",
+            "siteUrl": "https://in-n-out.com/",
+            "updatedAt": "2026-02-17T16:36:30.912Z"
         }
     }
 }
