@@ -19576,6 +19576,62 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/InNOut_2021_logo.svg",
             "siteUrl": "https://in-n-out.com/",
             "updatedAt": "2026-02-17T16:36:30.912Z"
+        },
+        "ing": {
+            "names": [
+                "ING",
+                "ING Group",
+                "ING Group N.V.",
+                "ING Groep",
+                "INGA"
+            ],
+            "comment": "ING is a Dutch banking group that has been repeatedly criticized for anti‑money‑laundering failures [1], involvement in money laundering and the extraction of funds from Russia [2][3], and corruption linked to money laundering [4]. The institution has also faced scrutiny for its inaction on climate change while continuing to finance fossil fuels [5], discriminatory treatment of minority clients [6][7], and price‑fixing and other anti‑competitive practices [8].",
+            "sources": {
+                "1": "https://northlark.com/ing-banks-aml-failures-and-200-million-fine/",
+                "2": "https://www.bloomberg.com/news/articles/2018-09-04/ing-to-pay-784-million-in-fines-to-settle-dutch-criminal-case",
+                "3": "https://www.dw.com/en/how-ing-bank-in-poland-helped-russians-launder-money/a-55322399",
+                "4": "https://brusselssignal.eu/2025/08/alleged-corruption-investigation-into-reynders-expands-to-ing-bank/",
+                "5": "https://www.business-humanrights.org/en/latest-news/netherlands-ing-sued-by-dutch-non-profit-for-alleged-failures-over-climate/",
+                "6": "https://nltimes.nl/2025/05/27/ing-apologizes-customers-discriminating-anti-money-laundering-approach",
+                "7": "https://pilp.nu/en/ing-discriminates-against-customers-based-on-their-origin-in-transaction-checks/",
+                "8": "https://www.law360.com/articles/1494088"
+            },
+            "sourceNotes": {
+                "1": "anti money laundering failures",
+                "2": "involved in money laundering",
+                "3": "involved in money laundering and extraction of funds from Russia",
+                "4": "involved in corruption and money laundering",
+                "5": "inaction over climate, continuing to finance fossil fuels",
+                "6": "discriminated against minority clients",
+                "7": "discriminated against minority clients",
+                "8": "prive fixing and anti competetive practices"
+            },
+            "tags": [
+                "bank"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/ING_Group_N.V._Logo.svg",
+            "siteUrl": "http://ing.com/",
+            "updatedAt": "2026-02-18T04:50:31.869Z"
+        },
+        "bank-mendes-gans": {
+            "names": [
+                "Bank Mendes Gans"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "bank"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "ing"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d5/Bank_Mendes_Gans.gif/250px-Bank_Mendes_Gans.gif",
+            "siteUrl": "http://www.mendesgans.com/",
+            "updatedAt": "2026-02-18T04:50:31.869Z"
         }
     }
 }
