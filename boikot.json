@@ -19693,6 +19693,45 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg",
             "siteUrl": "https://www.instagram.com/",
             "updatedAt": "2026-02-19T21:13:03.874Z"
+        },
+        "whatsapp": {
+            "names": [
+                "Whatsapp",
+                "WhatsApp Messenger"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "media",
+                "tech"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "meta"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/WhatsApp_Logo_green.svg",
+            "siteUrl": "https://whatsapp.com/",
+            "updatedAt": "2026-02-19T21:13:03.874Z"
+        },
+        "facebook": {
+            "names": [
+                "Facebook"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "media",
+                "tech"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "meta"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg",
+            "siteUrl": "https://www.facebook.com/",
+            "updatedAt": "2026-02-19T21:13:03.874Z"
         }
     }
 }
