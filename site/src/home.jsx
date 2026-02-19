@@ -27,7 +27,7 @@ export function Home() {
             <Link to="/companies"
                 style={{ textDecoration: "none", border: "0.05rem solid var(--fg)",
                     borderRadius: "0.5rem", padding: "0.6rem",
-                    background: "var(--bg-light", color: "white" }}>
+                    background: "var(--bg-light)", color: "white" }}>
                 <p style={{ opacity: 0.5, whiteSpace: 'pre-wrap' }}>
                     🔎  search companies
                 </p>
