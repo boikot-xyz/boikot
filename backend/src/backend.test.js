@@ -11,7 +11,7 @@ import { getInvestigationPrompt, getSummarisePrompt, getCombinePrompt } from "./
 import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, appleArticleText, kelloggsArticleText, wagamamaArticleText, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo, nintendoInfo, burberryInfo, hugePrompt } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
-import { sortSources } from "./assemble.js";
+import { sortSources } from "./sortSources.js";
 import { rustscrape } from "../rustscrape/rustscrape.js";
 import boikot from "../../boikot.json" with { type: "json" };
 
