@@ -19632,6 +19632,48 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d5/Bank_Mendes_Gans.gif/250px-Bank_Mendes_Gans.gif",
             "siteUrl": "http://www.mendesgans.com/",
             "updatedAt": "2026-02-18T04:50:31.869Z"
+        },
+        "instacart": {
+            "names": [
+                "Instacart",
+                "Maplebear Inc.",
+                "Maplebear",
+                "CART"
+            ],
+            "comment": "Instacart is an American online grocery delivery service that has engaged in deceptive pricing [1][2][3], mistreatment and misclassification of employees [4][5][6][7], and suffered a data breach that leaked users’ personal data [8]. Instacart has also covertly used AI to manipulate prices [9][10].",
+            "sources": {
+                "1": "https://www.cnbc.com/2025/12/18/instacart-ftc-settlement-deceptive-billing.html",
+                "2": "https://www.reuters.com/world/trump-nominates-joshua-rudd-director-national-security-agency-pentagon-says-2025-12-18/",
+                "3": "https://www.grocerydive.com/news/instacart-settles-legal-dispute-over-service-fee-with-district-of-columbi/630172/",
+                "4": "https://www.grocerydive.com/news/instacart-agrees-to-465m-settlement-over-worker-classification/633898/",
+                "5": "https://web.archive.org/web/20190430092238/https://www.recode.net/2017/3/23/14804094/instacart-settlement-class-action-lawsuit-workers",
+                "6": "https://www.latimes.com/business/technology/story/2020-08-27/shopping-for-instacart-metrics",
+                "7": "https://web.archive.org/web/20150319113650/https://time.com/3748438/instacart-lawsuit/",
+                "8": "https://www.forbes.com/sites/thomasbrewster/2025/08/27/instacart-target-shipt-gig-workers-hacked/",
+                "9": "https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/",
+                "10": "https://honeytree.co/post/ai-transparency-and-instacart-pricing-concerns"
+            },
+            "sourceNotes": {
+                "1": "deceptive pricing",
+                "2": "deceptive pricing",
+                "3": "deceptive pricing an misleading customers",
+                "4": "misclassification and mistreatment of employees",
+                "5": "mistreatment of employees",
+                "6": "poor working conditions",
+                "7": "mistreatment of employees",
+                "8": "leaked users personal data in breach",
+                "9": "used AI to for covert price gauging",
+                "10": "used AI to covertly increase prices"
+            },
+            "tags": [
+                "food",
+                "logistics"
+            ],
+            "score": 44,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Instacart_logo_and_wordmark.svg",
+            "siteUrl": "https://instacart.com/",
+            "updatedAt": "2026-02-19T08:35:58.152Z"
         }
     }
 }
