@@ -90,10 +90,12 @@ export function Home() {
                     💾  download dataset
                 </PillButton>
             </a>
+            {/*
             <h2 style={{ marginTop: "1rem" }}> mcp server 🤖  </h2>
             <p> you can also access our dataset using our
                 MCP server, which is hosted
                 at <a href="https://mcp.boikot.xyz/mcp"> https://mcp.boikot.xyz/mcp </a> </p>
+            */}
             <h2 style={{ marginTop: "1rem" }}> contact us 📬  </h2>
             <p> if you would like to work with us or have any other
                 enquiries please reach out! </p>
