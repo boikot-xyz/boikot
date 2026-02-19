@@ -19674,6 +19674,25 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Instacart_logo_and_wordmark.svg",
             "siteUrl": "https://instacart.com/",
             "updatedAt": "2026-02-19T08:35:58.152Z"
+        },
+        "instagram": {
+            "names": [
+                "Instagram"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "media",
+                "tech"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "meta"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg",
+            "siteUrl": "https://www.instagram.com/",
+            "updatedAt": "2026-02-19T21:13:03.874Z"
         }
     }
 }
