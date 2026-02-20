@@ -11,7 +11,7 @@ import boikot from "../../boikot.json";
 
 
 const scoreColor = x =>
-    `hsl(${x}deg 100% 60%)`;
+    !x ? "white" : `hsl(${x}deg 100% 60%)`;
 
 const ownerName = ownerKey =>
     boikot.companies[ownerKey]?.names[0] || ownerKey;
@@ -250,8 +250,8 @@ export function CompanyDetail() {
 
 export function Score({ score }) {
     const emoji =
-        score === null
-        ? ""
+        !score
+        ? "🤔"
         : score < 20
         ? "👺"
         : score < 40
@@ -268,7 +268,7 @@ export function Score({ score }) {
         borderRadius: "1.4rem",
     }}>
         <span style={{ fontSize: "0.8rem", fontWeight: "600", whiteSpace: "nowrap" }}>
-            { score } { emoji }
+            { score || "?" } { emoji }
         </span>
     </span>
 }
