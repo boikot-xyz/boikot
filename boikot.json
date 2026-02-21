@@ -19732,6 +19732,81 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg",
             "siteUrl": "https://www.facebook.com/",
             "updatedAt": "2026-02-19T21:13:03.874Z"
+        },
+        "intel": {
+            "names": [
+                "Intel",
+                "Intel Corporation",
+                "NM Electronics",
+                "intel",
+                "INTC"
+            ],
+            "comment": "Intel is a U.S. company that has engaged in anticompetitive monopolistic practices [1][2][3][4][5], tax avoidance [6][7], age discrimination against employees [8], and a CEO sex scandal [9]. Additionally, Intel has sold known defective chips [10][11][12], maintained unacceptable working conditions in its supply chain [13] and wage suppression of employees [14], while maintaining close connections to the U.S. military [15] and the Israeli government and military [16].",
+            "sources": {
+                "1": "https://web.archive.org/web/20081216122419/http://uk.reuters.com/article/technologyNews/idUKL1730607220080718?pageNumber=3&virtualBrandChannel=0",
+                "2": "https://www.nytimes.com/2008/01/10/technology/10cnd-chip.html",
+                "3": "http://news.bbc.co.uk/2/hi/business/8343179.stm",
+                "4": "https://web.archive.org/web/20231024140302/https://europa.eu/commission/presscorner/detail/en/ip_23_4570",
+                "5": "https://web.archive.org/web/20090516170330/http://www.time.com/time/business/article/0,8599,1897913,00.html",
+                "6": "http://greatgameindia.com/rothschild-inside-garbage-outside/",
+                "7": "http://www.dontmesswithtaxes.com/2016/08/indian-city-raises-stink-over-unpaid-tax-by-intel.html",
+                "8": "https://web.archive.org/web/20090522163807/http://www.programmersguild.org/archives/lib/agediscimination/upm19981207older.htm",
+                "9": "https://appleinsider.com/articles/18/06/21/intel-ceo-brian-krzanich-resigns-amidst-relationship-scandal",
+                "10": "https://www.tomshardware.com/pc-components/cpus/intel-slapped-with-class-action-lawsuit-for-raptor-lake-cpu-instability-issues-chipmaker-accused-of-consciously-selling-defective-chips",
+                "11": "https://www.pcgamer.com/hardware/processors/new-class-action-lawsuit-alleges-intel-knew-its-cpus-were-crashing-even-before-they-went-on-sale/",
+                "12": "https://www.tomshardware.com/pc-components/cpus/lawsuit-claims-intel-sold-billions-of-cpus-knowing-of-downfall-vulnerability",
+                "13": "https://chinalaborwatch.org/the-chaos-in-global-supply-chain-exacerbates-terrible-working-conditions-in-china/",
+                "14": "https://www.cnet.com/tech/tech-industry/apple-google-others-settle-anti-poaching-lawsuit-for-415-million/",
+                "15": "https://www.datacenterdynamics.com/en/news/intel-secures-35bn-military-semiconductor-grant-despite-ongoing-chips-act-funding-dispute/",
+                "16": "https://bdsmovement.net/Guide-to-BDS-Boycott"
+            },
+            "sourceNotes": {
+                "1": "anticompetetive monopolistic practices",
+                "2": "anticompetetive monopolistic practices",
+                "3": "anticompetetive monopolistic practices and bribery",
+                "4": "anticompetetive monopolistic practices",
+                "5": "anticompetetive monopolistic practices",
+                "6": "tax avoidance",
+                "7": "tax avoidance",
+                "8": "age discrimination against employees",
+                "9": "ceo sex scandal",
+                "10": "sold known defective chips",
+                "11": "sold known defective chips",
+                "12": "sold known defective chips",
+                "13": "unacceptable working conditions in supply chain",
+                "14": "wage supression of employees",
+                "15": "close connections to US military",
+                "16": "close connection to israeli government and military"
+            },
+            "tags": [
+                "tech",
+                "electronics"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Intel_logo_2023.svg",
+            "siteUrl": "https://www.intel.com/",
+            "updatedAt": "2026-02-20T08:00:29.907Z"
+        },
+        "intelligentsia": {
+            "names": [
+                "intelligentsia",
+                "Intelligentsia Coffee",
+                "Intelligentsia Coffee & Tea"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "coffee"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "jab-holding-company"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/93/Intelligentsia_logo.png",
+            "siteUrl": "http://intelligentsiacoffee.com/",
+            "updatedAt": "2026-02-21T08:51:03.526Z"
         }
     }
 }
