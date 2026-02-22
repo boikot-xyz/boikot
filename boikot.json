@@ -19807,6 +19807,24 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/93/Intelligentsia_logo.png",
             "siteUrl": "http://intelligentsiacoffee.com/",
             "updatedAt": "2026-02-21T08:51:03.526Z"
+        },
+        "jbl": {
+            "names": [
+                "JBL"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "electronics"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "samsung"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/JBL_logo.svg",
+            "siteUrl": "http://jbl.com/",
+            "updatedAt": "2026-02-20T22:47:51.809Z"
         }
     }
 }
