@@ -2,6 +2,7 @@ import http from "http";
 
 
 const server = http.createServer((req, res) => {
+
     // This function is called once the headers have been received
     res.setHeader("Content-Type", "application/json");
     res.setHeader("Access-Control-Allow-Origin", "http://localhost:8015");
@@ -15,12 +16,13 @@ const server = http.createServer((req, res) => {
     req.on("end", () => {
         try {
             res.statusCode = 200;
-            res.end(`hi`);
+            res.end(`{"message": "hi"}`);
         } catch (e) {
             res.statusCode = 400;
             res.end(`error`);
         }
     });
+
 });
 
 server.listen(8014, () => {
