@@ -20155,6 +20155,28 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/JD_Sports_logo.svg",
             "siteUrl": "http://jdplc.com/",
             "updatedAt": "2026-02-28T11:01:17.914Z"
+        },
+        "finish-line": {
+            "names": [
+                "Finish Line",
+                "Finish Line, Inc.",
+                "FINL"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "sports",
+                "clothing"
+            ],
+            "score": 39,
+            "ownedBy": [
+                "pentland-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Finish_Line%2C_Inc._logo.svg",
+            "siteUrl": "http://finishline.com/",
+            "updatedAt": "2026-02-28T13:59:49.776Z"
         }
     }
 }
