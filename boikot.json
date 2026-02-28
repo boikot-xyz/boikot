@@ -20115,6 +20115,46 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b2/Pentland_logo.png",
             "siteUrl": "https://pentlandgroup.com/",
             "updatedAt": "2026-02-28T10:04:33.536Z"
+        },
+        "jersey-mike's": {
+            "names": [
+                "Jersey Mike's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "blackstone"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Jersey_Mike%27s_logo.svg",
+            "siteUrl": "https://www.jerseymikes.com/",
+            "updatedAt": "2026-02-28T11:01:17.914Z"
+        },
+        "jd-sports": {
+            "names": [
+                "JD Sports",
+                "JD Sports Fashion plc",
+                "JD Group"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing",
+                "sports"
+            ],
+            "score": 39,
+            "ownedBy": [
+                "pentland-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/JD_Sports_logo.svg",
+            "siteUrl": "http://jdplc.com/",
+            "updatedAt": "2026-02-28T11:01:17.914Z"
         }
     }
 }
