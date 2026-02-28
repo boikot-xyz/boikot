@@ -19845,6 +19845,276 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/JCPenney_logo.svg",
             "siteUrl": "http://jcpenney.com/",
             "updatedAt": "2026-02-23T16:24:51.625Z"
+        },
+        "berghaus": {
+            "names": [
+                "Berghaus"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing",
+                "sports"
+            ],
+            "score": 39,
+            "ownedBy": [
+                "pentland-group"
+            ],
+            "updatedAt": "2026-02-28T10:57:00.469Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Berghaus",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/08/Berghaus_logo.svg",
+            "siteUrl": "http://berghaus.com/"
+        },
+        "boxfresh": {
+            "names": [
+                "Boxfresh"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing",
+                "sports"
+            ],
+            "score": 39,
+            "ownedBy": [
+                "pentland-group"
+            ],
+            "updatedAt": "2026-02-28T10:57:00.666Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Boxfresh",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Boxfresh_logo.png",
+            "siteUrl": "http://www.boxfresh.com/"
+        },
+        "canterbury": {
+            "names": [
+                "Canterbury"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing",
+                "sports"
+            ],
+            "score": 39,
+            "ownedBy": [
+                "pentland-group"
+            ],
+            "updatedAt": "2026-02-28T10:57:01.154Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Canterbury_of_New_Zealand",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e3/Canterbury_of_New_Zealand_logo.svg",
+            "siteUrl": "https://www.canterbury.com/"
+        },
+        "ellesse": {
+            "names": [
+                "Ellesse"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing",
+                "sports"
+            ],
+            "score": 39,
+            "ownedBy": [
+                "pentland-group"
+            ],
+            "updatedAt": "2026-02-28T10:57:01.254Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ellesse",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ellesse_logo.png",
+            "siteUrl": "http://ellesse.com/"
+        },
+        "endura": {
+            "names": [
+                "Endura"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing",
+                "sports"
+            ],
+            "score": 39,
+            "ownedBy": [
+                "pentland-group"
+            ],
+            "updatedAt": "2026-02-28T10:57:01.328Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Endura_Racing",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/62",
+            "siteUrl": "https://www.enduraracing.com/"
+        },
+        "kangaroos": {
+            "names": [
+                "KangaRoos"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing",
+                "sports"
+            ],
+            "score": 39,
+            "ownedBy": [
+                "pentland-group"
+            ],
+            "updatedAt": "2026-02-28T10:57:01.866Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/KangaRoos",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/75/Kangaroos_shoes_logo.png",
+            "siteUrl": "http://www.kangaroos.com/"
+        },
+        "kickers": {
+            "names": [
+                "Kickers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing",
+                "sports"
+            ],
+            "score": 39,
+            "ownedBy": [
+                "pentland-group"
+            ],
+            "updatedAt": "2026-02-28T10:57:01.915Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kickers_(brand)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Kickers_shoes_logo.png",
+            "siteUrl": "http://www.kickers.co.uk/"
+        },
+        "lacoste": {
+            "names": [
+                "Lacoste"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing",
+                "sports"
+            ],
+            "score": 39,
+            "ownedBy": [
+                "pentland-group"
+            ],
+            "updatedAt": "2026-02-28T10:57:02.220Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lacoste",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/Lacoste_logo.svg",
+            "siteUrl": "https://lacoste.com/"
+        },
+        "mitre": {
+            "names": [
+                "Mitre"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing",
+                "sports"
+            ],
+            "score": 39,
+            "ownedBy": [
+                "pentland-group"
+            ],
+            "updatedAt": "2026-02-28T10:57:02.341Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitre_Sports_International",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Mitre_sports_logo.png",
+            "siteUrl": "https://www.mitre.com/"
+        },
+        "red-or-dead": {
+            "names": [
+                "Red or Dead"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing",
+                "sports"
+            ],
+            "score": 39,
+            "ownedBy": [
+                "pentland-group"
+            ],
+            "updatedAt": "2026-02-28T10:57:02.523Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Red_or_Dead",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Red_or_dead_logo.png",
+            "siteUrl": "http://www.redordead.com/"
+        },
+        "speedo": {
+            "names": [
+                "Speedo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing",
+                "sports"
+            ],
+            "score": 39,
+            "ownedBy": [
+                "pentland-group"
+            ],
+            "updatedAt": "2026-02-28T10:57:02.677Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Speedo",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Speedo_brand_logo.svg",
+            "siteUrl": "https://www.speedo.com/"
+        },
+        "pentland-group": {
+            "names": [
+                "Pentland Group",
+                "Pentland",
+                "Pentland Group Limited"
+            ],
+            "comment": "Pentland Group is a British clothing conglomerate that has been repeatedly accused of anti‑competitive practices [1][2][3], mistreatment of employees and illegal working conditions [4][5][6], and failure to pay a living wage [7]. The company has also engaged in tax avoidance [8] and shown inaction on environmental and social responsibility [9].",
+            "sources": {
+                "1": "https://www.catribunal.org.uk/sites/cat/files/2021-07/1367_Pentland_Ruling_Costs_CAT_19_050721_1.pdf",
+                "2": "https://www.bbc.co.uk/news/business-60373402",
+                "3": "https://www.reuters.com/business/retail-consumer/jd-sports-fined-16-mln-by-uk-regulator-over-merchandise-pricing-2022-09-27/",
+                "4": "https://www.channel4.com/news/ive-sacked-people-for-sitting-down-undercover-inside-jd-sports",
+                "5": "https://www.cipd.org/uk/about/press-releases-archive/191216-jdsports-response/",
+                "6": "https://www.burytimes.co.uk/news/23539405.jd-sports-forced-pay-14-000-unfair-dismissal/",
+                "7": "https://labourbehindthelabel.org/tailoredwagesuk2019/",
+                "8": "https://www.thetimes.com/article/billionaire-rubins-move-518m-offshore-fk58gcdvg",
+                "9": "https://www.bbc.com/news/business-47057870"
+            },
+            "sourceNotes": {
+                "1": "anti-competetive practices",
+                "2": "anti-competetive practices",
+                "3": "anti-competetive practices",
+                "4": "mistreatment of employees",
+                "5": "illegal working conditions",
+                "6": "mistreatment of employees",
+                "7": "failure to pay living wage",
+                "8": "tax avoidance",
+                "9": "inaction on environmental and social resposibility"
+            },
+            "tags": [
+                "retail",
+                "sports"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b2/Pentland_logo.png",
+            "siteUrl": "https://pentlandgroup.com/",
+            "updatedAt": "2026-02-28T10:04:33.536Z"
         }
     }
 }
