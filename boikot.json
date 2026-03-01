@@ -20177,6 +20177,58 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Finish_Line%2C_Inc._logo.svg",
             "siteUrl": "http://finishline.com/",
             "updatedAt": "2026-02-28T13:59:49.776Z"
+        },
+        "johnson-and-johnson": {
+            "names": [
+                "Johnson & Johnson",
+                "J&J",
+                "JNJ"
+            ],
+            "comment": "Johnson & Johnson is an American health company which sold asbestos‑containing baby powder leading to cancer and lung disease [1][2], conducted experiments on black prisoners [3][4], and sold a dangerous birth‑control patch that caused strokes, unwanted pregnancies, and deaths [5]. The company concealed the overdose risk of Tylenol leading to several deaths [6], sold fentanyl patches that killed more than fifty people [7][8], deployed a disinformation campaign to seel tranquilizer pills that disfigured  tens of thousands of children and killed elderly patients [9][10], sold a defective hip replacement that ruined over a thousand lives [13], targeted high‑risk individuals to encourage opioid addiction [14], and covered up research about the danger of its cancer therapy, leading to hundreds of thousands of deaths [11][12],  - all while bribing doctors to prescribe its products [15][16].",
+            "sources": {
+                "1": "https://newrepublic.com/article/194726/johnson-and-johnson-investigation-crimes-health-care-system",
+                "2": "https://www.bbc.co.uk/news/articles/c797wv928g8o",
+                "3": "https://newrepublic.com/article/194726/johnson-and-johnson-investigation-crimes-health-care-system",
+                "4": "https://www.independent.co.uk/news/world/americas/johnson-and-johnson-talcum-racism-b2030530.html",
+                "5": "https://newrepublic.com/article/194726/johnson-and-johnson-investigation-crimes-health-care-system",
+                "6": "https://newrepublic.com/article/194726/johnson-and-johnson-investigation-crimes-health-care-system",
+                "7": "https://newrepublic.com/article/194726/johnson-and-johnson-investigation-crimes-health-care-system",
+                "8": "https://www.bmj.com/content/374/bmj.n1867",
+                "9": "https://newrepublic.com/article/194726/johnson-and-johnson-investigation-crimes-health-care-system",
+                "10": "https://www.justice.gov/usao-edpa/pr/johnson-johnson-pay-more-22-billion-resolve-fraud-and-misbranding-allegations",
+                "11": "https://newrepublic.com/article/194726/johnson-and-johnson-investigation-crimes-health-care-system",
+                "12": "https://www.statnews.com/2025/04/03/erythropoietin-epo-scandal-cancer-drug-johnson-and-johnson-no-more-tears-excerpt/",
+                "13": "https://www.irishtimes.com/news/health/suspect-device-the-all-metal-hip-replacement-that-caused-untold-hardship-1.3708479",
+                "14": "https://newrepublic.com/article/194726/johnson-and-johnson-investigation-crimes-health-care-system",
+                "15": "https://newrepublic.com/article/194726/johnson-and-johnson-investigation-crimes-health-care-system",
+                "16": "https://www.ft.com/content/368d1408-6222-11e0-8ee4-00144feab49a"
+            },
+            "sourceNotes": {
+                "1": "sold and covered up sale of baby powder containing asbestos, leading to lung disease and cancer",
+                "2": "sold and covered up sale of baby powder containing asbestos, leading to lung disease and cancer",
+                "3": "experimented on black prisoners",
+                "4": "experimented on black prisoners",
+                "5": "sold a birth control patch that caused unwanted pregnancy, stroke, and death",
+                "6": "covered up overdose risk of tylenol leading to several deaths",
+                "7": "sold fentanyl patches that killed over 50 people",
+                "8": "sold fentanyl patches that killed over 50 people",
+                "9": "used a disinformation campaign to encouraged the overprescription of tranquilizer pills that disfigured thousands of children and led to deaths in elderly patients",
+                "10": "used a disinformation campaign to encouraged the overprescription of tranquilizer pills that disfigured thousands of children and led to deaths in elderly patients",
+                "11": "covered up research that its cancer treatment was deadly, leading to hundreds of thousands of deaths",
+                "12": "covered up research that its cancer treatment was deadly, leading to hundreds of thousands of deaths",
+                "13": "sold a dangerous hip replacement that ruined over 1000 patients lives",
+                "14": "targeted high-risk inidividuals in the opioid crisis to encourage addiction",
+                "15": "bribed doctors to prescribe their products",
+                "16": "bribed doctors to prescribe their products"
+            },
+            "tags": [
+                "health"
+            ],
+            "score": 1,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/JNJ_Logo_New.svg",
+            "siteUrl": "https://www.jnj.com/",
+            "updatedAt": "2026-03-01T08:53:06.939Z"
         }
     }
 }
