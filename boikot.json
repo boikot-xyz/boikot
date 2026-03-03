@@ -20229,6 +20229,46 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/JNJ_Logo_New.svg",
             "siteUrl": "https://www.jnj.com/",
             "updatedAt": "2026-03-01T08:53:06.939Z"
+        },
+        "just-eat": {
+            "names": [
+                "Just Eat",
+                "Just Eat Takeaway.com",
+                "Takeaway.com",
+                "Just Eat Takeaway.com N.V."
+            ],
+            "comment": "Just Eat is a UK-based online food‑ordering platform that has repeatedly violated employees' rights through automated firings [1][2] and reclassified workers to diminish protections [3]. It has also imposed fraudulent charges and refunds on small businesses [4][5][6], enabled scam listings [7], and pressured local shops, eroding their profits [8].",
+            "sources": {
+                "1": "https://www.business-humanrights.org/en/latest-news/just-beat-it-how-just-eat-robo-fires-its-workers/",
+                "2": "https://www.workerinfoexchange.org/post/report-reveals-the-algorithmic-dismissal-of-workers-over-false-fraud-allegations-at-just-eat",
+                "3": "https://www.hrmagazine.co.uk/content/news/just-eat-employees-forced-to-take-up-gig-economy-model",
+                "4": "https://www.bbc.co.uk/news/articles/cz609qw4e30o",
+                "5": "https://www.manchestereveningnews.co.uk/whats-on/its-like-blackmail-situation-takeaway-22855716",
+                "6": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/takeaway-owners-speak-out-against-22050922",
+                "7": "https://www.which.co.uk/news/article/which-finds-multiple-scam-listings-on-just-eat-a44GX9N8Mzyg",
+                "8": "https://www.ft.com/content/0bd3a6a0-9d1c-11e7-8cd4-932067fbf946"
+            },
+            "sourceNotes": {
+                "1": "violation of employees rights and automated firing",
+                "2": "violation of employees rights and automated firing",
+                "3": "reclassified workers leading to reduction in rights and protections",
+                "4": "placed fraudulent charges and refunds to small businesses",
+                "5": "placed fraudulent charges and refunds to small businesses",
+                "6": "placed fraudulent charges and refunds to small businesses",
+                "7": "enabled scam listings",
+                "8": "put pressure on small local businesses b reducing their profits"
+            },
+            "tags": [
+                "food",
+                "tech"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "prosus"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/Just_Eat_orange_logo.svg",
+            "siteUrl": "http://just-eat.co.uk/",
+            "updatedAt": "2026-03-02T15:18:24.582Z"
         }
     }
 }
