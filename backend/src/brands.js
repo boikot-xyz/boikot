@@ -5,27 +5,37 @@ import slugify from "slugify";
 import _ from "lodash";
 
 const html = `
-<ul class="mw-collapsible-content" style="margin-top: 0; margin-bottom: 0; line-height: inherit; list-style: none; margin-left: 0;"><li style="line-height: inherit; margin: 0"> <a href="https://en.wikipedia.org/wiki/Berghaus" title="Berghaus">Berghaus</a>
-</li><li style="line-height: inherit; margin: 0"> <a href="https://en.wikipedia.org/wiki/Boxfresh" title="Boxfresh">Boxfresh</a>
-</li><li style="line-height: inherit; margin: 0"> <a href="https://en.wikipedia.org/wiki/Canterbury_of_New_Zealand" title="Canterbury of New Zealand">Canterbury</a>
-</li><li style="line-height: inherit; margin: 0"> <a href="https://en.wikipedia.org/wiki/Ellesse" title="Ellesse">Ellesse</a>
-</li><li style="line-height: inherit; margin: 0"> <a href="https://en.wikipedia.org/wiki/Endura_Racing" title="Endura Racing">Endura</a>
-</li><li style="line-height: inherit; margin: 0"> <a href="https://en.wikipedia.org/wiki/KangaRoos" title="KangaRoos">KangaRoos</a>
-</li><li style="line-height: inherit; margin: 0"> <a href="https://en.wikipedia.org/wiki/Kickers_(brand)" title="">Kickers</a>
-</li><li style="line-height: inherit; margin: 0"> <a href="https://en.wikipedia.org/wiki/Lacoste" title="Lacoste">Lacoste</a>
-</li><li style="line-height: inherit; margin: 0"> <a href="https://en.wikipedia.org/wiki/Mitre_Sports_International" title="Mitre Sports International">Mitre</a>
-</li><li style="line-height: inherit; margin: 0"> <a href="https://en.wikipedia.org/wiki/Red_or_Dead" title="Red or Dead">Red or Dead</a>
-</li><li style="line-height: inherit; margin: 0"> <a href="https://en.wikipedia.org/wiki/Speedo" title="Speedo">Speedo</a>
-</li></ul>
-`;
+<li><a href="https://en.wikipedia.org/wiki/Amana_Corporation" title="Amana Corporation">Amana</a></li>
+<li><span class="noprint" style="font-size:85%; font-style: normal;"> [<a href="https://pt.wikipedia.org/wiki/Brastemp" class="extiw" title="pt:Brastemp">Brastemp</a>]</span> (Brazil)</li>
+<li>Challenger (Colombia)</li>
+<li>Consul (Brazil)</li>
+<li>Diqua (China)</li>
+<li>Estate</li>
+<li>EveryDrop</li>
+<li>Gladiator GarageWorks</li>
+<li>Hefei Sanyo (China)<sup id="cite_ref-Rohit_31-1" class="reference"><a href="https://en.wikipedia.org/wiki/Whirlpool_Corporation#cite_note-Rohit-31"><span class="cite-bracket">[</span>31<span class="cite-bracket">]</span></a></sup></li>
+<li><a href="https://en.wikipedia.org/wiki/John_Inglis_and_Company" title="John Inglis and Company">Inglis</a> (Canada and US)</li>
+<li><a href="https://en.wikipedia.org/wiki/InSinkErator" title="InSinkErator">InSinkErator</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jenn-Air" class="mw-redirect" title="Jenn-Air">Jenn-Air</a></li>
+<li><a href="https://en.wikipedia.org/wiki/KitchenAid" title="KitchenAid">KitchenAid</a></li>
+<li><span class="noprint" style="font-size:85%; font-style: normal;"> [<a href="https://fr.wikipedia.org/wiki/Laden_(marque)" class="extiw" title="fr:Laden (marque)">Laden</a>]</span> (France)</li>
+<li><a href="https://en.wikipedia.org/wiki/Maytag" title="Maytag">Maytag</a></li>
+<li>Polar</li>
+<li>Roper</li>
+<li><a href="https://en.wikipedia.org/wiki/Royalstar" title="Royalstar">Royalstar</a> (China)</li>
+<li><a href="https://en.wikipedia.org/wiki/Indesit" title="Indset">Indesit</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hotpoint" title="Hotpoint">Hotpoint</a></li>
+<li>Stinol</li>
+<li>True Fresh</li>
+<li>Whirlpool</li>
+<li><a href="https://en.wikipedia.org/wiki/Yummly" title="Yummly">Yummly</a></li></body></html>`;
 
 const tags = [
     "retail",
-    "clothing",
-    "sports"
+    "electronics"
 ];
-const score = 39;
-const ownedBy = "pentland-group";
+const score = 8;
+const ownedBy = "whirlpool";
 
 const pages = _.uniqBy(
     [...html.matchAll(/<a.+?href="(.+?)".*?>(.+?)<\/a>/g)]

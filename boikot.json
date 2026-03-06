@@ -20313,7 +20313,7 @@
             "tags": [
                 "electronics"
             ],
-            "score": null,
+            "score": 8,
             "ownedBy": [
                 "whirlpool-corporation"
             ],
@@ -20362,6 +20362,226 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Whirlpool_Corporation_Logo_%28as_of_2017%29.svg",
             "siteUrl": "http://whirlpool.com/",
             "updatedAt": "2026-03-06T08:52:09.636Z"
+        },
+        "amana": {
+            "names": [
+                "Amana"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": 8,
+            "ownedBy": [
+                "whirlpool-corporation"
+            ],
+            "updatedAt": "2026-03-06T11:22:47.336Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Amana_Corporation",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Amana_Corporation_logo.svg",
+            "siteUrl": "http://amana.com/"
+        },
+        "brastemp": {
+            "names": [
+                "Brastemp"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": 8,
+            "ownedBy": [
+                "whirlpool-corporation"
+            ],
+            "updatedAt": "2026-03-06T11:22:48.094Z",
+            "wikipediaUrl": "https://pt.wikipedia.org/wiki/Brastemp",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Brastemp.svg",
+            "siteUrl": "http://www.brastemp.com.br/"
+        },
+        "inglis": {
+            "names": [
+                "Inglis"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": 8,
+            "ownedBy": [
+                "whirlpool-corporation"
+            ],
+            "updatedAt": "2026-03-06T11:22:48.182Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Inglis_and_Company",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/Inglis_Appliances_Logo.svg",
+            "siteUrl": "http://www.inglis.ca/"
+        },
+        "insinkerator": {
+            "names": [
+                "InSinkErator"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": 8,
+            "ownedBy": [
+                "whirlpool-corporation"
+            ],
+            "updatedAt": "2026-03-06T11:22:48.252Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/InSinkErator",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Insinkerator_logo.svg",
+            "siteUrl": "http://www.insinkerator.com/"
+        },
+        "jenn-air": {
+            "names": [
+                "Jenn-Air"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": 8,
+            "ownedBy": [
+                "whirlpool-corporation"
+            ],
+            "updatedAt": "2026-03-06T11:22:48.650Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Jenn-Air",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/JennAir_logo.svg",
+            "siteUrl": "https://www.jennair.com/"
+        },
+        "laden": {
+            "names": [
+                "Laden"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": 8,
+            "ownedBy": [
+                "whirlpool-corporation"
+            ],
+            "updatedAt": "2026-03-06T11:22:49.151Z",
+            "wikipediaUrl": "https://fr.wikipedia.org/wiki/Laden_(marque)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/1/10/Laden-logo.png",
+            "siteUrl": "http://www.laden.fr/"
+        },
+        "maytag": {
+            "names": [
+                "Maytag"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": 8,
+            "ownedBy": [
+                "whirlpool-corporation"
+            ],
+            "updatedAt": "2026-03-06T11:22:49.239Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Maytag",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/Maytag_logo_2015.png",
+            "siteUrl": "http://www.maytag.com/"
+        },
+        "royalstar": {
+            "names": [
+                "Royalstar"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": 8,
+            "ownedBy": [
+                "whirlpool-corporation"
+            ],
+            "updatedAt": "2026-03-06T11:22:49.847Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Royalstar",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Royalstar_red.png",
+            "siteUrl": "http://www.rsdgroup.com.cn/en/"
+        },
+        "indesit": {
+            "names": [
+                "Indesit"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": 8,
+            "ownedBy": [
+                "whirlpool-corporation"
+            ],
+            "updatedAt": "2026-03-06T11:22:49.890Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Indesit",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/IndesitCo_logo_%282005%29.png",
+            "siteUrl": "http://www.indesit.com/"
+        },
+        "hotpoint": {
+            "names": [
+                "Hotpoint"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": 8,
+            "ownedBy": [
+                "whirlpool-corporation"
+            ],
+            "updatedAt": "2026-03-06T11:22:49.947Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hotpoint",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f4/Logo_hotpoint.png",
+            "siteUrl": "http://hotpoint.com/"
+        },
+        "yummly": {
+            "names": [
+                "Yummly"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": 8,
+            "ownedBy": [
+                "whirlpool-corporation"
+            ],
+            "updatedAt": "2026-03-06T11:22:50.012Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Yummly",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Yummly-Logo-2019.png",
+            "siteUrl": "https://yummly.com/"
         }
     }
 }
