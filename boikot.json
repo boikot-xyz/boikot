@@ -1126,17 +1126,50 @@
         },
         "l'oreal": {
             "names": [
-                "L'Oréal"
+                "L'Oréal",
+                "L'Oréal S.A.",
+                "L'Oreal"
             ],
-            "comment": "",
-            "sources": {},
+            "comment": "L'Oréal is a French cosmetics company that sells skin‑lightening creams [1], engages in anti‑competitive price‑fixing [2], and has been accused of false advertising, including airbrushing pictures of models [3][4][5]. The company has also fired a transgender model who spoke against racism [6], employed racist hiring and model selection practices [7], engaged in greenwashing [8], supplied giveaways to the Israeli military [9], and its supply chain is marred by child labour [10][11], human rights violations and environmental damage [12], while its headquarters occupy land taken from Holocaust victims [13] and the company's founder was a known Nazi [14][15].",
+            "sources": {
+                "1": "https://www.theguardian.com/world/2018/apr/23/skin-lightening-creams-are-dangerous-yet-business-is-booming-can-the-trade-be-stopped",
+                "2": "http://www.connexionfrance.com/court-appeal-price-fixing-fine-upheld-consumer-companies-gillette-loreal-procter-gamble-sc-johnson-18567-view-article.html",
+                "3": "http://www.news.com.au/entertainment/story/0,23663,21682971-36557,00.html",
+                "4": "https://web.archive.org/web/20090405174025/http://www.asa.org.uk/asa/adjudications/Public/TF_ADJ_42910.htm",
+                "5": "https://web.archive.org/web/20121025072002/http://edition.cnn.com/2011/WORLD/europe/07/28/airbrushed.advertisements.ban/index.html?&hpt=hp_c2",
+                "6": "https://www.nytimes.com/2017/09/02/business/munroe-bergdorf-loreal-transgender.html?mcubz=1&_r=0",
+                "7": "https://www.soxfirst.com/50226711/loreal_found_guilty_of_racism.php",
+                "8": "https://cosmeticsbusiness.com/l-or-al-p-g-and-l-occitane-accused-of-greenwashing-in-new-findings--201904",
+                "9": "http://www.palestinecampaign.org/boycott-garnier-support-israeli-army/",
+                "10": "https://www.bbc.com/news/world-middle-east-68172560",
+                "11": "https://theindustry.beauty/loreal-defends-its-ethical-practices-after-accusations-of-child-labour-in-supply-chain/",
+                "12": "https://www.business-humanrights.org/en/latest-news/united-nations-alleges-the-second-biggest-indonesia-palm-oil-companies-on-its-egregious-human-rights-violations-and-environmental-degradation/",
+                "13": "https://www.theguardian.com/world/2004/oct/13/secondworldwar.germany",
+                "14": "https://www.forbes.com/2005/03/18/cz_sh_0318oreal_bill05.html",
+                "15": "https://web.archive.org/web/20110604000405/http://www.time.com/time/magazine/article/0,9171,157348,00.html"
+            },
+            "sourceNotes": {
+                "1": "sells skin-lightening creams",
+                "2": "anti-competitive practices - price fixing",
+                "3": "false advertising",
+                "4": "false advertising",
+                "5": "false advertising - airbrushing models",
+                "6": "fired transgender model who made anti-racist statements",
+                "7": "racist hiring practices and model selection",
+                "8": "greenwashing",
+                "9": "giveaways to israeli military",
+                "10": "child labour in supply chain",
+                "11": "child labour in supply chain",
+                "12": "human rights abuses and environmental abuses in supply chain",
+                "13": "situated its headquarters on land stolen from holocaust victims",
+                "14": "founded by a nazi",
+                "15": "founded by a nazi"
+            },
             "tags": [
                 "consumer goods"
             ],
-            "score": 10,
-            "ownedBy": [
-                "nestle"
-            ],
+            "score": 15,
+            "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/L%27Or%C3%A9al_logo.svg",
             "siteUrl": "https://www.loreal.com/",
             "updatedAt": "2024-03-18T17:06:43.352Z"
@@ -9564,7 +9597,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": 10,
+            "score": 15,
             "ownedBy": [
                 "l'oreal"
             ],
@@ -9582,7 +9615,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": 10,
+            "score": 15,
             "ownedBy": [
                 "l'oreal"
             ],
@@ -9600,7 +9633,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": 10,
+            "score": 15,
             "ownedBy": [
                 "l'oreal"
             ],
@@ -9619,7 +9652,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": 10,
+            "score": 15,
             "ownedBy": [
                 "l'oreal"
             ],
@@ -9638,7 +9671,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": 10,
+            "score": 15,
             "ownedBy": [
                 "l'oreal"
             ],
@@ -9656,7 +9689,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": 10,
+            "score": 15,
             "ownedBy": [
                 "l'oreal"
             ],
@@ -9676,7 +9709,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": 10,
+            "score": 15,
             "ownedBy": [
                 "l'oreal"
             ],
@@ -20269,6 +20302,66 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/Just_Eat_orange_logo.svg",
             "siteUrl": "http://just-eat.co.uk/",
             "updatedAt": "2026-03-02T15:18:24.582Z"
+        },
+        "kitchenaid": {
+            "names": [
+                "KitchenAid"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "electronics"
+            ],
+            "score": null,
+            "ownedBy": [
+                "whirlpool-corporation"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Kitchenaid_logo.svg",
+            "siteUrl": "http://www.kitchenaid.com/",
+            "updatedAt": "2026-03-06T08:52:09.636Z"
+        },
+        "whirlpool-corporation": {
+            "names": [
+                "Whirlpool Corporation",
+                "Whirlpool",
+                "WHR"
+            ],
+            "comment": "Whirlpool Corporation is an American appliance manufacturer that has defrauded thousands of customers [1], sold defective fridges [2], and released toxic carcinogenic pollution around its plant and in nearby groundwater [3][4]. It's appliances have caused hundreds of fires, killed at least two people [5][6][7][8], posed fire and safety risks [9], and led to the Grenfell Tower fire that killed 72 people [10][11].",
+            "sources": {
+                "1": "https://www.beasleyallen.com/article/whirlpool-581m-alabama-consumer-fraud-verdict/",
+                "2": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/whirlpool-class-action-lawsuit-and-settlement-news/whirlpool-class-action-alleges-several-refrigerator-brands-house-defective-wires/",
+                "3": "https://talkbusiness.net/2020/02/cleanup-of-dangerous-chemical-continues-near-former-whirlpool-plant/",
+                "4": "https://eu.swtimes.com/story/news/2016/02/22/whirlpool-releases-report-on-fort/26321222007/",
+                "5": "https://www.theguardian.com/uk-news/2017/nov/24/whirlpool-named-worst-offender-for-white-goods-fires-in-london",
+                "6": "https://www.theguardian.com/money/2016/sep/24/killer-tumble-dryer-faulty-whirlpool-machine-product-safety-scandal",
+                "7": "https://www.which.co.uk/news/2019/12/whirlpool-announces-recall-of-up-to-519000-indesit-and-hotpoint-fire-risk-washing-machines-in-the-uk/",
+                "8": "https://inews.co.uk/news/consumer/whirlpool-tumble-dryer-fire-product-recall-312802",
+                "9": "https://www.cpsc.gov/Newsroom/News-Releases/2023/Whirlpool-Agrees-to-Pay-11-5-Million-Civil-Penalty-for-Failure-to-Immediately-Report-Glass-Cooktops-Posing-Burn-and-Fire-Hazards",
+                "10": "https://www.ft.com/content/11c35448-2eb9-4c6a-9a56-f31a5fd18525",
+                "11": "https://www.theguardian.com/uk-news/2025/apr/27/grenfell-fire-fridge-maker-accused-of-safety-test-failings-in-council-lawsuit"
+            },
+            "sourceNotes": {
+                "1": "defrauded thousands of customers",
+                "2": "sold defective fridges",
+                "3": "toxic carcinogenic pollution around manufacturing plant",
+                "4": "toxic carcinogenic pollution in groundwater around manufacturing plant",
+                "5": "sold appliances that caused hundreds of fires and killed at least 2 people",
+                "6": "sold appliances that caused hundreds of fires and killed at least 2 people",
+                "7": "sold appliances that caused hundreds of fires and killed at least 2 people",
+                "8": "sold appliances that caused hundreds of fires and killed at least 2 people",
+                "9": "sold defective cookers that posed a fire and safety risk",
+                "10": "sold defective fridges that led to the fire in Grenfell Tower killing 72 people",
+                "11": "sold defective fridges that led to the fire in Grenfell Tower killing 72 people"
+            },
+            "tags": [
+                "electronics"
+            ],
+            "score": 8,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Whirlpool_Corporation_Logo_%28as_of_2017%29.svg",
+            "siteUrl": "http://whirlpool.com/",
+            "updatedAt": "2026-03-06T08:52:09.636Z"
         }
     }
 }
