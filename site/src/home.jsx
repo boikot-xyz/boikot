@@ -37,7 +37,7 @@ export function Home() {
                 .filter( entry => !!entry.comment )
                 .toSorted( (a,b) => a.score - b.score )
                 .slice(0, 5)
-                .map( entry => <CompanyHeader entry={ entry } link
+                .map( entry => <CompanyHeader entry={ entry } link showComment
                     key={entry.names[0]} /> ) }
             <Link to="/companies?sort=sort by score ascending">
                 <PillButton $outline>💩  more worst offenders</PillButton>
@@ -47,7 +47,7 @@ export function Home() {
                 .toSorted( (a,b) =>
                     new Date(b.updatedAt) - new Date(a.updatedAt) )
                 .slice(0, 5)
-                .map( entry => <CompanyHeader entry={ entry } link
+                .map( entry => <CompanyHeader entry={ entry } link showComment
                     key={entry.names[0]} /> ) }
             <FlexRow>
                 <Link to="/companies">

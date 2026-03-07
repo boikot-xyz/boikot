@@ -108,8 +108,7 @@ function Sources({ entry }) {
     </>;
 }
 
-function Owners({ entry }) {
-    if( !entry.ownedBy.length ) return null;
+function ownerString(entry) {
     let nameList = entry.ownedBy.map( code =>
         boikot.companies[code]?.names?.[0] || code
     );
@@ -118,12 +117,15 @@ function Owners({ entry }) {
     } catch {
         nameList = nameList.join(", ");
     }
+    return `${entry.names[0]} is ${ entry.ownedBy.length > 1 ? "jointly " : ""} owned by ${ nameList }.`
+}
+
+function Owners({ entry }) {
+    if( !entry.ownedBy.length ) return null;
 
     return <Stack>
         <p style={{ marginBottom: "0.5rem" }}>
-            { entry.names[0] + " is " }
-            { entry.ownedBy.length > 1 && "jointly "}
-            owned by { nameList }.
+            { ownerString(entry) }
         </p>
         { entry.ownedBy.map( code =>
             boikot.companies[code] && <Company
@@ -302,7 +304,7 @@ function Logo({ entry }) {
 }
 
 
-export function CompanyHeader({ entry, link = false }) {
+export function CompanyHeader({ entry, link = false, loadLogo = true, showComment = false }) {
     const companyURL =
         `/companies/${slugify(entry.names[0]).toLowerCase()}`;
     const LinkOrFrag = link
@@ -310,30 +312,46 @@ export function CompanyHeader({ entry, link = false }) {
             style={{ textDecoration: "none" }} />
         : React.Fragment;
     return <LinkOrFrag>
-        <Row gap="0.5rem" style={{ maxWidth: "min(100%, calc(100vw - 4rem))" }}>
-            <div
-                style={{
-                    width: "3rem",
-                    height: "3rem",
-                    padding: "0.25rem",
-                    background: "white",
-                    borderRadius: "0.5rem",
-                    display: "grid",
-                    placeItems: "center",
+        <Stack gap="0.5rem">
+            <Row gap="0.5rem" style={{ maxWidth: "min(100%, calc(100vw - 4rem))" }}>
+                <div
+                    style={{
+                        width: "3rem",
+                        height: "3rem",
+                        padding: "0.25rem",
+                        background: "white",
+                        borderRadius: "0.5rem",
+                        display: "grid",
+                        placeItems: "center",
+                    }}>
+                    <Logo entry={entry} load={loadLogo} />
+                </div>
+                <Stack gap="0" style={{ marginRight: "0.1rem" }}>
+                    <h3 style={{ textDecoration: link && "underline", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
+                        {entry.names[0]}
+                    </h3>
+                    { !!entry.tags.length &&
+                        <p style={{ color: "var(--fg)", fontSize: "0.8rem" }}>
+                            { entry.tags[0] } 
+                        </p> }
+                </Stack>
+                <Score {...entry} />
+            </Row>
+            { showComment &&
+                <p style={{
+                    color: 'white',
+                    whiteSpace: 'nowrap',
+                    textOverflow: 'ellipsis',
+                    overflow: 'hidden',
+                    fontSize: "0.8rem",
+                    fontWeight: 300,
                 }}>
-                <Logo entry={entry} />
-            </div>
-            <Stack gap="0" style={{ marginRight: "0.1rem" }}>
-                <h3 style={{ textDecoration: link && "underline", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
-                    {entry.names[0]}
-                </h3>
-                { !!entry.tags.length &&
-                    <p style={{ color: "var(--fg)", fontSize: "0.8rem" }}>
-                        { entry.tags[0] } 
-                    </p> }
-            </Stack>
-            <Score {...entry} />
-        </Row>
+                    { entry.ownedBy?.length
+                        ? ownerString(entry)
+                        : entry.comment}
+                </p>
+            }
+        </Stack>
     </LinkOrFrag>;
 }
 
@@ -453,7 +471,7 @@ export function Companies() {
                 .slice(0, renderAll ? undefined : 20)
                 .map( entry =>
                     <CompanyHeader entry={entry}
-                        link key={entry.names[0]} loadLogo={false} />
+                        link key={entry.names[0]} loadLogo={false} showComment />
                 )
             }
             <p> { companies.length } companies </p>
