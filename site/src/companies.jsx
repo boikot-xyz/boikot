@@ -11,7 +11,7 @@ import boikot from "../../boikot.json";
 
 
 const scoreColor = x =>
-    !x ? "white" : `hsl(${x}deg 100% 60%)`;
+    !x ? "#fffb" : `hsl(${x}deg 100% 60%)`;
 
 const ownerName = ownerKey =>
     boikot.companies[ownerKey]?.names[0] || ownerKey;
