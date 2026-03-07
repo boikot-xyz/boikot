@@ -276,7 +276,7 @@ export function Score({ score }) {
 }
 
 
-function Logo({ entry }) {
+function Logo({ entry, load = true }) {
     const companyName = entry.names[0];
     const initials = companyName.split(" ").map(s => s[0]?.toUpperCase()).filter(i => !!i).join("");
     const alt = companyName.length > 12 ? initials : companyName;
@@ -286,7 +286,7 @@ function Logo({ entry }) {
         ["Playfair Display", 1.24]
     ][companyName.length % 3];
 
-    return <img src={entry.logoUrl}
+    return <img src={load && entry.logoUrl}
         alt={alt}
         style={{
             fontFamily,
@@ -304,7 +304,7 @@ function Logo({ entry }) {
 }
 
 
-export function CompanyHeader({ entry, link = false, loadLogo = true, showComment = false }) {
+export const CompanyHeader = React.memo(({ entry, link = false, loadLogo = true, showComment = false }) => {
     const companyURL =
         `/companies/${slugify(entry.names[0]).toLowerCase()}`;
     const LinkOrFrag = link
@@ -353,7 +353,7 @@ export function CompanyHeader({ entry, link = false, loadLogo = true, showCommen
             }
         </Stack>
     </LinkOrFrag>;
-}
+});
 
 
 function SearchBar({ value, setValue }) {
@@ -443,6 +443,7 @@ export function Companies() {
     const [ renderAll, setRenderAll ] = React.useState(false);
     const [ tag, setTag ] = React.useState(paramTag || "");
     const [ sort, setSort ] = React.useState(paramSort || defaultSort);
+    const [ scrollPos, setScrollPos ] = React.useState(0);
     const companies = Object.values(boikot.companies)
         .filter( entry => !tag || entry.tags.includes(tag) )
         .filter( entry => entry.score !== null )
@@ -451,6 +452,11 @@ export function Companies() {
         ) )
         .toSorted( sortOptions[sort] );
     React.useEffect( () => { setRenderAll(true) } );
+    React.useEffect( () => {
+        const handleScroll = e => window.scrollY > scrollPos && setScrollPos(window.scrollY);
+        window.addEventListener('scroll', handleScroll);
+        return () => window.removeEventListener('scroll', handleScroll);
+    } );
     return <Page>
         <Helmet>
             <title> Company Ethics Reports | boikot </title>
@@ -468,10 +474,10 @@ export function Companies() {
             <Sort value={sort} setValue={setSort} />
             <span />
             { companies
-                .slice(0, renderAll ? undefined : 20)
-                .map( entry =>
+                .slice( 0, renderAll ? undefined : 20 )
+                .map( ( entry, i ) =>
                     <CompanyHeader entry={entry}
-                        link key={entry.names[0]} loadLogo={false} showComment />
+                        link key={entry.names[0]} loadLogo={(scrollPos + 2000) / 88.5 > i} showComment />
                 )
             }
             <p> { companies.length } companies </p>
