@@ -25,7 +25,7 @@ const clearParams = () => window.history.replaceState(
     {}, document.title, window.location.pathname );
 
 const Comment = styled.p`
-    lineHeight: 1.5rem;
+    line-height: 1.5rem;
     sup {
         color: var(--accent);
     }
