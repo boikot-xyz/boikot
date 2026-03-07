@@ -20582,6 +20582,38 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Yummly",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Yummly-Logo-2019.png",
             "siteUrl": "https://yummly.com/"
+        },
+        "kohl's": {
+            "names": [
+                "Kohl's",
+                "Kohl's Corporation",
+                "KSS"
+            ],
+            "comment": "Kohls is an American retailer that has been accused of misleading customers [1][2] and deceptive pricing [3][4]. The company has also faced criticism for underpaying its employees [5][6].",
+            "sources": {
+                "1": "https://www.justice.gov/archives/opa/pr/kohl-s-and-walmart-agree-pay-55-million-combined-penalties-alleged-deceptive-violations",
+                "2": "https://www.law360.com/classaction/articles/1138249/kohl-s-customers-seek-ok-on-1-8m-credit-monitoring-deal",
+                "3": "https://www.co.fresno.ca.us/Home/ShowDocument?id=10364",
+                "4": "https://www.law360.com/articles/783451/kohl-s-wins-early-approval-of-6-15m-deceptive-sales-deal",
+                "5": "https://www.law360.com/articles/1346889/kohl-s-workers-land-2-9m-deal-to-end-overtime-claims",
+                "6": "https://www.law360.com/articles/743824/kohl-s-4m-manager-ot-settlement-gets-final-approval"
+            },
+            "sourceNotes": {
+                "1": "misleading customers",
+                "2": "misleading customers",
+                "3": "deceptive pricing",
+                "4": "deceptive pricing",
+                "5": "underpaid employees",
+                "6": "underpaid employees"
+            },
+            "tags": [
+                "retail"
+            ],
+            "score": 43,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Kohl%27s_logo.svg",
+            "siteUrl": "https://www.kohls.com/",
+            "updatedAt": "2026-03-07T08:47:15.989Z"
         }
     }
 }
