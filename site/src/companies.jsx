@@ -340,7 +340,7 @@ export function CompanyHeader({ entry, link = false }) {
 
 function SearchBar({ value, setValue }) {
     return <div style={{ display: "grid", position: "relative" }}>
-        <input placeholder="🔍  search companies" value={value}
+        <input placeholder="🔎  search companies" value={value}
             onChange={e => setValue(e.target.value)}
             style={{ paddingRight: "2rem", minWidth: 0 }}
             autoFocus />
@@ -449,10 +449,13 @@ export function Companies() {
             </div>
             <Sort value={sort} setValue={setSort} />
             <span />
-            { renderAll && companies.map( entry =>
-                <CompanyHeader entry={entry}
-                    link key={entry.names[0]} />
-            ) }
+            { companies
+                .slice(0, renderAll ? undefined : 20)
+                .map( entry =>
+                    <CompanyHeader entry={entry}
+                        link key={entry.names[0]} loadLogo={false} />
+                )
+            }
             <p> { companies.length } companies </p>
             <Link to="/companies/edit">
                 <PillButton $outline>📝  Add a company</PillButton>
