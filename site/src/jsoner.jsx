@@ -507,6 +507,7 @@ export function Jsoner() {
                 <PillButton
                     $outline
                     style={{ justifySelf: "right" }}
+                    disabled={!state.comment}
                     onClick={sortSources(setState)}>
                     sort sources  🃏
                 </PillButton> }
