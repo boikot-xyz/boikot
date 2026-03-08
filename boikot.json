@@ -20614,6 +20614,32 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Kohl%27s_logo.svg",
             "siteUrl": "https://www.kohls.com/",
             "updatedAt": "2026-03-07T08:47:15.989Z"
+        },
+        "kong": {
+            "names": [
+                "Kong"
+            ],
+            "comment": "Kong is an American pet toy company whose operations have resulted in environmental violations [1][2] and whose products have been linked to the death of pets due to unsafe design [3][4].",
+            "sources": {
+                "1": "https://www.business-live.co.uk/retail-consumer/dog-toy-company-kong-forced-19151872",
+                "2": "https://web.archive.org/web/20210608153410/https://www.360environmental.co.uk/documents/Enforcement%20Undertakings%20accepted%20by%20the%20Environment%20Agency%20160620%20-%20GOV.UK.pdf",
+                "3": "https://www.thedodo.com/dog-dies-chew-toy-1316361321.html",
+                "4": "https://www.cornwalllive.com/news/uk-world-news/dog-died-park-owner-tried-9307348"
+            },
+            "sourceNotes": {
+                "1": "environmental violation",
+                "2": "environmental violation",
+                "3": "sold unsafe toys leading to pet death",
+                "4": "sold unsafe toys leading to pet death"
+            },
+            "tags": [
+                "pets"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/bc/Kong_Company_Logo.png/250px-Kong_Company_Logo.png",
+            "siteUrl": "https://www.kongcompany.com/",
+            "updatedAt": "2026-03-08T11:59:15.908Z"
         }
     }
 }
