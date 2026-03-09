@@ -16,6 +16,10 @@ We also have an MCP server that exposes a tool to lookup company ethics informat
 
 the [`boikot.json`](https://raw.githubusercontent.com/boikot-xyz/boikot/main/boikot.json) file is a database of the ethical and unethical practices of different companies. Each item in the "companies" object represents a company ethics record. Each of these items has a "names" areay containing names that can be used for the company, of which the first entry is the most commonly used name. They also have a "comment" string which is a comment on the ethics of the company, with sources denoted by numbers in square brackets eg. \[1\]\[2\]. The URLs for these sources are in the "sources" object which is a mapping from the source numbers to URLs. Each company also has tags in the "tags" array, which are strings that describe the company. Finally each company has a "logoUrl" and "siteUrl" which are URLs for the company's logo image and website. There is an "updatedAt" timestamp on each item to track when it was last updated.
 
+## run locally
+
+You can run the website locally using the `run.sh` script in the repo root directory. It starts the web frontend and also a local backend which adds some extra functionalities.
+
 ## links
 
 Corporate Research site: https://www.corp-research.org/home-page
