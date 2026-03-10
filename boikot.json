@@ -20640,6 +20640,451 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/bc/Kong_Company_Logo.png/250px-Kong_Company_Logo.png",
             "siteUrl": "https://www.kongcompany.com/",
             "updatedAt": "2026-03-08T11:59:15.908Z"
+        },
+        "kroger": {
+            "names": [
+                "Kroger",
+                "The Kroger Co.",
+                "The Kroger Company",
+                "KR"
+            ],
+            "comment": "Kroger is an American supermarket chain that has sold plates containing toxic chemicals [1], consistently underpaid employees [2][3], closed stores instead of providing COVID hazard pay [4], and created psychologically unsafe working conditions leading to employee suicide [5]. The company has also been linked to child labor violations [6][7], profited from forced monkey labor [8][9], and discriminated against black employees and shoppers, contributing to wrongful arrests [10][11].",
+            "sources": {
+                "1": "https://topclassactions.com/lawsuit-settlements/consumer-products/household/kroger-class-action-says-disposable-plates-contain-toxic-materials/",
+                "2": "https://www.fox19.com/2025/12/16/kroger-sued-cheating-overtime-retails-dirty-little-secret/",
+                "3": "https://www.supermarketnews.com/retail-labor/kroger-has-faced-more-than-20-wage-left-lawsuits-since-2020",
+                "4": "https://www.vice.com/en/article/why-is-kroger-closing-stores-instead-of-paying-hazard-wages-for-its-employees/",
+                "5": "https://www.wcpo.com/news/local-news/hamilton-county/cincinnati/lawsuit-kroger-manager-drove-employee-to-suicide",
+                "6": "https://www.business-humanrights.org/en/latest-news/usa-executive-poultry-employed-children-to-operate-dangerous-machinery-held-back-wages-retaliated-against-co-operative-workers-says-labor-agency/",
+                "7": "https://www.kansascity.com/news/nation-world/national/article261521867.html",
+                "8": "https://www.citybeat.com/food-drink/kroger-finally-stops-selling-coconut-milk-obtained-via-monkey-labor-after-repeated-peta-requests-12266714/",
+                "9": "https://www.fox19.com/2020/11/19/coconuts-dumped-outside-kroger-headquarters-peta-protests-forced-monkey-labor/",
+                "10": "https://www.just-food.com/news/us-kroger-settles-racial-discrimination-lawsuit/?cf-view",
+                "11": "https://news.bloomberglaw.com/daily-labor-report/kroger-black-shopper-settle-racial-profiling-suit-before-trial"
+            },
+            "sourceNotes": {
+                "1": "sold plates containing toxic checmicals",
+                "2": "underpaid employees",
+                "3": "consistently underpaid employees",
+                "4": "closed stores rather than paying employees covid hazard pay",
+                "5": "created psychologically unsafe working conditions leading to employee suicide",
+                "6": "connected to child labour",
+                "7": "overworked child employees, violated child labour laws",
+                "8": "profited from forced monkey labour",
+                "9": "profited from forced monkey labour",
+                "10": "discriminated against black employees",
+                "11": "discriminated against and racially profiled black shoppers leading to wrongful arrest"
+            },
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/1c/Kroger_%282021%29_logo.svg",
+            "siteUrl": "https://thekrogerco.com/",
+            "updatedAt": "2026-03-09T20:12:43.681Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kroger"
+        },
+        "dillons": {
+            "names": [
+                "Dillons"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:08.151Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Dillons",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Dillons_logo.svg",
+            "siteUrl": "https://www.dillons.com/"
+        },
+        "baker's": {
+            "names": [
+                "Baker's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:08.407Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Baker%27s_Supermarkets",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Baker%27s_Supermarkets_logo.svg",
+            "siteUrl": "https://bakersplus.com/"
+        },
+        "gerbes": {
+            "names": [
+                "Gerbes"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:08.497Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerbes",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Dillons_logo.svg",
+            "siteUrl": "https://www.dillons.com/"
+        },
+        "food-4-less": {
+            "names": [
+                "Food 4 Less"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:09.850Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Food_4_Less",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Food4Less_logo.svg",
+            "siteUrl": "http://www.food4less.com/"
+        },
+        "fred-meyer": {
+            "names": [
+                "Fred Meyer"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:10.066Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Fred_Meyer",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Fred_Meyer_Logo_%282021%29.svg",
+            "siteUrl": "http://www.fredmeyer.com/"
+        },
+        "fred-meyer-jewelers": {
+            "names": [
+                "Fred Meyer Jewelers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:10.786Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Fred_Meyer_Jewelers",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Fred_Meyer_Jewelers_logo.svg",
+            "siteUrl": "http://www.fredmeyerjewelers.com/"
+        },
+        "fry's": {
+            "names": [
+                "Fry's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:10.955Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Fry%27s_Food_and_Drug",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Fry%27s_Logo.svg",
+            "siteUrl": "http://www.frysfood.com/"
+        },
+        "harris-teeter": {
+            "names": [
+                "Harris Teeter"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:11.109Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Harris_Teeter",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7d/Harris_Teeter_logo_%282023%29.svg",
+            "siteUrl": "https://www.harristeeter.com/"
+        },
+        "home-chef": {
+            "names": [
+                "Home Chef"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:11.214Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Home_Chef",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/56/Home_Chef_logo.svg",
+            "siteUrl": "http://www.homechef.com/"
+        },
+        "king-soopers": {
+            "names": [
+                "King Soopers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:11.298Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/King_Soopers",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/King_Soopers_logo.svg",
+            "siteUrl": "http://kingsoopers.com/"
+        },
+        "city-market": {
+            "names": [
+                "City Market"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:11.528Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/City_Market_(US_grocery_store_chain)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/City_Market_logo.svg",
+            "siteUrl": "http://www.kingsoopers.com/"
+        },
+        "pay-less": {
+            "names": [
+                "Pay Less"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:12.944Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pay_Less_Super_Markets",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Payless-footer-logo--payless_web_header.svg",
+            "siteUrl": "https://www.pay-less.com/"
+        },
+        "mariano's": {
+            "names": [
+                "Mariano's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:13.414Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mariano%27s",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/92/Mariano%27s_logo.svg",
+            "siteUrl": "http://marianos.com/"
+        },
+        "qfc": {
+            "names": [
+                "QFC"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:13.588Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/QFC",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5e/Quality_Food_Centers_%28logo%29.svg",
+            "siteUrl": "http://www.qfc.com/"
+        },
+        "ralphs": {
+            "names": [
+                "Ralphs"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:13.784Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ralphs",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Ralphs.svg",
+            "siteUrl": "http://www.ralphs.com/"
+        },
+        "roundy's": {
+            "names": [
+                "Roundy's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:13.892Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Roundy%27s",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/Roundy%27s_logo.svg",
+            "siteUrl": "https://www.roundys.com/"
+        },
+        "jayc": {
+            "names": [
+                "JayC"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:14.393Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/JayC_Food_Stores",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/de/JayC_Food_Stores_logo.svg",
+            "siteUrl": "http://www.jaycfoods.com/"
+        },
+        "ruler-foods": {
+            "names": [
+                "Ruler Foods"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:14.594Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruler_Foods",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/de/JayC_Food_Stores_logo.svg",
+            "siteUrl": "http://www.jaycfoods.com/"
+        },
+        "smith's": {
+            "names": [
+                "Smith's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:14.680Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Smith%27s_Food_and_Drug",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Smith%27s_logo.svg",
+            "siteUrl": "https://www.smithsfoodanddrug.com/"
+        },
+        "vitacost": {
+            "names": [
+                "Vitacost"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "kroger"
+            ],
+            "updatedAt": "2026-03-10T16:15:14.887Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Vitacost",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Vitacost_logo.svg",
+            "siteUrl": "http://www.vitacost.com/"
         }
     }
 }
