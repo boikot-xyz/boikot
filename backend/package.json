@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/server.js",
+    "start": "nodemon src/server.js",
     "test": "vitest run --testTimeout 0"
   },
   "type": "module",
@@ -17,6 +17,7 @@
     "fetch-h2": "^3.0.2",
     "jsdom": "^24.0.0",
     "lodash": "^4.17.21",
+    "nodemon": "^3.1.14",
     "slugify": "^1.6.6",
     "vitest": "^3.2.1"
   }

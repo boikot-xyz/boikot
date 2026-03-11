@@ -317,6 +317,14 @@ export function Jsoner() {
     const textareaRef = React.useRef(null);
     const showSources = !!Object.keys(state.sources).length;
     const [dragging, setDragging] = React.useState(null);
+    const [backendUp, setBackendUp] = React.useState(false);
+
+    React.useEffect( async () => {
+        const response = await fetch(
+            "http://localhost:8014/check",
+        );
+        if( response.status == 200 ) setBackendUp(true);
+    }, [])
 
     const setComment = e =>
         setState( oldState => (
@@ -417,8 +425,27 @@ export function Jsoner() {
         setDragging(target);
     };
 
+    const populateWikiInfo = async () => {
+        const response = await fetch(
+            "http://localhost:8014/wikiInfo",
+            {
+                method: "POST",
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(state),
+            }
+        );
+        const wikiInfo = await response.json();
+        setState( state => mergeJSON(state, wikiInfo) );
+    };
+
     const actionButtons = 
         <FlexRow style={{ justifyContent: "right" }}>
+            <PillButton $outline onClick={populateWikiInfo} title="Click to fetch and populate company information from wikipedia" disabled={!backendUp || !state.names.length}>
+                fetch wikipedia info
+            </PillButton>
             <PillButton
                 $outline
                 onClick={ async () => onMergeJSONClick(await navigator.clipboard.readText()) }
