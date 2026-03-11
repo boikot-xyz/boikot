@@ -21085,6 +21085,24 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Vitacost",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Vitacost_logo.svg",
             "siteUrl": "http://www.vitacost.com/"
+        },
+        "krups": {
+            "names": [
+                "Krups"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "groupe-seb"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Krups_Logo.svg",
+            "siteUrl": "https://www.krups.com/",
+            "updatedAt": "2026-03-11T17:21:20.040Z"
         }
     }
 }
