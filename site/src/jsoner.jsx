@@ -227,7 +227,7 @@ const searchEcosia = searchQuery => `https://www.ecosia.org/search?q=${encodeURI
 const makeWikipediaSearchURL = companyName => searchEcosia(companyName + " wikipedia");
 const makeUnethicalSearchURL = companyName => searchEcosia(companyName + " unethical");
 const makeScandalSearchURL = companyName => searchEcosia(companyName + " scandal");
-const makeGoogleSearchURL = companyName => `https://www.google.com/search?q=${encodeURIComponent(companyName)}%20unethical`;
+const makeGoogleSearchURL = companyName => `https://www.google.com/search?q=${encodeURIComponent(companyName)}%20unethical%20-AI`;
 const makeCompanyReportSearchURL = companyName => searchEcosia(companyName + " company report");
 const makeViolationTrackerSearchURL = companyName => `https://violationtracker.goodjobsfirst.org/?company=${encodeURIComponent(companyName)}`
 const makeViolationTrackerUKSearchURL = companyName => `https://violationtrackeruk.goodjobsfirst.org/?company=${encodeURIComponent(companyName)}`
