@@ -21092,22 +21092,24 @@
                 "L'Occitane en Provence",
                 "Groupe L'Occitane"
             ],
-            "comment": "L'Occitane is a French cosmetics company that has faced accusations of false advertising [1][2][3], greenwashing [4], and continuing operations in Russia during the war [5]. The company has also been implicated in child labour within its supply chain [6].",
+            "comment": "L'Occitane is a French cosmetics company that has faced accusations of false advertising [1][2][3], greenwashing [4], and underfilling its products' packaging. L'Occitane initially continued operations in Russia during the war [5] and has also been implicated in child labour within its supply chain [6].",
             "sources": {
                 "1": "https://edition.cnn.com/2014/01/08/health/weight-loss-companies-fraud",
                 "2": "https://www.leparisien.fr/economie/publicite-l-occitane-condamnee-a-450-000-dollars-d-amende-aux-etats-unis-09-04-2014-3754843.php",
                 "3": "https://www.ftc.gov/legal-library/browse/cases-proceedings/122-3115-loccitane-inc-matter",
-                "4": "https://theindustry.beauty/beauty-brands-exposed-for-misleading-and-mendacious-packaging-claims/",
-                "5": "https://www.theguardian.com/world/2022/mar/15/loccitane-still-open-in-russia-as-brands-pull-out",
-                "6": "https://www.franceinfo.fr/economie/emploi/metiers/video-cash-investigation-revele-quunicef-france-a-signe-un-partenariat-avec-loccitane-dont-lun-des-fournisseurs-fait-travailler-des-enfants_5423191.html"
+                "4": "https://www.classaction.org/news/loccitane-lotion-containers-are-more-than-half-empty-class-action-says",
+                "5": "https://theindustry.beauty/beauty-brands-exposed-for-misleading-and-mendacious-packaging-claims/",
+                "6": "https://www.theguardian.com/world/2022/mar/15/loccitane-still-open-in-russia-as-brands-pull-out",
+                "7": "https://www.franceinfo.fr/economie/emploi/metiers/video-cash-investigation-revele-quunicef-france-a-signe-un-partenariat-avec-loccitane-dont-lun-des-fournisseurs-fait-travailler-des-enfants_5423191.html"
             },
             "sourceNotes": {
                 "1": "false advertising",
                 "2": "false advertising",
                 "3": "false advertising",
-                "4": "greenwashing",
-                "5": "initially continued to operate in russia during war",
-                "6": "child labour in supply chain"
+                "4": "underfilling products",
+                "5": "greenwashing",
+                "6": "initially continued to operate in russia during war",
+                "7": "child labour in supply chain"
             },
             "tags": [
                 "consumer goods"
