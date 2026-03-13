@@ -20034,18 +20034,16 @@
             "sources": {},
             "sourceNotes": {},
             "tags": [
-                "retail",
                 "clothing",
-                "sports"
+                "retail"
             ],
-            "score": 39,
+            "score": null,
             "ownedBy": [
-                "pentland-group"
+                "maus-freres"
             ],
-            "updatedAt": "2026-02-28T10:57:02.220Z",
-            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lacoste",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/Lacoste_logo.svg",
-            "siteUrl": "https://lacoste.com/"
+            "siteUrl": "https://lacoste.com/",
+            "updatedAt": "2026-03-13T10:05:17.094Z"
         },
         "mitre": {
             "names": [
