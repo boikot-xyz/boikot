@@ -21172,6 +21172,76 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Krups_Logo.svg",
             "siteUrl": "https://www.krups.com/",
             "updatedAt": "2026-03-11T17:21:20.040Z"
+        },
+        "lands'-end": {
+            "names": [
+                "Lands' End",
+                "Lands End"
+            ],
+            "comment": "Lands End is an American apparel retailer that has a record of customer privacy violations [1], false advertising [2][3], ending collaboration with feminist activists [4][5], and manufacturing toxic uniforms [6].",
+            "sources": {
+                "1": "https://www.classaction.org/news/lands-end-hit-with-class-action-lawsuit-over-alleged-use-of-tracking-tech-in-marketing-emails",
+                "2": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/lands-end-sued-for-alleged-fake-discounts-and-misleading-marketing/",
+                "3": "https://truthinadvertising.org/class-action/lands-end/",
+                "4": "https://www.nytimes.com/2016/03/01/business/catalog-interview-with-gloria-steinem-has-lands-end-on-its-heels.html",
+                "5": "https://www.businessinsider.com/lands-end-removes-gloria-steinem-interview-2016-2",
+                "6": "https://news.bloomberglaw.com/litigation/delta-workers-toxic-lands-end-uniform-claims-meet-wary-court"
+            },
+            "sourceNotes": {
+                "1": "customer privacy violation",
+                "2": "false advertising and misleading customers",
+                "3": "false advertising and misleading customers",
+                "4": "ended collaboration with feminist activist",
+                "5": "ended collaboration with feminist activist",
+                "6": "manufactured toxic uniforms"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/aa/Lands%27_End_2018.svg",
+            "siteUrl": "https://landsend.com/",
+            "updatedAt": "2026-03-14T08:36:12.211Z"
+        },
+        "lavazza": {
+            "names": [
+                "Lavazza",
+                "Luigi Lavazza S.p.A.",
+                "Luigi Lavazza"
+            ],
+            "comment": "Lavazza is an Italian coffee company that has been accused of misleading advertising [1], selling contaminated coffee [2], and filing false intellectual‑property claims against online retailers [3]. The company relies primarily on non‑fair‑trade suppliers [4], opposes anti‑deforestation legislation [5] and pro‑Palestine statements [6], and has ties to human‑rights abuses in its supply chain [7][8].",
+            "sources": {
+                "1": "https://news.sky.com/story/lavazza-and-dualit-adverts-banned-after-making-misleading-compostable-claim-13358504",
+                "2": "https://www.businessonline.it/news/nuovi-dettagli-su-lavazza-e-il-caff-contaminato-rivelato-da-report-cerchiamo-di-fare-chiarezza_n76391.html",
+                "3": "https://www.law.com/njlawjournal/2019/11/12/online-reseller-accuses-lavazza-coffee-of-bringing-phony-ip-infringement-claims/?slreturn=20260315045057",
+                "4": "https://www.lavazzagroup.com/content/dam/lavazza/lavazza-corporate/come-lavoriamo/BilancioSostenibile2020_ENG_def.pdf",
+                "5": "https://sprudge.com/lavazza-pushes-back-on-eu-deforestation-law-it-voluntarily-agreed-to-212541.html",
+                "6": "https://www.skysports.com/football/news/11095/12307323/arsenal-speak-to-mohamed-elneny-over-wider-implications-of-pro-palestinian-social-media-post-amid-sponsor-concern",
+                "7": "https://coffeewatch.org/coffee-and-human-rights-abuses/",
+                "8": "https://reporterbrasil.org.br/2022/05/multinational-coffee-companies-ignore-accusations-and-continue-buying-from-suppliers-linked-to-farms-with-slave-labour/"
+            },
+            "sourceNotes": {
+                "1": "misleading advertising",
+                "2": "sold contaminated coffee",
+                "3": "filed false IP claims against online retailers",
+                "4": "uses mostly non-fairtrade suppliers",
+                "5": "opposed anti-deforestation law",
+                "6": "opposed pro-palestine statements",
+                "7": "connected to human rights abuses in supply chain",
+                "8": "connected to human rights abuses in supply chain"
+            },
+            "tags": [
+                "coffee",
+                "beverages"
+            ],
+            "score": 15,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Lavazza_-_logo_%28Italy%2C_1995%29.svg",
+            "siteUrl": "http://lavazza.com/",
+            "updatedAt": "2026-03-15T08:44:55.205Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lavazza"
         }
     }
 }
