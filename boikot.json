@@ -21242,6 +21242,27 @@
             "siteUrl": "http://lavazza.com/",
             "updatedAt": "2026-03-15T08:44:55.205Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Lavazza"
+        },
+        "le-creuset": {
+            "names": [
+                "Le Creuset"
+            ],
+            "comment": "Le Creuset is a French-Belgian cookware manufacturer that has sold pans containing potentially toxic checmicals.",
+            "sources": {
+                "1": "https://uk.news.yahoo.com/m-fed-living-fear-m-113813957.html"
+            },
+            "sourceNotes": {
+                "1": "sold pans containing potentially toxic checmicals"
+            },
+            "tags": [
+                "retail"
+            ],
+            "score": 49,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Le_Creuset_Logo.png",
+            "siteUrl": "https://www.lecreuset.com/",
+            "updatedAt": "2026-03-16T08:23:17.217Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Le_Creuset"
         }
     }
 }
