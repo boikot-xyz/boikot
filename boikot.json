@@ -21263,6 +21263,28 @@
             "siteUrl": "https://www.lecreuset.com/",
             "updatedAt": "2026-03-16T08:23:17.217Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Le_Creuset"
+        },
+        "le-pain-quotidien": {
+            "names": [
+                "Le Pain Quotidien"
+            ],
+            "comment": "",
+            "sources": {
+                "1": "https://www.nrn.com/fast-casual/u-s-arm-of-le-pain-quotidien-files-bankruptcy-agrees-to-sell-units-to-aurify-brands-llc"
+            },
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "m80",
+                "aurify"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/30/Le_Pain_Quotidien_logo.png",
+            "siteUrl": "https://www.lepainquotidien.com/",
+            "updatedAt": "2026-03-17T14:55:51.026Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Le_Pain_Quotidien"
         }
     }
 }
