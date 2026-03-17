@@ -5,6 +5,7 @@ import { getWikipediaInfo } from "./wiki.js";
 async function getWikiInfo(req, res, state) {
     console.log(`Getting wikiInfo for ${state.names[0]}`);
     const wikiInfo = await getWikipediaInfo(state.names[0]);
+    console.log(`Returning wikiInfo: ${JSON.stringify(wikiInfo)}`);
     res.end(JSON.stringify(wikiInfo));
 }
 

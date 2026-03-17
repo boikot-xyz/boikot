@@ -94,9 +94,9 @@ const targetWikipediaInfos = [
     siteUrl: "http://abercrombie.com/",
   }],
   ["anker", {
-    wikipediaUrl: "https://en.wikipedia.org/wiki/Anker_Innovations",
-    logoUrl: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Anker_Innovations_Co._Ltd._Logo.png",
-    siteUrl: "https://anker.com/",
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Anker",
+    logoUrl: "https://upload.wikimedia.org/wikipedia/commons/7/75/Anker_Innovations_logo.svg",
+    siteUrl: "http://anker.com/",
   }],
   ["b&q", {
     wikipediaUrl: "https://en.wikipedia.org/wiki/B%26Q",

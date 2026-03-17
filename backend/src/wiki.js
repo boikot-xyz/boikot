@@ -2,6 +2,7 @@
 
 import { JSDOM } from "jsdom";
 import { searchEcosia } from "./search.js";
+import { fetch } from "fetch-h2";
 
 
 export async function getWikipediaPage( companyName ) {
