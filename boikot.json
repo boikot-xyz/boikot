@@ -21285,6 +21285,25 @@
             "siteUrl": "https://www.lepainquotidien.com/",
             "updatedAt": "2026-03-17T14:55:51.026Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Le_Pain_Quotidien"
+        },
+        "leroy-merlin": {
+            "names": [
+                "Leroy Merlin"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": "",
+            "ownedBy": [
+                "association-familiale-mulliez"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Leroy_Merlin_-_logo_%28France%2C_1995-%29.svg",
+            "siteUrl": "http://www.leroymerlin.com/",
+            "updatedAt": "2026-03-18T08:07:23.677Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Leroy_Merlin"
         }
     }
 }
