@@ -7,7 +7,7 @@ import "whatwg-fetch";
 import { Helmet } from "react-helmet";
 
 import boikot from '../../boikot.json';
-import { CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack, Row, ResizingInput } from "./components.jsx";
+import { Card, CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack, Row, ResizingInput } from "./components.jsx";
 import { Company } from "./companies.jsx";
 
 const initialState = {
@@ -164,24 +164,6 @@ const insertIntoString = ( originalString, insertIndex, insertionString ) =>
     insertionString +
     originalString.slice(insertIndex);
 
-
-async function complete( state, mergeJSON ) {
-    const response = await fetch(
-        "http://localhost:8014/complete", {
-            method: 'POST',
-            body: JSON.stringify(state),
-        } );
-    const {
-        siteUrl, logoUrl, tickers, commentPrompt
-    } = await response.json();
-    const names = [...state.names, ...tickers];
-    mergeJSON(JSON.stringify({
-        names, siteUrl, logoUrl
-    }));
-    copy(commentPrompt);
-    alert("copied prompt!");
-}
-
 function mergeArrays( array1, array2 ) {
     return [ ...(array1 || []), ...(array2 || []) ];
 }
@@ -203,24 +185,6 @@ function mergeJSON( existingCompanyData, newData ) {
         sources: mergeSources( existingCompanyData?.sources, newData?.sources ),
         sourceNotes: mergeSources( existingCompanyData?.sourceNotes, newData?.sourceNotes ),
     };
-}
-
-
-function CompleteButton({ state, mergeJSON}) {
-    const [ show, setShow ] = React.useState(false);
-    React.useEffect( () => {
-        fetch("http://localhost:8014/check")
-            .then(response => response.json())
-            .then(({ result }) => setShow(result))
-            .catch(() => {});
-    }, [] );
-
-    if( !show ) return null;
-
-    return <PillButton $outline style={{ justifySelf: "right" }}
-        onClick={ () => complete(state, mergeJSON) }>
-        complete  ✨
-    </PillButton>;
 }
 
 const searchEcosia = searchQuery => `https://www.ecosia.org/search?q=${encodeURIComponent(searchQuery)}`;
@@ -311,6 +275,22 @@ function SourceRow({ state, sourceKey, setSource, setSourceNote, setDragging, re
 }
 
 
+function Toast({ children }) {
+    return <div
+        style={{
+            position: "fixed",
+            bottom: 0,
+            right: 0,
+            padding: "2rem",
+            fontSize: "0.8rem",
+        }}>
+        <Card style={{ minWidth: "16rem", padding: "0.8rem" }}>
+            { children }
+        </Card>
+    </div>;
+}
+
+
 export function Jsoner() {
     const { key } = useParams();
     const [state, setState] = React.useState(getInitialState(key));
@@ -318,13 +298,19 @@ export function Jsoner() {
     const showSources = !!Object.keys(state.sources).length;
     const [dragging, setDragging] = React.useState(null);
     const [backendUp, setBackendUp] = React.useState(false);
+    const [toastMessage, setToastMessage] = React.useState(false);
+    const [toastMessageClearTimeout, setToastMessageClearTimeout] = React.useState(null);
 
-    React.useEffect( async () => {
+    React.useEffect( () => {(async () => {
         const response = await fetch(
             "http://localhost:8014/check",
         );
         if( response.status == 200 ) setBackendUp(true);
-    }, [])
+    })()}, [])
+    React.useEffect( () => {
+        clearTimeout(toastMessageClearTimeout);
+        setToastMessageClearTimeout(setTimeout(() => setToastMessage(""), 3500));
+    }, [toastMessage])
 
     const setComment = e =>
         setState( oldState => (
@@ -426,6 +412,7 @@ export function Jsoner() {
     };
 
     const populateWikiInfo = async () => {
+        setToastMessage("Fetching wiki info...");
         const response = await fetch(
             "http://localhost:8014/wikiInfo",
             {
@@ -439,12 +426,58 @@ export function Jsoner() {
         );
         const wikiInfo = await response.json();
         setState( state => mergeJSON(state, wikiInfo) );
+        setToastMessage("Fetched wiki info!");
+    };
+
+    const generateComment = async () => {
+        setToastMessage("Generating comment...");
+        const response = await fetch(
+            "http://localhost:8014/generateComment",
+            {
+                method: "POST",
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(state),
+            }
+        );
+        const comment = await response.json();
+        setState( state => mergeJSON(state, comment) );
+        setToastMessage("Generated comment!");
+    };
+
+    const saveCompanyData = async () => {
+        setToastMessage("Saving company data...");
+        const result = {
+            ...state,
+            sources: Object.fromEntries(Object.entries(state.sources).filter(([k, v]) => v)),
+            sourceNotes: Object.fromEntries(Object.entries(state.sourceNotes).filter(([k, v]) => v)),
+            ownedBy: state.ownedBy || null,
+            score: parseFloat(state.score),
+        };
+        const response = await fetch(
+            "http://localhost:8014/saveCompanyData",
+            {
+                method: "POST",
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(result),
+            }
+        );
+        const comment = await response.json();
+        setToastMessage("Saved data!");
     };
 
     const actionButtons = 
         <FlexRow style={{ justifyContent: "right" }}>
             <PillButton $outline onClick={populateWikiInfo} title="Click to fetch and populate company information from wikipedia" disabled={!backendUp || !state.names.length}>
-                fetch wikipedia info
+                fetch wikipedia info  🌐
+            </PillButton>
+            <PillButton $outline onClick={generateComment} title="Click to generate comment based on source notes" disabled={!backendUp || !state.sourceNotes["1"]}>
+                generate comment  💬
             </PillButton>
             <PillButton
                 $outline
@@ -460,6 +493,9 @@ export function Jsoner() {
             </PillButton>
             <PillButton onClick={() => copy(tojson(state))}>
                 copy company data  📋
+            </PillButton>
+            <PillButton onClick={saveCompanyData} disabled={!backendUp || !state.names.length}>
+                save company data  💾
             </PillButton>
         </FlexRow>;
 
@@ -563,13 +599,13 @@ export function Jsoner() {
             </CodeBlock>
         </Entry>
         { actionButtons }
-        <CompleteButton state={state} mergeJSON={mergeJSON} />
         { !!state?.names?.length && <>
             <h2> Preview: </h2>
             <div style={{ border: "0.05rem solid var(--fg)", borderRadius: "2rem", background: "var(--fg-transparent)", padding: "2rem" }}>
                 <Company entry={state} />
             </div>
         </> }
+        { toastMessage && <Toast> { toastMessage } </Toast> }
     </Stack>;
 }
 
