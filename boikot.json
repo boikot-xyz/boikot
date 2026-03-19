@@ -21304,6 +21304,47 @@
             "siteUrl": "http://www.leroymerlin.com/",
             "updatedAt": "2026-03-18T08:07:23.677Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Leroy_Merlin"
+        },
+        "levi-strauss-and-co.": {
+            "names": [
+                "Levi Strauss & Co.",
+                "Levi's",
+                "Levi Strauss",
+                "LEVI"
+            ],
+            "comment": "Levi Strauss & Co. is an American apparel company that has used AI-generated imagery in product advertising, reportedly replacing diverse models [1][2], and has been accused of age-based discrimination against employees [3]. The company has also refused to sign a workers rights agreement and to offer employees a living wage [4][5], while reports highlight forced labor and sexual abuse in its supply chain [6][7][8][9].",
+            "sources": {
+                "1": "https://www.yahoo.com/lifestyle/levis-faces-backlash-after-announcing-it-will-use-ai-to-increase-the-number-and-diversity-of-models-unethical-on-so-many-levels-193304111.html",
+                "2": "https://www.nbcnews.com/business/business-news/ai-models-levis-controversy-backlash-rcna77280",
+                "3": "https://simplywall.st/stocks/us/consumer-durables/nyse-levi/levi-strauss/news/levi-strauss-lawsuit-tests-culture-governance-and-human-capi",
+                "4": "https://www.peoplesworld.org/article/no-justice-no-jeans-unions-fight-for-levis-workers-around-the-world/",
+                "5": "https://www.business-humanrights.org/en/latest-news/levis-suspended-by-ethical-group-in-living-wage-row/",
+                "6": "https://www.business-humanrights.org/en/latest-news/us-apparel-cos-lawsuit-re-saipan/",
+                "7": "https://core-ombuds.canada.ca/core_ombuds-ocre_ombuds/press-release-levi-strauss-communique.aspx?lang=eng",
+                "8": "https://fizzymag.com/articles/us-apparel-brands-caught-up-in-sexual-abuse-scandal-of-garment-workers-in-lesotho",
+                "9": "https://www.cbsnews.com/news/levis-wrangler-jeans-factories-lesotho-south-africa-sexual-harassment-abuse-violence-report/"
+            },
+            "sourceNotes": {
+                "1": "using AI generated imagery in product advertising to replace diverse models",
+                "2": "using AI generated imagery in product advertising",
+                "3": "age-based discriminated against employees",
+                "4": "refused to sign workers rights agreement",
+                "5": "refused to offer employees a living wage",
+                "6": "forced labour in supply chain",
+                "7": "forced labour in supply chain",
+                "8": "sexual abuse in supply chain",
+                "9": "sexual abuse in supply chain"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 19,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Levis-logo-quer.svg",
+            "siteUrl": "https://www.levistrauss.com/",
+            "updatedAt": "2026-03-19T08:17:03.826Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Levi_Strauss_%26_Co."
         }
     }
 }
