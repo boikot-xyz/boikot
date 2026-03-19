@@ -302,10 +302,12 @@ export function Jsoner() {
     const [toastMessageClearTimeout, setToastMessageClearTimeout] = React.useState(null);
 
     React.useEffect( () => {(async () => {
+        setToastMessage("Connecting to backend...");
         const response = await fetch(
             "http://localhost:8014/check",
         );
-        if( response.status == 200 ) setBackendUp(true);
+        if( response.status == 200 ) setBackendUp(true) + setToastMessage("Connected to backend ok!");
+        else setToastMessage("Could not connect to backend");
     })()}, [])
     React.useEffect( () => {
         clearTimeout(toastMessageClearTimeout);
