@@ -21345,6 +21345,110 @@
             "siteUrl": "https://www.levistrauss.com/",
             "updatedAt": "2026-03-19T08:17:03.826Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Levi_Strauss_%26_Co."
+        },
+        "liberty-mutual": {
+            "names": [
+                "Liberty Mutual",
+                "Liberty Mutual Insurance Company",
+                "Liberty Mutual Group",
+                "Liberty Mutual Insurance"
+            ],
+            "comment": "Liberty Mutual is an American insurance company that has mishandled customer complaints [1][2], misled customers [3], manipulated insurance markets to overcharge customers [4], bribed government officials in India to secure new business [5], and violated insurance laws [6]. The company has also underpaid employees [7][8] while paying excessive executive compensation and supplying private jets [9][10][11][12].",
+            "sources": {
+                "1": "https://www.simmons-simmons.com/en/publications/ck0agd58pnbu00b339yyienuc/171218-fca-fines-liberty-mutual-insurance",
+                "2": "https://www.fca.org.uk/news/press-releases/liberty-mutual-insurance-europe-se-fined",
+                "3": "https://news.delaware.gov/2025/04/14/liberty-mutual-pays-300000-penalty-for-misleading-consumers/",
+                "4": "https://www.insurancejournal.com/magazines/mag-features/2011/01/10/185650.htm",
+                "5": "https://www.justice.gov/criminal/media/1410761/dl?inline",
+                "6": "https://www.cbsnews.com/minnesota/news/liberty-mutual-agrees-to-pay-over-7m-to-policyholders-in-consent-order-with-the-mn-dept-of-commerce/",
+                "7": "http://www.leagle.com/xmlresult.aspx?xmldoc=In%20FDCO%2020120927799.xml&docbase=CsLwAr3-2007-Curr",
+                "8": "https://web.archive.org/web/20170929135402/http://www.businessinsurance.com/article/20120101/NEWS08/301019991",
+                "9": "https://web.archive.org/web/20150427143114/http://www.bostonglobe.com/metro/2012/05/01/liberty-mutual-accounting-for-executive-privileges/sSVU5HithurylpBKJlcxxM/story.html",
+                "10": "https://web.archive.org/web/20170430165808/http://www.bostonglobe.com/metro/2012/05/22/deval-patrick-liberty-mutual-the-benefits-friendship/6RkpCKxitx4Xih0Dg2D3dN/story.html",
+                "11": "https://web.archive.org/web/20150712074626/http://www.bostonglobe.com/metro/2012/04/24/brian-mcgrory-there-more-lots-more-liberty-mutual-compensation-story/hbzbaX4WfCZG6BypJf8uRK/story.html",
+                "12": "https://web.archive.org/web/20150712173019/http://www.boston.com/news/local/massachusetts/articles/2012/05/02/at_liberty_mutual_no_accounting_for_executive_privileges/"
+            },
+            "sourceNotes": {
+                "1": "mishandled customer complaints",
+                "2": "mishandled customer complaints",
+                "3": "misled customers",
+                "4": "manipulated insurance markets to overcharge customers",
+                "5": "bribed government officials in india to get new business",
+                "6": "violated insurance laws",
+                "7": "underpaid employees",
+                "8": "underpaid employees",
+                "9": "excessive executive pay and private jets",
+                "10": "excessive executive pay and private jets",
+                "11": "excessive executive pay and private jets",
+                "12": "excessive executive pay and private jets"
+            },
+            "tags": [
+                "insurance",
+                "finance"
+            ],
+            "score": 38,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5a/Liberty_Mutual_Insurance_logo.svg",
+            "siteUrl": "http://libertymutualgroup.com/",
+            "updatedAt": "2026-03-20T08:32:53.991Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Liberty_Mutual"
+        },
+        "state-auto-group": {
+            "names": [
+                "State Auto Group"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "insurance",
+                "finance"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "liberty-mutual"
+            ],
+            "updatedAt": "2026-03-20T08:51:42.102Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/State_Auto_Group",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/State_Auto_Logo_Cropped.jpg"
+        },
+        "safeco": {
+            "names": [
+                "Safeco"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "insurance",
+                "finance"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "liberty-mutual"
+            ],
+            "updatedAt": "2026-03-20T08:51:42.596Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Safeco",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Safeco_logo.svg",
+            "siteUrl": "https://www.safeco.com/"
+        },
+        "ironshore": {
+            "names": [
+                "Ironshore"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "insurance",
+                "finance"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "liberty-mutual"
+            ],
+            "updatedAt": "2026-03-20T08:51:42.666Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ironshore"
         }
     }
 }
