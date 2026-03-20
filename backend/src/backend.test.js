@@ -12,6 +12,7 @@ import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearch
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
 import { sortSources } from "./sortSources.js";
+import { getTitle } from "./scrape.js";
 import { rustscrape } from "../rustscrape/rustscrape.js";
 import boikot from "../../boikot.json" with { type: "json" };
 
@@ -165,6 +166,26 @@ describe("searchEcosia", () => {
     expect(results[0]).toHaveProperty("description");
     expect(results[0]).toHaveProperty("url");
     expect(results.length).toBe(50);
+  });
+});
+
+const targetTitles = [
+  ["https://bandcamp.com/codeman1142", "codeman1142's collection | Bandcamp"],
+  ["https://simplywall.st/stocks/us/consumer-durables/nyse-levi/levi-strauss/news/levi-strauss-lawsuit-tests-culture-governance-and-human-capi", "Levi Strauss Lawsuit Tests Culture Governance And Human Capital Story - Simply Wall St News"],
+  ["https://www.business-humanrights.org/en/latest-news/us-apparel-cos-lawsuit-re-saipan/", "U.S. apparel cos. lawsuit (re Saipan) - Business and Human Rights Centre"],
+  ["https://sprudge.com/lavazza-pushes-back-on-eu-deforestation-law-it-voluntarily-agreed-to-212541.html", "Lavazza Pushes Back On EU Deforestation Law It Voluntarily Agreed To | Sprudge Coffee"],
+  ["https://news.sky.com/story/lavazza-and-dualit-adverts-banned-after-making-misleading-compostable-claim-13358504", "Lavazza and Dualit adverts banned after making 'misleading' compostable claim | Money News | Sky News"],
+  ["https://www.bbc.co.uk/news/business-61096823", "Beauty firm L'Occitane keeps Russian stores open - BBC News"],
+  ["https://www.nytimes.com/2016/03/01/business/catalog-interview-with-gloria-steinem-has-lands-end-on-its-heels.html", "Catalog Interview With Gloria Steinem Has Lands’ End on Its Heels - The New York Times"],
+  ["https://www.law360.com/articles/783451/kohl-s-wins-early-approval-of-6-15m-deceptive-sales-deal", "Kohl's Wins Early Approval Of $6.15M Deceptive Sales Deal - Law360"],
+];
+
+describe("getTitle", () => {
+  targetTitles.forEach(([url, expectedTitle]) => {
+    it(`returns correct record for ${url}`, async () => {
+      const title = await getTitle(url);
+      expect(title).toBe(expectedTitle);
+    });
   });
 });
 
