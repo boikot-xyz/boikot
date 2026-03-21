@@ -21449,6 +21449,25 @@
             ],
             "updatedAt": "2026-03-20T08:51:42.666Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Ironshore"
+        },
+        "linkedin": {
+            "names": [
+                "Linkedin"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "microsoft"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg",
+            "siteUrl": "https://linkedin.com/",
+            "updatedAt": "2026-03-21T10:38:42.191Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/LinkedIn"
         }
     }
 }
