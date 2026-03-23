@@ -6,17 +6,16 @@ import _ from "lodash";
 
 const html = `
 
-<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body>uire <a href="https://en.wikipedia.org/wiki/State_Auto_Group" class="mw-redirect" title="State Auto Group">State Auto Group</a> for ov</body></html>
-<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body>tion of <a href="https://en.wikipedia.org/wiki/Safeco" title="Safeco">Safeco</a> Corporation in 2008. Liberty Mutual agreed to acquire all outstanding shares of Safeco for $68.25 p</body></html>
-<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body><a href="https://en.wikipedia.org/wiki/Ironshore" title="Ironshore">Ironshore</a> (ac</body></html>
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body><li><a href="https://en.wikipedia.org/wiki/Ghirardelli_Chocolate_Company" title="">Ghirardelli</a></li><li><a href="https://en.wikipedia.org/wiki/Russell_Stover_Candies" title="Russell Stover Candies">Russell Stover</a></li><li><a href="https://en.wikipedia.org/wiki/Caffarel" title="Caffarel">Caffarel</a></li><li><a href="https://en.wikipedia.org/wiki/Hofbauer" title="Hofbauer">Hofbauer</a></li><li>Küfferle</li></body></html>
+
 `;
 
 const tags = [
-    "insurance",
-    "finance",
+    "food",
+    "confectionery",
 ];
 const score = 38;
-const ownedBy = "liberty-mutual";
+const ownedBy = "lindt";
 
 const pages = _.uniqBy(
     [...html.matchAll(/<a.+?href="(.+?)".*?>(.+?)<\/a>/g)]
