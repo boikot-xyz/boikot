@@ -21468,6 +21468,96 @@
             "siteUrl": "https://linkedin.com/",
             "updatedAt": "2026-03-21T10:38:42.191Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/LinkedIn"
+        },
+        "l.l.bean": {
+            "names": [
+                "L.L.Bean"
+            ],
+            "comment": "L.L.Bean is an American outdoor apparel retailer that has misled customers [1][2], has executives who donated to Donald Trump [3][4][5][7], and has faced allegations of sexual discrimination against employees [6]. The company has also sold unsafe child carriers and delayed reporting [8], opposed consumer privacy regulations [9], and potentially profited from forced Uyghur labor [10].",
+            "sources": {
+                "1": "https://topclassactions.com/lawsuit-settlements/consumer-products/apparel/l-l-bean-class-action-alleges-fake-discounts-and-sale-prices/",
+                "2": "https://www.classaction.org/media/bondi-v-l-l-bean-inc.pdf",
+                "3": "https://www.npr.org/2017/04/16/523960521/-grabyourwallets-anti-trump-boycott-looks-to-expand-its-reach",
+                "4": "http://www.pressherald.com/2017/01/12/our-view-l-l-bean-boycott-would-harm-the-wrong-people/",
+                "5": "https://www.nytimes.com/2017/01/12/us/politics/linda-bean-ll-bean-boycott.html",
+                "6": "https://caselaw.findlaw.com/court/us-1st-circuit/1161010.html",
+                "7": "https://www.cbsnews.com/news/after-calls-for-l-l-bean-boycott-trump-tweets-support-for-company/",
+                "8": "https://web.archive.org/web/20170115211445/https://www.cpsc.gov/Newsroom/News-Releases/2000/LL-Bean-Inc-to-Pay-750000-Civil-Penalty-for-Delay-in-Reporting-Backpack-Child-Carriers",
+                "9": "https://www.politico.com/news/2023/12/18/ll-bean-joins-the-national-privacy-wars-00132120",
+                "10": "https://www.aspi.org.au/report/uyghurs-sale/"
+            },
+            "sourceNotes": {
+                "1": "misleading customers",
+                "2": "misleading customers",
+                "3": "executive donated to donald trump",
+                "4": "executive donated to donald trump",
+                "5": "executive donated to donald trump",
+                "6": "sexual discrimination against employees",
+                "7": "executive donated to donald trump",
+                "8": "sold unsafe child carriers and delayed reporting",
+                "9": "opposed consumer privacy regulations",
+                "10": "potentially profiting from forced Uyghur labour"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 36,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/L.L.Bean_wordmark.svg",
+            "siteUrl": "https://www.llbean.com/",
+            "updatedAt": "2026-03-21T20:30:08.090Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/L.L.Bean"
+        },
+        "lloyds": {
+            "names": [
+                "Lloyds",
+                "Lloyds Banking Group plc",
+                "Lloyds Banking Group",
+                "LLoyds TSB",
+                "HBOS",
+                "LLOY",
+                "LYG"
+            ],
+            "comment": "Lloyds is a British bank that has engaged in tax avoidance [1], libor interest rate fraud [2], and has misled customers through greenwashing [3][4][5], defrauded customers [6][7][8], used threatening language and misleading branding to intimidate customers into paying bills [9], and engaged in car finance fraud [10]. Additionally, it has pressured employees leading to product mis-selling [11] and financed nuclear weapons and arms sales to Israel [12].",
+            "sources": {
+                "1": "https://www.theguardian.com/business/2009/feb/11/tax-gap-lloyds",
+                "2": "https://www.bbc.co.uk/news/business-28528349",
+                "3": "https://www.independent.co.uk/news/uk/lloyds-bank-asa-linkedin-government-investment-b2666153.html",
+                "4": "https://www.mirror.co.uk/news/business/lloyds-bank-advert-banned-watchdog-34334841",
+                "5": "https://www.bbc.co.uk/news/business-57768515",
+                "6": "https://www.cambridge-news.co.uk/business/business-news/cambridge-couple-vindicated-massive-fraud-12529459",
+                "7": "https://www.ft.com/content/2fb12910-264d-11e9-b329-c7e6ceb5ffdf",
+                "8": "https://www.bbc.com/news/uk-england-bristol-61974749",
+                "9": "https://www.bbc.co.uk/news/business-28343256",
+                "10": "https://www.theguardian.com/business/2025/oct/23/lloyds-profits-plunge-as-it-feels-impact-of-uk-car-finance-scandal",
+                "11": "https://www.theguardian.com/business/2013/dec/11/lloyds-banking-group-fined-misselling-scandal",
+                "12": "https://theecologist.org/2018/may/21/are-you-funding-fracking-and-nuclear-weapon-manufacturing"
+            },
+            "sourceNotes": {
+                "1": "tax avoidance",
+                "2": "libor interest rate fraud",
+                "3": "misleading customers and greenwashing",
+                "4": "misleading customers and greenwashing",
+                "5": "misleading customers",
+                "6": "defrauded customers",
+                "7": "defrauded customers",
+                "8": "defrauded customers",
+                "9": "used threatening language and misleading branding to intimidate customers into paying bills",
+                "10": "involved in car finance fraud",
+                "11": "poor working conditions and pressure on employees leading to product mis-selling",
+                "12": "financing nuclear weapons and arms sales to Israel"
+            },
+            "tags": [
+                "bank",
+                "finance"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Lloyds_Banking_Group_Plc.png",
+            "siteUrl": "https://lloydsbankinggroup.com/",
+            "updatedAt": "2026-03-21T20:30:08.090Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lloyds_Banking_Group"
         }
     }
 }
