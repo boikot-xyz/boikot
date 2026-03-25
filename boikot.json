@@ -21558,6 +21558,38 @@
             "siteUrl": "https://lloydsbankinggroup.com/",
             "updatedAt": "2026-03-21T20:30:08.090Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Lloyds_Banking_Group"
+        },
+        "logitech": {
+            "names": [
+                "Logitech",
+                "Logitech International S.A.",
+                "Logitech International",
+                "LOGN",
+                "LOGI"
+            ],
+            "comment": "Logitech is a Swiss company that has ended support for customers' existing products causing them to stop working [1] and engaged in accounting fraud [2]. The company has also violated customer privacy [3] and maintained unacceptable working conditions in its supply chain [4].",
+            "sources": {
+                "1": "https://www.slashgear.com/logitech-harmony-link-bricked-iot-cloud-failure-08507393/",
+                "2": "https://www.corporatecrimereporter.com/news/200/logitech-international-to-pay-7-5-million-neither-admit-nor-deny-sec-charges/",
+                "3": "https://topclassactions.com/lawsuit-settlements/privacy/logitech-class-action-alleges-company-wiretaps-website-conversations/",
+                "4": "https://chinalaborwatch.org/labor-conditions-in-chinas-consumer-electronics-sector/"
+            },
+            "sourceNotes": {
+                "1": "ended support for existing products causing them to stop working",
+                "2": "accounting fraud",
+                "3": "customer privacy violation",
+                "4": "unnacceptable working conditions in supply chain"
+            },
+            "tags": [
+                "electronics",
+                "tech"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Logitech_logo.svg",
+            "siteUrl": "https://www.logitech.com/",
+            "updatedAt": "2026-03-24T08:18:37.244Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Logitech"
         }
     }
 }
