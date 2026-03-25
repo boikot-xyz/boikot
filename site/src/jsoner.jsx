@@ -320,6 +320,7 @@ export function Jsoner() {
         );
         if( response.status == 200 ) setBackendUp(true) + setToastMessage("Connected to backend ok!");
         else setToastMessage("Could not connect to backend");
+        window.onbeforeunload = () => "";
     })()}, [])
     React.useEffect( () => {
         clearTimeout(toastMessageClearTimeout);
