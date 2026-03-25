@@ -21590,6 +21590,64 @@
             "siteUrl": "https://www.logitech.com/",
             "updatedAt": "2026-03-24T08:18:37.244Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Logitech"
+        },
+        "lowe's": {
+            "names": [
+                "Lowe's",
+                "Lowe's Companies",
+                "Lowe's Companies, Inc.",
+                "Lowe’s HIW",
+                "LOWE"
+            ],
+            "comment": "Lowe's is an American home improvement retailer that has misled customers [1], used facial recognition on shoppers without consent [2], ended DEI initiatives [3][4], illegally prevented employees from discussing pay [5], engaged in anti‑union operations and dismissals [6][7], misclassified and under‑compensated workers [8][9][10][12], discriminated against disabled workers [11], forced employees into overtime [13], and sold wood from illegal logging [14]. The company has also committed environmental violations, including air pollution [15][16] and illegal hazardous waste dumping [17].",
+            "sources": {
+                "1": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/lowes-class-action-alleges-false-discount-advertising-scheme/q",
+                "2": "https://www.aclu.org/news/privacy-technology/are-stores-you-shop-secretly-using-face",
+                "3": "https://www.charlotteobserver.com/news/business/article291529415.html",
+                "4": "https://www.insurancejournal.com/news/national/2024/08/27/790092.htm",
+                "5": "https://web.archive.org/web/20240206080804/https://www.hrdive.com/news/lowes-policy-forbidding-workers-from-discussing-pay-is-unlawful-nlrb-judg/522086/",
+                "6": "https://web.archive.org/web/20240509014344/https://www.nola.com/news/business/lowes-worker-claims-he-was-fired-for-organizing-union/article_33bc6e0c-15ea-11ee-aef0-bf0fc1c66868.html",
+                "7": "https://web.archive.org/web/20240214193904/https://www.wwno.org/business/2023-08-22/how-lowes-fought-back-unionization-in-new-orleans",
+                "8": "https://www.cpmlegal.com/newsroom/news/Lowes-Settlement",
+                "9": "https://www.prosalesmagazine.com/business/operations/lowes-settles-for-9-5m-in-class-action-wage-suit_o",
+                "10": "https://www.forbes.com/sites/waldleventhal/2015/01/20/lowes-10-million-settlement-provides-3-lessons-for-firms-working-with-independent-contractors/?sh=49c0215c1d12",
+                "11": "https://www.eeoc.gov/newsroom/lowes-pay-86-million-settle-eeoc-disability-discrimination-suit",
+                "12": "https://www.sommerspc.com/verdicts/9950000-settlement-for-lowes-hourly-managers-who-alleged-unpaid-off-the-clock-work/",
+                "13": "https://violationtracker.goodjobsfirst.org/archive/FLSA1034.pdf",
+                "14": "http://news.mongabay.com/2006/0323-png.html",
+                "15": "https://www.justice.gov/opa/pr/corporate-wide-settlement-lowe-s-protects-public-lead-pollution-during-home-renovations",
+                "16": "https://www.aqmd.gov/docs/default-source/Agendas/Governing-Board/2020/2020-mar6-014.pdf",
+                "17": "https://fox5sandiego.com/news/lowes-paying-18-1m-settlement-over-waste-dumping-scandal/"
+            },
+            "sourceNotes": {
+                "1": "misleading customers",
+                "2": "uses facial recognition on customers without consent",
+                "3": "ended DEI policies",
+                "4": "ended DEI policies",
+                "5": "illegally prevented employees from discussing pay",
+                "6": "anti-union operations and dismissals",
+                "7": "anti-union operations and dismissals",
+                "8": "misclassified and undercompensated workers",
+                "9": "misclassified and undercompensated workers",
+                "10": "misclassified and undercompensated workers",
+                "11": "discriminated against disabled workers",
+                "12": "misclassified and undercompensated workers",
+                "13": "made emloyees engage in forced overtime",
+                "14": "sold wood from illegal logging",
+                "15": "environmental violations",
+                "16": "air pollution violation",
+                "17": "illegally dumped hazardous waste"
+            },
+            "tags": [
+                "retail",
+                "diy"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lowes_Companies_Logo.svg",
+            "siteUrl": "https://lowes.com/",
+            "updatedAt": "2026-03-25T09:08:20.651Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lowe%27s"
         }
     }
 }
