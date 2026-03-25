@@ -242,11 +242,17 @@ export function SearchLinks({ state }) {
 
 function SourceRow({ state, sourceKey, setSource, setSourceNote, setDragging, reorderSources, onChange }) {
     const [draggable, setDraggable] = React.useState(false);
+    const [focus, setFocus] = React.useState(null);
     const key = sourceKey;
 
+    const gridTemplateColumns =
+        focus === "url" ? "1.32rem calc(80% - 1.32rem) calc(20% - 1.32rem) 1.32rem" :
+        (focus === "note" || state.sourceNotes[key]) ? "1.32rem calc(20% - 1.32rem) calc(80% - 1.32rem) 1.32rem" : 
+        "1.32rem calc(50% - 1.32rem) calc(50% - 1.32rem) 1.32rem";
+
     return <Entry
-        $valid={!!state.sources[key]}
-        style={{ display: "grid", gridTemplateColumns: "1.32rem 1fr 1fr 1rem", alignItems: "center", cursor: "grab" }}
+        $valid={!!state.sources[key] && !!state.sourceNotes[key]}
+        style={{ display: "grid", gridTemplateColumns, alignItems: "center", cursor: "grab", gap: "0", transition: "grid-template-columns 0.16s" }}
         onDragEnter={e => e.preventDefault() + reorderSources(sourceKey)}
         onDragOver={e => e.preventDefault()}
         onDrop={e => e.preventDefault() + setDragging(null) + setDraggable(false)}
@@ -258,17 +264,21 @@ function SourceRow({ state, sourceKey, setSource, setSourceNote, setDragging, re
         <input
             value={state.sources[key]}
             placeholder={`Paste the link for source [${key}] here`}
-            style={{ textOverflow: "ellipsis", minWidth: "5rem" }}
+            style={{ textOverflow: "ellipsis", minWidth: "5rem", borderRadius: "1rem 0 0 1rem", borderRight: "none" }}
             onChange={e => setSource(key)(e) + onChange?.()}
-            onDrop={e => e.preventDefault()} />
+            onDrop={e => e.preventDefault()}
+            onFocus={() => setFocus("url")}
+            onBlur={() => setFocus(null)} />
         <input
             value={state.sourceNotes[key]}
             placeholder={`Summary of source [${key}]`}
-            style={{ textOverflow: "ellipsis", minWidth: "5rem" }}
+            style={{ textOverflow: "ellipsis", minWidth: "5rem", borderRadius: "0 1rem 1rem 0", borderLeft: "1px solid #fff4" }}
             onChange={setSourceNote(key)}
-            onDrop={e => e.preventDefault()} />
+            onDrop={e => e.preventDefault()}
+            onFocus={() => setFocus("note")}
+            onBlur={() => setFocus(null)} />
         <Icon i="grip"
-            style={{ opacity: 0.32, justifySelf: "end", userSelect: "none", padding: "0.8rem 0 0.6rem 0.5rem", height: "100%" }}
+            style={{ opacity: 0.32, justifySelf: "end", userSelect: "none", padding: "0.8rem 0 0.6rem 1rem", height: "100%" }}
             onPointerDown={setDraggable}
             onPointerUp={e => setDraggable(false)}
             draggable="false"
