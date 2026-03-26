@@ -246,9 +246,9 @@ function SourceRow({ state, sourceKey, setSource, setSourceNote, setDragging, re
     const key = sourceKey;
 
     const gridTemplateColumns =
-        focus === "url" ? "1.32rem calc(80% - 1.32rem) calc(20% - 1.32rem) 1.32rem" :
-        (focus === "note" || state.sourceNotes[key]) ? "1.32rem calc(20% - 1.32rem) calc(80% - 1.32rem) 1.32rem" : 
-        "1.32rem calc(50% - 1.32rem) calc(50% - 1.32rem) 1.32rem";
+        focus === "url" ? "1.5rem calc(80% - 1.5rem) calc(20% - 1.32rem) 1.32rem" :
+        (focus === "note" || state.sourceNotes[key]) ? "1.5rem calc(20% - 1.5rem) calc(80% - 1.32rem) 1.32rem" : 
+        "1.5rem calc(50% - 1.5rem) calc(50% - 1.32rem) 1.32rem";
 
     return <Entry
         $valid={!!state.sources[key] && !!state.sourceNotes[key]}
