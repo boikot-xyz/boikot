@@ -90,6 +90,10 @@ async function respondPost(req, res, body) {
         return await saveCompanyData(req, res, state);
     }
 
+    if( req.url.includes("/getSummary") ) {
+        return await getSummary(req, res, state);
+    }
+
     res.statusCode = 400;
     res.end(`{"error": "Bad request"}`);
 }
