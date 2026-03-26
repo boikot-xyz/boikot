@@ -21648,6 +21648,58 @@
             "siteUrl": "https://lowes.com/",
             "updatedAt": "2026-03-25T09:08:20.651Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Lowe%27s"
+        },
+        "lululemon": {
+            "names": [
+                "lululemon",
+                "Lululemon",
+                "lululemon athletica inc.",
+                "LULU"
+            ],
+            "comment": "lululemon is a Canadian athletic apparel company that has been accused of false advertising [1][2], deceptive advertising and greenwashing [3][4][5], while its founder has made misogynistic statements [6][7] and racist and fatphobic remarks accompanied by performative DEI initiatives [8]. The company has refused to produce plus‑size clothing [9], blamed customers for product quality issues [10], fostered a racist work culture [11], engaged in racial profiling of customers [12], and workers in its supply chain have faced abuse [13][14].",
+            "sources": {
+                "1": "https://www.nytimes.com/2007/11/14/business/14seaweed.html",
+                "2": "http://www.competitionbureau.gc.ca/internet/index.cfm?itemID=2517&lg=e",
+                "3": "https://www.forbes.com/sites/jonmcgowan/2024/05/13/canada-launches-greenwashing-investigation-into-lululemon/",
+                "4": "https://www.thestreet.com/retail/lululemon-accused-of-issue-customers-should-know-about",
+                "5": "https://www.waste360.com/sustainability/lululemon-s-environmentally-focused-campaign-leads-to-lawsuit-alleging-deceptive-representations",
+                "6": "https://ideas.time.com/2013/11/13/forget-feminist-outrage-by-shunning-plus-size-customers-lululemon-is-making-a-terrible-business-decision/",
+                "7": "https://www.businessinsider.com/outrageous-remarks-by-lululemon-founder-chip-wilson-2013-12",
+                "8": "https://www.independent.co.uk/life-style/fashion/lululemon-ceo-scandal-controversy-b2473505.html",
+                "9": "http://www.huffingtonpost.com/2013/07/31/lululemon-plus-size_n_3675605.html",
+                "10": "https://www.businessoffashion.com/articles/sports/lululemon-blames-customers-again-after-see-through-tights-fiasco/",
+                "11": "https://www.thestreet.com/retail/lululemon-accused-of-an-ugly-problem-thats-slowly-coming-to-light",
+                "12": "https://www.blackenterprise.com/lululemon-racial-profiling-nyc/",
+                "13": "https://www.euronews.com/2019/10/17/lululemon-responds-to-allegations-of-abuse-in-garment-factory",
+                "14": "https://uhrp.org/statement/explosive-report-exposes-uyghur-forced-labour-connections-in-global-retail-brands-supply-chains/"
+            },
+            "sourceNotes": {
+                "1": "false advertising",
+                "2": "false advertising",
+                "3": "greenwashing",
+                "4": "greenwashing",
+                "5": "deceptive advertising and greenwashing",
+                "6": "misogynistic statements by founder",
+                "7": "misogynistic statements by founder",
+                "8": "racist and fatphobic statements by founder and performative DEI initiaitives",
+                "9": "refused to make clothing for plus-sized customers",
+                "10": "blamed customers for poor quality products",
+                "11": "racist work culture",
+                "12": "racial profiling of customers",
+                "13": "abuse of workers in supply chain",
+                "14": "abuse of workers in supply chain"
+            },
+            "tags": [
+                "clothing",
+                "retail",
+                "sports"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lululemon_Athletica_logo.svg",
+            "siteUrl": "https://shop.lululemon.com/",
+            "updatedAt": "2026-03-26T20:01:12.840Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lululemon"
         }
     }
 }
