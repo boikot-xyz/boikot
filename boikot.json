@@ -21700,6 +21700,40 @@
             "siteUrl": "https://shop.lululemon.com/",
             "updatedAt": "2026-03-26T20:01:12.840Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Lululemon"
+        },
+        "lush": {
+            "names": [
+                "Lush"
+            ],
+            "comment": "Lush is a British cosmetics company that has underpaid staff [1][2] and maintained unsafe working conditions [3]. The company has also engaged in anti‑union practices [4][5][6] and exploited freelance workers [7].",
+            "sources": {
+                "1": "http://www.abc.net.au/news/2018-07-17/lush-cosmetics-admits-it-underpayed-staff-two-million-dollars/10002750",
+                "2": "https://www.theguardian.com/australia-news/2020/nov/17/cosmetics-company-lush-admits-to-underpaying-australian-workers-by-44m",
+                "3": "https://www.theguardian.com/australia-news/2020/aug/21/ethical-cosmetics-company-lush-accused-of-poor-working-conditions-for-australian-staff",
+                "4": "https://www.businessinsider.com/lush-leadership-rejects-union-despite-supporting-them-for-other-brands-2020-12",
+                "5": "https://www.vice.com/en/article/how-lush-cosmetics-tried-to-crush-a-union-drive/",
+                "6": "https://jacobin.com/2021/06/lush-cosmetics-toronto-union-busting-progressive-image-hypocrisy",
+                "7": "https://cosmeticsbusiness.com/lush-accused-of-exploiting-freelance-workers-during-christmas-rush"
+            },
+            "sourceNotes": {
+                "1": "underpaid staff",
+                "2": "underpaid staff",
+                "3": "unsafe working conditions",
+                "4": "anti-union practices",
+                "5": "anti-union practices",
+                "6": "anti-union practices",
+                "7": "exploiting freelance workers"
+            },
+            "tags": [
+                "retail",
+                "consumer goods"
+            ],
+            "score": 42,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d4/LushCosmetics.svg",
+            "siteUrl": "https://lush.com/",
+            "updatedAt": "2026-03-27T07:38:36.384Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lush_(company)"
         }
     }
 }
