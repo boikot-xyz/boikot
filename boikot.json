@@ -21734,6 +21734,92 @@
             "siteUrl": "https://lush.com/",
             "updatedAt": "2026-03-27T07:38:36.384Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Lush_(company)"
+        },
+        "lyft": {
+            "names": [
+                "Lyft"
+            ],
+            "comment": "Lyft is an American ride‑hailing company that has faced customer privacy violations [1], price‑fixing allegations with Uber [2], denied drivers fair wages [3] while deceiving them with misleading earnings claims [4] and maintaining low pay and unfair working conditions [5][6][7][8]. It has also failed to protect customers from sexual assault [9][10], allowed abuser drivers to use the app to reach children [11], and has been linked to at least 10 deaths, 4000 assaults, and 360 rapes in Lyft rides [12][13].",
+            "sources": {
+                "1": "https://web.archive.org/web/20190402042907/https://topclassactions.com/lawsuit-settlements/lawsuit-news/863072-lyft-consumers-seek-approval-4m-texting-class-action-settlement/",
+                "2": "https://fingfx.thomsonreuters.com/gfx/legaldocs/klvykrnkmvg/Uber-Lyft%20Complaint.pdf",
+                "3": "https://www.business-humanrights.org/en/latest-news/usa-uber-lyft-allegedly-exploit-loopholes-to-deny-drivers-fair-wages-impacting-mental-health/",
+                "4": "https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-takes-action-stop-lyft-deceiving-drivers-misleading-earnings-claims",
+                "5": "https://www.theguardian.com/business/2023/mar/10/uber-lyft-driver-suspension-deactivation-pay",
+                "6": "https://calmatters.org/economy/2025/03/uber-lyft-could-owe-california-gig-workers-billions-of-dollars-in-california-wage-theft-case/",
+                "7": "https://violationtracker.goodjobsfirst.org/archive/FLSA768.pdf",
+                "8": "https://www.law360.com/employment/articles/1027806/lyft-settles-calif-drivers-premium-fare-suit-for-1-95m",
+                "9": "https://www.reuters.com/legal/lyft-officials-settle-lawsuit-over-sexual-assaults-by-drivers-2024-07-24/",
+                "10": "https://www.npr.org/2022/09/01/1120391757/lyft-lawsuits-assault-allegations",
+                "11": "https://www.nbcnews.com/tech/tech-news/uber-lyft-lawsuit-abuse-rape-sexual-assault-children-rcna149529",
+                "12": "https://www.theverge.com/2021/10/22/22740609/lyft-safety-report-2017-2019-physical-sexual-assault-death",
+                "13": "https://nypost.com/2021/10/22/lyft-releases-sex-assault-data-showing-360-rapes-during-three-year-span/"
+            },
+            "sourceNotes": {
+                "1": "customer privacy violations",
+                "2": "price fixing with uber",
+                "3": "denied drivers fair wages",
+                "4": "Deceiving Drivers with Misleading Earnings Claims",
+                "5": "low pay and unfair working conditions",
+                "6": "wage theft against drivers",
+                "7": "wage theft against drivers",
+                "8": "wage theft against drivers",
+                "9": "failed to protect customers from sexual assault",
+                "10": "failed to protect customers from sexual assault",
+                "11": "abuser drivers used the app to reach children",
+                "12": "at least 10 people died and 4000 people have been assaulted in lyft rides",
+                "13": "at least 360 rapes occured in lyft journeys"
+            },
+            "tags": [
+                "tech",
+                "transportation"
+            ],
+            "score": 10,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Lyft_logo_2025.svg",
+            "siteUrl": "https://lyft.com/",
+            "updatedAt": "2026-03-28T17:16:34.820Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lyft"
+        },
+        "motivate": {
+            "names": [
+                "Motivate"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech",
+                "transportation"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "lyft"
+            ],
+            "updatedAt": "2026-03-28T22:49:09.193Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Motivate_(company)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Motivate_logo.png",
+            "siteUrl": "http://motivateco.com/"
+        },
+        "free-now": {
+            "names": [
+                "Free Now"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech",
+                "transportation"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "lyft"
+            ],
+            "updatedAt": "2026-03-28T22:49:09.399Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Free_Now_(service)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Freenow_2025_logo.svg",
+            "siteUrl": "https://www.free-now.com/"
         }
     }
 }
