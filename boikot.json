@@ -21820,6 +21820,26 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Free_Now_(service)",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Freenow_2025_logo.svg",
             "siteUrl": "https://www.free-now.com/"
+        },
+        "mandm's": {
+            "names": [
+                "M&M's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "confectionery",
+                "food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "mars"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/M%26M%27s_2022.svg",
+            "siteUrl": "http://mms.com/",
+            "updatedAt": "2026-03-29T15:06:40.114Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/M%26M%27s"
         }
     }
 }
