@@ -6,16 +6,19 @@ import _ from "lodash";
 
 const html = `
 
-<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body><li><a href="https://en.wikipedia.org/wiki/Ghirardelli_Chocolate_Company" title="">Ghirardelli</a></li><li><a href="https://en.wikipedia.org/wiki/Russell_Stover_Candies" title="Russell Stover Candies">Russell Stover</a></li><li><a href="https://en.wikipedia.org/wiki/Caffarel" title="Caffarel">Caffarel</a></li><li><a href="https://en.wikipedia.org/wiki/Hofbauer" title="Hofbauer">Hofbauer</a></li><li>Küfferle</li></body></html>
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body><li><a href="https://en.wikipedia.org/wiki/Le_M%C3%A9ridien" title="Le Méridien">Le Méridien</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Ritz-Carlton_Hotel_Company" title="The Ritz-Carlton Hotel Company">Ritz-Carlton Hotels</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sheraton_Hotels_and_Resorts" title="Sheraton Hotels and Resorts">Sheraton Hotels</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Westin_Hotels_%26_Resorts" title="Westin Hotels &amp; Resorts">Westin Hotels &amp; Resorts</a></li></body></html>
 
 `;
 
 const tags = [
-    "food",
-    "confectionery",
+    "hospitality",
 ];
-const score = 38;
-const ownedBy = "lindt";
+const score = 22;
+const ownedBy = "Marriott";
 
 const pages = _.uniqBy(
     [...html.matchAll(/<a.+?href="(.+?)".*?>(.+?)<\/a>/g)]

@@ -21840,6 +21840,130 @@
             "siteUrl": "http://mms.com/",
             "updatedAt": "2026-03-29T15:06:40.114Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/M%26M%27s"
+        },
+        "marriott": {
+            "names": [
+                "Marriott",
+                "Marriott International",
+                "Marriott International, Inc.",
+                "Marriott Corporation",
+                "Marriott Hotels & Resorts",
+                "MAR"
+            ],
+            "comment": "Marriott is a US hotel chain that has bribed customers for good reviews [1], evaded taxes [2], failed to meet animal welfare commitments [3][4], attempted to silence activists about its animal welfare progress [5], and built a hotel that disrupted Serengeti wildlife migrations [6]. The company has replaced striking workers with vulnerable migrants [7], prevented staff from taking breaks [8], stolen gratuities from employees [9], engaged in human trafficking and abuse against hospitality staff [10], refused to share prevalence of sexual harassment against employees [11], and ignored and profited from sex trafficking [12].",
+            "sources": {
+                "1": "https://nypost.com/2025/10/13/lifestyle/marriott-guests-accuse-brand-of-bribing-them-for-positive-reviews/",
+                "2": "https://business-review.eu/news/prosecutors-raid-marriott-hotel-in-bucharest-in-tax-evasion-case-111805",
+                "3": "https://www.washingtonpost.com/travel/2026/01/14/marriott-protests-cage-free-eggs/",
+                "4": "https://www.washingtonpost.com/travel/2026/01/14/marriott-protests-cage-free-eggs/",
+                "5": "https://mercyforanimals.org/blog/when-truth-becomes-a-threat-how-corporations-are-silencing-activists/",
+                "6": "https://www.thestreet.com/travel/marriott-sued-over-environment-complaint-seeks-demolition",
+                "7": "https://www.business-humanrights.org/en/latest-news/usa-ihg-marriott-hotels-allegedly-replace-strikers-with-vulnerable-migrants-incl-children-who-were-subsequently-subject-to-long-hours-few-breaks-wage-theft-prompting-district-attorney-investigation/",
+                "8": "https://www.law360.com/articles/1138159/marriott-housekeepers-seek-final-ok-on-4m-break-deal",
+                "9": "https://www.law360.com/articles/1594926/sf-marriott-servers-near-9m-win-in-gratuity-bench-trial",
+                "10": "https://techbullion.com/marriott-criminal-investigation-whitewashing-in-the-hotel-industry/",
+                "11": "https://aflcio.org/2019/4/26/marriott-should-tell-truth-about-sexual-harassment",
+                "12": "https://www.fastcompany.com/90472842/lawsuits-accuse-marriott-hilton-and-other-hotel-chains-of-ignoring-sex-trafficking"
+            },
+            "sourceNotes": {
+                "1": "bribing customers for good reviews",
+                "2": "tax evasion",
+                "3": "failed to meet animal welfare commitments",
+                "4": "failed to meet animal welfare commitments",
+                "5": "attempted to silence activists commenting on its animal welfare progress",
+                "6": "built a hotel that disrupted the Serengeti wildlife migrations",
+                "7": "replaced striking workers with vulnerable migrants",
+                "8": "prevented staff from taking breaks",
+                "9": "stole gratuites from employees",
+                "10": "human trafficking and abuse against hopsitality staff",
+                "11": "refused to share prevalance of sexual harassment against employees",
+                "12": "ignored and profited from sex trafficking"
+            },
+            "tags": [
+                "hospitality"
+            ],
+            "score": 22,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Marriott_International.svg",
+            "siteUrl": "http://marriott.com/",
+            "updatedAt": "2026-03-29T16:56:03.593Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Marriott_International"
+        },
+        "le-meridien": {
+            "names": [
+                "Le Méridien"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 22,
+            "ownedBy": [
+                "marriott"
+            ],
+            "updatedAt": "2026-03-30T15:31:33.862Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Le_M%C3%A9ridien",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/LeMeridien.svg",
+            "siteUrl": "https://le-meridien.marriott.com/"
+        },
+        "ritz-carlton-hotels": {
+            "names": [
+                "Ritz-Carlton Hotels"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 22,
+            "ownedBy": [
+                "marriott"
+            ],
+            "updatedAt": "2026-03-30T15:31:34.256Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Ritz-Carlton_Hotel_Company",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a0/RitzCarlton.svg",
+            "siteUrl": "http://ritzcarlton.com/"
+        },
+        "sheraton-hotels": {
+            "names": [
+                "Sheraton Hotels"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 22,
+            "ownedBy": [
+                "marriott"
+            ],
+            "updatedAt": "2026-03-30T15:31:34.500Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sheraton_Hotels_and_Resorts",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Sheraton_%281%29.svg",
+            "siteUrl": "http://sheraton.marriott.com/"
+        },
+        "westin-hotels-andamp-resorts": {
+            "names": [
+                "Westin Hotels &amp; Resorts"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 22,
+            "ownedBy": [
+                "marriott"
+            ],
+            "updatedAt": "2026-03-30T15:31:34.984Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Westin_Hotels_%26_Resorts",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Westin_Hotels_%26_Resorts_logo.svg",
+            "siteUrl": "https://westin.marriott.com/"
         }
     }
 }
