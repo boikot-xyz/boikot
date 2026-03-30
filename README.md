@@ -29,3 +29,8 @@ Impact of boycotts on McDonalds: https://m.youtube.com/watch?v=K9Uf3eUWKE8
 UN BDS list https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/sessions-regular/session31/database-hrc3136/23-06-30-Update-israeli-settlement-opt-database-hrc3136.pdf
 
 minimum wage list: https://www.gov.uk/government/news/over-500-companies-named-for-not-paying-minimum-wage
+
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/boikot-xyz-boikot).
+
