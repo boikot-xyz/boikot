@@ -18027,9 +18027,9 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b7/Graduate_Hotels_logo.svg",
             "siteUrl": "http://graduatehotels.com/"
         },
-        "hilton-hotels-andamp-resorts": {
+        "hilton-hotels-and-resorts": {
             "names": [
-                "Hilton Hotels &amp; Resorts"
+                "Hilton Hotels & Resorts"
             ],
             "comment": "",
             "sources": {},
@@ -21946,9 +21946,9 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Sheraton_%281%29.svg",
             "siteUrl": "http://sheraton.marriott.com/"
         },
-        "westin-hotels-andamp-resorts": {
+        "westin-hotels-and-resorts": {
             "names": [
-                "Westin Hotels &amp; Resorts"
+                "Westin Hotels & Resorts"
             ],
             "comment": "",
             "sources": {},
@@ -21964,6 +21964,1934 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Westin_Hotels_%26_Resorts",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Westin_Hotels_%26_Resorts_logo.svg",
             "siteUrl": "https://westin.marriott.com/"
+        },
+        "mars": {
+            "names": [
+                "Mars",
+                "Mars Inc.",
+                "Mars, Incorporated"
+            ],
+            "comment": "Mars is an American company that has been identified as one of the world's biggest plastic polluters [1], has engaged in price fixing [2][3], and has been accused of underpaying employees [4] and misleading customers with false health claims [5]. The company has also been linked to deforestation in african national parks [6], exploitation of cocoa farmers [7], investment in Israeli tech companies [8], continued operations in Russia [9] - being labelled an international sponsor of war by Ukraine [10], complicity in human trafficking and forced labour [11], and connections to child slavery [12][13][14].",
+            "sources": {
+                "1": "https://brandaudit.breakfreefromplastic.org/brand-audit-2023/",
+                "2": "https://www.autoritedelaconcurrence.fr/en/communiques-de-presse/20-march-2012-sale-dry-dog-and-cat-food-specialist-retail",
+                "3": "https://www.bbc.co.uk/news/business-22807887",
+                "4": "https://www.law360.com/employment/articles/1027501/kellogg-gets-green-light-for-16-8m-ot-deal",
+                "5": "https://www.law360.com/articles/172035/wrigley-settles-false-ad-class-action-for-6m",
+                "6": "https://web.archive.org/web/20171107055533/http://49tmko49h46b4e0czy3rlqaye1b.wpengine.netdna-cdn.com/wp-content/uploads/2017/09/Olam-Livelihood-Charter-report-2016-2.pdf",
+                "7": "https://www.theguardian.com/food/2023/dec/02/brands-to-avoid-mars-cadbury-chocolate-firms-criticised-ethics-report",
+                "8": "https://www.jpost.com/jpost-tech/mars-turns-to-israeli-tech-to-develop-global-food-solutions-602933",
+                "9": "https://www.business-humanrights.org/en/latest-news/us-co-mars-leases-40000-sqm-warehouse-in-russia-despite-pledges-to-halt-investments/",
+                "10": "https://nazk.gov.ua/en/news/you-re-not-you-when-you-continue-to-work-in-the-russian-federation-the-nacp-added-pepsico-and-mars-to-the-list-of-international-sponsors-of-the-war/",
+                "11": "https://www.business-humanrights.org/en/latest-news/nestle-mars-among-firms-named-in-cocoa-child-labour-suit/",
+                "12": "https://harvardpolitics.com/sweet-chocolate-bitter-truth-internet-distraction-and-the-reality-of-mars-inc-s-child-slavery-practices/",
+                "13": "https://eu.usatoday.com/story/money/2023/12/01/mars-child-labor-cbs-investigation-findings-response/71769249007/",
+                "14": "https://www.newser.com/story/343264/investigation-finds-disturbing-news-about-a-candy-giant.html"
+            },
+            "sourceNotes": {
+                "1": "one of the worlds biggest plastic polluters",
+                "2": "price fixing",
+                "3": "price fixing",
+                "4": "underpaid employees",
+                "5": "misled customers with false health claims",
+                "6": "deforestation in african national parks",
+                "7": "exploited cocoa farmers",
+                "8": "invested in israeli tech companies",
+                "9": "continued operations in russia",
+                "10": "labelled international sponsor of war by ukraine",
+                "11": "complicity in human trafficking and forced labour",
+                "12": "connected to child slavery",
+                "13": "connected to child slavery",
+                "14": "connected to child slavery"
+            },
+            "tags": [
+                "confectionery",
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Mars_Incorporated_2019_logo.svg",
+            "siteUrl": "https://www.mars.com/",
+            "updatedAt": "2026-03-31T09:29:08.242Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mars_Inc."
+        },
+        "cocoavia": {
+            "names": [
+                "CocoaVia"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:38.084Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/CocoaVia",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cocoavia_simple_logo.png",
+            "siteUrl": "https://www.cocoavia.com/"
+        },
+        "foodspring": {
+            "names": [
+                "Foodspring"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:38.509Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Foodspring",
+            "siteUrl": "http://foodspring.de/"
+        },
+        "ben's-original": {
+            "names": [
+                "Ben's Original"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:38.562Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben%27s_Original",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/BensOriginalLogo.svg",
+            "siteUrl": "https://www.bensoriginal.com/"
+        },
+        "dolmio": {
+            "names": [
+                "Dolmio"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:38.625Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Dolmio",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3e/Dolmio_brand_logo.png",
+            "siteUrl": "https://www.dolmio.com.au/"
+        },
+        "masterfoods": {
+            "names": [
+                "MasterFoods"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:38.684Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/MasterFoods",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Mastrfoods_brand_logo.png",
+            "siteUrl": "https://www.masterfoods.com.au/"
+        },
+        "miracoli": {
+            "names": [
+                "Mirácoli"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:39.068Z",
+            "wikipediaUrl": "https://de.wikipedia.org/wiki/Mir%C3%A1coli"
+        },
+        "seeds-of-change": {
+            "names": [
+                "Seeds of Change"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:39.111Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Seeds_of_Change_(company)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Seeds_change_logo.png",
+            "siteUrl": "https://www.seedsofchange.com/"
+        },
+        "tasty-bite": {
+            "names": [
+                "Tasty Bite"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:39.966Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tasty_Bite",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b7/Tasty_bite_logo.png",
+            "siteUrl": "http://www.tastybite.com/"
+        },
+        "mars-petcare": {
+            "names": [
+                "Mars Petcare"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:40.233Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mars_Petcare",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Mars_Incorporated_2019_logo.svg",
+            "siteUrl": "https://www.mars.com/"
+        },
+        "banfield-pet-hospital": {
+            "names": [
+                "Banfield Pet Hospital"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:40.965Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Banfield_Pet_Hospital",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d9/Banfield_logo.png",
+            "siteUrl": "http://www.banfield.com/"
+        },
+        "bluepearl-specialty-and-emergency-pet-hospital": {
+            "names": [
+                "BluePearl Specialty and Emergency Pet Hospital"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:41.027Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/BluePearl_Specialty_and_Emergency_Pet_Hospital",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/75/BluePearl_Veterinary_Partners_Logo_Registered.png",
+            "siteUrl": "http://bluepearlvet.com/"
+        },
+        "vca-animal-hospitals": {
+            "names": [
+                "VCA Animal Hospitals"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:41.076Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/VCA_Animal_Hospitals",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/VCA_logo.svg",
+            "siteUrl": "https://vcahospitals.com/"
+        },
+        "anicura": {
+            "names": [
+                "AniCura"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:41.794Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/AniCura"
+        },
+        "eukanuba": {
+            "names": [
+                "Eukanuba"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:42.229Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Eukanuba",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Eukanuba_brand_logo.svg",
+            "siteUrl": "https://www.eukanuba.com/"
+        },
+        "the-goodlife-recipe": {
+            "names": [
+                "The Goodlife Recipe"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:42.698Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Goodlife_Recipe",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/78/Goodlife_Recipe_logo.png",
+            "siteUrl": "http://www.goodliferecipe.com/"
+        },
+        "iams": {
+            "names": [
+                "Iams"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:43.229Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Iams",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/IAMS-Logo.svg",
+            "siteUrl": "https://www.iams.com/"
+        },
+        "nutro-products": {
+            "names": [
+                "Nutro Products"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:43.797Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Nutro_Products",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Nutro_food_brand_logo.png",
+            "siteUrl": "https://www.nutro.com/"
+        },
+        "pedigree": {
+            "names": [
+                "Pedigree"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:44.252Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pedigree_Petfoods",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d1/Pedigree_dog_food_logo.png",
+            "siteUrl": "https://www.pedigree.com/"
+        },
+        "prettylitter": {
+            "names": [
+                "PrettyLitter"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:44.309Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/PrettyLitter",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/PrettyLitter_logo.svg",
+            "siteUrl": "http://prettylitter.com/"
+        },
+        "royal-canin": {
+            "names": [
+                "Royal Canin"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:44.892Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Royal_Canin",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Royal-Canin-Logo.svg",
+            "siteUrl": "http://royalcanin.com/"
+        },
+        "sheba": {
+            "names": [
+                "Sheba"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:45.554Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sheba_(cat_food)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/81/Sheba_cat_food_brand_logo.png",
+            "siteUrl": "https://www.sheba.com/"
+        },
+        "whiskas": {
+            "names": [
+                "Whiskas"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:45.592Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Whiskas",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c9/Whiskas_logo.png",
+            "siteUrl": "https://www.whiskas.me/en-me"
+        },
+        "3-musketeers": {
+            "names": [
+                "3 Musketeers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:45.972Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/3_Musketeers_(chocolate_bar)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/3_musketeers_bar_logo.png",
+            "siteUrl": "https://www.3musketeers.com/"
+        },
+        "balisto": {
+            "names": [
+                "Balisto"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:46.382Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Balisto",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Balisto_brand_logo.png"
+        },
+        "bounty": {
+            "names": [
+                "Bounty"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:46.431Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bounty_(chocolate_bar)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/19/Bounty-Wrapper-Small.jpg"
+        },
+        "celebrations": {
+            "names": [
+                "Celebrations"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:46.485Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Celebrations_(confectionery)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Celebrations_logo.svg",
+            "siteUrl": "https://www.celebrations.de/en"
+        },
+        "cirku": {
+            "names": [
+                "Cirku"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:46.531Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cirku",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cocoavia_simple_logo.png",
+            "siteUrl": "https://www.cocoavia.com/"
+        },
+        "combos": {
+            "names": [
+                "Combos"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:47.134Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Combos",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Combos_snacks_logo.png",
+            "siteUrl": "https://www.combos.com/"
+        },
+        "dove": {
+            "names": [
+                "Dove"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:47.181Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Dove_(chocolate_brand)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Dove_chocolate_brand_logo.png",
+            "siteUrl": "https://www.dovechocolate.com/"
+        },
+        "dove-bar": {
+            "names": [
+                "Dove Bar"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:47.227Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Dove_Bar"
+        },
+        "ethel-m-chocolates": {
+            "names": [
+                "Ethel M Chocolates"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:47.265Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ethel_M_Chocolate_Factory",
+            "siteUrl": "http://www.ethelm.com/"
+        },
+        "flavia": {
+            "names": [
+                "FLAVIA"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:47.917Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Flavia_Beverage_Systems"
+        },
+        "flyte": {
+            "names": [
+                "Flyte"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:48.160Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Flyte_(chocolate_bar)"
+        },
+        "galaxy": {
+            "names": [
+                "Galaxy"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:48.338Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Galaxy_(chocolate)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Galaxy_chocolate_brand_logo.png",
+            "siteUrl": "https://www.galaxychocolate.co.uk/"
+        },
+        "galaxy-bubbles": {
+            "names": [
+                "Galaxy Bubbles"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:48.532Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Galaxy_Bubbles",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Galaxy_chocolate_brand_logo.png",
+            "siteUrl": "https://www.galaxychocolate.co.uk/"
+        },
+        "galaxy-honeycomb-crisp": {
+            "names": [
+                "Galaxy Honeycomb Crisp"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:48.728Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Galaxy_Honeycomb_Crisp",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Galaxy_chocolate_brand_logo.png",
+            "siteUrl": "https://www.galaxychocolate.co.uk/"
+        },
+        "galaxy-minstrels": {
+            "names": [
+                "Galaxy Minstrels"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:49.119Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Galaxy_Minstrels"
+        },
+        "kudos": {
+            "names": [
+                "Kudos"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:49.174Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kudos_(granola_bar)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b"
+        },
+        "m-azing": {
+            "names": [
+                "M-Azing"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:49.923Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/M-Azing",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b3/M-Azing.JPG/250px-M-Azing.JPG"
+        },
+        "maltesers": {
+            "names": [
+                "Maltesers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:50.414Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Maltesers",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/60/Maltesers-Wrapper-Small.jpg",
+            "siteUrl": "http://maltesers.co.uk/"
+        },
+        "marathon": {
+            "names": [
+                "Marathon"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:50.465Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Curly_Wurly#U.S._Marathon",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/51/Curlywurly-Wrapper-Small.jpg",
+            "siteUrl": "http://www.cadbury.co.uk/"
+        },
+        "milky-way": {
+            "names": [
+                "Milky Way"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:51.146Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Milky_Way_(chocolate_bar)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Baton_Milky_Way_USA.jpg",
+            "siteUrl": "https://www.milkywaybar.com/"
+        },
+        "munch": {
+            "names": [
+                "Munch"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:51.684Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Munch_(candy_bar)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Munch_bar_logo.png",
+            "siteUrl": "https://www.marsfoodservices.com/product/munch-bar"
+        },
+        "promite": {
+            "names": [
+                "Promite"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:52.037Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Promite",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jar_of_Promite.jpg"
+        },
+        "revels": {
+            "names": [
+                "Revels"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:52.505Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Revels_(confectionery)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Revels-Candies.jpg"
+        },
+        "snickers": {
+            "names": [
+                "Snickers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:52.544Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Snickers",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Snickers_2025.svg",
+            "siteUrl": "http://snickers.com/"
+        },
+        "topic": {
+            "names": [
+                "Topic"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:52.658Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Topic_(chocolate_bar)"
+        },
+        "tracker": {
+            "names": [
+                "Tracker"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:52.700Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tracker_(granola_bar)"
+        },
+        "treets": {
+            "names": [
+                "Treets"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:52.851Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Treets",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Project_365_-249_060909_Rennaissance_Sweet_%283894308802%29.jpg",
+            "siteUrl": "https://treets.eu/"
+        },
+        "twix": {
+            "names": [
+                "Twix"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:52.892Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Twix",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Twix_brand_logo.png",
+            "siteUrl": "https://www.twix.com/"
+        },
+        "5-(gum)": {
+            "names": [
+                "5 (gum)"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:52.990Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/5_(gum)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/5_gum_brand_logo.png",
+            "siteUrl": "https://www.5gum.com/"
+        },
+        "a.-korkunov": {
+            "names": [
+                "A. Korkunov"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:53.050Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/A._Korkunov",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Korkunov_chocolate_logo.png",
+            "siteUrl": "https://www.korkunov.ru/"
+        },
+        "airwaves": {
+            "names": [
+                "Airwaves"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:53.710Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Airwaves_(gum)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d7/Airwaves_gum_logo.png",
+            "siteUrl": "https://www.airwavesgum.co.uk/"
+        },
+        "alert": {
+            "names": [
+                "Alert"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:54.053Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Alert_(gum)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73",
+            "siteUrl": "https://stage.marsfoodservices.com/product/alert-fruit"
+        },
+        "altoids": {
+            "names": [
+                "Altoids"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:54.645Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Altoids",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Altoids_brand_logo.png",
+            "siteUrl": "https://www.altoids.com/"
+        },
+        "big-red": {
+            "names": [
+                "Big Red"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:54.707Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Big_Red_(gum)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Big_red_gum_logo.png",
+            "siteUrl": "https://www.marsfoodservices.com/product/big-red-cinnamon"
+        },
+        "bubble-tape": {
+            "names": [
+                "Bubble Tape"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:54.752Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bubble_Tape",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Hb_bubble_tape_logo.png",
+            "siteUrl": "https://www.hubbabubba.com/products/hubba-bubba-original-bubble-gum-tape-2-oz-pack-tape"
+        },
+        "callard-andamp-bowser-suchard": {
+            "names": [
+                "Callard &amp; Bowser-Suchard"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:55.354Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Callard_%26_Bowser-Suchard",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/9f"
+        },
+        "doublemint": {
+            "names": [
+                "Doublemint"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:55.405Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Doublemint",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Doublemint_logo.svg",
+            "siteUrl": "https://www.marsfoodservices.com/product/doublemint-gum"
+        },
+        "eclipse": {
+            "names": [
+                "Eclipse"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:55.455Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Eclipse_(breath_freshener)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Eclipse_mints_brand_logo.png",
+            "siteUrl": "https://www.eclipsemints.com.au/"
+        },
+        "excel": {
+            "names": [
+                "Excel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:55.504Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Excel_(gum)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Eclipse_mints_brand_logo.png",
+            "siteUrl": "https://www.eclipsemints.com.au/"
+        },
+        "extra": {
+            "names": [
+                "Extra"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:56.081Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Extra_(gum)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Extra_gum_brand_logo.png",
+            "siteUrl": "https://www.extragum.com/"
+        },
+        "freedent": {
+            "names": [
+                "Freedent"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:56.126Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Freedent",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Freedentlogo.png",
+            "siteUrl": "https://www.marsfoodservices.com/product/freedent-spearmint-gum"
+        },
+        "hubba-bubba": {
+            "names": [
+                "Hubba Bubba"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:56.332Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hubba_Bubba",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Hubba_bubba_gum_logo.png",
+            "siteUrl": "https://www.hubbabubba.com/"
+        },
+        "juicy-fruit": {
+            "names": [
+                "Juicy Fruit"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:56.372Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Juicy_Fruit",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Juicy_Fruit.svg",
+            "siteUrl": "https://www.marsfoodservices.com/product/juicy-fruit"
+        },
+        "life-savers": {
+            "names": [
+                "Life Savers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:56.423Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Life_Savers",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Life-Savers-Logo.jpg",
+            "siteUrl": "https://www.life-savers.com/"
+        },
+        "lockets": {
+            "names": [
+                "Lockets"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:56.617Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lockets"
+        },
+        "orbit": {
+            "names": [
+                "Orbit"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:56.803Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Orbit_(gum)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Orbit_gum_brand_logo.png",
+            "siteUrl": "https://www.orbitgum.com/"
+        },
+        "ouch!": {
+            "names": [
+                "Ouch!"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:56.862Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ouch!_(gum)"
+        },
+        "skittles": {
+            "names": [
+                "Skittles"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:57.027Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Skittles_(confectionery)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/19/Skittles_brand_logo.png",
+            "siteUrl": "https://www.skittles.com/"
+        },
+        "starburst": {
+            "names": [
+                "Starburst"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:57.100Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Starburst_(candy)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Starburst-Candies.jpg",
+            "siteUrl": "https://www.starburst.com/"
+        },
+        "sugus": {
+            "names": [
+                "Sugus"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:57.158Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sugus"
+        },
+        "surpass": {
+            "names": [
+                "Surpass"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:57.785Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Surpass"
+        },
+        "rondo": {
+            "names": [
+                "Rondo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:58.369Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rondo_(confectionery)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/The_Wrigley_Company_logo._2012.svg"
+        },
+        "tunes": {
+            "names": [
+                "Tunes"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:59.197Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tunes_(confectionery)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Tunes_brand_logo.png"
+        },
+        "wrigley's": {
+            "names": [
+                "Wrigley's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:16:59.726Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Wrigley%27s",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/The_Wrigley_Company_logo._2012.svg"
+        },
+        "wrigley's-spearmint": {
+            "names": [
+                "Wrigley's Spearmint"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:00.653Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Wrigley%27s_Spearmint",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Wrigley_spearmint_logo.png"
+        },
+        "wrigley-company": {
+            "names": [
+                "Wrigley Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:00.714Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Wrigley_Company",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/The_Wrigley_Company_logo._2012.svg"
+        },
+        "winterfresh": {
+            "names": [
+                "Winterfresh"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:00.821Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Winterfresh",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Winterfresh_brand_logo.png",
+            "siteUrl": "https://www.marsfoodservices.com/product/winterfresh-gum"
+        },
+        "kellanova": {
+            "names": [
+                "Kellanova"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:01.305Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kellanova",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Kellanova_logo.svg",
+            "siteUrl": "http://kellanova.com/"
+        },
+        "all-bran": {
+            "names": [
+                "All-Bran"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:01.525Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/All-Bran",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/83/All_bran_cereal_logo.png",
+            "siteUrl": "https://www.all-bran.com/en_US/home.html"
+        },
+        "bran-flakes": {
+            "names": [
+                "Bran Flakes"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:01.579Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bran_Flakes",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/90/Bran_flakes_post_logo.png",
+            "siteUrl": "https://www.postconsumerbrands.com/bran-flakes/"
+        },
+        "cheez-it": {
+            "names": [
+                "Cheez-It"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:01.745Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cheez-It",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Cheez-It_Logo.svg",
+            "siteUrl": "https://www.cheezit.com/en_US/home.html"
+        },
+        "club-crackers": {
+            "names": [
+                "Club Crackers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:01.804Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Club_Crackers"
+        },
+        "cocoa-krispies": {
+            "names": [
+                "Cocoa Krispies"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:01.987Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cocoa_Krispies",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Cocoakrispies_brand_logo.png"
+        },
+        "corn-flakes": {
+            "names": [
+                "Corn Flakes"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:02.849Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Corn_Flakes",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d1",
+            "siteUrl": "https://www.wkkellogg.com/our-foods/our-brands/corn-flakes"
+        },
+        "crunchy-nut": {
+            "names": [
+                "Crunchy Nut"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:03.079Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Crunchy_Nut",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a3/Crunchynut_brand_logo.png",
+            "siteUrl": "https://www.kelloggs.co.uk/en_GB/products/crunchy-nut-corn-flakes.html"
+        },
+        "eggo": {
+            "names": [
+                "Eggo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:03.242Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Eggo",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Eggo_logo_%282006-present%29.svg",
+            "siteUrl": "https://www.leggomyeggo.com/"
+        },
+        "froot-loops": {
+            "names": [
+                "Froot Loops"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:03.318Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Froot_Loops",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/9d/Frootloops_brand_logo.png",
+            "siteUrl": "https://www.frootloops.com/en_US/home.html"
+        },
+        "frosted-flakes": {
+            "names": [
+                "Frosted Flakes"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:03.374Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Frosted_Flakes",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Frostedflakes_brand_logo.png",
+            "siteUrl": "https://www.frostedflakes.com/en_US/home.html"
+        },
+        "honey-smacks": {
+            "names": [
+                "Honey Smacks"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:03.563Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Honey_Smacks",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Honeymacks_brand_logo.png",
+            "siteUrl": "https://www.kelloggs.com/en_US/brands/honey-smacks-consumer-brand.html"
+        },
+        "morningstar-farms": {
+            "names": [
+                "Morningstar Farms"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:03.794Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Morningstar_Farms",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Morningstar_Farms.svg",
+            "siteUrl": "https://www.morningstarfarms.com/"
+        },
+        "nutri-grain": {
+            "names": [
+                "Nutri-Grain"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:04.193Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Nutri-Grain",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nutrigrain_brand_logo.png",
+            "siteUrl": "https://www.kelloggs.com/en_US/brands/nutri-grain-consumer-brand.html"
+        },
+        "pop-tarts": {
+            "names": [
+                "Pop-Tarts"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:04.807Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pop-Tarts",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Poptarts_brand_logo.png",
+            "siteUrl": "https://www.poptarts.com/en_US/home.html"
+        },
+        "pringles": {
+            "names": [
+                "Pringles"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:05.047Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pringles",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f6/Pringles_2021.svg",
+            "siteUrl": "https://www.pringles.com/us/home.html"
+        },
+        "rice-krispies": {
+            "names": [
+                "Rice Krispies"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:05.121Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rice_Krispies",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Rice_Krispies_logo.svg",
+            "siteUrl": "https://www.ricekrispies.com/en_US/home.html"
+        },
+        "rice-krispies-treats": {
+            "names": [
+                "Rice Krispies Treats"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:05.190Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rice_Krispies_Treats",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ricekrispiestreats_brand_logo.png",
+            "siteUrl": "https://www.kelloggs.com/en_US/brands/rice-krispies-consumer-brand.html"
+        },
+        "rxbar": {
+            "names": [
+                "Rxbar"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:05.268Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rxbar",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/RXBAR_Logo.png",
+            "siteUrl": "https://www.rxbar.com/"
+        },
+        "special-k": {
+            "names": [
+                "Special K"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:05.337Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Special_K",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Specialk_brand_logo.png",
+            "siteUrl": "https://www.specialk.com/en_US/products/cereal.html"
+        },
+        "hotel-chocolat": {
+            "names": [
+                "Hotel Chocolat"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:05.972Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hotel_Chocolat",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Hotel_chocolat_group_logo.png",
+            "siteUrl": "https://hotelchocolat.com/"
+        },
+        "kind": {
+            "names": [
+                "KIND"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "mars"
+            ],
+            "updatedAt": "2026-03-31T10:17:06.039Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kind_(company)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_for_KIND_Bars_Healthy_Snacks.jpg",
+            "siteUrl": "https://www.kindsnacks.com/"
         }
     }
 }
