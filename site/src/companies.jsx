@@ -421,6 +421,8 @@ const sortOptions = {
         (a, b) => b.score - a.score,
     "sort by industry":
         (a, b) => a.tags[0].localeCompare(b.tags[0]),
+    "sort by recently added":
+        (a, b) => new Date(b.updatedAt) - new Date(a.updatedAt),
 };
 const defaultSort = Object.keys(sortOptions)[0];
 
