@@ -4209,8 +4209,7 @@
                 "TJX",
                 "TJX Companies",
                 "T.K. Maxx",
-                "T.K.maxx",
-                "Marshalls"
+                "T.K.maxx"
             ],
             "comment": "TK Maxx, a major retailer, has been found selling real fur from animals like rabbits, foxes and mink that was mislabeled as \"faux fur\", despite claiming to have a no-fur policy [1]. Along with other fashion brands like Boohoo, Amazon and Missguided, TK Maxx has also been called out by UK MPs for failing to take sufficient action on sustainability and ethical labor practices in its supply chain [2].",
             "sources": {
@@ -6682,24 +6681,6 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Kellogg%27s-Logo.svg",
             "siteUrl": "http://kellanova.com/",
             "updatedAt": "2024-12-26T15:02:40.507Z"
-        },
-        "pringles": {
-            "names": [
-                "Pringles",
-                "Pringle's Newfangled Potato Chips"
-            ],
-            "comment": "",
-            "sources": {},
-            "tags": [
-                "food"
-            ],
-            "score": 17,
-            "ownedBy": [
-                "kellogg's"
-            ],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f6/Pringles_2021.svg",
-            "siteUrl": "https://www.pringles.com/us/home.html",
-            "updatedAt": "2024-12-26T15:13:46.817Z"
         },
         "heineken": {
             "names": [
@@ -22540,9 +22521,9 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Combos_snacks_logo.png",
             "siteUrl": "https://www.combos.com/"
         },
-        "dove": {
+        "dove-chocolate": {
             "names": [
-                "Dove"
+                "Dove (Chocolate)"
             ],
             "comment": "",
             "sources": {},
@@ -23762,7 +23743,8 @@
         },
         "pringles": {
             "names": [
-                "Pringles"
+                "Pringles",
+                "Pringle's Newfangled Potato Chips"
             ],
             "comment": "",
             "sources": {},
@@ -23855,25 +23837,6 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Specialk_brand_logo.png",
             "siteUrl": "https://www.specialk.com/en_US/products/cereal.html"
         },
-        "hotel-chocolat": {
-            "names": [
-                "Hotel Chocolat"
-            ],
-            "comment": "",
-            "sources": {},
-            "sourceNotes": {},
-            "tags": [
-                "food"
-            ],
-            "score": 17,
-            "ownedBy": [
-                "mars"
-            ],
-            "updatedAt": "2026-03-31T10:17:05.972Z",
-            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hotel_Chocolat",
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Hotel_chocolat_group_logo.png",
-            "siteUrl": "https://hotelchocolat.com/"
-        },
         "kind": {
             "names": [
                 "KIND"
@@ -23892,6 +23855,25 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Kind_(company)",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_for_KIND_Bars_Healthy_Snacks.jpg",
             "siteUrl": "https://www.kindsnacks.com/"
+        },
+        "marshalls": {
+            "names": [
+                "Marshalls"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "tk-maxx"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Marshalls_Logo.svg",
+            "siteUrl": "https://www.marshalls.com/",
+            "updatedAt": "2026-04-01T17:42:32.610Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Marshalls_plc"
         }
     }
 }
