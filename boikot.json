@@ -23874,6 +23874,26 @@
             "siteUrl": "https://www.marshalls.com/",
             "updatedAt": "2026-04-01T17:42:32.610Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Marshalls_plc"
+        },
+        "marvel": {
+            "names": [
+                "Marvel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "toys"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "disney"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Marvel_Logo.svg",
+            "siteUrl": "http://marvel.com/",
+            "updatedAt": "2026-04-02T15:00:27.919Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Marvel_Entertainment"
         }
     }
 }
