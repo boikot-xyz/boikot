@@ -6,7 +6,7 @@ import {
 
 import { Home } from "./home.jsx";
 import { ContactUs } from "./contact-us.jsx";
-import { CompanyEditor } from "./jsoner.jsx";
+import { CompanyEditor, Brander } from "./jsoner.jsx";
 import { Companies, CompanyDetail } from "./companies.jsx";
 import { StatementScore } from "./statement-score.jsx";
 import { PrivacyPolicy } from "./privacy-policy.jsx";
@@ -35,6 +35,10 @@ const router = createBrowserRouter([
     {
         path:  "/companies/:key",
         element: <CompanyDetail />,
+    },
+    {
+        path:  "/companies/:key/add-brands",
+        element: <Brander />,
     },
     {
         path:  "/statement-score",

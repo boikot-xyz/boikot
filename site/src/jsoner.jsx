@@ -648,3 +648,15 @@ export function CompanyEditor() {
     </Page>;
 }
 
+export function Brander() {
+    return <Page>
+        <Helmet>
+            <title> Brand Editor | boikot </title>
+            <meta name="description" content="boikot is a community-led initiative to collect and make available data on the unethical actions of big companies. On this page you can add the brands of a company to our database." />
+        </Helmet>
+        <Stack>
+            <h1> Add Brands </h1>
+            <p> Easily add brands or subsidiaries of a company fron this page. </p>
+        </Stack>
+    </Page>;
+}
