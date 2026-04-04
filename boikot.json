@@ -23894,6 +23894,51 @@
             "siteUrl": "http://marvel.com/",
             "updatedAt": "2026-04-02T15:00:27.919Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Marvel_Entertainment"
+        },
+        "mastercard": {
+            "names": [
+                "Mastercard",
+                "Mastercard Inc.",
+                "Interbank",
+                "Master Charge",
+                "Mastercard Worldwide",
+                "MA"
+            ],
+            "comment": "Mastercard is a U.S. company that collaborated with the Nigerian government to track payments linked to ID cards [1], tricked customers into sharing financial data [2], and sells customer payment data for profit [3]. It has charged illegal fees and overcharged customers [4][5][6], engaged in anticompetitive monopolistic practices [7][8][9], and discriminated against employees on race and gender grounds [10].",
+            "sources": {
+                "1": "https://www.premiumtimesng.com/featured-news/167479-scandalous-outrage-in-nigeria-as-government-brands-national-id-card-with-mastercards-logo.html",
+                "2": "https://news.bloomberglaw.com/litigation/mastercard-unit-hit-with-lawsuit-over-sharing-of-financial-data",
+                "3": "https://www.theverge.com/2018/8/30/17801880/google-mastercard-data-online-ads-offline-purchase-history-privacy",
+                "4": "https://www.quinnemanuel.com/the-firm/news-events/firm-news-14-billion-damages-claim-filed-against-mastercard-by-uk-consumers-in-landmark-collective-action/",
+                "5": "https://www.ft.com/content/19c70ff2-3aaa-4e07-96e0-0e657a68920f?syn-25a6b1a6=1",
+                "6": "https://www.bbc.co.uk/news/business-55273546",
+                "7": "https://www.reuters.com/sustainability/boards-policy-regulation/mastercard-visas-merchant-fees-breach-competition-law-uk-tribunal-rules-2025-06-27/",
+                "8": "https://www.bbc.co.uk/news/business-56594987",
+                "9": "https://www.law360.com/articles/1083744",
+                "10": "https://fortune.com/2025/01/17/mastercard-accused-underpaying-employees-discrimination-lawsuit/"
+            },
+            "sourceNotes": {
+                "1": "collaborated with the Nigerian govnermnent to track payments connected to ID cards",
+                "2": "tricked customers into sharing financial data",
+                "3": "sells customer payment data for profit",
+                "4": "charged illegal fees to customers",
+                "5": "overcharged customers",
+                "6": "overcharged customers",
+                "7": "anticompetitive molopolistic practices",
+                "8": "anticompetitive molopolistic practices",
+                "9": "anticompetitive molopolistic practices",
+                "10": "race and gender discrimination against thousands of employees"
+            },
+            "tags": [
+                "finance",
+                "tech"
+            ],
+            "score": null,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mastercard_2019_logo.svg",
+            "siteUrl": "http://mastercard.com/",
+            "updatedAt": "2026-04-02T15:00:27.919Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mastercard"
         }
     }
 }
