@@ -200,6 +200,9 @@ function CompanyActionButtons({ entry, setShowLinks }) {
         <Link to={`/companies/edit/${getKey(entry)}`}>
             <PillButton $outline>✏️   Edit this Company</PillButton>
         </Link>
+        <Link to={`/companies/add-brands/${getKey(entry)}`}>
+            <PillButton $outline>🏷️   Add Brands for this Company</PillButton>
+        </Link>
         <PillButton $outline onClick={() => setShowLinks(v => !v)}>🔗   External Links</PillButton>
     </FlexRow>
 }

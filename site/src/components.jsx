@@ -24,7 +24,7 @@ export const copy = text =>
     navigator.clipboard.writeText(text);
 
 export const getKey = entry =>
-    slugify(entry.names[0]).toLowerCase();
+    slugify(entry.names[0] || "").toLowerCase();
 
 export const formatDateString = dateString =>
     (new Date(dateString)).toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });

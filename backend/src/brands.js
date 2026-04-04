@@ -201,39 +201,44 @@ const tags = [
 const score = 17;
 const ownedBy = "mars";
 
-const pages = _.uniqBy(
-    [...html.matchAll(/<a.+?href="(.+?)".*?>(.+?)<\/a>/g)]
-        .filter(m => !m[1].includes("#cite"))
-        .filter(m => m[1].includes("/wiki"))
-        .map(m => [m[1], m[2]]),
-    m => m[0],
-);
-console.log(pages);
+export async function scrapeBrands( html, tags, score, ownedBy ) {
 
-export const getKey = name => slugify(name).toLowerCase();
-const entries = {};
+    const pages = _.uniqBy(
+        [...html.matchAll(/<a.+?href="(.+?)".*?>(.+?)<\/a>/g)]
+            .filter(m => !m[1].includes("#cite"))
+            .filter(m => m[1].includes("/wiki"))
+            .map(m => [m[1], m[2]]),
+        m => m[0],
+    );
+    console.log("Collecting brand data for:");
+    console.log(pages);
 
-for( const [url, name] of pages ) {
-    console.log(name)
-    const key = getKey(name);
-    const entry = {
-        "key": key,
-        "names": [
-            name,
-        ],
-        "comment": "",
-        "sources": {},
-        "sourceNotes": {},
-        "tags": tags,
-        "score": score,
-        "ownedBy": [
-            ownedBy,
-        ],
-        "updatedAt": (new Date()).toISOString(),
-        ...(await getWikipediaInfo(name, url)),
-    };
-    entries[key] = entry;
+    const getKey = name => slugify(name).toLowerCase();
+    const entries = {};
+
+    for( const [url, name] of pages ) {
+        console.log(name)
+        const key = getKey(name);
+        const entry = {
+            "key": key,
+            "names": [
+                name,
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": tags,
+            "score": score,
+            "ownedBy": [
+                ownedBy,
+            ],
+            "updatedAt": (new Date()).toISOString(),
+            ...(await getWikipediaInfo(name, url)),
+        };
+        entries[key] = entry;
+    }
+
+    console.log(JSON.stringify(entries, null, 4));
+    return entries;
 }
-
-console.log(JSON.stringify(entries, null, 4));
 

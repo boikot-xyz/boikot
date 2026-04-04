@@ -2,6 +2,7 @@ import http from "http";
 import { getWikipediaInfo } from "./wiki.js";
 import { askLocalGPTOSS } from "./llm.js";
 import { addRecord } from "./addRecord.js";
+import { scrapeBrands } from "./brands.js";
 import boikot from "../../boikot.json" with { type: "json" };
 
 
@@ -55,8 +56,26 @@ async function generateComment(req, res, state) {
 
 async function saveCompanyData(req, res, state) {
     console.log(`Saving company data for ${state.names[0]}`);
-    addRecord( state );
+    await addRecord( state );
     console.log(`Saved company data`);
+    res.end(JSON.stringify({ message: "saved ok!" }));
+}
+
+
+async function getBrandsData(req, res, body) {
+    console.log(`getting brands data for ${body.entryState.names[0]}`);
+    const brandsData = await scrapeBrands( body.html, body.entryState.tags, body.entryState.score, body.entryState.key );
+    console.log(`gathered brands data`);
+    res.end( JSON.stringify(brandsData) );
+}
+
+
+async function saveBrandsData(req, res, body) {
+    for(const entry of Object.values(body) ) {
+        console.log(`Saving brand data for ${entry.names[0]}`);
+        await addRecord( entry );
+    }
+    console.log(`Saved brand data`);
     res.end(JSON.stringify({ message: "saved ok!" }));
 }
 
@@ -76,6 +95,7 @@ async function respondPost(req, res, body) {
     } catch (e) {
         res.statusCode = 400;
         res.end(`{"error":"Cannot parse body json"}`);
+        return;
     }
 
     if( req.url.includes("/wikiInfo") ) {
@@ -92,6 +112,14 @@ async function respondPost(req, res, body) {
 
     if( req.url.includes("/getSummary") ) {
         return await getSummary(req, res, state);
+    }
+
+    if( req.url.includes("/getBrandsData") ) {
+        return await getBrandsData(req, res, state);
+    }
+
+    if( req.url.includes("/saveBrandsData") ) {
+        return await saveBrandsData(req, res, state);
     }
 
     res.statusCode = 400;

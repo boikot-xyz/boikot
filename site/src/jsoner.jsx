@@ -7,8 +7,8 @@ import "whatwg-fetch";
 import { Helmet } from "react-helmet";
 
 import boikot from '../../boikot.json';
-import { Card, CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack, Row, ResizingInput } from "./components.jsx";
-import { Company } from "./companies.jsx";
+import { getKey, Card, CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack, Row, ResizingInput } from "./components.jsx";
+import { Company, CompanyHeader } from "./companies.jsx";
 
 const initialState = {
     names: [],
@@ -33,17 +33,24 @@ const getInitialEntryState = key => {
 };
 
 function tojson(state) {
-    const key = slugify(state.names[0] || "").toLowerCase();
     const result = {
-        key: key,
+        key: getKey(state),
         ...state,
         sources: Object.fromEntries(Object.entries(state.sources).filter(([k, v]) => v)),
         sourceNotes: Object.fromEntries(Object.entries(state.sourceNotes).filter(([k, v]) => v)),
         ownedBy: state.ownedBy || null,
         score: parseFloat(state.score),
     };
-    return `"${key}": ` +
+    return `"${getKey(state)}": ` +
         `${JSON.stringify(result, null, 4)},`;
+}
+
+function safeJSONParse(s) {
+    try {
+        return JSON.parse(s);
+    } catch {
+        return {};
+    }
 }
 
 function makeSources(comment, oldSources) {
@@ -514,6 +521,9 @@ export function Jsoner() {
             <PillButton onClick={saveCompanyData} disabled={!backendUp || !state.names.length}>
                 save company data  💾
             </PillButton>
+            <Link to={`/companies/add-brands/${getKey(state)}`}>
+                <PillButton $outline>🏷️   Add Brands for this Company</PillButton>
+            </Link>
         </FlexRow>;
 
     return <Stack onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
@@ -650,7 +660,160 @@ export function CompanyEditor() {
     </Page>;
 }
 
-export function Brander() {
+function Brander() {
+    const { key } = useParams();
+    const [ entryState, setEntryState ] = React.useState(getInitialEntryState(key));
+    const [ html, setHtml ] = React.useState("");
+    const [ brandsData, setBrandsData ] = React.useState("{}");
+    const [ backendUp, setBackendUp ] = React.useState(false);
+    const [ toastMessage, setToastMessage ] = React.useState(false);
+    const [ toastMessageClearTimeout, setToastMessageClearTimeout ] = React.useState(null);
+
+    React.useEffect( () => {(async () => {
+        setToastMessage("Connecting to backend...");
+        const response = await fetch(
+            "http://localhost:8014/check",
+        );
+        if( response.status == 200 ) setBackendUp(true) + setToastMessage("Connected to backend ok!");
+        else setToastMessage("Could not connect to backend");
+        window.onbeforeunload = () => "";
+    })()}, [])
+    React.useEffect( () => {
+        clearTimeout(toastMessageClearTimeout);
+        setToastMessageClearTimeout(setTimeout(() => setToastMessage(""), 3500));
+    }, [toastMessage])
+
+    const setEntryStateField = fieldName => e =>
+        setEntryState( oldState => ({
+            ...oldState,
+            [fieldName]: e.target.value,
+        }) );
+
+    const addToEntryStateList = fieldName => e =>
+        setEntryState( oldState => ({
+            ...oldState,
+            [fieldName]: [...oldState[fieldName], e.target.value],
+        }) );
+
+    const removeFromEntryStateList = fieldName => i =>
+        setEntryState( oldState => ({
+            ...oldState,
+            [fieldName]: oldState[fieldName].filter( (_,j) => j != i ),
+        }) );
+
+    const getBrandsData = async () => {
+        setToastMessage("Collecting brand data...");
+        const response = await fetch(
+            "http://localhost:8014/getBrandsData",
+            {
+                method: "POST",
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    entryState,
+                    html,
+                }),
+            }
+        );
+        const result = await response.json();
+        setBrandsData(JSON.stringify(result, null, 4));
+        setToastMessage("Collected data!");
+    };
+
+    const saveBrandsData = async () => {
+        setToastMessage("Saving brand data...");
+        if( !Object.keys(safeJSONParse(brandsData)).length ) {
+            setToastMessage("No brands to save or could not parse brands JSON data!");
+            return;
+        }
+        const response = await fetch(
+            "http://localhost:8014/saveBrandsData",
+            {
+                method: "POST",
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: brandsData,
+            }
+        );
+        const result = await response.json();
+        setToastMessage("Saved data!");
+    };
+
+    return <Stack>
+        <Entry $valid={!!entryState.key}>
+            parent company key
+            <input
+                value={entryState.key}
+                placeholder="key of the parent company"
+                onChange={setEntryStateField("key")} />
+        </Entry>
+        <Entry $valid={entryState.tags.length > 0}>
+            tags
+            <DeleteableBadgeList
+                items={entryState.tags}
+                deleteAtIndex={removeFromEntryStateList("tags")} />
+            <input
+                placeholder="Type tags that describe this company and press enter after each"
+                onKeyDown={ifEnter(addToEntryStateList("tags"))}
+                onKeyUp={ifEnter(e => e.target.value = "")} />
+        </Entry>
+        <Entry $valid={parseFloat(entryState.score) <= 100}>
+            ethical score
+            <input
+                value={entryState.score}
+                placeholder="Enter a score from 0 to 100"
+                onChange={setEntryStateField("score")} />
+        </Entry>
+        <Entry $valid={!!html}>
+            brand links
+            <textarea
+                style={{ height: "15rem" }}
+                placeholder="paste text here containing wikipedia links to brands"
+                value={html}
+                onPaste={e => console.log(e)}
+                onChange={e => setHtml(e.target.value)} />
+        </Entry>
+        <FlexRow style={{ justifyContent: "right" }}>
+            <PillButton $outline onClick={getBrandsData} title="Click to gather brand data" disabled={!backendUp || !html}>
+                collect brand data  🏷️
+            </PillButton>
+            <PillButton onClick={saveBrandsData} disabled={!backendUp || !brandsData.length}>
+                save brand data  💾
+            </PillButton>
+        </FlexRow>
+        <Entry $valid={!!Object.keys(safeJSONParse(brandsData)).length}>
+            output brands data
+            <textarea
+                style={{ height: "15rem" }}
+                onChange={e => setBrandsData(e.target.value)}
+                value={brandsData} />
+        </Entry>
+        { !!Object.keys(safeJSONParse(brandsData)).length && <>
+            <h2> Preview: </h2>
+            <div style={{ border: "0.05rem solid var(--fg)", borderRadius: "2rem", background: "var(--fg-transparent)", padding: "2rem" }}>
+                <Stack>
+                    { Object.values(safeJSONParse(brandsData)).map( entry => 
+                        <CompanyHeader entry={entry} link={false} key={entry.key} showComment />
+                    ) }
+                </Stack>
+            </div>
+        </> }
+        { toastMessage && <Toast> { toastMessage } </Toast> }
+    </Stack>;
+}
+
+`
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body><li><a href="https://en.wikipedia.org/wiki/Blackstone_Inc." title="Blackstone Inc.">Blackstone Inc.</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts" class="mw-redirect" title="Kohlberg Kravis Roberts">Kohlberg Kravis Roberts</a></li>
+<li><a href="https://en.wikipedia.org/wiki/EQT_AB" title="EQT AB">EQT AB</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CVC_Capital_Partners" title="CVC Capital Partners">CVC Capital Partners</a></li></body></html>
+`
+
+export function BrandEditor() {
     return <Page>
         <Helmet>
             <title> Brand Editor | boikot </title>
@@ -658,7 +821,8 @@ export function Brander() {
         </Helmet>
         <Stack>
             <h1> Add Brands </h1>
-            <p> Easily add brands or subsidiaries of a company fron this page. </p>
+            <p> Easily add brands or subsidiaries of a company from this page. </p>
+            <Brander />
         </Stack>
     </Page>;
 }
