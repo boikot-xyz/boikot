@@ -522,7 +522,7 @@ export function Jsoner() {
                 save company data  💾
             </PillButton>
             <Link to={`/companies/add-brands/${getKey(state)}`}>
-                <PillButton $outline>🏷️   Add Brands for this Company</PillButton>
+                <PillButton $outline>🏷️   add brands for this company</PillButton>
             </Link>
         </FlexRow>;
 
@@ -701,6 +701,25 @@ function Brander() {
             [fieldName]: oldState[fieldName].filter( (_,j) => j != i ),
         }) );
 
+    const pasteBrandsInfo = async e => {
+        e.preventDefault();
+        e.stopPropagation();
+
+        const clipboardContents = await navigator.clipboard.read();
+        const item = clipboardContents[0];
+
+        let blobText = "";
+        if( item.types.includes("text/html") ) {
+            const blob = await item.getType("text/html");
+            blobText = await blob.text();
+        }
+        else {
+            const blob = await item.getType("text/plain");
+            blobText = await blob.text();
+        }
+        setHtml(html => html + blobText);
+    };
+
     const getBrandsData = async () => {
         setToastMessage("Collecting brand data...");
         const response = await fetch(
@@ -774,12 +793,15 @@ function Brander() {
                 style={{ height: "15rem" }}
                 placeholder="paste text here containing wikipedia links to brands"
                 value={html}
-                onPaste={e => console.log(e)}
+                onPaste={pasteBrandsInfo}
                 onChange={e => setHtml(e.target.value)} />
         </Entry>
         <FlexRow style={{ justifyContent: "right" }}>
             <PillButton $outline onClick={getBrandsData} title="Click to gather brand data" disabled={!backendUp || !html}>
                 collect brand data  🏷️
+            </PillButton>
+            <PillButton onClick={() => copy(brandsData)}>
+                copy company data  📋
             </PillButton>
             <PillButton onClick={saveBrandsData} disabled={!backendUp || !brandsData.length}>
                 save brand data  💾
