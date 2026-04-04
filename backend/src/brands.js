@@ -215,7 +215,9 @@ const entries = {};
 
 for( const [url, name] of pages ) {
     console.log(name)
+    const key = getKey(name);
     const entry = {
+        "key": key,
         "names": [
             name,
         ],
@@ -230,7 +232,7 @@ for( const [url, name] of pages ) {
         "updatedAt": (new Date()).toISOString(),
         ...(await getWikipediaInfo(name, url)),
     };
-    entries[getKey(name)] = entry;
+    entries[key] = entry;
 }
 
 console.log(JSON.stringify(entries, null, 4));

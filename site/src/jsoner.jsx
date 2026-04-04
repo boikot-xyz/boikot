@@ -27,20 +27,22 @@ const initialState = {
     updatedAt: (new Date()).toISOString(),
 };
 
-const getInitialState = key => {
+const getInitialEntryState = key => {
     const keyCompanyData = boikot.companies[key] || initialState;
     return { ...initialState, ...keyCompanyData };
 };
 
 function tojson(state) {
+    const key = slugify(state.names[0] || "").toLowerCase();
     const result = {
+        key: key,
         ...state,
         sources: Object.fromEntries(Object.entries(state.sources).filter(([k, v]) => v)),
         sourceNotes: Object.fromEntries(Object.entries(state.sourceNotes).filter(([k, v]) => v)),
         ownedBy: state.ownedBy || null,
         score: parseFloat(state.score),
     };
-    return `"${slugify(state.names[0] || "").toLowerCase()}": ` +
+    return `"${key}": ` +
         `${JSON.stringify(result, null, 4)},`;
 }
 
@@ -305,7 +307,7 @@ function Toast({ children }) {
 
 export function Jsoner() {
     const { key } = useParams();
-    const [state, setState] = React.useState(getInitialState(key));
+    const [state, setState] = React.useState(getInitialEntryState(key));
     const textareaRef = React.useRef(null);
     const showSources = !!Object.keys(state.sources).length;
     const [dragging, setDragging] = React.useState(null);
