@@ -25083,6 +25083,90 @@
             "updatedAt": "2026-04-05T15:04:45.095Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Rank_Hovis_McDougall",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/dc/RHMlogo.PNG"
+        },
+        "mediamarkt": {
+            "names": [
+                "MediaMarkt"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": null,
+            "ownedBy": [
+                "ceconomy"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Media_Markt_logo.svg",
+            "siteUrl": "https://www.mediamarktsaturn.com/",
+            "updatedAt": "2026-04-06T08:39:29.014Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/MediaMarkt"
+        },
+        "ceconomy": {
+            "names": [
+                "Ceconomy",
+                "Ceconomy AG",
+                "CEC"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": null,
+            "ownedBy": [
+                "jd.com"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ceconomy_2017_logo.svg",
+            "siteUrl": "https://www.ceconomy.de/",
+            "updatedAt": "2026-04-06T09:00:20.474Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ceconomy"
+        },
+        "saturn": {
+            "key": "saturn",
+            "names": [
+                "Saturn"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": null,
+            "ownedBy": [
+                "ceconomy"
+            ],
+            "updatedAt": "2026-04-06T09:03:40.964Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Saturn_(store)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Saturn-Logo.svg",
+            "siteUrl": "https://www.mediamarktsaturn.com/"
+        },
+        "imtron": {
+            "key": "imtron",
+            "names": [
+                "Imtron"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": null,
+            "ownedBy": [
+                "ceconomy"
+            ],
+            "updatedAt": "2026-04-06T09:03:41.126Z",
+            "wikipediaUrl": "https://de.wikipedia.org/wiki/Imtron",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/IMTRON_N2017_RGB.png",
+            "siteUrl": "https://www.imtron.eu/"
         }
     }
 }
