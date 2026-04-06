@@ -23569,26 +23569,6 @@
             "siteUrl": "https://www.combos.com/",
             "key": "combos"
         },
-        "dove-chocolate": {
-            "names": [
-                "Dove (Chocolate)"
-            ],
-            "comment": "",
-            "sources": {},
-            "sourceNotes": {},
-            "tags": [
-                "food"
-            ],
-            "score": 17,
-            "ownedBy": [
-                "mars"
-            ],
-            "updatedAt": "2026-03-31T10:16:47.181Z",
-            "wikipediaUrl": "https://en.wikipedia.org/wiki/Dove_(chocolate_brand)",
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Dove_chocolate_brand_logo.png",
-            "siteUrl": "https://www.dovechocolate.com/",
-            "key": "dove-chocolate"
-        },
         "dove-bar": {
             "names": [
                 "Dove Bar"
