@@ -25147,6 +25147,26 @@
             "wikipediaUrl": "https://de.wikipedia.org/wiki/Imtron",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/IMTRON_N2017_RGB.png",
             "siteUrl": "https://www.imtron.eu/"
+        },
+        "melissa-and-doug": {
+            "key": "melissa-and-doug",
+            "names": [
+                "Melissa & Doug"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys"
+            ],
+            "score": null,
+            "ownedBy": [
+                "spin-master"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Melissa_%26_Doug_logo.svg",
+            "siteUrl": "http://melissaanddoug.com/",
+            "updatedAt": "2026-04-07T17:49:26.008Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Melissa_%26_Doug"
         }
     }
 }
