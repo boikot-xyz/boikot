@@ -25223,6 +25223,49 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/89/Maxwellhouse_coffee_logo.png",
             "siteUrl": "https://themaxwell.house/",
             "updatedAt": "2026-04-04T11:57:36.825Z"
-         }
+        },
+        "menards": {
+            "key": "menards",
+            "names": [
+                "Menards"
+            ],
+            "comment": "Menards is an American home improvement store that has been accused of false advertising and misleading pricing [1][2], price gouging during the pandemic [3], and a strongly anti‑union stance that refuses to hire anyone who has worked in a union shop [4]. The company has also faced allegations of overworking employees, punishing young mothers for pumping breast milk [5], illegal waste dumping and environmental violations including discharging pollutants into rivers [6][7][8], engaging in corruption with politicians [9], subjecting employees to sexual harassment in the workplace [10], and multiple employee deaths on the job [11].",
+            "sources": {
+                "1": "https://openclassactions.com/settlements/menards-false-advertising-class-action-settlement.php",
+                "2": "https://www.msn.com/en-us/money/general/menards-to-pay-millions-after-rebates-called-misleading/ar-AA1T7VL0",
+                "3": "https://www.fox2detroit.com/news/michigan-ag-sends-cease-and-desist-letter-to-menards-over-price-gouging",
+                "4": "https://www.milwaukeemag.com/bigmoney-john-menard/",
+                "5": "https://www.slashgear.com/2005865/lawsuit-against-menards-explained-hardware-store-legal-trouble/",
+                "6": "https://archive.jsonline.com/business/114143619.html/",
+                "7": "https://www.milwaukeemag.com/bigmoney-john-menard/",
+                "8": "https://dailyreporter.com/2005/08/09/menard-fined-for-violating-water-pollution-laws/",
+                "9": "https://www.yahoo.com/politics/wisconsin-gov-scott-walker-photo-charlie-114429739886.html?guccounter=1",
+                "10": "https://www.clevescene.com/news/menards-to-pay-former-avon-employee-342000-after-failing-to-take-action-against-serial-harasser-41771832/",
+                "11": "https://www.slashgear.com/2005865/lawsuit-against-menards-explained-hardware-store-legal-trouble/"
+            },
+            "sourceNotes": {
+                "1": "false advertising and misleading pricing",
+                "2": "false advertising and misleading pricing",
+                "3": "price gouging duing pandemic",
+                "4": "strongly anti-union, refusing to hire anyone having worked in a union shop",
+                "5": "overworked employees, punishing young mothers for pumping breast milk",
+                "6": "illegal waste dumping",
+                "7": "several environmental violations",
+                "8": "illegally discharging pollutants into rivers",
+                "9": "engaged in corruption, donating and receiving benefits from politicians",
+                "10": "sexual harassment in workplace",
+                "11": "several employees killed at work"
+            },
+            "tags": [
+                "retail",
+                "diy"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Menards_Stripe_Logo.svg",
+            "siteUrl": "https://www.menards.com/",
+            "updatedAt": "2026-04-08T07:15:30.433Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Menards"
+        }
     }
 }
