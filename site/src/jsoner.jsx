@@ -210,7 +210,7 @@ const makeEthicaldotorgSearchURL = companyName => `https://ethical.org.au/search
 const makeCELIURL = companyName => `https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain#list`;
 const makeBDSURL = companyName => `https://masjidalaqsa.com/boycott-israeli-products-brands-list`;
 const makeWikiCorporatesURL = companyName => `https://www.wikicorporates.org/mediawiki/index.php?search=${encodeURIComponent(companyName)}&title=Special%3ASearch&go=Go`;
-const makeLawyerIncURL = companyName => `https://lawyerinc.com`;
+const makeLawyerIncURL = companyName => `https://lawyerinc.com?s=${encodeURIComponent(companyName)}`;
  
 export function SearchLinks({ state }) {
     if( !state.names?.length ) return null;
@@ -474,6 +474,7 @@ export function Jsoner() {
     const saveCompanyData = async () => {
         setToastMessage("Saving company data...");
         const result = {
+            key: getKey(state),
             ...state,
             sources: Object.fromEntries(Object.entries(state.sources).filter(([k, v]) => v)),
             sourceNotes: Object.fromEntries(Object.entries(state.sourceNotes).filter(([k, v]) => v)),

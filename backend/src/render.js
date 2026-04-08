@@ -63,6 +63,9 @@ async function renderTree( url, targetDir=null ) {
             .filter( otherUrl =>
                 !otherUrl.pathname.match(/companies\/edit\/./)
             )
+            .filter( otherUrl =>
+                !otherUrl.pathname.match(/companies\/add-brands\/./)
+            )
             .map( otherUrl =>
                 new URL(otherUrl.pathname, otherUrl.origin)
             );
