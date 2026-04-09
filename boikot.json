@@ -25043,6 +25043,43 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Mastercard",
             "key": "mastercard"
         },
+        "mercadona": {
+            "key": "mercadona",
+            "names": [
+                "Mercadona"
+            ],
+            "comment": "Mercadona is a Spanish supermarket chain which has consistently subjected its employees to excessive pressure, harassment, and wrongful termination [1][2][3][4][5], forcing employees to work while unwell [6] and even sending delivery drivers into deadly floods [7]. The company has also illegally used facial recognition and surveillance in its stores without customer consent [8][9].",
+            "sources": {
+                "1": "https://cadenaser.com/galicia/2025/06/20/la-cig-denuncia-acoso-laboral-en-el-mercadona-de-porto-do-molle-en-nigran-radio-vigo/",
+                "2": "https://www.theolivepress.es/spain-news/2024/11/18/mercadona-worker-who-was-fired-for-eating-a-croqueta-destined-for-the-trash-wins-legal-battle-in-spain/",
+                "3": "https://russpain.com/en/news-3/mercadona-scandal-veteran-fired-over-single-snack-bag-what-s-behind-the-story-377539/",
+                "4": "https://www.rtp.pt/noticias/pais/prova-dos-factos-rede-mercadona-acusada-de-agir-como-uma-seita_v1534194",
+                "5": "https://www.huffingtonpost.es/sociedad/una-empleada-siente-presionada-mercadona-busca-abogado-juez-obliga-indemnizarla-40000-euros-mercadona-me-dejar-entrar-supermercadosbr.html",
+                "6": "https://inspain.news/call-for-a-boycott-of-mercadona-because-of-labour-abuse/",
+                "7": "https://www.business-humanrights.org/en/latest-news/criminal-companies-outrage-as-mercadona-sends-driver-out-into-deadly-floods-while-other-firms-are-slammed-for-endangering-employees/",
+                "8": "https://euroweeklynews.com/2025/06/04/is-your-supermarket-spying-on-you-mercadona-carrefour-got-caught/",
+                "9": "https://gdprhub.eu/index.php?title=AEPD_(Spain)_-_PS/00120/2021"
+            },
+            "sourceNotes": {
+                "1": "workplace harassment",
+                "2": "fired employee for eating one out of date item",
+                "3": "fired employee for eating one out of date item",
+                "4": "pressure on and harassment of employees",
+                "5": "pressure on and harassment of employees",
+                "6": "poor working conditions, forcing employees to work while unwell",
+                "7": "sent delivery driver into deadly floods",
+                "8": "used facial recognition in stores without customers consent"
+            },
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 37,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/89/Mercadona_logo.png/250px-Mercadona_logo.png",
+            "siteUrl": "http://www.mercadona.com/",
+            "updatedAt": "2026-04-09T06:32:30.327Z"
+        },
         "rank-hovis-mcdougall": {
             "key": "rank-hovis-mcdougall",
             "names": [
@@ -25167,6 +25204,7 @@
             "siteUrl": "http://melissaanddoug.com/",
             "updatedAt": "2026-04-07T17:49:26.008Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Melissa_%26_Doug"
-        }
+        },
+        "maxwell-house": {
     }
 }
