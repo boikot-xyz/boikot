@@ -25206,5 +25206,23 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Melissa_%26_Doug"
         },
         "maxwell-house": {
+            "names": [
+                "Maxwell House"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "coffee"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "jde-peet's",
+                "kraft-heinz"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/89/Maxwellhouse_coffee_logo.png",
+            "siteUrl": "https://themaxwell.house/",
+            "updatedAt": "2026-04-04T11:57:36.825Z"
+         }
     }
 }
