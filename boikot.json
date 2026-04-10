@@ -25266,6 +25266,57 @@
             "siteUrl": "https://www.menards.com/",
             "updatedAt": "2026-04-08T07:15:30.433Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Menards"
+        },
+        "merck": {
+            "key": "merck",
+            "names": [
+                "Merck",
+                "Merck & Co.",
+                "Merck & Co., Inc.",
+                "MRK"
+            ],
+            "comment": "Merck is a U.S. pharmaceutical company that has engaged in tax avoidance [1], sold several unsafe medications [2][3][4][5], and discharged toxic chemicals into rivers, causing fish deaths [6]. The company has defrauded Medicaid of hundreds of millions of dollars [7][8][9], engaged in deceptive marketing of unsafe products [10][11], discredited doctors who questioned their dangerous medication [12], and sold medication that killed 25,000 people while refusing to compensate victims fairly [13][14].",
+            "sources": {
+                "1": "https://www.cnbc.com/2007/02/14/merck-agrees-to-settle-23-billion-tax-dispute-with-irs.html",
+                "2": "https://www.reuters.com/legal/litigation/court-revives-more-than-500-lawsuits-over-fosamax-femur-fracture-risk-2024-09-20/",
+                "3": "https://www.reuters.com/article/us-merck-fosamax-idUSBRE9B811S20131209",
+                "4": "https://www.biospace.com/article/investigation-finds-merck-s-anti-baldness-drug-long-linked-to-suicide-reports/",
+                "5": "https://time.com/6515/nuvaring-settlement-100-million-dollars/",
+                "6": "https://www.epa.gov/archive/epapages/newsroom_archive/newsreleases/fcf170d8474c34db852573b0006806a8.html",
+                "7": "https://www.justice.gov/opa/pr/2008/February/08_civ_094.html",
+                "8": "https://www.washingtonpost.com/wp-dyn/content/article/2008/02/07/AR2008020701336.html",
+                "9": "https://www.fiercebiotech.com/biotech/merck-resolves-federal-and-state-investigations-related-to-certain-activities",
+                "10": "http://ktar.com/?nid=6&sid=842595&r=1",
+                "11": "https://www.justice.gov/archives/opa/pr/us-pharmaceutical-company-merck-sharp-dohme-pay-nearly-one-billion-dollars-over-promotion?bm-verify=AAQAAAAN_____92eTKFngIA0z4TNADFhCoXlfr82-ziWJ3aP7TjkmZKkXaU2eHSMb1C7Ge_1GpZG-nFykcsesT2StBtlCzHoJBpXK-qBRAw8NYx9l0cCsd1cpthw42MW8Gker-pHWwtvSQMp3a3oMxg6lIBS16ErbTb-x_zyK1CtET8IQHHbQlrbjuO0Y8FCZqzAcj7P_V2gd_7cu4cv6EAJlblC7pt8YGWBeepQKWzNy0-nZJsZodh8az-B_0fSWsS4gwwpxuVJfs4T5fSHWsY_xbtwi1XzqtBN-7O0PkhihxuYEgia-fvd4JGVoK3HwqEkpNxB5HFTrjD0Fv9QMb4NelUkRCJJlziZ6H9SMhm3vfxAuxgUdUEaLBiFqRJGq8nRU_qZNJfSKA5dRCT1ns28l59ejd9Tp1Esbdo",
+                "12": "https://www.news.com.au/news/drug-company-drew-up-doctor-hit-list/news-story/eb55ca36e081d497730629e6c8559abf",
+                "13": "https://web.archive.org/web/20081027220130/http://www.prospect-magazine.co.uk/article_details.php?id=10425",
+                "14": "https://www.nbcnews.com/health/health-news/report-vioxx-linked-thousands-deaths-flna1c9445945#:~:text=The%20Journal's%20report,%20citing%20a,been%20used%20instead%20of%20Vioxx."
+            },
+            "sourceNotes": {
+                "1": "tax avoidance",
+                "2": "sold several unsafe medications",
+                "3": "sold several unsafe medications",
+                "4": "sold several unsafe medications",
+                "5": "sold several unsafe medications",
+                "6": "discharged toxic chemicals into rivers, leading to fish deaths",
+                "7": "defrauded medicaid of hundreds of millions of dollars",
+                "8": "defrauded medicaid of hundreds of millions of dollars",
+                "9": "defrauded medicaid of hundreds of millions of dollars",
+                "10": "deceptive marketing of unsafe products",
+                "11": "deceptive marketing of unsafe products",
+                "12": "discredited doctors who questioned their dangerous medication",
+                "13": "sold medication that killed 25,000 people and refused to compensate victims fairly",
+                "14": "sold medication that killed 25,000 people and refused to compensate victims fairly"
+            },
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": 3,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Merck_Logo.svg",
+            "siteUrl": "http://merck.com/",
+            "updatedAt": "2026-04-10T11:35:07.290Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Merck_Group"
         }
     }
 }
