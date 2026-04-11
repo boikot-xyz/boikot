@@ -25317,6 +25317,29 @@
             "siteUrl": "http://merck.com/",
             "updatedAt": "2026-04-10T11:35:07.290Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Merck_Group"
+        },
+        "micro-center": {
+            "key": "micro-center",
+            "names": [
+                "Micro Center"
+            ],
+            "comment": "Micro Center is a US-based electronics retailer that has been accused of mis-selling empty boxes to customers rather than products [1].",
+            "sources": {
+                "1": "https://www.tomshardware.com/pc-components/gpus/dude-wheres-my-gpu-microcenter-customer-gets-backpack-stuffed-box-instead-of-rtx-5090"
+            },
+            "sourceNotes": {
+                "1": "mis-sold empty boxes to customers rather than products"
+            },
+            "tags": [
+                "retail",
+                "electronics"
+            ],
+            "score": 50,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Micro_Center_logo.svg",
+            "siteUrl": "https://microcenter.com/",
+            "updatedAt": "2026-04-10T11:35:07.290Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Micro_Center"
         }
     }
 }
