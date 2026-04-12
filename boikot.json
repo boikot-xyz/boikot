@@ -25340,6 +25340,47 @@
             "siteUrl": "https://microcenter.com/",
             "updatedAt": "2026-04-10T11:35:07.290Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Micro_Center"
+        },
+        "monzo": {
+            "key": "monzo",
+            "names": [
+                "Monzo",
+                "Monzo Bank Limited",
+                "Monzo Bank",
+                "Focus FS Limited"
+            ],
+            "comment": "Monzo is a UK-based digital bank that has provided inaccurate fee and statement information to customers [1][2][3][4], froze customer accounts without good reason [5], prioritized profits over customers and employees [6], failed in anti‑money‑laundering compliance [7][8], and wrongly denied refunds to scam victims [9].",
+            "sources": {
+                "1": "https://www.gov.uk/government/publications/cma-letter-to-monzo-about-breaching-parts-3-7-8-and-12-of-the-retail-banking-order",
+                "2": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/995344/Public_letter_to_Monzo_2021_.pdf",
+                "3": "https://www.gov.uk/government/publications/cma-letter-to-monzo-about-one-breach-of-the-retail-banking-order",
+                "4": "https://www.gov.uk/government/publications/cma-letter-to-monzo-on-a-breach-of-the-retail-banking-order",
+                "5": "https://inews.co.uk/inews-lifestyle/money/saving-and-banking/monzo-stole-money-online-bank-facebook-group-995493",
+                "6": "https://www.telegraph.co.uk/business/2023/03/11/how-monzo-shelved-righteous-mission-pursuit-profits/",
+                "7": "https://www.ft.com/content/d9587544-fb84-40c0-aab5-89a75670285f?syn-25a6b1a6=1",
+                "8": "https://complyfactor.com/the-21-1-million-wake-up-call-critical-lessons-from-monzos-aml-failures/",
+                "9": "https://www.theguardian.com/money/2026/feb/07/monzo-natwest-hsbc-refunds-fraud-scam-fos-ombudsman"
+            },
+            "sourceNotes": {
+                "1": "provided innaccurate fee and statement information to customers",
+                "2": "provided innaccurate fee and statement information to customers",
+                "3": "provided innaccurate fee and statement information to customers",
+                "4": "provided innaccurate fee and statement information to customers",
+                "5": "froze customer accounts without good reason",
+                "6": "prioritised profits over customers and employees",
+                "7": "Anti money-laundering failures",
+                "8": "Anti money-laundering failures",
+                "9": "wrongly denied refunds to scam victims"
+            },
+            "tags": [
+                "finance"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Monzo_2022_logo.svg",
+            "siteUrl": "https://monzo.com/",
+            "updatedAt": "2026-04-12T06:00:09.562Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Monzo"
         }
     }
 }
