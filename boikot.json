@@ -25381,6 +25381,1284 @@
             "siteUrl": "https://monzo.com/",
             "updatedAt": "2026-04-12T06:00:09.562Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Monzo"
+        },
+        "7-up": {
+            "key": "7-up",
+            "names": [
+                "7 Up"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:13.544Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/7_Up",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/7Up_logo_%282024%29.svg",
+            "siteUrl": "https://www.7up.com/"
+        },
+        "agousha": {
+            "key": "agousha",
+            "names": [
+                "Agousha"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:14.521Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Wimm-Bill-Dann_Foods",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8f/WBD_logo_en.png"
+        },
+        "amp-energy": {
+            "key": "amp-energy",
+            "names": [
+                "AMP Energy"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:14.890Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/AMP_Energy",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Mountaindew_amp_brand_logo.png",
+            "siteUrl": "https://www.mountaindew.com/product/mtn-dew-amp-original"
+        },
+        "aquafina": {
+            "key": "aquafina",
+            "names": [
+                "Aquafina"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:15.516Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Aquafina",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Aquafina_Logo.svg",
+            "siteUrl": "http://aquafina.com/"
+        },
+        "aunt-jemima": {
+            "key": "aunt-jemima",
+            "names": [
+                "Aunt Jemima"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:15.704Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Aunt_Jemima",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Aunt_Jemima_logo_%28red%29.png"
+        },
+        "pearl-milling-company": {
+            "key": "pearl-milling-company",
+            "names": [
+                "Pearl Milling Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:16.158Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pearl_Milling_Company",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pearl_milling_co_textlogo.png",
+            "siteUrl": "https://www.pearlmillingcompany.com/"
+        },
+        "cap'n-crunch": {
+            "key": "cap'n-crunch",
+            "names": [
+                "Cap'n Crunch"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:16.473Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cap%27n_Crunch",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Capcrunch_textlogo.png",
+            "siteUrl": "https://www.capncrunch.com/"
+        },
+        "cheetos": {
+            "key": "cheetos",
+            "names": [
+                "Cheetos"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:16.835Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cheetos",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cheetos_logo.svg",
+            "siteUrl": "https://www.cheetos.com/"
+        },
+        "chipsy": {
+            "key": "chipsy",
+            "names": [
+                "Chipsy"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:17.007Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lay%27s",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Lay%27s_2025.svg",
+            "siteUrl": "https://www.lays.com/"
+        },
+        "cracker-jack": {
+            "key": "cracker-jack",
+            "names": [
+                "Cracker Jack"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:17.186Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cracker_Jack",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/99/Cracker_jack_brand_logo.png",
+            "siteUrl": "https://www.fritolay.com/products/cracker-jack-original-caramel-coated-popcorn-peanuts"
+        },
+        "crush": {
+            "key": "crush",
+            "names": [
+                "Crush"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:17.342Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Crush_(drink)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Crush_Soda_Logo_New.png",
+            "siteUrl": "https://www.crushsoda.com/"
+        },
+        "doritos": {
+            "key": "doritos",
+            "names": [
+                "Doritos"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:19.410Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Doritos",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Doritos_Logo_%282013%29.png",
+            "siteUrl": "http://doritos.com/"
+        },
+        "duyvis": {
+            "key": "duyvis",
+            "names": [
+                "Duyvis"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:19.766Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Duyvis"
+        },
+        "elma-chips": {
+            "key": "elma-chips",
+            "names": [
+                "Elma Chips"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:20.163Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Elma_Chips",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/ElmaChips_logo.svg",
+            "siteUrl": "https://elmachips.com.br/"
+        },
+        "emperador": {
+            "key": "emperador",
+            "names": [
+                "Emperador",
+                "Gamesa"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:20.579Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gamesa",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b5/Gamesa.gif",
+            "siteUrl": "https://www.gamesacookies.com/"
+        },
+        "fandangos": {
+            "key": "fandangos",
+            "names": [
+                "Fandangos"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:21.182Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Fandangos_(snack)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/fb/Fandangos_EC.png",
+            "siteUrl": "https://www.pepsico.com.br/nossas-marcas/nossas-marcas"
+        },
+        "frito-lay": {
+            "key": "frito-lay",
+            "names": [
+                "Frito-Lay"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:21.270Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Frito-Lay",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fritolay_company_logo.svg",
+            "siteUrl": "https://fritolay.com/"
+        },
+        "fritos": {
+            "key": "fritos",
+            "names": [
+                "Fritos"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:21.418Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Fritos",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/11",
+            "siteUrl": "https://www.fritos.com/"
+        },
+        "frustyle": {
+            "key": "frustyle",
+            "names": [
+                "Frustyle"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:21.805Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lebedyansky_(company)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4d"
+        },
+        "g2": {
+            "key": "g2",
+            "names": [
+                "G2"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:22.011Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gatorade#Products",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Gatorade_logo.svg",
+            "siteUrl": "https://gatorade.com/"
+        },
+        "gatorade": {
+            "key": "gatorade",
+            "names": [
+                "Gatorade"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:22.400Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gatorade",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Gatorade_logo.svg",
+            "siteUrl": "https://gatorade.com/"
+        },
+        "grandma's": {
+            "key": "grandma's",
+            "names": [
+                "Grandma's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:22.650Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Grandma%27s_(brand)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fritolay_company_logo.svg",
+            "siteUrl": "https://fritolay.com/"
+        },
+        "izze": {
+            "key": "izze",
+            "names": [
+                "Izze"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:23.498Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Izze_(drink)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/6b/Izze_drink_logo.png"
+        },
+        "kas": {
+            "key": "kas",
+            "names": [
+                "Kas"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:23.832Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kas_(drink)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Kas_marca_logo.png",
+            "siteUrl": "https://www.pepsico.es/es-es/marcas/informaci%C3%B3n-de-producto"
+        },
+        "kurkure": {
+            "key": "kurkure",
+            "names": [
+                "Kurkure"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:24.011Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kurkure",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e5/Kurkure_Logo.png"
+        },
+        "life": {
+            "key": "life",
+            "names": [
+                "Life"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:24.199Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Life_(cereal)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Life_cereal_logo.png",
+            "siteUrl": "https://www.quakeroats.com/products/cold-cereals/life-cereal"
+        },
+        "lifewater": {
+            "key": "lifewater",
+            "names": [
+                "Lifewater"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:24.733Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/SoBe",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/bf/Current_SoBe_logo.svg",
+            "siteUrl": "http://www.sobe.com/"
+        },
+        "manzanita-sol": {
+            "key": "manzanita-sol",
+            "names": [
+                "Manzanita Sol"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:25.300Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Manzanita_Sol",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Manzanita_Sol.jpg"
+        },
+        "matutano": {
+            "key": "matutano",
+            "names": [
+                "Matutano"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:25.735Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Matutano",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/Matutano_company_logo.png"
+        },
+        "marbo-product": {
+            "key": "marbo-product",
+            "names": [
+                "Marbo Product"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:25.822Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Marbo_Product",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/29/Marbo_Product_logo.png",
+            "siteUrl": "http://www.pepsico.rs/"
+        },
+        "mirinda": {
+            "key": "mirinda",
+            "names": [
+                "Mirinda"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:25.939Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mirinda",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Mirinda_logo_2023.svg"
+        },
+        "miss-vickie's": {
+            "key": "miss-vickie's",
+            "names": [
+                "Miss Vickie's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:26.069Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Miss_Vickie%27s",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Miss_vickies_brand_logo.png",
+            "siteUrl": "https://www.tastyrewards.com/en-ca/brands/missvickies/"
+        },
+        "mountain-dew": {
+            "key": "mountain-dew",
+            "names": [
+                "Mountain Dew"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:26.460Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mountain_Dew",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Mountain_Dew_2025_logo.svg",
+            "siteUrl": "https://mountaindew.com/"
+        },
+        "mug": {
+            "key": "mug",
+            "names": [
+                "Mug"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:29.375Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mug_Root_Beer",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Mug_root_beer_logo.png",
+            "siteUrl": "https://mugrootbeer.com/"
+        },
+        "naked": {
+            "key": "naked",
+            "names": [
+                "Naked"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:29.623Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Naked_Juice",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/89/NakedJuiceLogo.svg",
+            "siteUrl": "https://www.nakedjuice.com/"
+        },
+        "paso-de-los-toros": {
+            "key": "paso-de-los-toros",
+            "names": [
+                "Paso de los Toros"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:30.194Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Paso_de_los_Toros_(drink)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ea"
+        },
+        "pasta-roni": {
+            "key": "pasta-roni",
+            "names": [
+                "Pasta Roni"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:30.730Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pasta_Roni",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/54/Pasta_Roni-Rice_a_Roni_Logos.png",
+            "siteUrl": "https://www.ricearoni.com/"
+        },
+        "pepsi": {
+            "key": "pepsi",
+            "names": [
+                "Pepsi"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:31.176Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pepsi",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pepsi_2023.svg",
+            "siteUrl": "https://www.pepsi.com/"
+        },
+        "pioneer-foods": {
+            "key": "pioneer-foods",
+            "names": [
+                "Pioneer Foods"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:32.700Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pioneer_Foods",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/6d/Pioneer_Foods_logo.png",
+            "siteUrl": "http://pioneerfoods.co.za/"
+        },
+        "punica": {
+            "key": "punica",
+            "names": [
+                "Punica"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:32.935Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Punica_(drink)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Punica-Logo.svg",
+            "siteUrl": "https://www.punica.de/"
+        },
+        "propel": {
+            "key": "propel",
+            "names": [
+                "Propel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:33.071Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Propel_Fitness_Water",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d9/Propel_logo.svg",
+            "siteUrl": "https://www.propelwater.com/"
+        },
+        "quaker": {
+            "key": "quaker",
+            "names": [
+                "Quaker"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:33.391Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Quaker_Oats_Company",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5d/Quaker_Oats_logo_2017.png",
+            "siteUrl": "https://www.quakeroats.com/"
+        },
+        "rice-a-roni": {
+            "key": "rice-a-roni",
+            "names": [
+                "Rice-A-Roni"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:33.551Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rice-A-Roni",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/54/Pasta_Roni-Rice_a_Roni_Logos.png",
+            "siteUrl": "https://www.ricearoni.com/"
+        },
+        "rockstar-(drink)": {
+            "key": "rockstar-(drink)",
+            "names": [
+                "Rockstar (drink)"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:33.723Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rockstar_(drink)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/bf/Primary_logo_for_Rockstar_Energy_as_of_2024.svg",
+            "siteUrl": "https://rockstarenergy.com/"
+        },
+        "rold-gold": {
+            "key": "rold-gold",
+            "names": [
+                "Rold Gold"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:34.210Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rold_Gold",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Roldgold_brand_logo.png",
+            "siteUrl": "https://www.roldgold.com/"
+        },
+        "ruffles": {
+            "key": "ruffles",
+            "names": [
+                "Ruffles"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:34.295Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruffles_(potato_chips)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ruffles_2021.svg",
+            "siteUrl": "https://www.ruffles.com/"
+        },
+        "sabra": {
+            "key": "sabra",
+            "names": [
+                "Sabra"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:34.695Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sabra_(company)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/Sabra_%28food_industry_business%29_logo.png",
+            "siteUrl": "https://sabra.com/"
+        },
+        "sabritas": {
+            "key": "sabritas",
+            "names": [
+                "Sabritas"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:35.166Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sabritas",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Sabritas_2026_logo.svg",
+            "siteUrl": "https://www.sabritas.com.mx/"
+        },
+        "sakata": {
+            "key": "sakata",
+            "names": [
+                "Sakata"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:35.398Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Smith%27s_Snackfood_Company",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8e/Smiths_Logo.png",
+            "siteUrl": "https://smiths-chips.com.au/"
+        },
+        "smartfood": {
+            "key": "smartfood",
+            "names": [
+                "Smartfood"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:35.864Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Smartfood",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/27/Smartfoodpopcorn.png",
+            "siteUrl": "https://www.smartfood.com/"
+        },
+        "sodastream": {
+            "key": "sodastream",
+            "names": [
+                "Sodastream"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:36.131Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sodastream",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/SodaStream_Logo_2025.png",
+            "siteUrl": "https://sodastream.com/"
+        },
+        "starry": {
+            "key": "starry",
+            "names": [
+                "Starry"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:36.990Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Starry_(drink)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e2/Can_of_Starry_Lemon-Lime_Soda.png",
+            "siteUrl": "http://starrylemonlime.com/"
+        },
+        "sunchips": {
+            "key": "sunchips",
+            "names": [
+                "SunChips"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:37.224Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/SunChips",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/bc",
+            "siteUrl": "https://www.sunchips.com/"
+        },
+        "tostitos": {
+            "key": "tostitos",
+            "names": [
+                "Tostitos"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:37.817Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tostitos",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Tostitos_logo_2026.webp",
+            "siteUrl": "https://www.tostitos.com/"
+        },
+        "twisties": {
+            "key": "twisties",
+            "names": [
+                "Twisties"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:38.365Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Twisties",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/bf/Twisties_logo.png",
+            "siteUrl": "http://www.smiths.com.au/brands/twisties"
+        },
+        "walkers": {
+            "key": "walkers",
+            "names": [
+                "Walkers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "plastic",
+                "water depletion",
+                "deforestation"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pepsico"
+            ],
+            "updatedAt": "2026-04-12T18:44:39.014Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Walkers_Crisps",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/fb/Walkers_Logo%2C_2026.svg",
+            "siteUrl": "http://walkers.co.uk/"
         }
     }
 }
