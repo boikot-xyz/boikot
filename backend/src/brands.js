@@ -217,6 +217,7 @@ export async function scrapeBrands( html, tags, score, ownedBy ) {
     const entries = {};
 
     for( const [url, name] of pages ) {
+        if( Object.values(entries).map(e => e.wikipediaUrl).includes(url) ) continue;
         console.log(name)
         const key = getKey(name);
         const entry = {
