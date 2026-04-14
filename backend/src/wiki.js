@@ -21,7 +21,7 @@ function getLogoURL( pageDOM ) {
     const logoURL = logoImg?.src
         .replace("thumb/", "")
         .replace("//upload", "https://upload")
-        .replace(/\/[^/]+.(png|jpg)$/, "");
+        .replace(/\/\d+px[^/]+.(png|jpg)$/, "");
 
     return logoURL;
 }

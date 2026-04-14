@@ -119,6 +119,11 @@ const targetWikipediaInfos = [
     logoUrl: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Buckinghamshire_Railway_Colmans_advert.jpg",
     siteUrl: undefined,
   }],
+  ["windex", {
+    wikipediaUrl: "https://en.wikipedia.org/wiki/Windex",
+    logoUrl: "https://upload.wikimedia.org/wikipedia/en/f/f5/Windex_Logo.png",
+    siteUrl: "http://www.windex.com/",
+  }],
 ];
 
 describe("getWikipediaInfo", () => {
