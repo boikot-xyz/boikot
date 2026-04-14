@@ -15374,25 +15374,6 @@
             "updatedAt": "2026-01-31T08:38:09.336Z",
             "key": "havaianas"
         },
-        "glade": {
-            "names": [
-                "Glade"
-            ],
-            "comment": "",
-            "sources": {},
-            "sourceNotes": {},
-            "tags": [
-                "consumer goods"
-            ],
-            "score": null,
-            "ownedBy": [
-                "sc-johnson"
-            ],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Glade_logo_2.gif",
-            "siteUrl": "http://www.glade.com/",
-            "updatedAt": "2026-01-22T20:14:47.901Z",
-            "key": "glade"
-        },
         "gopro": {
             "names": [
                 "GoPro",
@@ -26659,6 +26640,429 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Walkers_Crisps",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/fb/Walkers_Logo%2C_2026.svg",
             "siteUrl": "http://walkers.co.uk/"
+        },
+        "mozilla": {
+            "key": "mozilla",
+            "names": [
+                "Mozilla",
+                "Firefox"
+            ],
+            "comment": "Mozilla is an American organization that has sold users' data to advertisers without consent [1][2], claimed broad rights to user data accessed through Firefox [3], and tracked users without consent [4][5][6][7]. Mozilla has also discriminated against employees based on a cancer diagnosis [8][9] and refused to hire people involved in unions [10].",
+            "sources": {
+                "1": "https://arstechnica.com/information-technology/2015/12/firefox-retires-much-maligned-sponsored-tiles-hunts-for-new-revenue-streams/",
+                "2": "https://www.zdnet.com/article/firefox-tests-cliqz-engine-which-slurps-user-browsing-data/",
+                "3": "https://thehackernews.com/2025/03/mozilla-updates-firefox-terms-again.html",
+                "4": "https://noyb.eu/en/firefox-tracks-you-privacy-preserving-feature",
+                "5": "https://www.reuters.com/technology/mozilla-hit-with-privacy-complaint-over-firefox-user-tracking-2024-09-25/",
+                "6": "https://blog.ssuiteoffice.com/articles/general/mozilla-firefox-ppa-tracking-w3c-privacy-spying-scandal.htm",
+                "7": "https://www.windowscentral.com/software-apps/browsing/firefox-users-slam-mozilla-over-controversial-data-privacy-update",
+                "8": "https://www.geekwire.com/2024/mozillas-product-chief-sues-the-firefox-maker-alleging-discrimination-after-cancer-diagnosis/",
+                "9": "https://www.theregister.com/2024/06/24/mozilla_product_chief_sues_over/",
+                "10": "https://www.bloomberg.com/news/articles/2023-11-22/nlrb-files-case-against-mozilla-for-not-hiring-labor-activist"
+            },
+            "sourceNotes": {
+                "1": "sold users data to advertisers without consent",
+                "2": "sold users data to advertisers without consent",
+                "3": "claimed broad rights to user data accessed through firefox",
+                "4": "tracking users without consent",
+                "5": "tracking users without consent",
+                "6": "tracking users without consent",
+                "7": "tracking users without consent",
+                "8": "discriminated against employee based on cancer diagnosis",
+                "9": "discriminated against employee based on cancer diagnosis",
+                "10": "refused to hire people who have been involved in unions"
+            },
+            "tags": [],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Mozilla_2024_logo.svg",
+            "siteUrl": "https://www.mozilla.org/",
+            "updatedAt": "2026-04-13T18:29:01.486Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mozilla_Corporation"
+        },
+        "s.-c.-johnson": {
+            "key": "s.-c.-johnson",
+            "names": [
+                "S. C. Johnson",
+                "SC Johnson",
+                "S. C. Johnson & Son",
+                "S. C. Johnson & Son, Inc."
+            ],
+            "comment": "S. C. Johnson is an American company that has engaged in false advertising [1], price‑fixing [2], tax evasion [3][4][5], dismissal of whistleblowers [4][5][6], underpaying of employee pensions [7], greenwashing [8], and continuing operations in Russia during the conflict [9]. The company has sold products that release microplastics into food [10] and exceeded air‑pollution limits [11], while the founding family has been implicated in paedophilic crimes [12][13].",
+            "sources": {
+                "1": "https://topclassactions.com/lawsuit-settlements/closed-settlements/method-cleaners-2-25m-class-action-settlement/",
+                "2": "http://www.connexionfrance.com/court-appeal-price-fixing-fine-upheld-consumer-companies-gillette-loreal-procter-gamble-sc-johnson-18567-view-article.html",
+                "3": "https://www.politifact.com/article/2011/sep/12/inside-sc-johnson-vs-david-cay-johnston-dispute-co/",
+                "4": "https://web.archive.org/web/20110716194036/http://www.tax.com/taxcom/taxblog.nsf/Permalink/UBEN-8BTJ35?OpenDocument",
+                "5": "http://www.whistleblowersblog.org/2011/12/articles/corporate-1/major-victory-for-whistleblowers-in-seventh-circuit-says-retaliation-is-a-rico-violation/",
+                "6": "https://thenationonlineng.net/man-seeks-n50m-alleged-wrongful-sack/",
+                "7": "https://www.law360.com/articles/564664/sc-johnson-settles-2-long-running-class-action-erisa-suits",
+                "8": "http://www.scjohnson.com/en/press-room/press-releases/07-08-2011/SC-Johnson-Settles-Cases-Involving-Greenlist-Labeling.aspx",
+                "9": "https://www.tmj4.com/news/local-news/s-c-johnson-defends-decision-to-stay-in-russia-following-f-from-yale-professor",
+                "10": "https://eu.usatoday.com/story/money/2025/05/12/ziploc-class-action-lawsuit-microplastics/83577508007/",
+                "11": "https://ww2.arb.ca.gov/sc-johnson-son-inc-case-settlement",
+                "12": "https://www.forbes.com/sites/clareoconnor/2014/06/09/s-c-johnson-billionaire-gets-4-months-jail-6k-fine-in-child-sex-assault-case/",
+                "13": "https://www.dailymail.co.uk/news/article-1369792/Billionaire-heir-SC-Johnson-family-fortune-charged-sexual-assault-15-year-old-girl.html"
+            },
+            "sourceNotes": {
+                "1": "false advertising",
+                "2": "price-fixing",
+                "3": "tax evasion",
+                "4": "tax evasion and dismissal of whistleblowers",
+                "5": "tax evasion and dismissal of whistleblowers",
+                "6": "dismissal of whistleblowers",
+                "7": "underpaid employee pensions",
+                "8": "greenwashing",
+                "9": "initially continued operations in russia",
+                "10": "sold products that release microplastics into food",
+                "11": "sold products that exceeded air pollution limits",
+                "12": "founding family committed paedophilic crimes",
+                "13": "founding family committed paedophilic crimes"
+            },
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/SC_Johnson_2018.svg",
+            "siteUrl": "http://scjohnson.com/",
+            "updatedAt": "2026-04-13T20:38:12.388Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/S._C._Johnson_%26_Son"
+        },
+        "baygon": {
+            "key": "baygon",
+            "names": [
+                "Baygon"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:25:30.349Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Baygon",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Baygonlogo.png"
+        },
+        "drano": {
+            "key": "drano",
+            "names": [
+                "Drano"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:25:30.711Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Drano",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Drano_Logo.png",
+            "siteUrl": "http://drano.com/"
+        },
+        "fantastik": {
+            "key": "fantastik",
+            "names": [
+                "Fantastik"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:25:30.772Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Fantastik",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Fantastik_logo.png",
+            "siteUrl": "http://www.fantastik.com/"
+        },
+        "glade": {
+            "key": "glade",
+            "names": [
+                "Glade"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:30:52.784Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Glade_(brand)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Glade_logo_2.gif",
+            "siteUrl": "http://www.glade.com/"
+        },
+        "janitor-in-a-drum": {
+            "key": "janitor-in-a-drum",
+            "names": [
+                "Janitor in a Drum"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:30:52.845Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Janitor_in_a_Drum",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/44/Janitor_in_a_Drum.jpg",
+            "siteUrl": "http://www.scjohnson.com/"
+        },
+        "kiwi": {
+            "key": "kiwi",
+            "names": [
+                "Kiwi"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:30:52.981Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kiwi_(shoe_polish)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/39/Kiwi_%28shoe_polish%29_logo.png",
+            "siteUrl": "http://kiwicare.com/"
+        },
+        "off!": {
+            "key": "off!",
+            "names": [
+                "OFF!"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:30:53.054Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Off!_(brand)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/98/Off%21_Logo_2015.png",
+            "siteUrl": "http://www.off.com/"
+        },
+        "pledge": {
+            "key": "pledge",
+            "names": [
+                "Pledge"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:30:53.154Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pledge_(brand)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/07/Pledge_logo-%282%29.png",
+            "siteUrl": "https://www.pledge.com/"
+        },
+        "raid": {
+            "key": "raid",
+            "names": [
+                "Raid"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:30:53.215Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Raid_(insecticide)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3e/Raid_Logo_2015.png",
+            "siteUrl": "https://raid.com/"
+        },
+        "saran": {
+            "key": "saran",
+            "names": [
+                "Saran"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:30:53.342Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Saran_(plastic)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e5/Saran_%28plastic%29_logo.png"
+        },
+        "scrubbing-bubbles": {
+            "key": "scrubbing-bubbles",
+            "names": [
+                "Scrubbing Bubbles"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:30:53.414Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Scrubbing_Bubbles",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/bf/Scrubbing_bubbles_home_logo2.png",
+            "siteUrl": "http://scrubbingbubbles.com/"
+        },
+        "swarfega": {
+            "key": "swarfega",
+            "names": [
+                "Swarfega"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:30:53.504Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Swarfega"
+        },
+        "toilet-duck": {
+            "key": "toilet-duck",
+            "names": [
+                "Toilet Duck"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:30:53.559Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Toilet_Duck",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f3/Toilet_Duck_logo.png"
+        },
+        "windex": {
+            "key": "windex",
+            "names": [
+                "Windex"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:30:53.680Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Windex",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f5/Windex_Logo.png",
+            "siteUrl": "http://www.windex.com/"
+        },
+        "ziploc": {
+            "key": "ziploc",
+            "names": [
+                "Ziploc"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:30:53.737Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ziploc",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ziploc_logo.svg",
+            "siteUrl": "http://www.ziploc.com/"
+        },
+        "ecover": {
+            "key": "ecover",
+            "names": [
+                "Ecover"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:30:53.843Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ecover",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cf/Ecover_logo.png",
+            "siteUrl": "http://www.ecover.com/"
+        },
+        "mr-muscle": {
+            "key": "mr-muscle",
+            "names": [
+                "Mr Muscle"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 32,
+            "ownedBy": [
+                "s.-c.-johnson"
+            ],
+            "updatedAt": "2026-04-14T08:30:53.964Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mr_Muscle",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Mr_Muscle_logo.png",
+            "siteUrl": "http://www.mrmuscleclean.com/en-gb"
         }
     }
 }
