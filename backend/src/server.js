@@ -133,21 +133,26 @@ async function respond(req, res, body) {
     res.setHeader("Access-Control-Allow-Origin", "http://localhost:8015");
     res.setHeader("Access-Control-Allow-Headers", "Content-Type");
 
-    if( req.method === "GET" ) {
-        return await respondGet(req, res, body);
+    try {
+        if( req.method === "GET" ) {
+            return await respondGet(req, res, body);
+        }
+        else if( req.method === "POST" ) {
+            return await respondPost(req, res, body);
+        }
+        else if( req.method === "OPTIONS" ) {
+            res.end();
+            return;
+        }
+        else {
+            res.statusCode = 405;
+            res.end(`{"error":"METHOD_NOT_ALLOWED"}`);
+            return;
+        } 
+    } catch(err) {
+        res.statusCode = 500;
+        res.end(`{"error": "${err}"}`);
     }
-    else if( req.method === "POST" ) {
-        return await respondPost(req, res, body);
-    }
-    else if( req.method === "OPTIONS" ) {
-        res.end();
-        return;
-    }
-    else {
-        res.statusCode = 405;
-        res.end(`{"error":"METHOD_NOT_ALLOWED"}`);
-        return;
-    } 
 }
 
 const server = http.createServer((req, res) => {
