@@ -27063,6 +27063,58 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Mr_Muscle",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Mr_Muscle_logo.png",
             "siteUrl": "http://www.mrmuscleclean.com/en-gb"
+        },
+        "muller": {
+            "key": "muller",
+            "names": [
+                "Müller",
+                "Unternehmensgruppe Theo Müller S.e.c.s.",
+                "Molkerei Alois Müller GmbH & Co. KG"
+            ],
+            "comment": "Müller is a German company that has committed environmental violations [1], health and safety violations [2], and animal abuse in its supply chain [3]. Furthermore, a Müller employee suffered a finger amputation at work [4].",
+            "sources": {
+                "1": "https://www.data.gov.uk/dataset/13c0893a-049a-4608-9f9b-7f268a71f15a/climate-change-civil-penalties",
+                "2": "https://resources.hse.gov.uk/convictions-history/case/case_details.asp?SF=CN&SV=4497378",
+                "3": "https://www.independent.co.uk/news/uk/home-news/cows-abuse-muller-marks-spencers-milk-rspca-b2611198.html",
+                "4": "https://www.foodmanufacture.co.uk/Article/2020/12/18/Mueller-UK-Ireland-fined-after-finger-amputations/"
+            },
+            "sourceNotes": {
+                "1": "environmental violations",
+                "2": "health and safety violations",
+                "3": "animal abuse in supply chain",
+                "4": "employee suffered finger amputation at work"
+            },
+            "tags": [
+                "food",
+                "dairy"
+            ],
+            "score": 37,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Unternehmensgruppe_Theo_M%C3%BCller_Logo.svg",
+            "siteUrl": "https://www.muellergroup.com/",
+            "updatedAt": "2026-04-15T15:40:03.581Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/M%C3%BCller_(company)"
+        },
+        "culina-group": {
+            "key": "culina-group",
+            "names": [
+                "Culina Group"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "dairy"
+            ],
+            "score": 37,
+            "ownedBy": [
+                "muller"
+            ],
+            "updatedAt": "2026-04-15T15:59:57.412Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Culina_Group",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Culina_Group_logo.png",
+            "siteUrl": "https://www.culina.co.uk/"
         }
     }
 }
