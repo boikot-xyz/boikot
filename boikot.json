@@ -27121,7 +27121,7 @@
             "names": [
                 "N26"
             ],
-            "comment": "",
+            "comment": "N26 is a German fintech company that closed customer accounts without reason, including those of Ukrainian refugees [1], enabled money laundering [2][3], failed to protect users against cyber security vulverabilities [4][5], and opposed employees forming a union [6].",
             "sources": {
                 "1": "https://www.businessinsider.com/n26-bank-europe-customers-account-closures-access-savings-2022-4",
                 "2": "https://www.lefigaro.fr/societes/blanchiment-d-argent-la-banque-n26-condamnee-a-une-amende-de-4-25-millions-d-euros-en-allemagne-20210929",
@@ -27138,7 +27138,7 @@
                 "5": "failed to protect users against cyber security vulverabilities",
                 "6": "opposed employees forming a union"
             },
-            "score": null,
+            "score": 45,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/N26_logo_2019.svg",
             "siteUrl": "https://n26.com/en-eu",
