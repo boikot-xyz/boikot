@@ -27115,6 +27115,35 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Culina_Group",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Culina_Group_logo.png",
             "siteUrl": "https://www.culina.co.uk/"
+        },
+        "n26": {
+            "key": "n26",
+            "names": [
+                "N26"
+            ],
+            "comment": "",
+            "sources": {
+                "1": "https://www.businessinsider.com/n26-bank-europe-customers-account-closures-access-savings-2022-4",
+                "2": "https://www.lefigaro.fr/societes/blanchiment-d-argent-la-banque-n26-condamnee-a-une-amende-de-4-25-millions-d-euros-en-allemagne-20210929",
+                "3": "https://web.archive.org/web/20230802063426/https://www.reuters.com/world/europe/bank-italy-bans-online-german-bank-n26-taking-new-clients-2022-03-29/",
+                "4": "https://web.archive.org/web/20230627164935/https://www.businessinsider.de/gruenderszene/allgemein/n26-ccc-vincent-haupert-kundenservice/",
+                "5": "https://web.archive.org/web/20230424030720/https://www.ibtimes.co.uk/smartphone-bank-n26-not-safe-exposes-users-hacking-says-researcher-1598474/",
+                "6": "https://www.rnd.de/wirtschaft/onlinebank-n26-betriebsrat-streit-zwischen-belegschaft-und-unternehmensfuhrung-46CEZQ3XIBHZ3AFPTZJORMYI4U.html"
+            },
+            "sourceNotes": {
+                "1": "closed customer accounts without reason, including those of Ukrainian refugees",
+                "2": "enabled money laundering",
+                "3": "enabled money laundering",
+                "4": "failed to protect users against cyber security vulverabilities",
+                "5": "failed to protect users against cyber security vulverabilities",
+                "6": "opposed employees forming a union"
+            },
+            "score": null,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/N26_logo_2019.svg",
+            "siteUrl": "https://n26.com/en-eu",
+            "updatedAt": "2026-04-16T07:35:09.251Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/N26"
         }
     }
 }
