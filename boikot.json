@@ -27147,6 +27147,27 @@
             "siteUrl": "https://n26.com/en-eu",
             "updatedAt": "2026-04-16T07:35:09.251Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/N26"
+        },
+        "neutrogena": {
+            "key": "neutrogena",
+            "names": [
+                "Neutrogena",
+                "Neutrogena Corporation"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "kenvue"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Neutrogena_logo.svg",
+            "siteUrl": "http://www.neutrogena.com/",
+            "updatedAt": "2026-04-17T05:59:27.478Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Neutrogena"
         }
     }
 }
