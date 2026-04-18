@@ -27168,6 +27168,93 @@
             "siteUrl": "http://www.neutrogena.com/",
             "updatedAt": "2026-04-17T05:59:27.478Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Neutrogena"
+        },
+        "new-balance": {
+            "key": "new-balance",
+            "names": [
+                "New Balance",
+                "New Balance Athletics",
+                "New Balance Athletics, Inc.",
+                "New Balance Arch Support Company",
+                "New Balance Athletic Shoe Company"
+            ],
+            "comment": "New Balance is an American footwear company that has been accused of greenwashing [1], sending shoes to landfill [2], and selling footwear that caused injuries [3]. The brand has also faced criticism for poor working conditions and labor abuses in its supply chain [4], being targeted by BDS boycotts [5], its association with white supremacy [6][7], and receiving millions of dollars to produce shoes for the US military [8].",
+            "sources": {
+                "1": "https://www.business-humanrights.org/en/latest-news/france-ngo-files-complaint-against-adidas-new-blance-over-allegations-of-greenwashing/",
+                "2": "https://www.bbc.co.uk/news/uk-england-cumbria-64855222",
+                "3": "https://www.sgieurope.com/legal/new-balance-sued-for-alleged-faulty-shoe/111265.article",
+                "4": "https://web.archive.org/web/20150329071758/http://www.chinalaborwatch.org/newscast/129",
+                "5": "https://masjidalaqsa.com/boycott/new-balance-israel-bds",
+                "6": "https://zmj.unibo.it/article/download/13185/12850?inline=1",
+                "7": "https://www.entrepreneur.com/starting-a-business/new-balance-suffers-a-brand-mangling-whitewashing/285346",
+                "8": "https://web.archive.org/web/20150329071758/http://www.chinalaborwatch.org/newscast/129"
+            },
+            "sourceNotes": {
+                "1": "greenwashing",
+                "2": "sent shoes to landfill",
+                "3": "sold shoes that led to injury",
+                "4": "poor working conditions and labour abuses in supply chain",
+                "5": "target of BDS boycotts",
+                "6": "association with white supremacy",
+                "7": "association with white supremacy",
+                "8": "received several million dollars to produce shoes for the US military"
+            },
+            "tags": [
+                "sportswear",
+                "retail",
+                "clothing"
+            ],
+            "score": 30,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/New_Balance_logo.svg",
+            "siteUrl": "https://www.newbalance.com/",
+            "updatedAt": "2026-04-18T11:17:57.329Z",
+            "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Balance"
+        },
+        "brine": {
+            "key": "brine",
+            "names": [
+                "Brine"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear",
+                "retail",
+                "clothing"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "new-balance"
+            ],
+            "updatedAt": "2026-04-18T11:34:14.787Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Brine_(brand)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d4/Brinecompanylogo.png",
+            "siteUrl": "https://www.brine.com/"
+        },
+        "warrior-sports": {
+            "key": "warrior-sports",
+            "names": [
+                "Warrior Sports"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear",
+                "retail",
+                "clothing"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "new-balance"
+            ],
+            "updatedAt": "2026-04-18T11:34:15.468Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Warrior_Sports",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Warrior_Sports_logo.svg",
+            "siteUrl": "https://www.warrior.com/"
         }
     }
 }
