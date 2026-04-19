@@ -27255,6 +27255,27 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Warrior_Sports",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Warrior_Sports_logo.svg",
             "siteUrl": "https://www.warrior.com/"
+        },
+        "new-look": {
+            "key": "new-look",
+            "names": [
+                "New Look"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing"
+            ],
+            "score": null,
+            "ownedBy": [
+                "brait-se"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/New_Look_logo_2012.svg",
+            "siteUrl": "http://www.newlook.com/uk",
+            "updatedAt": "2026-04-19T07:50:16.834Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Look_(company)"
         }
     }
 }
