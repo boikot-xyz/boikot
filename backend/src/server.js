@@ -150,6 +150,7 @@ async function respond(req, res, body) {
             return;
         } 
     } catch(err) {
+        console.error(err);
         res.statusCode = 500;
         res.end(`{"error": "${err}"}`);
     }

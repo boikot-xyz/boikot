@@ -6882,7 +6882,7 @@
                 "任天堂株式会社",
                 "Nintendo Koppai"
             ],
-            "comment": "Nintendonis a Japanese video games company which has seen sexual misconduct and sexism against female employees [1][2], engaged in price fixing [3][4].",
+            "comment": "Nintendo is a Japanese video games company which has seen sexual misconduct and sexism against female employees [1][2], engaged in price fixing [3][4].",
             "sources": {
                 "1": "https://www.engadget.com/nintendo-investigates-sexual-misconduct-claims-194740757.html?guccounter=1",
                 "2": "https://arstechnica.com/gaming/2022/08/sweeping-report-alleges-inequity-sexual-harassment-at-nintendos-american-hq/",
@@ -27209,7 +27209,6 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/New_Balance_logo.svg",
             "siteUrl": "https://www.newbalance.com/",
             "updatedAt": "2026-04-18T11:17:57.329Z",
-            "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Balance"
         },
         "brine": {
@@ -27276,6 +27275,40 @@
             "siteUrl": "http://www.newlook.com/uk",
             "updatedAt": "2026-04-19T07:50:16.834Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Look_(company)"
+        },
+        "nordstrom": {
+            "key": "nordstrom",
+            "names": [
+                "Nordstrom",
+                "Nordstrom, Inc."
+            ],
+            "comment": "Nordstrom is an American retailer that has engaged in deceptive marketing [1] and price fixing [2]. It has violated labour laws [3], underpaid employees [4], employed racist and sexist hiring practices [5], and racially profiled customers [6].",
+            "sources": {
+                "1": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/class-action-alleges-nordstrom-racks-limited-time-sales-were-fabricated-and-perpetual/",
+                "2": "https://www.sfgate.com/bayarea/article/cosmetics-firms-plan-175-million-giveaway-free-2602169.php",
+                "3": "https://www.law360.com/articles/179872/calif-court-oks-nordstrom-s-9m-commissions-deal",
+                "4": "https://www.law360.com/articles/543617/nordstrom-strikes-7-65m-deal-in-sales-workers-wage-suit",
+                "5": "https://aflegal.org/press-release/america-first-legal-files-civil-rights-complaint-against-nordstrom-for-unlawful-racist-sexist-hiring-practices/",
+                "6": "https://www.yahoo.com/lifestyle/nordstrom-rack-apologizes-3-black-shoppers-wrongly-accused-shoplifting-185429841.html"
+            },
+            "sourceNotes": {
+                "1": "deceptive marketing",
+                "2": "engaged in price fixing",
+                "3": "violated labour laws",
+                "4": "underpaid employees",
+                "5": "racist and sexist hiring practices",
+                "6": "racially profiled customers"
+            },
+            "tags": [
+                "retail",
+                "clothing"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Nordstrom_Logo_2019.svg",
+            "siteUrl": "http://nordstrom.com/",
+            "updatedAt": "2026-04-18T11:34:12.110Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Nordstrom"
         }
     }
 }
