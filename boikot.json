@@ -27255,28 +27255,6 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Warrior_Sports_logo.svg",
             "siteUrl": "https://www.warrior.com/"
         },
-        "novartis": {
-            "key": "novartis",
-            "names": [
-                "Novartis",
-                "Novartis AG",
-                "Ciba-Geigy",
-                "Sandoz",
-                "NOVN"
-            ],
-            "comment": "",
-            "sources": {},
-            "sourceNotes": {},
-            "tags": [
-                "pharamceuticals"
-            ],
-            "score": null,
-            "ownedBy": [],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Novartis-Logo-2023.svg",
-            "siteUrl": "https://novartis.com/",
-            "updatedAt": "2026-04-21T12:10:07.151Z",
-            "wikipediaUrl": "https://en.wikipedia.org/wiki/Novartis"
-        },
         "new-look": {
             "key": "new-look",
             "names": [
@@ -27331,6 +27309,60 @@
             "siteUrl": "http://nordstrom.com/",
             "updatedAt": "2026-04-18T11:34:12.110Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Nordstrom"
+        },
+        "novartis": {
+            "key": "novartis",
+            "names": [
+                "Novartis",
+                "Novartis AG",
+                "Ciba-Geigy",
+                "Sandoz",
+                "NOVN",
+                "Novartis",
+                "Novartis AG",
+                "Ciba-Geigy",
+                "Sandoz",
+                "NOVN"
+            ],
+            "comment": "Novartis is a Swiss pharmaceutical company that has engaged in bribery of doctors to prescribe pills [1][2], committed bribery and fraud [3], and practiced anticompetitive monopolistic tactics [4]. The company has also harassed employees [5], discriminated against female employees [6], made false claims about drug safety and efficacy [7][8], falsified experimental data [9], stole patient cells without consent or compensation [10][11], and illegally promoted unapproved medicines for children [12].",
+            "sources": {
+                "1": "https://pharmaphorum.com/news/novartis-pays-678-million-to-settle-us-kickback-allegations",
+                "2": "https://www.financialregulationintl.com/regulation/the-greek-novartis-scandal--whistleblowers-legal-retaliation-and-the-erosion-of-the-rule-of-law-159535.htm",
+                "3": "https://www.justice.gov/usao-nj/pr/novartis-ag-and-subsidiaries-pay-345-million-resolve-foreign-corrupt-practices-act-cases",
+                "4": "https://www.yalejreg.com/bulletin/shaming-big-pharma/",
+                "5": "https://www.deccanchronicle.com/nation/current-affairs/100216/novartis-ex-staffer-alleges-harassment.html",
+                "6": "https://sanfordheisler.com/case/discrimination-harassment/novartis-pharmaceutical-gender-discrimination-class-action/",
+                "7": "https://www.thepharmaletter.com/pharma-news/novartis-to-pay-over-72-million-to-settle-false-claims-act-allegations-related-to-tobi-fda-warns-of-gleevec-and-altabax-promo",
+                "8": "https://www.nytimes.com/2010/10/01/health/policy/01novartis.html",
+                "9": "https://www.pharmamanufacturing.com/compliance/regulatory-guidance/article/11300653/how-novartis-data-manipulation-case-is-a-cautionary-tale-for-transparency",
+                "10": "https://www.cbsnews.com/news/novartis-henrietta-lacks-settlement-stolen-cells/",
+                "11": "https://www.reuters.com/legal/litigation/novartis-quietly-settles-henrietta-lacks-suit-familys-legal-push-gains-steam-2026-02-24/",
+                "12": "https://www.pintas.com/blog/novartis-sued-in-whistleblower-case-over-off-label-elidel-use/"
+            },
+            "sourceNotes": {
+                "1": "bribed doctors to prescibe pills",
+                "2": "bribed doctors to prescibe pills",
+                "3": "bribery and fraud",
+                "4": "anticompetetive monopolistic practices",
+                "5": "harassment of employees",
+                "6": "discriminated against female employees",
+                "7": "made false claims about the effectiveness and safety of its drugs",
+                "8": "made false claims about the effectiveness and safety of its drugs",
+                "9": "falsified experimental data",
+                "10": "stole cells from a patient that were used for testing without consent or compensation",
+                "11": "stole cells from a patient that were used for testing without consent or compensation",
+                "12": "illegally encouraged the use of medicines on children without FDA approval"
+            },
+            "tags": [
+                "pharamceuticals",
+                "pharamceuticals"
+            ],
+            "score": 38,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Novartis-Logo-2023.svg",
+            "siteUrl": "https://novartis.com/",
+            "updatedAt": "2026-04-21T12:10:07.151Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Novartis"
         }
     }
 }
