@@ -27255,6 +27255,28 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Warrior_Sports_logo.svg",
             "siteUrl": "https://www.warrior.com/"
         },
+        "novartis": {
+            "key": "novartis",
+            "names": [
+                "Novartis",
+                "Novartis AG",
+                "Ciba-Geigy",
+                "Sandoz",
+                "NOVN"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pharamceuticals"
+            ],
+            "score": null,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Novartis-Logo-2023.svg",
+            "siteUrl": "https://novartis.com/",
+            "updatedAt": "2026-04-21T12:10:07.151Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Novartis"
+        },
         "new-look": {
             "key": "new-look",
             "names": [
