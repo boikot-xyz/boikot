@@ -27363,6 +27363,28 @@
             "siteUrl": "https://novartis.com/",
             "updatedAt": "2026-04-21T12:10:07.151Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Novartis"
+        },
+        "o2": {
+            "key": "o2",
+            "names": [
+                "O2",
+                "Telefonica UK",
+                "Virgin Media O2"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "telecommunications"
+            ],
+            "score": null,
+            "ownedBy": [
+                "liberty-global",
+                "telefonica"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/O2_Logo_2024.svg",
+            "siteUrl": "https://o2.co.uk/",
+            "updatedAt": "2026-04-22T10:01:43.645Z"
         }
     }
 }
