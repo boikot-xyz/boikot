@@ -27407,6 +27407,26 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/6d/Olive_Garden_Logo.svg",
             "siteUrl": "http://www.olivegarden.com/",
             "updatedAt": "2026-04-23T07:09:16.297Z"
+        },
+        "oneplus": {
+            "key": "oneplus",
+            "names": [
+                "OnePlus"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "electronics"
+            ],
+            "score": null,
+            "ownedBy": [
+                "oppo"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/OP_LU_Reg_1L_RGB_red_copy-01.svg",
+            "siteUrl": "https://www.oneplus.com/",
+            "updatedAt": "2026-04-24T07:00:54.456Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/OnePlus"
         }
     }
 }
