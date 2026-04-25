@@ -27427,6 +27427,27 @@
             "siteUrl": "https://www.oneplus.com/",
             "updatedAt": "2026-04-24T07:00:54.456Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/OnePlus"
+        },
+        "opel": {
+            "key": "opel",
+            "names": [
+                "Opel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cars",
+                "emissions cheating"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "stellantis"
+            ],
+            "updatedAt": "2026-04-25T04:30:29.224Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Opel",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Opel_logo_2023.svg",
+            "siteUrl": "https://www.opel.com/"
         }
     }
 }
