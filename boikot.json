@@ -27428,6 +27428,51 @@
             "updatedAt": "2026-04-24T07:00:54.456Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/OnePlus"
         },
+        "orange": {
+            "key": "orange",
+            "names": [
+                "Orange",
+                "Orange Group",
+                "Orange S.A.",
+                "France Télécom S.A.",
+                "france télécom",
+                "ORA",
+                "ORAN"
+            ],
+            "comment": "",
+            "sources": {
+                "1": "https://www.reuters.com/article/france-telecom-idUSL711729320091007?pageNumber=1&virtualBrandChannel=11604",
+                "2": "https://www.theguardian.com/world/2009/sep/09/france-telecom-staff-suicides-phone",
+                "3": "https://www.nouvelobs.com/societe/social/20091210.OBS0287/france-telecom-la-souffrance-au-travail-est-etablie.html",
+                "4": "https://web.archive.org/web/20150722115802/http://www.01net.com/editorial/526962/orange-dement-brider-l-acces-au-site-megaupload-maj/",
+                "5": "https://web.archive.org/web/20200818042510/https://o.nouvelobs.com/high-tech/20091222.OBS1497/orange-vise-par-une-plainte-pour-publicite-mensongere.html#modal-msg",
+                "6": "https://web.archive.org/web/20190908230659/http://owni.fr/2011/03/03/ben-ali-les-compromission-dorange-en-tunisie/",
+                "7": "https://next.ink/brief_article/orange-condamnee-a-860-000-euros-pour-contrefacon-et-violation-de-la-licence-libre-gnu-gpl/",
+                "8": "https://www.april.org/violation-d-une-licence-libre-entr-ouvert-fonde-a-poursuivre-orange-pour-contrefacon",
+                "9": "https://www.zdnet.fr/actualites/orange-sfr-et-bouygues-telecom-condamnes-a-une-amende-record-de-534-millions-d-euros-39291618.htm",
+                "10": "https://www.cnil.fr/fr/publicites-inserees-entre-les-courriels-sanction-de-50-millions-deuros-orange"
+            },
+            "sourceNotes": {
+                "1": "poor working conditions leading to suicides",
+                "2": "poor working conditions leading to suicides",
+                "3": "poor working conditions leading to suicides",
+                "4": "restricted access to file sharing sites",
+                "5": "false advertising",
+                "6": "corruption",
+                "7": "violation of open access licences",
+                "8": "violation of open access licences",
+                "9": "anticompetetive monopoliatic practices",
+                "10": "customer privacy violations"
+            },
+            "tags": [
+                "telecommunications"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Orange_logo.svg",
+            "siteUrl": "https://orange.com/",
+            "updatedAt": "2026-04-27T16:27:42.088Z"
+        },
         "opel": {
             "key": "opel",
             "names": [
@@ -27448,6 +27493,26 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Opel",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Opel_logo_2023.svg",
             "siteUrl": "https://www.opel.com/"
+        },
+        "globecast": {
+            "key": "globecast",
+            "names": [
+                "Globecast"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "telecommunications"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "orange"
+            ],
+            "updatedAt": "2026-04-27T16:40:37.742Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Globecast",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Globecast_building_entrance.jpg",
+            "siteUrl": "https://www.globecast.com/"
         }
     }
 }
