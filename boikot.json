@@ -27439,30 +27439,30 @@
                 "ORA",
                 "ORAN"
             ],
-            "comment": "",
+            "comment": "Orange is a French telecommunications company that has been accused of restricting access to file sharing sites [1], false advertising [2], and violations of open access licences [3][4]. The company has also faced allegations of anticompetitive monopolistic practices [5], customer privacy violations [6], corruption [7], and poor working conditions leading to suicides [8][9][10].",
             "sources": {
-                "1": "https://www.reuters.com/article/france-telecom-idUSL711729320091007?pageNumber=1&virtualBrandChannel=11604",
-                "2": "https://www.theguardian.com/world/2009/sep/09/france-telecom-staff-suicides-phone",
-                "3": "https://www.nouvelobs.com/societe/social/20091210.OBS0287/france-telecom-la-souffrance-au-travail-est-etablie.html",
-                "4": "https://web.archive.org/web/20150722115802/http://www.01net.com/editorial/526962/orange-dement-brider-l-acces-au-site-megaupload-maj/",
-                "5": "https://web.archive.org/web/20200818042510/https://o.nouvelobs.com/high-tech/20091222.OBS1497/orange-vise-par-une-plainte-pour-publicite-mensongere.html#modal-msg",
-                "6": "https://web.archive.org/web/20190908230659/http://owni.fr/2011/03/03/ben-ali-les-compromission-dorange-en-tunisie/",
-                "7": "https://next.ink/brief_article/orange-condamnee-a-860-000-euros-pour-contrefacon-et-violation-de-la-licence-libre-gnu-gpl/",
-                "8": "https://www.april.org/violation-d-une-licence-libre-entr-ouvert-fonde-a-poursuivre-orange-pour-contrefacon",
-                "9": "https://www.zdnet.fr/actualites/orange-sfr-et-bouygues-telecom-condamnes-a-une-amende-record-de-534-millions-d-euros-39291618.htm",
-                "10": "https://www.cnil.fr/fr/publicites-inserees-entre-les-courriels-sanction-de-50-millions-deuros-orange"
+                "1": "https://web.archive.org/web/20150722115802/http://www.01net.com/editorial/526962/orange-dement-brider-l-acces-au-site-megaupload-maj/",
+                "2": "https://web.archive.org/web/20200818042510/https://o.nouvelobs.com/high-tech/20091222.OBS1497/orange-vise-par-une-plainte-pour-publicite-mensongere.html#modal-msg",
+                "3": "https://next.ink/brief_article/orange-condamnee-a-860-000-euros-pour-contrefacon-et-violation-de-la-licence-libre-gnu-gpl/",
+                "4": "https://www.april.org/violation-d-une-licence-libre-entr-ouvert-fonde-a-poursuivre-orange-pour-contrefacon",
+                "5": "https://www.zdnet.fr/actualites/orange-sfr-et-bouygues-telecom-condamnes-a-une-amende-record-de-534-millions-d-euros-39291618.htm",
+                "6": "https://www.cnil.fr/fr/publicites-inserees-entre-les-courriels-sanction-de-50-millions-deuros-orange",
+                "7": "https://web.archive.org/web/20190908230659/http://owni.fr/2011/03/03/ben-ali-les-compromission-dorange-en-tunisie/",
+                "8": "https://www.reuters.com/article/france-telecom-idUSL711729320091007?pageNumber=1&virtualBrandChannel=11604",
+                "9": "https://www.theguardian.com/world/2009/sep/09/france-telecom-staff-suicides-phone",
+                "10": "https://www.nouvelobs.com/societe/social/20091210.OBS0287/france-telecom-la-souffrance-au-travail-est-etablie.html"
             },
             "sourceNotes": {
-                "1": "poor working conditions leading to suicides",
-                "2": "poor working conditions leading to suicides",
-                "3": "poor working conditions leading to suicides",
-                "4": "restricted access to file sharing sites",
-                "5": "false advertising",
-                "6": "corruption",
-                "7": "violation of open access licences",
-                "8": "violation of open access licences",
-                "9": "anticompetetive monopoliatic practices",
-                "10": "customer privacy violations"
+                "1": "restricted access to file sharing sites",
+                "2": "false advertising",
+                "3": "violation of open access licences",
+                "4": "violation of open access licences",
+                "5": "anticompetetive monopoliatic practices",
+                "6": "customer privacy violations",
+                "7": "corruption",
+                "8": "poor working conditions leading to suicides",
+                "9": "poor working conditions leading to suicides",
+                "10": "poor working conditions leading to suicides"
             },
             "tags": [
                 "telecommunications"
@@ -27513,6 +27513,43 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Globecast",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Globecast_building_entrance.jpg",
             "siteUrl": "https://www.globecast.com/"
+        },
+        "openai": {
+            "key": "openai",
+            "names": [
+                "OpenAI"
+            ],
+            "comment": "OpenAI is a United States-based artificial intelligence company that switched from a non-profit to a for-profit structure [1], has faced copyright infringement allegations [2], and has been accused of deprioritising AI safety [3]. The company has used legal threats to silence critics [4], its products have been linked to mental health episodes and suicide [5][6][7], and it works closely with the US military [8].",
+            "sources": {
+                "1": "https://web.archive.org/web/20230104154138/https://techcrunch.com/2019/03/11/openai-shifts-from-nonprofit-to-capped-profit-to-attract-capital/",
+                "2": "https://web.archive.org/web/20241207180154/https://fortune.com/2024/10/24/openai-miles-brundage-suchir-balaji-ai-safety-copyright-sam-altman-chatgpt/",
+                "3": "https://web.archive.org/web/20240829051946/https://fortune.com/2024/08/26/openai-agi-safety-researchers-exodus/",
+                "4": "https://www.nbcnews.com/tech/tech-news/openai-chatgpt-accused-using-subpoenas-silence-nonprofits-rcna237348",
+                "5": "https://apnews.com/article/openai-chatgpt-lawsuit-suicide-56e63e5538602ea39116f1904bf7cdc3",
+                "6": "https://www.bbc.com/news/articles/cgerwp7rdlvo",
+                "7": "https://www.yahoo.com/news/articles/openai-t-pull-plug-family-024400947.html",
+                "8": "https://www.bbc.co.uk/news/articles/c3rz1nd0egro"
+            },
+            "sourceNotes": {
+                "1": "switched from a non-profit to for-profit company",
+                "2": "copyright infringement",
+                "3": "deprioritised AI safety",
+                "4": "used legal threats to silence critics",
+                "5": "products involved in mental health episodes and suicide",
+                "6": "products involved in mental health episodes and suicide",
+                "7": "products involved in mental health episodes and suicide",
+                "8": "working closely with US military"
+            },
+            "tags": [
+                "tech",
+                "ai"
+            ],
+            "score": 18,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/OpenAI_logo_2025_%28wordmark%29.svg",
+            "siteUrl": "https://openai.com/",
+            "updatedAt": "2026-04-26T07:56:01.228Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/OpenAI"
         }
     }
 }
