@@ -27550,6 +27550,27 @@
             "siteUrl": "https://openai.com/",
             "updatedAt": "2026-04-26T07:56:01.228Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/OpenAI"
+        },
+        "outback-steakhouse": {
+            "key": "outback-steakhouse",
+            "names": [
+                "Outback Steakhouse",
+                "Outback"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurant"
+            ],
+            "score": null,
+            "ownedBy": [
+                "bloomin-brands"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cf/Outback_Steakhouse.svg",
+            "siteUrl": "http://www.outback.com/",
+            "updatedAt": "2026-04-27T19:17:24.683Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Outback_Steakhouse"
         }
     }
 }
