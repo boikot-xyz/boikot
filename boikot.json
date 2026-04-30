@@ -27571,6 +27571,125 @@
             "siteUrl": "http://www.outback.com/",
             "updatedAt": "2026-04-27T19:17:24.683Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Outback_Steakhouse"
+        },
+        "panasonic": {
+            "key": "panasonic",
+            "names": [
+                "Panasonic",
+                "Panasonic Holdings Corporation",
+                "Panasonic Corporation",
+                "パナソニック ホールディングス株式会社",
+                "Matsushita Electric Manufacturing Works",
+                "Matsushita Electric Industrial Co., Ltd."
+            ],
+            "comment": "Panasonic is a Japanese electronics company that has been implicated in corruption [1], fraud [2], and multiple price‑fixing cases [3][4][5][6][9]. It has also faced labor rights abuses in its supply chain [7][8][9], poor working conditions in its operations at Tesla’s gigafactory [10], and allegations of poisoning workers in battery factories [11].",
+            "sources": {
+                "1": "https://www.bbc.com/news/business-43956968",
+                "2": "https://web.archive.org/web/20180501015050/https://www.sec.gov/news/press-release/2018-73",
+                "3": "https://www.law360.com/articles/1252492",
+                "4": "https://www.justice.gov/archives/opa/pr/panasonic-and-its-subsidiary-sanyo-agree-plead-guilty-separate-price-fixing-conspiracies",
+                "5": "https://ec.europa.eu/commission/presscorner/detail/en/ip_12_1317",
+                "6": "https://ec.europa.eu/commission/presscorner/detail/en/ip_16_4356",
+                "7": "https://www.business-humanrights.org/en/latest-news/panasonic-response-to-allegations-of-labour-rights-abuse-of-bangladeshi-workers-at-malaysian-supplier/",
+                "8": "https://www.theguardian.com/global-development/2017/may/09/panasonic-samsung-alleged-supply-chain-labour-abuses-reforms-fall-short-malaysia",
+                "9": "https://web.archive.org/web/20260429072920/https://www.indybay.org/uploads/2016/01/25/is_panasonic_the_most_unethical_company_in_tech_.pdf",
+                "10": "https://www.businessinsider.com/panasonic-battery-cell-operations-tesla-gigafactory-chaotic-2019-4",
+                "11": "https://pulitzercenter.org/stories/china-powerless-fight-poison"
+            },
+            "sourceNotes": {
+                "1": "corruption",
+                "2": "fraud",
+                "3": "several cases of price fixing",
+                "4": "several cases of price fixing",
+                "5": "several cases of price fixing",
+                "6": "several cases of price fixing",
+                "7": "labour rights abuses in supply chain",
+                "8": "labour rights abuses in supply chain",
+                "9": "price fixing, labour abuses and bribery",
+                "10": "poor working conditions in tesla giga-factory operation",
+                "11": "poisioning of workers in battery factories"
+            },
+            "tags": [
+                "electronics"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Panasonic_Group_logo.svg",
+            "siteUrl": "https://holdings.panasonic/",
+            "updatedAt": "2026-04-27T20:31:14.373Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Panasonic"
+        },
+        "panda-express": {
+            "key": "panda-express",
+            "names": [
+                "Panda Express"
+            ],
+            "comment": "Panda Express is a U.S. restaurant chain that has failed to implement sufficient cybersecurity leading to a customer data breach [1], overcharged customers [2][3], filed spurious lawsuits to suppress small businesses [4], underpaid employees [5][6], illegally handled hazardous materials and failed to provide employee safety training [7][8], engaged in racial discrimination against employees [9][10], and subjected employees to sexual and psychological abuse [11][12][13]. Additionally, the chain has been found to serve customers dangerous metal items in their food [14].",
+            "sources": {
+                "1": "https://www.the-sun.com/money/16162430/panda-express-data-breach-settlement-claim-form-deadline/",
+                "2": "https://eu.usatoday.com/story/money/food/2023/08/30/panda-express-class-action-lawsuit-settlement/70722361007/",
+                "3": "https://www.sacbee.com/news/california/article278869299.html",
+                "4": "https://eu.azcentral.com/story/entertainment/dining/2024/01/26/panda-express-phoenix-restaurant-trash-panda-vegan/72283247007/",
+                "5": "https://web.archive.org/web/20230924230840/https://www.nyc.gov/site/dca/media/pr081623-dcwp-settles-with-three-major-restaurant-chains.page",
+                "6": "https://www.law360.com/articles/639383/panda-express-to-pay-up-to-3m-for-managers-ot-case",
+                "7": "https://www.foxla.com/news/panda-express-parent-company-ordered-pay-over-1m-violating-california-safety-laws",
+                "8": "https://www.latimes.com/business/story/2025-12-03/panda-express-pays-fine-for-failing-to-train-employees-on-handling-hazardous-materials",
+                "9": "https://www.eeoc.gov/newsroom/panda-express-sued-eeoc-national-origin-bias",
+                "10": "https://www.courthousenews.com/panda-express-pays-600000-settle-labor-claims/",
+                "11": "https://www.hcamag.com/us/specialization/employment-law/panda-express-allegedly-kept-accused-harasser-fired-women-who-complained/569375",
+                "12": "https://www.lawcommentary.com/articles/panda-express-employees-forced-to-strip-in-trust-building-exercise-lawsuit-says",
+                "13": "https://www.cbsnews.com/losangeles/news/panda-express-harassment-battery-lawsuit/",
+                "14": "https://www.unilad.com/news/panda-express-lawsuit-miriam-yocupicio-metal-wire-in-food-922623-20240522"
+            },
+            "sourceNotes": {
+                "1": "insufficient cybersecurity leading to customer data breach",
+                "2": "overcharged customers",
+                "3": "overcharged customers",
+                "4": "filed spurious lawsuits to supress small businesses",
+                "5": "underpaid employees",
+                "6": "underpaid employees",
+                "7": "illegal handling of hazardous materials and lack of employee safety training",
+                "8": "illegal handling of hazardous materials and lack of employee safety training",
+                "9": "racial discrimination towards employees",
+                "10": "racial discrimination towards employees",
+                "11": "sexual and psychological abuse of employees",
+                "12": "sexual and psychological abuse of employees",
+                "13": "sexual and psychological abuse of employees",
+                "14": "dangerous metal items in food served to customers"
+            },
+            "tags": [
+                "food",
+                "restaurant",
+                "fast food"
+            ],
+            "score": 19,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/85/Panda_Express_logo.svg",
+            "siteUrl": "https://www.pandaexpress.com/",
+            "updatedAt": "2026-04-30T06:41:13.556Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Panda_Express"
+        },
+        "panda-inn": {
+            "key": "panda-inn",
+            "names": [
+                "Panda Inn"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "restaurant",
+                "fast food"
+            ],
+            "score": 19,
+            "ownedBy": [
+                "panda-express"
+            ],
+            "updatedAt": "2026-04-30T07:30:13.249Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Panda_Inn",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3a/Pandainntopnav.png",
+            "siteUrl": "https://www.pandainn.com/"
         }
     }
 }
