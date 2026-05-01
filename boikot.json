@@ -27690,6 +27690,37 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Panda_Inn",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3a/Pandainntopnav.png",
             "siteUrl": "https://www.pandainn.com/"
+        },
+        "pandora": {
+            "key": "pandora",
+            "names": [
+                "Pandora",
+                "Pandora A/S",
+                "PANDORA",
+                "PNDORA"
+            ],
+            "comment": "Pandora is a Danish jewelry company that has faced a breach of customer data [1] and violations of consumer law [2]. It has historically profited from human rights abuses in its gold supply chain [3][4].",
+            "sources": {
+                "1": "https://www.mirror.co.uk/money/pandora-customers-contacted-company-after-35683215",
+                "2": "https://www.jewellermagazine.com/Article/8221/Pandora-admits-it-may-have-broken-consumer-law",
+                "3": "https://www.hrw.org/report/2018/02/08/hidden-cost-jewelry/human-rights-supply-chains-and-responsibility-jewelry",
+                "4": "https://www.ft.com/content/9a9355a4-0cc3-11e8-8eb7-42f857ea9f09?syn-25a6b1a6=1"
+            },
+            "sourceNotes": {
+                "1": "databreach of customer information",
+                "2": "breach of consumer law",
+                "3": "historically profited from human rights abuses in gold supply chain",
+                "4": "historically profited from human rights abuses in gold supply chain"
+            },
+            "tags": [
+                "jewellery"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Pandora_logo_2025.svg",
+            "siteUrl": "http://pandoragroup.com/",
+            "updatedAt": "2026-05-01T11:06:39.019Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pandora_(jewelry)"
         }
     }
 }
