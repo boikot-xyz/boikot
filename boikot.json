@@ -27721,6 +27721,39 @@
             "siteUrl": "http://pandoragroup.com/",
             "updatedAt": "2026-05-01T11:06:39.019Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Pandora_(jewelry)"
+        },
+        "patagonia": {
+            "key": "patagonia",
+            "names": [
+                "Patagonia",
+                "Patagonia, Inc."
+            ],
+            "comment": "Patagonia is an American outdoor apparel company that has been accused of worker abuse in its supply chain, including using the same factories as fast‑fashion brands [1][2], and animal abuse in its supply chain [3]. The company has engaged in questionable sustainability practices [4] and rates itself low on climate performance [5].",
+            "sources": {
+                "1": "https://www.vogue.com/article/what-happens-after-a-brand-is-called-out-for-worker-exploitation-patagonia",
+                "2": "https://humantraffickingsearch.org/resource/sustainable-clothing-brand-patagonia-manufactures-in-the-same-factories-as-fast-fashion-textile-workers-are-being-exploited/",
+                "3": "https://www.peta.org/news/peta-responds-patagonias-lack-concern-new-sheep-cruelty-expose/",
+                "4": "https://newrepublic.com/article/167780/patagonia-wont-save-world-without-addressing-prior-failures",
+                "5": "https://thefifthestate.com.au/business/investment-deals/nothing-we-do-is-sustainable-patagonia-rates-itself-very-low-on-climate-performance/"
+            },
+            "sourceNotes": {
+                "1": "worker abuse in supply chain",
+                "2": "worker abuse in supply chain, using the same factories as fast-fashion",
+                "3": "animal abuse in supply chain",
+                "4": "engaged in questionable sustainability practices",
+                "5": "rates itself low on climate performance"
+            },
+            "tags": [
+                "sportswear",
+                "clothing",
+                "retail"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Patagonia_%28Unternehmen%29_logo.svg",
+            "siteUrl": "http://patagonia.com/",
+            "updatedAt": "2026-05-02T07:42:03.746Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Patagonia,_Inc."
         }
     }
 }
