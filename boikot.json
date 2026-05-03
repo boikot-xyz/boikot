@@ -27754,6 +27754,58 @@
             "siteUrl": "http://patagonia.com/",
             "updatedAt": "2026-05-02T07:42:03.746Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Patagonia,_Inc."
+        },
+        "paypal": {
+            "key": "paypal",
+            "names": [
+                "Paypal",
+                "PayPal Holdings, Inc.",
+                "Confinity",
+                "PYPL"
+            ],
+            "comment": "Paypal is an American company that has engaged in anticonsumer practices [1], deceptive practices [2], and inadequate anti‑fraud systems [3]. It has stolen users' funds [4][5], blocked the accounts of political activists—a practice that has supported the Russian regime [6][7][8][9][10][11], fined users promoting misinformation [12][13], and suspended journalists' payments over coverage of Syrian families [14].",
+            "sources": {
+                "1": "https://web.archive.org/web/20060715192615/http://pub.bna.com/eclr/021227.htm",
+                "2": "https://www.bbc.co.uk/news/technology-32810280",
+                "3": "https://www.bbc.co.uk/news/articles/cj6y42jggdyo",
+                "4": "https://arstechnica.com/tech-policy/2022/01/paypal-stole-users-money-after-freezing-seizing-funds-lawsuit-alleges/",
+                "5": "https://www.classaction.org/media/evans-et-al-v-paypal-inc.pdf",
+                "6": "https://web.archive.org/web/20150801233235/https://globalvoicesonline.org/2015/05/15/paypal-blocks-donations-for-printing-boris-nemtsovs-ukraine-war-report/",
+                "7": "https://web.archive.org/web/20140807001924/http://blogs.ft.com/beyond-brics/2014/05/30/russian-campaigning-website-snared-in-internet-controls/",
+                "8": "https://web.archive.org/web/20170422141625/https://www.theguardian.com/world/2015/apr/21/iranian-human-rights-group-account-blocked-paypal-sanctions",
+                "9": "https://web.archive.org/web/20150520204705/http://www.themoscowtimes.com/news/article/paypal-blocks-russian-account-linked-to-nemtsov-report-on-ukraine/520809.html",
+                "10": "https://web.archive.org/web/20170701161416/http://www.economist.com/news/europe/21651130-posthumously-completed-report-details-russias-involvement-war-ukraine-boris-nemtsovs",
+                "11": "https://web.archive.org/web/20150603011352/https://freedomhouse.org/article/paypal-blocks-donations-report-russian-actions-ukraine",
+                "12": "https://web.archive.org/web/20221008232157/https://www.nationalreview.com/news/new-paypal-policy-permits-company-to-fine-users-2500-for-misinformation/",
+                "13": "https://web.archive.org/web/20221008232157/https://www.nationalreview.com/news/new-paypal-policy-permits-company-to-fine-users-2500-for-misinformation/",
+                "14": "https://web.archive.org/web/20200804143748/https://www.cbc.ca/news/canada/manitoba/paypal-freezes-flin-flon-newspaper-syrian-refugees-1.3977292"
+            },
+            "sourceNotes": {
+                "1": "anticonsumer practices",
+                "2": "deceptive practices",
+                "3": "inadequate anti-fraud systems",
+                "4": "stole users' funds",
+                "5": "stole users' funds",
+                "6": "blocked the accounts of political activists",
+                "7": "blocked the accounts of political activists",
+                "8": "blocked the accounts of political activists",
+                "9": "blocked the accounts of political activists",
+                "10": "supported the russian regime by blocking the accounts of political activists",
+                "11": "supported the russian regime by blocking the accounts of political activists",
+                "12": "stated it would fine users promoting misinformation",
+                "13": "stated it would fine users promoting misinformation",
+                "14": "suspended journalists' payments over coverage of syrian families"
+            },
+            "tags": [
+                "finance",
+                "tech"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/PayPal_2024.svg",
+            "siteUrl": "http://paypal.com/",
+            "updatedAt": "2026-05-03T05:40:54.962Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/PayPal"
         }
     }
 }
