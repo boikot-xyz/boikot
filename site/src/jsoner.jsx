@@ -284,7 +284,7 @@ function SourceRow({ state, sourceKey, setSource, setSourceNote, setDragging, re
             style={{ textOverflow: "ellipsis", minWidth: "5rem", borderRadius: "0 1rem 1rem 0", borderLeft: "1px solid #fff4" }}
             onChange={setSourceNote(key)}
             onDrop={e => e.preventDefault()}
-            onFocus={() => setFocus("note")}
+            onFocus={e => setFocus("note") + e.target.select()}
             onBlur={() => setFocus(null)} />
         <Icon i="grip"
             style={{ opacity: 0.32, justifySelf: "end", userSelect: "none", padding: "0.8rem 0 0.6rem 1rem", height: "100%" }}
