@@ -27807,6 +27807,35 @@
             "siteUrl": "http://paypal.com/",
             "updatedAt": "2026-05-03T05:40:54.962Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/PayPal"
+        },
+        "peacocks": {
+            "key": "peacocks",
+            "names": [
+                "Peacocks",
+                "Anglo Global Property Limited",
+                "Green Spark Holdings Limited"
+            ],
+            "comment": "Peacocks is a UK-based clothing retailer that has failed to pay suppliers in Bangladesh [1] and failed to properly consult before making 2000 staff redundant [2][3].",
+            "sources": {
+                "1": "https://textiletoday.com.bd/british-clothing-brand-peacocks-faces-temporary-embargo-bangladesh",
+                "2": "https://www.retailgazette.co.uk/blog/2022/03/peacocks-ex-staff-win-legal-redundancy-battle/",
+                "3": "https://businessmondays.co.uk/redundant-peacocks-staff-to-launch-legal-battle-against-budget-retailer/"
+            },
+            "sourceNotes": {
+                "1": "failed to pay suppliers in  bangladesh",
+                "2": "failed to properly consult before making 2000 staff redundant",
+                "3": "failed to properly consult before making 2000 staff redundant"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 46,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/6d/Peacockslogo.png/250px-Peacockslogo.png",
+            "siteUrl": "https://www.peacocks.co.uk/",
+            "updatedAt": "2026-05-03T15:18:32.934Z",
+            "wikipediaUrl": "https://www.peacocks.co.uk/about-us.html"
         }
     }
 }
