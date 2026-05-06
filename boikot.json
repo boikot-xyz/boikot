@@ -27836,6 +27836,50 @@
             "siteUrl": "https://www.peacocks.co.uk/",
             "updatedAt": "2026-05-03T15:18:32.934Z",
             "wikipediaUrl": "https://www.peacocks.co.uk/about-us.html"
+        },
+        "peet's-coffee": {
+            "key": "peet's-coffee",
+            "names": [
+                "Peet's Coffee"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "coffee"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "dr-pepper"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Peet%27s_Coffee_logo.svg",
+            "siteUrl": "http://www.peets.com/",
+            "updatedAt": "2026-05-03T15:18:32.934Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Peet%27s_Coffee"
+        },
+        "petco": {
+            "key": "petco",
+            "names": [
+                "Petco",
+                "Petco Health and Wellness Company, Inc.",
+                "WOOF"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pets",
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "cvc-capital-partners",
+                "cpp-investments"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Petco_Logo.svg",
+            "siteUrl": "https://petco.com/",
+            "updatedAt": "2026-05-03T15:18:32.934Z",
+            "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed"
         }
     }
 }
