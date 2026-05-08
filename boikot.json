@@ -27880,6 +27880,61 @@
             "siteUrl": "https://petco.com/",
             "updatedAt": "2026-05-03T15:18:32.934Z",
             "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed"
+        },
+        "pets-at-home": {
+            "key": "pets-at-home",
+            "names": [
+                "Pets at Home",
+                "Pets at Home Group",
+                "Pets at Home Group PLC",
+                "Pets",
+                "PETS"
+            ],
+            "comment": "Pets at Home is a UK pet retail chain that has faced been accused of discriminating against disabled staff [1], discriminating against staff and unfair dismissal [2], and keeping animals in inhumane conditions [3][4][5].",
+            "sources": {
+                "1": "https://assets.publishing.service.gov.uk/media/5cb491fbe5274a4d0a14b502/Mr_G_Ramsay_v_Pets_At_Home_Limited_-_2424515.2017_-_Hearing_-_10.4.19.pdf",
+                "2": "https://assets.publishing.service.gov.uk/media/631205d6d3bf7f4cb4fac419/Mr_M_Baller_v_Vets_Direct_Ltd_2305245-2020_Judgment_18.08.2022.pdf",
+                "3": "https://web.archive.org/web/20131020195750/http://www.petproductmarketing.co.uk/content.php?sid=586",
+                "4": "https://doglistener.co.uk/pets-home-stores-exposed-poor-animal-management/",
+                "5": "https://ghostarchive.org/varchive/youtube/20211215/YGTy9YsO1qA"
+            },
+            "sourceNotes": {
+                "1": "discrimination against disabled staff",
+                "2": "discrimination against staff and unfair dismissal",
+                "3": "animals kept in inhumane conditions",
+                "4": "animals kept in inhumane conditions",
+                "5": "animals kept in inhumane conditions"
+            },
+            "tags": [
+                "pets",
+                "retail"
+            ],
+            "score": 30,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/PetsAtHome.svg",
+            "siteUrl": "http://www.petsathome.com/",
+            "updatedAt": "2026-05-07T17:46:48.975Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pets_at_Home"
+        },
+        "vets-for-pets": {
+            "key": "vets-for-pets",
+            "names": [
+                "Vets for Pets"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pets",
+                "retail"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "pets-at-home"
+            ],
+            "logoUrl": "https://manchesterfort.co.uk/wp-content/uploads/2025/06/Vets-for-Pets-logo-1-1-150x150.jpg",
+            "siteUrl": "https://www.vets4pets.com/",
+            "updatedAt": "2026-05-08T07:31:45.985Z"
         }
     }
 }
