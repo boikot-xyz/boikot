@@ -27935,6 +27935,329 @@
             "logoUrl": "https://manchesterfort.co.uk/wp-content/uploads/2025/06/Vets-for-Pets-logo-1-1-150x150.jpg",
             "siteUrl": "https://www.vets4pets.com/",
             "updatedAt": "2026-05-08T07:31:45.985Z"
+        },
+        "petsmart": {
+            "key": "petsmart",
+            "names": [
+                "Petsmart"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pets",
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "bc-partners",
+                "apollo-global-management"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/PetSmart.svg",
+            "siteUrl": "http://www.petsmart.com/",
+            "updatedAt": "2026-05-08T21:13:36.033Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/PetSmart"
+        },
+        "pfizer": {
+            "key": "pfizer",
+            "names": [
+                "Pfizer",
+                "Pfizer Inc.",
+                "Charles Pfizer & Company",
+                "PFE"
+            ],
+            "comment": "Pfizer is a United States pharmaceutical company that has engaged in intense and unethical marketing of medications to doctors [1], illegal off‑label promotion of gabapentin [2], neurontin [3], and arthritis drug Bextra [4][5][6], bribed doctors to prescribe its drugs [7][8][9], spent millions lobbying politicians [10], evaded taxes [11], overcharged the NHS for medicines [12][13], and bullied Latin American countries into unfavorable COVID‑vaccine deals [14]. It has also sold dangerous products, including an anti‑smoking drug linked to more than 20 suicides [15], a defective heart valve that killed hundreds of patients [16][17], and conducted lethal trials on Nigerian children that killed 50 [18][19][20], while firing an employee who sued for workplace injury [21], and causing a plant explosion that injured five people [22].",
+            "sources": {
+                "1": "https://nymag.com/nymetro/health/features/3122/",
+                "2": "https://doi.org/10.7326%2F0003-4819-145-4-200608150-00008",
+                "3": "https://openclassactions.substack.com/p/the-325-million-neurontin-gabapentin",
+                "4": "https://web.archive.org/web/20220512181155/https://www.justice.gov/opa/pr/justice-department-announces-largest-health-care-fraud-settlement-its-history",
+                "5": "https://en.wikipedia.org/wiki/Pfizer#cite_note-Settle-181",
+                "6": "https://web.archive.org/web/20110715112330/http://oig.hhs.gov/fraud/cia/agreements/pfizer_inc.pdf",
+                "7": "https://www.cbsnews.com/news/blue-cross-names-and-shames-pfizer-execs-linked-to-massages-for-prescriptions-push/",
+                "8": "https://www.bizjournals.com/austin/stories/2010/06/07/daily52.html",
+                "9": "https://www.fiercepharma.com/pharma/bcbs-names-pfizer-managers-kickback-suit",
+                "10": "https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2025&id=D000000138&name=Pfizer+Inc",
+                "11": "https://www.oxfam.org/en/research/prescription-poverty",
+                "12": "https://www.gov.uk/government/news/70-million-in-fines-for-pharma-firms-that-overcharged-nhs",
+                "13": "https://www.bloomberg.com/news/articles/2022-07-21/pfizer-flynn-fined-70-million-for-unfair-epilepsy-drug-prices",
+                "14": "https://www.aljazeera.com/news/2021/3/11/investigation-pfizer-bullied-latin-american-nations",
+                "15": "https://www.theguardian.com/business/2017/sep/15/his-death-still-hurts-the-pfizer-anti-smoking-drug-ruled-to-have-contributed-to-suicide",
+                "16": "https://www.nytimes.com/1992/01/25/us/lawsuit-settled-over-heart-valve-implicated-in-about-300-deaths.html",
+                "17": "https://www.latimes.com/archives/la-xpm-1992-08-20-mn-6381-story.html",
+                "18": "https://www.academia.edu/39569927",
+                "19": "http://news.bbc.co.uk/2/hi/africa/6768799.stm",
+                "20": "https://www.washingtonpost.com/wp-dyn/content/article/2006/05/06/AR2006050601338.html",
+                "21": "https://www.courant.com/news/connecticut/hc-xpm-2010-03-14-hc-pfizer-virus-lawsuit-0314-artmar14-story.html",
+                "22": "https://www.irishtimes.com/news/five-injured-in-chemical-blast-at-pfizer-plant-1.427581"
+            },
+            "sourceNotes": {
+                "1": "intense and unethical marketing of medications to doctors",
+                "2": "illegal marketing of gabapentin medicine for off-label uses",
+                "3": "illegal marketing of neurontin medicine for off-label uses",
+                "4": "illegal marketing of  arthritis medicine Bextra",
+                "5": "illegal marketing of  arthritis medicine Bextra",
+                "6": "illegal marketing of  arthritis medicine Bextra",
+                "7": "illegally bribed doctors for prescribing their drugs",
+                "8": "illegally bribed doctors for prescribing their drugs",
+                "9": "illegally bribed doctors for prescribing their drugs",
+                "10": "spends several million dollars each year lobbying politicians",
+                "11": "tax evasion",
+                "12": "overcharged NHS for medicines",
+                "13": "overcharged NHS for medicines",
+                "14": "bullying and excessive financial pressure against latin american countries in negotations for covid vaccines",
+                "15": "sold anti-smoking medication that contributed to over 20 suicides",
+                "16": "sold defective heart valve that killed hundreds of patients",
+                "17": "sold defective heart valve that killed hundreds of patients",
+                "18": "ran dangerous drug trials on nigerian children, killing 50 children",
+                "19": "ran dangerous drug trials on nigerian children, killing 50 children",
+                "20": "ran dangerous drug trials on nigerian children, killing 50 children",
+                "21": "fired an employee who sued pfizer for injury at work",
+                "22": "explosion at pfizer plant injured 5 people"
+            },
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": 3,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Pfizer_%282021%29.svg",
+            "siteUrl": "https://www.pfizer.com/",
+            "updatedAt": "2026-05-08T21:13:36.033Z",
+            "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pfizer"
+        },
+        "warner-lambert": {
+            "key": "warner-lambert",
+            "names": [
+                "Warner–Lambert"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": 3,
+            "ownedBy": [
+                "pfizer"
+            ],
+            "updatedAt": "2026-05-09T11:42:57.934Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Warner%E2%80%93Lambert"
+        },
+        "searle": {
+            "key": "searle",
+            "names": [
+                "Searle"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": 3,
+            "ownedBy": [
+                "pfizer"
+            ],
+            "updatedAt": "2026-05-09T11:42:58.138Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/G.D._Searle,_LLC",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Searle_Company_logo.svg",
+            "siteUrl": "http://searlecompany.com/"
+        },
+        "the-upjohn-company": {
+            "key": "the-upjohn-company",
+            "names": [
+                "The Upjohn Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": 3,
+            "ownedBy": [
+                "pfizer"
+            ],
+            "updatedAt": "2026-05-09T11:42:58.226Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Upjohn_Company",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Upjohn_Logo.svg"
+        },
+        "pharmacia": {
+            "key": "pharmacia",
+            "names": [
+                "Pharmacia"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": 3,
+            "ownedBy": [
+                "pfizer"
+            ],
+            "updatedAt": "2026-05-09T11:42:58.447Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pharmacia",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a6/Pharmacia_logo.gif"
+        },
+        "pharmacia-andamp-upjohn": {
+            "key": "pharmacia-andamp-upjohn",
+            "names": [
+                "Pharmacia &amp; Upjohn"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": 3,
+            "ownedBy": [
+                "pfizer"
+            ],
+            "updatedAt": "2026-05-09T11:42:58.622Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pharmacia_%26_Upjohn",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/75/Pharmacia_%26_Upjohn.png"
+        },
+        "wyeth": {
+            "key": "wyeth",
+            "names": [
+                "Wyeth"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": 3,
+            "ownedBy": [
+                "pfizer"
+            ],
+            "updatedAt": "2026-05-09T11:42:58.698Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Wyeth",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Wyeth_logo.svg"
+        },
+        "american-cyanamid": {
+            "key": "american-cyanamid",
+            "names": [
+                "American Cyanamid"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": 3,
+            "ownedBy": [
+                "pfizer"
+            ],
+            "updatedAt": "2026-05-09T11:42:58.825Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/American_Cyanamid",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/American_Cyanamid_logo.jpg",
+            "siteUrl": "https://web.archive.org/web/19970418042727/http://www.cyanamid.com/"
+        },
+        "king-pharmaceuticals": {
+            "key": "king-pharmaceuticals",
+            "names": [
+                "King Pharmaceuticals"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": 3,
+            "ownedBy": [
+                "pfizer"
+            ],
+            "updatedAt": "2026-05-09T11:42:58.911Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/King_Pharmaceuticals",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/10/King_Pharmaceuticals_Logo.png",
+            "siteUrl": "http://kingpharm.com/"
+        },
+        "medivation": {
+            "key": "medivation",
+            "names": [
+                "Medivation"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": 3,
+            "ownedBy": [
+                "pfizer"
+            ],
+            "updatedAt": "2026-05-09T11:42:59.099Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Medivation",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/47/Medivation_inc_logo.jpg",
+            "siteUrl": "http://www.medivation.com/"
+        },
+        "array-biopharma": {
+            "key": "array-biopharma",
+            "names": [
+                "Array BioPharma"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": 3,
+            "ownedBy": [
+                "pfizer"
+            ],
+            "updatedAt": "2026-05-09T11:42:59.161Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Array_BioPharma",
+            "siteUrl": "https://www.arraybiopharma.com/"
+        },
+        "arena-pharmaceuticals": {
+            "key": "arena-pharmaceuticals",
+            "names": [
+                "Arena Pharmaceuticals"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": 3,
+            "ownedBy": [
+                "pfizer"
+            ],
+            "updatedAt": "2026-05-09T11:42:59.208Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Arena_Pharmaceuticals",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Arena_Pharmaceuticals_logo.svg",
+            "siteUrl": "http://arenapharm.com/"
+        },
+        "seagen": {
+            "key": "seagen",
+            "names": [
+                "Seagen"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": 3,
+            "ownedBy": [
+                "pfizer"
+            ],
+            "updatedAt": "2026-05-09T11:42:59.496Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Seagen",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Seattle_Genetics_logo.svg",
+            "siteUrl": "http://seagen.com/"
         }
     }
 }
