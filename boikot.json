@@ -28258,6 +28258,155 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Seagen",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Seattle_Genetics_logo.svg",
             "siteUrl": "http://seagen.com/"
+        },
+        "pg-tips": {
+            "key": "pg-tips",
+            "names": [
+                "PG Tips"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tea",
+                "retail",
+                "beverages"
+            ],
+            "score": null,
+            "ownedBy": [
+                "lipton-teas-and-infusions"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8e/PG_Tips.png",
+            "siteUrl": "https://liptonteas.com/",
+            "updatedAt": "2026-05-09T11:38:23.740Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/PG_Tips"
+        },
+        "lipton-teas-and-infusions": {
+            "key": "lipton-teas-and-infusions",
+            "names": [
+                "Lipton Teas and Infusions"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tea",
+                "retail",
+                "beverages"
+            ],
+            "score": null,
+            "ownedBy": [
+                "cvc-capital-partners"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f4/Lipton_Teas_and_Infusions_Logo.svg",
+            "siteUrl": "https://liptonteas.com/",
+            "updatedAt": "2026-05-10T07:45:56.573Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lipton_Teas_and_Infusions"
+        },
+        "brooke-bond": {
+            "key": "brooke-bond",
+            "names": [
+                "Brooke Bond"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tea",
+                "retail",
+                "beverages"
+            ],
+            "score": null,
+            "ownedBy": [
+                "lipton-teas-and-infusions"
+            ],
+            "updatedAt": "2026-05-10T07:47:02.415Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Brooke_Bond",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Brooke-bond-logo.jpg"
+        },
+        "t2": {
+            "key": "t2",
+            "names": [
+                "T2"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tea",
+                "retail",
+                "beverages"
+            ],
+            "score": null,
+            "ownedBy": [
+                "lipton-teas-and-infusions"
+            ],
+            "updatedAt": "2026-05-10T07:47:02.772Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/T2_(tea_products_company)",
+            "siteUrl": "http://www.t2tea.com/"
+        },
+        "tazo": {
+            "key": "tazo",
+            "names": [
+                "Tazo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tea",
+                "retail",
+                "beverages"
+            ],
+            "score": null,
+            "ownedBy": [
+                "lipton-teas-and-infusions"
+            ],
+            "updatedAt": "2026-05-10T07:47:03.155Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tazo",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Tazo_logo.svg",
+            "siteUrl": "http://www.tazo.com/"
+        },
+        "red-rose-tea": {
+            "key": "red-rose-tea",
+            "names": [
+                "Red Rose Tea"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tea",
+                "retail",
+                "beverages"
+            ],
+            "score": null,
+            "ownedBy": [
+                "lipton-teas-and-infusions"
+            ],
+            "updatedAt": "2026-05-10T07:47:03.237Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Red_Rose_Tea"
+        },
+        "salada": {
+            "key": "salada",
+            "names": [
+                "Salada"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tea",
+                "retail",
+                "beverages"
+            ],
+            "score": null,
+            "ownedBy": [
+                "lipton-teas-and-infusions"
+            ],
+            "updatedAt": "2026-05-10T07:47:03.489Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Salada_tea",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/71/Salada_tea_logo.png"
         }
     }
 }
