@@ -28407,6 +28407,48 @@
             "updatedAt": "2026-05-10T07:47:03.489Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Salada_tea",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/71/Salada_tea_logo.png"
+        },
+        "philips": {
+            "key": "philips",
+            "names": [
+                "Philips",
+                "Koninklijke Philips N.V.",
+                "PHG"
+            ],
+            "comment": "Philips is a Dutch company that has engaged in price fixing [1], failed to meet medical manufacturing standards [2], paid kickbacks to encourage referrals to its machines [3], sold faulty bottles exposing babies to microplastics [4], concealed information about deadly manufacturing errors [5], and produced faulty respirator machines that killed over 300 people [6][7][8][9].",
+            "sources": {
+                "1": "https://www.law360.com/articles/1252492",
+                "2": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-sends-warning-letter-philips-over-three-device-production-facilities-2025-10-28/",
+                "3": "https://web.archive.org/web/20220901232234/https://www.justice.gov/opa/pr/philips-subsidiary-pay-over-24-million-alleged-false-claims-caused-respironics-respiratory",
+                "4": "https://www.forbes.com/sites/ariannajohnson/2024/06/25/new-lawsuits-claim-baby-bottles-manufacturers-misleadingly-exposed-infants-to-harmful-microplastics/",
+                "5": "https://www.propublica.org/article/philips-kept-warnings-about-dangerous-cpaps-secret-profits-soared",
+                "6": "https://www.abc.net.au/news/2025-06-04/tga-launches-legal-action-against-philips-electronics/105375196",
+                "7": "https://web.archive.org/web/20220519203053/https://www.fda.gov/medical-devices/safety-communications/update-certain-philips-respironics-ventilators-bipap-machines-and-cpap-machines-recalled-due",
+                "8": "https://www.cbsnews.com/news/philips-settlement-cpap-recall-lawsuit-fda/",
+                "9": "https://www.reuters.com/business/healthcare-pharmaceuticals/philips-faces-french-criminal-investigation-over-sleep-apnea-recall-2025-09-08/"
+            },
+            "sourceNotes": {
+                "1": "price fixing",
+                "2": "failed to meet medical manufacturing standards",
+                "3": "paid kickbacks to encourage referrals to its machines",
+                "4": "sold faulty bottles which exposed babies to microplastics",
+                "5": "concealed information about deadly manufacturing errors",
+                "6": "produced faulty respirator machines that killed over 300 people",
+                "7": "produced faulty respirator machines that killed over 300 people",
+                "8": "produced faulty respirator machines that killed over 300 people",
+                "9": "produced faulty respirator machines that killed over 300 people"
+            },
+            "tags": [
+                "electronics",
+                "tech",
+                "healthcare"
+            ],
+            "score": 12,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Philips_logo_new.svg",
+            "siteUrl": "http://philips.com/",
+            "updatedAt": "2026-05-10T07:46:30.367Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Philips"
         }
     }
 }
