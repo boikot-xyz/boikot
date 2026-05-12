@@ -28449,6 +28449,48 @@
             "siteUrl": "http://philips.com/",
             "updatedAt": "2026-05-10T07:46:30.367Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Philips"
+        },
+        "pinterest": {
+            "key": "pinterest",
+            "names": [
+                "Pinterest",
+                "Pinterest, Inc.",
+                "PINS"
+            ],
+            "comment": "Pinterest is an American company that secretly tracked users [1] and failed to compensate a platform co‑creator [2]. Pinterest has a record of racial discrimination and sexism against employees [3][4][5][6][7][8][9][10].",
+            "sources": {
+                "1": "https://techchannel.news/pinterest-flouts-privacy-laws-by-secretly-tracking-users/",
+                "2": "https://www.nytimes.com/2025/05/09/technology/pinterest-settles-lawsuit-34-7-million.html",
+                "3": "https://web.archive.org/web/20210927173810/https://www.theguardian.com/technology/2021/may/10/pinterest-discrimination-ifeoma-ozoma-nda",
+                "4": "https://web.archive.org/web/20210930184113/https://www.npr.org/2020/06/23/881624553/pinterest-sounds-a-more-contrite-tone-after-black-former-employees-speak-out",
+                "5": "https://www.fastcompany.com/90587126/pinterest-gender-discrimination-settlement-backlash-racism",
+                "6": "https://web.archive.org/web/20201216003951/https://www.theguardian.com/technology/2020/dec/15/pinterest-to-pay-20m-to-settle-gender-discrimination-lawsuit",
+                "7": "https://web.archive.org/web/20210114201304/https://www.cnbc.com/2020/08/14/pinterest-to-announce-new-board-member-as-employees-stage-virtual-walkout.html",
+                "8": "https://web.archive.org/web/20201215074722/https://sanfrancisco.cbslocal.com/2020/12/14/sf-based-pinterest-agrees-to-pay-22-million-to-settle-gender-discrimination-lawsuit/",
+                "9": "https://web.archive.org/web/20211125235334/https://www.theverge.com/2021/11/24/22801574/pinterest-racial-gender-discrimination-shareholder-lawsuit-settlement",
+                "10": "https://www.nytimes.com/2021/11/24/technology/pinterest-discrimination-settlement.html"
+            },
+            "sourceNotes": {
+                "1": "secretly tracked users",
+                "2": "failed to compensate platform co-creator",
+                "3": "racial discrimination against employees",
+                "4": "racial discrimination against employees",
+                "5": "racial discrimination against employees",
+                "6": "sexism and racial discrimination",
+                "7": "sexism and racial discrimination",
+                "8": "sexism and racial discrimination",
+                "9": "sexism and racial discrimination",
+                "10": "sexism and racial discrimination"
+            },
+            "tags": [
+                "tech"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Pinterest_Logo_3.svg",
+            "siteUrl": "https://pinterest.com/",
+            "updatedAt": "2026-05-12T07:28:06.046Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pinterest"
         }
     }
 }
