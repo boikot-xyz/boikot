@@ -28491,6 +28491,27 @@
             "siteUrl": "https://pinterest.com/",
             "updatedAt": "2026-05-12T07:28:06.046Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Pinterest"
+        },
+        "pixar": {
+            "key": "pixar",
+            "names": [
+                "Pixar"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "disney"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Pixar_logo.svg",
+            "siteUrl": "https://www.pixar.com/",
+            "updatedAt": "2026-05-12T07:28:06.046Z",
+            "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pixar"
         }
     }
 }
