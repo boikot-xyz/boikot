@@ -28537,6 +28537,28 @@
             "siteUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Playmobil_logo.svg",
             "updatedAt": "2026-05-14T19:03:30.974Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Playmobil"
+        },
+        "playstation": {
+            "key": "playstation",
+            "names": [
+                "PlayStation"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "videogames",
+                "entertainment"
+            ],
+            "score": 50,
+            "ownedBy": [
+                "sony"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/PlayStation_logo_and_wordmark.svg",
+            "siteUrl": "https://www.playstation.com/",
+            "updatedAt": "2026-05-14T19:03:30.974Z",
+            "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/PlayStation"
         }
     }
 }
