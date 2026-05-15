@@ -28510,8 +28510,33 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Pixar_logo.svg",
             "siteUrl": "https://www.pixar.com/",
             "updatedAt": "2026-05-12T07:28:06.046Z",
-            "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Pixar"
+        },
+        "playmobil": {
+            "key": "playmobil",
+            "names": [
+                "Playmobil",
+                "Brandstatter",
+                "Brandstätter Group"
+            ],
+            "comment": "Playmobil is a German toy company that has been accused of perpetuating racism through its toy lines [1][2].",
+            "sources": {
+                "1": "https://www.theguardian.com/world/2015/oct/09/playmobil-toys-accused-stereotypes-racism",
+                "2": "https://www.thetimes.com/comment/register/article/playmobil-accused-of-racism-over-slave-aboard-pirate-ship-f7hfrcxn8wh"
+            },
+            "sourceNotes": {
+                "1": "perpetuated racism through toys",
+                "2": "perpetuated racism through toys"
+            },
+            "tags": [
+                "toys"
+            ],
+            "score": 48,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Playmobil_logo.svg",
+            "siteUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Playmobil_logo.svg",
+            "updatedAt": "2026-05-14T19:03:30.974Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Playmobil"
         }
     }
 }
