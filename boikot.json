@@ -28559,6 +28559,71 @@
             "updatedAt": "2026-05-14T19:03:30.974Z",
             "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/PlayStation"
+        },
+        "popeyes": {
+            "key": "popeyes",
+            "names": [
+                "Popeyes",
+                "Popeyes Louisiana Kitchen, Inc.",
+                "Popeyes Louisiana Kitchen, Inc.",
+                "Popeyes Famous Fried Chicken & Biscuits"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fast food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "restaurant-brands-international"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Popeyes_Logo_2020.svg",
+            "siteUrl": "http://popeyes.com/",
+            "updatedAt": "2026-05-16T08:37:07.986Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Popeyes"
+        },
+        "tim-hortons": {
+            "key": "tim-hortons",
+            "names": [
+                "Tim Hortons"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fast food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "restaurant-brands-international"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Tim_Hortons_Logo.svg",
+            "siteUrl": "https://www.timhortons.com/",
+            "updatedAt": "2026-05-16T08:37:07.986Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tim_Hortons"
+        },
+        "waitrose": {
+            "key": "waitrose",
+            "names": [
+                "Waitrose"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket",
+                "poor working conditions"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "john-lewis"
+            ],
+            "updatedAt": "2026-05-16T08:41:23.237Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Waitrose_%26_Partners",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Waitrose_%26_Partners_logo.svg",
+            "siteUrl": "https://waitrose.com/"
         }
     }
 }
