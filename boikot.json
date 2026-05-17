@@ -15981,6 +15981,25 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Ouija",
             "key": "ouija"
         },
+        "post-it": {
+            "key": "post-it",
+            "names": [
+                "Post-it"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "3m"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Post-it-2020.svg",
+            "siteUrl": "https://www.post-it.com/",
+            "updatedAt": "2026-05-17T09:15:00.177Z"
+        },
         "peppa-pig": {
             "names": [
                 "Peppa Pig"
