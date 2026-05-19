@@ -28643,6 +28643,212 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Waitrose_%26_Partners",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Waitrose_%26_Partners_logo.svg",
             "siteUrl": "https://waitrose.com/"
+        },
+        "potbelly-sandwich-shop": {
+            "key": "potbelly-sandwich-shop",
+            "names": [
+                "Potbelly Sandwich Shop",
+                "Potbelly Sandwich Works",
+                "Potbelly",
+                "Potbelly Corporation"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fast food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "racetrac"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5b/Potbelly_Sandwich_Shop_logo.svg",
+            "siteUrl": "https://potbelly.com/",
+            "updatedAt": "2026-05-16T08:37:07.986Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Potbelly_Sandwich_Shop"
+        },
+        "pottery-barn": {
+            "key": "pottery-barn",
+            "names": [
+                "Pottery Barn"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "williams-sonoma"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Pottery_Barn_logo.svg",
+            "siteUrl": "https://www.potterybarn.com/",
+            "updatedAt": "2026-05-18T17:38:03.155Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pottery_Barn"
+        },
+        "prada": {
+            "key": "prada",
+            "names": [
+                "Prada",
+                "Prada",
+                "Prada S.p.A.",
+                "Fratelli Prada"
+            ],
+            "comment": "Prada is a Italian luxury fashion house that has appropriated traditional cultural clothing in its designs [1] and has been criticized for lacking animal welfare policies [2]. The brand has also faced accusations of using racist imagery in its products [3][4][5], and its supply chain has been linked to deforestation [6] and labour abuses [7][8][9].",
+            "sources": {
+                "1": "https://www.theguardian.com/world/2025/jun/30/prada-accused-of-cashing-in-on-indian-culture-with-kolhapuri-inspired-sandals",
+                "2": "https://www.lav.it/news/prada-first-animal-welfare-policy-criticized",
+                "3": "https://www.nbcnews.com/news/us-news/prada-was-slammed-over-merchandise-deemed-racist-now-it-will-n1131466",
+                "4": "https://ccrjustice.org/home/press-center/press-releases/prada-blackface-scandal-results-major-settlement",
+                "5": "https://edition.cnn.com/2020/02/06/business/prada-black-face-agreement/",
+                "6": "https://www.ran.org/wp-content/uploads/2018/06/Lessons_From_The_Incense_Forests.pdf",
+                "7": "https://www.reuters.com/business/italian-police-seek-governance-documents-13-fashion-firms-labour-abuse-probe-2025-12-04/",
+                "8": "https://www.fastcompany.com/90279693/did-a-slave-make-your-sneakers-the-answer-is-probably",
+                "9": "https://www.luxurytribune.com/en/fashion-brands-fail-in-transparency-and-decarbonisation"
+            },
+            "sourceNotes": {
+                "1": "appropriated traditional cultural clothing in their designs",
+                "2": "lacking animal welfare policies",
+                "3": "used racist imagery",
+                "4": "used racist imagery in products",
+                "5": "used racist imagery in products",
+                "6": "deforestation in supply chain",
+                "7": "labour abuses in supply chain",
+                "8": "labour abuses in supply chain",
+                "9": "labour abuses in supply chain"
+            },
+            "tags": [
+                "retail",
+                "clothing"
+            ],
+            "score": 38,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Prada-Logo.svg",
+            "siteUrl": "https://www.prada.com/",
+            "updatedAt": "2026-05-19T09:16:45.201Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Prada"
+        },
+        "versace": {
+            "key": "versace",
+            "names": [
+                "Versace"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "prada"
+            ],
+            "updatedAt": "2026-05-19T11:49:15.300Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Versace",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Versace_old_logo.svg",
+            "siteUrl": "https://www.versace.com/"
+        },
+        "miu-miu": {
+            "key": "miu-miu",
+            "names": [
+                "Miu Miu"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "prada"
+            ],
+            "updatedAt": "2026-05-19T11:49:15.734Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Miu_Miu",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Miu_Miu_-_logo_%28Italy%2C_1993%29.svg",
+            "siteUrl": "http://www.miumiu.com/"
+        },
+        "church's": {
+            "key": "church's",
+            "names": [
+                "Church's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "prada"
+            ],
+            "updatedAt": "2026-05-19T11:49:15.805Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Church%27s",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/df/Churchs_logo.png",
+            "siteUrl": "http://church-footwear.com/"
+        },
+        "car-shoe": {
+            "key": "car-shoe",
+            "names": [
+                "Car Shoe"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "prada"
+            ],
+            "updatedAt": "2026-05-19T11:49:15.894Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Car_Shoe",
+            "siteUrl": "http://www.carshoe.com/"
+        },
+        "luna-rossa": {
+            "key": "luna-rossa",
+            "names": [
+                "Luna Rossa"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "prada"
+            ],
+            "updatedAt": "2026-05-19T11:49:15.946Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Luna_Rossa"
+        },
+        "fondazione-prada": {
+            "key": "fondazione-prada",
+            "names": [
+                "Fondazione Prada"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "clothing"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "prada"
+            ],
+            "updatedAt": "2026-05-19T11:49:16.034Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Fondazione_Prada"
         }
     }
 }
