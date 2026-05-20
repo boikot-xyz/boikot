@@ -28849,6 +28849,139 @@
             ],
             "updatedAt": "2026-05-19T11:49:16.034Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Fondazione_Prada"
+        },
+        "princes": {
+            "key": "princes",
+            "names": [
+                "Princes",
+                "Princes Group plc",
+                "Princes Group",
+                "PRN"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "beverages"
+            ],
+            "score": null,
+            "ownedBy": [
+                "newprinces"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5a/Prince_Holding_Group_logo.png",
+            "siteUrl": "https://www.princeholdinggroup.com/",
+            "updatedAt": "2026-05-20T08:33:07.020Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Group"
+        },
+        "newprinces": {
+            "key": "newprinces",
+            "names": [
+                "NewPrinces",
+                "NewPrinces S.p.A.",
+                "NewPrinces Group",
+                "Newlat",
+                "NWL"
+            ],
+            "comment": "NewPrinces is an Italian food and beverage company that has been accused of punishing striking workers [1] and engaging in unsustainable fishing practices [2].",
+            "sources": {
+                "1": "https://www.wsws.org/en/articles/2025/01/31/ksdu-j31.html",
+                "2": "https://www.liverpoolecho.co.uk/news/liverpool-news/john-west-princes-slammed-over-10204690"
+            },
+            "sourceNotes": {
+                "1": "punished striking workers",
+                "2": "unsustainable fishing practices"
+            },
+            "tags": [
+                "food",
+                "beverages"
+            ],
+            "score": 43,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/NewPrinces.svg",
+            "siteUrl": "https://www.newprinces.it/en",
+            "updatedAt": "2026-05-20T08:59:19.779Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/NewPrinces"
+        },
+        "crisp-'n-dry": {
+            "key": "crisp-'n-dry",
+            "names": [
+                "Crisp 'n Dry"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "beverages"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "newprinces"
+            ],
+            "updatedAt": "2026-05-20T10:33:41.399Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Crisp_%27n_Dry"
+        },
+        "crosse-and-blackwell": {
+            "key": "crosse-and-blackwell",
+            "names": [
+                "Crosse & Blackwell"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "beverages"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "newprinces"
+            ],
+            "updatedAt": "2026-05-20T10:33:42.162Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Crosse_%26_Blackwell",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5d/Crosse_blackwell_logo.png",
+            "siteUrl": "https://www.crosseandblackwell.com/"
+        },
+        "napolina": {
+            "key": "napolina",
+            "names": [
+                "Napolina"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "newprinces"
+            ],
+            "updatedAt": "2026-05-20T10:33:42.162Z",
+            "logoUrl": "https://www.newprinces.it/_next/image?url=%2Fmedia-library%2Fimg%2F1781ecf7982c965c07c183e46f77b91ddf2a9cbd%2Fimage.png&w=992&q=75",
+            "siteUrl": "https://www.newprinces.it/en/brands/napolina"
+        },
+        "mazola": {
+            "key": "mazola",
+            "names": [
+                "Mazola"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "beverages"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "newprinces"
+            ],
+            "updatedAt": "2026-05-20T10:33:42.749Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazola",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Associated_British_Foods_Logo.svg",
+            "siteUrl": "https://abf.co.uk/"
         }
     }
 }
