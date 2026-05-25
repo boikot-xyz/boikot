@@ -29024,6 +29024,56 @@
             "siteUrl": "https://www.progressive.com/",
             "updatedAt": "2026-05-20T10:39:28.337Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Progressive_Corporation"
+        },
+        "ralph-lauren": {
+            "key": "ralph-lauren",
+            "names": [
+                "Ralph Lauren",
+                "Ralph Lauren",
+                "Ralph Lauren Corporation",
+                "Polo Ralph Lauren",
+                "Polo Ralph Lauren Corporation",
+                "RL"
+            ],
+            "comment": "Ralph Lauren is an American fashion brand that has faced accusations of misleading pricing [1], copying Mexican indigenous designs [2] and South Asian jewellery designs [3], and editing photos of and firing a model for not being thin enough [4]. The company has also been implicated in racism against employees [5], bribing Argentinian officials [6], partnering closely with Israeli firms [7], sourcing fabrics that may involve deforestation and rainforest destruction [8], underpaying employees [9], and employing forced Uyghur labour and other forced labour in its supply chain [10][11][12].",
+            "sources": {
+                "1": "https://topclassactions.com/lawsuit-settlements/consumer-products/apparel/ralph-lauren-class-action-claims-retailer-advertises-fake-discount-prices/",
+                "2": "https://www.bbc.co.uk/news/world-latin-america-63342715",
+                "3": "https://indianexpress.com/article/lifestyle/fashion/ralph-lauren-backlash-south-asian-jhumkas-paris-fashion-week-10574002/",
+                "4": "http://www.huffingtonpost.com/2009/10/14/filippa-hamilton-ralph-la_n_320396.html",
+                "5": "https://www.independent.co.uk/news/uk/home-news/ralph-lauren-racism-employee-tribunal-b2494054.html",
+                "6": "https://www.justice.gov/archives/opa/pr/ralph-lauren-corporation-resolves-foreign-corrupt-practices-act-investigation-and-agrees-pay",
+                "7": "https://wwd.com/fashion-news/intimates/feature/delta-galil-polo-ralph-lauren-womens-intimates-licensing-deal-1234990766/",
+                "8": "https://www.ran.org/wp-content/uploads/2018/06/Lessons_From_The_Incense_Forests.pdf",
+                "9": "https://www.law360.com/articles/61669/judge-certifies-class-of-polo-ralph-lauren-employees",
+                "10": "https://www.reuters.com/business/retail-consumer/canadas-corporate-watchdog-probes-ralph-lauren-alleged-use-forced-labor-china-2023-08-15/",
+                "11": "https://www.straitstimes.com/world/ralph-lauren-probed-in-canada-over-uyghur-forced-labour-claims",
+                "12": "https://www.bbc.co.uk/news/world-asia-54960346"
+            },
+            "sourceNotes": {
+                "1": "misleading pricing",
+                "2": "copied mexican indigenous designs",
+                "3": "copied south asian jewellery designs",
+                "4": "edited photos of and fired a model for not being thin enough",
+                "5": "racism against employees",
+                "6": "bribed argentinian officials",
+                "7": "close partnerships with Israeli firms",
+                "8": "sources fabric that may involve deforestation and rainforest destruction",
+                "9": "underpaid employees",
+                "10": "forced Uyghur labour in supply chain",
+                "11": "forced Uyghur labour in supply chain",
+                "12": "forced labour and exploitation in supply chain"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 32,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Ralph_Lauren_logo.svg",
+            "siteUrl": "http://ralphlauren.com/",
+            "updatedAt": "2026-05-20T10:39:28.337Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ralph_Lauren_Corporation"
         }
     }
 }
