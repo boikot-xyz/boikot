@@ -28982,6 +28982,48 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Mazola",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Associated_British_Foods_Logo.svg",
             "siteUrl": "https://abf.co.uk/"
+        },
+        "progressive-corporation": {
+            "key": "progressive-corporation",
+            "names": [
+                "Progressive Corporation",
+                "PGR"
+            ],
+            "comment": "Progressive Corporation is an American insurance company that often rejects customers' insurance claims [1], failed to protect customers' information leading to data breaches [2][3], and defrauded Medicare and Medicaid [4]. It systematically underpaid customers who lost their cars in accidents [5][6][7], provided legal assistance against its own customers to avoid paying out insurance claims [8], spied on a church group making an insurance claim [9], and drove customers into debt after delaying and rejecting their valid insurance claims [10].",
+            "sources": {
+                "1": "https://www.danielstark.com/blog/insurance-companies-that-might-screw-you-progressive/",
+                "2": "https://www.classaction.org/news/3.25m-progressive-settlement-resolves-class-action-lawsuit-over-years-long-data-breach",
+                "3": "https://legalnewsfeed.com/2024/11/12/proposed-class-action-alleges-progressive-shared-crash-victims-data-with-law-firm/",
+                "4": "https://www.justice.gov/usao-nj/pr/two-insurance-companies-agree-pay-more-2-million-resolve-false-claims-act-allegations",
+                "5": "https://allaboutlawyer.com/progressive-class-action-lawsuit-multiple-settlements-totaling-over-200-million-impact-thousands-of-policyholders/",
+                "6": "https://www.insurancebusinessmag.com/us/news/auto-motor/progressive-in-huge-settlement-with-policyholders-495637.aspx",
+                "7": "https://www.law360.com/articles/2265884/progressive-s-61m-total-loss-deal-gets-approved",
+                "8": "https://www.nytimes.com/2012/08/18/your-money/progressives-side-of-the-insurance-case-that-blew-up-on-the-internet.html",
+                "9": "https://www.reuters.com/article/domesticNews/idUSN2326105820070823?feedType=RSS&feedName=domesticNews",
+                "10": "https://blog.cvn.com/100m-punitive-bad-faith-verdict-against-progressive-beats-1.9m-settlement-offer-watch-trial-via-cvn"
+            },
+            "sourceNotes": {
+                "1": "often rejects customers' insurance claims",
+                "2": "failed to protect customers' information leading to data breach",
+                "3": "failed to protect customers' information leading to data breach",
+                "4": "defrauded and  medicare and medicaid",
+                "5": "systematically underpaid customers who lost their cars in accidents",
+                "6": "systematically underpaid customers who lost their cars in accidents",
+                "7": "systematically underpaid customers who lost their cars in accidents",
+                "8": "provided legal assistance against their own customer to avoid paying out insurance claim",
+                "9": "spied on church group making insurance claim",
+                "10": "drove customer into debt after delaying and rejecting their valid insurance claim"
+            },
+            "tags": [
+                "insurance",
+                "finance"
+            ],
+            "score": 38,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Logo_of_the_Progressive_Corporation.svg",
+            "siteUrl": "https://www.progressive.com/",
+            "updatedAt": "2026-05-20T10:39:28.337Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Progressive_Corporation"
         }
     }
 }
