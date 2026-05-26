@@ -29029,7 +29029,6 @@
             "key": "ralph-lauren",
             "names": [
                 "Ralph Lauren",
-                "Ralph Lauren",
                 "Ralph Lauren Corporation",
                 "Polo Ralph Lauren",
                 "Polo Ralph Lauren Corporation",
@@ -29074,6 +29073,47 @@
             "siteUrl": "http://ralphlauren.com/",
             "updatedAt": "2026-05-20T10:39:28.337Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Ralph_Lauren_Corporation"
+        },
+        "publix": {
+            "key": "publix",
+            "names": [
+                "Publix",
+                "Publix Super Markets, Inc."
+            ],
+            "comment": "Publix is a US-based grocery chain that has donated to Republican political funds [1][2] and to anti‑LGBTQ political funds [3]. The company has been criticized for underpaying employees [4][5], and discriminating against employees on the basis of gender [6], race [7][8], and LGBTQ status [9].",
+            "sources": {
+                "1": "https://www.miaminewtimes.com/news/publix-gave-100000-to-republican-florida-gov-ron-desantis-11802566",
+                "2": "https://gainesvilleiguana.org/2021/articles/problems-with-publix-why-were-boycotting/",
+                "3": "https://www.newsweek.com/how-publix-got-caught-dont-say-gay-aftermath-1700661",
+                "4": "https://www.fslawfirm.com/blog/2021/04/publix-supermarket-to-settle-ot-lawsuit-for-over-7m/",
+                "5": "https://www.law360.com/articles/618279/publix-strikes-30m-settlement-with-employees-in-ot-row",
+                "6": "https://www.latimes.com/archives/la-xpm-1997-01-25-fi-22037-story.html",
+                "7": "https://www.supermarketnews.com/independents-regional-grocers/publix-offers-to-settle-race-case-for-10m",
+                "8": "https://clearinghouse.net/case/11516/",
+                "9": "https://www.miaminewtimes.com/news/five-stories-of-publix-anti-gay-accusations-10051384/"
+            },
+            "sourceNotes": {
+                "1": "donated to republian political funds",
+                "2": "donated to republian political funds",
+                "3": "donated to anti-LGBTQ poliitcal funds",
+                "4": "underpaid employees",
+                "5": "underpaid employees",
+                "6": "gender discrimination against employees",
+                "7": "racial discrimination against employees",
+                "8": "racial discrimination against employees",
+                "9": "discrimination against LGBTQ employees"
+            },
+            "tags": [
+                "supermarket",
+                "food",
+                "retail"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/PublixLogo.svg",
+            "siteUrl": "https://www.publix.com/",
+            "updatedAt": "2026-05-25T23:17:20.423Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Publix"
         }
     }
 }
