@@ -29114,6 +29114,374 @@
             "siteUrl": "https://www.publix.com/",
             "updatedAt": "2026-05-25T23:17:20.423Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Publix"
+        },
+        "puma": {
+            "key": "puma",
+            "names": [
+                "Puma",
+                "Puma SE",
+                "PUM"
+            ],
+            "comment": "Puma is a German sportswear company that has been accused of underpaying employees [1] and engaging in forced labour and exploitation throughout its supply chain [2][3], including forced overtime that caused 30 garment workers to faint [4] and sweatshop conditions in Bangladeshi suppliers [5]. The company has also been linked to forced Uyghur labour in its supply chain [6] and a tragic incident where a female employee was shot while protesting for better working conditions [7].",
+            "sources": {
+                "1": "https://www.law360.com/articles/134604/puma-settles-flsa-late-pay-collective-action",
+                "2": "https://web.archive.org/web/20201029164347/https://www.just-style.com/news/puma-accused-of-chinese-sweatshop-exploitation_id69378.aspx",
+                "3": "https://chinalaborwatch.org/pumas-failure-in-csr-suppliers-critical-conditions/",
+                "4": "https://web.archive.org/web/20210905185016/https://www.washingtonpost.com/news/morning-mix/wp/2014/04/10/mass-faintings-in-cambodia-whats-the-reason/",
+                "5": "https://waronwant.org/sites/default/files/Race%20to%20the%20Bottom.pdf",
+                "6": "https://web.archive.org/web/20220506225913/https://www.theguardian.com/world/2022/may/05/xinjiang-cotton-found-adidas-puma-hugo-boss-tops-researchers-claim-uyghur",
+                "7": "https://web.archive.org/web/20220530194234/https://www.reuters.com/article/puma-cambodia/puma-officials-go-to-cambodia-after-factory-shooting-idUSL5E8DN8S820120223"
+            },
+            "sourceNotes": {
+                "1": "underpaid employees",
+                "2": "forced labour and exploitation in supply chain",
+                "3": "forced labour and exploitation in supply chain",
+                "4": "forced overtime leading to 30 garment workers fainting",
+                "5": "sweatshop working conditions in bangladeshi suppliers",
+                "6": "forced Uyghur labour in supply chain",
+                "7": "female employee was shot for protesting for better working conditions"
+            },
+            "tags": [
+                "sportswear",
+                "retail"
+            ],
+            "score": 15,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/da/Puma_complete_logo.svg",
+            "siteUrl": "https://eu.puma.com/",
+            "updatedAt": "2026-05-26T06:20:38.898Z",
+            "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Puma_(brand)"
+        },
+        "razer": {
+            "key": "razer",
+            "names": [
+                "Razer",
+                "Razer Inc.",
+                "雷蛇"
+            ],
+            "comment": "Razer is a Singaporean company that has sold poor quality products [1] and taken a wasteful approach to product replacements [2]. The company has also falsely advertised its face mask [3], failed to protect customer data [4], and engaged in sexist advertising [5].",
+            "sources": {
+                "1": "https://www.pcgamer.com/hardware/gaming-laptops/a-pr-storm-has-erupted-around-razers-gaming-laptops-with-reports-of-faulty-trackpads-and-keyboards-glitchy-software-performance-issues-and-poor-customer-support/",
+                "2": "https://www.thecooldown.com/green-business/razer-warranty-return-broken-mouse-e-waste/",
+                "3": "https://uk.pcmag.com/game-controllers-accessories/152060/ftc-forces-razer-to-pay-1m-for-zephyr-mask-refunds-over-deceptive-marketing",
+                "4": "https://www.techbloat.com/razer-accidentally-exposed-data-of-over-100000-customers.html",
+                "5": "https://www.pcgamer.com/hardware/gaming-headsets/razer-thoughtlessly-alienates-half-its-audience-with-ad-showing-a-man-blocking-out-a-womans-yapping-with-its-latest-headset/"
+            },
+            "sourceNotes": {
+                "1": "sold poor quality products",
+                "2": "wasteful approach to product replacements",
+                "3": "falsely advertised their face mask",
+                "4": "failed to protect customer data",
+                "5": "sexist advertising"
+            },
+            "tags": [
+                "electronics"
+            ],
+            "score": 44,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Razer_wordmark.svg",
+            "siteUrl": "https://www.razer.com/",
+            "updatedAt": "2026-05-26T06:42:16.026Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Razer_Inc."
+        },
+        "red-lobster": {
+            "key": "red-lobster",
+            "names": [
+                "Red Lobster",
+                "Red Lobster Hospitality LLC"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurant",
+                "food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "rl-investor-holdings"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b1/Redlobster_logocopia.png",
+            "siteUrl": "https://www.redlobster.com/",
+            "updatedAt": "2026-05-27T14:10:43.126Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Red_Lobster"
+        },
+        "recreational-equipment-inc.": {
+            "key": "recreational-equipment-inc.",
+            "names": [
+                "Recreational Equipment, Inc.",
+                "REI"
+            ],
+            "comment": "Recreational Equipment, Inc. is an American company that has been criticized for poor labour standards and conditions [1][2][3], as well as labour rights abuses and anti‑union practices [4][5] and underpaying employees [6]. Additionally, the company has sold products containing unsafe PFAS chemicals [7].",
+            "sources": {
+                "1": "https://www.vice.com/en/article/unionizing-rei-workers-want-their-progressive-employer-to-pay-a-living-wage/",
+                "2": "https://www.motherjones.com/politics/2022/02/rei-coop-union-busting/",
+                "3": "https://www.rwdsu.org/news/rei-workers-take-nationwide-legal-action-against-employer",
+                "4": "https://web.archive.org/web/20231115181033/https://www.reuters.com/business/retail-consumer/rei-accused-widespread-labor-law-violations-unionized-us-stores-2023-11-15/",
+                "5": "https://www.aljazeera.com/economy/2023/12/7/as-retailer-reis-troubles-with-employees-continue-consumers-back-off",
+                "6": "https://www.lawyersandsettlements.com/settlements/18473/2-5m-settlement-reached-in-rei-unpaid-overtime.html",
+                "7": "https://www.classaction.org/media/lupia-v-recreational-equipment-inc.pdf"
+            },
+            "sourceNotes": {
+                "1": "poor labour standards",
+                "2": "poor labour standards",
+                "3": "poor labour conditions",
+                "4": "labour rights abuses and anti-union practices",
+                "5": "anti-union practices",
+                "6": "underpaid employees",
+                "7": "sold products containing unsafe PFAS chemicals"
+            },
+            "tags": [
+                "retail",
+                "sportswear"
+            ],
+            "score": 44,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/9b/REI_logo.svg",
+            "siteUrl": "https://www.rei.com/",
+            "updatedAt": "2026-05-27T14:10:43.126Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/REI"
+        },
+        "revlon": {
+            "key": "revlon",
+            "names": [
+                "Revlon",
+                "Revlon",
+                "Revlon, Inc."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "macandrews-and-forbes"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Revlon_logo.svg",
+            "siteUrl": "https://www.revlon.com/",
+            "updatedAt": "2026-05-29T07:56:45.425Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Revlon"
+        },
+        "revolut": {
+            "key": "revolut",
+            "names": [
+                "Revolut",
+                "Revolut Group Holdings Ltd"
+            ],
+            "comment": "Revolut is a UK-based fintech company that has been accused of misleading customers [1], enabling money laundering [2], and failing to protect or reimburse defrauded customers [3][4]. Its internal practices have been criticized for poor working conditions [5], high turnover and unpaid work for employees [6], and unexplained customer account closures [7][8].",
+            "sources": {
+                "1": "https://www.reuters.com/sustainability/boards-policy-regulation/italy-regulator-fines-revolut-13-million-alleged-unfair-commercial-practices-2026-04-02/",
+                "2": "https://www.irishtimes.com/business/2025/04/08/revolut-fined-35m-by-over-money-laundering-control-failures/",
+                "3": "https://www.bbc.co.uk/news/articles/cj6epzxdd77o",
+                "4": "https://www.thisismoney.co.uk/money/saving/article-15152589/Revolut-receives-fraud-complaints-bank-year-running.html",
+                "5": "https://web.archive.org/web/20210901154118/https://www.wired.co.uk/article/revolut-trade-unions-labour-fintech-politics-storonsky",
+                "6": "https://www.fintechfutures.com/regulations-compliance/revolut-rocked-by-compliance-and-culture-criticisms",
+                "7": "https://web.archive.org/web/20210111020824/https://www.thetimes.co.uk/article/nikolay-storonskys-revolut-freezes-accounts-in-money-laundering-bungle-5nt3lv6zk",
+                "8": "https://web.archive.org/web/20200306172211/https://www.telegraph.co.uk/news/2020/01/24/ex-ucl-lecturer-forced-travel-london-france-attempts-unblock/"
+            },
+            "sourceNotes": {
+                "1": "misleading customers",
+                "2": "enabled money laundering",
+                "3": "failed to protect or reimburse defrauded customers",
+                "4": "failed to protect or reimburse defrauded customers",
+                "5": "poor working conditions",
+                "6": "high turnover and unpaid work for employees",
+                "7": "unexplained customer account closures",
+                "8": "unexplained customer account closures"
+            },
+            "tags": [
+                "finance",
+                "tech"
+            ],
+            "score": 44,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Revolut_logo.svg",
+            "siteUrl": "https://revolut.com/",
+            "updatedAt": "2026-05-29T07:56:45.425Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Revolut"
+        },
+        "rewe-group": {
+            "key": "rewe-group",
+            "names": [
+                "REWE Group",
+                "REWE",
+                "Revisionsverband der Westkauf-Genossenschaften",
+                "Stüssgen",
+                "Rewe"
+            ],
+            "comment": "REWE Group is a German retail company that has breached customers' data privacy [1], engaged in misleading pricing [2], and used wasteful packaging [3]. The group has also run misleading advertising campaigns [4] and pursued anticompetitive monopolistic practices [5].",
+            "sources": {
+                "1": "https://responsema.org/privacy/rewe-international-9m-gdpr-fine-a-lesson-in-managing-subsidiary-risk/",
+                "2": "https://www.expats.cz/czech-news/article/czech-supermarkets-rack-up-millions-in-fines-for-misleading-discounts",
+                "3": "https://www.huffingtonpost.co.uk/entry/billa-peeled-bananas-plastic-wrap_n_1900267",
+                "4": "https://seenews.com/news/billa-bulgaria-gets-fined-for-misleading-advertisements-1279666",
+                "5": "https://uohs.gov.cz/cs/vyznamna-trzni-sila/aktuality-z-vyznamne-trzni-sily/2558-retezce-skupiny-rewe-zneuzily-vyznamnou-trzni-silu-po-narovnani-cini-jejich-pokuta-164-milionu-korun.html"
+            },
+            "sourceNotes": {
+                "1": "breached customers' data privacy",
+                "2": "misleading pricing",
+                "3": "wasteful packaging",
+                "4": "misleading advertising",
+                "5": "anticompetitive monopolistic practices"
+            },
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": 43,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Rewe-group.svg",
+            "siteUrl": "http://rewe-group.com/",
+            "updatedAt": "2026-05-31T20:57:29.372Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/REWE_Group"
+        },
+        "billa": {
+            "key": "billa",
+            "names": [
+                "Billa"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": "43",
+            "ownedBy": [
+                "rewe-group"
+            ],
+            "updatedAt": "2026-05-31T22:34:57.607Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Billa_(supermarket)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/BILLA_LOGO.png",
+            "siteUrl": "https://www.billa.at/"
+        },
+        "penny": {
+            "key": "penny",
+            "names": [
+                "Penny"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": "43",
+            "ownedBy": [
+                "rewe-group"
+            ],
+            "updatedAt": "2026-05-31T22:34:57.878Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Penny_(supermarket)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Penny-Logo.svg",
+            "siteUrl": "http://www.penny.de/"
+        },
+        "rewe": {
+            "key": "rewe",
+            "names": [
+                "Rewe"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": "43",
+            "ownedBy": [
+                "rewe-group"
+            ],
+            "updatedAt": "2026-05-31T22:34:57.961Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/REWE",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_REWE.svg"
+        },
+        "toom": {
+            "key": "toom",
+            "names": [
+                "Toom"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": "43",
+            "ownedBy": [
+                "rewe-group"
+            ],
+            "updatedAt": "2026-05-31T22:34:58.014Z",
+            "wikipediaUrl": "https://de.wikipedia.org/wiki/Toom_Baumarkt",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Toom_Baumarkt.svg",
+            "siteUrl": "https://www.toom.de/"
+        },
+        "der-touristik-germany": {
+            "key": "der-touristik-germany",
+            "names": [
+                "DER Touristik Germany"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": "43",
+            "ownedBy": [
+                "rewe-group"
+            ],
+            "updatedAt": "2026-05-31T22:34:58.115Z",
+            "wikipediaUrl": "https://de.wikipedia.org/wiki/DER_Touristik_Deutschland",
+            "siteUrl": "https://www.dertour-group.com/markenwelt/"
+        },
+        "reisen": {
+            "key": "reisen",
+            "names": [
+                "Reisen"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": "43",
+            "ownedBy": [
+                "rewe-group"
+            ],
+            "updatedAt": "2026-05-31T22:34:58.460Z",
+            "wikipediaUrl": "https://de.wikipedia.org/wiki/ITS_Reisen",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/de/2/29/ITS.svg",
+            "siteUrl": "https://www.its.de/"
+        },
+        "lekkerland": {
+            "key": "lekkerland",
+            "names": [
+                "Lekkerland"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "supermarket"
+            ],
+            "score": "43",
+            "ownedBy": [
+                "rewe-group"
+            ],
+            "updatedAt": "2026-05-31T22:34:58.793Z",
+            "wikipediaUrl": "https://de.wikipedia.org/wiki/Lekkerland",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/de/6/65/Lekkerland_logo.svg",
+            "siteUrl": "https://www.lekkerland.com/"
         }
     }
 }
