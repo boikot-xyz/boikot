@@ -29482,6 +29482,29 @@
             "wikipediaUrl": "https://de.wikipedia.org/wiki/Lekkerland",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/de/6/65/Lekkerland_logo.svg",
             "siteUrl": "https://www.lekkerland.com/"
+        },
+        "rimmel": {
+            "key": "rimmel",
+            "names": [
+                "Rimmel",
+                "Rimmel London",
+                "The House of Rimmel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": null,
+            "ownedBy": [
+                "coty"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Rimmel_logo.svg",
+            "siteUrl": "http://rimmellondon.com/",
+            "updatedAt": "2026-06-01T08:53:58.578Z",
+            "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rimmel"
         }
     }
 }
