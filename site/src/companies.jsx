@@ -144,16 +144,18 @@ function Alternatives({ entry }) {
             b.score - a.score
         );
     if( !alternativeEntries.length ) return null;
-    return <Card style={{ marginTop: "0.8rem", paddingBottom: 0 }} gap=".75rem">
-        <h3> Alternatives to { entry.names[0] }: </h3>
-        <p style={{ fontSize: "0.85rem", marginBottom: "0.25rem" }}> Companies tagged <TagBadge>{ entry.tags[0] }</TagBadge> </p>
+    return <Card style={{ marginTop: "0.8rem", padding: "1.4rem", paddingBottom: 0 }} gap=".75rem">
+        <h3 style={{ fontSize: "1.5rem" }}> Alternatives to { entry.names[0] } </h3>
         <Stack style={{
-            maxHeight: "18rem", overflowY: "scroll", paddingBottom: "1rem"
+            maxHeight: "18rem", overflowY: "scroll", paddingBottom: "1.4rem"
         }}>
+            <p> Send your message and feel good about where you shop. These companies are alternatives to { entry.names[0] }. </p>
+            <p style={{ fontSize: "0.85rem", marginBottom: "0.25rem" }}> {alternativeEntries.length} alternative companies tagged: <TagBadge>{ entry.tags[0] }</TagBadge> </p>
             { alternativeEntries.map( otherEntry =>
                 <CompanyHeader
-                    key={otherEntry.names[0]} link entry={otherEntry} />
+                    key={otherEntry.names[0]} link entry={otherEntry} showComment />
             ) }
+            <p> Also consider shopping at small local businesses around you! </p>
         </Stack>
     </Card>;
 }
@@ -162,10 +164,12 @@ function Subsidiaries({ entry }) {
     const subsidiaries = Object.values(boikot.companies).filter(
         other => other.ownedBy.includes( getKey(entry) ) );
     if( !subsidiaries.length ) return null;
-    return <Card style={{ marginTop: "0.8rem", paddingBottom: 0, background: "#a0f1", borderColor: "#a6f" }} gap=".75rem">
-        <h3> Companies owned by { entry.names[0] }: </h3>
+    const pluralText = subsidiaries.length <= 1 ? `this company` : `these ${subsidiaries.length} companies`;
+    return <Card style={{ marginTop: "0.8rem", padding: "1.4rem", paddingBottom: 0, background: "#a0f1", borderColor: "#a6f" }} gap=".75rem">
+        <h3 style={{ fontSize: "1.5rem" }}> Companies owned by { entry.names[0] } </h3>
+        <p> {entry.names[0]} is the parent of {pluralText}: </p>
         <Stack style={{
-            maxHeight: "18rem", overflowY: "scroll", paddingBottom: "1rem"
+            maxHeight: "18rem", overflowY: "scroll", paddingBottom: "1.4rem"
         }}>
             { subsidiaries.map( entry =>
                 <CompanyHeader link entry={entry} key={entry.names[0]} /> ) }

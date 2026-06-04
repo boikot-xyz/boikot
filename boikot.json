@@ -29505,6 +29505,87 @@
             "updatedAt": "2026-06-01T08:53:58.578Z",
             "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Rimmel"
+        },
+        "rip-curl": {
+            "key": "rip-curl",
+            "names": [
+                "Rip Curl"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear",
+                "clothing",
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "kmd-brands"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/30/Rip_Curl_logo.svg",
+            "siteUrl": "http://www.ripcurl.com/",
+            "updatedAt": "2026-06-02T12:11:22.211Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rip_Curl"
+        },
+        "river-island": {
+            "key": "river-island",
+            "names": [
+                "River Island",
+                "River Island Clothing Co. Limited",
+                "RiverIsland",
+                "RI"
+            ],
+            "comment": "River Island is a British fashion retailer that has sold sexist products [1, has been linked to exploitation of garment workers in its supply chain [2][3][4], failed to pay minimum wage [5], and has connections to Israel and Zionism [6].",
+            "sources": {
+                "1": "https://www.theguardian.com/business/2014/may/06/river-island-anti-nag-gag-off-sale-sexism-twitter",
+                "2": "https://uk.news.yahoo.com/river-island-responds-dispatches-3-123805139.html",
+                "3": "https://www.bbc.co.uk/news/articles/c4ng1y78wppo",
+                "4": "https://www.theguardian.com/society/2017/jan/23/textile-firms-paying-uk-workers-3-per-hour-investigation-finds",
+                "5": "https://www.gov.uk/government/news/over-500-companies-named-for-not-paying-minimum-wage",
+                "6": "https://www.thejc.com/news/isrotel-founder-david-lewis-dies-at-87-khjf9asd"
+            },
+            "sourceNotes": {
+                "1": "sold sexist products",
+                "2": "exploitation of garment workers in supply chain",
+                "3": "exploitation of garment workers in supply chain",
+                "4": "exploitation of garment workers in supply chain",
+                "5": "failed to pay minimum wage",
+                "6": "connections to israel and zionism"
+            },
+            "tags": [
+                "retail",
+                "clothing"
+            ],
+            "score": 42,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/River_Island_logo_2024.svg",
+            "siteUrl": "http://riverisland.com/",
+            "updatedAt": "2026-06-03T17:34:27.564Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/River_Island"
+        },
+        "robert-dyas": {
+            "key": "robert-dyas",
+            "names": [
+                "Robert Dyas"
+            ],
+            "comment": "Robert Dyas is a British retailer that has been criticized for poor customer service [1][2].",
+            "sources": {
+                "1": "https://forums.moneysavingexpert.com/discussion/6538599/robert-dyas",
+                "2": "https://forums.moneysavingexpert.com/discussion/6472853/robert-dyas-complaints"
+            },
+            "sourceNotes": {
+                "1": "poor customer service",
+                "2": "poor customer service"
+            },
+            "tags": [],
+            "score": 50,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cd/Robert_Dyas.png",
+            "siteUrl": "http://www.robertdyas.co.uk/",
+            "updatedAt": "2026-06-03T17:34:27.564Z",
+            "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Dyas"
         }
     }
 }
