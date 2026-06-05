@@ -29586,6 +29586,59 @@
             "updatedAt": "2026-06-03T17:34:27.564Z",
             "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Dyas"
+        },
+        "roche": {
+            "key": "roche",
+            "names": [
+                "Roche",
+                "F. Hoffmann-La Roche AG",
+                "Roche Holding AG",
+                "Hoffmann-La Roche",
+                "Hoffmann, Traub & Co.",
+                "RO",
+                "ROG"
+            ],
+            "comment": "Roche is a Swiss pharmaceutical company that has violated marketing regulations by omitting safety information [1], engaged in price fixing and other anticompetitive practices [2][3], illegally promoted drugs for off‑label uses [4] and committed hazardous waste environmental violations [5]. The firm has also underpaid and discriminated against employees [6][7], penalised a whistleblower who exposed regulatory lies [8], continued operations in Russia [9], exploited people in developing countries for clinical trials [10], failed to report thousands of side‑effect cases and deaths related to its medicines [11], conducted trials using organs from executed prisoners in China [12], and collaborated with Nazis during World War II [13].",
+            "sources": {
+                "1": "https://www.fiercepharma.com/marketing/roche-again-found-guilty-most-serious-marketing-breach-time-omitting-safety-information",
+                "2": "https://www.nytimes.com/2000/03/31/business/settlement-in-vitamin-case-is-approved.html",
+                "3": "https://www.law360.com/articles/81272/-33m-roche-antitrust-deal-gets-final-ok-",
+                "4": "https://www.justice.gov/archive/opa/pr/2006/October/06_civ_728.html",
+                "5": "https://www.epa.gov/newsreleases/genentech-pay-penalty-claims-hazardous-waste-violations-south-san-francisco-facility",
+                "6": "https://web.archive.org/web/20150302054833/http://gbdhlegal.com/cases/galu-v-genentech-inc/",
+                "7": "https://law.justia.com/cases/federal/district-courts/nevada/nvdce/2:2009cv00245/64263/42/",
+                "8": "https://www.irishtimes.com/business/work/2023/11/16/pharma-giant-roche-ordered-to-pay-whistleblower-8000-for-penalising-him-over-protected-disclosure/",
+                "9": "https://leave-russia.org/roche",
+                "10": "https://www.publiceye.ch/en/media-corner/press-releases/detail/clinical-trials-roche-and-novartis-neglect-their-ethical-responsibility-in-emerging-countries",
+                "11": "https://european-biotechnology.com/latest-news/roche-does-not-have-to-pay-us685m-fine/",
+                "12": "https://www.jstor.org/stable/42921383",
+                "13": "https://web.archive.org/web/20220206230020/https://www.swissinfo.ch/eng/chemical-firms-exploited-nazi-links--probe-found/2218350"
+            },
+            "sourceNotes": {
+                "1": "violated marketing regulations, omitting safety information",
+                "2": "price fixing",
+                "3": "anticompetitive practices",
+                "4": "illegal promotion of drugs for off-label uses",
+                "5": "hazardous waste environmental violations",
+                "6": "underpaid employees",
+                "7": "discriminated against employees",
+                "8": "penalised whistleblower for reporting that the company lied to regulators",
+                "9": "continuing to operate in russia",
+                "10": "exploitative use of people in developing countries for clinical trials",
+                "11": "failed to report thousands of cases of side effects and deaths related to their medicines",
+                "12": "conducted clinical trials with organs taken from executed prisoners in China",
+                "13": "collaborated with Nazis in WW2"
+            },
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/F._Hoffmann-La_Roche_2021_logo.svg",
+            "siteUrl": "https://www.roche.com/",
+            "updatedAt": "2026-06-04T21:50:53.833Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Roche",
+            "error": "TypeError: Cannot read properties of undefined (reading '0')"
         }
     }
 }
