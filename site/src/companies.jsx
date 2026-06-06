@@ -124,9 +124,9 @@ function Owners({ entry }) {
     if( !entry.ownedBy.length ) return null;
 
     return <Stack>
-        <p style={{ marginBottom: "0.5rem" }}>
+        <h3 style={{ fontSize: "1.5rem", marginBottom: "0.5rem" }}>
             { ownerString(entry) }
-        </p>
+        </h3>
         { entry.ownedBy.map( code =>
             boikot.companies[code] && <Company
                 key={code} compact entry={boikot.companies[code]} />
@@ -134,7 +134,15 @@ function Owners({ entry }) {
     </Stack>;
 }
 
+function ScrollForMore({ style }) {
+    return <Row style={{ gap: "0.5rem", justifyItems: "center", position: "absolute", bottom: "0.5rem", right: "0.5rem", padding: "0.5rem 1rem", pointerEvents: "none", borderRadius: "1rem", zIndex: 100, background: "#0004", ...style }}>
+        <Icon i="arrow-down" height="1rem" />
+        <p> Scroll for more </p> 
+    </Row>
+}
+
 function Alternatives({ entry }) {
+    const [showScroll, setShowScroll] = React.useState(true);
     const alternativeEntries = Object.values(boikot.companies)
         .filter( otherEntry =>
             otherEntry.tags.includes( entry.tags[0] )
@@ -144,35 +152,41 @@ function Alternatives({ entry }) {
             b.score - a.score
         );
     if( !alternativeEntries.length ) return null;
-    return <Card style={{ marginTop: "0.8rem", padding: "1.4rem", paddingBottom: 0 }} gap=".75rem">
+    return <Card style={{ marginTop: "0.8rem", padding: "1.4rem", paddingBottom: 0, position: "relative" }} gap=".75rem">
         <h3 style={{ fontSize: "1.5rem" }}> Alternatives to { entry.names[0] } </h3>
         <Stack style={{
-            maxHeight: "18rem", overflowY: "scroll", paddingBottom: "1.4rem"
-        }}>
+            maxHeight: "26rem", overflowY: "scroll", paddingBottom: "1.4rem"
+        }} onScroll={showScroll ? (() => setShowScroll(false)) : undefined}>
             <p> Send your message and feel good about where you shop. These companies are alternatives to { entry.names[0] }. </p>
-            <p style={{ fontSize: "0.85rem", marginBottom: "0.25rem" }}> {alternativeEntries.length} alternative companies tagged: <TagBadge>{ entry.tags[0] }</TagBadge> </p>
-            { alternativeEntries.map( otherEntry =>
-                <CompanyHeader
-                    key={otherEntry.names[0]} link entry={otherEntry} showComment />
+            <p style={{ fontSize: "0.85rem", marginBottom: "0.25rem", lineHeight: "1.75rem" }}> <span style={{marginRight: "0.2rem"}}>{alternativeEntries.length} alternative companies tagged:</span> <TagBadge>{ entry.tags[0] }</TagBadge> </p>
+            { alternativeEntries.map( (otherEntry, i) =>
+                <Row style={{ alignItems: "start", maxWidth: "100%" }}>
+                    <p style={{ fontWeight: 600, paddingTop: "0.3rem" }}>{i+1}.</p>
+                    <CompanyHeader
+                        key={otherEntry.names[0]} link entry={otherEntry} showComment />
+                </Row>
             ) }
+            { alternativeEntries.length > 3 && showScroll && <ScrollForMore style={{ background: "var(--accent-darker-transparent)" }} />}
             <p> Also consider shopping at small local businesses around you! </p>
         </Stack>
     </Card>;
 }
 
 function Subsidiaries({ entry }) {
+    const [showScroll, setShowScroll] = React.useState(true);
     const subsidiaries = Object.values(boikot.companies).filter(
         other => other.ownedBy.includes( getKey(entry) ) );
     if( !subsidiaries.length ) return null;
     const pluralText = subsidiaries.length <= 1 ? `this company` : `these ${subsidiaries.length} companies`;
-    return <Card style={{ marginTop: "0.8rem", padding: "1.4rem", paddingBottom: 0, background: "#a0f1", borderColor: "#a6f" }} gap=".75rem">
+    return <Card style={{ marginTop: "0.8rem", padding: "1.4rem", paddingBottom: 0, background: "#0b0620", borderColor: "#a6f", position: "relative" }} gap=".75rem">
         <h3 style={{ fontSize: "1.5rem" }}> Companies owned by { entry.names[0] } </h3>
         <p> {entry.names[0]} is the parent of {pluralText}: </p>
         <Stack style={{
             maxHeight: "18rem", overflowY: "scroll", paddingBottom: "1.4rem"
-        }}>
+        }} onScroll={showScroll ? (() => setShowScroll(false)) : undefined}>
             { subsidiaries.map( entry =>
                 <CompanyHeader link entry={entry} key={entry.names[0]} /> ) }
+            { subsidiaries.length > 3 && showScroll && <ScrollForMore style={{ background: "#0b062088" }} />}
         </Stack>
     </Card>;
 }
@@ -211,6 +225,19 @@ function CompanyActionButtons({ entry, setShowLinks }) {
     </FlexRow>
 }
 
+function EthicsJudgement({ entry }) {
+    
+    if( entry.ownedBy.length || entry.score === null ) return null;
+
+    const ethicsJudgement =
+        entry.score < 20 ? "is highly unethical" :
+        entry.score < 40 ? "is not ethical" :
+        entry.score < 60 ? "is not that bad" :
+        "is an ethical company";
+
+    return <h3 style={{ fontSize: "1.5rem"}}> {entry.names[0]} {ethicsJudgement} </h3>
+}
+
 export function Company({ entry, compact }) {
     const [ showLinks, setShowLinks ] = React.useState(false);
 
@@ -221,9 +248,13 @@ export function Company({ entry, compact }) {
         <CompanyHeader entry={entry} link={!!compact} />
         <Tags tags={entry.tags} />
         { !compact &&
-            <h3 style={{ fontSize: "1.5rem", margin: "0 0 -.5rem"}}>
-                Is {entry.names[0]} Ethical?
-            </h3> }
+            <>
+                <p style={{ textTransform: "uppercase", fontSize: "0.7rem", letterSpacing: "0.15rem", margin: "0 0 -0.5rem" }}>
+                    Is {entry.names[0]} Ethical?
+                </p>
+            </>
+        }
+        <EthicsJudgement entry={entry} />
         { entry.comment && <Comment>
             { renderReferences(entry) }
         </Comment> }
