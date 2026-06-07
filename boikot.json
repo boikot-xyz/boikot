@@ -8759,7 +8759,8 @@
             "sources": {},
             "sourceNotes": {},
             "tags": [
-                "clothing"
+                "clothing",
+                "sportswear"
             ],
             "score": 40,
             "ownedBy": [
@@ -8769,6 +8770,25 @@
             "siteUrl": "https://www.quiksilver.com/",
             "updatedAt": "2025-09-09T19:56:36.347Z",
             "key": "quiksilver"
+        },
+        "quiksilver": {
+            "names": [
+                "Roxy"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://seeklogo.com/images/R/roxy-logo-DD2027C284-seeklogo.com.png",
+            "siteUrl": "https://www.roxy.com/",
+            "updatedAt": "2025-09-09T19:56:36.347Z",
+            "key": "roxy"
         },
         "airwalk": {
             "names": [
@@ -29639,6 +29659,27 @@
             "updatedAt": "2026-06-04T21:50:53.833Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Roche",
             "error": "TypeError: Cannot read properties of undefined (reading '0')"
+        },
+        "rossingol": {
+            "key": "rossingol",
+            "names": [
+                "Rossingol",
+                "Skis Rossingol"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear"
+            ],
+            "score": null,
+            "ownedBy": [
+                "altor-capital-partners"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Rossignol-logo.svg",
+            "siteUrl": "https://www.rossignol.com/",
+            "updatedAt": "2026-06-05T08:19:31.496Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Skis_Rossignol"
         }
     }
 }
