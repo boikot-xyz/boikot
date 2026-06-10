@@ -8752,27 +8752,6 @@
         },
         "quiksilver": {
             "names": [
-                "Quiksilver",
-                "Quiksilver, Inc."
-            ],
-            "comment": "",
-            "sources": {},
-            "sourceNotes": {},
-            "tags": [
-                "clothing",
-                "sportswear"
-            ],
-            "score": 40,
-            "ownedBy": [
-                "authentic-brands-group"
-            ],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c6/Quiksilver-brand.svg",
-            "siteUrl": "https://www.quiksilver.com/",
-            "updatedAt": "2025-09-09T19:56:36.347Z",
-            "key": "quiksilver"
-        },
-        "quiksilver": {
-            "names": [
                 "Roxy"
             ],
             "comment": "",
@@ -29680,6 +29659,406 @@
             "siteUrl": "https://www.rossignol.com/",
             "updatedAt": "2026-06-05T08:19:31.496Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Skis_Rossignol"
+        },
+        "ryanair": {
+            "key": "ryanair",
+            "names": [
+                "Ryanair",
+                "Ryanair Holdings PLC",
+                "RYA",
+                "RYAAY",
+                "Ryanair DAC"
+            ],
+            "comment": "Ryanair is an Irish airline that has been accused of greenwashing and false environmental claims [1][2], engaged in anticompetitive practices [3][4] and pursued anti‑union tactics [5]. The company has also misled customers about fares and services [6][7] while employing tax avoidance strategies [8].",
+            "sources": {
+                "1": "https://www.bbc.co.uk/news/business-51372780",
+                "2": "https://news.sky.com/story/ryanair-adverts-banned-for-making-misleading-co2-emissions-claims-11926471",
+                "3": "https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota",
+                "4": "https://www.rte.ie/news/business/2025/1223/1550281-italy-regulator-fines-ryanair/",
+                "5": "https://www.business-humanrights.org/en/latest-news/unions-allege-ryanair-is-breaching-labour-laws-by-trying-to-deter-workers-from-striking-co-denies-allegations/",
+                "6": "https://news.sky.com/story/ryanair-faces-action-by-regulator-for-persistently-misleading-passengers-11056439",
+                "7": "https://www.ft.com/content/a2f8509d-48a3-3f6b-84bc-5e08a0139d0c?syn-25a6b1a6=1",
+                "8": "https://www.bbc.co.uk/news/business-24371633"
+            },
+            "sourceNotes": {
+                "1": "greenwashing and false environmental claims",
+                "2": "greenwashing and false environmental claims",
+                "3": "anticompetetive practices",
+                "4": "anticompetetive practices",
+                "5": "anti union practices",
+                "6": "misleading customers",
+                "7": "misleading customers",
+                "8": "tax avoidance"
+            },
+            "tags": [
+                "airline"
+            ],
+            "score": 44,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d5/Ryanair.svg",
+            "siteUrl": "https://www.ryanair.com/",
+            "updatedAt": "2026-06-06T21:02:14.117Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ryanair"
+        },
+        "fujifilm": {
+            "key": "fujifilm",
+            "names": [
+                "Fujifilm",
+                "Fujifilm Holdings Corporation",
+                "富士フイルムホールディングス株式会社",
+                "Fuji-fuirumu Hōrudingusu kabushiki gaisha",
+                "富士フイルム",
+                "Fuji-fuirumu",
+                "Fuji",
+                "Fuji Photo Film Co",
+                "Fuji Photo Film Co., Ltd."
+            ],
+            "comment": "Fujifilm is a Japanese company that has been accused of unfair contracts with small businesses [1][2] and tax avoidance [3]. It has also faced environmental waste violations [4][5][6] and chemical poisoning of workers in its supply chain [7].",
+            "sources": {
+                "1": "https://www.accc.gov.au/media-release/38-contract-terms-in-11-fuji-small-business-contracts-declared-unfair-and-void",
+                "2": "https://www.businessnewsaustralia.com/articles/court-finds-fuji-misled-thousands-of-businesses-with-unfair-printer-contracts.html",
+                "3": "https://www.innercitypress.com/sdny16vyskocilfujifilmicp093020.html",
+                "4": "https://www.reliableplant.com/Read/8192/fujicolor-processing-pleads-guilty-to-environmental-crime",
+                "5": "https://www.justice.gov/archive/opa/pr/2007/September/07_enrd_685.html",
+                "6": "https://portal.deq.virginia.gov/public-docs/80FFD996-0000-CD12-8A96-3130088993CE",
+                "7": "https://www.somo.nl/poisonous-pearl/"
+            },
+            "sourceNotes": {
+                "1": "unfair contracts with small businesses",
+                "2": "unfair contracts with small businesses",
+                "3": "tax avoidance",
+                "4": "environmental waste violations",
+                "5": "environmental waste violations",
+                "6": "environmental waste violations",
+                "7": "chemical poisoning of workers in supply chain"
+            },
+            "tags": [
+                "electronics"
+            ],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Fujifilm_logo.svg",
+            "siteUrl": "https://holdings.fujifilm.com/en",
+            "updatedAt": "2026-06-09T07:32:38.784Z",
+            "error": "Error: read EADDRNOTAVAIL",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Fujifilm"
+        },
+        "albertsons": {
+            "key": "albertsons",
+            "names": [
+                "Albertsons",
+                "Albertsons Companies, Inc.",
+                "Albertson's Inc.",
+                "ACI"
+            ],
+            "comment": "Albertsons is an American grocery chain that has of overcharged customers [1], underpaid employees [2][3], violated data privacy laws [4], and caused environmental violations [5][6]. The company has also subjected employees to unsafe working conditions [7], engaged in racist hiring and employment practices [8], discriminated against disabled employees [9], and played a role in the opioid crisis [10].",
+            "sources": {
+                "1": "https://www.ocregister.com/2024/10/04/albertsons-ordered-to-pay-4-million-for-overcharging-california-shoppers/",
+                "2": "https://www.law360.com/articles/21232/albertsons-employees-settle-for-53m",
+                "3": "https://www.bigclassaction.com/settlement/albertsons-termination-paycheck.php",
+                "4": "https://www.law360.com/articles/1700600/albertsons-unit-inks-1-1m-deal-in-biometric-privacy-case",
+                "5": "https://ww2.arb.ca.gov/albertsons-companies-inc-settlement",
+                "6": "https://web.archive.org/web/20160321050936/http://rivcoda.org/opencms/system/galleries/download/daReleases/NEWS_RELEASE_--_Albertsons_ordered_to_pay_$3_million_settlement_in_hazardous_waste_lawsuit.pdf",
+                "7": "https://www.dir.ca.gov/DIRNews/2025/2025-02.html",
+                "8": "https://www.eeoc.gov/newsroom/albertsons-agrees-pay-89-million-job-bias-based-race-color-national-origin-retaliation",
+                "9": "https://www.eeoc.gov/newsroom/jewel-osco-agrees-pay-195-million-resolve-eeoc-disability-investigation",
+                "10": "https://www.claimsjournal.com/news/national/2026/04/14/336872.htm"
+            },
+            "sourceNotes": {
+                "1": "overcharged customers",
+                "2": "underpaid employees",
+                "3": "underpaid employees",
+                "4": "data privacy violations",
+                "5": "environmental violations",
+                "6": "environmental violations",
+                "7": "unsafe working conditions",
+                "8": "racism in hiring and employment practices",
+                "9": "discrimination against disabled employees",
+                "10": "contributed to opioid crisis"
+            },
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/69/Albertsons_Companies_%28logo%29.svg",
+            "siteUrl": "https://www.albertsons.com/",
+            "updatedAt": "2026-06-10T07:08:05.907Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Albertsons"
+        },
+        "acme-markets": {
+            "key": "acme-markets",
+            "names": [
+                "Acme Markets"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "albertsons"
+            ],
+            "updatedAt": "2026-06-10T07:28:07.897Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Acme_Markets",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Acme_Markets_lolo.svg",
+            "siteUrl": "http://acmemarkets.com/"
+        },
+        "carrs-safeway": {
+            "key": "carrs-safeway",
+            "names": [
+                "Carrs-Safeway"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "albertsons"
+            ],
+            "updatedAt": "2026-06-10T07:28:08.403Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Carrs-Safeway",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Carrs_Safeway_Logo.svg",
+            "siteUrl": "http://www.carrsqc.com/"
+        },
+        "haggen": {
+            "key": "haggen",
+            "names": [
+                "Haggen"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "albertsons"
+            ],
+            "updatedAt": "2026-06-10T07:28:09.677Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Haggen_(supermarket)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Haggen_logo.svg",
+            "siteUrl": "http://www.haggen.com/"
+        },
+        "jewel-osco": {
+            "key": "jewel-osco",
+            "names": [
+                "Jewel-Osco"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "albertsons"
+            ],
+            "updatedAt": "2026-06-10T07:28:10.220Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Jewel-Osco",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Jewel-Osco_logo.svg",
+            "siteUrl": "http://jewelosco.com/"
+        },
+        "kings": {
+            "key": "kings",
+            "names": [
+                "Kings"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "albertsons"
+            ],
+            "updatedAt": "2026-06-10T07:28:11.751Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kings_Food_Markets",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/09/Kings_Food_Markets_logo.svg",
+            "siteUrl": "http://kingsfoodmarkets.com/"
+        },
+        "pavilions": {
+            "key": "pavilions",
+            "names": [
+                "Pavilions"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "albertsons"
+            ],
+            "updatedAt": "2026-06-10T07:28:12.229Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pavilions_(supermarket)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Pavilions_%28supermarket%29_Logo.svg",
+            "siteUrl": "http://pavilions.com/"
+        },
+        "plated": {
+            "key": "plated",
+            "names": [
+                "Plated"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "albertsons"
+            ],
+            "updatedAt": "2026-06-10T07:28:13.047Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Plated_(meal_kits)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Plated_Logo_Red_Large.png",
+            "siteUrl": "https://plated.com/"
+        },
+        "randalls": {
+            "key": "randalls",
+            "names": [
+                "Randalls"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "albertsons"
+            ],
+            "updatedAt": "2026-06-10T07:28:13.944Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Randalls",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Randalls_new_logo.svg",
+            "siteUrl": "http://www.randalls.com/"
+        },
+        "safeway": {
+            "key": "safeway",
+            "names": [
+                "Safeway"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "albertsons"
+            ],
+            "updatedAt": "2026-06-10T07:28:14.648Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Safeway",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Safeway_Logo.svg",
+            "siteUrl": "http://safeway.com/"
+        },
+        "shaw's-and-star-market": {
+            "key": "shaw's-and-star-market",
+            "names": [
+                "Shaw's and Star Market"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "albertsons"
+            ],
+            "updatedAt": "2026-06-10T07:28:14.815Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Shaw%27s_and_Star_Market",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Shaw%27s_and_Star_Market_logos.svg",
+            "siteUrl": "http://shaws.com/"
+        },
+        "tom-thumb": {
+            "key": "tom-thumb",
+            "names": [
+                "Tom Thumb"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "albertsons"
+            ],
+            "updatedAt": "2026-06-10T07:28:15.326Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom_Thumb_(grocery_store)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Tom_Thumb_logo.svg",
+            "siteUrl": "http://www.tomthumb.com/"
+        },
+        "united-supermarkets": {
+            "key": "united-supermarkets",
+            "names": [
+                "United Supermarkets"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "albertsons"
+            ],
+            "updatedAt": "2026-06-10T07:28:15.650Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/United_Supermarkets",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f5/United_Supermarkets_logo.svg",
+            "siteUrl": "http://www.unitedsupermarkets.com/"
+        },
+        "vons": {
+            "key": "vons",
+            "names": [
+                "Vons"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "albertsons"
+            ],
+            "updatedAt": "2026-06-10T07:28:16.646Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Vons",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Vons_logo.svg",
+            "siteUrl": "http://vons.com/"
         }
     }
 }
