@@ -30059,6 +30059,272 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Vons",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Vons_logo.svg",
             "siteUrl": "http://vons.com/"
+        },
+        "anta-sports": {
+            "key": "anta-sports",
+            "names": [
+                "Anta Sports",
+                "Anta Sports",
+                "Anta Sports Products Limited",
+                "安踏体育用品有限公司",
+                "2020",
+                "安踏體育用品有限公司"
+            ],
+            "comment": "Anta Sports is a Chinese sportswear company that has engaged in age discrimination [1] and continues operations in Russia amid international scrutiny [2]. The firm has been linked to forced labour in its supply chain, including the use of cotton produced by Uyghur forced labour after exiting the Better Cotton Initiative [3][4], and broader human rights abuses have been reported [5].",
+            "sources": {
+                "1": "https://www.eeoc.gov/newsroom/amer-sports-winter-outdoor-company-pay-350000-eeoc-age-discrimination-and-retaliation-case",
+                "2": "https://www.sgieurope.com/anta-rus-opens-flagship-store-in-moscow/102799.article",
+                "3": "https://www.axios.com/2021/04/27/olympic-uniform-supplier-anta-xinjiang-cotton",
+                "4": "https://www.business-humanrights.org/en/latest-news/chinese-company-anta-to-quit-bci-will-continue-to-use-cotton-from-xinjiang/",
+                "5": "https://www.rollingstone.com/culture/culture-sports/kyrie-irving-anta-china-human-rights-abuses-1234839461/"
+            },
+            "sourceNotes": {
+                "1": "age discrimination",
+                "2": "still operating in russia",
+                "3": "forced labour in supply chain",
+                "4": "exited the Better Cotton Initiative to continue using cotton produced by forced Uyghur labour",
+                "5": "human rights abuses"
+            },
+            "tags": [
+                "sportswear",
+                "clothing"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Anta_logo.svg",
+            "siteUrl": "https://anta.com/",
+            "updatedAt": "2026-06-11T17:47:46.883Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Anta_Sports"
+        },
+        "amer-sports": {
+            "key": "amer-sports",
+            "names": [
+                "Amer Sports"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear",
+                "clothing"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "anta-sports"
+            ],
+            "updatedAt": "2026-06-15T06:59:50.544Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Amer_Sports",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f9/Amer_Sports.svg",
+            "siteUrl": "https://amersports.com/"
+        },
+        "arc'teryx": {
+            "key": "arc'teryx",
+            "names": [
+                "Arc'teryx"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear",
+                "clothing"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "anta-sports"
+            ],
+            "updatedAt": "2026-06-15T06:59:50.841Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Arc%27teryx",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/72/ARC%27TERYX_logo.svg",
+            "siteUrl": "http://arcteryx.com/"
+        },
+        "armada": {
+            "key": "armada",
+            "names": [
+                "Armada"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear",
+                "clothing"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "anta-sports"
+            ],
+            "updatedAt": "2026-06-15T06:59:50.938Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Armada_(company)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Armada_ski_logo.png",
+            "siteUrl": "https://www.armadaskis.com/en-us"
+        },
+        "atec": {
+            "key": "atec",
+            "names": [
+                "Atec"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear",
+                "clothing"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "anta-sports"
+            ],
+            "updatedAt": "2026-06-15T06:59:51.400Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Atec",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2c/Atec%2C_Inc._Logo.png"
+        },
+        "atomic": {
+            "key": "atomic",
+            "names": [
+                "Atomic"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear",
+                "clothing"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "anta-sports"
+            ],
+            "updatedAt": "2026-06-15T06:59:51.452Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Atomic_Skis",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Atomic_ski_logo.png",
+            "siteUrl": "http://www.atomic.com/"
+        },
+        "demarini": {
+            "key": "demarini",
+            "names": [
+                "DeMarini"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear",
+                "clothing"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "anta-sports"
+            ],
+            "updatedAt": "2026-06-15T06:59:51.655Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/DeMarini",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Demarini_complete_logo.svg",
+            "siteUrl": "https://www.demarini.com/en-us"
+        },
+        "evoshield": {
+            "key": "evoshield",
+            "names": [
+                "EvoShield"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear",
+                "clothing"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "anta-sports"
+            ],
+            "updatedAt": "2026-06-15T06:59:52.118Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/EvoShield",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Evoshield_logo.png",
+            "siteUrl": "https://www.evoshield.com/en-us"
+        },
+        "louisville-slugger": {
+            "key": "louisville-slugger",
+            "names": [
+                "Louisville Slugger"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear",
+                "clothing"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "anta-sports"
+            ],
+            "updatedAt": "2026-06-15T06:59:52.411Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hillerich_%26_Bradsby",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Hillerich_bradsby_co_logo.png",
+            "siteUrl": "https://hillerichandbradsby.com/"
+        },
+        "peak-performance": {
+            "key": "peak-performance",
+            "names": [
+                " Peak Performance"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear",
+                "clothing"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "anta-sports"
+            ],
+            "updatedAt": "2026-06-15T06:59:52.996Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Peak_Performance_(clothing_brand)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Peak_Performance_logo.svg",
+            "siteUrl": "http://peakperformance.com/"
+        },
+        "salomon": {
+            "key": "salomon",
+            "names": [
+                "Salomon"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear",
+                "clothing"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "anta-sports"
+            ],
+            "updatedAt": "2026-06-15T06:59:53.028Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Salomon_Group",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Salomon_logo_2022.svg",
+            "siteUrl": "http://www.salomon.com/"
+        },
+        "wilson": {
+            "key": "wilson",
+            "names": [
+                "Wilson"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear",
+                "clothing"
+            ],
+            "score": 25,
+            "ownedBy": [
+                "anta-sports"
+            ],
+            "updatedAt": "2026-06-15T06:59:53.096Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilson_Sporting_Goods",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Wilson_logo.svg",
+            "siteUrl": "http://www.wilson.com/"
         }
     }
 }
