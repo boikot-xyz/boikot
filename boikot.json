@@ -30325,6 +30325,106 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilson_Sporting_Goods",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Wilson_logo.svg",
             "siteUrl": "http://www.wilson.com/"
+        },
+        "santander": {
+            "key": "santander",
+            "names": [
+                "Santander",
+                "Banco Santander S.A.",
+                "Santander Group",
+                "Banco Santander",
+                "SAN",
+                "BNC"
+            ],
+            "comment": "Santander is a Spanish banking company that has been accused of poor working conditions [1], underpaying employees [2], giving customers bad investment advice [3], and engaging in tax avoidance [4] and tax fraud [5]. It also enabled money laundering [6][7][8], overcharged customers on predatory car loans [9][10][11] and used deceptive loan practices [12], while financing fossil fuel projects [13] and contributing to deforestation in Paraguay [14] and South America with more than $1 billion in loans [15].",
+            "sources": {
+                "1": "https://cwa-union.org/news/workers-shut-down-santander-headquarters-in-mass-protest",
+                "2": "https://www.law360.com/articles/1460110/santander-managers-reach-4-25m-ot-deal-with-bank",
+                "3": "https://www.fca.org.uk/news/press-releases/santander-uk-fined-%C2%A3124m-widespread-investment-advice-failings",
+                "4": "https://theecologist.org/2018/may/21/are-you-funding-fracking-and-nuclear-weapon-manufacturing",
+                "5": "https://www.reuters.com/business/finance/santander-agrees-26-million-settlement-france-tax-fraud-case-2025-12-05/",
+                "6": "https://www.bbc.co.uk/news/business-63914275",
+                "7": "https://www.standard.co.uk/business/santander-ant-dec-money-laundering-fca-fines-b1046049.html",
+                "8": "https://www.fca.org.uk/news/press-releases/fca-fines-santander-uk-repeated-anti-money-laundering-failures",
+                "9": "https://www.theguardian.com/business/2026/feb/04/santander-fca-compensation-scheme-car-loan-scandal-bill",
+                "10": "https://www.ft.com/content/e10dd7d9-299a-4a55-b875-328bea7744c5?syn-25a6b1a6=1",
+                "11": "https://oag.ca.gov/news/press-releases/attorney-general-becerra-announces-over-550-million-settlement-against-nation%E2%80%99s",
+                "12": "https://web.archive.org/web/20181121034812/https://www.consumerfinance.gov/about-us/newsroom/bureau-consumer-financial-protection-settles-santander-consumer-usa-inc/",
+                "13": "https://www.bankingonclimatechaos.org/wp-content/uploads/2026/06/BOCC_2026_vFINAL.pdf",
+                "14": "https://globalwitness.org/en/campaigns/forests/santander-and-blackrock-continue-to-turn-a-blind-eye-to-deforestation-of-paraguays-gran-chaco/",
+                "15": "https://www.forbes.com/sites/davidrvetter/2025/05/15/santander-blamed-in--13-billion-south-american-deforestation-scandal/"
+            },
+            "sourceNotes": {
+                "1": "poor working conditions",
+                "2": "underpaid employees",
+                "3": "provided poor investment advice to customers",
+                "4": "linked to tax avoidance",
+                "5": "comitted tax fraud",
+                "6": "enabled money laundering",
+                "7": "enabled money laundering",
+                "8": "enabled money laundering",
+                "9": "overcharged customers on predatory car loans",
+                "10": "overcharged customers on predatory car loans",
+                "11": "overcharged customers on predatory car loans",
+                "12": "deceptive and predatory loan practices",
+                "13": "increasing financing for fossil fuel projects",
+                "14": "enabling deforestation in paraguay",
+                "15": "provided over $1 billion in financing for deforestation in south america"
+            },
+            "tags": [
+                "finance",
+                "bank"
+            ],
+            "score": 21,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Banco_Santander_Logotipo.svg",
+            "siteUrl": "https://santander.com/",
+            "updatedAt": "2026-06-15T06:59:06.125Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Banco_Santander"
+        },
+        "onstar": {
+            "key": "onstar",
+            "names": [
+                "OnStar"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cars",
+                "forced labour",
+                "unsafe working conditions"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "general-motors"
+            ],
+            "updatedAt": "2026-06-17T09:28:55.761Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/OnStar",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/OnStar_logo.svg",
+            "siteUrl": "https://www.onstar.com/us/en/home/"
+        },
+        "acdelco": {
+            "key": "acdelco",
+            "names": [
+                "ACDelco"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cars",
+                "forced labour",
+                "unsafe working conditions"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "general-motors"
+            ],
+            "updatedAt": "2026-06-17T09:28:56.053Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/ACDelco",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/ACDelco_logo.svg",
+            "siteUrl": "https://www.gmparts.com/"
         }
     }
 }

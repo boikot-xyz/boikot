@@ -186,7 +186,7 @@ function Subsidiaries({ entry }) {
         }} onScroll={showScroll ? (() => setShowScroll(false)) : undefined}>
             { subsidiaries.map( entry =>
                 <CompanyHeader link entry={entry} key={entry.names[0]} /> ) }
-            { subsidiaries.length > 3 && showScroll && <ScrollForMore style={{ background: "#0b062088" }} />}
+            { subsidiaries.length > 4 && showScroll && <ScrollForMore style={{ background: "#0b062088" }} />}
         </Stack>
     </Card>;
 }
