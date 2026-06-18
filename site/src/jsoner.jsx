@@ -798,6 +798,11 @@ function Brander() {
                 onChange={e => setHtml(e.target.value)} />
         </Entry>
         <FlexRow style={{ justifyContent: "right" }}>
+            <Link to={makeWikipediaSearchURL(entryState.names[0])} target="_blank">
+                <PillButton $outline>
+                    search for wiki page 🌐
+                </PillButton> 
+            </Link>
             <PillButton $outline onClick={getBrandsData} title="Click to gather brand data" disabled={!backendUp || !html}>
                 collect brand data  🏷️
             </PillButton>
