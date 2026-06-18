@@ -30425,6 +30425,143 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/ACDelco",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/ACDelco_logo.svg",
             "siteUrl": "https://www.gmparts.com/"
+        },
+        "saturn-corporation": {
+            "key": "saturn-corporation",
+            "names": [
+                "Saturn Corporation",
+                "Saturn"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cars",
+                "forced labour",
+                "unsafe working conditions"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "general-motors"
+            ],
+            "updatedAt": "2026-06-17T15:32:26.356Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Saturn_Corporation",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Saturn_corporation_logo.png"
+        },
+        "genesco": {
+            "key": "genesco",
+            "names": [
+                "Genesco",
+                "Genesco Inc.",
+                "Jarman Shoe Company",
+                "General Shoe Corporation",
+                "GCO"
+            ],
+            "comment": "Genesco is an American footwear company that has faced criticism for its labour practices. Employees have reported being underpaid [1][2], and the company has been accused of gender discrimination against staff [3].",
+            "sources": {
+                "1": "https://violationtracker.goodjobsfirst.org/archive/FLSA699.pdf",
+                "2": "https://violationtracker.goodjobsfirst.org/archive/FLSA697.pdf",
+                "3": "https://www.eeoc.gov/newsroom/retailer-genesco-sued-sex-discrimination"
+            },
+            "sourceNotes": {
+                "1": "underpaid employees",
+                "2": "underpaid employees",
+                "3": "gender discrimination against employees"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/29/Genesco_logo.svg",
+            "siteUrl": "http://www.genesco.com/",
+            "updatedAt": "2026-06-18T16:52:04.289Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Genesco",
+            "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed"
+        },
+        "dockers": {
+            "key": "dockers",
+            "names": [
+                "Dockers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "genesco"
+            ],
+            "updatedAt": "2026-06-18T17:36:33.566Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Dockers_(brand)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/64/Dockers_logo.png",
+            "siteUrl": "http://www.dockers.com/"
+        },
+        "johnston-and-murphy": {
+            "key": "johnston-and-murphy",
+            "names": [
+                "Johnston & Murphy"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "genesco"
+            ],
+            "updatedAt": "2026-06-18T17:36:33.740Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Johnston_%26_Murphy",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/JohnstonAndMurphy.png",
+            "siteUrl": "http://www.johnstonmurphy.com/"
+        },
+        "journeys": {
+            "key": "journeys",
+            "names": [
+                "Journeys"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "genesco"
+            ],
+            "updatedAt": "2026-06-18T17:36:33.808Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Journeys_(company)",
+            "siteUrl": "http://journeys.com/"
+        },
+        "schuh": {
+            "key": "schuh",
+            "names": [
+                "Schuh"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "genesco"
+            ],
+            "updatedAt": "2026-06-18T17:36:33.970Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Schuh",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/be/Schuh_logo.png",
+            "siteUrl": "https://www.schuh.co.uk/"
         }
     }
 }
