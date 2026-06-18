@@ -8750,7 +8750,7 @@
             "updatedAt": "2025-09-09T19:56:36.347Z",
             "key": "billabong"
         },
-        "quiksilver": {
+        "roxy": {
             "names": [
                 "Roxy"
             ],
@@ -30562,6 +30562,27 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Schuh",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/be/Schuh_logo.png",
             "siteUrl": "https://www.schuh.co.uk/"
+        },
+        "quiksilver": {
+            "key": "quiksilver",
+            "names": [
+                "Quiksilver"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "authentic-brands-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c6/Quiksilver-brand.svg",
+            "siteUrl": "https://www.quiksilver.com/",
+            "updatedAt": "2026-06-18T17:42:30.923Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Quiksilver"
         }
     }
 }
