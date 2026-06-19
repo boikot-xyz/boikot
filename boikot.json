@@ -30583,6 +30583,243 @@
             "siteUrl": "https://www.quiksilver.com/",
             "updatedAt": "2026-06-18T17:42:30.923Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Quiksilver"
+        },
+        "mccormick-and-company": {
+            "key": "mccormick-and-company",
+            "names": [
+                "McCormick and Company",
+                "McCormick & Company, Incorporated",
+                "McCormick & Co.",
+                "MKC.V",
+                "MKC"
+            ],
+            "comment": "McCormick and Company is an American spice manufacturer that has been accused of exploiting farmers [1].",
+            "sources": {
+                "1": "https://theecologist.org/2011/jan/25/pepper-how-our-favourite-spice-tainted-deadly-legacy"
+            },
+            "sourceNotes": {
+                "1": "exploitation of farmers"
+            },
+            "tags": [
+                "food"
+            ],
+            "score": 42,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/McCormick.svg",
+            "siteUrl": "http://mccormickcorporation.com/",
+            "updatedAt": "2026-06-18T17:42:30.923Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/McCormick_%26_Company"
+        },
+        "aeroplane-jelly": {
+            "key": "aeroplane-jelly",
+            "names": [
+                "Aeroplane Jelly"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "mccormick-and-company"
+            ],
+            "updatedAt": "2026-06-19T08:44:58.218Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Aeroplane_Jelly",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/10/Aeroplane_Jelly_Logo.png",
+            "siteUrl": "https://www.aeroplanejelly.com.au/"
+        },
+        "cholula-hot-sauce": {
+            "key": "cholula-hot-sauce",
+            "names": [
+                "Cholula Hot Sauce"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "mccormick-and-company"
+            ],
+            "updatedAt": "2026-06-19T08:44:58.710Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cholula_Hot_Sauce",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f3/Cholula_Hot_Sauce_logo.png",
+            "siteUrl": "https://www.cholula.com/"
+        },
+        "frank's-redhot": {
+            "key": "frank's-redhot",
+            "names": [
+                "Frank's RedHot"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "mccormick-and-company"
+            ],
+            "updatedAt": "2026-06-19T08:44:58.777Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank%27s_RedHot",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/83/FranksBottleShot1.jpg",
+            "siteUrl": "http://www.franksredhot.com/"
+        },
+        "french's": {
+            "key": "french's",
+            "names": [
+                "French's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "mccormick-and-company"
+            ],
+            "updatedAt": "2026-06-19T08:44:59.105Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/French%27s",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/6f/French%27s_food_logo.png",
+            "siteUrl": "http://www.frenchsmustard.com/"
+        },
+        "kamis": {
+            "key": "kamis",
+            "names": [
+                "Kamis"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "mccormick-and-company"
+            ],
+            "updatedAt": "2026-06-19T08:44:59.175Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamis",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/ac/Kamis_S.A._Logo.jpg"
+        },
+        "keen's": {
+            "key": "keen's",
+            "names": [
+                "Keen's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "mccormick-and-company"
+            ],
+            "updatedAt": "2026-06-19T08:44:59.340Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Keen%27s"
+        },
+        "lawry's": {
+            "key": "lawry's",
+            "names": [
+                "Lawry's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "mccormick-and-company"
+            ],
+            "updatedAt": "2026-06-19T08:44:59.538Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lawry%27s_and_Adolph%27s"
+        },
+        "old-bay": {
+            "key": "old-bay",
+            "names": [
+                "Old Bay"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "mccormick-and-company"
+            ],
+            "updatedAt": "2026-06-19T08:44:59.585Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Old_Bay_Seasoning",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Old_Bay_Seasoning.jpg",
+            "siteUrl": "http://mccormick.com/old-bay"
+        },
+        "schwartz": {
+            "key": "schwartz",
+            "names": [
+                "Schwartz"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "mccormick-and-company"
+            ],
+            "updatedAt": "2026-06-19T08:44:59.644Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Schwartz_(brand)"
+        },
+        "tiger's-milk": {
+            "key": "tiger's-milk",
+            "names": [
+                "Tiger's Milk"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "mccormick-and-company"
+            ],
+            "updatedAt": "2026-06-19T08:44:59.680Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tiger%27s_Milk_(nutrition_bar)"
+        },
+        "zatarain's": {
+            "key": "zatarain's",
+            "names": [
+                "Zatarain's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "mccormick-and-company"
+            ],
+            "updatedAt": "2026-06-19T08:44:59.828Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Zatarain%27s",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7d/Zatarain%27s_logo_1.jpg",
+            "siteUrl": "http://www.zatarains.com/"
         }
     }
 }
