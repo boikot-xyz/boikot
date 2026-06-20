@@ -15991,7 +15991,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 19,
             "ownedBy": [
                 "3m"
             ],
@@ -30820,6 +30820,144 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Zatarain%27s",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7d/Zatarain%27s_logo_1.jpg",
             "siteUrl": "http://www.zatarains.com/"
+        },
+        "3m": {
+            "key": "3m",
+            "names": [
+                "3M",
+                "3M",
+                "3M Company",
+                "Minnesota Mining and Manufacturing Company",
+                "MMM"
+            ],
+            "comment": "3M is a United States-based manufacturing corporation that has been found underpaying workers [1], engaging in age‑based employment discrimination [2][3], bribing Chinese officials [4][5], covering up widespread environmental contamination and releasing pollution into Belgium's environment [6][7][8]. The company has also sold toxic firefighting foams that contaminated rivers and exposed workers to carcinogenic chemicals [9][10], contaminated drinking water supplies with PFAS chemicals, affecting families with young children [11][12][13], knowingly sold faulty dental products [14], and distributed defective earplugs that caused hearing loss [15][16].",
+            "sources": {
+                "1": "https://www.law360.com/articles/156288/3m-employees-seek-ok-for-5m-deal-in-flsa-suit",
+                "2": "https://violationtracker.goodjobsfirst.org/archive/discr75.pdf",
+                "3": "https://www.eeoc.gov/newsroom/3m-pay-3-million-settle-eeoc-age-discrimination-suit",
+                "4": "https://www.occrp.org/en/news/3ms-recent-bribery-violations-a-very-common-practice-in-business-expert-says",
+                "5": "https://www.sec.gov/newsroom/press-releases/2023-160",
+                "6": "https://minnesotareformer.com/2022/12/15/toxic-3m-knew-its-chemicals-were-harmful-decades-ago-but-didnt-tell-the-public-government/",
+                "7": "https://www.propublica.org/article/3m-forever-chemicals-pfas-pfos-inside-story",
+                "8": "https://www.dw.com/en/belgium-us-company-3m-agrees-to-massive-payout-for-chemical-leak/a-62385891",
+                "9": "https://www.theguardian.com/environment/2025/jan/15/3m-firefighting-foams-pfas-forever-chemicals-documents",
+                "10": "https://www.bbc.co.uk/news/articles/cx2gdzl3lewo",
+                "11": "https://edition.cnn.com/2023/06/22/business/3m-forever-chemicals-settlement/",
+                "12": "https://time.com/6289893/3m-forever-chemical-pfas-settlement/",
+                "13": "https://www.brusselstimes.com/506509/pfas-pollution-3m-ordered-to-compensate-affected-family",
+                "14": "https://www.law360.com/classaction/articles/1142893/3m-settles-dentists-defective-crown-suit-for-32-5m",
+                "15": "https://finance.yahoo.com/news/3ms-legal-troubles-arent-over-despite-185-billion-in-settlements-115913197.html",
+                "16": "https://www.law360.com/articles/1715917"
+            },
+            "sourceNotes": {
+                "1": "underpaid workers",
+                "2": "engaged in age-based employment discrimination",
+                "3": "engaged in age-based employment discrimination",
+                "4": "engaged in bribery of Chinese officials",
+                "5": "engaged in bribery of Chinese officials",
+                "6": "covered up evidence of widespread environmental contamination",
+                "7": "covered up evidence of widespread environmental contamination",
+                "8": "released pollution into the environment in Belgium",
+                "9": "sold toxic firefighting foams that contaminated rivers",
+                "10": "exposed workers to toxic, carcinogenic firefighting foams",
+                "11": "contaminated drinking water supplies with PFAS forever chemicals",
+                "12": "contaminated drinking water supplies with PFAS forever chemicals",
+                "13": "exposed family with young children to dangerous levels of PFAS",
+                "14": "knowingly sold faulty dental products",
+                "15": "sold defective earplugs that caused hearing loss",
+                "16": "sold defective earplugs that caused hearing loss"
+            },
+            "tags": [
+                "manufacturing",
+                "chemicals"
+            ],
+            "score": 19,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/3M_wordmark.svg",
+            "siteUrl": "http://3m.com/",
+            "updatedAt": "2026-06-20T07:05:42.399Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/3M"
+        },
+        "scotch-tape": {
+            "key": "scotch-tape",
+            "names": [
+                "Scotch Tape"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "manufacturing",
+                "chemicals"
+            ],
+            "score": 19,
+            "ownedBy": [
+                "3m"
+            ],
+            "updatedAt": "2026-06-20T08:31:49.922Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Scotch_Tape",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Scotch_Logo.svg",
+            "siteUrl": "http://www.scotchtape.com/"
+        },
+        "scotchgard": {
+            "key": "scotchgard",
+            "names": [
+                "Scotchgard"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "manufacturing",
+                "chemicals"
+            ],
+            "score": 19,
+            "ownedBy": [
+                "3m"
+            ],
+            "updatedAt": "2026-06-20T08:31:50.075Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Scotchgard"
+        },
+        "nexcare": {
+            "key": "nexcare",
+            "names": [
+                "Nexcare"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "manufacturing",
+                "chemicals"
+            ],
+            "score": 19,
+            "ownedBy": [
+                "3m"
+            ],
+            "updatedAt": "2026-06-20T08:31:51.314Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Nexcare",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Nexcare_logo.svg",
+            "siteUrl": "http://www.nexcare.com/"
+        },
+        "command": {
+            "key": "command",
+            "names": [
+                "Command"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "manufacturing",
+                "chemicals"
+            ],
+            "score": 19,
+            "ownedBy": [
+                "3m"
+            ],
+            "updatedAt": "2026-06-20T08:31:51.314Z",
+            "logoUrl": "https://command.3m.co.uk/3m_theme_assets/themes/3MTheme/assets/images/lion/command/Command_Logo.svg",
+            "siteUrl": "https://command.3m.co.uk/3M/en_GB/command-gb/"
         }
     }
 }
