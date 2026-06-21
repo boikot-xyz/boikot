@@ -30958,6 +30958,99 @@
             "updatedAt": "2026-06-20T08:31:51.314Z",
             "logoUrl": "https://command.3m.co.uk/3m_theme_assets/themes/3MTheme/assets/images/lion/command/Command_Logo.svg",
             "siteUrl": "https://command.3m.co.uk/3M/en_GB/command-gb/"
+        },
+        "seiko": {
+            "key": "seiko",
+            "names": [
+                "Seiko",
+                "Seiko Group Corporation",
+                "セイコーグループ株式会社",
+                "Seikō Gurūpu kabushiki gaisha",
+                "Hattori Tokeiten",
+                "K. Hattori & Co.",
+                "K. Hattori & Co., Ltd.",
+                "Hattori Seiko Co., Ltd.",
+                "Seiko Corporation",
+                "Seiko Holdings Corporation",
+                "Seiko Group"
+            ],
+            "comment": "Seiko is a Japanese watchmaker that has faced criticism for leaking customer data in a data breach [1] and engaging in monopolistic price‑fixing practices [2].",
+            "sources": {
+                "1": "https://www.theregister.com/security/2023/10/25/seiko-group-says-blackcat-stole-60k-personal-data-records/1080481",
+                "2": "https://web.archive.org/web/20211023142247/http://www.lindapatent.com/en/info_news/383.html"
+            },
+            "sourceNotes": {
+                "1": "leaked customer data in data breach",
+                "2": "monopolistic price fixing"
+            },
+            "tags": [
+                "electronics",
+                "retail"
+            ],
+            "score": 49,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Seiko_logo.svg",
+            "siteUrl": "http://www.seiko.co.jp/en",
+            "updatedAt": "2026-06-21T07:41:29.216Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Seiko"
+        },
+        "wako-co.-ltd.": {
+            "key": "wako-co.-ltd.",
+            "names": [
+                "Wako Co., Ltd."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "electronics",
+                "retail"
+            ],
+            "score": 49,
+            "ownedBy": [
+                "seiko"
+            ],
+            "updatedAt": "2026-06-21T08:50:12.338Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Wako_(retailer)",
+            "siteUrl": "http://www.wako.co.jp/"
+        },
+        "pulsar": {
+            "key": "pulsar",
+            "names": [
+                "Pulsar"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "electronics",
+                "retail"
+            ],
+            "score": 49,
+            "ownedBy": [
+                "seiko"
+            ],
+            "updatedAt": "2026-06-21T08:50:12.521Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pulsar_(watch)"
+        },
+        "alba": {
+            "key": "alba",
+            "names": [
+                "Alba"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "electronics",
+                "retail"
+            ],
+            "score": 49,
+            "ownedBy": [
+                "seiko"
+            ],
+            "updatedAt": "2026-06-21T08:50:12.597Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Alba_(watch)"
         }
     }
 }
