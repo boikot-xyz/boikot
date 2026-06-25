@@ -31051,6 +31051,148 @@
             ],
             "updatedAt": "2026-06-21T08:50:12.597Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Alba_(watch)"
+        },
+        "selfridges": {
+            "key": "selfridges",
+            "names": [
+                "Selfridges",
+                "Selfridges Retail Limited",
+                "Selfridges & Co."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "central-group",
+                "public-investment-fund"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Selfridges_%26_Co._Logo_12.2022.svg",
+            "siteUrl": "http://selfridges.com/",
+            "updatedAt": "2026-06-22T07:52:33.505Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Selfridges"
+        },
+        "sephora": {
+            "key": "sephora",
+            "names": [
+                "Sephora",
+                "Sephora SA"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "cosmetics"
+            ],
+            "score": null,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Sephora_logo.svg",
+            "siteUrl": "https://www.sephora.com/",
+            "updatedAt": "2026-06-22T07:52:33.505Z",
+            "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sephora"
+        },
+        "shein": {
+            "key": "shein",
+            "names": [
+                "Shein",
+                "SHEIN",
+                "希音",
+                "Xīyīn",
+                "ZZKKO"
+            ],
+            "comment": "Shein is a Chinese fast‑fashion retailer that has been implicated in data breaches and cover‑ups involving customer information [1][2], deceptive pricing [3], theft of independent artists' designs [4][5], use of cotton sourced from forced Uyghur labour [6][7], freshwater and microplastic pollution [8], greenwashing claims [9], sale of clothes containing dangerous chemicals [10][11], exploitative working conditions [12] and overworking garment workers [13], child labour in its supply chain [14], and the sale of sex dolls resembling children [15].",
+            "sources": {
+                "1": "https://web.archive.org/web/20230128170649/https://www.securityweek.com/over-6-million-users-hit-breach-fashion-retailer-shein/",
+                "2": "https://web.archive.org/web/20230606202754/https://www.bbc.com/news/technology-63255661",
+                "3": "https://www.economie.gouv.fr/files/files/directions_services/dgccrf/media-document/cp-dgccrf-SHEIN-sanctionne-amende-40millions.pdf",
+                "4": "https://web.archive.org/web/20230606201935/https://www.wsj.com/articles/chinas-fast-fashion-giant-shein-faces-dozens-of-lawsuits-alleging-design-theft-11656840601",
+                "5": "https://web.archive.org/web/20221206071934/https://www.34st.com/article/2020/07/shein-swastika-necklace-controversy-boycott-shein-fast-fashion-upenn-ivy-league",
+                "6": "https://web.archive.org/web/20230611003014/https://www.bloomberg.com/news/features/2022-11-21/shein-s-cotton-clothes-tied-to-xinjiang-china-region-accused-of-forced-labor",
+                "7": "https://web.archive.org/web/20250108164315/https://apnews.com/article/uk-parliament-shein-temu-a24fa3a6511cde7fe6b4763d693b986b",
+                "8": "https://opentext.ku.edu/environmentalgeopolitics/chapter/evil-fashion-giant-shein/##renzreferences",
+                "9": "https://www.theguardian.com/business/2025/aug/05/shein-fined-1m-in-italy-for-misleading-environmental-claims-about-products",
+                "10": "https://web.archive.org/web/20230617051650/https://www.cbc.ca/news/business/marketplace-fast-fashion-chemicals-1.6193385",
+                "11": "https://web.archive.org/web/20240614104244/https://www.straitstimes.com/business/south-korea-finds-high-levels-of-toxic-chemicals-in-shein-products",
+                "12": "https://www.nytimes.com/2025/02/14/business/economy/china-exports-trump-tariffs.html?searchResultPosition=3",
+                "13": "https://web.archive.org/web/20211126095529/https://www.bbc.com/news/business-59245708",
+                "14": "https://www.the-sun.com/lifestyle/13284122/shein-village-china-factories-rights/",
+                "15": "https://www.bbc.com/news/articles/cddrg70pj1mo"
+            },
+            "sourceNotes": {
+                "1": "leaked customer data in data breach and covered up severity",
+                "2": "leaked customer data in data breach and covered up severity",
+                "3": "deceptive pricing",
+                "4": "stole designs from independent artists",
+                "5": "stole designs from independent artists",
+                "6": "used cotton sourced from forced Uyghur labour",
+                "7": "used cotton sourced from forced Uyghur labour",
+                "8": "caused freshwater and microplastic pollution",
+                "9": "greenwashing",
+                "10": "sold clothes containing dangerous chemicals",
+                "11": "sold clothes containing dangerous chemicals",
+                "12": "exploitative working conditions",
+                "13": "overworked and exploited garment workers",
+                "14": "child labour in supply chain",
+                "15": "sold sex dolls resembling children"
+            },
+            "tags": [
+                "clothing",
+                "retail",
+                "fast fashion"
+            ],
+            "score": 23,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Shein_Logo_2017.svg",
+            "siteUrl": "https://shein.com/",
+            "updatedAt": "2026-06-22T07:52:33.505Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Shein"
+        },
+        "siemens": {
+            "key": "siemens",
+            "names": [
+                "Siemens",
+                "Siemens AG",
+                "SIE"
+            ],
+            "comment": "Siemens is a German Engineering company that has been repeatedly implicated in bribery and corruption scandals [1][2][3][4], has underpaid employees [5][6], and was involved in supplying Russian operations in Crimea despite sanctions [7]. The company also contaminated water supplies in Ohio [8] and is a BDS target for its role in constructing electricity infrastructure in Israel [9].",
+            "sources": {
+                "1": "https://www.theguardian.com/sustainable-business/recovering-business-trust-siemens",
+                "2": "https://www.mcgrawcenter.org/stories/slammed-for-bribery-siemens-continued-to-ignore-red-flags/",
+                "3": "https://www.sec.gov/news/press/2008/2008-294.htm",
+                "4": "https://en.wikipedia.org/wiki/Siemens_Greek_bribery_scandal",
+                "5": "https://web.archive.org/web/20200919092510/https://millerlawpc.com/medical-software-company-to-pay-14-4-million-to-end-suit-over-bonuses-law-com-february-14-2005/",
+                "6": "https://web.archive.org/web/20161222152950/https://www.dol.gov/whd/media/press/whdpressVB2.asp?pressdoc=Western/archived/20040544.xml",
+                "7": "https://www.reuters.com/world/europe/two-ex-siemens-execs-be-tried-germany-over-russia-sanctions-violations-2025-03-14/",
+                "8": "https://violationtracker.goodjobsfirst.org/archive/enviro25.pdf",
+                "9": "https://bdsmovement.net/siemens-and-chevron-stop-fueling-apartheid-and-climate-disaster"
+            },
+            "sourceNotes": {
+                "1": "bribery and corruption",
+                "2": "bribery and corruption",
+                "3": "bribery and corruption",
+                "4": "bribery and corruption",
+                "5": "underpaid employees",
+                "6": "underpaid employees",
+                "7": "attempted to help supply russian operations in crimea, against sanctions",
+                "8": "contaminated water supplies in Ohio",
+                "9": "BDS target due to building electricity infrastructure in Israel"
+            },
+            "tags": [
+                "tech"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Siemens_AG_logo.svg",
+            "siteUrl": "https://www.siemens.com/",
+            "updatedAt": "2026-06-25T08:00:05.698Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Siemens"
         }
     }
 }
