@@ -31193,6 +31193,481 @@
             "siteUrl": "https://www.siemens.com/",
             "updatedAt": "2026-06-25T08:00:05.698Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Siemens"
+        },
+        "simple-skincare": {
+            "key": "simple-skincare",
+            "names": [
+                "Simple Skincare",
+                "Simple"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods"
+            ],
+            "score": 5,
+            "ownedBy": [
+                "unilever"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/88/Simple_Skincare_logo.png",
+            "siteUrl": "http://www.simple.co.uk/",
+            "updatedAt": "2026-06-26T10:18:06.871Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Simple_Skincare"
+        },
+        "sketchers": {
+            "key": "sketchers",
+            "names": [
+                "Sketchers",
+                "Sketchers",
+                "Skechers U.S.A., Inc."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "3g-capital"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Skechers_wordmark.svg",
+            "siteUrl": "https://www.skechers.com/",
+            "updatedAt": "2026-06-26T10:18:06.871Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Skechers"
+        },
+        "sky": {
+            "key": "sky",
+            "names": [
+                "Sky",
+                "Sky Group",
+                "Sky Group Limited",
+                "British Sky Broadcasting plc",
+                "British Sky Broadcasting",
+                "Sky plc"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "telecommunications"
+            ],
+            "score": null,
+            "ownedBy": [
+                "comcast"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/db/Sky_logo_2025.svg",
+            "siteUrl": "https://www.skygroup.sky/",
+            "updatedAt": "2026-06-28T06:06:04.736Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sky_Group"
+        },
+        "skype": {
+            "key": "skype",
+            "names": [
+                "Skype",
+                "Skype Technologies"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "microsoft"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg",
+            "siteUrl": "https://web.archive.org/web/20250102150852/https://www.skype.com/en/",
+            "updatedAt": "2026-07-03T23:08:46.446Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Skype"
+        },
+        "slack": {
+            "key": "slack",
+            "names": [
+                "Slack"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 40,
+            "ownedBy": [
+                "salesforce"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg",
+            "siteUrl": "https://slack.com/",
+            "updatedAt": "2026-07-03T23:08:46.446Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Slack_(software)"
+        },
+        "smeg": {
+            "key": "smeg",
+            "names": [
+                "Smeg",
+                "Smalterie Metallurgiche Emiliane Guastalla",
+                "Smeg Group S.p.A.",
+                "Smeg Group"
+            ],
+            "comment": "Smeg is an Italian applicance manufacturer.",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "appliances"
+            ],
+            "score": 50,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Smeg_logo.svg",
+            "siteUrl": "http://www.smeg.com/",
+            "updatedAt": "2026-07-03T23:11:08.460Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Smeg_(appliances)"
+        },
+        "snapchat": {
+            "key": "snapchat",
+            "names": [
+                "Snapchat",
+                "Snapchat Inc.",
+                "Snap Inc.",
+                "Snap"
+            ],
+            "comment": "Snapchat is an American social media platform that has discriminated against female employees [1][2] and engaged in misleading advertising about its disappearing message feature [3]. The company has also knowingly built addictive features harmful to children, facilitated large‑scale child sexual abuse material and sextortion, ignored evidence of sexual exploitation of children, and contributed to abuse leading to suicides among minors [4][5][6][7][8][9].",
+            "sources": {
+                "1": "https://web.archive.org/web/20240619225424/https://apnews.com/article/california-snapchat-harassment-lawsuit-settlement-7fd5bf7539e95578b47bf6e85ffc2f9c",
+                "2": "https://web.archive.org/web/20240620135021/https://www.theverge.com/2024/6/20/24182303/snap-gender-discrimination-settlement-california",
+                "3": "https://web.archive.org/web/20210722183948/https://www.marylandattorneygeneral.gov/press/2014/061214.pdf",
+                "4": "https://www.thebureauinvestigates.com/stories/2025-12-03/snapchat-ignored-staff-warnings-about-teens-mental-health",
+                "5": "https://www.afterbabel.com/p/industrial-scale-snapchat",
+                "6": "https://www.eryica.org/news/darkside-snapchat",
+                "7": "https://www.npr.org/2024/10/04/nx-s1-5137218/snapchat-brushed-aside-warnings-of-child-harm-documents-show",
+                "8": "https://fortune.com/2024/10/01/snapchat-lawsuit-new-mexico/",
+                "9": "https://techcrunch.com/2022/03/17/following-suicides-and-lawsuits-snapchat-restricts-apps-building-on-its-platform-with-new-policies/"
+            },
+            "sourceNotes": {
+                "1": "discriminated against female employees",
+                "2": "discriminated against female employees",
+                "3": "misleading advertising around disappearing message",
+                "4": "knowingly built features addictive and harmful to children",
+                "5": "significant, large scale harm to children, especially involving Child Sexual Abuse Material (CSAM) and sextortion",
+                "6": "significant, large scale harm to children, especially involving Child Sexual Abuse Material (CSAM) and sextortion",
+                "7": "ignored evidence of sexual exploitation of children",
+                "8": "ignored evidence of sexual exploitation of children",
+                "9": "facilited abuse of children leading to suicides"
+            },
+            "tags": [
+                "tech"
+            ],
+            "score": 10,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Snapchat_logo.svg",
+            "siteUrl": "https://www.snapchat.com/",
+            "updatedAt": "2026-07-04T07:16:49.346Z",
+            "error": "TypeError: Cannot read properties of undefined (reading 'url')"
+        },
+        "soundcloud": {
+            "key": "soundcloud",
+            "names": [
+                "SoundCloud"
+            ],
+            "comment": "SoundCloud is a German music streaming platform that has allowed the use of its users' uploaded songs for training artificial intelligence models [1][2]. The company also suffered a significant data breach exposing personal details of approximately 30 million users [3].",
+            "sources": {
+                "1": "https://successquarterly.com/soundclouds-policy-shift-sparks-controversy-over-data-ownership-and-creator-rights/",
+                "2": "https://musicminds.com/soundcloud-sparks-artist-concern-over-ai-rights",
+                "3": "https://cybersecuritynews.com/soundcloud-breach-exposes-users-details/"
+            },
+            "sourceNotes": {
+                "1": "allowing training AI on user-uploaded songs ",
+                "2": "allowing training AI on user-uploaded songs ",
+                "3": "allowed data breach of 30 million users' details"
+            },
+            "tags": [
+                "tech",
+                "music"
+            ],
+            "score": 44,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Soundcloud_logo.svg",
+            "siteUrl": "https://soundcloud.com/",
+            "updatedAt": "2026-07-04T07:16:49.346Z",
+            "error": "TypeError: Cannot read properties of undefined (reading 'url')",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/SoundCloud"
+        },
+        "spin-master": {
+            "key": "spin-master",
+            "names": [
+                "Spin Master",
+                "Spin Master Corp.",
+                "Spin Master Toys",
+                "TOY"
+            ],
+            "comment": "Spin Master is a Canadian toy company that has been accused of exploitative labour practices in factories [1] and selling unsafe toys [2].",
+            "sources": {
+                "1": "https://chinalaborwatch.org/barbie-mickey-mouse-optimus-prime-thomas-the-tank-engine-who-else-continues-to-exploit-toy-workers/",
+                "2": "https://web.archive.org/web/20130420152612/http://www.cpsc.gov/en/Newsroom/News-Releases/2012/in-Master-Agrees-to-13-Million-Civil-Penalty-for-Failing-to-Report-Aqua-Dots-and-for-Selling-a-Banned-Hazardous-Substance/"
+            },
+            "sourceNotes": {
+                "1": "exploitative labour practices in factories",
+                "2": "sold unsafe toys"
+            },
+            "tags": [
+                "toys"
+            ],
+            "score": 36,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Spin_Master_logo.png",
+            "siteUrl": "https://www.spinmaster.com/",
+            "updatedAt": "2026-07-06T00:02:35.182Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Spin_Master"
+        },
+        "paw-patrol": {
+            "key": "paw-patrol",
+            "names": [
+                "Paw Patrol"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "spin-master"
+            ],
+            "updatedAt": "2026-07-06T22:00:31.011Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Paw_Patrol",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5f/PAW_Patrol_Logo.png"
+        },
+        "abby-hatcher": {
+            "key": "abby-hatcher",
+            "names": [
+                "Abby Hatcher"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "spin-master"
+            ],
+            "updatedAt": "2026-07-06T22:00:32.091Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Abby_Hatcher",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Abby_Hatcher_logo.png"
+        },
+        "air-hogs": {
+            "key": "air-hogs",
+            "names": [
+                "Air Hogs"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "spin-master"
+            ],
+            "updatedAt": "2026-07-06T22:00:32.522Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Air_Hogs"
+        },
+        "bakugan": {
+            "key": "bakugan",
+            "names": [
+                "Bakugan"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "spin-master"
+            ],
+            "updatedAt": "2026-07-06T22:00:32.784Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bakugan",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f9/Bakugan_DVD_Volume_13_%28Japanese%29.jpg",
+            "siteUrl": "http://www.bakugan.com/"
+        },
+        "hatchimals": {
+            "key": "hatchimals",
+            "names": [
+                "Hatchimals"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "spin-master"
+            ],
+            "updatedAt": "2026-07-06T22:00:33.326Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hatchimals",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4f/Hatchimals_logo.png"
+        },
+        "meccano": {
+            "key": "meccano",
+            "names": [
+                "Meccano"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "spin-master"
+            ],
+            "updatedAt": "2026-07-06T22:00:33.853Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Meccano",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Meccano_logo.svg",
+            "siteUrl": "https://meccano.com/en_us"
+        },
+        "mighty-express": {
+            "key": "mighty-express",
+            "names": [
+                "Mighty Express"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "spin-master"
+            ],
+            "updatedAt": "2026-07-06T22:00:34.276Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mighty_Express",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/Mighty_Express_Logo.png"
+        },
+        "rubik's-cube": {
+            "key": "rubik's-cube",
+            "names": [
+                "Rubik's Cube"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "spin-master"
+            ],
+            "updatedAt": "2026-07-06T22:00:35.024Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rubik's_Cube",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Rubiks_cube_solved.jpg"
+        },
+        "toca-boca": {
+            "key": "toca-boca",
+            "names": [
+                "Toca Boca"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "spin-master"
+            ],
+            "updatedAt": "2026-07-06T22:00:35.708Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Toca_Boca",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a1/Toca_Boca_2024.svg",
+            "siteUrl": "http://www.tocaboca.com/"
+        },
+        "vida-the-vet": {
+            "key": "vida-the-vet",
+            "names": [
+                "Vida the Vet"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "spin-master"
+            ],
+            "updatedAt": "2026-07-06T22:00:36.095Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Vida_the_Vet"
+        },
+        "unicorn-academy": {
+            "key": "unicorn-academy",
+            "names": [
+                "Unicorn Academy"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "spin-master"
+            ],
+            "updatedAt": "2026-07-06T22:00:36.557Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Unicorn_Academy"
+        },
+        "perplexus": {
+            "key": "perplexus",
+            "names": [
+                "Perplexus"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "spin-master"
+            ],
+            "updatedAt": "2026-07-06T22:00:37.267Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Perplexus",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Superplexus-for-Wiki1.jpg"
+        },
+        "gund": {
+            "key": "gund",
+            "names": [
+                "Gund"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "toys"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "spin-master"
+            ],
+            "updatedAt": "2026-07-06T22:00:38.491Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gund",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7a/GUND_Logo_official.png",
+            "siteUrl": "https://www.gund.com/"
         }
     }
 }
