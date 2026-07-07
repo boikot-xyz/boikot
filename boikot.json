@@ -31668,6 +31668,35 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Gund",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7a/GUND_Logo_official.png",
             "siteUrl": "https://www.gund.com/"
+        },
+        "specsavers": {
+            "key": "specsavers",
+            "names": [
+                "Specsavers",
+                "Specsavers Optical Group Limited",
+                "Visionplus Care Ltd.",
+                "M.L. Bebbington Ltd."
+            ],
+            "comment": "Specsavers is a British optical retail chain that has been accused of defrauding government COVID pay assistance and engaging in tax avoidance [1][2]. The company also uses potentially harmful and exploitative sales targets [3].",
+            "sources": {
+                "1": "https://web.archive.org/web/20230907052556/https://www.abc.net.au/news/2021-09-15/jobkeeper-subsidies-specsavers-luxottica-sunglass-hut-retailers/100461772",
+                "2": "https://web.archive.org/web/20230907053155/https://www.abc.net.au/news/2021-07-14/jobkeeper-repaid-comes-from-public-companies/100288376",
+                "3": "https://michaelwest.com.au/nothing-to-see-here-optometrist-in-denial/"
+            },
+            "sourceNotes": {
+                "1": "defrauded government covid pay assistance and engaged in tax avoidance",
+                "2": "defrauded government covid pay assistance and engaged in tax avoidance",
+                "3": "uses potentially harmful and exploitative sales targets"
+            },
+            "tags": [
+                "healthcare"
+            ],
+            "score": 46,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Specsavers_logo.svg",
+            "siteUrl": "https://www.specsavers.com/",
+            "updatedAt": "2026-07-07T18:54:45.667Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Specsavers"
         }
     }
 }
