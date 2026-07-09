@@ -31697,6 +31697,66 @@
             "siteUrl": "https://www.specsavers.com/",
             "updatedAt": "2026-07-07T18:54:45.667Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Specsavers"
+        },
+        "state-farm": {
+            "key": "state-farm",
+            "names": [
+                "State Farm",
+                "State Farm Insurance"
+            ],
+            "comment": "State Farm is a U.S. insurance company that failed to pay Hurricane Katrina victims' claims [1][2][3], rejected thousands of valid insurance claims [4][5][6], and violated customers' healthcare data privacy [7][8]. The company has engaged in bribery and corruption [9][10], promoted a net‑zero pledge while investing in fossil fuels [11][12], practiced sexist hiring practices [13][14], discriminated against disabled employees [15] and racially discriminated against both employees and customers in its claims process [16][17][18][19].",
+            "sources": {
+                "1": "https://apnews.com/article/lawsuits-mississippi-hurricanes-legal-proceedings-d8ca251ec9f6e6ead832c7b6577bd9a3",
+                "2": "https://apnews.com/article/lawsuits-mississippi-hurricanes-legal-proceedings-d8ca251ec9f6e6ead832c7b6577bd9a3",
+                "3": "https://web.archive.org/web/20070129011130/http://money.cnn.com/2007/01/26/news/companies/state_farm/index.htm",
+                "4": "https://web.archive.org/web/20231021230512/https://casetext.com/case/state-farm-fire-cas-co-v-radcliff-1",
+                "5": "http://www.cnn.com/2007/US/02/09/insurance.hardball/index.html",
+                "6": "https://www.insurancebusinessmag.com/us/news/breaking-news/state-farm-files-motion-for-new-trial-against-shannen-doherty-316194.aspx",
+                "7": "https://www.insurancebusinessmag.com/us/news/breaking-news/state-farm-accused-of-violating-privacy-laws-458699.aspx",
+                "8": "https://cookcountyrecord.com/stories/647854063-class-action-accuses-state-farm-of-wrongly-sharing-people-s-health-information-with-company-building-risk-database",
+                "9": "https://www.reuters.com/article/legal-us-otc-darkmoney-idUSKCN1LL2ZQ",
+                "10": "https://www.nytimes.com/2008/06/28/business/28tort.html",
+                "11": "https://www.prnewswire.com/news-releases/top-10-us-insurance-companies-invest-51-billion-in-fossil-fuels-8-out-of-10-have-not-altered-investments-to-address-climate-change-driving-catastrophic-fire-and-hurricane-losses-says-consumer-watchdog-300727520.html",
+                "12": "https://www.insurancebusinessmag.com/us/news/environmental/insurance-industry-needs-to-dump-fossil-fuels-says-watchdog-group-113449.aspx",
+                "13": "https://www.nytimes.com/1988/03/17/us/judge-backs-settlement-in-state-farm-bias-case.html",
+                "14": "https://www.washingtonpost.com/archive/politics/1988/01/20/sex-bias-lawsuit-settled-by-state-farm-insurance/ab0c74c5-43b5-4de9-a726-0ec1df5ef09e/",
+                "15": "https://www.insurancejournal.com/news/southeast/2023/07/19/731244.htm",
+                "16": "https://www.propertyinsurancecoveragelaw.com/2014/02/articles/state-farm/hindin-v-state-farm-the-landmark-claims-practice-case-that-few-know-about-finally-ends/",
+                "17": "https://www.insurancebusinessmag.com/us/news/breaking-news/state-farm-hit-by-class-action-lawsuit-claiming-racial-discrimination-430895.aspx",
+                "18": "https://www.propertyinsurancecoveragelaw.com/2022/03/articles/state-farm/discrimination-concerns-at-state-farm/",
+                "19": "https://web.archive.org/web/20231021230513/https://casetext.com/case/campbell-jackson-v-state-farm-ins"
+            },
+            "sourceNotes": {
+                "1": "failed to pay claims of hurriance katrina victims",
+                "2": "failed to pay claims of hurriance katrina victims",
+                "3": "failed to pay claims of hurriance katrina victims",
+                "4": "rejected thousands of valid insurance claims",
+                "5": "rejecting valid insurance claims",
+                "6": "rejected valid insurance claims",
+                "7": "violated customers' healthcare data privacy",
+                "8": "violated customers' healthcare data privacy",
+                "9": "engaged in corruption",
+                "10": "engaged in bribery",
+                "11": "claims to support net zero while investing in fossil fuels",
+                "12": "claims to support net zero while investing in fossil fuels",
+                "13": "sexist hiring practices",
+                "14": "sexist hiring practices",
+                "15": "discriminating against disabled employee",
+                "16": "racial discrimination in claims process",
+                "17": "engaged in racial discrimination against employees and customers",
+                "18": "engaged in racial discrimination against employees and customers",
+                "19": "engaged in racial discrimination against employees and customers"
+            },
+            "tags": [
+                "finance",
+                "insurance"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/State_Farm_logo.svg",
+            "siteUrl": "https://www.statefarm.com/",
+            "updatedAt": "2026-07-07T18:54:45.667Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/State_Farm"
         }
     }
 }
