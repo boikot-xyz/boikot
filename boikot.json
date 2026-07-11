@@ -31757,6 +31757,64 @@
             "siteUrl": "https://www.statefarm.com/",
             "updatedAt": "2026-07-07T18:54:45.667Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/State_Farm"
+        },
+        "subaru": {
+            "key": "subaru",
+            "names": [
+                "Subaru",
+                "スバル",
+                "Subaru Corporation",
+                "Fuji Heavy Industries"
+            ],
+            "comment": "Subaru is a Japanese automotive company that has engaged in improper vehicle inspections leading to safety issues [1], manipulated emissions data [2], and underpaid manufacturing workers [3]. The company has also violated customers' data privacy [4], sold unsafe cars that accelerate randomly [5], and knowingly sold vehicles with defective safety systems [6] and defective airbags [7].",
+            "sources": {
+                "1": "https://www.reuters.com/article/business/automaker-subaru-sees-177-million-in-costs-linked-to-inspection-scandal-idUSKBN1DG19W/",
+                "2": "https://www.motortrend.com/news/subaru-admits-manipulated-fuel-economy-emissions-data",
+                "3": "https://www.reuters.com/article/2015/07/29/us-japan-subaru-specialreport-idUSKCN0Q21GS20150729/",
+                "4": "https://www.torquenews.com/1084/subaru-now-involved-vehicle-data-collection-lawsuit-investigation",
+                "5": "https://www.carcomplaints.com/news/2025/subaru-sudden-acceleration-lawsuit.shtml",
+                "6": "https://www.motorbiscuit.com/lawsuit-subaru-suvs-faulty-safety-systems/",
+                "7": "https://goldwaterlawfirm.com/insights/takata-airbag-lawsuit-settles-for-553-6-million/"
+            },
+            "sourceNotes": {
+                "1": "conducted improper vehicle inspections leading to safety issues",
+                "2": "manipulated emissions data",
+                "3": "underpaid manufacturing workers",
+                "4": "violating customers' data privacy",
+                "5": "sold unsafe cars that accelerate randomly",
+                "6": "knowingly sold cars with defective safety systems",
+                "7": "knowingly sold cars with defective airbags"
+            },
+            "tags": [
+                "cars"
+            ],
+            "score": 24,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Subaru_logo_%28transparent%29.svg",
+            "siteUrl": "https://www.subaru.co.jp/en/",
+            "updatedAt": "2026-07-07T18:54:45.667Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Subaru"
+        },
+        "superdrug": {
+            "key": "superdrug",
+            "names": [
+                "Superdrug"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "conumer goods",
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "ck-hutchison"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/36/Superdrug_logo.svg",
+            "siteUrl": "https://superdrug.com/",
+            "updatedAt": "2026-07-11T07:13:56.030Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Superdrug"
         }
     }
 }
