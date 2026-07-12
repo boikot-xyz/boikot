@@ -31815,6 +31815,47 @@
             "siteUrl": "https://superdrug.com/",
             "updatedAt": "2026-07-11T07:13:56.030Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Superdrug"
+        },
+        "superdry": {
+            "key": "superdry",
+            "names": [
+                "Superdry",
+                "Superdry Limited",
+                "SUPERDRY®︎冒険魂",
+                "Superdry & Co",
+                "SDRY"
+            ],
+            "comment": "Superdry is a British fashion retailer that has faced accusations of greenwashing in its advertising campaigns [1][2] and allegations of age discrimination against employees [3][4]. The brand has also been criticized for racial discrimination towards customers [5], the use of forced Uyghur labour in its supply chain [6], and the criminal conviction of a co‑founder for rape [7][8].",
+            "sources": {
+                "1": "https://www.bbc.co.uk/news/articles/ckgm79djr9yo",
+                "2": "https://news.sky.com/story/nike-superdry-and-lacoste-ads-banned-over-misleading-sustainability-claims-13478650",
+                "3": "https://www.brownejacobson.com/insights/hung-out-to-dry",
+                "4": "https://assets.publishing.service.gov.uk/media/62fb9320d3bf7f06f7338bab/Ms_R_Sunderland_v_Superdry_PLC_-_1406389.2020_-_Reconsideration_Judgment.pdf",
+                "5": "https://www.smh.com.au/national/nsw/this-can-t-just-keep-happening-the-family-taking-a-retail-giant-to-court-20260527-p601c6.html",
+                "6": "https://www.shu.ac.uk/-/media/home/research/helena-kennedy-centre/projects/laundering-cotton-annexes/laundering-cotton.pdf",
+                "7": "https://www.bbc.co.uk/news/articles/c936pdd0vyeo",
+                "8": "https://www.theguardian.com/uk-news/2026/may/07/superdry-co-founder-james-holder-jailed-rape"
+            },
+            "sourceNotes": {
+                "1": "greenwashing in adverts",
+                "2": "greenwashing in adverts",
+                "3": "age discrimination against employees",
+                "4": "age discrimination against employees",
+                "5": "racial discrimination against customers",
+                "6": "forced Uyghur labour in supply chain",
+                "7": "co founder guilty of rape",
+                "8": "co founder guilty of rape"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 25,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c9/Superdry_%26_Co_logo.jpg",
+            "siteUrl": "http://superdry.com/",
+            "updatedAt": "2026-07-12T07:03:52.537Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Superdry_%26_Co"
         }
     }
 }
