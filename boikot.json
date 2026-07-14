@@ -31856,6 +31856,35 @@
             "siteUrl": "http://superdry.com/",
             "updatedAt": "2026-07-12T07:03:52.537Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Superdry_%26_Co"
+        },
+        "swarovski": {
+            "key": "swarovski",
+            "names": [
+                "Swarovski",
+                "A. Kosmann, D. Swarovski & Co.",
+                "D. Swarovski KG"
+            ],
+            "comment": "Swarovski is an Austrian jewllery company that has faced hazardous waste violations [1] and had historical involvement with the Nazi party [2][3]. ",
+            "sources": {
+                "1": "https://dem.ri.gov/programs/benviron/compinsp/enfact/mar2008.htm",
+                "2": "https://www.jpost.com/opinion/article-708815",
+                "3": "https://www.derstandard.de/consent/tcf/story/3000000280190/mitl228ufer-oder-aktive-nazis-swarovski-geschichte-entzweit-historiker"
+            },
+            "sourceNotes": {
+                "1": "hazardous waste violation",
+                "2": "historical inolvement with the Nazi party",
+                "3": "historical inolvement with the Nazi party"
+            },
+            "tags": [
+                "jewellery"
+            ],
+            "score": 44,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Swarovski_new_logo.svg",
+            "siteUrl": "https://www.swarovski.com/",
+            "updatedAt": "2026-07-13T11:43:41.847Z",
+            "error": "TypeError: Cannot read properties of undefined (reading 'url')",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Swarovski"
         }
     }
 }
