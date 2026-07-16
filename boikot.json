@@ -31885,6 +31885,72 @@
             "updatedAt": "2026-07-13T11:43:41.847Z",
             "error": "TypeError: Cannot read properties of undefined (reading 'url')",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Swarovski"
+        },
+        "swiffer": {
+            "key": "swiffer",
+            "names": [
+                "Swiffer"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "child labour",
+                "russia"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "updatedAt": "2026-07-14T07:03:53.582Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Swiffer",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/Swiffer_logo.svg",
+            "siteUrl": "https://www.swiffer.com/"
+        },
+        "t-mobile": {
+            "key": "t-mobile",
+            "names": [
+                "T-Mobile",
+                "T Mobile",
+                "T-Mobile US, Inc.",
+                "VoiceStream Wireless",
+                "TMUS"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "telecommunications"
+            ],
+            "score": null,
+            "ownedBy": [
+                "deutsche-telekom-ag"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/T-Mobile_US_Logo_2022_RGB_Magenta_on_Transparent.svg",
+            "siteUrl": "https://www.t-mobile.com/",
+            "updatedAt": "2026-07-15T09:31:24.105Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/T-Mobile_US"
+        },
+        "tampax": {
+            "key": "tampax",
+            "names": [
+                "Tampax"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer-goods"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "procter-and-gamble"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tampax.svg",
+            "siteUrl": "http://www.tampax.com/",
+            "updatedAt": "2026-07-16T07:18:21.219Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tampax"
         }
     }
 }
