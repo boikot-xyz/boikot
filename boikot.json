@@ -3034,33 +3034,6 @@
             "updatedAt": "2024-02-11T17:53:17.979Z",
             "key": "fedex"
         },
-        "vodafone": {
-            "names": [
-                "Vodafone",
-                "Vodafone Group plc",
-                "VOD",
-                "Racal Telecom",
-                "Voda-Racal Telecom"
-            ],
-            "comment": "Vodafone, a telecommunications company, faces criticism for tax avoidance through Luxembourg subsidiaries [1] and fines for breaching consumer protection rules, including mishandling complaints [2]. Moreover, Vodafone's involvement in government surveillance through secret wires on its networks sparks privacy concerns [3], while allegations of overcharging customers after contract ends have emerged [4].",
-            "sources": {
-                "1": "https://web.archive.org/web/20101027221207/http://www.private-eye.co.uk/sections.php?section_link=in_the_back&issue=1273",
-                "2": "https://www.bbc.co.uk/news/business-37772118",
-                "3": "https://www.theguardian.com/business/2014/jun/06/vodafone-reveals-secret-wires-allowing-state-surveillance",
-                "4": "https://web.archive.org/web/20190301074847/https://www.citizensadvice.org.uk/cymraeg/about-us/how-citizens-advice-works/media/press-releases/mobile-phone-networks-overcharging-loyal-customers-by-up-to-38-a-month/"
-            },
-            "tags": [
-                "telecommunications",
-                "antiprivacy",
-                "tax avoidance"
-            ],
-            "score": 38,
-            "ownedBy": [],
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cc/Vodafone_2017_logo.svg",
-            "siteUrl": "https://vodafone.com/",
-            "updatedAt": "2024-02-11T17:22:19.768Z",
-            "key": "vodafone"
-        },
         "salesforce": {
             "names": [
                 "Salesforce",
@@ -27396,7 +27369,7 @@
             "tags": [
                 "telecommunications"
             ],
-            "score": null,
+            "score": 34,
             "ownedBy": [
                 "liberty-global",
                 "telefonica"
@@ -31951,6 +31924,483 @@
             "siteUrl": "http://www.tampax.com/",
             "updatedAt": "2026-07-16T07:18:21.219Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Tampax"
+        },
+        "target": {
+            "key": "target",
+            "names": [
+                "Target",
+                "Target Corporation",
+                "Goodfellow Dry Goods",
+                "Dayton's Dry Goods Company",
+                "Dayton Company",
+                "Dayton Corporation",
+                "Dayton-Hudson Corporation",
+                "TGT"
+            ],
+            "comment": "Target is an American retail company that has engaged in predatory pricing [1], rolled back DEI policies [2], enabled a massive data breach of millions of customers' data [3], underpaid employees [4][5][6], and exploited personal customer data [7][8]. It has also discriminated against job applicants on the basis of race [9] and disability [10], abused animals in its supply chain [11][12], and donated to anti-LGBTQ political causes [13].",
+            "sources": {
+                "1": "https://www.usnews.com/news/best-states/california/articles/2022-04-29/target-corp-pays-5-million-to-settle-pricing-lawsuit#:~:text=April%2029%2C%202022%2C%20at%203%3A54%20p.m.&text=MINNEAPOLIS%20(AP)%20%E2%80%94%20Target%20Corp,charged%20them%20more%20than%20advertised",
+                "2": "https://www.forbes.com/sites/pamdanziger/2025/12/15/target-withstood-dei-boycotts-to-show-signs-of-reputation-recovery/",
+                "3": "https://www.zdnet.com/article/anatomy-of-the-target-data-breach-missed-opportunities-and-lessons-learned/",
+                "4": "https://news.bloomberglaw.com/daily-labor-report/target-workers-reach-nearly-2-million-deal-to-end-wage-lawsuit",
+                "5": "https://news.bloomberglaw.com/daily-labor-report/target-workers-reach-nearly-2-million-deal-to-end-wage-lawsuit",
+                "6": "https://www.thehrdigest.com/target-nj-employees-wage-dispute-lawsuit-settled-for-4-6-million/",
+                "7": "https://www.businessinsider.com/the-incredible-story-of-how-target-exposed-a-teen-girls-pregnancy-2012-2",
+                "8": "https://www.globalbusinessandhumanrights.com/2012/02/23/predictive-analytics-informed-consent-and-privacy-the-case-of-target/",
+                "9": "https://www.washingtonpost.com/news/business/wp/2018/04/05/target-to-pay-3-74-million-to-settle-claims-that-it-discriminated-against-black-latino-job-applicants/",
+                "10": "https://www.eeoc.gov/newsroom/target-corporation-pay-45000-settle-eeoc-disability-discrimination-lawsuit",
+                "11": "https://web.archive.org/web/20120824064220/http://www.mcdonaldscruelty.com/",
+                "12": "https://web.archive.org/web/20131213192832/http://www.startribune.com/business/134160418.html?refer=y",
+                "13": "https://web.archive.org/web/20170818010627/http://www.rollingstone.com/music/news/lady-gaga-ends-deal-with-target-over-its-support-of-anti-gay-groups-20110309"
+            },
+            "sourceNotes": {
+                "1": "predatory pricing",
+                "2": "rolled back DEI policies",
+                "3": "enabled data breach of millions of customers' data",
+                "4": "underpaid employees",
+                "5": "underpaid employees",
+                "6": "underpaid employees",
+                "7": "exploitatative use of personal customer data",
+                "8": "exploitatative use of personal customer data",
+                "9": "racially discriminated against job applicants",
+                "10": "discriminated against disabled job applicants",
+                "11": "animal abuse in supply chain",
+                "12": "animal abuse in supply chain",
+                "13": "donated to anti-LGBTQ political causes"
+            },
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 31,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Target_2004_bullseye.svg",
+            "siteUrl": "https://target.com/",
+            "updatedAt": "2026-07-17T09:24:51.166Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Target_Corporation"
+        },
+        "tayto": {
+            "key": "tayto",
+            "names": [
+                "Tayto"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "pfeifer-and-langen"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/70/Mr_tayto.jpg",
+            "siteUrl": "https://taytocrisps.ie/",
+            "updatedAt": "2026-07-18T06:09:04.313Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tayto_(Republic_of_Ireland)"
+        },
+        "tefal": {
+            "key": "tefal",
+            "names": [
+                "Tefal",
+                "Tefal S.A.S.",
+                "T-fal"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "appliances"
+            ],
+            "score": null,
+            "ownedBy": [
+                "groupe-seb"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Tefal_logo.svg",
+            "siteUrl": "http://tefal.com/",
+            "updatedAt": "2026-07-19T08:50:01.083Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tefal"
+        },
+        "telefonica": {
+            "key": "telefonica",
+            "names": [
+                "Telefonica",
+                "Telefónica",
+                "Telefónica, S.A.",
+                "Compañía Telefónica Nacional de España",
+                "TEF"
+            ],
+            "comment": "Telefonica is a Spanish telecommunications company that has been involved in bribery [1][2] and has faced allegations of disability discrimination against employees [3]. Employees have also suffered sexual harassment at the company [4][5].",
+            "sources": {
+                "1": "https://apnews.com/article/venezuela-bribery-scheme-phone-company-justice-department-fbb571ecd3cf1ce7c9d023a37fdec4b6",
+                "2": "https://voz.us/en/world/241111/18041/telefonica-fired-its-ceo-in-venezuela-after-the-doj-fines-and-the-uncovering-of-the-bribery-scheme.html",
+                "3": "https://equalityni.org/our-work/news/160-000-settlement-in-disability-discrimination-case",
+                "4": "https://graziadaily.co.uk/life/real-life/belfast-woman-receives-35k-sexual-harassment-settlement-employer/",
+                "5": "https://www.bbc.co.uk/news/uk-northern-ireland-42153642"
+            },
+            "sourceNotes": {
+                "1": "involved in bribery",
+                "2": "involved in bribery",
+                "3": "disability discrimination against employees",
+                "4": "employees suffered sexual harassment",
+                "5": "employees suffered sexual harassment"
+            },
+            "tags": [
+                "telecommunications"
+            ],
+            "score": 34,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Telef%C3%B3nica_2021_logo.svg",
+            "siteUrl": "http://telefonica.com/",
+            "updatedAt": "2026-07-20T12:29:29.607Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Telef%C3%B3nica"
+        },
+        "telxius": {
+            "key": "telxius",
+            "names": [
+                "Telxius"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "telecommunications"
+            ],
+            "score": 34,
+            "ownedBy": [
+                "telefonica"
+            ],
+            "updatedAt": "2026-07-20T17:17:03.720Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Telxius",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Telxius_logo.svg",
+            "siteUrl": "https://telxius.com/"
+        },
+        "tgi-fridays": {
+            "key": "tgi-fridays",
+            "names": [
+                "TGI Fridays",
+                "TGI Fridays Franchisor, LLC"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurant"
+            ],
+            "score": null,
+            "ownedBy": [
+                "triartisan-capital-advisors"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Tgi_fridays_logo13.svg",
+            "siteUrl": "https://tgifridays.com/",
+            "updatedAt": "2026-07-21T19:23:59.181Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/TGI_Fridays"
+        },
+        "the-body-shop": {
+            "key": "the-body-shop",
+            "names": [
+                "The Body Shop"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cosmetics",
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "aurea-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/87/The_Body_Shop_logo_2020.svg",
+            "siteUrl": "https://www.thebodyshop.com/",
+            "updatedAt": "2026-07-21T19:23:59.181Z",
+            "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed"
+        },
+        "the-north-face": {
+            "key": "the-north-face",
+            "names": [
+                "The North Face"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": null,
+            "ownedBy": [
+                "vf-corporation"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/The_North_Face.png",
+            "siteUrl": "http://thenorthface.com/",
+            "updatedAt": "2026-07-23T22:45:43.047Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_North_Face"
+        },
+        "columbia": {
+            "key": "columbia",
+            "names": [
+                "Columbia",
+                "Columbia Sportswear",
+                "The Columbia Sportswear Company",
+                "COLM"
+            ],
+            "comment": "Columbia Sportswear is an American apparel company that has faced environmental violations [1] and a range of labor abuses across its supply chain, including forced labour in cotton and garment production [2][3][4], underpayment and poor working conditions for garment workers [5], sexual abuse allegations [6], and the tragic death of an employee in unsafe factory conditions [7]. These incidents have also involved extreme exploitation leading to a garment worker’s suicide due to abuse within the supply chain [8] and highlight systemic failures in ensuring safe, fair, and ethical manufacturing practices.",
+            "sources": {
+                "1": "https://echo.epa.gov/enforcement-case-report?id=10-2012-0067",
+                "2": "https://cleanclothes.org/file-repository/resources-publications-labour-without-liberty-2013-female-migrant-workers-in-bangalores-garment-industry-short-version",
+                "3": "https://inews.co.uk/news/business/under-armour-columbia-forced-labour-investigation-us-3020631",
+                "4": "https://www.lastradainternational.org/news/major-brands-linked-to-forced-labour-in-cotton-sector/",
+                "5": "https://www.theguardian.com/global-development/2021/jul/09/top-fashion-brands-face-legal-challenge-over-garment-workers-rights-in-asia",
+                "6": "https://inews.co.uk/news/under-armour-clothes-from-sweatshop-supplier-banned-4497529",
+                "7": "https://www.osha.gov/ords/imis/establishment.inspection_detail?id=1613222.015",
+                "8": "https://www.business-humanrights.org/en/latest-news/jordan-abuse-at-under-armour-columbia-and-american-eagle-supplier-factory-led-to-suicide-of-migrant-worker-incl-co-comments/"
+            },
+            "sourceNotes": {
+                "1": "environmental violations",
+                "2": "forced labour and abuse in supply chain",
+                "3": "forced labour in supply chain",
+                "4": "foced labour in cotton supply chain",
+                "5": "underpayment and poor working conditions for garment workers",
+                "6": "sexual abuse in supply chain",
+                "7": "employee died in unsafe factory conditions",
+                "8": "abuse of garment workers in supply chain leading to suicide"
+            },
+            "tags": [
+                "clothing",
+                "sportswear",
+                "retail"
+            ],
+            "score": 17,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Columbia_Sportswear_Co_logo.svg",
+            "siteUrl": "https://www.columbia.com/",
+            "updatedAt": "2026-07-25T09:58:58.900Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Columbia_Sportswear"
+        },
+        "sorel": {
+            "key": "sorel",
+            "names": [
+                "Sorel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "sportswear",
+                "retail"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "columbia"
+            ],
+            "updatedAt": "2026-07-25T10:23:07.867Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sorel_(brand)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/20/Sorel_logo.jpg",
+            "siteUrl": "http://www.sorel.com/"
+        },
+        "mountain-hardwear": {
+            "key": "mountain-hardwear",
+            "names": [
+                "Mountain Hardwear"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "sportswear",
+                "retail"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "columbia"
+            ],
+            "updatedAt": "2026-07-25T10:23:08.432Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mountain_Hardwear",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/1a/Mountain_Hardwear.png",
+            "siteUrl": "http://mountainhardwear.com/"
+        },
+        "prana": {
+            "key": "prana",
+            "names": [
+                "Prana"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "sportswear",
+                "retail"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "columbia"
+            ],
+            "updatedAt": "2026-07-25T10:23:08.874Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Prana_(brand)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/35/PrAna_logo.png",
+            "siteUrl": "https://prana.com/"
+        },
+        "three": {
+            "key": "three",
+            "names": [
+                "Three",
+                "Three UK",
+                "Hutchison 3G UK Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "telecommunications"
+            ],
+            "score": 38,
+            "ownedBy": [
+                "vodafone"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/73/Logo_of_Three_UK.svg",
+            "siteUrl": "https://www.three.co.uk/",
+            "updatedAt": "2026-07-26T07:13:59.070Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Three_UK"
+        },
+        "vodafone": {
+            "key": "vodafone",
+            "names": [
+                "Vodafone",
+                "Vodafone Group Public Limited Company",
+                "Racal Strategic Radio Limited",
+                "Racal Telecommunications Group Limited",
+                "Racal Telecom Limited",
+                "Racal Telecom Public Limited Company",
+                "Vodafone AirTouch Public Limited Company",
+                "VOD"
+            ],
+            "comment": "Vodafone is a British telecommunications company that has engaged in tax avoidance [1][2][3], overcharged customers [4] and violated consumer protection laws [5], while pursuing monopolistic anticompetitive practices [6] and exploitative marketing to consumers [7]. The firm has mistreated store staff [8], discriminated against disabled employees [9], suppressed internet access during the Arab Spring to silence protesters [10][11], and participated in state surveillance [12].",
+            "sources": {
+                "1": "https://web.archive.org/web/20101027221207/http://www.private-eye.co.uk/sections.php?section_link=in_the_back&issue=1273",
+                "2": "https://www.theguardian.com/uk-news/2014/jun/14/uk-uncut-vodafone",
+                "3": "https://web.archive.org/web/20160106161736/https://www.thebureauinvestigates.com/2012/03/06/vodafone-undercover-investigation-exposes-swiss-branches/",
+                "4": "https://www.bbc.co.uk/news/business-37772118",
+                "5": "https://www.bfdi.bund.de/SharedDocs/Pressemitteilungen/DE/2025/06_Geldbu%C3%9Fe-Vodafone.html?nn=251944",
+                "6": "https://www.consiliulconcurentei.ro/wp-content/uploads/2011/02/amenzi_telefonie_feb_2011.pdf",
+                "7": "https://en.agcm.it/en/media/press-releases/2019/12/PS11380-PS11381",
+                "8": "https://www.theguardian.com/business/2025/apr/27/vodafone-whistleblowers-warned-executives-about-plight-of-high-street-store-staff",
+                "9": "https://assets.publishing.service.gov.uk/media/64524287c33b460012f5e5c9/Mr_S_Pervaiz_v_Vodafone_Ltd_-_1305124_2021_-_Full.pdf",
+                "10": "https://af.reuters.com/article/tunisiaNews/idAFLDE70Q2P220110127",
+                "11": "https://web.archive.org/web/20220116201719/https://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/8288163/How-Egypt-shut-down-the-internet.html",
+                "12": "https://www.theguardian.com/business/2014/jun/06/vodafone-reveals-secret-wires-allowing-state-surveillance"
+            },
+            "sourceNotes": {
+                "1": "tax avoidance",
+                "2": "tax avoidance",
+                "3": "tax avoidance",
+                "4": "overcharging customers",
+                "5": "consumer protection violations",
+                "6": "monopolistic anticompetetive practices",
+                "7": "exploitative marketing to customers",
+                "8": "poor treatment of store staff",
+                "9": "disability discrimination against employees",
+                "10": "deactivated internet during arab spring to supress protesters",
+                "11": "deactivated internet during arab spring to supress protesters",
+                "12": "participation in state surveillance"
+            },
+            "tags": [
+                "telecommunications"
+            ],
+            "score": 38,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cc/Vodafone_2017_logo.svg",
+            "siteUrl": "https://vodafone.com/",
+            "updatedAt": "2026-07-26T07:32:08.626Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Vodafone"
+        },
+        "tidal": {
+            "key": "tidal",
+            "names": [
+                "Tidal",
+                "TIDAL"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech",
+                "music"
+            ],
+            "score": null,
+            "ownedBy": [
+                "block"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Tidal_%28service%29_logo.svg",
+            "siteUrl": "https://en.wikipedia.org/wiki/Website",
+            "updatedAt": "2026-07-26T07:59:09.268Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tidal_(service)"
+        },
+        "tiktok": {
+            "key": "tiktok",
+            "names": [
+                "TikTok"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": null,
+            "ownedBy": [
+                "bytedance"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg",
+            "siteUrl": "https://tiktok.com/",
+            "updatedAt": "2026-07-27T08:42:11.323Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/TikTok"
+        },
+        "timberland": {
+            "key": "timberland",
+            "names": [
+                "Timberland"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "footwear"
+            ],
+            "score": null,
+            "ownedBy": [
+                "vf-corporation"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Timberland-logo.png",
+            "siteUrl": "https://www.timberland.com/",
+            "updatedAt": "2026-07-28T07:26:26.414Z",
+            "error": "TypeError: session.cookieJar.setCookies is not a function",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Timberland_(company)"
+        },
+        "tnt-express": {
+            "key": "tnt-express",
+            "names": [
+                "TNT Express"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "logistics"
+            ],
+            "score": 45,
+            "ownedBy": [
+                "fedex"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/TNT_Express_Logo.svg",
+            "siteUrl": "http://tnt.com/",
+            "updatedAt": "2026-07-29T10:22:34.763Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/TNT_Express"
         }
     }
 }
