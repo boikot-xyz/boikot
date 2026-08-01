@@ -1,0 +1,458 @@
+Bayer Accused Of Skirting Safety
+    
+
+Advertisement
+
+                    
+                    ACS
+                
+
+                    
+                    ACS Publications
+                
+
+                    
+                    C&EN
+                
+
+                    
+                    CAS
+                
+
+                    
+                    Jobs
+                
+
+Main menu
+
+News
+
+Topics
+
+Newsletter
+
+Podcasts
+
+                            Explore
+                            
+
+                        Explore
+
+Skip
+                    Explore section
+
+Features
+                                
+
+Perspectives
+                                
+
+Interviews
+                                
+
+ACS News
+                                
+
+Graphics
+                                
+
+Chempics
+                                
+
+Games
+                                
+
+Newscripts
+                                
+
+Webinars
+                                
+
+Whitepapers& E-books
+                                
+
+                            Highlights
+                            
+
+                        Highlights
+
+Skip
+                    Highlights section
+
+                                    Molecules of the year 2025
+                                
+
+                                    Why scientists found lead in protein powders
+                                
+
+                                    Opinion: The PhD trap—what the degree prepared me for, and what not
+                                
+
+                                     New Normal: Living at wildfires' edge
+                                
+
+                                    How AI is taking over every step of drug discovery 
+                                
+
+                                    Nobel Prize
+                                
+
+                                    TOPICS
+                                    
+
+                                TOPICS
+
+Skip TOPICS
+                            section
+
+ACS News
+                                        
+
+Analytical Chemistry
+                                        
+
+Biological Chemistry
+                                        
+
+Business
+                                        
+
+Careers
+                                        
+
+Education
+                                        
+
+Energy
+                                        
+
+Environment
+                                        
+
+Food
+                                        
+
+Materials
+                                        
+
+People
+                                        
+
+Pharmaceuticals
+                                        
+
+Physical Chemistry
+                                        
+
+Policy
+                                        
+
+Research Integrity
+                                        
+
+Safety
+                                        
+
+Synthesis
+                                        
+
+                                    MAGAZINE
+                                    
+
+                                MAGAZINE
+
+Skip Magazine section
+
+                                            
+                                                Volume 103 |
+                                            
+                                            
+                                                Issue 22
+                                            
+                                            November 17, 2025 
+                                        
+
+Previous
+                                                Issues
+
+Search
+
+Search C&EN
+
+Search C&EN
+
+Search
+
+News
+
+Topics
+
+Newsletter
+
+Podcasts
+
+                        Trending:
+                    
+
+Environmental Deregulation
+
+Europe's Industrial Crisis
+
+mRNA
+
+                        Bayer Accused Of Skirting Safety
+                    
+
+Share
+
+Safety
+
+	Bayer Accused Of Skirting Safety
+  
+
+	Investigation: Rush to production caused plant explosion in West Virginia, safety board concludes
+  
+
+		
+			by 
+			
+				
+				 
+				 
+				 
+					Jeff Johnson
+				
+
+January 24, 2011
+
+4
+						min read
+					
+
+						
+							
+								A version of this story appeared in
+								
+								
+									Volume 89, Issue
+									4
+								
+							
+						
+					
+
+ 
+Share
+
+The 2008 explosion at a Bayer CropScience plant in Institute, W.Va., caused extensive damage and two fatalities.
+
+Credit:
+              CSB
+
+A decision to hasten the restart of a pesticide production process and bypass safety controls led to a tragic accident on Aug. 28, 2008, at the Bayer CropScience plant in Institute, W.Va., concludes the Chemical Safety & Hazard Investigation Board (CSB), in a report released on Jan. 20.
+
+Animation of Bayer CropScience Pesticide Waste Tank ExplosionDownload Option: Quicktime Video | Windows Video
+
+Credit:
+              CSB
+
+The accident destroyed a key pesticide manufacturing unit, killed two workers, required 40,000 people living near the plant to shelter in place, and revealed gross inadequacies in Bayer’s accident emergency response operations.
+Workers at the Bayer plant were under pressure to resume production of the pesticides methomyl and Larvin after a lengthy maintenance shutdown, according to the CSB investigation. As a result, they failed to evaluate new computer programs, inspect safety equipment, and conduct safety process checks.
+Most critical, the report says, was the intentional overriding of an interlock system that was designed to prevent a runaway reaction inside a residue treater pressure vessel. Late at night, the vessel overpressurized and exploded in a fireball, sending vessel pieces flying. Fortunately, the debris missed a nearby aboveground tank storing 13,000 lb of methyl isocyanate (MIC), which is an intermediate in pesticide manufacturing and is the chemical that caused the deaths of thousands of people in Bhopal, India, in 1984.
+The resulting fire from the Bayer explosion burned for four hours while company officials kept local residents in the dark about the accident, even blocking the state fire marshal from entering the plant. Local emergency responders called for residents to shelter in place without input from plant officials, who had recommended the same action but did not make their views public (C&EN, May 11, 2009, page 25).
+In the months that followed, Bayer officials repeatedly stated that no toxic material had been released during the accident. They blocked CSB from making portions of its investigation public and claimed that the data were “sensitive security information” and therefore protected under federal provisions to thwart terrorists. Eventually, Congress and the Department of Homeland Security intervened, and Bayer’s security claim was found to be invalid.
+During its investigation, the safety board determined that plant air monitors that could have detected the release of toxic chemicals were not working at the time of the accident. And according to the CSB report, no reliable data or analytical methods were available to determine which chemicals were released or to predict exposure concentrations.
+
+The board’s report makes a host of recommendations to the company, the state, EPA, and OSHA, but CSB Chairman Rafael Moure-Eraso highlighted his view that West Virginia should create a locally run hazardous chemical release prevention program, modeled on a chemical plant oversight program in California’s Contra Costa County.
+“Local jurisdictions can put together highly effective and targeted inspection and enforcement programs, funded by levies on the plants themselves,” he continued. “The accident rate in Contra Costa County has dropped dramatically, and last year in fact they had no significant accidents, thanks to this program.”
+Since the West Virginia accident, Bayer has decided to gradually end all production, use, and storage of MIC by next year (C&EN, Jan. 17, page 24).
+Maya Nye, head of a community organization in West Virginia created after the Bhopal accident, applauds Bayer’s decision. She also backs the new plant oversight program proposed by CSB and urges a shift to inherently safer technologies by the 48 chemical plants near Institute.
+“As a manufacturer, we have an obligation to ensure our operations are conducted under the highest standards of safety,” Steven Hedrick, Bayer vice president, said at a community meeting on Jan. 20. “On that night in August, we did not live up to those obligations or to the expectations of our community.” He then described several changes that plant management has taken since the accident, many of which improve emergency response and communication with the community when an accident occurs. Hedrick also singled out efforts to implement new process safety measures and increase training as well as reduce MIC use and storage.
+
+Send the reporter feedback 
+
+Submit a Letter to the Editor for publication 
+
+Chemical & Engineering News
+ISSN 0009-2347
+Copyright ©
+            2025 American Chemical Society
+
+Enjoyed the article?
+Share
+				
+
+Bayer Accused Of Skirting Safety
+
+						Investigation: Rush to production caused plant explosion in West Virginia, safety board concludes
+					
+
+cen.acs.org
+
+Advertisement
+
+                            More in
+                            
+                                
+                                    Safety
+                                
+
+Editor's Picks
+
+Popular
+
+Return to top
+
+2/3
+FREE ARTICLES LEFT THIS MONTH
+
+Chemistry matters. Join us to get the news you need.
+
+Get More 
+                    Get More 
+                  
+
+                  
+
+Close
+
+ Must-read Weekly Newsletter
+An editor’s selection of the C&EN stories that will continue to spark conversations in the week ahead
+
+Email Address
+
+                Subscribe
+              
+
+Privacy Policy
+
+Chemistry News That Matters
+C&EN empowers those in and around the global chemical enterprise
+
+                Upgrade
+              
+
+                Subscribe to C&EN
+              
+
+Debug leftColumns:
+leftColumns exists: no
+
+The Edge in Chemistry News
+
+              About C&EN
+            
+
+              Contact
+            
+
+              Advertise
+            
+
+              C&EN Brandlab
+            
+
+              ACS Publications
+            
+
+              ACS Chemistry Career
+            
+
+              Join ACS
+            
+
+              Renew Membership
+            
+
+              ACS Network
+            
+
+              CAS
+            
+
+C&EN Mobile App
+
+Follow C&EN
+
+                   Help
+                
+
+                  Accessibility Statement
+                
+
+                  Privacy Policy
+                
+
+                  Terms of Use
+                
+
+                  Site Map
+                
+
+            Copyright ©
+            2025 American Chemical Society. All
+            Rights Reserved.
+          
+
+                    Share This Article
+
+Close
+
+Copy Link
+
+                                        Facebook
+                                    
+
+                                        X
+                                    
+
+                                        LinkedIn
+                                    
+
+                                        Bluesky
+                                    
+
+                                        Reddit
+                                    
+
+                                        Wechat
+                                    
+
+                                        Email
+                                    
+
+                                        Print
+                                    
+
+                        Share "" via email
+                    
+
+Close
+
+Send Email to*
+
+                                To send an email to multiple recipients, separate email addresses with a comma,
+                                semicolon, or both.
+                            
+
+Your Name*
+
+Your Email Address*
+
+Add a Note
+
+                                Optional personal message to include with the shared article.
+                            
+
+Send Email
+
+                                Sending...
+                            
+
+                            Chemical & Engineering News will not share your email address with any other person or company.
+                        
+
+Email Sent Successfully
+
+Your email has been sent to 
+Article:

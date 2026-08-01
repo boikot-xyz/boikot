@@ -1,0 +1,328 @@
+Why Review Geek Can't Recommend Wyze or eufy Cameras Anymore
+
+Menu
+
+Sign in now
+
+Close
+
+Desktop
+
+Submenu
+
+Windows
+
+Microsoft
+
+Linux
+
+Programming
+
+Mac
+
+Chromebook
+
+Web
+
+Mobile
+
+Submenu
+
+Android
+
+iPhone
+
+Carriers
+
+Streaming
+
+Submenu
+
+Audio/Video
+
+Smart Home
+
+Automotive
+
+Gaming
+
+Hobbies
+
+Submenu
+
+Homelab
+
+Raspberry Pi
+
+Cutting Edge
+
+News
+
+Reviews
+
+Buying Guides
+
+Deals
+
+Sign in
+
+Newsletter
+
+Menu
+
+                                    Follow
+                                
+
+                                            Followed
+                                    
+
+                            Like
+                                
+
+More Action
+
+Sign in now
+
+ 
+
+Linux
+
+Open Source Tools
+
+Windows
+
+Microsoft Excel
+
+Streaming
+
+Android
+
+iPhone
+
+Deals
+
+Close
+
+Why Review Geek Can't Recommend Wyze or eufy Cameras Anymore
+
+Wyze/eufy
+
+By 
+Josh Hendrickson
+
+Updated 
+Mar 6, 2023
+
+Josh Hendrickson was the Editor-in-Chief of Review Geek and a former How-To Geek Staff Writer with over a decade of experience.
+
+Before writing for How-To Geek, Josh did project management, quality assurance testing, and sysadmin work at IDM Computer Solutions, which makes the popular UltraEdit text editor. His years of project management experience included a focus on Linux and macOS applications and troubleshooting, giving him intimate professional knowledge of all three major desktop operating systems. Josh also built and maintained PCs and servers for IDM, and was responsible for maintaining local and offline backups for the company.
+
+Josh worked for Microsoft for several years, specializing in computer repair of both hardware and software. He took apart laptops, troubleshooted the Windows operating system, fixed programs like Microsoft Outlook, and removed viruses from customers' laptops. While working for Microsoft, he helped create a shared knowledge repository for all Microsoft employees repairing computers and developed a training process for catching new employees up to speed. During that time, Josh achieved a Microsoft Certified Professional (MCP) certification.
+
+Even before working directly in Information Technology, Josh had a passion for technology. He rooted Android phones and flashed custom ROMs on them; gamed on all major consoles and with his PCs; and built his own computers.
+
+That passion continues today. Josh has outfitted his house with a wide variety of smart gadgets, ran Ethernet cables everywhere, assembled Plex servers, and even built a smart mirror with just a frame, some electronics, a Raspberry Pi, and open-source code. His work has been covered by news websites like Digital Trends, Stacey on IoT, Daily Tech News Show, and USA Today. 
+
+Sign in to your How-To Geek account
+
+Jump links
+
+Jump Links
+
+Wyze Hid Its Small Problem
+
+eufy Won't Even Admit to a Big Vulnerability
+
+follow
+
+                                    Follow
+                            
+
+followed
+
+                                    Followed
+                            
+
+                                    Like
+                            
+
+                            Like
+                                
+
+Log in
+
+							Here is a fact-based summary of the story contents:
+						
+
+Try something different:
+							
+
+									Show me the facts
+								
+
+									Explain it like I’m 5
+								
+
+									Give me a lighthearted recap
+								
+
+Summary
+It's not about vulnerabilities but what the companies did next.
+
+When it comes to either affordable Wi-Fi cameras or cloudless Wi-Fi cameras, Review Geek has long recommended two companies: Wyze and eufy. We've reviewed products from both companies highly and included them in our "best of" lists multiple times. But as of today, we can no longer recommend either. Wi-Fi cameras are, at the base of things, a device that requires a great deal of trust. You're putting a gadget into your home that can see some of the most personal and private areas of your life and potentially broadcast it to the world. Even if you keep them in the more "public" areas of your home, like the living room or kitchen, that's still a far more personal look than most people get in your life. So before you buy a camera, it's good to know that the company practices good security procedures and proper disclosures. The latter is especially important because even with the best security procedures, no company is perfect, and it's likely every one of them will suffer from some kind of vulnerability sooner or later. And it's down to bad disclosures that we at Review Geek are removing both Wyze and eufy cameras from our recommendations. Each had a vulnerability, and both failed to responsibly disclose those issues to the public, albeit in different ways. 
+                        Wyze Hid Its Small Problem
+               
+
+Wyze
+
+We've reported extensively on the problem with Wyze, but here's a recap in a nutshell. Wyze's vulnerability is actually a pretty small one that likely didn't hit most people. The problem comes down to two particular key points, one of them more rare than the other. Wyze cameras have a remote viewing capability that allows you to check video even when you're not home. For most people that feature just works if they enable it. But in some rare cases, a home router may actually block Wyze from reaching out to allow remote viewing. To get around that, it's possible to enable port forwarding in your home router to create a "tunnel" so Wyze could reach you when you weren't home. Wyze offered instructions on how to do that, but admitted it could decrease your internet security. The vulnerability in question required that you both enabled port forwarding AND had a microSD card inserted in the camera to record video locally. The latter is pretty common, but the first not so much. Few people probably had both components. But for those who did, it was possible for someone to break into your camera and watch any video on the SD card. Again, this probably didn't apply to most Wyze camera owners, but that's still a bad vulnerability.
+
+Michael Crider / Review Geek
+
+In 2019, security researchers for BitDefender notified Wyze of the vulnerability, and here's where things get really bad. Wyze sat on that information for three years. Eventually, Wyze did patch most of its cameras to fix the problem, but apparently, the company couldn't do that for the original Wyze Cam. Related: Wyze Discontinues Its First Security Cam, Suggests That Customers Upgrade Rather than tell owners that, though, the company decided to discontinue selling the camera (yes, it sold the camera through most of this period), and announce that it would no longer get updates. And because of that fact, Wyze recommended anyone that owned the original camera upgrade and offered a small discount to do so. Do you see the problem? Wyze didn't tell people who owned the camera that a vulnerability existed that could allow hackers to view their videos. It just recommended an upgrade because the camera is "no longer supported." That's not how to handle this situation. Only after the security researchers finally blew the whistle did Wyze admit to the problem. Related: Wyze Left Some Security Cameras Vulnerable to Hackers---But It's Complicated That is a breach of trust. How can we be sure that the next time Wyze encounters a vulnerability, it will actually admit the problem so consumers can make an informed choice? For that reason alone, we can't recommend Wyze cameras anymore. We'll still recommend other products from the company that aren't cameras, like robot vacuums. But we'll be watching closely and could change that if necessary. We've been looking for a good Wyze replacement---something affordable, trusted, and preferably with an option to skip the cloud. And eufy fit the bill. Unfortunately, eufy went down a similar, perhaps worse, road. 
+                        eufy Won't Even Admit to a Big Vulnerability
+               
+
+Josh Hendrickson / Review Geek
+
+In the last few days, eufy has been through the wringer. Security researchers have made multiple accusations, some minor and some major. The first thing you need to know about eufy is that it promises your video will never end up on the cloud. Eufy doesn't even offer a cloud subscription at all. The company claims all your video is stored locally on your camera, using military-grade encryption, and that only you can access the video using eufy's app or web interface. No other method will work, nor can eufy access your video. That makes it ideal for the security conscious. The first claim against eufy is pretty minor in comparison. Despite the claim that no video gets uploaded to servers, it appeared some snippets did end on servers and in unencrypted form. Those are in the form of thumbnails in an optional feature of the eufy app. You can choose to get image notifications when someone rings a doorbell, for instance, to see who is at the door in the notification panel.
+
+To make that happen, eufy uploads the thumbnail to AWS (Amazon) servers to send to your phone and to the web interface. The thumbnails do have some identifying information that could potentially be used to identify people, with some difficulty. Eufy did acknowledge this report and pledged to update the language of the app to make it more clear that getting thumbnail previews requires a temporary upload to the cloud. The images are eventually deleted (though eufy didn't specify how soon). The other discovery, however, is much more concerning, as is eufy's response. Multiple security researchers allege that despite eufy's claims otherwise, it's entirely possible to stream unencrypted video stored on eufy cameras without the app, web interface, or login. The details are tricky, but it comes down to a few things: the bad actor would need the serial number of the camera, a UNIX timestamp (very easy to obtain), and a hex key (relatively easy to brute force). Using those pieces of information, it's possible to reverse engineer an address you can use to access the camera from anywhere, using other software like VLC. In theory, the cameras require a token for validation as well, but that doesn't seem to work, and you can provide anything you want. The security researchers aren't releasing the exact methods for fear of teaching bad actors how to access security cameras, but allege that with the right information above, they could stream unencrypted video from eufy cameras through VLC. That shouldn't be possible with eufy's claims. The Verge asked eufy point blank if the reports were true, and the company denied it: "I can confirm that it is not possible to start a stream and watch live footage using a third-party player such as VLC," Brett White, a senior PR manager at Anker (eufy's parent company), told The Verge via email.
+
+ButÂ TheÂ Verge managed to reproduce the claim and streamed video from eufy cameras through VLC. Despite eufy's statement that it wasn't possible. It should be noted that right now, it'd be difficult to replicate this in the wild as you do need a camera's serial number. But that's not exactly protected information---you'll find it on product boxes. And it's potentially possible that serial numbers could be collected and leaked, much like email addresses. Now thatÂ The Verge replicated the claim, you'd expect eufy to change its tune. But that doesn't seem to be the case. In a statement given to AndroidCentral, eufy continues to either deny or ignore the problem altogether even after The Verge's reporting: 
+eufy Security adamantly disagrees with the accusations levied against the company concerning the security of our products. However, we understand that the recent events may have caused concern for some users. We frequently review and test our security features and encourage feedback from the broader security industry to ensure we address all credible security vulnerabilities. If a credible vulnerability is identified, we take the necessary actions to correct it. In addition, we comply with all appropriate regulatory bodies in the markets where our products are sold. Finally, we encourage users to contact our dedicated customer support team with questions.
+And that leaves us in a similar boat to Wyze. Security cameras, especially ones you put in your home, require trust. And eufy has broken that trust. In some ways, eufy is currently worse than Wyze, as the latter at least admitted to the problem when the information became public. That's still too late, but eufy is waiting even longer. So we can't in good conscience recommend either company's security cameras to our readers. Typically, if we stop recommending a product from a company, like a security camera, we lay out the reasons why and what it would take to regain our recommendation. That happened with Ring---we stopped recommending Ring cameras, laid out our expectations, and when the company met them, we started recommending Ring again. We also like to offer alternatives you can purchase instead. But in this case, the situation is much more difficult. How do Wyze and eufy earn trust back after refusing to admit problems promptly?Â The Verge goes so far as to say eufy lied in its responses, though one could argue it's possible the PR manager may have been incorrect but believed their statement. Still, eufy continues to deny the claims, despite proof laid out by multiple security researchers and journalistic outlets. How do you come back from that? I simply don't know, so I'm not it will be possible to ever recommend either company again. We'll keep an eye on them and go from there. For now, we'll be removing eufy and Wyze from our articles recommending cameras. As for alternatives, that's a tricky situation as well. The simple fact is that no other company quite meets the bill for affordable cameras with cloudless options that don't require additional hardware for local storage or helpful notifications. Some are close, like Blink or Arlo, but require additional components that raise the price. Or come parent companies we're not sure we can comfortably recommend. And frankly, every company is "one bad day" away from the same situation. It all depends on how they handle disclosure. For now, in all transparency, I can only tell you that I own Wyze cameras, and they are still plugged in. I know the risks, and I'm willing to take them. But that's not the same thing as recommending them to anyone else. No recommendation should start with, "this is a good option, but first, you should know some things." And that would be a requirement. The only safe bet you can take is to not place security cameras in your home at all. 
+
+bigpic
+
+adjacent
+
+                                                                        Follow
+                                                            
+
+                                                            Followed
+                                                    
+
+                                                            Like
+                                                                    
+
+Share
+
+Facebook
+
+X
+
+WhatsApp
+
+Threads
+
+Bluesky
+
+LinkedIn
+
+Reddit
+
+Flipboard
+
+Copy link
+
+Email
+
+Readers like you help support How-To Geek. When you make a purchase using links on our site, we may earn an affiliate commission. Read More.
+
+Close
+
+Recommended
+
+6 days ago
+
+                                    Stop trusting hotel Wi-Fi: Build this Raspberry Pi travel router instead
+                            
+
+6 days ago
+
+                                    Please stop using Amazon and Google to run your smart home
+                            
+
+6 days ago
+
+                                    You're probably pronouncing Ubuntu wrong—and these 7 other Linux terms
+                            
+
+2 days ago
+
+                                    If you still use these 5 ports, your PC is officially too old
+                            
+
+                                                    Desktop
+                                            
+
+                                                    Mobile
+                                            
+
+			Is the Raspberry Pi 500+ and its mechanical keyboard worth it?
+		
+
+39 minutes ago
+
+			Most Linux users overlook Homebrew, but here’s why it’s worth trying
+		
+
+5 hours ago
+
+			3 useful Linux apps worth trying this weekend (December 5 - 7)
+		
+
+7 hours ago
+
+ See More
+
+			I use this 53-year-old trick to get files to my phone
+		
+
+3 hours ago
+
+			If your Android videos sound weird, this setting is the culprit
+		
+
+5 hours ago
+
+			Google Messages is changing how you send and view photos, again
+		
+
+5 hours ago
+
+ See More
+
+Trending Now
+
+			You should have a smartphone disaster plan
+		
+
+			The $32K SUV that outsmarts popular rivals with more power, tech, and choices
+		
+
+			Raspberry Pi projects to try this weekend (December 5-7)
+		
+
+ 
+
+Join Our Team
+Our Audience
+About Us
+Press & Events
+Media Coverage
+Contact Us
+
+Follow Us
+
+Advertising
+Careers
+Terms
+Privacy
+Policies
+
+How-To Geek is part of the
+                            Valnet Publishing Group
+
+                Copyright © 2025 Valnet Inc.

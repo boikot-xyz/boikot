@@ -1,0 +1,373 @@
+NatWest fined £264.8 million for anti-money laundering failures | FCA
+
+Skip to main content
+Skip to search box
+
+    Search
+  
+
+Search
+
+Main menu
+
+Main navigation
+
+About us
+
+Contact us
+
+Get in touch by phone, via our online form, or by post:
+ 
+Financial Conduct Authority
+12 Endeavour Square
+London E20 1JN
+ 
+Contact us
+
+What we do
+
+About the FCA
+Enhancing market integrity
+How we work
+Promoting competition
+Protecting consumers
+
+How we regulate
+
+Authorisation
+Enforcement
+Handbook of rules and guidance
+International standards and regulations
+Supervision
+
+How we operate
+
+Complain about us, the PRA or the Bank of England (the regulators)
+Corporate responsibility
+Diversity, equity and inclusion: our progress
+Environmental sustainability
+Who we work with
+
+Who we are
+
+Chair
+Chief Executive
+Committees
+Executive committees
+FCA Board
+
+Join us
+
+Careers home
+Early careers
+Experienced professionals
+
+Our strategy 2025 to 2030 
+Our vision and priorities for the next 5 years.How we work
+
+Close menu
+
+Firms
+
+Firms overview
+
+Go to our dedicated section to see support for firms and our latest policy updates.
+ 
+Find out more
+
+Firm authorisation
+
+Authorisation
+Cancelling an authorisation or registration
+Check if a firm is authorised
+How to apply for authorisation or registration
+
+Regulated firms
+
+All firms
+Claims management companies
+Consumer credit firms
+Electronic money and payment institutions
+Funeral plan providers and intermediaries
+Innovation Hub
+Mutual societies
+
+Close menu
+
+Tasks for firms
+
+Approved persons
+Change in control
+Fees and levies
+Keeping your firm's information up to date
+Principals and appointed representatives
+
+Focus areas
+
+Artificial intelligence
+Consumer Duty
+Cost of living: firm information
+Cryptoassets
+FCA support services for firms
+Senior Managers and Certification Regime 
+
+Consumer Duty 
+We're hosting events to help firms prepare for the new rules. Sign up to hear about these and related communications.
+Sign up
+
+Close menu
+
+Markets
+
+Primary markets
+
+Forms and checklists
+Knowledge Base
+Listing applications and cancellations
+Regulatory Disclosures
+The sponsor regime
+
+Markets policy
+
+About LIBOR transition
+Data reporting services providers
+Securitisation
+UK EMIR
+UK Securities Financing Transactions Regulation (UK SFTR)
+
+Regulated markets
+
+Benchmarks
+Central securities depositories
+
+Market abuse
+
+How to report suspected market abuse as a firm or trading venue
+How to report suspected market abuse as an individual
+Market Abuse Regulation
+
+Short selling
+
+Exemptions from short-selling requirements
+Notification and disclosure of net short positions
+Short selling
+
+Transaction reporting
+
+Instrument reference data
+Transaction reporting
+
+Close menu
+
+Consumers
+
+Our Consumer section
+
+See our dedicated section to help you stay up-to-date with financial services in the UK.
+ 
+Find out more
+
+Your rights
+
+Considering a defined benefit pension transfer
+FCA Firm Checker
+High risk investments
+How to check a firm or individual is authorised
+Information for victims of financial crime
+Your rights with financial services
+
+Complaints
+
+Car finance claims
+Complain about a regulator
+How to claim compensation if a firm fails
+How to complain
+Using claims management companies
+
+Scams
+
+Crypto investment scams
+Fake FCA communications
+Loan fee fraud
+Pension scams
+Protect yourself from scams
+
+Report a firm
+
+Misleading financial promotions
+Report a payment services or e-money firm
+Report a scam
+Unfair contracts
+
+FCA Warning List 
+Find our most up-to-date warnings of firms and individuals running scams or operating without authorisation.
+Read more
+
+Close menu
+
+News
+
+Sign up to receive daily alerts on the warnings we issue
+
+Receive new and updated warnings in a daily email.
+ 
+Sign up
+
+News
+
+Blogs
+News stories
+Press releases
+Speeches
+Statements
+Warnings
+
+Media centre
+
+Inside FCA podcasts
+Media library
+
+Events
+
+See all FCA events
+
+Close menu
+
+Publications
+
+Policy and guidance
+Corporate documents
+Notices and decisions
+Data
+Research
+Forms
+
+Open consultations 
+See our current open consultations and the deadlines for giving feedback.
+Respond to our consultations
+
+Close menu
+
+Home
+News
+NatWest fined £264.8 million for anti-money laundering failures 
+
+ 
+
+NatWest fined £264.8 million for anti-money laundering failures 
+
+Press Releases
+First published: 						13/12/2021
+
+Last updated: 13/12/2021
+
+Print Page
+
+Linkedin
+
+Twitter
+
+                Share page
+              
+
+National Westminster Bank Plc (NatWest) was today fined £264,772,619.95 following convictions for three offences of failing to comply with money laundering regulations.
+
+Mrs Justice Cockerill, the sentencing judge at Southwark Crown Court, today said: '….it must be borne in mind that although in no way complicit in the money laundering which took place, the Bank was functionally vital. Without the Bank – and without the Bank’s failures - the money could not be effectively laundered.' 
+NatWest pleaded guilty at Westminster Magistrates Court on 7 October. This is the first time the FCA has pursued criminal charges for money laundering failings.
+The charges covered NatWest’s failure to properly monitor the activity of a commercial customer, Fowler Oldfield, a jewellery business based in Bradford, between 8 November 2012 to 23 June 2016. When taking on the customer, NatWest initially understood it would not handle cash from the Fowler Oldfield business. However, over the course of the customer relationship approximately £365m was deposited with the bank, of which around £264m was in cash.
+Some of the bank’s employees, who were responsible for handling these cash deposits, reported their suspicions to bank staff responsible for investigating suspected money laundering, however no appropriate action was ever taken. The ‘red flags’ that were reported included significant amounts of Scottish bank notes deposited throughout England, deposits of notes carrying a prominent musty smell, and individuals acting suspiciously when depositing cash in NatWest branches. In addition, the bank’s automated transaction monitoring system incorrectly recognised some cash deposits as cheque deposits. As cheques carry a lower money laundering risk than cash, this was a significant gap in the bank’s monitoring of a large number of customers depositing cash, of which Fowler Oldfield was one.
+A separate investigation by West Yorkshire Police has led to 11 people pleading guilty to charges relating to the cash deposits and three cash couriers being charged. A further 13 individuals are awaiting trial at Leeds Crown Court on 25 April 2022 in relation to the activities of Fowler Oldfield.
+Mark Steward, Executive Director of Enforcement and Market Oversight at the FCA, said:
+
+'NatWest is responsible for a catalogue of failures in the way it monitored and scrutinised transactions that were self-evidently suspicious. Combined with serious systems failures, like the treatment of cash deposits as cheques, these failures created an open door for money laundering.
+'Anti-money laundering controls are a vital part of the fight against serious crime, like drug trafficking, and such failures are intolerable ones that let down the whole community, which, in this case, justified the FCA’s first criminal prosecution under the Money Laundering Regulations.'
+Notes to editors
+The fine reflected a discount for the plea of guilty. The figure before 1/3 reduction for plea is £397,156,944.14.
+
+Sentencing remarks: 
+NatWest failed to comply with Money Laundering Regulations (2007). The Money Laundering Regulations 2007 came into force on 15 December 2007 and form part of the UK’s legislative framework designed to prevent the use of the financial system for the purpose of money laundering and terrorist financing. They were superseded by the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017. 
+Full details of the case against NatWest are available in the following agreed Statement of Facts  
+National Westminster Bank Plc is a subsidiary of NatWest Group Plc (formerly the Royal Bank of Scotland Group plc). 
+Previous press releases: NatWest Plc pleads guilty in criminal proceedings and FCA starts criminal proceedings against NatWest Plc 
+
+ 
+
+Was this page useful?
+
+Yes 
+
+No 
+
+What can we do to improve pages like this?	
+
+What did you find helpful?
+
+Submit Feedback
+
+Leave this field blank
+
+Accessibility
+
+Complain about us
+
+Copyright notice
+
+Corporate responsibility
+
+Cymraeg
+
+Freedom of information
+
+Modern Slavery and Human Trafficking Statement
+
+Privacy
+
+Sitemap
+
+Translated languages
+
+Social
+
+LinkedIn
+
+RSS Feed
+
+Twitter
+
+Registers and Systems
+Registers and Systems
+
+My FCA
+
+Financial Services Register
+
+FCA Handbook
+
+Connect
+
+RegData
+
+Online Invoicing System
+
+Careers
+Careers
+
+Careers home
+
+Early careers
+
+Experienced professionals
+
+Contact
+Contact
+
+FCA Head Office
+12 Endeavour Square
+London E20 1JN
+Contact us
+
+Copyright © 2025 FCA. All rights reserved.
+
+Back to top
+
+Company no. 01920623

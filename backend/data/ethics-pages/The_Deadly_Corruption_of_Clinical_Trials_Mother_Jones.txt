@@ -1,0 +1,369 @@
+The Deadly Corruption of Clinical Trials – Mother Jones
+
+Skip to main content
+
+Share on Facebook
+Share on Twitter
+
+Share on BlueskyEmailComments 
+
+Donate
+
+Donate
+
+Subscribe
+
+Got tips? Get in touch confidentially. Newsletters
+Politics
+Environment
+Criminal Justice
+Guns
+Race
+Gender + Sexuality
+Food
+Podcast
+Video
+Magazine
+ 
+
+Got tips? Get in touch confidentially. 
+
+Subscribe to our magazine
+
+						Donate Monthly
+					
+
+						Donate
+					
+
+Smart, Fearless Journalism
+
+Politics
+Environment
+Criminal Justice
+Guns
+Race
+Gender
+Food
+Podcast
+Video
+Magazine
+Newsletters
+
+EnvironmentSeptember/October 2010 IssueThe Deadly Corruption of Clinical TrialsWhen you risk life and limb to help test a drug, are you helping science—or Big Pharma?   
+Carl ElliottBio
+
+ 
+
+Share on Facebook
+Share on Twitter
+
+Share on BlueskyEmailComments 
+
+ 
+
+Illustration: Sam Weber
+
+Update (4/3/2015):  After nearly 11 years of obfuscation and denial surrounding the tragic death of Dan Markingson, the University of Minnesota has suspended enrollment in psychiatric drug trials. This comes in response to a blistering report issued by the Minnesota State Legislative Auditor that cites “serious ethical issues” and vindicates much of the reporting in the story below. Read more from Carl Elliott about the fallout from the report here.
+IT’S NOT EASY TO WORK UP a good feeling about the institution that destroyed your life, which may be why Mary Weiss initially seemed a little reluctant to meet me. “You can understand my hesitation to look other than with suspicion at anyone associated with the University of Minnesota,” Mary wrote to me in an email. In 2003, Mary’s 26-year-old son, Dan, was enrolled against her wishes in a psychiatric drug study at the University of Minnesota, where I teach medical ethics. Less than six months later, Dan was dead. I’d learned about his death from a deeply unsettling newspaper series by St. Paul Pioneer Press reporters Jeremy Olson and Paul Tosto that suggested he was coerced into a pharmaceutical-industry study from which the university stood to profit, but which provided him with inadequate care. Over the next few months, I talked to several university colleagues and administrators, trying to learn what had happened. Many of them dismissed the story as slanted and incomplete. Yet the more I examined the medical and court records, the more I became convinced that the problem was worse than the Pioneer Press had reported. The danger lies not just in the particular circumstances that led to Dan’s death, but in a system of clinical research that has been thoroughly co-opted by market forces, so that many studies have become little more than covert instruments for promoting drugs. The study in which Dan died starkly illustrates the hazards of market-driven research and the inadequacy of our current oversight system to detect them.
+Mary Weiss is a slight, white-haired woman in her late sixties who smiles ruefully at any question, no matter how painful. She is the sort of Minnesota liberal who volunteers for political campaigns and signs her email with flowers. When we first met at a coffee shop in St. Paul, she was wearing an Obama pin on her sweater. Mary raised Dan alone, working a job at the postal service. Old photographs show Dan growing into his good looks; according to Mary, he was also a gifted student. In high school, Dan got a perfect score on the verbal portion of his SAT. He graduated from the University of Michigan in 2000 with an English degree, and that fall he moved to Los Angeles, hoping to become a screenwriter or an actor. To support himself, he got a job as a celebrity-tour bus driver.
+Dan and his mom, Mary WeissPhoto: Courtesy Mary Weiss
+When Mary went out to Los Angeles for a visit in the summer of 2003, it was clear Dan had changed. He’d adopted a new last name, Markingson. His behavior was bizarre. “He said, ‘You haven’t told me when the event is going to be,'” Mary said. She had no idea what he was talking about. The next day, he took her to his apartment. He’d encircled his bed with wooden posts, salt, candles, and money, which he said would protect him from evil spirits. He showed her a spot on the carpet that he said the aliens had burned.
+I asked Mary how she’d reacted to all of this. “I panicked. I called 911,” she replied. But when the police arrived, Dan was able to convince them she had overreacted. “He said, ‘Oh, my mother just drove from Minnesota and she’s very tired,'” she recalled. Worried that Dan was seriously ill, she tried to convince him to return to St. Paul. He visited her in August, returned briefly to California, and then came back to St. Paul in October.
+Dan grew convinced that the Illuminati were orchestrating an event in Minnesota—a “storm” in which he would be called upon to murder his mother.
+Dan grew convinced that the Illuminati were orchestrating an event in Duluth, Minnesota—a “storm” in which he would be called upon to murder people, including Mary. Some of his emails from late September 2003 suggest the extent of his delusions:
+“I’m aware that people can cast spells that can hurt you at a distance.
+	I’m aware that some people can read minds.
+	I’m aware that some people might actually be ‘hybrids’ and not altogether human.”
+In another email, Dan wrote:
+“I’m especially eager to attend this storm and SLAY those who deserve slaying.
+	I will choose victims immediately…
+	I HAVE NO EMOTIONAL ATTACHMENTS. I KILL FOR FUN!!”
+On November 12, Dan said he would kill Mary if called upon to do so. She called the police. Dan was taken to Regions Hospital in St. Paul. But the hospital had no psychiatric beds available, so after a few hours Dan was transferred to Fairview University Medical Center, a teaching hospital for the University of Minnesota Academic Health Center. He was treated by Dr. Stephen C. Olson, an associate professor in the university’s psychiatry department, who prescribed Dan Risperdal (risperidone), an antipsychotic drug often prescribed for patients with schizophrenia or bipolar disorder. (In Minnesota, doctors are allowed to give antipsychotic drugs to mentally incompetent patients without their consent for up to 14 days, but only to prevent serious, immediate physical harm to the patient or others.) Olson believed Dan was psychotic and dangerous, and lacked the ability to make decisions regarding his treatment; on November 14 he signed a document that recommended Dan be committed involuntarily to a state mental institution, noting that he “lacks the capacity to make decisions regarding such treatment.” Three days later, a clinical psychologist also recommended involuntary commitment, reiterating that Dan had threatened to slit his mother’s throat.
+In Minnesota, patients who have been involuntarily committed are given another option: a “stay of commitment.” Patients can avoid being confined to a mental institution as long as they agree to comply with the treatment program laid out by their psychiatrist. On November 20, Olson asked for a stay of commitment. The court granted the stay for six months, stipulating that Dan had to follow the recommendations of his treatment team. Olson, however, did not simply recommend standard medical treatment. Instead, he proposed that Dan take part in an industry-funded study of antipsychotic drugs. The university’s study coordinator, Jean Kenney, had Dan sign a consent form when Mary wasn’t present, and on November 21, he was enrolled in the study.
+On the surface, the study appeared benign. Its purpose was to compare the effectiveness of three “atypical” antipsychotic drugs, each of which had already been approved by the FDA: Seroquel (quetiapine), Zyprexa (olanzapine), and Risperdal (risperidone.) The study was designed and funded by AstraZeneca, the manufacturer of Seroquel, and it called for 400 subjects experiencing their first psychotic episode to take one of the three drugs for a year. AstraZeneca called it the “CAFE” study, which stood for “Comparison of Atypicals in First Episode.” The management of the CAFE study had been outsourced to Quintiles, a contract research organization, which was conducting it at 26 different sites, including the University of Minnesota. (For more on CROS, see “Trial by Hire.”)
+Yet the CAFE study was not without risks. It barred subjects from being taken off their assigned drug; it didn’t allow them to be switched to another drug if their assigned drug was not working; and it restricted the number of additional drugs subjects could be given to manage side effects and symptoms such as depression, anxiety, or agitation. Like many clinical trials, the study was also randomized and double-blinded: Subjects were assigned a drug randomly by a computer, and neither the subjects nor the researchers knew which drug it was. These restrictions meant that subjects in the CAFE study had fewer therapeutic options than they would have had outside the study.
+In fact, the CAFE study also contained a serious oversight that, if corrected, would have prevented patients like Dan from being enrolled. Like other patients with schizophrenia, patients experiencing their first psychotic episode are at higher risk of killing themselves or other people. For this reason, most studies of antipsychotic drugs specifically bar researchers from recruiting patients at risk of violence or suicide, for fear that they might kill themselves or someone else during the study. Conveniently, however, the CAFE study only prohibited patients at risk of suicide, not homicide. This meant that Dan—who had threatened to slit his mother’s throat, but had not threatened to harm himself—was a legitimate target for recruitment.
+Dan, age 10Photo: Courtesy Mary Weiss
+When Mary found out that Dan had been recruited into the CAFE study, she was stunned. “I do not want him in a clinical study,” she told Olson. Just a few days earlier, Olson indicated in a petition to the court that Dan was both dangerous and mentally incapable of consenting to antipsychotic medication. How could he now be capable of consenting to a research study with the very same antipsychotics—especially when the alternative was commitment to a state mental institution?
+After Dan was enrolled, he stayed at Fairview for about two more weeks. By that point, Olson thought Dan’s symptoms were under control, but Mary was still very worried by his erratic behavior. She recalls meeting with the doctor: “Olson came in and sat down and opened his file and said, ‘Oh, Dan is doing so well.’ And I said, ‘No, Dr. Olson, Dan is not doing well.’ I think he was taken aback.” Even so, on December 8, 2003, Dan was transferred to Theo House, a halfway house in St. Paul. He was required to sign an agreement confirming that he understood he could be involuntarily committed if he didn’t continue taking his medication and keeping his CAFE study appointments.
+At the halfway house, Dan often stayed in his room for days. On March 26, 2004 nearly four months after his discharge from Fairview, his thoughts were still “delusional and grandiose,” according to a social worker’s note. An occupational-therapy report from April 30 detailed Dan’s condition: “Personal appearance disheveled. Isolated and withdrawn. Poor insight and self-awareness.” Entries in a personal journal that Dan kept during this period don’t show any obvious changes, suggesting that he was improving little, if at all. Mary felt he was becoming angrier. “He was so tense, with this ready-to-explode quality.”
+When the blind on the study was broken, researchers found that Dan was being treated with Seroquel, the drug manufactured by the study sponsor, AstraZeneca.
+Olson saw things differently. “I disagree that he had significant deterioration,” he testified in a 2007 deposition. However, it’s unclear whether Olson actually saw Dan enough to make an informed judgment about his condition. Records suggest most of Dan’s care was managed by social workers. In his deposition, Olson said he saw Dan approximately six times from the date he was admitted in November until he committed suicide in May. Whatever the doctor thought, his actions don’t suggest that he felt Dan was improving. In late April 2004, as Dan’s stay of commitment was about to expire, Olson recommended extending it for another six months—the duration of the CAFE study. He noted that Dan still had “little insight into his mental disorder” and might “place himself at risk of harm if he were to terminate his treatment.”
+Mary tried to get Dan out of the study or have his treatment changed. She called Olson and tried to see him. She wrote long, detailed letters expressing concerns about everything from Dan’s diet and sleep habits to his medications. In total, she sent five letters to Olson and Dr. Charles Schulz—the chairman of the university’s psychiatry department and a co-investigator on the CAFE study—communicating her alarm about Dan’s condition, especially his inner rage. She received only one reply, dated April 28, from Schulz, who wrote that “it was not clear to me how you thought the treatment team should deal with this issue.” Around that time, Mary left a voice message with Jean Kenney, the study coordinator, asking, “Do we have to wait until he kills himself or someone else before anyone does anything?”
+Before dawn on the morning of May 8, a police officer and a Catholic priest knocked on Mary’s door. Mike Howard, a family friend who lives at her house, answered. Later, in a deposition, Howard described what happened next: “Mary jumped out of her bed and went into the kitchen and stood there, and the priest extended his hand out and said, ‘Mary, I’m here to tell you that Dan passed away.’ And Mary just literally fell down to her knees and started to shriek and cry, and just started begging, ‘Please, no, no, don’t let this happen.'”
+Dan had stabbed himself to death in the bathtub with a box cutter, ripping open his abdomen and nearly decapitating himself. His body was discovered in the early hours of the morning by a halfway-house worker, along with a note on the nightstand that said, “I left this experience smiling!” Later, when the blind on the study was broken, researchers found that Dan was being treated with Seroquel, the drug manufactured by the study sponsor, AstraZeneca.
+ 
+For most of the past half-century, physicians have considered antipsychotic drugs to be among the most unpleasant chemicals in the medicine closet. Thorazine (chlorpromazine), the first antipsychotic, was developed in 1950, and while it could relieve some of the worst symptoms of schizophrenia, that relief came at a serious cost. Not only do antipsychotics often make patients feel sedated and sluggish (they used to be called “major tranquilizers“), they can also cause irreversible “extrapyramidal” symptoms, such as the shuffling gait, rigid muscles, and involuntary lip-smacking sometimes seen in patients who have been taking the drugs for years. The antipsychotics can also cause akathisia, a type of driven, agitated restlessness that ranges from unpleasant to excruciating. Until recently, psychiatrists reserved the drugs for patients with very severe mental illnesses.
+By 2008, antipsychotics were the most lucrative class of drugs in America. Seroquel alone had nearly $4 billion in sales.
+Over the past decade or so, however, antipsychotics have undergone an extraordinary rehabilitation. By 2008, they were the most lucrative class of drugs in America. Seroquel alone had nearly $4 billion in sales, making it the country’s fifth most profitable drug. The transformation began in the mid-’90s, when pharmaceutical companies began pitching atypical antipsychotics such as Risperdal, Zyprexa, and Seroquel as more effective than older antipsychotics, but relatively free of their ugly side effects. The drugs were also very expensive—one study pegged the cost at 70 to 100 times that of an older drug—but if they didn’t produce extrapyramidal symptoms, their enormous expense seemed justifiable. By the mid-2000s, atypicals were being prescribed not just for schizophrenia but also for anxiety, agitation, insomnia, attention deficit hyperactivity disorder, and depression. The most remarkable upswing came for patients diagnosed with bipolar disorder, which used to be seen as a rare illness. Once bipolar disorder could be treated with atypicals, rates of diagnoses rose dramatically, especially in children. According to a recent Columbia University study, the number of children and adolescents treated for bipolar disorder rose 40-fold between 1994 and 2003. Another study found that nearly one in five children who visited a psychiatrist came away with a prescription for an antipsychotic drug, despite early reports of alarming side effects.
+Recent years have seen a backlash. The most damaging blow to the atypicals was an authoritative 2005 study funded by the National Institute of Mental Health—the so-called CATIE study—which found that the atypical antipsychotics worked no better than a much older antipsychotic called Trilafon (perphenazine), which was developed in the 1950s. The CATIE study also found that, contrary to the way the drugs had been marketed, side-effect profiles of the atypicals were generally no better than the older drug. Other research showed that atypicals were associated with significant weight gain, increased risk of diabetes, and greater possibility of death in patients with dementia. After another large analysis in The Lancet found that most atypicals actually performed worse than older drugs, two senior British psychiatrists penned a damning editorial that ran in the same issue. Dr. Peter Tyrer, the editor of the British Journal of Psychiatry, and Dr. Tim Kendall of the Royal College of Psychiatrists wrote: “The spurious invention of the atypicals can now be regarded as invention only, cleverly manipulated by the drug industry for marketing purposes and only now being exposed.”
+The cleverest manipulation has been with the clinical trials themselves. For years, critics have charged that pharmaceutical companies massage trials to make their own drugs look better than they really are. One common tactic is to suppress unfavorable data. A notorious example came in the 1990s, when a Wyeth safety officer overwrote the company’s computer files, erasing evidence indicating that its diet drug, fen-phen, caused valvular heart disease. A less risky strategy is simply not to publish potentially damaging trials. In 2004, the Canadian Medical Association Journal described a leaked document indicating that GlaxoSmithKline had deliberately hidden two studies from regulators showing that its antidepressant, Paxil (paroxetine), could increase the risk of suicide in children. The company has paid nearly a billion dollars in legal settlements over Paxil, including $390 million for suicides and attempted suicides related to the drug. Evidence of manipulation has also emerged in many of the high-profile pharmaceutical scandals of the past decade, from Merck’s pain drug Vioxx to the recent Senate investigation into GlaxoSmithKline’s diabetes drug Avandia.
+“Thus far, we have buried trials 15, 31, 56. The larger issue is how do we face the outside world when they begin to criticize us for suppressing data.”
+Something similar has happened with the atypicals. A 2006 study in The American Journal of Psychiatry, which looked at 32 head-to-head trials of atypicals, found that 90 percent of them came out positively for whichever company had designed and financed the trial. This startling result was not a matter of selective publication. The companies had simply designed the studies in a way that virtually ensured their own drugs would come out ahead—for instance, by dosing the competing drugs too low to be effective, or so high that they would produce damaging side effects. Much of this manipulation came from biased statistical analyses and rigged trial designs of such complexity that outside reviewers were unable to spot them. As Dr. Richard Smith, the former editor of the British Medical Journal, has pointed out, “The companies seem to get the results they want not by fiddling the results, which would be far too crude and possibly detectable by peer review, but rather by asking the ‘right’ questions.”
+Initially, the controversy over atypical antipsychotics was focused largely on Eli Lilly (PDF), the manufacturer of Zyprexa. In early 2009, it settled litigation for a record-breaking $1.4 billion for illegal marketing and allegedly hiding the risks of the drug. More recently, however, the scandal has spread to Seroquel. In April 2010, AstraZeneca agreed to pay $520 million to settle two federal investigations and two whistleblower lawsuits alleging that it had marketed Seroquel illegally and concealed its health risks. The company faces more than 25,000 civil suits.
+Documents unsealed in related civil suits suggest an alarming pattern of deception. Sales reps were instructed to tell doctors that Seroquel doesn’t cause diabetes, even though the company knew about the link to diabetes as early as 1997. Internal correspondence reveals company officials discussing how to hide or spin potentially damaging studies. “Thus far, we have buried trials 15, 31, 56,” wrote a publications manager in 1999. “The larger issue is how do we face the outside world when they begin to criticize us for suppressing data.”
+One of those potentially damaging studies led back to the University of Minnesota. In the late 1990s, a clinical trial known as Study 15 unexpectedly failed to show that Seroquel was any better than Haldol, a generic antipsychotic that’s been on the market since the 1960s. In fact, on the main measures, Seroquel performed worse than Haldol. The study also showed that Seroquel increased the risk of weight gain and diabetes. Internal correspondence repeatedly refers to Study 15 as a “failed study,” and company officials discuss possible ways to spin or bury it. “I am not 100% comfortable with this data being made publicly available at the present time,” wrote Richard Lawrence, a senior AstraZeneca official, in 1997. “However I understand that we have little choice…Lisa [Arvanitis, a company physician] has done a great ‘smoke-and-mirrors’ job.” Lawrence referred approvingly to a strategy that he said would “put a positive spin (in terms of safety) on this cursed study.” Later, apparently hoping to find a way to present Seroquel in a better light, the “commercial support team” performed an analysis of a number of other studies, but even that did not show Seroquel to be better than Haldol. Yet when a summary of the AstraZeneca data was presented at the American Psychiatric Association annual conference in 2000, the author claimed Seroquel was “significantly superior” to Haldol. That author was Dr. Charles Schulz, the University of Minnesota psychiatry department chair—and a well-compensated consultant for AstraZeneca. In a press release claiming Seroquel’s superiority over Haldol, Schulz praised it enthusiastically as a “first-choice antipsychotic.”
+Although the documents unsealed in the Seroquel litigation do not specifically mention the CAFE study in which Dan was enrolled, they do suggest that AstraZeneca planned to establish Seroquel as the “atypical of choice in first-episode schizophrenia,” according to a 2000 “Seroquel Strategy Summary.” A later document titled “Seroquel PR Plan 2001” discusses the agenda for an advisory panel meeting in Hawaii. Among the potential topics were the marketing of Seroquel to first-episode patients, adolescents, and the elderly. The document refers to these populations as “vulnerable patient groups.”
+“R&D is no longer responsible for Seroquel research—it is now the responsibility of Sales and Marketing.” 
+Even more alarming are internal documents suggesting that AstraZeneca was designing clinical trials as a covert method of marketing Seroquel. In 1997, when Dr. Andrew Goudie, a psychopharmacologist at the University of Liverpool, asked AstraZeneca to fund a research study he was planning, a company official replied that “R&D is no longer responsible for Seroquel research—it is now the responsibility of Sales and Marketing.” The official also noted that funding decisions would depend on whether the study was likely to show a “competitive advantage for Seroquel.”
+Another set of documents from 2003 describes a glucose metabolism study apparently designed to fend off the charge that Seroquel causes patients to gain weight and become diabetic. One slide describes two purposes for the study: a “regulatory” purpose and a “commercial” purpose. The regulatory purpose was to “produce data that will help us defend the Seroquel label.” The commercial purpose was to “produce data that will enable us to generate commercially attractive and competitive messages in relation to diabetes and weight.” The document suggests several possible names for the study, including “Flexible Dose Approach Trial for Atypical Responses to Metabolism,” which could be usefully shortened to the acronym FATFARM. (When I contacted AstraZeneca, a spokesperson would say only that Seroquel has been found “safe and effective” by the FDA and that it stands behind the CAFE study and the rest of its clinical research.)
+Many clinical studies place human subjects at risk—at a minimum, the risk of mild discomfort, and at worst, the risk of serious pain and death. Bioethicists and regulators spend a lot of time and energy debating the degree of risk that ought to be permitted in a study, how those risks should be presented to subjects, and the way those risks should be balanced against the potential benefits a subject might receive. What is simply assumed, without much consideration at all, is that the research is being conducted to produce scientific knowledge. This assumption is codified in a number of foundational ethics documents, such as the Nuremberg Code, which was instituted following Nazi experiments on concentration camp victims. The Nuremberg Code stipulates that an “experiment should be such as to yield fruitful results for the good of society,” and “the degree of risk to be taken should never exceed that determined by the humanitarian importance of the problem to be solved by the experiment.”
+But what if a research study is not really aimed at producing genuine scientific knowledge at all? The documents emerging in litigation suggest that pharmaceutical companies are designing, analyzing, and publishing trials primarily as a way of positioning their drugs in the marketplace. This raises a question unconsidered in any current code of research ethics. How much risk to human subjects is justified in a study whose principal aim is to “generate commercially attractive messages”?
+ 
+In January 2005, the FDA began investigating the circumstances of Dan’s suicide. In a report issued that July, before the larger pattern of Seroquel research had begun to emerge, Sharon L. Matson, the FDA investigator, exonerated the university. She wrote, “I did not find any evidence of misconduct, significant violation of the protocol, or regulations governing clinical investigators or IRBs”— the university institutional review board charged with reviewing studies to ensure that they measure up to recognized ethical standards. Matson specifically dismissed the suggestion that Dan was mentally incompetent to consent to the study, writing that “there was nothing different about this subject than others enrolled to indicate that he couldn’t provide voluntary, informed consent.” (The FDA refused my request to speak with Matson and would not answer questions about the case, citing privacy concerns.) Mary Weiss eventually sued the University of Minnesota, AstraZeneca, Olson, and Schulz, but her case did not even get to trial. District Court Judge John L. Holahan dismissed the suit in 2008 with a partial summary judgment. He ruled that in approving the CAFE study, the university IRB was performing the type of “discretionary function” that is protected from liability under the state’s Tort Claims Act. The malpractice suit against Schulz was also dismissed, and the suit against Olson was eventually settled—for $75,000, which Mary says wasn’t enough to cover the fees of the expert witnesses her attorneys hired. (Both Schulz and Olson declined to speak about the specifics of the clinical trial or the resulting suit. University spokesman Nick Hanson would say only, “To date, there has been no finding of wrongdoing from any of the investigations or reviews done by the university on this issue.”)
+The judge also dismissed the case against AstraZeneca. He blasted Mary’s lawyers, saying that they had failed to establish that AstraZeneca had a duty to put the interests of research subjects over the interests of the company and the researchers. But he also lamented the lack of case law about clinical trials, saying on this particular point, “Try as it may, this Court’s independent research has unearthed not a single case or statute to evidence or support such an alleged duty.”
+The judge further ruled that Mary’s lawyers hadn’t shown a causal link between Seroquel and Dan’s suicide: An initial drug screening during autopsy had not found any Seroquel in his bloodstream, which suggested that Dan may not have been taking his medication. After the judgment, however, Mary discovered that Seroquel would not be detected in an ordinary drug screening; a special test is required. In the spring of 2008, she called the coroner’s office in hopes of getting a special screening for Seroquel. To her surprise, she found that her lawyers and the defendants had already obtained one. The report was dated several days after the summary judgment was issued. It showed 73 nanograms per milliliter of Seroquel in his blood, suggesting that Dan was almost certainly taking the drug, although he may have missed the last scheduled dose before he died.
+Although Mary’s lawsuit was unsuccessful, it revealed some disturbing financial arrangements at the university. As a patient on public assistance, Dan’s treatment would have normally generated little income for the university. Under its arrangement with AstraZeneca, however, the psychiatry department earned $15,648 for each subject who completed the CAFE study. In total, the study generated $327,000 for the department. In fact, during the months before Dan was enrolled, the department was apparently feeling pressure from Quintiles, the CRO that managed the study, to step up recruitment. According to emails written by Jean Kenney, the university’s study coordinator, the site had been placed on probation for its recruitment problems, and they were still “struggling to get patients.” In November 2002, Olson had managed to recruit only one subject in six months. That began to change in April 2003, when the psychiatry department established a specialized inpatient unit at Fairview hospital called Station 12, in which every patient could be evaluated for research. By December, Olson had recruited 12 more subjects, including Dan, and Olson had been featured in a CAFE study webcast for “turning an underperforming site into a well-performing site.”(Quintiles refused to give comment on the case.)
+Olson had another financial reason to maintain good relations with AstraZeneca. According to a disclosure statement for a 2006 conference, he was a member of the AstraZeneca “speaker’s bureau,” giving paid talks for the company. He had similar arrangements with Eli Lilly and Janssen, the makers of the other atypicals being tested in the CAFE study, as well as Bristol-Myers Squibb and Pfizer. In addition, Olson was working as a paid consultant for Lilly, Janssen, Bristol-Myers Squibb, and Pfizer. Although Olson is not required to disclose how much industry money he received, a public database maintained by the Minnesota pharmacy board indicates that Olson received a total of $240,045 from the pharmaceutical industry between 2002 and 2008, with $149,344 coming from AstraZeneca. Dr. Charles Schulz, his co-investigator and department chair, received an even greater sum: more than $571,000 from the industry, with $112,020 coming from AstraZeneca. The database does not reliably distinguish between payment by drug companies for consulting and speaking, which usually goes directly into a physician’s pocket, and research grants, which go to the university and are used to help underwrite the salaries of the grant recipients. (Many academic physicians are required by their universities to generate a substantial portion of their salaries by obtaining research grants.)
+In the US, the primary bodies charged with protecting research subjects are known as institutional review boards. (Read how IRBs are becoming privatized, next page.) According to the University of Minnesota, the purpose of its IRB is to “protect the rights and welfare of human research subjects.” However, when the university’s IRB officials were deposed under oath, they refused to admit that protecting subjects was their responsibility. “So it’s not the institutional review board’s purpose to protect clinical trial subjects, is that what you’re saying?” asked Gale Pearson, one of the attorneys representing Mary Weiss. “That’s true,” replied Moira Keane, the director of the IRB. Astonished, Pearson kept returning to the question, to make sure that she understood it correctly. Keane refused to budge. Instead, she claimed that the role of the IRB was to make sure that Olson and the trial sponsor had a plan to protect subjects. (If this were true, it would render IRBs worthless: The sponsor and investigator are the ones that the IRB is supposed to protect subjects from.)
+The University of Minnesota doesn’t exactly have a stellar record of investigating internal misconduct. In 1994, the director of child and adolescent psychiatry, Dr. Barry Garfinkel, was sentenced to federal prison for five felonies related to research fraud involving the Ciba-Geigy drug Anafranil (clomipramine). The research assistant who blew the whistle in 1989 lost her job, and under the terms of a secret agreement struck with Garfinkel, the university kept the fraud secret for four years, until he was finally indicted. In 1995, the university was sanctioned by the National Institutes of Health after revelations that the head of transplant surgery, Dr. John Najarian, had generated millions of dollars for the university by illegally manufacturing and selling an immunosuppressant drug without FDA approval; an investigation by the Minneapolis Star Tribune revealed that the university had known of the illegal activity for years. Still more scandals have recently emerged, including a Senate investigation of the chairman of spinal surgery, Dr. David Polly, for failing to disclose $1.2 million he had been paid to consult for the device manufacturer Medtronic, and a series of investigative reports in the New York Times about the industry ties of Minnesota physicians, including some connected to the university. When the scandals began to escalate several years ago, Dr. Deborah Powell, then the dean of the university’s medical school, appointed a task force to devise a new conflict-of-interest policy. The policy was discarded after the Star Tribune revealed that the co-chair of the task force, Dr. Leo Furcht, had funneled $500,000 of university grant money into his own private company, which he later sold for $9.5 million. Furcht remains chairman of the laboratory medicine and pathology department at the university.
+ 
+In 2007, the American Journal of Psychiatry published the results of the CAFE study. Among the 18 “serious adverse events” recorded for the 400 subjects in the study were an alleged homicide and five suicide attempts, including two successful suicides, both by patients taking Seroquel. (One of these patients, of course, was Dan Markingson.) According to the study authors—three AstraZeneca employees and seven academic physicians, many of whom also consulted for the company—the suicides occurred “despite the close attention provided in clinical research aftercare programs.” The authors claimed that the CAFE study showed Seroquel to be of “comparable effectiveness” to Zyprexa and Risperdal for first-episode patients.
+According to some experts, the study could hardly have shown otherwise, because it was designed to produce a good result for Seroquel. When I showed the published study to Dr. Peter Tyrer, the editor of the British Journal of Psychiatry, he said, “I would have major problems accepting a manuscript of that nature.” According to Tyrer, the main problem is the small sample size. Of the 400 subjects enrolled, all but 119 stopped taking the drug before the yearlong study was finished. With so few subjects, the CAFE study was statistically underpowered and thus unlikely to detect any difference in effectiveness between the three drugs. The failure to detect a difference allowed AstraZeneca to claim that Seroquel was as good as the other drugs (or in the language of the study, “non-inferiority”). Tyrer told me, “In scientific terms this study is of very little value.”
+That’s not the only problem. The CAFE study was supposedly designed to test the effectiveness of the three antipsychotics, but the way it did this was by measuring the rate of “all-cause treatment discontinuation,” or the percentage of subjects who stopped taking their drug. That is, the CAFE study counted an antipsychotic as “effective” if a subject kept taking it until the end of the study. On the face of it, this type of measurement seems highly misleading; simply because a patient continues to take an antipsychotic does not mean that it is working. Many psychiatrists defend treatment discontinuation as a “pragmatic” way of measuring a drug’s overall acceptability, but even by “pragmatic” standards the CAFE study presents a problem. More than 70 percent of subjects in the CAFE study stopped taking their assigned drug, and the most common reason was simply coded as “patient decision.” According to Dr. John Davis, the Gillman Professor of psychiatry at the University of Illinois-Chicago, the authors of the CAFE study obscured their results by failing to say why patients decided to stop taking the drug—whether patients felt the side effects of the drug were too severe, for example, or if they felt the drug was not working. “It is the hiding of the critical outcomes that gives me pause,” he says. “It does not make scientific sense to do a study and not measure one of the most important outcomes.”
+Yet another problem with the CAFE study is its failure to compare Seroquel to any older antipsychotics. “It’s quite a marketing exercise to put all patients in the CAFE study on atypical antipsychotics,” says Dr. Glen Spielmans, an associate professor of psychology at Minnesota’s Metropolitan State University. “It removes the older drugs from the discussion.” One reason AstraZeneca may have done this, he suggests, is that Study 15 had already shown Seroquel to be inferior to the older antipsychotic, Haldol.
+The bluntest assessment of the study came from Dr. David Healy, a senior psychiatrist at Cardiff University in Wales. Healy is a former consultant to AstraZeneca, among other pharmaceutical companies, and a prominent critic of the industry. “This is a non-study of the worst kind,” he said. “It is designed not to pick up a difference between the three drugs. It looks like an entirely marketing-driven exercise.”
+If these experts are right, then the study in which Dan Markingson committed suicide was not simply a matter of inadequate informed consent, or financial conflicts of interest, or even failure to monitor a subject’s care. The ethical breach was built into the study from the start. It is one thing to ask people to take risks for science, or the common good, or to help other people. It is another thing entirely to ask them to risk their lives for the marketing goals of AstraZeneca.
+ 
+Mary Weiss is a quiet woman, but her experience has left her angry and bitter. It’s not hard to see why. In the years since she lost her son, she has written letters and filed complaints to one oversight body after the other, and so far she’s gotten little but form letters, rejections, and dismissals. “Well, I don’t think the loss can ever be replaced,” her friend Mike Howard said in his deposition. “There is probably not a day in Mary’s life that she hasn’t thought about her son, and there is probably not a week goes by that she doesn’t shed tears.” Mary told me that until she and I had coffee last year in St. Paul, no one at the university had ever apologized or expressed regret for her son’s death. In fact, after Dan died, Mary received a plant with a card from the CAFE study team. In words that echoed the bizarre, grisly message in Dan’s suicide note, the card read, “We will miss his smile.”
+Of all the ways in which Mary Weiss has been damaged by the University of Minnesota, there is one episode that still brings a sting of shame to my face. When the lawsuit over Dan’s death was dismissed, the university filed a legal action against Mary, demanding that she pay the university $57,000 to cover its legal expenses. Gale Pearson, one of Mary’s attorneys, says that while such suits are technically permissible, she had never seen one filed in her previous 14 years of legal practice. The university agreed to drop the lawsuit against Mary only when she agreed not to appeal the judge’s decision. “Maybe they want to chill anyone who might think of challenging the university, even if her child had died,” Pearson said. “It gave me a sick feeling.”
+
+					Looking for news you can trust?
+				
+Subscribe to the Mother Jones Daily to have our top stories delivered directly to your inbox.
+
+Close
+
+Thank you for subscribing!
+
+G59DC 
+
+ 
+
+By signing up, you agree to our privacy policy and terms of use, and to receive messages from Mother Jones and our partners.
+
+BEFORE YOU CLICK AWAY!December is make or break for us. A full one-third of our annual fundraising comes in this month alone. A strong December means our newsroom is on the beat and reporting at full strength. A weak one means budget cuts and hard choices ahead.
+The December 31 deadline is closing in fast. To reach our $400,000 goal, we need readers who’ve never given before to join the ranks of MoJo donors. And we need our steadfast supporters to give again today—any amount.
+Managing an independent, nonprofit newsroom is staggeringly hard. There’s no cushion in our budget—no backup revenue, no corporate safety net. We can’t afford to fall short, and we can’t rely on corporations or deep-pocketed interests to fund the fierce, investigative journalism Mother Jones exists to do.
+That’s why we need you right now. Please chip in to help close the gap. 
+
+One-Time
+Monthly
+
+$
+$
+$
+
+Other Amount
+
+Continue
+
+BEFORE YOU CLICK AWAY!December is make or break for us. A full one-third of our annual fundraising comes in this month alone. A strong December means our newsroom is on the beat and reporting at full strength. A weak one means budget cuts and hard choices ahead.
+The December 31 deadline is closing in fast. To reach our $400,000 goal, we need readers who’ve never given before to join the ranks of MoJo donors. And we need our steadfast supporters to give again today—any amount.
+Managing an independent, nonprofit newsroom is staggeringly hard. There’s no cushion in our budget—no backup revenue, no corporate safety net. We can’t afford to fall short, and we can’t rely on corporations or deep-pocketed interests to fund the fierce, investigative journalism Mother Jones exists to do.
+That’s why we need you right now. Please chip in to help close the gap.
+
+One-Time
+Monthly
+
+$35
+$50
+$100
+
+Other Amount
+
+Continue
+
+More about:Health CarePharma 
+
+Related
+
+What Happens When Profit Margins Drive Clinical Research?Carl Elliott
+
+Poor ReviewsCarl Elliott
+
+Supreme Court on Pfizer’s Pharmaceutical ColonialismJames Ridgeway
+
+Big Pharma a Big Winner in Health Care ReformJames Ridgeway
+
+We Recommend
+
+Your Private Data Is Building Trump’s Voter Purge MachineAbby Vesoulis and Ari Berman
+
+RFK Jr.’s Handpicked Panel Votes to End Hepatitis B Guidance for NewbornsKatie Herchenroeder
+
+In the Shadow of an Immigrant Detention Center, a Small House Offers RefugeShannon Heffernan and Julieta Martinelli
+
+Sponsored PostPatagonia’s Playbook for Environmental ActivismPatagonia
+
+Latest
+
+Border Czar’s Former Clients Cash in on Trump’s Immigration CrackdownDan Friedman, Russ Choma, and Nick Schwellenbach
+
+Donald Trump’s Restitution Scheme Is Among the Greatest Heists in US HistoryRadley Balko
+
+Even Louisiana’s Department of Wildlife and Fisheries Is Helping Catch ImmigrantsCaroline Haskins
+
+Alabama Wants to Lower the Bar for Executing Disabled People—If SCOTUS Lets ItJulia Métraux 
+
+ 
+
+ 
+
+				
+					
+				
+				Sign up for our free newsletter
+			
+Subscribe to the Mother Jones Daily to have our top stories delivered directly to your inbox.
+
+Close
+
+Thank you for subscribing!
+
+G59DC 
+
+ 
+
+By signing up, you agree to our privacy policy and terms of use, and to receive messages from Mother Jones and our partners.
+
+				
+					
+				
+				Get our award-winning magazine
+			
+Save big on a full year of investigations, ideas, and insights.
+Subscribe
+
+				
+					
+						
+					
+				
+				Support our journalism
+			
+Help Mother Jones' reporters dig deep with a tax-deductible donation.
+Donate
+
+ 
+
+RHC membership for blog posts 
+
+view comments
+	  
+
+Mag Promo
+
+Independent. In print. In your mailbox.
+Inexpensive, too! Subscribe today and get a full year of Mother Jones for just $19.95.
+Subscribe
+
+December 2025
+
+October 2025
+
+August 2025
+
+Bold. Brave. Beautiful.
+Award-winning photojournalism.  Stunning video. Fearless conversations.
+Follow us on Instagram >
+
+Looking for news you can trust?
+Subscribe to the Mother Jones Daily to have our top stories delivered directly to your inbox.
+
+Close
+
+Thank you for subscribing!
+
+G59DC 
+
+ 
+
+By signing up, you agree to our privacy policy and terms of use, and to receive messages from Mother Jones and our partners.
+
+About
+Our Staff
+DEI&B
+Financials
+Careers
+Freelance Guidelines
+Contact Us
+Support
+Ways to Give
+Advertise With Us
+Licensing / Reprints
+Store
+Subscribe
+Magazine Subscriptions
+Give a Gift Subscription
+Email Newsletters
+Customer Service
+ 
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and
+				Terms of Service apply.
+                Privacy Manager
+
+			Copyright © 2025 Mother Jones and the Center for Investigative Reporting. All Rights Reserved.Terms of Service
+Privacy Policy
+
+ 
+
+ 
+
+We Noticed You Have An Ad Blocker On. 
+
+																										Can you pitch in a few bucks to help fund Mother Jones' investigative journalism? We're a nonprofit (so it's tax-deductible), and reader support makes up about two-thirds of our budget.																				
+
+We noticed you have an ad blocker on. Can you pitch in a few bucks to help fund Mother Jones' investigative journalism?																				
+
+Donate
+
+Not Now
+
+ 
+
+Help us finish strong.
+We’re not shy about asking you to help pay for the journalism you rely on—especially now. We have until December 31 to raise $400,000 to keep our nonprofit newsroom running at full strength into 2026. We’re off to a good start, but to make our goal we need contributions from readers who have never given before—and from steadfast donors who can give again. Every gift matters. Will you help us close the gap? 
+
+One-Time
+Monthly
+
+$
+$
+$
+
+Other Amount
+
+Continue
+
+ 
+
+Help us finish strong.
+We’re not shy about asking you to help pay for the journalism you rely on—especially now. We have until December 31 to raise $400,000 to keep our nonprofit newsroom running at full strength into 2026. We’re off to a good start, but to make our goal we need contributions from readers who have never given before—and from steadfast donors who can give again. Every gift matters. Will you help us close the gap? 
+
+One-Time
+Monthly
+
+$35
+$50
+$100
+
+Other Amount
+
+Continue
+
+close
+
+            Don't let an algorithm decide what news you see.
+		
+
+		    Sign up for the free Mother Jones Daily newsletter and follow the news that matters.
+		
+
+Close
+
+Thank you for subscribing!
+
+G59DC

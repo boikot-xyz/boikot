@@ -1,0 +1,294 @@
+Frontiers | Energy Drink Consumption in Europe: A Review of the Risks, Adverse Health Effects, and Policy Options to Respond
+
+Frontiers in Public Health About usAbout usWho we areMission and valuesHistoryLeadershipAwardsImpact and progressFrontiers' impactOur annual reportsPublishing modelHow we publishOpen accessPeer reviewResearch integrityResearch TopicsFAIR² Data ManagementFee policyServicesSocietiesNational consortiaInstitutional partnershipsCollaboratorsMore from FrontiersFrontiers ForumFrontiers Planet PrizePress officeSustainabilityCareer opportunitiesContact usAll journalsAll articlesSubmit your researchSearchFrontiers in Public Health SectionsSectionsAging and Public HealthChildren and HealthDigital Public HealthDisaster and Emergency MedicineEnvironmental Health and ExposomeHealth EconomicsInfectious Diseases: Epidemiology and PreventionInjury Prevention and ControlLife-Course Epidemiology and Social Inequalities in HealthOccupational Health and SafetyPlanetary HealthPublic Health Education and PromotionPublic Health PolicyPublic Health and NutritionPublic Mental HealthRadiation and HealthSubstance Use Disorders and Behavioral AddictionsArticlesResearch TopicsEditorial board About journalAbout journalScopeField chief editorsMission & scopeFactsJournal sectionsOpen access statementCopyright statementQualityFor authorsWhy submit?Article typesAuthor guidelinesEditor guidelinesPublishing feesSubmission checklistContact editorial office About usAbout usWho we areMission and valuesHistoryLeadershipAwardsImpact and progressFrontiers' impactOur annual reportsPublishing modelHow we publishOpen accessPeer reviewResearch integrityResearch TopicsFAIR² Data ManagementFee policyServicesSocietiesNational consortiaInstitutional partnershipsCollaboratorsMore from FrontiersFrontiers ForumFrontiers Planet PrizePress officeSustainabilityCareer opportunitiesContact usAll journalsAll articlesSubmit your researchFrontiers in Public Health SectionsSectionsAging and Public HealthChildren and HealthDigital Public HealthDisaster and Emergency MedicineEnvironmental Health and ExposomeHealth EconomicsInfectious Diseases: Epidemiology and PreventionInjury Prevention and ControlLife-Course Epidemiology and Social Inequalities in HealthOccupational Health and SafetyPlanetary HealthPublic Health Education and PromotionPublic Health PolicyPublic Health and NutritionPublic Mental HealthRadiation and HealthSubstance Use Disorders and Behavioral AddictionsArticlesResearch TopicsEditorial board About journalAbout journalScopeField chief editorsMission & scopeFactsJournal sectionsOpen access statementCopyright statementQualityFor authorsWhy submit?Article typesAuthor guidelinesEditor guidelinesPublishing feesSubmission checklistContact editorial officeFrontiers in Public Health SectionsSectionsAging and Public HealthChildren and HealthDigital Public HealthDisaster and Emergency MedicineEnvironmental Health and ExposomeHealth EconomicsInfectious Diseases: Epidemiology and PreventionInjury Prevention and ControlLife-Course Epidemiology and Social Inequalities in HealthOccupational Health and SafetyPlanetary HealthPublic Health Education and PromotionPublic Health PolicyPublic Health and NutritionPublic Mental HealthRadiation and HealthSubstance Use Disorders and Behavioral AddictionsArticlesResearch TopicsEditorial board About journalAbout journalScopeField chief editorsMission & scopeFactsJournal sectionsOpen access statementCopyright statementQualityFor authorsWhy submit?Article typesAuthor guidelinesEditor guidelinesPublishing feesSubmission checklistContact editorial officeSubmit your researchSearchYour new experience awaits. Try the new design now and help us make it even betterSwitch to the new experienceREVIEW articleFront. Public Health, 14 October 2014 Sec. Public Health Education and PromotionVolume 2 - 2014 | https://doi.org/10.3389/fpubh.2014.00134Energy drink consumption in Europe: a review of the risks, adverse health effects, and policy options to respond
+
+João Joaquim Breda1*Stephen Hugh Whiting1Ricardo Encarnação1Stina Norberg1Rebecca Jones1Marge Reinap2Jo Jewell1
+
+1Nutrition, Physical Activity and Obesity Programme, Division of Noncommunicable Diseases and Life-Course, World Health Organization Regional Office for Europe, Copenhagen, Denmark
+2WHO Country Office for Estonia, Tallinn, Estonia
+
+With the worldwide consumption of energy drinks increasing in recent years, concerns have been raised both in the scientific community and among the general public about the health effects of these products. Recent studies provide data on consumption patterns in Europe; however, more research is needed to determine the potential for adverse health effects related to the increasing consumption of energy drinks, particularly among young people. A review of the literature was conducted to identify published articles that examined the health risks, consequences, and policies related to energy drink consumption. The health risks associated with energy drink consumption are primarily related to their caffeine content, but more research is needed that evaluates the long-term effects of consuming common energy drink ingredients. The evidence indicating adverse health effects due to the consumption of energy drinks with alcohol is growing. The risks of heavy consumption of energy drinks among young people have largely gone unaddressed and are poised to become a significant public health problem in the future.
+
+Introduction
+In 2006, almost 500 new brands of energy drinks were released worldwide (1). The energy drink industry is booming, with sales of energy drinks estimated to be over 12.5 billion USD in 2012, an increase of 60% from 2008 to 2012 (2). Energy drinks are relatively new to the wider soft drinks market, with the first energy drink launched in Japan in 1960. Energy drinks first appeared in Europe in 1987 before quickly expanding throughout the rest of Europe and appearing in the US in 1997 (2). While no standard definition of an “energy drink” is used in the scientific literature, it is commonly understood to be a non-alcoholic drink that contains caffeine (usually its main ingredient), taurine, vitamins, and sometimes a combination of other ingredients (such as guarana and ginseng, among others), marketed for its perceived or actual benefits as a stimulant, for improving performance and for increasing energy (2).
+Although energy drinks are a relatively new class of beverage, they are quickly becoming as a central part of the partying subculture, particularly among young people who commonly mix energy drinks with alcohol (3–7). The full impact of the rise in popularity of energy drinks has not yet been quantified, but the aggressive marketing of energy drinks targeted at young people combined with limited and varied regulation have created an environment where energy drinks could pose a significant threat to public health (1, 4).
+In 2011, the European Food Safety Authority (EFSA) commissioned a study to gather consumption data for energy drinks in 16 countries of the European Union. They found that 68% of adolescents (aged 10–18 years old), 30% of adults, and 18% of children (<10 years old) consumed energy drinks. Among adolescents, consumption varied from 48% in Greece to 82% in the Czech Republic. Among children, consumption varied from 6% in Hungary to 40% in the Czech Republic. The average consumption was 2 l in adolescents and 0.49 l in children (2).
+With increasing consumption and an increase in the number of reported cases of adverse health effects associated with energy drink consumption, concerns have been raised both in the scientific community and among the general public about the health impact of these products. Despite this, there have been limited rigorous studies carried out in Europe on the risks associated with the increase in energy drink consumption, particularly among young people. The adverse health effects related to energy drink consumption and over-consumption are still highly debated from a scientific point of view (2), and this paper sets out to review the available literature on the associated health risks and policies related to energy drinks.
+Method
+We searched the Cochrane Library, Plos One, and PubMed for relevant publications. We searched databases by using the terms energy drinks and adverse effects in the Medical Subject Heading (MeSH) database. The MeSH terms are part of a distinct vocabulary created by the National Library of Medicine to index articles for MEDLINE and PubMed that provides a consistent way to retrieve information using different terminology. We reviewed publications retrieved from this search and selected those that we judged to be relevant. We reviewed articles through June 2014 and did not exclude articles based upon date of publication due to lack of literature in this area. We also searched PubMed using a combination of the following terms: risk, consumption, adverse health effects, policies, mixed drinks, alcohol, and Europe. We included English language articles only. An attempt was made to limit the scope of our review to policy literature solely focused on the European region. However, due to a lack of literature, other regions were included in the review. We also excluded all publications focused on animal models.
+Risks Associated with Energy Drink Consumption
+The health risks associated with energy drink consumption are primarily related to their caffeine content. A caffeine overdose can cause palpitations, hypertension, dieresis, central nervous system stimulation, nausea, vomiting, marked hypocalcemia, metabolic acidosis, convulsions (8), and, in rare cases, even death (9, 10). In adults, there is also an increased risk of arterial hypertension (11) and Type 2 diabetes (12), as high consumption of caffeine reduces insulin sensitivity (13). High-caffeine consumption among pregnant women increases the risk of late miscarriages, small for gestational age infants, and stillbirths (14).
+Although some types of coffee can have caffeine levels comparable to energy drinks, coffee is typically consumed hot and consequently more slowly (4). Further, the proliferation of new brands of energy drinks has included some brands, which contain extreme caffeine levels much higher than mainstream brands as they try to establish themselves in the market (1). In Europe, the EFSA study showed that the estimated contribution of energy drinks to total caffeine exposure was 43% in children, 13% in adolescents, and 8% in adults (2). There are proven negative consequences of caffeine consumption among children and adolescents, including effects on the neurological and cardiovascular systems, which can cause physical dependence and addiction (15).
+Consumption of energy drinks among adolescents is associated with other potentially negative health and behavioral outcomes such as sensation seeking, use of tobacco and other harmful substances, and binge drinking and is associated with a greater risk for depression and injuries that require medical treatment (16, 17). Recent literature has also found an increasing number of problems with behavior modification and cognitive capabilities in adolescents who use energy drinks (18).
+Energy drink consumption may be a risk factor for alcohol dependence even if not mixed with alcohol (19).This phenomenon is hypothesized to be due to the neuropharmacologic effects of caffeine increasing the tendency for addiction (4). There is also an increased risk of obesity, due to the high-sugar content of energy drinks (20). A study in the US showed that dental cavities can result from the acidic pH and high-sugar content of products such as energy drinks (21), and another study showed that consumption of energy drinks can cause erosion and smear layer removal in the teeth, leading to cervical dentin hypersensitivity (22).
+While caffeine is considered the main ingredient in energy drinks, there are often a number of other substances present. The most common of these include guarana, taurine, glucuronolactone, and B vitamins (23). As the acute and long-term effects of the combined consumption of many of these substances with caffeine are not well known, further studies are required to examine the potential for adverse health effects from energy drink consumption, particularly from long term, habitual consumption (24).
+Risks Associated with Consumption of Energy Drinks and Alcohol
+The practice of mixing energy drinks with alcohol is on the rise (3, 25), with 71% of young adults (18–29 years old) who consume energy drinks, mixing them with alcohol (2).
+There is an increasing amount of research linking energy drink consumption with high-risk behavior, particularly when combined with alcohol. A study of US college students found that those who reported combining energy drinks with alcohol were more likely to experience adverse consequences due to their own drinking compared to those who only drank alcohol. Adverse consequences included: being taken advantage of or taking advantage of someone sexually; riding with an intoxicated driver; and being hurt or injured (3). In Australia, energy drink consumers were more likely to have a higher breath alcohol concentration reading, to pre-drink and use illicit drugs, and to have engaged in risky behavior in the previous 3 months including involvement in a fight or drink-driving (26). Further studies from the US found a positive association between energy drink consumption and high-risk behaviors including marijuana use, fighting, sexual risk taking, failure to use seatbelts, taking risks on a dare, smoking, drinking, problems stemming from alcohol abuse, and illicit drug use (6, 27, 28). Another study from the US military indicated that soldiers who consumed energy drinks had a higher prevalence of suicidality and soldiers who combined energy drinks with alcohol had an even higher prevalence (29).
+The consumption of high amounts of caffeine contained within energy drinks reduces drowsiness without diminishing the effects of alcohol resulting in a state of “wide awake drunkenness,” keeping the individual awake longer with the opportunity to continue drinking (4, 30). Studies have found that while the consumption of energy drinks with alcohol significantly reduces the subjective perceptions of some symptoms of alcohol intoxication including impairment of motor coordination, there is no actual reduction in the effects of the alcohol on the impairment of motor coordination, reaction time, or the breath alcohol concentration (31). A positive attitude and perception about alcohol mixed energy drinks also indicates higher consumption (32). Combining energy drinks and alcohol has also been associated with increased heavy drinking sessions and episodes of weekly drunkenness (3). A small randomized controlled trial in the US showed that energy drinks combined with alcohol seems to increase the motivation to consume greater amounts of alcohol compared to the same amount of alcohol alone (33). Research has continually shown the harmful risks associated with mixing energy drinks and alcohol; however, risks are still present when consuming energy drinks by themselves.
+Adverse Events Associated with Energy Drink Consumption
+Adverse events resulting from energy drink consumption are generally caused by the sympathomimetic effects from an excess intake of caffeine1
+(1, 34). As energy drinks have not always had their own unique tracking code in poison centers, there is a lack of information available for studies of energy drink over-consumption and associated adverse events (35). However, there have been a number of case reports indicating the potential for adverse health effects due to energy drink over-consumption.
+In 2007, a man in Australia was reported to have suffered cardiac arrest after consuming seven to eight cans of an energy drink while taking part in vigorous physical activity (36). A Swedish study in 2006 identified a number of cases with severe symptoms and a number of deaths possibly linked to energy drinks (37). Iyadurai and Chung (38) reported on four cases in the US, where patients presented at emergency rooms after suffering new, adult-onset seizures and the only common finding was that all the patients had consumed large amounts of energy drinks. Once the patients abstained from consuming energy drinks, no further seizures were reported. Avci et al. (39) reported another case from the United States where a 28-year-old man consumed three 250 ml energy drink cans, 5 h before a basketball match. After playing for 30 min, he lost consciousness, suffered from cardiac arrest, and died 3 days later. While a causal relationship between the consumption of large amounts of energy drinks and new-onset seizures has not been confirmed, further research in this area would be prudent.
+A retrospective review of calls made to a poison information center in Australia over a 7-year period found that 297 calls related to caffeinated energy drink exposure were recorded, with call numbers increasing from 12 in 2004 to 65 in 2010. The researchers raised the possibility that this was a significant underestimate due to the lack of adequate coding of energy drinks by the poison center studied and the fact that they were only able to access approximately 50% of the total calls to poison information centers in Australia (34). The National Poison Data System in United States (NPDS) recorded 4854 calls (0.2% of total calls) related to energy drinks over the year 2010–2011. Among the calls that led to more severe adverse effects, 39.3% involved alcohol mixed energy drinks. In all, 68.2% of the alcohol-related cases were individuals under the age of 20 (40). These studies demonstrate that energy drink consumption and toxicity is an extensive and growing problem in Australia and the United States and that a similar investigation into the European poison centers may be necessary.
+Marketing of Energy Drinks
+Marketing of energy drinks focuses on their stimulant effects and perceived benefits such as increased performance, attention, stamina, and weight loss, which remain unproven (1). Energy drink advertising targets young males with a focus on promoting the psychoactive, performance-enhancing, and stimulant effects of energy drinks. The marketing of some brands even attempt to glorify drug use (1) with one brand going as far as advertising itself as “the legal alternative” to cocaine (41). Further, a study found that self-reported measures of masculinity and risk taking behaviors were positively associated with frequency of energy drink consumption (28). In 2010, the Food and Drug Administration of the US announced that caffeine was unsafe for use as an additive to alcoholic beverages and the Federal Trade Commission notified manufacturers that they were potentially engaged in the illegal marketing of unsafe alcoholic drinks (4).
+Marketing campaigns that focus on improved performance, as well as a target market of children and adolescents and inadequate labeling, can increase the risk of caffeine intoxication from energy drink consumption (1). The aggressive marketing of energy drinks and the association of some brands with athletes and sporting events has led to many athletes consuming energy drinks before competitions to improve performance (42) or to recover expended energy after competition (5). In Europe, a study found that 41% of adolescents consumed energy drinks for physical activity purposes (2). Excessive caffeine consumption combined with strenuous physical activity can be dangerous (36), and the association of energy drinks with sports performance should be reconsidered.
+Existing Policies
+Several countries have enacted measures to regulate the labeling, distribution, and sale of energy drinks that contain significant amounts of caffeine. Since 2004, European regulations have enforced additional caffeine labeling for energy drinks that contain at least 150 mg/l of caffeine (43). From 2014, these will be strengthened to ensure that all beverages with high-caffeine content or with caffeine added for its physiological effects will be labeled with the statement “High caffeine content. Not recommended for children or pregnant or breast-feeding women,” followed by the caffeine content expressed in mg/100 ml (2).
+Concerns about the risks of excessive caffeine consumption previously led to outright bans on energy drinks in Denmark, Turkey, Norway, Uruguay, Iceland, and France (5), although the French government reluctantly removed its ban in 2008 following an assessment by EFSA, which found no definitive safety risk, taurine-related or not (44). Energy drinks can currently be sold in all EU Member States, although some national legislators have decided to take a more specific regulatory approach, including by setting rules for sales to minors. In Sweden, for example, sales of some products are restricted to pharmacies and sales to children (<15 years) are banned. Canada enforces warning labels that specify maximum daily consumption and include warnings about mixing energy drinks with alcohol (45). In Australia and New Zealand, energy drink manufacturers have previously bypassed regulations by classifying products as a “dietary supplement” to avoid caffeine limits of 80 mg/250 ml can (44). Finally, a “public health tax” was adopted in Hungary in 2012 that applies to caffeinated energy drinks, in addition to a range of other products and nutrients. The tax is levied on drinks containing >1 mg of methylxanthines or >100 mg of taurine per 100 ml at a rate of approximately €0.81/l (46). Energy drinks in developed countries remain largely unregulated (5), partially because of the long term and widespread consumption of beverages such as coffee and tea in which caffeine is a natural constituent (1).
+Recommended Policies
+This review of the published literature on energy drinks identifies a number of policies that might be considered by policy makers as they move to minimize the potential for harmful effects from energy drink consumption.
+There should be an evidence-based, upper limit for the amount of caffeine allowed in a single serving of any drink (4). While the majority of energy drinks that control the market do not contain excessive amounts of caffeine, there are an increasing number of energy drinks entering the market that have caffeine concentrations well above those of mainstream energy drinks (47). Setting a maximum limit for caffeine per serving of any energy drink throughout Europe could remove the extreme, highly caffeinated energy drinks from stores and protect the public’s health (47).
+The restriction of sales to children and adolescents should be considered due to the potentially harmful adverse and developmental effects of caffeine on children (15). Health practitioners also need to be aware of the potentially dangerous consequences of excess caffeine consumption. Policies should ensure that health-care providers are equipped to educate families and children at risk on the potential consequences of excessive energy drink consumption and recognize the features of caffeine intoxication, withdrawal, and dependence (1). Diet and substance-use histories in primary health care should include screening for dangerous energy drink consumption, both alone and with alcohol (3, 12).
+Energy drink manufacturers aggressively market their products to children, adolescents, and young adults. The absence of regulatory oversight in many countries has contributed to the aggressive marketing of energy drinks targeted primarily toward young males (1). Regulatory agencies should enforce industry-wide standards for responsible marketing of energy drinks and ensure that the risks associated with energy drink consumption are well known.
+Future Research
+There is an on-going need for further research on the possible adverse effects of energy drink consumption in Europe. A harmonized approach is vital for data matching, which could lead to new findings about population groups that may be particularly at risk for adverse outcomes due to energy drink consumption. Further research is required to determine whether there is a causal link between energy drink consumption and adult-onset seizures (38).
+A number of studies have shown that energy drink consumption is very high among adolescents and increasing among children (2, 12). More research is required to characterize the effects of long-term energy drink consumption, particularly among children and young adults, as well as the suitability of restriction options before widespread bans are put in place (44). Other areas of investigation related to children and adolescents include the contribution of energy drinks to the childhood obesity epidemic, psychiatric illness including attention deficit/hyperactivity disorder, as well as insomnia (48).
+More research is needed that focuses on the practice of mixing alcohol with energy drinks in Europe, particularly among young people. The potential risk for injury or excessive intoxication in young people who consume energy drinks with alcohol is significant. More data are needed to determine the risk of alcohol poisoning as a result of consuming energy drinks with alcohol (4), as well as to identify the populations who are most at risk. The identification of policies that are effective in reducing the incidence of adverse events at the national level could ensure the successful implementation of similar policies in neighboring countries.
+Conclusion
+From a review of the literature, it would appear that concerns in the scientific community and among the public regarding the potential adverse health effects of the increased consumption of energy drinks are broadly valid. The potential for acute caffeine toxicity due to consumption of energy drinks may be greater than other dietary sources of caffeine due to the variable and sometimes very high-caffeine content of energy drinks, in combination with the aggressive marketing to young and inexperienced consumers (1).
+The potential health risks related to heavy consumption of these products have largely gone unaddressed. Furthermore, new developments in marketing are also aimed at increasing the perceived health functionality of energy drinks in order to gain acceptance in an increasingly health-driven society (47, 49, 50). As energy drink sales are rarely regulated by age, like alcohol and tobacco, and there is a proven negative effect of caffeine on children, there is the potential for a significant public health problem in future. To date, policy development has been limited. Where policies exist, they are yet to be systematically evaluated in terms of their impact on heavy energy drink consumption, particularly among children and young adults. From a cautionary viewpoint, further research and policy action is necessary to minimize the risk of harm from heavy and long-term energy drink consumption.
+Conflict of Interest Statement
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+Acknowledgments
+João Joaquim Breda is a staff member of the World Health Organization Regional Office for Europe. Marge Reinap is a staff member of the WHO Country Office for Estonia. The authors are responsible for the views expressed in this publication and they do not necessarily represent the decisions or stated policy of WHO.
+Footnote
+
+^Even as little as 50 mg of caffeine can induce tachycardia and agitation. In overdose, caffeine toxicity can mimic amphetamine poisoning and lead to seizures, psychosis, cardiac arrhythmias, and, potentially but rarely, death.
+
+References
+
+1. Reissig CJ, Strain EC, Griffiths RR. Caffeinated energy drinks – a growing problem. Drug Alcohol Depend (2009) 99(1–3):1–10. doi: 10.1016/j.drugalcdep.2008.08.001
+
+CrossRef Full Text | Google Scholar
+
+2. Zucconi S, Volpato C, Adinolfi F, Gandini E, Gentile E, Loi A, et al. Gathering Consumption Data on Specific Consumer Groups of Energy Drinks. Parma: Supporting Publications (2013).
+
+Google Scholar
+
+3. O’Brien MC, McCoy TP, Rhodes SD, Wagoner A, Wolfson M. Caffeinated cocktails: energy drink consumption, high-risk drinking, and alcohol-related consequences among college students. Acad Emerg Med (2008) 15(5):453–60. doi:10.1111/j.1553-2712.2008.00085.x
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+4. Arria AM, Caldeira KM, Kasperski SJ, Vincent KB, Griffiths RR, O’Grady KE. Energy drink consumption and increased risk for alcohol dependence. Alcohol Clin Exp Res (2011) 35(2):365–75. doi:10.1111/j.1530-0277.2010.01352.x
+
+CrossRef Full Text | Google Scholar
+
+5. Buxton C, Hagan JE. A survey of energy drinks consumption practices among student-athletes in Ghana: lessons for developing health education intervention programmes. J Int Soc Sports Nutr (2012) 9(1):9. doi:10.1186/1550-2783-9-9
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+6. Berger L, Fendrich M, Fuhrmann D. Alcohol mixed with energy drinks: are there associated negative consequences beyond hazardous drinking in college students? Addict Behav (2013) 38:2428–32. doi:10.1016/j.addbeh.2013.04.003
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+7. Bulut B, Beyhun NE, Topbaş M, Can G. Energy drink use in university students and associated factors. J Community Health (2014). doi:10.1007/s10900-014-9849-3
+
+CrossRef Full Text | Google Scholar
+
+8. World Health Organization. WHO Basic Analytical Toxicology (2005). Available from: http://www.who.int/ipcs/publications/training_poisons/basic_analytical_tox/en/index.html.
+
+Google Scholar
+
+9. Kerrigan S, Lindsey T. Fatal caffeine overdose: two case reports. Forensic Sci Int (2005) 153(1):67–9. doi:10.1016/j.forsciint.2005.04.016
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+10. Starling S. Energy Drinks Safety Questioned by German Agency [Electronic Article] (2008). Available from: beveragedaily.com.
+
+Google Scholar
+
+11. Brown IJ, Stamler J, Van Horn L, Robertson CE, Chan Q, Dyer AR, et al. Sugar-sweetened beverage, sugar intake of individuals, and their blood pressure: international study of macro/micronutrients and blood pressure. Hypertension (2011) 57(4):695–701. doi:10.1161/HYPERTENSIONAHA.110.165456
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+12. Seifert SM, Schaechter JL, Hershorin ER, Lipshultz SE. Health effects of energy drinks on children, adolescents, and young adults. Pediatrics (2011) 127(3):511–28. doi:10.1542/peds.2009-3592
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+13. Lee S, Hudson R, Kilpatrick K, Graham TE, Ross R. Caffeine ingestion is associated with reductions in glucose uptake independent of obesity and type 2 diabetes before and after exercise training. Diabetes Care (2005) 28(3):566–72. doi:10.2337/diacare.28.3.566
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+14. Greenwood DC, Alwan N, Boylan S, Cade JE, Charvill J, Chipps KC, et al. Caffeine intake during pregnancy, late miscarriage and stillbirth. Eur J Epidemiol (2010) 25(4):275–80. doi:10.1007/s10654-010-9443-7
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+15. Schneider MB, Benjamin HJ. Sports drinks and energy drinks for children and adolescents: are they appropriate? Pediatrics (2011) 127(6):1182–9. doi:10.1542/peds.2011-0965
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+16. Azagba S, Langille D, Asbridge M. An emerging adolescent health risk: caffeinated energy drink consumption patterns among high school students. Prev Med (2014) 62:54–9. doi:10.1016/j.ypmed.2014.01.019
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+17. Hamilton HA, Boak A, Ilie G, Mann RE. Energy drink consumption and associations with demographic characteristics, drug use and injury among adolescents. J Public Health (2013) 104:e496–501.
+
+Pubmed Abstract | Pubmed Full Text | Google Scholar
+
+18. Van Batenburg-Eddes T, Lee NC, Weeda WD, Krabbendam L, Huizinga M. The potential adverse effect of energy drinks on executive functions in early adolescence. Front Psychol (2014) 5:457. doi:10.3389/fpsyg.2014.00457
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+19. Arria AM, Caldeira KM, Kasperski SJ, O’Grady KE, Vincent KB, Griffiths RR, et al. Increased alcohol consumption, nonmedical prescription drug use, and illicit drug use are associated with energy drink consumption among college students. J Addict Med (2010) 4(2):74–80. doi:10.1097/ADM.0b013e3181aa8dd4
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+20. Davis MM, Gance-Cleveland B, Hassink S, Johnson R, Paradis G, Resnicow K. Recommendations for prevention of childhood obesity. Pediatrics (2007) 120(Suppl 4):S229–53. doi:10.1542/peds.2007-2329E
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+21. Marshall TA, Levy SM, Broffitt B, Warren JJ, Eichenberger-Gilmore JM, Burns TL, et al. Dental caries and beverage consumption in young children. Pediatrics (2003) 112(3 Pt 1):e184–91. doi:10.1542/peds.112.3.e184
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+22. Pinto SC, Bandeca MC, Silva CN, Cavassim R, Borges AH, Sampaio JEC. Erosive potential of energy drinks on the dentine surface. BMC Res Notes (2013) 6:67. doi:10.1186/1756-0500-6-67
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+23. Higgins JP, Tuttle TD, Higgins CL. Energy beverages: content and safety. Mayo Clin Proc (2010) 85(11):1033–41. doi:10.4065/mcp.2010.0381
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+24. Zeidán-Chulia F, Gelain DP, Kolling ED, Rybarczyk-Filho JL, Ambrosi P, Resende Terra S, et al. Major components of energy drinks (caffeine, taurine, and guarana) exert cytotoxic effect on human neuronal SH-SY5Y cells by decreasing reactive oxygen species production. Oxid Med Cell Longev (2013) 2013:791795. doi:10.1155/2013/791795
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+25. Oteri A, Salvo F, Caputi AP, Calapai G. Intake of energy drinks in association with alcoholic beverages in a cohort of students of the school of medicine of the University of Messina. Alcohol Clin Exp Res (2007) 31(10):1677–80. doi:10.1111/j.1530-0277.2007.00464.x
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+26. Pennay A, Lubman D, Miller P. Combining energy drinks and alcohol – a recipe for trouble? Aust Fam Physician (2011) 40(3):104–7.
+
+Google Scholar
+
+27. Thombs DL, O’Mara RJ, Tsukamoto M, Rossheim ME, Weiler RM, Merves ML, et al.. Event level analysis of energy drink consumption and alcohol intoxication in bar patrons. Addict Behav (2010) 35:325–30. doi:10.1016/j.addbeh.2009.11.004
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+28. Miller KE. Wired: energy drinks, jock identity, masculine norms, and risk taking. J Am Coll Health (2008) 56(5):481–9. doi:10.3200/JACH.56.5.481-490
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+29. Mash HB, Fullerton CS, Ramsawh HJ, Ng TH, Wang L, Kessler RC, et al. Risk for suicidal behaviors associated with alcohol and energy drink use in the US Army. Soc Psychiatry Psychiatr Epidemiol (2014) 49(9):1379–87. doi:10.1007/s00127-014-0886-0
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+30. Weldy DL. Risks of alcoholic energy drinks for youth. J Am Board Fam Med (2010) 23(4):555–8. doi:10.3122/jabfm.2010.04.090261
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+31. Ferreira SE, de Mello MT, Pompéia S, de Souza-Formigoni ML. Effects of energy drink ingestion on alcohol intoxication. Alcohol Clin Exp Res (2006) 30(4):598–605. doi:10.1111/j.1530-0277.2006.00070.x
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+32. Varvil-Weld L, Marzell M, Turrisi R, Mallett KA, Cleveland MJ. Examining the relationship between alcohol-energy drink risk profiles and high-risk drinking behaviors. Alcohol Clin Exp Res (2013) 37:1410–6. doi:10.1111/acer.12102
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+33. Marczinski CA, Fillmore MT, Henges AL, Ramsey MA, Young CR. Mixing an energy drink with an alcoholic beverage increases motivation for more alcohol in college students. Alcohol Clin Exp Res (2013) 37:276–83. doi:10.1111/j.1530-0277.2012.01868.x
+
+CrossRef Full Text | Google Scholar
+
+34. Gunja N, Brown JA. Energy drinks: health risks and toxicity. Med J Aust (2012) 196:46–149.
+
+Google Scholar
+
+35. Bronstein AC, Spyker DA, Cantilena LR Jr, Green JL, Rumack BH, Heard SE, et al. 2007 Annual Report of the American Association of Poison Control Centers’ National Poison Data System (NPDS): 25th Annual Report. Clin Toxicol (Phila) (2008) 46(10):927–1057. doi:10.1080/15563650802559632
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+36. Berger AJ, Alford K. Cardiac arrest in a young man following excess consumption of caffeinated “energy drinks”. Med J Aust (2009) 190:41–3.
+
+Pubmed Abstract | Pubmed Full Text | Google Scholar
+
+37. Lehtihet M, Beckman Sundh U, Andersson DH. Energidryck – farlig eller inte? Läkartidningen (2006) 103(38):2738–41.
+
+Google Scholar
+
+38. Iyadurai SJ, Chung SS. New-onset seizures in adults: possible association with consumption of popular energy drinks. Epilepsy Behav (2007) 10:504–8. doi:10.1016/j.yebeh.2007.01.009
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+39. Avci S, Sarikaya R, Buyukcam F. Death of a young man after overuse of energy drink. Am J Emerg Med (2013) 31(1624):e3–4. doi:10.1016/j.ajem.2013.06.031
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+40. Seifert SM, Seifert SA, Schaechter JL, BronStein AC, Benson BE, Hershorin E, et al. An analysis of energy-drink toxicity in the national poison data system. Clin Toxicol (Phila) (2013) 51:566–74. doi:10.3109/15563650.2013.820310
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+41. Malinauskas BM, Aeby VG, Overton RF, Carpenter-Aeby T, Barber-Heidal K. A survey of energy drink consumption patterns among college students. Nutr J (2007) 6:35. doi:10.1186/1475-2891-6-35
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+42. Astorino TA, Matera AJ, Basinger J, Evans M, Schurman T, Marquez R. Effects of red bull energy drink on repeated sprint performance in women athletes. Amino Acids (2012) 42(5):1803–8. doi:10.1007/s00726-011-0900-8
+
+Pubmed Abstract | Pubmed Full Text | CrossRef Full Text | Google Scholar
+
+43. Thomson B, Schiess S. Risk Profile: Caffeine in Energy Drinks and Energy Shots. Institute of Environmental Science & Research Limited (2010).Available from: http://www.foodsafety.govt.nz/elibrary/industry/Risk_Profile_Caffeine-Science_Research.pdf
+
+Google Scholar
+
+44. Oddy WH, O’Sullivan TA. Energy drinks for children and adolescents. BMJ (2009) 339:b5268. doi:10.1136/bmj.b5268
+
+CrossRef Full Text | Google Scholar
+
+45. Bundesinstitut für Risikobewertung. New human data on the assessment of energy drinks. In: Federal Institute for Risk Assessment. (2008). Available from: http://www.bfr.bund.de/cm/349/new_human_data_on_the_assessment_of_energy_drinks.pdf
+
+Google Scholar
+
+46. Hungarian National Institute for Health Development. Impact Assessment of the Public Health Product Tax. Budapest: NIHD (2013).
+
+Google Scholar
+
+47. Heckman MA, Sherry K, de Mejia EG. Energy drinks: an assessment of their market size, consumer demographics, ingredient profile, functionality, and regulations in the United States. Compr Rev Food Sci Food Saf (2010) 9:303–17. doi:10.1111/j.1541-4337.2010.00111.x
+
+CrossRef Full Text | Google Scholar
+
+48. Babu K, Church R, Lewander W. Energy drinks: the new eye-opener for adolescents. Clin Ped Emerg Med (2008) 9:35–42. doi:10.1016/j.cpem.2007.12.002
+
+CrossRef Full Text | Google Scholar
+
+49. Arria AM, O’Brien MC. The “high” risk of energy drinks. JAMA (2011) 305(6):600–1. doi:10.1001/jama.2011.109
+
+CrossRef Full Text | Google Scholar
+
+50. Zenith International. Global Energy Drinks Report. Bath: Zenith International (2008).
+
+Google Scholar
+
+Keywords: energy drinks, Europe, consumption, review, risks, health effects, policy
+
+Citation: Breda JJ, Whiting SH, Encarnação R, Norberg S, Jones R, Reinap M and Jewell J (2014) Energy drink consumption in Europe: a review of the risks, adverse health effects, and policy options to respond. Front. Public Health 2:134. doi: 10.3389/fpubh.2014.00134
+
+Received: 16 July 2014; Accepted: 20  August  2014; Published online: 14 October 2014.
+
+Edited by:
+Sanjay P. Zodpey, Public Health Foundation of India, India
+
+Reviewed by:
+Donna Jeanne Petersen, University of South Florida, USA Milka Dancevic Gojkovic, Public Health Institute of Federation of Bosnia and Herzegovina, Bosnia and Herzegovina
+
+Copyright:  © 2014 Breda, Whiting, Encarnação, Norberg, Jones, Reinap and Jewell. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+*Correspondence: João Joaquim Breda, UN City, Marmorvej 51, 2100 Copenhagen, Denmark e-mail:amJyQGV1cm8ud2hvLmludA==
+
+Disclaimer:  All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article or claim that may be made by its manufacturer is not guaranteed or endorsed by the publisher. Download articleDownload PDFReadCubeEPUBXMLShare onExport citationEndNoteReference ManagerSimple Text fileBibTex149,9KTotal views12,3KDownloads144Citations Citation numbers are available from Dimensions View article impactView altmetric scoreShare onTable of contents
+Abstract
+Introduction
+Method
+Risks Associated with Energy Drink Consumption
+Risks Associated with Consumption of Energy Drinks and Alcohol
+Adverse Events Associated with Energy Drink Consumption
+Marketing of Energy Drinks
+Existing Policies
+Recommended Policies
+Future Research
+Conclusion
+Conflict of Interest Statement
+Acknowledgments
+Footnote
+References
+Export citationEndNoteReference ManagerSimple Text fileBibTexFrontiers' qualityGuardians of scientific integrityOur research integrity and auditing teams lead the rigorous process that protects the quality of the scientific recordMore about research integritySupplementary MaterialDownload articleDownloadDownload PDFReadCubeEPUBXMLGuidelinesAuthor guidelinesServices for authorsPolicies and publication ethicsEditor guidelinesFee policyExploreArticlesResearch Topics JournalsHow we publishOutreachFrontiers Forum Frontiers Policy Labs Frontiers for Young MindsFrontiers Planet PrizeConnectHelp centerEmails and alerts Contact us SubmitCareer opportunitiesFollow us© 2025 Frontiers Media SA. All rights reserved.Privacy policy | Terms and conditions

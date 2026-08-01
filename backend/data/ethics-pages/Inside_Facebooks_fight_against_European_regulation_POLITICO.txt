@@ -1,0 +1,624 @@
+Inside Facebook’s fight against European regulation – POLITICO
+
+ 
+
+ 
+
+Skip to main content
+
+Advertisement
+
+ 
+
+Menu
+
+			Search for:		
+
+			Submit		
+
+			Edition: Europe		
+
+								Europe							
+
+								UK							
+
+								France							
+
+								Germany							
+
+								US							
+
+Policy areas
+
+Agriculture and Food
+
+Central Banker
+
+Competition and Industrial Policy
+
+Cybersecurity and Data Protection
+
+Defense
+
+Energy and Climate
+
+Energy and Climate UK
+
+Energie et Climat France
+
+Energie & Klima DE
+
+Financial Services
+
+Financial Services UK
+
+Health Care
+
+Industrie & Handel DE
+
+Mobility
+
+Paris Influence
+
+Sustainability
+
+Technology
+
+Technology UK
+
+Tech France
+
+Trade
+
+Trade UK
+
+Newsletters
+
+Berlin Bulletin
+
+Berlin Playbook
+
+Brussels Playbook
+
+Dimanchissime
+
+EU Influence
+
+Global Playbook
+
+Global Policy Lab: Living Cities
+
+Global Security
+
+Le Weekly
+
+London Influence
+
+London Playbook
+
+Playbook Paris
+
+POLITICO Confidential
+
+Sunday Crunch
+
+Podcasts
+
+EU Confidential
+
+Politics at Sam and Anne's
+
+Power Play
+
+Westminster Insider
+
+Berlin Playbook — Der Podcast
+
+Opinion
+
+All Opinion
+
+Beyond the Bubble
+
+Germany Interpreted
+
+Declassified
+
+From Across the Pond
+
+Unpacked
+
+Featured Series
+
+Danish Presidency of the EU
+
+Europe’s looming water crisis
+
+Breaking out: Stories of Roma empowerment
+
+COP30
+
+A global emergency: Tackling antimicrobial resistance
+
+Living Cities
+
+POLITICO 28
+
+Poll of polls
+
+Elections in Europe
+
+European Parliament election
+
+Politico Live
+
+See All Future Events
+
+About our events
+
+Apps
+
+Apple Store
+
+Google Play Store
+
+More Info
+
+About us
+
+Media Solutions
+
+POLITICO Studio
+
+Press
+
+Print Edition
+
+Contact Us
+
+Careers at POLITICO
+
+			POLITICO Pro		
+
+			Europe		
+
+								Europe							
+
+								UK							
+
+								France							
+
+								Germany							
+
+								US							
+
+			Log In		
+
+			POLITICO Pro		
+
+Home
+
+Latest news
+
+Russian frozen assets
+
+Trump tariffs
+
+War in Ukraine
+
+Newsletters
+
+Podcasts
+
+Poll of Polls
+
+Policy news
+
+Events
+
+News 
+
+Technology 
+
+				Inside Facebook’s fight against European regulation			
+
+				Dozens of Commission documents show how the tech giant pushed back against rules on issues ranging from copyright to privacy. 			
+
+							Copy Link						
+
+							Copied						
+
+							Share via email						
+
+							Share on X						
+
+							Share on WhatsApp						
+
+							Share on LinkedIn						
+
+				Free article usually reserved for subscribers			
+
+						The US online social media and social networking service Facebook's logo | Kirill Kudryavtsev/AFP via Getty Images					
+
+			January 23, 2019		
+
+			5:41 pm CET		
+
+	
+	By 
+			
+			Laura Kayali		
+
+We don’t need no regulation.
+That was the message from Facebook to the European Commission over a period of four years, according to dozens of emails and written accounts of arguments made by the social media company in private meetings with Commission officials.
+The documents show that the company’s representatives pushed back against almost any form of regulation of its businesses in the EU.
+Advertisement
+
+Advertisement
+
+“The industry does not need a regulatory push to improve,” the company told the Commission in March 2016, according to the Commission’s written summary of the meeting.
+The internal Commission documents, dated from 2015 to early 2018, were obtained through a freedom of information request by Corporate Europe Observatory, a lobbying watchdog.
+“Facebook has consistently been tone-deaf about major concerns brought to their attention" — Marietje Schaake, Dutch liberal MEP
+They include summaries of meetings held with Commission Vice President Andrus Ansip, Commissioner for Justice Věra Jourová, their respective Cabinets, DG CNECT Director General Roberto Viola and his deputy Claire Bury, among other Commission officials. Most of the meetings were organized at Facebook’s request.
+The message the tech giant delivered was not one the Commission was primed to accept, according to lobbyists and officials who have followed the growing effort in Brussels to regulate tech companies.
+“Facebook has consistently been tone-deaf about major concerns brought to their attention,” said Marietje Schaake, a Dutch liberal member of the European Parliament who specializes in tech issues. “From their impact on election outcomes, to spreading of conspiracies and hate speech, the consistent message has been that regulation would stifle innovation. This is a losing strategy in Brussels.”
+Advertisement
+
+Advertisement
+
+On a range of legislation, ranging from privacy protection to copyright reform to rules governing responsibility for illegal content uploaded to internet platforms, the Silicon Valley tech giant’s arguments seem to have fallen flat — as European Union officials moved forward with regulation the company was warning against.
+MEP Marietje Schaake specializes in tech issues | Maciej Kulczynski/EPA
+While lobbying is a normal part of the legislative process, the documents underscore a disconnect between Facebook’s arguments and the EU’s philosophical approach to lawmaking.
+Some U.S. legislators might be sympathetic to the idea that tech companies be left free to innovate or that consumers are best placed to decide whom to trust with their data. Among European policymakers, the instinct is to write protections into law.
+“Facebook’s strategy is not adapted to dealing with the European Union,” said Damir Filipovic, a former tech lobbyist who is now director at the Brussels-based consultancy firm Europa Insights. “You cannot come to Brussels with a Washington story about not wanting regulation for the tech sector.”
+A spokesperson for the European Commission said it is “always ready to receive input from citizens and various stakeholders, such as think tanks and business and civil society representatives, in order to make informed political choices.”
+‘Private law’
+Facebook’s views on regulation led to tension with the European Commission starting in 2016, when tech companies, including Google and Facebook, worked with the institution on a code of conduct to fight online hate speech.
+Advertisement
+
+Advertisement
+
+The code aimed, among other things, to clarify how tech firms should decide whether or not to remove content flagged by users. Tech companies, including Facebook, wanted to be free to refer to their terms and conditions instead of EU legislation, according to an April 2016 meeting summary with the Cabinet of Commissioner for Justice Jourová.
+The Commission “urged [them] to reconsider” this position and argued that the tech companies should make their decisions using “national law implementing the Framework Decision on racism and xenophobia” — EU legislation that encourages national governments to introduce criminal penalties for some racist and xenophobic acts.
+The final text, adopted in May 2016, was a compromise between Facebook and the Commission’s position.
+“We cannot rely on self-regulatory methods for terrorist content" — Věra Jourová, the European commissioner for justice
+“Upon receipt of a valid removal notification, the IT companies [commit] to review such requests against their rules and community guidelines and where necessary national laws,” the final code of conduct reads.
+Nonetheless, in subsequent meetings Facebook continued to press its case, trying to convince the Commission that its internal rules should take precedence over EU legislation or national law.
+Advertisement
+
+Advertisement
+
+In January 2017, Facebook referred only to its terms of service when explaining decisions on whether or not to remove content, the documents show. “Facebook explained that referring to the terms of services allows faster action but are open to consider changes,” a Commission summary report from then reads.
+“Facebook considers there are two sets of laws: private law (Facebook community standards) and public law (defined by governments),” the company told the Commission, according to Commission minutes of an April 2017 meeting.
+“Facebook discouraged regulation,” reads a Commission memo summarizing a September 2017 meeting with the company.
+European Commissioner Vera Jourová wonder about tech's place in society | Fernando Villar/EPA
+The decision to press forward with the argument is unusual, said Margarida Silva, a researcher and campaigner at Corporate Europe Observatory. “You don’t see that many companies so openly asking for self-regulation, even going to the extent of defending private law.”
+Facebook says it has taken the Commission’s concerns into account. “When people sign up to our terms of service, they commit to not sharing anything that breaks these policies, but also any content that is unlawful,” the company told POLITICO. “When governments or law enforcement believe that something on Facebook violates their laws, even if it doesn’t violate our standards, they may contact us to restrict access to that content.”
+When it comes to fighting online terrorist propaganda, however, that argument was not enough to win over the Commission. The Commission has put forward a legislation forcing platforms to take down flagged terrorist content within one hour.
+Advertisement
+
+Advertisement
+
+“We cannot rely on self-regulatory methods for terrorist content,” Commissioner Jourová said at a conference this week.
+The proposal is being considered by the European Parliament and Council of the EU.
+‘A service expected by users’
+Another focus of Facebook’s lobbying was the so-called e-Privacy Regulation — a Commission proposal the social media giant has described as a “threat” to its business model, which relies on online advertising.
+Presented by the Commission in 2017, the regulation would require companies to request their users’ consent to access and use personal communications.
+The measure is something the European public is demanding, according to the Commission, which regularly cites a 2016 Eurobarometer survey, in which 92 percent of respondents said they find it “important that the confidentiality of their e-mails and online instant messaging is guaranteed.”
+“Should I not be asked before my emails are accessed and used? Don’t you think the same? Is this asking too much?” Vice President Andrus Ansip tweeted in October 2017, when the Commission faced a fierce lobbying campaign by tech giants like Facebook and Google, as well as European media companies, telecom providers and advertisers.
+Advertisement
+
+Facebook repeatedly told the European Commission in 2017 and 2018 it did not want to be forced to collect users’ consent to process their communications.
+Digital Single Market Commissioner Andrus Ansip | Olivier Hoslet/EPA
+In different sessions with Commission officials during that time period, gathering users’ consent was described as “too rigid, disproportionately cumbersome, extremely burdensome and not user-friendly,” according to minutes of the meetings. “Transparency and choice” is more important than consent, Facebook argued.
+Facebook tried to convince the Commission there is “no need for a regulation” at all.
+In a March 2017 meeting, the company argued the public is free to use other services on the market if they don’t agree with Facebook’s privacy policy.
+In an effort to be excluded from the regulation’s scope, the tech giant also argued that Facebook Messenger is “not a messaging service.” It added: “It is much more than that because it can notify you about an event which was mentioned during a conversation, it can suggest new friends based on the content of discussions.”
+In January 2018, Facebook told the Commission that the processing of communications is “expected by users, and even more — a value because of which people sign up for,” referring to suggestions for friends, events, replies and others.
+Advertisement
+
+On copyright, the arguments Facebook made publicly differed sharply from what it told the Commission behind closed doors.
+“Facebook claims this is not a privacy violation but a service expected by users,” the meeting minutes read.
+The company’s arguments failed to sway the Commission, which has continued to insist that companies obtain consent for the use of personal information.
+The Commission’s proposal has received the endorsement of the European Parliament, but the Council of the EU — where national governments have their say — has yet to adopt a position. The three institutions must agree on any final legislation.
+Meanwhile, Facebook continues to argue that it should be able to process personal data on the basis of so-called legitimate interest — which doesn’t necessarily require a user’s explicit consent. The British data protection authority describes legitimate interest as the “most flexible lawful basis for processing” personal data.
+“As recognized in [the EU’s General Data Protection Regulation], other legal bases for data processing, such as legitimate interest or contractual necessity, might be more effective in promoting transparency and control than consent,” the company told POLITICO in response to questions for this article.
+Advertisement
+
+‘Technology, not legislation’
+Another area of concern for Facebook is the possibility of rules that would make it liable for content users upload to its platform, including hate speech, terrorist content and copyrighted material.
+“Facebook [is] concerned about a possible change in the liability for intermediaries under [the] Digital Single Market,” Commission minutes from an April 2015 meeting read.
+The EU law governing responsibility for content on social media platforms is the 2000 e-commerce directive, which does not hold companies like Google and Facebook liable for illegal content posted by their users.
+Companies must take down illegal content once it has been flagged as such, but they are not required to actively prevent it from being uploaded.
+“Additional liability would be a barrier to Facebook and the new business models on the platform,” the company said in July 2016.
+European Commission President Jean-Claude Juncker | Daniel Mihailescu/AFP via Getty Images
+European Commission President Jean-Claude Juncker elected not to reopen the e-Commerce Directive during his mandate. But other legislation, including a reform of copyright laws winding its way through Brussels, could make Facebook liable for some of the content on its platform.
+Advertisement
+
+On copyright, the arguments Facebook made publicly differed sharply from what it told the Commission behind closed doors.
+In public statements critical of the reform, trade associations representing Facebook, such as CCIA Europe or EDiMA, largely played down the issue of liability. They focused instead on a proposal that would require internet platforms to use so-called upload filters that would automate the analysis of content, blocking anything that was illegal.
+These, argued the trade associations, are tantamount to censorship. “Filtering before upload will censor EU citizens online,” EDiMA’s campaign slogan read in September 2018.
+At the same time as trade associations representing Facebook were warning against “upload filters,” the company itself was touting its filtering technology in meeting with the Commission as an attempt to head off measures that would make it liable for the content on its platform.
+Referring to content protected by copyright, Facebook also told the Commission in April 2015 that “every content uploaded by users is filtered through Audible Magic software before actual upload. The measures taken are kept at the level that would allow them to keep their status as a hosting provider.”
+According to the Commission’s minutes of a March 2016 meeting, Facebook said it had “invested important resources to develop filtering mechanisms (copyright, bullying, terrorism, hate speech).”
+Advertisement
+
+Sheryl Sandberg, chief operating officer of Facebook | Lino Mirgeler/AFP via Getty Images
+In September 2017, one year after the copyright reform was presented, the social media giant told the Commission it preferred “collaborating and relying on technology rather than complex legislation that risks being implemented in a diverse manner in member states.”
+“It’s very common for the Silicon Valley to push against regulation at all,” said Margarida Silva, of Corporate Europe Observatory. “But those emails show very clearly that they have specific non-public policy positions they are lobbying on,” Silva added, referring to the internal Commission documents.
+The European Parliament and EU national governments are still in negotiatons over copyright reform.
+If the text currently on the table, which is not final, were to be adopted, Facebook would become liable for copyrighted content on its platform and would be required to strike licensing deals with rights-holders who want them.
+When asked by POLITICO about the emails, Facebook argued the company is “transparent about the technology [they] use.”
+‘The right regulation’
+Over the course of the last year, Facebook seems to have switched tack on regulation, at least in its public statements.
+Advertisement
+
+In March 2018, the Guardian reported that the British political consulting firm Cambridge Analytica had harvested the data of millions of Facebook’s users in Europe and the U.S. for political purposes without their knowledge.
+Confronted by furious lawmakers on both sides of the Atlantic, Facebook CEO Mark Zuckerberg did not push back against the idea that the company should be regulated. Instead, he asked policymakers consider what the “right regulation” should be.
+It’s a shift in tone the company has widely adopted. “Governments have a right and a duty to set rules and boundaries, and we are supportive of the right regulation,” Facebook Chief Operating Officer Sheryl Sandberg said at the DLD conference in Munich this week. “Governments have to set standards, and companies have to work with them to make sure we can meet them.”
+For Brussels, that was never in doubt.
+“Whether or not we should regulate tech is not the right question [to ask],” Commissioner Jourová told a Brussels crowd this week. “The question is what place tech should have in our society.”
+      Also On POLITICO           Facebook takes down two Russian disinformation networks in Eastern Europe      By   Laurens Cerulus       Documents: Zuckerberg allegedly blocked rivals from accessing Facebook data      By   Mark Scott      
+Advertisement
+
+										Related Tags				
+
+								Copyright							
+
+								Data protection							
+
+								Digital single market							
+
+								Illegal content							
+
+								Platforms							
+
+								Privacy							
+
+								Telecoms							
+
+										Related People				
+
+								Andrus Ansip							
+
+								Marietje Schaake							
+
+								Mark Zuckerberg							
+
+								Sheryl Sandberg							
+
+								Věra Jourová							
+
+										Related Organizations				
+
+								European Commission							
+
+								Facebook							
+
+				Our readers read next			
+
+						Top EU official promises more Big Tech decisions ‘in coming months’					
+
+			3 HRS ago 		
+
+2 mins read
+
+						Europe exhales as Brussels finally moves on fining Musk’s X 					
+
+			5 HRS ago 		
+
+6 mins read
+
+						Gianni Infantino’s Trump problem					
+
+			6 HRS ago 		
+
+14 mins read
+
+						EU slaps €120M fine on Elon Musk’s X, straining ties with US					
+
+			10 HRS ago 		
+
+4 mins read
+
+				More from Laura Kayali			
+
+						Trump warns Europe faces ‘civilizational erasure’ in explosive new document					
+
+The U.S. president blames the EU and migration for inciting broad continental decline in official National Security Strategy.
+
+			11 HRS ago 		
+
+4 mins read
+
+						Macron: No ‘finalized’ peace plan on Ukraine					
+
+The Europeans are worried that Kyiv will be forced into accepting a bad deal.
+
+			Dec 1		
+
+5 mins read
+
+						Russia’s arms-makers thrive despite sanctions, new report says					
+
+Global revenues of weapons companies soared to a record $679 billion in 2024 driven by wars in Ukraine and Gaza and Europe’s rearmament.
+
+			Dec 1		
+
+3 mins read
+
+						Romania’s defense minister resigns over false claims on his CV					
+
+Ionuț Moșteanu said he graduated from a Bucharest university despite never attending the school, local media reported.
+
+			Nov 28		
+
+2 mins read
+
+Facebook
+
+Twitter
+
+YouTube
+
+App Store
+
+Play Store
+
+Policy
+
+Agriculture and Food
+
+Central Banker
+
+Competition and Industrial Policy
+
+Cybersecurity and Data Protection
+
+Defense
+
+Energy and Climate
+
+Energy and Climate UK
+
+Energie et Climat France
+
+Financial Services
+
+Financial Services UK
+
+Health Care
+
+Industrie & Handel
+
+Mobility
+
+Paris Influence
+
+Sustainability
+
+Technology
+
+Tech France
+
+Technology UK
+
+Trade
+
+Trade UK
+
+Newsletters
+
+Berlin Bulletin
+
+Berlin Playbook
+
+Brussels Playbook
+
+Dimanchissime
+
+EU Influence
+
+Global Playbook
+
+Global Policy Lab: Living Cities
+
+Global Security
+
+London Influence
+
+London Playbook
+
+Le Weekly
+
+Playbook Paris
+
+POLITICO Confidential
+
+Sunday Crunch
+
+Podcasts
+
+EU Confidential
+
+Politics at Sam and Anne's
+
+Power Play
+
+Westminster Insider
+
+Berlin Playbook — Der Podcast
+
+Opinion
+
+All Opinion
+
+Beyond the Bubble
+
+Germany Interpreted
+
+Declassified
+
+From Across the Pond
+
+Unpacked
+
+Featured Series
+
+Danish Presidency of the EU
+
+Europe’s looming water crisis
+
+Polish Presidency of the EU
+
+A global emergency: Tackling antimicrobial resistance
+
+Living Cities
+
+POLITICO 28
+
+Subscriptions
+
+POLITICO Pro
+
+Print Edition
+
+Research and analysis division
+
+Editions
+
+POLITICO Europe
+
+POLITICO UK
+
+POLITICO France
+
+POLITICO Germany
+
+POLITICO US
+
+Manage Privacy Settings
+
+About us
+
+Contact us
+
+Privacy Policy
+
+Cookie Policy
+
+Media Solutions
+
+Research and Analysis Division
+
+Agency IQ
+
+Press
+
+Print Edition
+
+Careers at POLITICO
+
+Ts&Cs
+
+FAQs

@@ -1,0 +1,310 @@
+Reddit sues Anthropic over AI scraping that retained users’ deleted posts - Ars Technica
+
+  Skip to content
+
+Ars Technica home
+
+            Sections
+            
+
+                Forum
+              
+
+                  Subscribe
+                
+
+                Search
+              
+
+                    AI
+                  
+
+                    Biz & IT
+                  
+
+                    Cars
+                  
+
+                    Culture
+                  
+
+                    Gaming
+                  
+
+                    Health
+                  
+
+                    Policy
+                  
+
+                    Science
+                  
+
+                    Security
+                  
+
+                    Space
+                  
+
+                    Tech
+                  
+
+                  Feature
+                
+
+                  Reviews
+                
+
+            AI
+          
+
+            Biz & IT
+          
+
+            Cars
+          
+
+            Culture
+          
+
+            Gaming
+          
+
+            Health
+          
+
+            Policy
+          
+
+            Science
+          
+
+            Security
+          
+
+            Space
+          
+
+            Tech
+          
+
+      Forum
+    
+
+        Subscribe
+      
+
+Story text
+
+Size
+
+Small
+Standard
+Large
+
+Width
+      *
+
+Standard
+Wide
+
+Links
+
+Standard
+Orange
+
+* Subscribers only
+      Learn more
+
+            Pin to story
+          
+
+Theme
+
+                HyperLight
+              
+
+                Day & Night
+              
+
+                Dark
+              
+
+                System
+              
+
+    Sign In
+  
+
+    Redditors left in the dark?
+  
+
+        Reddit sues Anthropic over AI scraping that retained users’ deleted posts
+      
+
+        Amazon’s revamped Alexa at center of Reddit’s legal fight with Anthropic.
+      
+
+    Ashley Belanger
+  
+  –
+  
+
+      Jun 5, 2025 12:57 pm
+    
+| 
+
+    46
+  
+
+          Credit:
+
+                      
+          
+          SOPA Images / Contributor | LightRocket
+
+                      
+
+          Credit:
+
+                      
+          
+          SOPA Images / Contributor | LightRocket
+
+                      
+
+Text
+        settings
+
+Story text
+
+Size
+
+Small
+Standard
+Large
+
+Width
+      *
+
+Standard
+Wide
+
+Links
+
+Standard
+Orange
+
+* Subscribers only
+      Learn more
+
+            Minimize to nav
+          
+
+On the heels of an OpenAI controversy over deleted posts, Reddit sued Anthropic on Wednesday, accusing the AI company of “intentionally” training AI models on the “personal data of Reddit users”—including their deleted posts—”without ever requesting their consent.”
+Calling Anthropic two-faced for depicting itself as a “white knight of the AI industry” while allegedly lying about AI scraping, Reddit painted Anthropic as the worst among major AI players. While Anthropic rivals like OpenAI and Google paid Reddit to license data—and, crucially, agreed to “Reddit’s licensing terms that protect Reddit and its users’ interests and privacy” and require AI companies to respect Redditors’ deletions—Anthropic wouldn’t participate in licensing talks, Reddit alleged.
+“Unlike its competitors, Anthropic has refused to agree to respect Reddit users’ basic privacy rights, including removing deleted posts from its systems,” Reddit’s complaint said.
+Reddit alleged that its value as a community platform depends on only licensing data to AI companies that agree that “if a Reddit user deletes a post or comment,” Reddit’s Compliance API can automatically push a notification prompting licensees “to delete that content, thereby respecting the Reddit user’s wishes.” Otherwise, Redditors won’t trust that their deleted posts will truly be deleted.
+According to Reddit, Anthropic knew that commercial uses of Redditors’ posts were prohibited by Reddit’s user agreement. The agreement also applies to Anthropic’s ClaudeBot, which scrapes content to fuel its chatbot Claude, Reddit noted. But “Anthropic does not care about Reddit’s rules or users: it believes it is entitled to take whatever content it wants and use that content however it desires, with impunity,” Reddit said.
+Reddit is seeking a court order blocking Anthropic from scraping Reddit without the proper compensation and consent of users. It has accused Anthropic of unjust enrichment, collecting subscription fees for its products and striking lucrative deals worth tens of billions to license its AI models without ever paying Reddit for allegedly helping to train those products.
+
+Notably, Reddit pointed out that Anthropic’s Claude models will help power Amazon’s revamped Alexa, following about $8 billion in Amazon investments in the AI company since 2023.
+“By commercially licensing Claude for use in several of Amazon’s commercial offerings, Anthropic reaps significant profit from a technology borne of Reddit content,” Reddit alleged, and “at the expense of Reddit.” Anthropic’s unauthorized scraping also burdens Reddit’s servers, threatening to degrade the user experience and costing Reddit additional damages, Reddit alleged.
+To rectify alleged harms, Reddit is hoping a jury will award not just damages covering Reddit’s alleged losses but also punitive damages due to Anthropic’s alleged conduct that is “willful, malicious, and undertaken with conscious disregard for Reddit’s contractual obligations to its users and the privacy rights of those users.”
+Without an injunction, Reddit users allegedly have “no way of knowing” if Anthropic scraped their data, Reddit alleged. They also are “left to wonder whether any content they deleted after Claude began training on Reddit data nevertheless remains available to Anthropic and the likely tens of millions (and possibly growing) of Claude users,” Reddit said.
+In a statement provided to Ars, Anthropic’s spokesperson confirmed that the AI company plans to fight Reddit’s claims.
+“We disagree with Reddit’s claims and will defend ourselves vigorously,” Anthropic’s spokesperson said.
+
+Amazon declined to comment. Reddit did not immediately respond to Ars’ request to comment. But Reddit’s chief legal officer, Ben Lee, told The New York Times that Reddit “will not tolerate profit-seeking entities like Anthropic commercially exploiting Reddit content for billions of dollars without any return for redditors or respect for their privacy.”
+“AI companies should not be allowed to scrape information and content from people without clear limitations on how they can use that data,” Lee said. “Licensing agreements enable us to enforce meaningful protections for our users, including the right to delete your content, user privacy protections, and preventing users from being spammed using this content.”
+
+Anthropic allegedly lied about AI scraping
+Reddit claimed that Anthropic started scraping Reddit without permission in December 2021. That’s around when Anthropic CEO Dario Amodei and other researchers publicly admitted that Reddit comments in certain white-listed subreddits—including forums that break down complex topics like “explainlikeimfive” or encourage in-depth debate like “changemyview”—were especially “good” samples to help fine-tune Anthropic models, Reddit alleged.
+Anthropic’s prohibited scraping seemingly continued until at least May 2024. In July of that year, an Anthropic spokesperson responded to outcry from Reddit’s CEO, Steve Huffman, by claiming that “Reddit has been on our block list for web crawling since mid-May and we haven’t added any URLs from Reddit to our crawler since then.”
+However, “that statement was false,” Reddit alleged, saying that it caught Anthropic “red-handed” deploying “automated bots to access Reddit content more than one hundred thousand times in the subsequent months.” And that count only measures “Anthropic’s access or attempted access which Reddit detected,” the complaint said.
+Rather than stopping the alleged scraping, Anthropic’s scraping “continued up to and at least until October 2024,” Reddit alleged, and possibly even to this day, “Anthropic still scrapes Reddit content to train its AI models such as Claude.”
+If Anthropic’s alleged scraping isn’t blocked, Reddit says that its platform and users will “face a triple loss.” First, they won’t be compensated for helping advance Anthropic’s technology; then they will lose privacy protections and the ongoing security of Reddit’s API compliance monitoring.
+“Anthropic must be made to comply with the contractual promises and commitments it has made to Reddit as well as to abide by other legal obligations affecting Reddit and the public,” Reddit’s complaint said.
+Advance Publications, which owns Ars Technica parent Condé Nast, is the largest shareholder in Reddit.
+
+                  Ashley Belanger
+              
+Senior Policy Reporter
+
+                  Ashley Belanger
+              
+Senior Policy Reporter
+
+      Ashley is a senior policy reporter for Ars Technica, dedicated to tracking social impacts of emerging policies and new technologies. She is a Chicago-based journalist with 20 years of experience.
+    
+
+    46 Comments
+  
+
+    Comments
+  
+
+Forum view
+
+      Loading comments...
+    
+
+Prev story
+
+Next story
+
+        Most Read
+
+1.
+In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet
+
+2.
+Congress warned that NASA’s current plan for Artemis “cannot work”
+
+3.
+In comedy of errors, men accused of wiping gov databases turned to an AI tool
+
+4.
+Engineer proves that Kohler’s smart toilet cameras aren’t very private
+
+5.
+Why won’t Steam Machine support HDMI 2.1? Digging in on the display standard drama.
+
+Customize
+
+Ars Technica has been separating the signal from
+          the noise for over 25 years. With our unique combination of
+          technical savvy and wide-ranging interest in the technological arts
+          and sciences, Ars is the trusted source in a sea of information. After
+          all, you don’t need to know everything, only what’s important.
+
+More
+          from Ars
+        
+About Us
+Staff Directory
+Ars Newsletters
+General FAQ
+Posting Guidelines
+RSS Feeds
+
+Contact
+Contact us
+Advertise with us
+Reprints
+
+            Manage Preferences
+          
+
+      
+      © 2025 Condé Nast. All rights reserved. Use of and/or
+      registration on any portion of this site constitutes acceptance of our User Agreement and
+      Privacy Policy and
+        Cookie Statement and Ars
+        Technica Addendum and Your
+        California Privacy Rights. Ars Technica may earn compensation on
+      sales from links on this site. Read our
+        affiliate link policy. The material on this site may not be
+      reproduced, distributed, transmitted, cached or otherwise used, except
+      with the prior written permission of Condé Nast. Ad
+        Choices

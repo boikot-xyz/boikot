@@ -1,0 +1,32 @@
+{
+    "names": [
+        "LVMH",
+        "Louis Vuitton Moët Hennessy",
+        "Moët Hennessy Louis Vuitton",
+        "LVMH Moët Hennessy Louis Vuitton",
+        "LVMH Moët Hennessy Louis Vuitton SE",
+        "MC",
+        "Moët & Chandon",
+        "Hennessy",
+        "Louis Vuitton"
+    ],
+    "comment": "[2][3][4]",
+    "sources": {
+        "1": "https://apparelresources.com/business-news/sustainability/peta-continues-campaign-lvmhs-animal-fur-skin-cruelty-fashion/",
+        "2": "https://bhr.stern.nyu.edu/quick-take/why-lvmh-and-other-luxury-brands-need-to-do-more-to-protect-their-workers/",
+        "3": "https://www.forbes.com/sites/pamdanziger/2024/06/24/italian-court-reveals-diors-unethical-supply-chain-and-puts-other-luxury-brands-on-notice/"
+    },
+    "sourceNotes": {
+        "1": "uses fur and animals skins associated with animal cruelty",
+        "2": "poor working conditions for employees",
+        "3": "exploited its workers"
+    },
+    "tags": [
+        "fashion"
+    ],
+    "score": null,
+    "ownedBy": [],
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/LVMH_wordmark.svg",
+    "siteUrl": "https://www.lvmh.com/",
+    "updatedAt": "2025-09-06T20:12:40.456Z"
+}

@@ -1,0 +1,282 @@
+Bose accused of spying on users via Bose Connect app | CSO Online
+
+ 
+ 
+
+ 
+
+ 
+
+							Topics						
+
+Spotlight: Cloud SecurityLatestNewslettersResourcesBuyer’s GuidesEvents 
+
+AboutAbout UsAdvertiseContact UsEditorial Ethics PolicyFoundry CareersReprintsNewslettersContribute to CSOPoliciesTerms of ServicePrivacy PolicyCookie PolicyCopyright NoticeMember PreferencesAbout AdChoicesE-commerce LinksYour California Privacy RightsOur NetworkCIOComputerworldInfoWorldNetwork WorldMoreAwardsBlogsBrandPostsEventsPodcastsVideosEnterprise Buyer’s Guides 
+
+Close
+
+ Artificial IntelligenceGenerative AIBusiness OperationsCareersIndustryIT LeadershipComplianceSecurityApplication SecurityBusiness ContinuityCloud SecurityCritical Infrastructure CybercrimeIdentity and Access ManagementIT ManagementNetwork SecurityPhysical SecurityPrivacyRisk ManagementSecurity InfrastructureVulnerabilitiesAnalyticsSoftware DevelopmentEnterprise Buyer’s Guides 
+
+Back
+
+Close
+
+Americas
+
+United States
+
+Asia
+
+ASEAN
+
+India
+
+Europe
+
+Deutschland (Germany)
+
+United Kingdom
+
+Oceania
+
+Australia
+
+Back
+
+Close
+
+										Popular Topics									
+
+ CareersCybercrimeGenerative AI 
+
+Search
+
+									UK-EN								
+
+Topics
+
+Spotlight: Cloud SecurityLatestNewslettersResourcesBuyer’s GuidesEventsAboutPoliciesOur NetworkMore 
+
+Back
+
+Topics
+
+Artificial IntelligenceGenerative AIBusiness OperationsCareersIndustryIT LeadershipComplianceSecurityApplication SecurityBusiness ContinuityCloud SecurityCritical InfrastructureCybercrimeIdentity and Access ManagementIT ManagementNetwork SecurityPhysical SecurityPrivacyRisk ManagementSecurity InfrastructureVulnerabilitiesAnalyticsSoftware DevelopmentEnterprise Buyer’s Guides 
+
+ 
+
+					Back				
+
+AboutAbout UsAdvertiseContact UsEditorial Ethics PolicyFoundry CareersReprintsNewslettersContribute to CSO 
+
+ 
+
+					Back				
+
+PoliciesTerms of ServicePrivacy PolicyCookie PolicyCopyright NoticeMember PreferencesAbout AdChoicesE-commerce LinksYour California Privacy Rights 
+
+ 
+
+					Back				
+
+Our NetworkCIOComputerworldInfoWorldNetwork World 
+
+ 
+
+					Back				
+
+MoreAwardsBlogsBrandPostsEventsPodcastsVideosEnterprise Buyer’s Guides
+
+Home
+
+Security
+
+ 
+
+ 
+
+				by									Ms. Smith
+
+ 
+
+Bose accused of spying on users, illegal wiretapping via Bose Connect app
+News
+Apr 20, 20173 mins 
+
+ 
+
+				A lawsuit alleges the Bose Connect app secretly intercepts and shares what you listen to.			
+
+  Those high-dollar Bose headphones? A lawsuit filed in Chicago contends Bose has been spying on users via the Bose Connect app, which enables users to remotely control their Bose headphones, and violating their privacy rights by selling the information about what they listen to without permission. Furthermore, Kyle Zak accused Bose of illegal wiretapping.The lawsuit claims the app also has a data miner called Segment.io. Segment, the company behind the data miner, advertises, “Collect all of your customer data and send it anywhere.”The complaint is a proposed class action for all people in the U.S. who bought a Bose wireless product and installed the Bose Connect app. It specifically mentions the Bose products QuietComfort 35, SoundSport Wireless, SoundSport Pulse Wireless, QuietControl 30, SoundLink Around-Ear Wireless Headphones II, and SoundLink Color II.
+
+Bose allegedly designed the Bose Connect app to scoop up data. It claims the app was designed to “continuously record the contents of the electronic communications that users send to their Bose Wireless Products from their smartphones, including the names of the music and audio tracks they select to play along with the corresponding artist and album information, together with the Bose Wireless Product’s serial numbers.”
+
+The lawsuit alleges that what a person listens to—music, radio broadcasts, Podcasts, lectures and audio books—reveals their political and religious views “thoughts, sentiments and emotions.” It “is enough to make accurate judgements and predictions about their personalities and behaviors.”If you look on Google Play, installing Bose Connect grants permission for access to several listings under Other: bind to an accessibility service, view network connections, pair with Bluetooth devices, access Bluetooth settings and full network access. That alone gives no hint that Bose is doing what the lawsuit proposes.
+
+Bose failed to first obtain consent from customers “before intercepting, monitoring, collecting and transmitting their media information,” the lawsuit claims. In fact, Bose “concealed its actual data collection policies.”A big part of the lawsuit revolves around the fact that Zak never gave his consent to Bose to “monitor, collect and transmit” his media information. Since Bose designed its app to “contemporaneously and secretly collect” information about what a user listens to, then Zak—an Illinois resident—and his attorney contend the interception of content means Bose is in violation of the Federal Wiretap Act.“Bose is not alone here,” said Bob Noel, director of strategic relationships and marketing for Plixer International. “A recent webinar reviewed how several companies are stealing personally identifiable information (PII) from their customers.”
+
+Noel added, “One important part of the equation to understand in this case is whether or not there is an end user license agreement (EULA) outlining the PII that Bose is taking. In many cases, the EULA you agree to when you download an application gives the manufacturer the right to collect and/or sell that data.“An important factor to consider is whether consumers have the ability to verify the data collected aligns to what was agreed upon when the EULA was accepted. In many cases this can be difficult because the data collection occurs across an encrypted tunnel. You know data is being collected, but as a consumer, it is impossible to verify what data is being taken and what the manufacturer is doing with that data.”
+
+Consumer ElectronicsData and Information SecuritySecurity 
+
+ 
+Related content 
+
+Opinion 
+Hardening browser security with zero-trust controls By Sunil Gentyala 
+Dec 5, 2025 14 mins 
+
+								Browser Security							
+
+								Endpoint Protection							
+
+								Security							
+
+Opinion 
+Avoiding the next technical debt: Building AI governance before it breaks By Marco Túlio Moraes 
+Dec 5, 2025 7 mins 
+
+								Artificial Intelligence							
+
+								IT Governance							
+
+								Risk Management							
+
+News 
+AI in CI/CD pipelines can be tricked into behaving badly By Shweta Sharma 
+Dec 5, 2025 4 mins 
+
+								CI/CD							
+
+								Code Security							
+
+								Devops							
+
+News 
+Cloudflare firewall reacts badly to React exploit mitigation By Peter Sayer 
+Dec 5, 2025 3 mins 
+
+								Cloud Security							
+
+								Network Security							
+
+								Security							
+
+Other Sections
+
+								PODCASTS							
+
+								VIDEOS							
+
+								RESOURCES							
+
+								EVENTS							
+
+								SPOTLIGHT: CLOUD SECURITY							
+
+ 
+
+				SUBSCRIBE TO OUR NEWSLETTER			
+
+				From our editors straight to your inbox			
+
+				Get started by entering your email address below.			
+
+ 
+
+Please enter a valid email address
+
+Subscribe
+
+ 
+
+														by 															
+																Ms. Smith															
+
+Follow Ms. Smith on X
+ 
+
+Ms. Smith (not her real name) is a freelance writer and programmer with a special and somewhat personal interest in IT privacy and security issues. She focuses on the unique challenges of maintaining privacy and security, both for individuals and enterprises. She has worked as a journalist and has also penned many technical papers and guides covering various technologies. Smith is herself a self-described privacy and security freak.
+
+More from this author
+
+newsDow Jones watchlist of high-risk businesses, people found on unsecured database Feb 28, 2019 4 minsnewsRansomware attacks hit Florida ISP, Australian cardiology group Feb 27, 2019 4 minsnewsBare-metal cloud servers vulnerable to Cloudborne flaw Feb 26, 2019 3 minsnewsMeet the man-in-the-room attack: Hackers can invisibly eavesdrop on Bigscreen VR users Feb 21, 2019 4 minsnewsNorth Korean hackers target Russian-based companies Feb 20, 2019 5 minsnews2.7M recorded medical calls, audio files left unprotected on web Feb 19, 2019 4 minsnewsDisastrous cyber attack on email provider wipes US servers and backups Feb 13, 2019 5 minsnewsPopular electric scooters can be remotely hacked Feb 12, 2019 4 mins 
+
+Show me morePopularArticlesPodcastsVideos
+
+feature  15 years in, zero trust remains elusive — with AI rising to complicate the challenge By John LeydenDec 5, 20257 mins
+Access ControlIdentity and Access ManagementZero Trust
+
+brandpost Sponsored by CyberNewsWire SpyCloud Data Shows Corporate Users 3x More Likely to Be Targeted by Phishing Than by Malware By Cyber NewsWire - Paid Press ReleaseDec 5, 20255 mins
+Cloud SecurityCyberattacksCybercrime
+
+news  Coupang breach of 33.7 million accounts allegedly involved engineer insider By 이지현 and  CSO StaffDec 4, 20255 mins
+CyberattacksData BreachE-commerce Services
+
+podcast  Inside Visa’s Cyber Defense: CISO Subra Kumaraswamy on blending AI and Human Defense By Joan GoodchildDec 3, 202527 mins
+Artificial IntelligenceCSO and CISOPhishing
+
+podcast  The Future of Cybersecurity Leadership: AI, Governance & Education | Kevin Powers, Boston College Nov 19, 202523 mins
+CyberattacksCybercrimeRisk Management
+
+podcast  Inside Black Hat: Andy Ellis on vendor buzzwords, AI hype, and the future of the CISO role Nov 12, 202530 mins
+Black HatCSO and CISOCybercrime
+
+video  Inside Visa’s Cyber Defense: CISO Subra Kumaraswamy on blending AI and Human Defense By Joan GoodchildDec 3, 202527 mins
+Artificial IntelligenceCSO and CISOPhishing
+
+video  The Future of Cybersecurity Leadership: AI, Governance & Education | Kevin Powers, Boston College Nov 19, 202523 mins
+CyberattacksCybercrimeRisk Management
+
+video  Inside Black Hat: Andy Ellis on vendor buzzwords, AI hype, and the future of the CISO role By Joan GoodchildNov 12, 202531 mins
+Black HatCSO and CISOCyberattacks
+
+About
+
+About Us
+
+Advertise
+
+Contact Us
+
+Editorial Ethics Policy
+
+Foundry Careers
+
+Reprints
+
+Newsletters
+
+BrandPosts
+
+Policies
+
+Terms of Service
+
+Privacy Policy
+
+Cookie Policy
+
+Copyright Notice
+
+Member Preferences
+
+About AdChoices
+
+Your California Privacy Rights
+
+Privacy Settings
+
+Our Network
+
+CIO
+
+Computerworld
+
+Infoworld
+
+Network World
+
+FacebookXYouTubeGoogle NewsLinkedIn 
+
+© 2025  FoundryCo, Inc. All Rights Reserved.

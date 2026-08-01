@@ -1,0 +1,25 @@
+{
+  "name": "site",
+  "version": "0.1.0",
+  "description": "boikot.xyz",
+  "main": "src/app.jsx",
+  "scripts": {
+    "start": "esbuild src/app.jsx --bundle --serve=localhost:8015 --sourcemap --loader:.md=text --servedir=www/ --outdir=www/build --serve-fallback=www/index.html --define:process.env.VERSION=\\\"$( git rev-parse HEAD | head -c 6 )\\\"",
+    "build": "esbuild src/app.jsx --bundle --sourcemap --loader:.md=text --minify --outdir=www/build --define:process.env.VERSION=\\\"$( git rev-parse HEAD | head -c 6 )\\\"",
+    "render": "npm run build && rm -r rendered && cp -r www rendered && ../backend/src/render.js \"http://localhost:8015\" rendered"
+  },
+  "author": "boikot",
+  "license": "gpl v3",
+  "dependencies": {
+    "esbuild": "^0.19.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-router": "^6.21.1",
+    "react-router-dom": "^6.21.1",
+    "showdown": "^2.1.0",
+    "slugify": "^1.6.6",
+    "styled-components": "^6.1.1",
+    "whatwg-fetch": "^3.6.20"
+  }
+}

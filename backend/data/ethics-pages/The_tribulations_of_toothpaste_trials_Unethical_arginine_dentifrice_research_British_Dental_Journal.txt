@@ -1,0 +1,305 @@
+The tribulations of toothpaste trials: Unethical arginine dentifrice research | British Dental Journal
+
+Skip to main content
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+
+Advertisement
+
+View all journals
+
+Search
+
+Log in
+
+Content
+Explore content
+
+About the journal
+
+Publish with us
+
+Sign up for alerts
+
+RSS feed
+
+nature
+
+british dental journal
+
+opinion
+
+article
+
+                            The tribulations of toothpaste trials: Unethical arginine dentifrice research
+                        
+
+Download PDF
+
+Download PDF
+
+Opinion
+Published: 18 December 2015
+
+The tribulations of toothpaste trials: Unethical arginine dentifrice research
+D. Shaw1, A. Naimi-Akbar2 & A. Astvaldsdottir2 
+
+British Dental Journal
+volume 219, pages 567–569 (2015)Cite this article
+
+20k Accesses
+
+11 Citations
+
+9 Altmetric
+
+Metrics details
+
+Subjects
+
+Clinical trialsDental ethicsDental materials
+
+Key Points
+
+Analyses design flaws and ethical issues affecting Colgate dentifrice trials.
+
+Illustrates the importance of maintaining usual clinical trial standards in dental trials.
+
+Highlights the need to declare potential conflicts of interest when reporting research.
+
+AbstractArginine toothpaste is being promoted as being more efficacious than conventional fluoride-only toothpaste. Recent revelations concerning the design and conduct of the clinical trials conducted on schoolchildren in China and Thailand cast serious doubt on these claims. This paper describes and analyses the ethical and design flaws affecting these studies.
+
+IntroductionIn early 2014 a new type of toothpaste was launched by Colgate. In a substantial advertising campaign in this Journal and elsewhere, the added benefits of this new dentifrice (Colgate Maximum Cavity Protection with Sugar Acid Neutraliser) were communicated to professionals and the public:'Colgate's revolutionary new Sugar Acid Neutraliser technology is supported by eight years of research involving over 14,000 subjects and has been clinically proven to provide enhanced cavity protection versus a regular everyday fluoride toothpaste.'1However, a report published in March 2015 by the Swedish Council on Health Technology Assessment (SBU) casts serious doubt on both the efficacy of arginine-containing toothpaste and the ethical integrity of the research referred to in the advertising.2 In this Opinion piece we examine the ethics and design of these clinical trials and their use in the marketing of this new toothpaste. There are four main ethical issues raised by this research: the unnecessary and unethical use of placebo; the more general weak scientific design of the study; several problems concerning research integrity; and the effects of the publication of this research on consumer and health system decision-making.The trialsIn the SBU report, seven studies were identified. Three of the included studies were deemed to have high risk of bias, whereas only four studies were included in further analysis. All of these four studies claimed to find that this new dentifrice is more efficacious than conventional fluoride toothpaste. The figure of 14,000 participants referred to in the promotion of this new product is either an exaggeration or must include unpublished studies (such as the arginine plus fluoride toothpaste with fluoride-only toothpaste), and the total population from these studies was 7,000 schoolchildren (and around only half of these participants received the new intervention). Two of the four studies analysed by the SBU were conducted in Thailand; one lasted for six months and compared an intervention of fluoride plus arginine dentifrice with a fluoride control,3 and the other compared two different fluoride/arginine interventions with a fluoride control.4 However, in the two studies conducted in China, there was a third placebo arm where children were given toothpaste containing no fluoride (these two studies were virtually identical, except that one used a calcium base for all three dentifrices and the other silica).5,6Three study groups used dentifrices which contained 1) 1.5% arginine and 1450 ppm fluoride as sodium monofluorophosphate (experimental), 2) 1450 ppm fluoride as sodium monofluorophosphate (positive control), and 3) no fluoride (negative control). All three dentifrices were formulated in the same calcium base. The study participants were from three schools in the city of Chengdu, Sichuan Province, China. A total of 446 of 450 recruited subjects completed the study. Of these, 147 were in the experimental, 148 in the positive control, and 151 in the negative control groups. The initial age of the children was 10–12 years (mean 11.4 ± 0.54); 47.5% were female.5Unethical use of placeboIt is a key principle of research ethics that trials should never include a placebo arm when there is already an effective product available.7 Here, it appears that a total of 298 children were deprived of effective fluoride toothpaste for six months, with potentially detrimental effects on their oral health. The effect upon the schoolchildren of receiving the placebo was not assessed in either of the papers, meaning that the harm of this design flaw cannot be quantified.2Furthermore, it is methodologically pointless to include an extra placebo arm when the current gold standard of fluoride toothpaste is being compared with a new alternative, meaning that this harm was scientifically unjustified as well as being contrary to research ethics. While any damage done by this trial to placebo-receiving participants was probably minimal compared to the harms incurred by those receiving placebo in historical HIV trials, this is nonetheless a clear ethical violation. The two studies in China were approved by the Institutional Review Board of Sichuan Province Committee for Oral Health.There are two possible defences against these criticisms. The first is that the children included in the study were unlikely to use fluoride toothpaste at home and water in the area was fluoridated, so the trial was not really disadvantaging them. Even if it is true that children in this part of China do not use fluoride toothpaste regularly, this misses the point about placebos. Would it be ethical for HIV researchers to go to a developing country and have a placebo arm in their trial rather than providing the current gold standard therapy for comparison and justify this by saying there would not normally be any access to drugs? This is precisely the type of unethical research practice that has largely disappeared in the twenty-first century. Had these trials simply compared the new toothpaste with a non-fluoride one, they would rightly have been criticised as both unethical and pointless, as comparison with the current standard treatment is what is relevant. The fact that the placebo arm was in addition to the intervention arm and a current standard arm does not make any difference to this ethical assessment. Another potential rebuttal to the above criticisms would be that the children might have continued to use fluoride toothpaste at home in addition to the supervised brushings at school. If this is true, it indicates very poor trial design and casts doubt on the results.Other design issuesIn addition to the key ethical and methodological flaw of the unnecessary placebo arm, all four of these studies suffered from other design problems which were not detected by the peer review systems of the journals in question. Poor scientific design itself constitutes an ethical issue, as funding used for such research has been largely wasted and the results of badly designed studies can be used to misinform public policy.8The SBU found that the two studies conducted in China had an 'unclear randomisation process' and that randomisation in the Thailand trials was 'somewhat unclear.'2 The only data provided in the China papers is the rather vague statement, 'Subjects meeting the screening criteria were randomly allocated to groups by the study administrator.'5,6There were also issues concerning blinding and instructions to participants. Insufficient information is provided regarding whether they were blinded to the type of toothpaste they were receiving: 'Only one type of dentifrice was assigned per family and additional tubes of dentifrice were available on request from participants.' Furthermore, the studies also did not control for brushing at home in addition to the trial brushing in the classroom: 'Participants were given oral hygiene instruction and advised to brush at least twice per day (morning and evening) with the toothbrush and dentifrice supplied.'5Finally, the SBU also pointed out that 'Dentifrice in intervention and control differed in other aspects apart from arginine' in two of the studies.2 Ultimately, all the studies were subject to moderate bias, and the SBU concluded that there was insufficient evidence to claim that arginine toothpaste is more efficacious than conventional fluoride toothpaste.2Research integrity issuesIn addition to the lack of respect for the principles of research ethics and the poor design of these studies, all four trials raise issues of research integrity. Despite four publications in peer-reviewed journals, not one of the official protocols for the studies has been published, indicating a worrying lack of transparency. Without the protocol to examine, concerns about the ethics and design of the study cannot be properly addressed.In addition, all of the published papers had some authors who had a conflict of interest. For example, of nine authors of the paper published in the Journal of Dentistry, three were employees of Colgate and one had been a consultant for the company.6 That these conflicts were disclosed does not diminish the fact that several of the authors might have been highly biased. Even more worryingly, no conflicts of interest whatsoever are disclosed in the paper in the Journal of Clinical Dentistry, despite the authors being exactly the same as the paper where conflicts were reported.5 This is a major breach of research integrity which is all the more worrying given that the same company that is benefiting from sales of the drug also funded the studies that 'prove' its efficacy.Colgate's responseAs well as publishing a brief response in a Swedish newpaper,9 Colgate published an attempted defence of its trials online:'Colgate-Palmolive rigorously adheres to all regulatory requirements and ethical standards in the research it sponsors. Under internationally recognized standards, the inclusion of non-fluoride toothpaste was justified, as study participants were not exposed to significant additional risk, the research was designed to benefit the study subject population, and there was a compelling scientific reason for the inclusion of the non-fluoride toothpaste.10However, despite Colgate's claim that their research was 'in line with established international standards' it is patently untrue that international norms were respected.10 The Declaration of Helsinki stipulates that the control arm in a trial should always be the current gold standard, regardless of the local standard of care. The 'compelling scientific reason' is not specified in Colgate's response although they do refer to 'the overriding need to improve acceptance of fluoride-containing toothpaste by presenting scientific evidence of its superiority.'10 However, this is not a compelling scientific reason in a trial whose aim is to assess the efficacy of arginine toothpaste, and in any case the evidence regarding the superiority of fluoride toothpaste over non-fluoride toothpaste is already well-established. The fact that there is local resistance to fluoride toothpaste does not mean that a trial using non-fluoride toothpaste is justified. Furthermore, the fact that trial participants received assistance and extra toothbrushing is also problematic. The Declaration of Helsinki stipulates that recipients should receive post-trial access to any intervention that they receive during a trial, which does not seem to have occurred in this case.In terms of conflict of interest, Colgate remarkably declared that 'The involvement of Colgate scientists in our clinical studies does not represent a conflict of interest.... By listing Colgate scientists among the study authors, we make clear their involvement, in the interests of transparency.'10 This statement contradicts the stance of all major medical and dental journals, which clearly state that payment from a sponsor constitutes a conflict of interest that must be declared. Full transparency would dictate declaring this conflict of interest on all publications, which was not done.ConclusionWe hope to have shown that the studies which supposedly establish the efficacy of arginine toothpaste are ethically and methodologically flawed, in addition to concerns about research integrity which also tarnish the studies. As well as the unethical use of an unnecessary placebo arm and failure to report the effects on placebo participants, the studies do not seem to have been properly blinded, the quality of randomisation is unclear, no protocols were published before the studies were conducted, and many of the authors had serious conflicts of interest which were not disclosed in all published articles.In addition to all the other ethical issues raised in this article, it is also worth considering the point that arginine toothpaste is substantially more expensive than normal fluoride toothpaste. This means anyone who believes the misleading claims concerning its efficacy is likely to spend more money on toothpaste, to no added benefit. Furthermore, in any situation where arginine toothpaste is provided for free by public health authorities, public money will be wasted. More robust (and ethical) research is needed into the effectiveness of arginine dentifrice.
+
+ReferencesAdvertorial. The first toothpaste that directly fights sugar acids. Br Dent J 2014; 216: 540.Swedish Council on Health Technology. Arginin för att förebygga karies [Arginin for prevention of caries] Available online at: http://www.sbu.se/upload/Publikationer/Content0/3/Kariespreventiv_effekt_av_arginintillsats_till_fluortandkr%C3%A4m.pdf (accessed November 2015).Kraivaphan P, Amornchat C, Triratana T et al. Two-year caries clinical study of the efficacy of novel dentifrices containing 1.5% arginine, an insoluble calcium compound and 1450 ppm fluoride. Caries Res 2013; 47: 582–590.Article 
+    
+                    Google Scholar 
+                Srisilapanan P, Korwanich N, Yin W et al. Comparison of the efficacy of a dentifrice containing 1.5% arginine and 1450 ppm fluoride to a dentifrice containing 1450 ppm fluoride alone in the management of early coronal caries as assessed using quantitative light-induced fluorescence. J Dent 2013; 41 (Suppl 2): S29–S34.Article 
+    
+                    Google Scholar 
+                Yin W, Hu D Y, Fan X et al. A clinical investigation using quantitative light-induced fluorescence (QLF) of the anticaries efficacy of a dentifrice containing 1.5% arginine and 1450 ppm fluoride as sodium monofluorophosphate. J Clin Dent 2013; 24 Spec no A: A15–A22.PubMed 
+    
+                    Google Scholar 
+                Yin W, Hu D Y, Li X A et al. The anti-caries efficacy of a dentifrice containing 1.5% arginine and 1450 ppm fluoride as sodium monofluorophosphate assessed using quantitative light-induced fluorescence (QLF). J Dent 2013; 41 (Suppl 2): S22–28.Article 
+    
+                    Google Scholar 
+                WMA. Declaration of Helsinki- Ethical Principles for Medical Research Involving Human Subjects, Article 33. Use of placebos. Available online at http://www.wma.net/en/30publications/10policies/b3/ (accessed November 2015).Shaw D, Elger B . The Relevance of Relevance in Research. Swiss Med Week 2013; 143: 10.4414/smw.2013.13792.Tandkrämsjätte experimenterade på barn [Toothpaste giant experimented on children]. Dagens Nyheter (Stockholm) 2015 March 26. Available online at http://www.dn.se/ekonomi/tandkramsjatte-experimenterade-pa-barn/ (accessed November 2015).Colgate. Summary of our comments to the SBU. Colgate, 2015. Available online at http://www.colgateprofessional.dk/LeadershipDK/ProfessionalEducation/ScholarshipAwards/Resources/pdf/EN/summary-of-comments-to-the-sbu-2015-03-31.pdf (accessed November 2015).Download referencesAcknowledgementsANA and AA were co-authors of the SBU report.Author informationAuthors and AffiliationsInstitute for Biomedical Ethics, University of Basel, SwitzerlandD. ShawDepartment of Dental Medicine, Karolinska Institute, Stockholm, SwedenA. Naimi-Akbar & A. AstvaldsdottirAuthorsD. ShawView author publicationsSearch author on:PubMed Google ScholarA. Naimi-AkbarView author publicationsSearch author on:PubMed Google ScholarA. AstvaldsdottirView author publicationsSearch author on:PubMed Google ScholarCorresponding authorCorrespondence to
+                D. Shaw.Additional information
+Refereed Paper
+Rights and permissionsReprints and permissionsAbout this articleCite this articleShaw, D., Naimi-Akbar, A. & Astvaldsdottir, A. The tribulations of toothpaste trials: Unethical arginine dentifrice research.
+                    Br Dent J 219, 567–569 (2015). https://doi.org/10.1038/sj.bdj.2015.950Download citationAccepted: 09 November 2015Published: 18 December 2015Issue date: 18 December 2015DOI: https://doi.org/10.1038/sj.bdj.2015.950Share this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy shareable link to clipboard
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        
+
+This article is cited by
+
+                                        Beyond Streptococcus mutans: clinical implications of the evolving dental caries aetiological paradigms and its associated microbiome
+                                    
+
+N. PhilipB. SunejaL. Walsh
+
+British Dental Journal (2018)
+
+                                        Comment on the paper entitled 'Arginine and caries prevention: A systematic review'
+                                    
+
+British Dental Journal (2017)
+
+                                        Changes in the oral ecosystem induced by the use of 8% arginine toothpaste
+                                    
+
+British Dental Journal (2016)
+
+Download PDF
+
+Advertisement
+
+Explore content
+
+                                    Research articles
+                                
+
+                                    Reviews & Analysis
+                                
+
+                                    News & Comment
+                                
+
+                                    Current issue
+                                
+
+                                    Collections
+                                
+
+Follow us on Facebook
+                            
+
+Follow us on Twitter
+                            
+
+Sign up for alerts
+
+RSS feed
+
+About the journal
+
+                                    Journal Information
+                                
+
+                                    BDJ Portfolio
+                                
+
+                                    Call for Papers
+                                
+
+                                    Open access publishing
+                                
+
+                                    About the Editors
+                                
+
+                                    About the BDA
+                                
+
+                                    CPD
+                                
+
+                                    BDJ Books
+                                
+
+                                    For Advertisers
+                                
+
+                                    Jobs
+                                
+
+                                    Contact
+                                
+
+Publish with us
+
+                                    For Authors
+                                
+
+                                    For Referees
+                                
+
+                                    Language editing services
+                                
+
+Open access funding
+
+Submit manuscript
+
+Search
+
+Search articles by subject, keyword or author
+
+Show results from
+
+All journals
+This journal
+
+Search
+
+                Advanced search
+            
+
+Quick links
+
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+
+                        British Dental Journal
+                    
+                    (Br Dent J)
+                
+
+ISSN 1476-5373 (online)
+        
+
+ISSN 0007-0610 (print)
+        
+
+nature.com sitemap
+
+About Nature Portfolio
+
+About us
+Press releases
+Press office
+Contact us
+
+Discover content
+
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+
+Publishing policies
+
+Nature portfolio policies
+Open access
+
+Author & Researcher services
+
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+
+Libraries & institutions
+
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+
+Advertising & partnerships
+
+Advertising
+Partnerships & Services
+Media kits
+
+Branded
+                        content
+
+Professional development
+
+Nature Awards
+Nature Careers
+Nature 
+                        Conferences
+
+Regional websites
+
+Nature Africa
+Nature China
+Nature India
+Nature Japan
+Nature Middle East
+
+Privacy
+                Policy
+Use
+                of cookies
+
+Your privacy choices/Manage cookies
+                
+
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+
+© 2025 Springer Nature Limited

@@ -1,0 +1,441 @@
+Tescos: the Zug deal is tax avoidance
+
+ 
+
+ 
+
+Toggle navigation
+
+     				Home
+
+     			
+
+ 
+About
+
+Advanced Search
+Richard Murphy
+Policies
+Moderation & GDPR
+Donations
+
+Glossary
+Videos
+
+Accountancy
+Economics
+Green New Deal
+Money
+Questions
+Tax
+
+Downloads
+Top 250 posts
+ 
+
+ 
+
+ Richard Murphy on developing a fairer and sustainable economy
+
+Tescos: the Zug deal is tax avoidance
+Posted on June 1 2008  
+
+I am almost amused by a comment made this morning concerning my analysis of Tesco's financing operation in Zug in Switzerland by Tim Worstall who had this to say:
+
+Richard Murphy of course doesn't agree but then so what? He's in fact completely missed which Treasury is losing from the arrangement, and it ain't the UK one. It's the ones in the countries where the money was lent, not us. And even then, there's nothing illegal or even dodgy about it.
+
+This comment, by the way, came from a man who also said:
+
+There's nothing I can see dodgy about this at all: only repatriated foreign profits are subject to UK tax (at least as far as I know) so not repatriating them isn't tax dodging.
+
+This does, I think, show how little he knows about tax. So let me do him the favour of explaining how this works, and why it is abusive.
+The substance of the deal that Tescos has done looks like this:
+
+What is clear is that Tescos, which is a UK based operation, has decided to fund an overseas operation. It can do so using its shareholder's funds (which can only be accessed ultimately though the UK operation) either by providing loan capital or share capital. If the destination country has thin capitalisation rules then it is likely to be a mix of both.
+In that case the interest paid overseas would be a deduction for tax there, and would be income in the UK, where the funds ultimately belong. These should happen contemporaneously i.e. the deduction in one should be matched by the receipt in the other. If there are differing tax rates at which deduction and charge are made then there may be a tax gain or loss: that is a cost of doing business internationally. The remaining profits out of which dividends may be paid are subject to local tax on profits and also to tax on profits when (and if) received in the UK if the UK rate is higher. There is deferral of UK tax until the profit is distributed overseas, assuming a genuine trade is being undertaken. That is acceptable under UK tax rules, and is I think, tax compliant as well.
+But this is not what has happened. Tesco has created this structure:
+
+This achieves the same result as the first structure: finance is provided by Tesco plc to Tesco Overseas. At the time it was done it was, I presume, legal, although I suspect this may have changed now (see below). But now note what Professor David Ulph says tax avoidance is:
+
+Using artificial or contrived methods of adjusting taxpayers' social, economic or organisational affairs to reduce their tax liability in accordance with the law while not affecting the economic substance of the transactions
+
+That, I think, describes what I think Tescos has done here. Let's be clear: Cheshunt Overseas LLP is a UK entity trading in Zug, Switzerland. Except, let's also be clear. It does not trade in any real way there. For a start it has no employees. So shallow is the entity that it does not even pay its own audit fee. As the Guardian notes:
+
+When the Guardian visited, the only evidence of the office was a local accountant's brass plate.
+
+Which is what I would expect. This is a letter-box operation. But there is much else to note:
+1) Note that the £1 billion of funds provided to Cheshunt Overseas LLP is provided in the form of capital. There is no 'arms length principle' on capital: a return does not have to be paid. This is, I suspect, deliberate: it looks like there was a desire to avoid a tax impact from this deal at the top level of Tesco's corporate structure. Subscribing £1 billion in capital allows this. Amazingly, that is about 20% of the entire issued capital of Tesco right now, to give this some perspective.
+2) But note the funds are provided onwards solely in the form of loans: interest can be charged on that. Again, that looks entirely deliberate to me. It provides a way to tax arbitrage a saving for Tesco by getting a deduction of interest paid in Tesco Overseas (wherever that might be) at a higher tax rate than is suffered in Zug: the differential is nothing short of a government subsidy to Tescos. I think this is the aim of the avoidance exercise being undertaken here.
+3) Note that 0.2% of Cheshunt Overseas LLP is owned by its two designated (and so 'managing') partners, both based in Hungary. 99.8% is controlled in Ireland, with a lax foreign company regime (which is a deliberate part of its own tax haven structure designed to induce relocation of taxable profits from other countries). But control is vested in Hungary, although almost no profit goes there.
+4) The interest received in Zug is lightly taxed, at under 6%. But there is almost nowhere in the world that offers tax rates as low as that. We do not know where the funds are used by Tesco. But if they're used in the USA the tax rate for the interest deduction is at least 35%. In Thailand the rate is likely to be 30% but certainly won't be less than 15%. It seems likely that the Private Eye claim that tax is being saved, or at least deferred, at up to 24% is justified in this case as a result. The saving is £16 million to date in the Eye's opinion, and it's easy to replicate the calculation.
+5) The structure adopted is, I am sure, intended to get round UK controlled foreign company rules. How do I know? Well note that this was in the Budget Notes published in March this year:
+Partnership and trust avoidance in the controlled foreign companies (CFC) legislation
+
+The Government announced action, effective from today, to counter avoidance schemes used by some international groups of companies to circumvent the application of the CFC legislation through the use of trusts and partnerships.
+Draft legislation and the draft explanatory note have been published on the HMRC website today, prior to inclusion in Finance Bill 2008.
+
+I think this is targeted at schemes like this, and for one good reason: they are abusive. The arrangement might therefore have already been closed, but while it was in use it was considered unacceptable.
+6) Did the UK Treasury lose as a result? Yes, of course they did: I think this 'artificial and contrived method of adjusting Tesco's economic and organisational affairs was intended to reduce their tax liability in accordance with the law while not affecting the economic substance of the transactions' and as such constituted tax avoidance. And who suffered? Well despite what Tim Worstall says, the UK did lose. The overseas exchequers did not if their laws allowed deduction of the loan interest paid to Zug under their thin capitalisation rules. Ireland, Hungary and Zug did not lose: their laws are simply being used and in at least two cases they design them with that intent. So it is only the UK who lose.
+This begs the question, Is a £16 million loss to the UK material? Yes, it is. For example, Tescos boasts on its own web site of the £118 million it has donated in 'free' computer equipment for schools over a period of 16 years. It places great store on this activity but it's (very crudely) £7.3 million a year. In the two years it has run Cheshunt Overseas LLP it has recovered more than that a year in tax, at direct cost to the UK government. Add in the stamp duty Tescos says it has saved on its Cayman deals (£23 million) and already one third of all those computers 'given' away has been paid for by tax avoidance at cost to the UK government over the last couple of years or so. I call that very material indeed in the context of Tescos.
+I think this makes Tesco a clear example of a company that claims to be acting as if a responsible corporate citizen when its behaviour with regard to tax suggests it is not. And I suspect that it has relied on the fact that the structure is incredibly obscure to hide that fact.
+But what has Tesco said to the Guardian on its coverage of this structure, which was published today? They said:
+
+The Guardian has already admitted a serious libel against Tesco after the last time it conducted an inept investigation into our tax affairs. It appears from these further allegations that the paper is waging a vendetta against Tesco in order to, somehow, justify this earlier libel.
+The truth is that Tesco pays a disproportionately high amount of tax in the UK - around £1bn a year including corporation tax, business rates and employer's NIC. As well as being materially inaccurate, the continued attempts to portray Tesco as a business devoted to avoiding UK tax are wholly and deliberately misleading.
+The legal case against the Guardian is ongoing which limits what we can say, but the information put to us continues to show a complete lack of knowledge when it comes to tax. It is also riddled with inaccuracies and designed to portray as unethical what is in fact entirely legitimate and commonplace funding of international companies by successful global businesses based in Britain.
+
+I am afraid these statements are, in my opinion, wrong. Tescos does appear on this evidence to be a business that is avoiding UK tax. It has avoided stamp duty and corporation tax, and has set up immensely complex structures to do so. Which, incidentally, is exactly what the Guardian alleged.
+The claim that Tescos pays a 'disproportionately high amount of tax in the UK' is also wrong in my opinion. It has not paid more than £1 billion that might reasonably have been expected of it over the last 9 years.
+But most of all, the company has shown itself to be deeply confused on ethical issues. Legal conduct can be unethical. What is legal can become illegal in tax (and it looks like this is happening in the case of the scheme Tescos have been operating - no doubt precisely because it is considered aggressive tax avoidance by HM Revenue & Customs) and that fact that something is commonplace has never legitimised it.
+Tescos needs to back off now, realise it is digging an ever deeper pit for itself in PR terms, and get on with what people would wish it to do, which is to pay its taxes, just as most people in this country do.
+Is it much to ask?
+ 
+Thanks for reading this post.You can share this post on social media of your choice by clicking these icons:There are links to this blog's glossary in the above post that explain technical terms used in it. Follow them for more explanations. You can subscribe to this blog's daily email here.And if you would like to support this blog you can, here: 
+
+2
+
+2 Responses
+
+Explaining Tesco and Tax. says: 
+
+June 1 2008 at 10:56 am 
+[…] Richard Murphy explains it all for me. […]		
+
+ 
+
+Tax Research UK / Tesco: tax avoiding, again (this time it’s Luxembourg) says: 
+
+June 11 2008 at 6:58 pm 
+[…] this time based in Luxembourg. I guess that adds variety to the one revealed a fortnight ago in Zug, or the one about which Tesco is suing the Guardian, based in […]		
+
+ 
+
+Richard Murphy
+
+                Read more about me
+
+            Support This Site
+        
+
+            If you like what I do please support me on Ko-fi using credit or debit card or PayPal
+        
+ Buy me a coffee!
+
+Archives
+
+Select Month
+ December 2025  (27)
+ November 2025  (157)
+ October 2025  (170)
+ September 2025  (163)
+ August 2025  (171)
+ July 2025  (209)
+ June 2025  (173)
+ May 2025  (159)
+ April 2025  (151)
+ March 2025  (160)
+ February 2025  (129)
+ January 2025  (134)
+ December 2024  (108)
+ November 2024  (108)
+ October 2024  (118)
+ September 2024  (114)
+ August 2024  (113)
+ July 2024  (159)
+ June 2024  (160)
+ May 2024  (133)
+ April 2024  (123)
+ March 2024  (104)
+ February 2024  (101)
+ January 2024  (101)
+ December 2023  (83)
+ November 2023  (128)
+ October 2023  (102)
+ September 2023  (102)
+ August 2023  (79)
+ July 2023  (91)
+ June 2023  (94)
+ May 2023  (109)
+ April 2023  (98)
+ March 2023  (133)
+ February 2023  (73)
+ January 2023  (76)
+ December 2022  (50)
+ November 2022  (61)
+ October 2022  (85)
+ September 2022  (68)
+ August 2022  (80)
+ July 2022  (78)
+ June 2022  (78)
+ May 2022  (76)
+ April 2022  (83)
+ March 2022  (90)
+ February 2022  (81)
+ January 2022  (84)
+ December 2021  (94)
+ November 2021  (96)
+ October 2021  (91)
+ September 2021  (79)
+ August 2021  (83)
+ July 2021  (94)
+ June 2021  (102)
+ May 2021  (90)
+ April 2021  (101)
+ March 2021  (102)
+ February 2021  (97)
+ January 2021  (101)
+ December 2020  (86)
+ November 2020  (103)
+ October 2020  (109)
+ September 2020  (98)
+ August 2020  (96)
+ July 2020  (144)
+ June 2020  (143)
+ May 2020  (145)
+ April 2020  (162)
+ March 2020  (121)
+ February 2020  (77)
+ January 2020  (90)
+ December 2019  (104)
+ November 2019  (105)
+ October 2019  (75)
+ September 2019  (93)
+ August 2019  (86)
+ July 2019  (67)
+ June 2019  (68)
+ May 2019  (78)
+ April 2019  (74)
+ March 2019  (85)
+ February 2019  (68)
+ January 2019  (75)
+ December 2018  (59)
+ November 2018  (67)
+ October 2018  (63)
+ September 2018  (72)
+ August 2018  (74)
+ July 2018  (67)
+ June 2018  (80)
+ May 2018  (105)
+ April 2018  (87)
+ March 2018  (87)
+ February 2018  (74)
+ January 2018  (105)
+ December 2017  (81)
+ November 2017  (77)
+ October 2017  (86)
+ September 2017  (84)
+ August 2017  (66)
+ July 2017  (91)
+ June 2017  (84)
+ May 2017  (85)
+ April 2017  (68)
+ March 2017  (73)
+ February 2017  (84)
+ January 2017  (81)
+ December 2016  (92)
+ November 2016  (100)
+ October 2016  (100)
+ September 2016  (91)
+ August 2016  (73)
+ July 2016  (85)
+ June 2016  (86)
+ May 2016  (73)
+ April 2016  (91)
+ March 2016  (102)
+ February 2016  (90)
+ January 2016  (90)
+ December 2015  (107)
+ November 2015  (101)
+ October 2015  (81)
+ September 2015  (94)
+ August 2015  (118)
+ July 2015  (103)
+ June 2015  (101)
+ May 2015  (69)
+ April 2015  (107)
+ March 2015  (82)
+ February 2015  (116)
+ January 2015  (93)
+ December 2014  (87)
+ November 2014  (63)
+ October 2014  (89)
+ September 2014  (90)
+ August 2014  (77)
+ July 2014  (81)
+ June 2014  (85)
+ May 2014  (75)
+ April 2014  (47)
+ March 2014  (68)
+ February 2014  (93)
+ January 2014  (92)
+ December 2013  (86)
+ November 2013  (81)
+ October 2013  (109)
+ September 2013  (157)
+ August 2013  (71)
+ July 2013  (111)
+ June 2013  (135)
+ May 2013  (183)
+ April 2013  (142)
+ March 2013  (161)
+ February 2013  (91)
+ January 2013  (100)
+ December 2012  (85)
+ November 2012  (127)
+ October 2012  (121)
+ September 2012  (112)
+ August 2012  (116)
+ July 2012  (109)
+ June 2012  (102)
+ May 2012  (127)
+ April 2012  (133)
+ March 2012  (141)
+ February 2012  (126)
+ January 2012  (111)
+ December 2011  (92)
+ November 2011  (115)
+ October 2011  (119)
+ September 2011  (116)
+ August 2011  (110)
+ July 2011  (116)
+ June 2011  (135)
+ May 2011  (122)
+ April 2011  (113)
+ March 2011  (185)
+ February 2011  (149)
+ January 2011  (135)
+ December 2010  (144)
+ November 2010  (206)
+ October 2010  (152)
+ September 2010  (175)
+ August 2010  (143)
+ July 2010  (84)
+ June 2010  (147)
+ May 2010  (171)
+ April 2010  (116)
+ March 2010  (149)
+ February 2010  (162)
+ January 2010  (133)
+ December 2009  (152)
+ November 2009  (148)
+ October 2009  (156)
+ September 2009  (197)
+ August 2009  (175)
+ July 2009  (113)
+ June 2009  (177)
+ May 2009  (127)
+ April 2009  (153)
+ March 2009  (188)
+ February 2009  (138)
+ January 2009  (101)
+ December 2008  (102)
+ November 2008  (136)
+ October 2008  (159)
+ September 2008  (142)
+ August 2008  (99)
+ July 2008  (82)
+ June 2008  (79)
+ May 2008  (105)
+ April 2008  (70)
+ March 2008  (113)
+ February 2008  (115)
+ January 2008  (113)
+ December 2007  (70)
+ November 2007  (97)
+ October 2007  (98)
+ September 2007  (80)
+ August 2007  (85)
+ July 2007  (85)
+ June 2007  (101)
+ May 2007  (82)
+ April 2007  (64)
+ March 2007  (76)
+ February 2007  (51)
+ January 2007  (60)
+ December 2006  (58)
+ November 2006  (59)
+ October 2006  (44)
+ September 2006  (48)
+ August 2006  (32)
+ July 2006  (57)
+ June 2006  (11)
+ January 2005  (2)
+
+Categories
+
+Categories
+AccountancyAccountingAccounting for environmental changeAccounting StreamsAccountingWEBAfricaAge of AggressionAIAmnestyAppleArgument of the dayAuditingBankingBarclaysBenefitsBermudaBig 4Black Lives MatterBloggingBondsBondsBriefingsBudgetBVICapital Gains TaxCaymanCBICharityCity of LondonCity UnivesityCode of ConductCoffersCompanies HouseConDemsConservativesCooperativesCoronavirusCorplinkCorporate Accountability NetworkCorporation TaxCorruptionCountry-by-countryCourageous StateCSRDeliciousDeloittesDennis HowlettDevelopmentDirty SecretsDomicileEconomic dataEconomic ideasEconomic justiceEconomic mythsEconomic questionsEconomic truthsEconomicsEconomics of the real worldEducationElectionEnvironmentErnst & YoungEthicsEU STDEuropeEventsFair Tax MarkFair Tax PledgeFAQsFascismFinance for the FutureFinancial Secrecy IndexFlat taxFoot ReviewFree speechG20GAntiPGlossaryGreen New DealGreensGuernseyHealthHistory of economic thoughtHMRCHow will you pay for it?IASBICAEWIdeas in political economyIF@G8IFRS 8IFSIMFIndiaInequalityInformation exchangeInheritance TaxInstitute for Fiscal StudiesInstitute for Fiscal Studies theIrelandIsle of ManJerseyJoy of TaxJurisprudenceKPMGLabourLand value taxationLawyersLiechtensteinLocal GovernmentLuxembourgMaking Poverty RealityMaking Tax WorkManagementMicrosoftMile End Road EconomistsModern monetary theoryMoney for NothingMythsNeoliberalismNetherlandsNeurodiversityNEWNew CategoryNew Deal BankNew orderNew thinkingNHSNottingham UniversityOECDOffice for Tax ResponsibilityOver here and under taxedParliamentary ReformPensionsPhotosPodcastPoliticsPolitics of CarePolitivsPostersPractice managementPre-Budget ReportPrivate equityProgressive TaxationPWCQuantum economicsQuestion of the DayReformRegulationRichard MurphyScotlandSecondary lendingSecrecy jurisdictionsSheffield UniversitySmall businessSovereign Wealth FundsSTARSSummariesSustainable cost accountingSwitzerlandTACS - Corporate TaxationTACs - EconomicsTACS - MethodologyTACs - Tax After CoronavirusTACs - Tax and SocietyTACS - Tax and WealthTask ForceTask Force on Financial IntegrityTask Force on Financial Integrity and Economic DevelopmTax avoidanceTax complianceTax evasionTax gapTax HavensTax justiceTax Justice NetworkTax managementTax Payers AllianceTax planningTax reformsTax Reporting StandardsTax Research TVTax spilloversTax to Save the EnvironmentTaxing Wealth ReportThe AccountThe NationalTIEATIEAsTransaction taxTransaction TaxesTransfer PricingTransparencyTrustsTUCUKUK UncutUncategorizedUnitary taxationUniversity of SheffieldUSAVATWalesWealth seriesWealth taxWikiYouTube 
+
+                            Newsletter signup
+                        
+
+                            Get a daily email of my blog posts.
+                        
+
+Email
+
+Name
+
+Last name
+
+Please wait...
+
+Subscribe 
+
+Thank you for sign up!
+
+Podcast
+
+Follow me
+
+LinkedIn
+LinkedIn
+Mastodon
+@RichardJMurphy
+BlueSky
+@richardjmurphy.bsky.social
+
+ 
+
+Tax Research UK Blog is written by Richard Murphy unless otherwise stated and published by Tax Research LLP under a Creative Commons Attribution-NonCommercial 3.0 Unported License.
+Design by Andy Moyle 
+
+Site Menu
+
+Home
+About
+
+Publications
+Videos
+RSS Feed
+
+Tax Research UK Cookies Policy
+Our Website uses cookies to improve your experience.  Please visit our Private: Data Protection & Cookie Policy page for more information about cookies and how we use them. Close
+
+ Skip to content
+
+Open toolbar
+
+Accessibility Tools
+ 
+
+Accessibility Tools
+
+Increase TextIncrease Text 
+
+Decrease TextDecrease Text 
+
+GrayscaleGrayscale 
+
+High ContrastHigh Contrast 
+
+Negative ContrastNegative Contrast 
+
+Light BackgroundLight Background 
+
+Links UnderlineLinks Underline 
+
+Readable FontReadable Font 
+
+Reset
+Reset

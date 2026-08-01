@@ -1,0 +1,916 @@
+import React from "react";
+import styled, { css } from "styled-components";
+import slugify from "slugify";
+import { useParams } from "react-router";
+import { Link } from "react-router-dom";
+import "whatwg-fetch";
+import { Helmet } from "react-helmet";
+
+import boikot from '../../boikot.json';
+import { getKey, Card, CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack, Row, ResizingInput } from "./components.jsx";
+import { Company, CompanyHeader } from "./companies.jsx";
+
+const initialState = {
+    names: [],
+    comment: "",
+    sources: {
+        "1": "",
+    },
+    sourceNotes: {
+        "1": "",
+    },
+    tags: [],
+    score: "",
+    ownedBy: [],
+    logoUrl: "",
+    siteUrl: "",
+    updatedAt: (new Date()).toISOString(),
+};
+
+const getInitialEntryState = key => {
+    const keyCompanyData = boikot.companies[key] || initialState;
+    return { ...initialState, ...keyCompanyData };
+};
+
+function tojson(state) {
+    const result = {
+        key: getKey(state),
+        ...state,
+        sources: Object.fromEntries(Object.entries(state.sources).filter(([k, v]) => v)),
+        sourceNotes: Object.fromEntries(Object.entries(state.sourceNotes).filter(([k, v]) => v)),
+        ownedBy: state.ownedBy || null,
+        score: parseFloat(state.score),
+    };
+    return `"${getKey(state)}": ` +
+        `${JSON.stringify(result, null, 4)},`;
+}
+
+function safeJSONParse(s) {
+    try {
+        return JSON.parse(s);
+    } catch {
+        return {};
+    }
+}
+
+function makeSources(comment, oldSources) {
+    const matches = comment.match(/\[(\d+)\]/g) ?? [];
+    const keys = [
+        ...Object.keys(oldSources),
+        ...matches.map( m => m.match(/\d+/)[0] )
+    ];
+    return keys.reduce( (res,key) =>
+        ({...res, [key]: oldSources[key] ?? ""}), {} );
+}
+
+const sortSources = setState => () => setState( state => {
+    const matches = state.comment.match(/\[(\d+)\]/g) ?? [];
+    const keys = matches.map( m => +m.match(/\d+/)[0] );
+
+    const newKeyMap = {};
+    for( const key of keys ) {
+        if( !newKeyMap[key] )
+            newKeyMap[key] = Object.keys(newKeyMap).length + 1;
+    }
+
+    const newSources = {};
+    const newSourceNotes = {};
+    let newComment = state.comment;
+    for( const key of keys ) {
+        newComment = newComment.replace(
+            `[${key}]`, `[%${newKeyMap[key]}]`
+        );
+        newSources[newKeyMap[key]] = state.sources[key];
+        newSourceNotes[newKeyMap[key]] = state.sourceNotes[key];
+    }
+    for( const key of keys ) {
+        newComment = newComment.replace(
+            `[%${newKeyMap[key]}]`, `[${newKeyMap[key]}]`
+        );
+    }
+
+    return { ...state, comment: newComment, sources: newSources, sourceNotes: newSourceNotes };
+});
+
+function generatePrompt( state ) {
+
+    const companyName = state.names[0];
+    const sourceInfo = Object.entries(state.sourceNotes).map( ([ key, note ]) =>
+        `Source [${key}]: ${note}`
+    ).join("\n");
+
+    return `
+You are an investigative journalist looking into the ethical track record of ${companyName}. You have collected some information about the company and now your task is to compile the information into a two-sentence company ethics report that can be published online.
+
+Here are some examples of two-sentence company ethics reports you have written in the past:
+
+- ${boikot.companies.apple.comment}
+
+- ${boikot.companies.bbc.comment}
+
+Below is the information you have collected about ${companyName} from various sources.
+
+${sourceInfo}
+
+Please summarise this information into a two-sentence summary of the ethics of ${companyName}, like the examples above.
+- Begin with "${companyName} is a " and mention the country the company comes from
+- Only use the information above in your summary.
+- Make sure you include information from all the sources.
+- After you include information from a given source, include its citation number eg. [1], [2] or [3].
+- Our citation engine is not that smart, so if you want to add 2 citiations together, do it like this: [4][5], not like this: [4, 5].
+- Keep your summary succinct like the examples.
+- Don't include positive statements about the company that aren't related to specifically ethical actions.
+- Respond with your two-sentence ethics summary only and no other text.
+    `;
+}
+
+const getRefKey = ref =>
+    ref.innerHTML.match(/\d+/)[0];
+
+const handlePaste = setState => e => {
+    const pasteHTML = e.clipboardData.getData('text/html');
+    const dummyP = document.createElement("p");
+    dummyP.innerHTML = pasteHTML;
+
+    const refs = [ ...dummyP.querySelectorAll(
+        "sup.reference a"
+    ) ];
+
+    const refMap = refs.reduce( (res,ref) => ({
+        ...res,
+        [ getRefKey(ref) ]: ref.href,
+    }), {} );
+
+    console.log(refMap);
+};
+
+const Entry = styled.div`
+    display: grid;
+    gap: .5rem;
+    input, textarea {
+        font-size: .9rem;
+        ${ props => css`border-color: ${
+            props.$valid && "var(--success)"
+        }` }
+    }
+    ${ props => css`color: ${props.$valid && "var(--success)"}` }
+`;
+
+const ifCtrlC = f => e =>
+    (e.ctrlKey || e.metaKey) && e.key == "c" && f();
+
+const ifEnter = f => e =>
+    e.key == "Enter" && f(e);
+
+const lastKey = obj =>
+    Object.keys(obj)[Object.keys(obj).length - 1];
+
+const nextKey = obj =>
+    parseFloat(lastKey(obj) ?? 0) + 1
+
+const insertIntoString = ( originalString, insertIndex, insertionString ) =>
+    originalString.slice(0, insertIndex) +
+    insertionString +
+    originalString.slice(insertIndex);
+
+function mergeArrays( array1, array2 ) {
+    return [ ...(array1 || []), ...(array2 || []) ];
+}
+
+function mergeSources( sources1, sources2 ) {
+    const maxSource1 = Math.max(0, ...Object.keys(sources1 || {}));
+    const adjustedSources2 = Object.fromEntries(
+        Object.entries(sources2 || {}).map(([k, v]) => [+k + maxSource1, v])
+    );
+    return { ...(sources1 || {}), ...adjustedSources2 };
+}
+
+function mergeJSON( existingCompanyData, newData ) {
+    return {
+        ...existingCompanyData,
+        ...newData,
+        names: mergeArrays( existingCompanyData?.names, newData?.names ),
+        tags: mergeArrays( existingCompanyData?.tags, newData?.tags ),
+        sources: mergeSources( existingCompanyData?.sources, newData?.sources ),
+        sourceNotes: mergeSources( existingCompanyData?.sourceNotes, newData?.sourceNotes ),
+    };
+}
+
+const searchEcosia = searchQuery => `https://www.ecosia.org/search?q=${encodeURIComponent(searchQuery)}`;
+const makeWikipediaSearchURL = companyName => searchEcosia(companyName + " wikipedia");
+const makeUnethicalSearchURL = companyName => searchEcosia(companyName + " unethical");
+const makeScandalSearchURL = companyName => searchEcosia(companyName + " scandal");
+const makeGoogleSearchURL = companyName => `https://www.google.com/search?q=${encodeURIComponent(companyName)}%20unethical%20-AI`;
+const makeCompanyReportSearchURL = companyName => searchEcosia(companyName + " company report");
+const makeViolationTrackerSearchURL = companyName => `https://violationtracker.goodjobsfirst.org/?company=${encodeURIComponent(companyName)}`
+const makeViolationTrackerUKSearchURL = companyName => `https://violationtrackeruk.goodjobsfirst.org/?company=${encodeURIComponent(companyName)}`
+const makeViolationTrackerGlobalSearchURL = companyName => `https://violationtrackerglobal.goodjobsfirst.org/?company_op=starts&company=${encodeURIComponent(companyName)}`
+const makeBlueskySearchURL = companyName => `https://bsky.app/search?q=${encodeURIComponent(companyName)}%20unethical`
+const makeEthicaldotorgSearchURL = companyName => `https://ethical.org.au/search?q=${encodeURIComponent(companyName)}`
+const makeCELIURL = companyName => `https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain#list`;
+const makeBDSURL = companyName => `https://masjidalaqsa.com/boycott-israeli-products-brands-list`;
+const makeWikiCorporatesURL = companyName => `https://www.wikicorporates.org/mediawiki/index.php?search=${encodeURIComponent(companyName)}&title=Special%3ASearch&go=Go`;
+const makeLawyerIncURL = companyName => `https://lawyerinc.com?s=${encodeURIComponent(companyName)}`;
+ 
+export function SearchLinks({ state }) {
+    if( !state.names?.length ) return null;
+
+    const searchUrls = [
+        [ "📑  search for wikipedia page", makeWikipediaSearchURL(state.names[0]) ],
+        [ "👺  search for unethical practices", makeUnethicalSearchURL(state.names[0]) ],
+        [ "😮  search for scandals", makeScandalSearchURL(state.names[0]) ],
+        [ "🔎  search google", makeGoogleSearchURL(state.names[0]) ],
+        [ "🧑‍💼  search for company report", makeCompanyReportSearchURL(state.names[0]) ],
+        [ "📈  search violation tracker", makeViolationTrackerSearchURL(state.names[0]) ],
+        [ "📉  search violation tracker uk", makeViolationTrackerUKSearchURL(state.names[0]) ],
+        [ "🌍  search violation tracker global", makeViolationTrackerGlobalSearchURL(state.names[0]) ],
+        [ "🦋  search bluesky", makeBlueskySearchURL(state.names[0]) ],
+        [ "✅  search ethical.org.au", makeEthicaldotorgSearchURL(state.names[0]) ],
+        [ "🇷🇺  check operations in russia", makeCELIURL(state.names[0]) ],
+        [ "🇵🇸  check BDS status", makeBDSURL(state.names[0]) ],
+        [ "🌐  check WikiCorporates", makeWikiCorporatesURL(state.names[0]) ],
+        [ "🧑‍⚖️  check lawyerinc.com", makeLawyerIncURL(state.names[0]) ],
+    ];
+
+    const openAll = () => searchUrls.forEach( ([ _, url ]) => window.open(url) );
+
+    return <FlexRow style={{ justifyContent: "right" }}>
+        { searchUrls.map(([ label, url ]) =>
+            <Link to={url} target="_blank" key={label}>
+                <PillButton $outline $small>
+                    { label }
+                </PillButton> 
+            </Link>
+        ) }
+        <PillButton onClick={openAll} $small>
+            📚  open all
+        </PillButton> 
+    </FlexRow>;
+}
+
+
+function SourceRow({ state, sourceKey, setSource, setSourceNote, setDragging, reorderSources, onChange }) {
+    const [draggable, setDraggable] = React.useState(false);
+    const [focus, setFocus] = React.useState(null);
+    const key = sourceKey;
+
+    const gridTemplateColumns =
+        focus === "url" ? "1.5rem calc(80% - 1.5rem) calc(20% - 1.32rem) 1.32rem" :
+        (focus === "note" || state.sourceNotes[key]) ? "1.5rem calc(20% - 1.5rem) calc(80% - 1.32rem) 1.32rem" : 
+        "1.5rem calc(50% - 1.5rem) calc(50% - 1.32rem) 1.32rem";
+
+    return <Entry
+        $valid={!!state.sources[key] && !!state.sourceNotes[key]}
+        style={{ display: "grid", gridTemplateColumns, alignItems: "center", cursor: "grab", gap: "0", transition: "grid-template-columns 0.16s" }}
+        onDragEnter={e => e.preventDefault() + reorderSources(sourceKey)}
+        onDragOver={e => e.preventDefault()}
+        onDrop={e => e.preventDefault() + setDragging(null) + setDraggable(false)}
+        onDragStart={e => setDragging(sourceKey)}
+        onDragEnd={e => e.preventDefault() + setDragging(null) + setDraggable(false)}
+        draggable={!!draggable}
+    >
+        <span> {key} </span>
+        <input
+            value={state.sources[key]}
+            placeholder={`Paste the link for source [${key}] here`}
+            style={{ textOverflow: "ellipsis", minWidth: "5rem", borderRadius: "1rem 0 0 1rem", borderRight: "none" }}
+            onChange={e => setSource(key)(e) + onChange?.()}
+            onDrop={e => e.preventDefault()}
+            onFocus={() => setFocus("url")}
+            onBlur={() => setFocus(null)} />
+        <input
+            value={state.sourceNotes[key]}
+            placeholder={`Summary of source [${key}]`}
+            style={{ textOverflow: "ellipsis", minWidth: "5rem", borderRadius: "0 1rem 1rem 0", borderLeft: "1px solid #fff4" }}
+            onChange={setSourceNote(key)}
+            onDrop={e => e.preventDefault()}
+            onFocus={e => setFocus("note") + e.target.select()}
+            onBlur={() => setFocus(null)} />
+        <Icon i="grip"
+            style={{ opacity: 0.32, justifySelf: "end", userSelect: "none", padding: "0.8rem 0 0.6rem 1rem", height: "100%" }}
+            onPointerDown={setDraggable}
+            onPointerUp={e => setDraggable(false)}
+            draggable="false"
+        />
+    </Entry>;
+}
+
+
+function Toast({ children }) {
+    return <div
+        style={{
+            position: "fixed",
+            bottom: 0,
+            right: 0,
+            padding: "2rem",
+            fontSize: "0.8rem",
+        }}>
+        <Card style={{ minWidth: "16rem", padding: "0.8rem" }}>
+            { children }
+        </Card>
+    </div>;
+}
+
+
+const flattenGotSources = gotSources =>
+    Object.entries(gotSources).reduce( (res, [key, sources]) => [...res, ...sources.map(s => ({...s, key }))], [] );
+
+
+export function Jsoner() {
+    const { key } = useParams();
+    const [state, setState] = React.useState(getInitialEntryState(key));
+    const textareaRef = React.useRef(null);
+    const showSources = !!Object.keys(state.sources).length;
+    const [dragging, setDragging] = React.useState(null);
+    const [gotSources, setGotSources] = React.useState(null);
+    const [backendUp, setBackendUp] = React.useState(false);
+    const [toastMessage, setToastMessage] = React.useState(false);
+    const [toastMessageClearTimeout, setToastMessageClearTimeout] = React.useState(null);
+
+    React.useEffect( () => {(async () => {
+        setToastMessage("Connecting to backend...");
+        const response = await fetch(
+            "http://localhost:8014/check",
+        );
+        if( response.status == 200 ) setBackendUp(true) + setToastMessage("Connected to backend ok!");
+        else setToastMessage("Could not connect to backend");
+        window.onbeforeunload = () => "";
+    })()}, [])
+    React.useEffect( () => {
+        clearTimeout(toastMessageClearTimeout);
+        setToastMessageClearTimeout(setTimeout(() => setToastMessage(""), 3500));
+    }, [toastMessage])
+
+    const setComment = e =>
+        setState( oldState => (
+            {
+                ...oldState,
+                comment: e.target.value,
+                sources: makeSources(e.target.value, oldState.sources),
+            }
+        ));
+
+    const addSource = () =>
+        setState( oldState => ({
+            ...oldState,
+            sources: {
+                ...oldState.sources,
+                [nextKey(oldState.sources)]: "",
+            },
+        }) );
+
+    const setSource = key => e =>
+        setState( oldState => ({
+            ...oldState,
+            sources: {
+                ...oldState.sources,
+                [key]: e.target.value,
+            },
+        }) );
+
+    const setSourceNote = key => e =>
+        setState( oldState => ({
+            ...oldState,
+            sourceNotes: {
+                ...oldState.sourceNotes,
+                [key]: e.target.value,
+            },
+        }) );
+
+    const setStateField = fieldName => e =>
+        setState( oldState => ({
+            ...oldState,
+            [fieldName]: e.target.value,
+        }) );
+
+    const addToStateList = fieldName => e =>
+        setState( oldState => ({
+            ...oldState,
+            [fieldName]: [...oldState[fieldName], e.target.value],
+        }) );
+
+    const removeFromStateList = fieldName => i =>
+        setState( oldState => ({
+            ...oldState,
+            [fieldName]: oldState[fieldName].filter( (_,j) => j != i ),
+        }) );
+
+    const onMergeJSONClick = json => {
+        try {
+            const newData = JSON.parse(json);
+            setState( oldState => mergeJSON( oldState, newData ) );
+        } catch(error) {
+            alert("Could not parse JSON 😩");
+        }
+    };
+
+    const swapSources = (source, target) => {
+        if( source === target) return;
+
+        [ state.sources[source], state.sources[target] ] =
+            [ state.sources[target] || "", state.sources[source] || "" ];
+
+        [ state.sourceNotes[source], state.sourceNotes[target] ] =
+            [ state.sourceNotes[target] || "", state.sourceNotes[source] || "" ];
+
+        state.comment = state.comment
+            .replaceAll(`[${target}]`, `[%${source}]`)
+            .replaceAll(`[${source}]`, `[${target}]`)
+            .replaceAll(`[%${source}]`, `[${source}]`);
+
+        setState( oldState => ({
+            ...oldState,
+            comment: state.comment,
+            sources: state.sources,
+            sourceNotes: state.sourceNotes,
+        }) );
+    };
+
+    const reorderSources = target => {
+
+        let d = dragging;
+        while( +target > +d ) {
+            swapSources(d, +d+1);
+            d = +d+1;
+        }
+        while( +target < +d ) {
+            swapSources(d, +d-1);
+            d = +d-1;
+        }
+        setDragging(target);
+    };
+
+    const populateWikiInfo = async () => {
+        setToastMessage("Fetching wiki info...");
+        const response = await fetch(
+            "http://localhost:8014/wikiInfo",
+            {
+                method: "POST",
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(state),
+            }
+        );
+        const wikiInfo = await response.json();
+        setState( state => mergeJSON(state, wikiInfo) );
+        setToastMessage("Fetched wiki info!");
+    };
+
+    const generateComment = async () => {
+        setToastMessage("Generating comment...");
+        const response = await fetch(
+            "http://localhost:8014/generateComment",
+            {
+                method: "POST",
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(state),
+            }
+        );
+        const comment = await response.json();
+        setState( state => mergeJSON(state, comment) );
+        setToastMessage("Generated comment!");
+    };
+
+    const getSources = async () => {
+        setToastMessage("Getting sources...");
+        const response = await fetch(
+            "http://localhost:8014/getSources",
+            {
+                method: "POST",
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(state),
+            }
+        );
+        const body = await response.json();
+        setGotSources(body);
+        setToastMessage("Got sources!");
+    };
+
+    const getNames = async () => {
+        setToastMessage("Getting names...");
+        const response = await fetch(
+            "http://localhost:8014/getNames",
+            {
+                method: "POST",
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(state),
+            }
+        );
+        const names = await response.json();
+        setState( state => mergeJSON(state, names) );
+        setToastMessage("Got names!");
+    };
+
+    const saveCompanyData = async () => {
+        setToastMessage("Saving company data...");
+        const result = {
+            key: getKey(state),
+            ...state,
+            sources: Object.fromEntries(Object.entries(state.sources).filter(([k, v]) => v)),
+            sourceNotes: Object.fromEntries(Object.entries(state.sourceNotes).filter(([k, v]) => v)),
+            ownedBy: state.ownedBy || null,
+            score: parseFloat(state.score),
+        };
+        const response = await fetch(
+            "http://localhost:8014/saveCompanyData",
+            {
+                method: "POST",
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(result),
+            }
+        );
+        const comment = await response.json();
+        setToastMessage("Saved data!");
+    };
+
+    const actionButtons = 
+        <FlexRow style={{ justifyContent: "right" }}>
+            <PillButton $outline onClick={populateWikiInfo} title="Click to fetch and populate company information from wikipedia" disabled={!backendUp || !state.names.length}>
+                fetch wikipedia info  🌐
+            </PillButton>
+            <PillButton $outline onClick={generateComment} title="Click to generate comment based on source notes" disabled={!backendUp || !state.sourceNotes["1"]}>
+                generate comment  💬
+            </PillButton>
+            <PillButton onClick={getSources} disabled={!backendUp || !state.names.length} $outline>
+                get sources  🦉
+            </PillButton>
+            <PillButton onClick={getNames} disabled={!backendUp || !state.names.length} $outline>
+                get names  📇
+            </PillButton>
+            <PillButton
+                $outline
+                onClick={ async () => onMergeJSONClick(await navigator.clipboard.readText()) }
+                title="Click to paste json from clipboard and merge it with the company data">
+                merge JSON  🖇️
+            </PillButton>
+            <PillButton onClick={saveCompanyData} disabled={!backendUp || !state.names.length}>
+                save company data  💾
+            </PillButton>
+            <PillButton onClick={() => copy(tojson(state))}>
+                copy company data  📋
+            </PillButton>
+            <Link to={`/companies/add-brands/${getKey(state)}`}>
+                <PillButton $outline>🏷️   add brands for this company</PillButton>
+            </Link>
+            <PillButton $outline onClick={
+                () => window.confirm("Clear company data?")
+                    && setState(initialState)
+            }>
+                clear  🧽
+            </PillButton>
+        </FlexRow>;
+
+    return <Stack onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
+        { actionButtons }
+        <Entry $valid={state.names.length > 0}>
+            names & stock ticker
+            <DeleteableBadgeList
+                items={state.names}
+                update={names => setState( oldState => ({ ...oldState, names }) )}
+                deleteAtIndex={removeFromStateList("names")} />
+            <input
+                placeholder="Type names and press enter after each"
+                onKeyDown={ifEnter(addToStateList("names"))}
+                onKeyUp={ifEnter(e => e.target.value = "")} />
+        </Entry>
+        <SearchLinks state={state} />
+        <Entry $valid={state.tags.length > 0}>
+            tags
+            <DeleteableBadgeList
+                items={state.tags}
+                update={tags => setState( oldState => ({ ...oldState, tags }) )}
+                deleteAtIndex={removeFromStateList("tags")} />
+            <input
+                placeholder="Type tags that describe this company and press enter after each"
+                onKeyDown={ifEnter(addToStateList("tags"))}
+                onKeyUp={ifEnter(e => e.target.value = "")} />
+        </Entry>
+        <Entry $valid={state.ownedBy.length > 0}>
+            owned by
+            <DeleteableBadgeList
+                items={state.ownedBy}
+                deleteAtIndex={removeFromStateList("ownedBy")} />
+            <input
+                placeholder="codes of the companies that own this one"
+                onKeyDown={ifEnter(addToStateList("ownedBy"))}
+                onKeyUp={ifEnter(e => e.target.value = "")} />
+        </Entry>
+        <Entry $valid={!!state.siteUrl}>
+            site URL
+            <input
+                value={state.siteUrl}
+                placeholder="link to the company's website"
+                onChange={setStateField("siteUrl")} />
+        </Entry>
+        <Entry $valid={!!state.logoUrl}>
+            logo URL
+            <input
+                value={state.logoUrl}
+                placeholder="URL of the company's logo"
+                onChange={setStateField("logoUrl")} />
+        </Entry>
+        { gotSources && 
+            <Card style={{ maxHeight: "50vh", overflow: "scroll" }}>
+                { flattenGotSources(gotSources).map((gotSource, i) =>
+                    <>
+                    <p> {i+1}. <a href={gotSource.url} target="_blank">{gotSource.key} | {gotSource.title} </a></p>
+                    <p> { gotSource.url } </p>
+                    <p> {gotSource.description} </p>
+                    </>
+                ) }
+            </Card>
+        }
+        { showSources && <>
+            <h3> sources </h3>
+            { Object.keys(state.sources).map(key =>
+                <SourceRow
+                    key={key} sourceKey={key} state={state}
+                    setSource={setSource} setSourceNote={setSourceNote} setDragging={setDragging}
+                    reorderSources={reorderSources} onChange={(key == Object.keys(state.sources).length) ? addSource : null} />
+            )}
+        </>}
+        <FlexRow style={{ justifyContent: "right" }}>
+            { showSources && <PillButton
+                $outline
+                onClick={() => copy(
+                    generatePrompt(state)
+                )}>
+                copy summarise prompt  📋
+            </PillButton> }
+            { /* <PillButton $outline onClick={addSource}>
+                add source  🔗
+            </PillButton> */ }
+            { showSources &&
+                <PillButton
+                    $outline
+                    style={{ justifySelf: "right" }}
+                    disabled={!state.comment}
+                    onClick={sortSources(setState)}>
+                    sort sources  🃏
+                </PillButton> }
+        </FlexRow>
+        <Entry $valid={!!state.comment}>
+            comment
+            <textarea
+                style={{ height: "15rem" }}
+                placeholder="Enter a short summary of this company's most and least ethical actions. References can be placed by numbers in square brackets eg. [1], [2]"
+                value={state.comment}
+                ref={textareaRef}
+                onChange={setComment}
+                onPaste={handlePaste(setState)} />
+        </Entry>
+        <Entry $valid={parseFloat(state.score) <= 100}>
+            ethical score
+            <input
+                value={state.score}
+                placeholder="Enter a score from 0 to 100"
+                onChange={setStateField("score")} />
+        </Entry>
+        <Entry>
+            output company data
+            <CodeBlock style={{ maxHeight: "10rem", overflowY: "scroll" }}>
+                {tojson(state)}
+            </CodeBlock>
+        </Entry>
+        { actionButtons }
+        { !!state?.names?.length && <>
+            <h2> Preview: </h2>
+            <div style={{ border: "0.05rem solid var(--fg)", borderRadius: "2rem", background: "var(--fg-transparent)", padding: "2rem" }}>
+                <Company entry={state} />
+            </div>
+        </> }
+        { toastMessage && <Toast> { toastMessage } </Toast> }
+    </Stack>;
+}
+
+export function CompanyEditor() {
+    return <Page>
+        <Helmet>
+            <title> Company Editor | boikot </title>
+            <meta name="description" content="boikot is a community-led initiative to collect and make available data on the unethical actions of big companies. On this page you can edit the details of a company to submit it to our database." />
+        </Helmet>
+        <Stack>
+            <h1> Company Editor </h1>
+            <p> To submit a company record, please fill out the form
+                below and copy-paste the company data into a <a
+                    href="https://github.com/boikot-xyz/boikot/issues"
+                    target="_blank" rel="noreferrer">
+                    new Issue on our github repo
+                </a> or email it to <a
+                    href="mailto:submissions@boikot.xyz">
+                    submissions@boikot.xyz </a>.
+                We will then add it to our database 🤝 please cite
+                your sources!
+            </p>
+            <Jsoner />
+        </Stack>
+    </Page>;
+}
+
+function Brander() {
+    const { key } = useParams();
+    const [ entryState, setEntryState ] = React.useState(getInitialEntryState(key));
+    const [ html, setHtml ] = React.useState("");
+    const [ brandsData, setBrandsData ] = React.useState("{}");
+    const [ backendUp, setBackendUp ] = React.useState(false);
+    const [ toastMessage, setToastMessage ] = React.useState(false);
+    const [ toastMessageClearTimeout, setToastMessageClearTimeout ] = React.useState(null);
+
+    React.useEffect( () => {(async () => {
+        setToastMessage("Connecting to backend...");
+        const response = await fetch(
+            "http://localhost:8014/check",
+        );
+        if( response.status == 200 ) setBackendUp(true) + setToastMessage("Connected to backend ok!");
+        else setToastMessage("Could not connect to backend");
+        window.onbeforeunload = () => "";
+    })()}, [])
+    React.useEffect( () => {
+        clearTimeout(toastMessageClearTimeout);
+        setToastMessageClearTimeout(setTimeout(() => setToastMessage(""), 3500));
+    }, [toastMessage])
+
+    const setEntryStateField = fieldName => e =>
+        setEntryState( oldState => ({
+            ...oldState,
+            [fieldName]: e.target.value,
+        }) );
+
+    const addToEntryStateList = fieldName => e =>
+        setEntryState( oldState => ({
+            ...oldState,
+            [fieldName]: [...oldState[fieldName], e.target.value],
+        }) );
+
+    const removeFromEntryStateList = fieldName => i =>
+        setEntryState( oldState => ({
+            ...oldState,
+            [fieldName]: oldState[fieldName].filter( (_,j) => j != i ),
+        }) );
+
+    const pasteBrandsInfo = async e => {
+        e.preventDefault();
+        e.stopPropagation();
+
+        const clipboardContents = await navigator.clipboard.read();
+        const item = clipboardContents[0];
+
+        let blobText = "";
+        if( item.types.includes("text/html") ) {
+            const blob = await item.getType("text/html");
+            blobText = await blob.text();
+        }
+        else {
+            const blob = await item.getType("text/plain");
+            blobText = await blob.text();
+        }
+        setHtml(html => html + blobText);
+    };
+
+    const getBrandsData = async () => {
+        setToastMessage("Collecting brand data...");
+        const response = await fetch(
+            "http://localhost:8014/getBrandsData",
+            {
+                method: "POST",
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    entryState,
+                    html,
+                }),
+            }
+        );
+        const result = await response.json();
+        setBrandsData(JSON.stringify(result, null, 4));
+        setToastMessage("Collected data!");
+    };
+
+    const saveBrandsData = async () => {
+        setToastMessage("Saving brand data...");
+        if( !Object.keys(safeJSONParse(brandsData)).length ) {
+            setToastMessage("No brands to save or could not parse brands JSON data!");
+            return;
+        }
+        const response = await fetch(
+            "http://localhost:8014/saveBrandsData",
+            {
+                method: "POST",
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: brandsData,
+            }
+        );
+        const result = await response.json();
+        setToastMessage("Saved data!");
+    };
+
+    return <Stack>
+        <Entry $valid={!!entryState.key}>
+            parent company key
+            <input
+                value={entryState.key}
+                placeholder="key of the parent company"
+                onChange={setEntryStateField("key")} />
+        </Entry>
+        <Entry $valid={entryState.tags.length > 0}>
+            tags
+            <DeleteableBadgeList
+                items={entryState.tags}
+                deleteAtIndex={removeFromEntryStateList("tags")} />
+            <input
+                placeholder="Type tags that describe this company and press enter after each"
+                onKeyDown={ifEnter(addToEntryStateList("tags"))}
+                onKeyUp={ifEnter(e => e.target.value = "")} />
+        </Entry>
+        <Entry $valid={parseFloat(entryState.score) <= 100}>
+            ethical score
+            <input
+                value={entryState.score}
+                placeholder="Enter a score from 0 to 100"
+                onChange={setEntryStateField("score")} />
+        </Entry>
+        <Entry $valid={!!html}>
+            brand links
+            <textarea
+                style={{ height: "15rem" }}
+                placeholder="paste text here containing wikipedia links to brands"
+                value={html}
+                onPaste={pasteBrandsInfo}
+                onChange={e => setHtml(e.target.value)} />
+        </Entry>
+        <FlexRow style={{ justifyContent: "right" }}>
+            <Link to={makeWikipediaSearchURL(entryState.names[0])} target="_blank">
+                <PillButton $outline>
+                    search for wiki page 🌐
+                </PillButton> 
+            </Link>
+            <PillButton $outline onClick={getBrandsData} title="Click to gather brand data" disabled={!backendUp || !html}>
+                collect brand data  🏷️
+            </PillButton>
+            <PillButton onClick={() => copy(brandsData)}>
+                copy brands data  📋
+            </PillButton>
+            <PillButton onClick={saveBrandsData} disabled={!backendUp || !brandsData.length}>
+                save brands data  💾
+            </PillButton>
+        </FlexRow>
+        <Entry $valid={!!Object.keys(safeJSONParse(brandsData)).length}>
+            output brands data
+            <textarea
+                style={{ height: "15rem" }}
+                onChange={e => setBrandsData(e.target.value)}
+                value={brandsData} />
+        </Entry>
+        { !!Object.keys(safeJSONParse(brandsData)).length && <>
+            <h2> Preview: </h2>
+            <div style={{ border: "0.05rem solid var(--fg)", borderRadius: "2rem", background: "var(--fg-transparent)", padding: "2rem" }}>
+                <Stack>
+                    { Object.values(safeJSONParse(brandsData)).map( entry => 
+                        <CompanyHeader entry={entry} link={false} key={entry.key} showComment />
+                    ) }
+                </Stack>
+            </div>
+        </> }
+        { toastMessage && <Toast> { toastMessage } </Toast> }
+    </Stack>;
+}
+
+`
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body><li><a href="https://en.wikipedia.org/wiki/Blackstone_Inc." title="Blackstone Inc.">Blackstone Inc.</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts" class="mw-redirect" title="Kohlberg Kravis Roberts">Kohlberg Kravis Roberts</a></li>
+<li><a href="https://en.wikipedia.org/wiki/EQT_AB" title="EQT AB">EQT AB</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CVC_Capital_Partners" title="CVC Capital Partners">CVC Capital Partners</a></li></body></html>
+`
+
+export function BrandEditor() {
+    return <Page>
+        <Helmet>
+            <title> Brand Editor | boikot </title>
+            <meta name="description" content="boikot is a community-led initiative to collect and make available data on the unethical actions of big companies. On this page you can add the brands of a company to our database." />
+        </Helmet>
+        <Stack>
+            <h1> Add Brands </h1>
+            <p> Easily add brands or subsidiaries of a company from this page. </p>
+            <Brander />
+        </Stack>
+    </Page>;
+}

@@ -1,0 +1,322 @@
+Private motor insurance: exchange of data - GOV.UK
+
+Cookies on GOV.UK
+
+We use some essential cookies to make this website work.We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.We also use cookies set by other sites to help us deliver content from their services.
+You have accepted additional cookies. You can change your cookie settings at any time.
+You have rejected additional cookies. You can change your cookie settings at any time.
+
+Accept additional cookies
+Reject additional cookies
+View cookies
+
+          Hide cookie message
+        
+
+Skip to main content
+
+GOV.UK
+
+ 
+      Navigation menu
+    
+
+          Menu
+
+Menu
+ 
+
+              Services and information
+            
+
+Benefits
+
+Births, death, marriages and care
+
+Business and self-employed
+
+Childcare and parenting
+
+Citizenship and living in the UK
+
+Crime, justice and the law
+
+Disabled people
+
+Driving and transport
+
+Education and learning
+
+Employing people
+
+Environment and countryside
+
+Housing and local services
+
+Money and tax
+
+Passports, travel and living abroad
+
+Visas and immigration
+
+Working, jobs and pensions
+
+              Government activity
+            
+
+Departments
+Departments, agencies and public bodies
+
+News
+News stories, speeches, letters and notices
+
+Guidance and regulation
+Detailed guidance, regulations and rules
+
+Research and statistics
+Reports, analysis and official statistics
+
+Policy papers and consultations
+Consultations and strategy
+
+Transparency
+Data, Freedom of Information releases and corporate reports
+
+ 
+
+          Search GOV.UK
+        
+
+          ×
+        
+
+          Search GOV.UK
+        
+
+ 
+
+          Search
+        
+
+Search GOV.UK
+
+        Search
+        
+
+ 
+
+ 
+
+ 
+
+Home
+
+Competition and Markets Authority cases and projects
+
+    Private motor insurance: exchange of data
+
+    Office of Fair Trading (OFT) closed Competition Act 1998 case.
+
+From:
+
+Competition and Markets Authority
+
+Published
+2 December 2011
+
+Case type:
+
+CA98 and civil cartels
+
+Case state:
+
+Closed
+
+Market sector:
+
+Transport
+
+Outcome:
+
+CA98 - no grounds for action
+
+Opened:
+
+            13 January 2010
+
+          
+Closed:
+
+            2 December 2011
+
+          
+
+Case information
+Case reference: CE/9388/10
+The OFT has accepted formal commitments from six insurance companies and
+two IT software and service providers to limit the data they exchange
+between them.
+Having accepted the commitments, the OFT has ended its investigation and
+will not be proceeding to a decision on whether or not the Competition
+Act has been infringed.
+Summary of work
+The formal offer of commitments came from insurers Ageas Insurance Ltd
+(formally Fortis Insurance Ltd), Aviva Insurance UK Ltd, AXA Insurance
+UK plc, Liverpool Victoria Insurance Company Ltd, RBS Insurance Group
+Ltd, and Zurich Insurance plc – UK Branch; and IT software and service
+providers Experian Ltd and SSP Ltd, and followed an OFT investigation
+into the exchange of broker pricing information between insurers in the
+private motor sector.
+The OFT investigation identified an increased risk of price coordination
+among motor insurers using a specialist market analysis tool provided by
+Experian called WhatIf? Private Motor.
+The OFT warned the firms that, because insurers were able to access
+information about their competitors’ future pricing intentions, the
+information exchanged through WhatIf? Private Motor raised competition
+law concerns that it could potentially be used to coordinate on price.
+The accepted commitments address the OFT’s concerns by ensuring that the
+companies will exchange pricing information through the analysis tool
+only if that information meets certain principles agreed with the OFT.
+These principles require the information, if less than six months old,
+to be anonymised, aggregated across at least five insurers and already
+'live' in broker-sold policies.
+It is proposed that these commitments will remain in force for five
+years. It should also be noted, where the OFT has accepted binding
+commitments it may for the purpose of addressing its current competition
+concerns, accept a variation of or substitution for the commitments.
+Related documents
+
+Decision document, OFT1395 Decision to accept binding commitments to   modify a data exchange tool used by Motor   Insurers (pdf 568 kb)
+Q&A
+Press release, OFT accepts formal commitments after motor insurers
+agree to limit data
+exchange, 2
+December 2011
+Market study
+page
+Consultation
+page
+
+Updates to this page
+Published 2 December 2011
+
+ 
+
+Explore the topic
+
+Competition
+
+Is this page useful?
+
+              Maybe
+ 
+
+              Yes this page is useful
+ 
+
+              No this page is not useful
+ 
+
+      Thank you for your feedback
+    
+
+        Report a problem with this page
+ 
+
+Help us improve GOV.UK
+Don’t include personal or financial information like your National Insurance number or credit card details.
+
+This field is for robots only. Please leave blank
+
+What were you doing?
+
+What went wrong?
+
+Send
+
+        Cancel
+      
+
+Help us improve GOV.UK
+
+        To help us improve GOV.UK, we’d like to know more about your visit today.
+        Please fill in this survey (opens in a new tab and requires JavaScript).
+      
+
+        Cancel
+      
+
+Services and information
+
+Benefits
+
+Births, death, marriages and care
+
+Business and self-employed
+
+Childcare and parenting
+
+Citizenship and living in the UK
+
+Crime, justice and the law
+
+Disabled people
+
+Driving and transport
+
+Education and learning
+
+Employing people
+
+Environment and countryside
+
+Housing and local services
+
+Money and tax
+
+Passports, travel and living abroad
+
+Visas and immigration
+
+Working, jobs and pensions
+
+Government activity
+
+Departments
+
+News
+
+Guidance and regulation
+
+Research and statistics
+
+Policy papers and consultations
+
+Transparency
+
+How government works
+
+Get involved
+
+Support links
+
+Help
+
+Privacy
+
+Cookies
+
+Accessibility statement
+
+Contact
+
+Terms and conditions
+
+Rhestr o Wasanaethau Cymraeg
+
+Government Digital Service
+
+            All content is available under the Open Government Licence v3.0, except where otherwise stated
+          
+
+© Crown copyright

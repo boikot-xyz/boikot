@@ -1,0 +1,532 @@
+gemma 4 with system prompt
+}
+```
+
+ ❯ src/backend.test.js (203 tests | 3 failed | 183 skipped) 2453719ms
+   ↓ getWikipediaPage > returns correct Wikipedia URL for apple
+   ↓ getWikipediaPage > returns correct Wikipedia URL for samsung
+   ↓ getWikipediaPage > returns correct Wikipedia URL for bp
+   ↓ getWikipediaPage > returns correct Wikipedia URL for channel 4
+   ↓ getWikipediaPage > returns correct Wikipedia URL for byd
+   ↓ getWikipediaPage > returns correct Wikipedia URL for moonpig
+   ↓ getWikipediaPage > returns correct Wikipedia URL for dell
+   ↓ getWikipediaPage > returns correct Wikipedia URL for tfl
+   ↓ getWikipediaPage > returns correct Wikipedia URL for ikea
+   ↓ getWikipediaPage > returns correct Wikipedia URL for abercrombie and fitch
+   ↓ getWikipediaPage > returns correct Wikipedia URL for anker
+   ↓ getWikipediaPage > returns correct Wikipedia URL for b&q
+   ↓ getWikipediaPage > returns correct Wikipedia URL for a24
+   ↓ getWikipediaPage > returns correct Wikipedia URL for minute maid
+   ↓ getWikipediaPage > returns correct Wikipedia URL for colman's
+   ↓ getWikipediaInfo > returns correct info for apple
+   ↓ getWikipediaInfo > returns correct info for samsung
+   ↓ getWikipediaInfo > returns correct info for bp
+   ↓ getWikipediaInfo > returns correct info for channel 4
+   ↓ getWikipediaInfo > returns correct info for byd
+   ↓ getWikipediaInfo > returns correct info for moonpig
+   ↓ getWikipediaInfo > returns correct info for dell
+   ↓ getWikipediaInfo > returns correct info for tfl
+   ↓ getWikipediaInfo > returns correct info for ikea
+   ↓ getWikipediaInfo > returns correct info for abercrombie and fitch
+   ↓ getWikipediaInfo > returns correct info for anker
+   ↓ getWikipediaInfo > returns correct info for b&q
+   ↓ getWikipediaInfo > returns correct info for a24
+   ↓ getWikipediaInfo > returns correct info for minute maid
+   ↓ getWikipediaInfo > returns correct info for colman's
+   ↓ getCompanyNames > gets the correct names for A24
+   ↓ getCompanyNames > gets the correct names for Levi's
+   ↓ getCompanyNames > gets the correct names for Oreo
+   ↓ getCompanyNames > gets the correct names for Unilever
+   ↓ getCompanyNames > gets the correct names for Five Guys
+   ↓ getCompanyNames > gets the correct names for Costco
+   ↓ getCompanyNames > gets the correct names for Greggs
+   ↓ getCompanyNames > gets the correct names for Sony
+   ↓ getCompanyNames > gets the correct names for Marvel
+   ↓ getRecord > returns correct record for apple
+   ↓ getRecord > returns correct record for samsung
+   ↓ getRecord > returns correct record for byd
+   ↓ getRecord > returns correct record for moonpig
+   ↓ getRecord > returns correct record for dell
+   ↓ getRecord > returns correct record for tfl
+   ↓ getRecord > returns correct record for ikea
+   ↓ getRecord > returns correct record for abercrombie and fitch
+   ↓ getRecord > returns correct record for anker
+   ↓ getRecord > returns correct record for minute maid
+   ↓ getRecord > returns correct record for colman's
+   ↓ getRecord > returns correct record for 7-11
+   ↓ getRecord > returns correct record for 三菱自動車工業株式会社
+   ↓ searchEcosia > returns search results
+   ↓ getTitle > returns correct record for https://bandcamp.com/codeman1142
+   ↓ getTitle > returns correct record for https://simplywall.st/stocks/us/consumer-durables/nyse-levi/levi-strauss/news/levi-strauss-lawsuit-tests-culture-governance-and-human-capi
+   ↓ getTitle > returns correct record for https://www.business-humanrights.org/en/latest-news/us-apparel-cos-lawsuit-re-saipan/
+   ↓ getTitle > returns correct record for https://sprudge.com/lavazza-pushes-back-on-eu-deforestation-law-it-voluntarily-agreed-to-212541.html
+   ↓ getTitle > returns correct record for https://news.sky.com/story/lavazza-and-dualit-adverts-banned-after-making-misleading-compostable-claim-13358504
+   ↓ getTitle > returns correct record for https://www.bbc.co.uk/news/business-61096823
+   ↓ getTitle > returns correct record for https://www.nytimes.com/2016/03/01/business/catalog-interview-with-gloria-steinem-has-lands-end-on-its-heels.html
+   ↓ getTitle > returns correct record for https://www.law360.com/articles/783451/kohl-s-wins-early-approval-of-6-15m-deceptive-sales-deal
+   ↓ addRecord > can add a record
+   ↓ addRecord > doesn't overwrite
+   ↓ askQwen > responds as asked
+   ↓ askQwen > can add up
+   ↓ askQwen > can answer yes or no
+   ↓ askQwen > can select relevant search results for Meta
+   ↓ askQwen > can select relevant search results for Honda
+   ↓ askQwen > can select relevant search results for Dyson
+   ↓ askQwen > can select relevant search results for Amazon
+   ↓ askQwen > can select relevant search results for Gildan
+   ↓ askQwen > can select relevant search results for Morrisons
+   ↓ askQwen > can summarise an article for Apple
+   ↓ askQwen > can summarise an article for Kellogg's
+   ↓ askQwen > can summarise an article for Wagamama
+   ↓ askQwen > can write an ethics summary for Barclays
+   ↓ askQwen > can write an ethics summary for Pepsico
+   ↓ askQwen > can write an ethics summary for IKEA
+   ↓ askQwen > can write an ethics summary for Greggs
+   ↓ askQwen > can write an ethics summary for Nintendo
+   ↓ askQwen > can write an ethics summary for Burberry
+   ↓ askQwen > says who it is
+   ↓ askQwen > can generate JSON
+   ↓ askQwen > can take a huge input
+   ↓ askLlama4 > responds as asked
+   ↓ askLlama4 > can add up
+   ↓ askLlama4 > can answer yes or no
+   ↓ askLlama4 > can select relevant search results for Meta
+   ↓ askLlama4 > can select relevant search results for Honda
+   ↓ askLlama4 > can select relevant search results for Dyson
+   ↓ askLlama4 > can select relevant search results for Amazon
+   ↓ askLlama4 > can select relevant search results for Gildan
+   ↓ askLlama4 > can select relevant search results for Morrisons
+   ↓ askLlama4 > can summarise an article for Apple
+   ↓ askLlama4 > can summarise an article for Kellogg's
+   ↓ askLlama4 > can summarise an article for Wagamama
+   ↓ askLlama4 > can write an ethics summary for Barclays
+   ↓ askLlama4 > can write an ethics summary for Pepsico
+   ↓ askLlama4 > can write an ethics summary for IKEA
+   ↓ askLlama4 > can write an ethics summary for Greggs
+   ↓ askLlama4 > can write an ethics summary for Nintendo
+   ↓ askLlama4 > can write an ethics summary for Burberry
+   ↓ askLlama4 > says who it is
+   ↓ askLlama4 > can generate JSON
+   ↓ askLlama4 > can take a huge input
+   ↓ askGemma > responds as asked
+   ↓ askGemma > can add up
+   ↓ askGemma > can answer yes or no
+   ↓ askGemma > can select relevant search results for Meta
+   ↓ askGemma > can select relevant search results for Honda
+   ↓ askGemma > can select relevant search results for Dyson
+   ↓ askGemma > can select relevant search results for Amazon
+   ↓ askGemma > can select relevant search results for Gildan
+   ↓ askGemma > can select relevant search results for Morrisons
+   ↓ askGemma > can summarise an article for Apple
+   ↓ askGemma > can summarise an article for Kellogg's
+   ↓ askGemma > can summarise an article for Wagamama
+   ↓ askGemma > can write an ethics summary for Barclays
+   ↓ askGemma > can write an ethics summary for Pepsico
+   ↓ askGemma > can write an ethics summary for IKEA
+   ↓ askGemma > can write an ethics summary for Greggs
+   ↓ askGemma > can write an ethics summary for Nintendo
+   ↓ askGemma > can write an ethics summary for Burberry
+   ↓ askGemma > says who it is
+   ↓ askGemma > can generate JSON
+   ↓ askGemma > can take a huge input
+   ↓ askGPTOSS > responds as asked
+   ↓ askGPTOSS > can add up
+   ↓ askGPTOSS > can answer yes or no
+   ↓ askGPTOSS > can select relevant search results for Meta
+   ↓ askGPTOSS > can select relevant search results for Honda
+   ↓ askGPTOSS > can select relevant search results for Dyson
+   ↓ askGPTOSS > can select relevant search results for Amazon
+   ↓ askGPTOSS > can select relevant search results for Gildan
+   ↓ askGPTOSS > can select relevant search results for Morrisons
+   ↓ askGPTOSS > can summarise an article for Apple
+   ↓ askGPTOSS > can summarise an article for Kellogg's
+   ↓ askGPTOSS > can summarise an article for Wagamama
+   ↓ askGPTOSS > can write an ethics summary for Barclays
+   ↓ askGPTOSS > can write an ethics summary for Pepsico
+   ↓ askGPTOSS > can write an ethics summary for IKEA
+   ↓ askGPTOSS > can write an ethics summary for Greggs
+   ↓ askGPTOSS > can write an ethics summary for Nintendo
+   ↓ askGPTOSS > can write an ethics summary for Burberry
+   ↓ askGPTOSS > says who it is
+   ↓ askGPTOSS > can generate JSON
+   ↓ askGPTOSS > can take a huge input
+   ↓ askLocalGPTOSS > responds as asked
+   ↓ askLocalGPTOSS > can add up
+   ↓ askLocalGPTOSS > can answer yes or no
+   ↓ askLocalGPTOSS > can select relevant search results for Meta
+   ↓ askLocalGPTOSS > can select relevant search results for Honda
+   ↓ askLocalGPTOSS > can select relevant search results for Dyson
+   ↓ askLocalGPTOSS > can select relevant search results for Amazon
+   ↓ askLocalGPTOSS > can select relevant search results for Gildan
+   ↓ askLocalGPTOSS > can select relevant search results for Morrisons
+   ↓ askLocalGPTOSS > can summarise an article for Apple
+   ↓ askLocalGPTOSS > can summarise an article for Kellogg's
+   ↓ askLocalGPTOSS > can summarise an article for Wagamama
+   ↓ askLocalGPTOSS > can write an ethics summary for Barclays
+   ↓ askLocalGPTOSS > can write an ethics summary for Pepsico
+   ↓ askLocalGPTOSS > can write an ethics summary for IKEA
+   ↓ askLocalGPTOSS > can write an ethics summary for Greggs
+   ↓ askLocalGPTOSS > can write an ethics summary for Nintendo
+   ↓ askLocalGPTOSS > can write an ethics summary for Burberry
+   ↓ askLocalGPTOSS > says who it is
+   ↓ askLocalGPTOSS > can generate JSON
+   ↓ askLocalGPTOSS > can take a huge input
+   ✓ askLocalGemma4 > responds as asked  22488ms
+   ✓ askLocalGemma4 > can add up  10218ms
+   ✓ askLocalGemma4 > can answer yes or no  51539ms
+   ✓ askLocalGemma4 > can select relevant search results for Meta  46719ms
+   ✓ askLocalGemma4 > can select relevant search results for Honda  46758ms
+   ✓ askLocalGemma4 > can select relevant search results for Dyson  85784ms
+   ✓ askLocalGemma4 > can select relevant search results for Amazon  12065ms
+   ✓ askLocalGemma4 > can select relevant search results for Gildan  74307ms
+   × askLocalGemma4 > can select relevant search results for Morrisons 149411ms
+     → expected [ 3, 6, 7, 8, 13, 16, 18, 19, 24, 31 ] to include 5
+   ✓ askLocalGemma4 > can summarise an article for Apple  13449ms
+   ✓ askLocalGemma4 > can summarise an article for Kellogg's  712990ms
+   ✓ askLocalGemma4 > can summarise an article for Wagamama  23995ms
+   × askLocalGemma4 > can write an ethics summary for Barclays 292418ms
+     → expected '' to match /^Barclays is a/
+   ✓ askLocalGemma4 > can write an ethics summary for Pepsico  821297ms
+   ✓ askLocalGemma4 > can write an ethics summary for IKEA  6734ms
+   × askLocalGemma4 > can write an ethics summary for Greggs 14225ms
+     → expected 'Greggs is a British bakery chain [1][…' not to contain '[2]'
+   ✓ askLocalGemma4 > can write an ethics summary for Nintendo  14528ms
+   ✓ askLocalGemma4 > can write an ethics summary for Burberry  4670ms
+   ✓ askLocalGemma4 > says who it is  14994ms
+   ✓ askLocalGemma4 > can generate JSON  35122ms
+   ↓ askLocalGemma4 > can take a huge input
+   ↓ sortSources > can sort sources for empty
+   ↓ sortSources > can sort sources for Gap
+   ↓ sortSources > can sort sources for Samsung
+   ↓ sortSources > can sort sources for Nestle
+   ↓ dist > can find the distance
+   ↓ length > can find the length
+   ↓ cosineSimilarity > calculates cosine similarity
+   ↓ embeddings > embeds
+   ↓ closestEmbedding > selects the best article
+   ↓ mostAlignedEmbedding > selects the best article
+   ↓ rustscrape > can read a webpage
+   ↓ rustscrape > can read a pdf
+   ↓ rustscrape > can read stackoverflow
+   ↓ rustscrape > can scrape any webpage
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Failed Tests 3 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  src/backend.test.js > askLocalGemma4 > can select relevant search results for Morrisons
+AssertionError: expected [ 3, 6, 7, 8, 13, 16, 18, 19, 24, 31 ] to include 5
+ ❯ src/backend.test.js:515:39
+    513|             );
+    514|             requiredResultNumbers.forEach( requiredNumber =>
+    515|               expect(selectedNumbers).toContain(requiredNumber)
+       |                                       ^
+    516|             );
+    517|           },
+ ❯ src/backend.test.js:514:35
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/3]⎯
+
+ FAIL  src/backend.test.js > askLocalGemma4 > can write an ethics summary for Barclays
+AssertionError: expected '' to match /^Barclays is a/
+
+- Expected:
+/^Barclays is a/
+
++ Received:
+""
+
+ ❯ targetResultCheck src/backend.test.js:367:30
+    365|         companyInfo: barclaysInfo,
+    366|         targetResultCheck: async response => {
+    367|             expect(response).toMatch(/^Barclays is a/);
+       |                              ^
+    368|             expect(response).toMatch(/^.+\. .+\.$/);
+    369|             expect(response.split(". ").length).toBe(2);
+ ❯ src/backend.test.js:547:23
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/3]⎯
+
+ FAIL  src/backend.test.js > askLocalGemma4 > can write an ethics summary for Greggs
+AssertionError: expected 'Greggs is a British bakery chain [1][…' not to contain '[2]'
+
+Expected: "[2]"
+Received: "Greggs is a British bakery chain [1][2]. The company has faced criticism over excessive executive pay [1], failures to pay the national minimum wage [3], and allegations of horsemeat being present in its vegan sausage rolls [4]."
+
+ ❯ targetResultCheck src/backend.test.js:440:34
+    438|             expect(response).toContain("[3]");
+    439|             expect(response).toContain("[4]");
+    440|             expect(response).not.toContain("[2]");
+       |                                  ^
+    441|
+    442|             expect(response).toMatch(/pay/i);
+ ❯ src/backend.test.js:547:23
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[3/3]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  3 failed | 17 passed | 183 skipped (203)
+   Start at  00:25:39
+   Duration  2454.40s (transform 89ms, setup 0ms, collect 311ms, tests 2453.72s, environment 0ms, prepare 51ms)
+
+
+
+gemma4 with no system prompt
+
+
+ ❯ src/backend.test.js (203 tests | 3 failed | 183 skipped) 2360309ms
+   ↓ getWikipediaPage > returns correct Wikipedia URL for apple
+   ↓ getWikipediaPage > returns correct Wikipedia URL for samsung
+   ↓ getWikipediaPage > returns correct Wikipedia URL for bp
+   ↓ getWikipediaPage > returns correct Wikipedia URL for channel 4
+   ↓ getWikipediaPage > returns correct Wikipedia URL for byd
+   ↓ getWikipediaPage > returns correct Wikipedia URL for moonpig
+   ↓ getWikipediaPage > returns correct Wikipedia URL for dell
+   ↓ getWikipediaPage > returns correct Wikipedia URL for tfl
+   ↓ getWikipediaPage > returns correct Wikipedia URL for ikea
+   ↓ getWikipediaPage > returns correct Wikipedia URL for abercrombie and fitch
+   ↓ getWikipediaPage > returns correct Wikipedia URL for anker
+   ↓ getWikipediaPage > returns correct Wikipedia URL for b&q
+   ↓ getWikipediaPage > returns correct Wikipedia URL for a24
+   ↓ getWikipediaPage > returns correct Wikipedia URL for minute maid
+   ↓ getWikipediaPage > returns correct Wikipedia URL for colman's
+   ↓ getWikipediaInfo > returns correct info for apple
+   ↓ getWikipediaInfo > returns correct info for samsung
+   ↓ getWikipediaInfo > returns correct info for bp
+   ↓ getWikipediaInfo > returns correct info for channel 4
+   ↓ getWikipediaInfo > returns correct info for byd
+   ↓ getWikipediaInfo > returns correct info for moonpig
+   ↓ getWikipediaInfo > returns correct info for dell
+   ↓ getWikipediaInfo > returns correct info for tfl
+   ↓ getWikipediaInfo > returns correct info for ikea
+   ↓ getWikipediaInfo > returns correct info for abercrombie and fitch
+   ↓ getWikipediaInfo > returns correct info for anker
+   ↓ getWikipediaInfo > returns correct info for b&q
+   ↓ getWikipediaInfo > returns correct info for a24
+   ↓ getWikipediaInfo > returns correct info for minute maid
+   ↓ getWikipediaInfo > returns correct info for colman's
+   ↓ getCompanyNames > gets the correct names for A24
+   ↓ getCompanyNames > gets the correct names for Levi's
+   ↓ getCompanyNames > gets the correct names for Oreo
+   ↓ getCompanyNames > gets the correct names for Unilever
+   ↓ getCompanyNames > gets the correct names for Five Guys
+   ↓ getCompanyNames > gets the correct names for Costco
+   ↓ getCompanyNames > gets the correct names for Greggs
+   ↓ getCompanyNames > gets the correct names for Sony
+   ↓ getCompanyNames > gets the correct names for Marvel
+   ↓ getRecord > returns correct record for apple
+   ↓ getRecord > returns correct record for samsung
+   ↓ getRecord > returns correct record for byd
+   ↓ getRecord > returns correct record for moonpig
+   ↓ getRecord > returns correct record for dell
+   ↓ getRecord > returns correct record for tfl
+   ↓ getRecord > returns correct record for ikea
+   ↓ getRecord > returns correct record for abercrombie and fitch
+   ↓ getRecord > returns correct record for anker
+   ↓ getRecord > returns correct record for minute maid
+   ↓ getRecord > returns correct record for colman's
+   ↓ getRecord > returns correct record for 7-11
+   ↓ getRecord > returns correct record for 三菱自動車工業株式会社
+   ↓ searchEcosia > returns search results
+   ↓ getTitle > returns correct record for https://bandcamp.com/codeman1142
+   ↓ getTitle > returns correct record for https://simplywall.st/stocks/us/consumer-durables/nyse-levi/levi-strauss/news/levi-strauss-lawsuit-tests-culture-governance-and-human-capi
+   ↓ getTitle > returns correct record for https://www.business-humanrights.org/en/latest-news/us-apparel-cos-lawsuit-re-saipan/
+   ↓ getTitle > returns correct record for https://sprudge.com/lavazza-pushes-back-on-eu-deforestation-law-it-voluntarily-agreed-to-212541.html
+   ↓ getTitle > returns correct record for https://news.sky.com/story/lavazza-and-dualit-adverts-banned-after-making-misleading-compostable-claim-13358504
+   ↓ getTitle > returns correct record for https://www.bbc.co.uk/news/business-61096823
+   ↓ getTitle > returns correct record for https://www.nytimes.com/2016/03/01/business/catalog-interview-with-gloria-steinem-has-lands-end-on-its-heels.html
+   ↓ getTitle > returns correct record for https://www.law360.com/articles/783451/kohl-s-wins-early-approval-of-6-15m-deceptive-sales-deal
+   ↓ addRecord > can add a record
+   ↓ addRecord > doesn't overwrite
+   ↓ askQwen > responds as asked
+   ↓ askQwen > can add up
+   ↓ askQwen > can answer yes or no
+   ↓ askQwen > can select relevant search results for Meta
+   ↓ askQwen > can select relevant search results for Honda
+   ↓ askQwen > can select relevant search results for Dyson
+   ↓ askQwen > can select relevant search results for Amazon
+   ↓ askQwen > can select relevant search results for Gildan
+   ↓ askQwen > can select relevant search results for Morrisons
+   ↓ askQwen > can summarise an article for Apple
+   ↓ askQwen > can summarise an article for Kellogg's
+   ↓ askQwen > can summarise an article for Wagamama
+   ↓ askQwen > can write an ethics summary for Barclays
+   ↓ askQwen > can write an ethics summary for Pepsico
+   ↓ askQwen > can write an ethics summary for IKEA
+   ↓ askQwen > can write an ethics summary for Greggs
+   ↓ askQwen > can write an ethics summary for Nintendo
+   ↓ askQwen > can write an ethics summary for Burberry
+   ↓ askQwen > says who it is
+   ↓ askQwen > can generate JSON
+   ↓ askQwen > can take a huge input
+   ↓ askLlama4 > responds as asked
+   ↓ askLlama4 > can add up
+   ↓ askLlama4 > can answer yes or no
+   ↓ askLlama4 > can select relevant search results for Meta
+   ↓ askLlama4 > can select relevant search results for Honda
+   ↓ askLlama4 > can select relevant search results for Dyson
+   ↓ askLlama4 > can select relevant search results for Amazon
+   ↓ askLlama4 > can select relevant search results for Gildan
+   ↓ askLlama4 > can select relevant search results for Morrisons
+   ↓ askLlama4 > can summarise an article for Apple
+   ↓ askLlama4 > can summarise an article for Kellogg's
+   ↓ askLlama4 > can summarise an article for Wagamama
+   ↓ askLlama4 > can write an ethics summary for Barclays
+   ↓ askLlama4 > can write an ethics summary for Pepsico
+   ↓ askLlama4 > can write an ethics summary for IKEA
+   ↓ askLlama4 > can write an ethics summary for Greggs
+   ↓ askLlama4 > can write an ethics summary for Nintendo
+   ↓ askLlama4 > can write an ethics summary for Burberry
+   ↓ askLlama4 > says who it is
+   ↓ askLlama4 > can generate JSON
+   ↓ askLlama4 > can take a huge input
+   ↓ askGemma > responds as asked
+   ↓ askGemma > can add up
+   ↓ askGemma > can answer yes or no
+   ↓ askGemma > can select relevant search results for Meta
+   ↓ askGemma > can select relevant search results for Honda
+   ↓ askGemma > can select relevant search results for Dyson
+   ↓ askGemma > can select relevant search results for Amazon
+   ↓ askGemma > can select relevant search results for Gildan
+   ↓ askGemma > can select relevant search results for Morrisons
+   ↓ askGemma > can summarise an article for Apple
+   ↓ askGemma > can summarise an article for Kellogg's
+   ↓ askGemma > can summarise an article for Wagamama
+   ↓ askGemma > can write an ethics summary for Barclays
+   ↓ askGemma > can write an ethics summary for Pepsico
+   ↓ askGemma > can write an ethics summary for IKEA
+   ↓ askGemma > can write an ethics summary for Greggs
+   ↓ askGemma > can write an ethics summary for Nintendo
+   ↓ askGemma > can write an ethics summary for Burberry
+   ↓ askGemma > says who it is
+   ↓ askGemma > can generate JSON
+   ↓ askGemma > can take a huge input
+   ↓ askGPTOSS > responds as asked
+   ↓ askGPTOSS > can add up
+   ↓ askGPTOSS > can answer yes or no
+   ↓ askGPTOSS > can select relevant search results for Meta
+   ↓ askGPTOSS > can select relevant search results for Honda
+   ↓ askGPTOSS > can select relevant search results for Dyson
+   ↓ askGPTOSS > can select relevant search results for Amazon
+   ↓ askGPTOSS > can select relevant search results for Gildan
+   ↓ askGPTOSS > can select relevant search results for Morrisons
+   ↓ askGPTOSS > can summarise an article for Apple
+   ↓ askGPTOSS > can summarise an article for Kellogg's
+   ↓ askGPTOSS > can summarise an article for Wagamama
+   ↓ askGPTOSS > can write an ethics summary for Barclays
+   ↓ askGPTOSS > can write an ethics summary for Pepsico
+   ↓ askGPTOSS > can write an ethics summary for IKEA
+   ↓ askGPTOSS > can write an ethics summary for Greggs
+   ↓ askGPTOSS > can write an ethics summary for Nintendo
+   ↓ askGPTOSS > can write an ethics summary for Burberry
+   ↓ askGPTOSS > says who it is
+   ↓ askGPTOSS > can generate JSON
+   ↓ askGPTOSS > can take a huge input
+   ↓ askLocalGPTOSS > responds as asked
+   ↓ askLocalGPTOSS > can add up
+   ↓ askLocalGPTOSS > can answer yes or no
+   ↓ askLocalGPTOSS > can select relevant search results for Meta
+   ↓ askLocalGPTOSS > can select relevant search results for Honda
+   ↓ askLocalGPTOSS > can select relevant search results for Dyson
+   ↓ askLocalGPTOSS > can select relevant search results for Amazon
+   ↓ askLocalGPTOSS > can select relevant search results for Gildan
+   ↓ askLocalGPTOSS > can select relevant search results for Morrisons
+   ↓ askLocalGPTOSS > can summarise an article for Apple
+   ↓ askLocalGPTOSS > can summarise an article for Kellogg's
+   ↓ askLocalGPTOSS > can summarise an article for Wagamama
+   ↓ askLocalGPTOSS > can write an ethics summary for Barclays
+   ↓ askLocalGPTOSS > can write an ethics summary for Pepsico
+   ↓ askLocalGPTOSS > can write an ethics summary for IKEA
+   ↓ askLocalGPTOSS > can write an ethics summary for Greggs
+   ↓ askLocalGPTOSS > can write an ethics summary for Nintendo
+   ↓ askLocalGPTOSS > can write an ethics summary for Burberry
+   ↓ askLocalGPTOSS > says who it is
+   ↓ askLocalGPTOSS > can generate JSON
+   ↓ askLocalGPTOSS > can take a huge input
+   ✓ askLocalGemma4 > responds as asked  35042ms
+   ✓ askLocalGemma4 > can add up  4997ms
+   ✓ askLocalGemma4 > can answer yes or no  4503ms
+   ✓ askLocalGemma4 > can select relevant search results for Meta  57190ms
+   ✓ askLocalGemma4 > can select relevant search results for Honda  43713ms
+   ✓ askLocalGemma4 > can select relevant search results for Dyson  108556ms
+   × askLocalGemma4 > can select relevant search results for Amazon 258828ms
+     → expected [ Array(10) ] to include 2
+   ✓ askLocalGemma4 > can select relevant search results for Gildan  122417ms
+   × askLocalGemma4 > can select relevant search results for Morrisons 145441ms
+     → expected [ 3, 6, 7, 8, 13, 14, 16, 18, 19, 31 ] to include 5
+   ✓ askLocalGemma4 > can summarise an article for Apple  55214ms
+   ✓ askLocalGemma4 > can summarise an article for Kellogg's  38076ms
+   ✓ askLocalGemma4 > can summarise an article for Wagamama  35904ms
+   ✓ askLocalGemma4 > can write an ethics summary for Barclays  162079ms
+   ✓ askLocalGemma4 > can write an ethics summary for Pepsico  72941ms
+   ✓ askLocalGemma4 > can write an ethics summary for IKEA  772379ms
+   ✓ askLocalGemma4 > can write an ethics summary for Greggs  145020ms
+   ✓ askLocalGemma4 > can write an ethics summary for Nintendo  238092ms
+   ✓ askLocalGemma4 > can write an ethics summary for Burberry  37463ms
+   × askLocalGemma4 > says who it is 7014ms
+     → expected 'I am Gemma 4, a large language model …' to contain 'investigative journalist'
+   ✓ askLocalGemma4 > can generate JSON  15430ms
+   ↓ askLocalGemma4 > can take a huge input
+   ↓ sortSources > can sort sources for empty
+   ↓ sortSources > can sort sources for Gap
+   ↓ sortSources > can sort sources for Samsung
+   ↓ sortSources > can sort sources for Nestle
+   ↓ dist > can find the distance
+   ↓ length > can find the length
+   ↓ cosineSimilarity > calculates cosine similarity
+   ↓ embeddings > embeds
+   ↓ closestEmbedding > selects the best article
+   ↓ mostAlignedEmbedding > selects the best article
+   ↓ rustscrape > can read a webpage
+   ↓ rustscrape > can read a pdf
+   ↓ rustscrape > can read stackoverflow
+   ↓ rustscrape > can scrape any webpage
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Failed Tests 3 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  src/backend.test.js > askLocalGemma4 > can select relevant search results for Amazon
+AssertionError: expected [ Array(10) ] to include 2
+ ❯ src/backend.test.js:515:39
+    513|             );
+    514|             requiredResultNumbers.forEach( requiredNumber =>
+    515|               expect(selectedNumbers).toContain(requiredNumber)
+       |                                       ^
+    516|             );
+    517|           },
+ ❯ src/backend.test.js:514:35
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/3]⎯
+
+ FAIL  src/backend.test.js > askLocalGemma4 > can select relevant search results for Morrisons
+AssertionError: expected [ 3, 6, 7, 8, 13, 14, 16, 18, 19, 31 ] to include 5
+ ❯ src/backend.test.js:515:39
+    513|             );
+    514|             requiredResultNumbers.forEach( requiredNumber =>
+    515|               expect(selectedNumbers).toContain(requiredNumber)
+       |                                       ^
+    516|             );
+    517|           },
+ ❯ src/backend.test.js:514:35
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/3]⎯
+
+ FAIL  src/backend.test.js > askLocalGemma4 > says who it is
+AssertionError: expected 'I am Gemma 4, a large language model …' to contain 'investigative journalist'
+
+Expected: "investigative journalist"
+Received: "I am Gemma 4, a large language model developed by Google DeepMind. I am an open weights model designed to process and understand text and images to assist you with a wide variety of tasks."
+
+ ❯ src/backend.test.js:555:26
+    553|         console.log(response);
+    554|         expect(response).toMatch(/(I am)|(I'm)|(I’m)/);
+    555|         expect(response).toContain("investigative journalist");
+       |                          ^
+    556|     });
+    557|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[3/3]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  3 failed | 17 passed | 183 skipped (203)
+   Start at  11:12:05
+   Duration  2361.08s (transform 94ms, setup 0ms, collect 303ms, tests 2360.31s, environment 0ms, prepare 54ms)

@@ -1,0 +1,315 @@
+How Authorities Erased a Historic Black Cemetery in Virginia — ProPublica
+
+Arrow RightCaretClose
+
+ProPublica Journalism for the people, not for profit.  DONATE
+
+Skip to content Menu Menu  ProPublica  Donate  Menu Menu  ProPublica  Donate  Close Close  ProPublica  Donate  Search ProPublica:  Search Search  Topics Racial Justice Racial JusticeHealthcare Health CarePolitics PoliticsCriminal Justice Criminal Justice more…Browse by Place  Midwest Northwest South Southwest TexasType  Graphics & Data Newsletters Series Videos  Local Reporting Network ElectionlandInfo  About Us Impact Jobs & Fellowships Contact Us Follow ProPublica Bluesky Bluesky  Instagram Instagram  Facebook Facebook  X (Twitter)  YouTube YouTube  Threads Threads  LinkedIn LinkedIn  RSS RSS 
+
+						Mike and David Moseley visit the gravestone of one of their ancestors, Stephen Moseley.
+					
+
+						Christopher Smith, special to ProPublica
+					
+
+			Racial Justice		
+
+Developers Found Graves in the Virginia Woods. Authorities Then Helped Erase the Historic Black Cemetery.
+
+	The cemetery’s disappearance cleared the way for the expansion of a Microsoft data center, despite layers of federal and state regulations nominally intended to protect culturally significant sites.
+
+by Seth Freed Wessler
+December 16, 2022, 5:00 am
+
+ Share  
+
+Contrast Change Appearance  Change Appearance AutoLightDark
+
+Republish
+
+ 
+
+Republish This Story for Free
+Creative Commons License (CC BY-NC-ND 3.0)
+
+		Thank you for your interest in republishing this story. You are free to republish it so long as you do the following:	
+
+			You have to credit ProPublica and any co-reporting partners. In the byline, we prefer "Author Name, Publication(s)." At the top of the text of your story, include a line that reads: "This story was originally published by ProPublica." You must link the word "ProPublica" to the original URL of the story.		
+
+			If you're republishing online, you must link to the URL of this story on propublica.org, include all of the links from our story, including our newsletter sign up language and link, and use our PixelPing tag.		
+
+			If you use canonical metadata, please use the ProPublica URL. For more information about canonical metadata, refer to this Google SEO link.		
+
+			You can't edit our material, except to reflect relative changes in time, location and editorial style. (For example, "yesterday" can be changed to "last week," and "Portland, Ore." to "Portland" or "here.")		
+
+			You cannot republish our photographs or illustrations without specific permission. Please contact [email protected].		
+
+			It's okay to put our stories on pages with ads, but not ads specifically sold against our stories. You can't state or imply that donations to your organization support ProPublica's work.		
+
+			You can't sell our material separately or syndicate it. This includes publishing or syndicating our work on platforms or apps such as Apple News, Google News, etc.		
+
+			You can't republish our material wholesale, or automatically; you need to select stories to be republished individually. (To inquire about syndication or licensing opportunities, contact [email protected].)		
+
+			You can't use our work to populate a website designed to improve rankings on search engines or solely to gain revenue from network-based advertisements.		
+
+			We do not generally permit translation of our stories into another language.
+		
+
+			Any website our stories appear on must include a prominent and effective way to contact you.		
+
+HTML
+
+<h1>Developers Found Graves in the Virginia Woods. Authorities Then Helped Erase the Historic Black Cemetery.</h1>
+<p>Nobody working to bring a $346 million Microsoft project to rural Virginia expected to find graves in the woods. But in a cluster of yucca plants and cedar that needed to be cleared, surveyors happened upon a cemetery. The largest of the stones bore the name Stephen Moseley, “died December 3, 1930,” in a layer of cracking plaster. Another stone, in near perfect condition and engraved with a branch on the top, belonged to Stephen’s toddler son, Fred, who died in 1906.</p>
+<p>“This is not as bad as it sounds,” an engineering consultant wrote in March 2014 to Microsoft and to an official in Mecklenburg County, Virginia, who was helping clear hurdles for the project — an expansion of a massive data center. “We should be able to relocate these graves.”</p>
+<p>Mecklenburg County, along with Microsoft and a pair of consulting firms, immediately began a campaign to downplay the cemetery’s significance. Their most urgent task was to make sure the cemetery wouldn’t be deemed eligible for the National Register of Historic Places, the federal government’s list of sites worthy of protection. That designation would likely trigger an archaeological investigation overseen by the state and could force the developers to steer clear of the graves. Without such a designation, the graveyard could be moved with relative ease.</p>
+<p>After the discovery of the cemetery, the county and its consultants turned to archaeologists, which federal law required they retain. But that didn’t go as they hoped. In a detailed report, the archaeologists determined that the cemetery “is eligible for inclusion” on the historic registry. The report stressed the cemetery’s significance to African American life and death in Southside Virginia, citing the fact that Stephen Moseley and his relatives were Black. “It is recommended that the area be avoided,” the report said.</p>
+<p>To the county and its consultants, whose costs Microsoft covered, this was unacceptable. “We will challenge his recommendation,” wrote Alexis Jones, a consultant with a firm called Enviro-Utilities.</p>
+<p>The firm and the county pressed the archaeologists to reverse their conclusion that the cemetery belongs on the National Register. And they asked the team to cast doubt on the central finding that made the cemetery historically significant: that all the people buried there — members of a community of landowners who farmed tobacco in the wake of the Civil War and Reconstruction — were Black.</p>
+<p>The archaeologists would only comply with the latter request. They edited their report to say, “It cannot be ruled out that the burials are associated with white tenant farmers.” But when they sent Jones and her boss the revised report, they acknowledged that the new assertion was dubious: “All the evidence available at this stage suggests” the cemetery was the final resting place of an African American community, they wrote.</p>
+<p>Asked about the addition of the white tenant farmer claim, one of the archaeologists, David Dutton, told ProPublica: “We hadn’t exhumed any bodies. We hadn’t done any DNA. We hadn’t done any analysis. So could we say 100%? I mean, look, this is archaeology, you don’t know until you actually know.”</p>
+<p>Jones and her colleagues still wanted the eligibility for the historic registry designation nixed, so they sent the report to another archaeologist, seeking a second opinion. But the archaeologist didn’t go along, and in fact he rejected the notion that some of the people buried there might be white. “Jim Crow would not have had whites and blacks buried that closely together,” he wrote.</p>
+<p>He suggested that the original firm conduct additional historical research. “More work needs to be done on Moseley family members to identify who’s in the graves,” he wrote in an email to Jones’ boss, who forwarded it to the county.</p>
+<p>The county and its consultants ignored the advice.</p>
+<p>What the county had to do, because Virginia law requires it, was run a legal notice tucked among the ads and classifieds in several weekly print editions of The Mecklenburg Sun. Even that, Jones had warned in an email to Microsoft and the county, would “risk” the “chance of a local family member coming forward.”</p>
+<p>The second week the notice ran, in November of 2014, the paper published a front-page story about a controversy over new helmets for the high school football team following the death of a player from blunt force trauma. It appeared under the byline Mike Moseley. Moseley is a staff writer. He is also Stephen Moseley’s great-grandson.</p>
+<p>“The Moseleys have been here a long time,” Mike Moseley said of his family’s roots in that part of Virginia.</p>
+<p>When asked if he’d seen the notice in the pages of his own newspaper, he responded: “Do you read the classifieds and the ads? I do not.”</p>
+<p>Mike Moseley would not have been hard to locate, had the county actually tried to find Stephen Moseley’s descendants. The tall, lanky 60-year-old went to high school in Mecklenburg County and played basketball on the school team. After high school, he moved away for a time — he wasn’t interested in following his father into the funeral home business — but he returned to Mecklenburg more than two decades ago. Since then, he’s worked a series of jobs at local papers, including at the Sun, where he is still a reporter.</p>
+<p>“Everyone who works for the county knows me,” he said. “They know who we are. It’s hard to understand how they didn’t come talk to us.”</p>
+<p>Mecklenburg County did not reply to detailed questions about the handling of the cemetery and the contents of the emails, which were obtained through state open records requests. But in a phone interview, County Administrator Wayne Carter said that the newspaper notice was sufficient to comply with the law. He added that he asked some people who hunted on the land if they’d noticed anyone visiting the cemetery. “They had not seen anyone down there,” Carter said.</p>
+<p>Jones, the consultant, declined to answer questions, referring them to Microsoft. Enviro-Utilities did not respond to emailed questions and multiple calls and text messages. In response to questions, a Microsoft spokesperson said, “the County followed all applicable federal, state and local laws.”</p>
+<p>Like his nephew, David Moseley heard nothing from the county about the threat to the cemetery. The soft-spoken retired schoolteacher and administrator, who is now 85, grew up on the land adjacent to where Microsoft was building its data center and currently lives outside of Lynchburg, Virginia. “Yes,” he said, when asked in August about his relatives’ resting place, “there’s a cemetery there.” He did not at first believe that the remains of his grandfather, Stephen Moseley, were somewhere else. “Somebody would have called me if they moved the cemetery,” he said.</p>
+<p>In the months after the notice that ran in The Mecklenburg Sun, workers kept finding graves, ultimately 37 of them. Some of the plots were marked with pieces of quartz or with yucca plants, which were used by many Southern Black families who could not afford stones. Each burial site added days to the excavation, to the frustration of the county and its consultants. A crew dug up each of the graves, collecting bones, casket fragments, metal handles and hinges, etched epitaph plaques, a pair of eyeglasses, an ivory comb. The remains and other items were packed in plastic crates and stored in an office. Months later, all of it was reburied in four tightly packed, $500 cemetery plots one town to the north.</p>
+<hr />
+<p>David Moseley’s grandparents, Stephen and Lucy Moseley, and great-grandparents, James and Ellen Walker, in 1899 purchased 169 acres in a fertile region near the North Carolina border. His father, Douglas Moseley, inherited the Moseley homestead, and as a teenager, David woke in the early mornings to work with an uncle harvesting their tobacco crop. As far back as David knew, his ancestors had been buried on that land. In one of his earliest memories, from when he was about 4, he joined his parents in the graveyard to bury his stillborn sibling. “I remember being out there and the open grave,” he said.</p>
+<p>David, along with his last living sister, Christine Moseley, and their children, nieces and nephews, still own the eastern 83 acres of the property, which they call “the farm.” The family sold the adjacent tract, which Microsoft now owns, generations ago; David said his family entered a handshake agreement with the white people who bought the other half of the property that allowed the Moseleys to continue to visit the graves. Today, the farm is surrounded on nearly every side by land zoned for industrial use, including three of the 17 parcels that Microsoft has acquired in Mecklenburg County for the ongoing expansion of its data center there. Every so often, David Moseley or his niece who lives outside Washington, D.C., gets an offer to buy their remaining land. Sometimes the correspondence is signed by Wayne Carter, the county administrator who oversaw the permitting process for the Microsoft data center.</p>
+<p>“If they can find us to buy the land,” David said, as he sat at his dining room table, beside a stack of papers about the family property, “why couldn’t they find us for the cemetery?”</p>
+<p>The cemetery’s disappearance proceeded despite layers of federal and state regulations nominally intended to protect places like it and to facilitate consultation with people who might have an interest in what happens to historic sites.</p>
+<p>But in Virginia, as in most of the country, the power over what ultimately happens to these sites often belongs to whoever owns the land. And the labor of investigating what could make the site historic is often outsourced to for-profit archaeological firms working for property owners who have a financial stake in finding as little as possible.</p>
+<p>“We are among the only developed countries in the world that considers archaeological sites on private property to be private property themselves rather than cultural heritage,” said Fred McGhee, Ph.D., an African American archaeologist in an overwhelmingly white field.</p>
+<p>“Black historic places are some of the first to get maligned,” he said.</p>
+<p>African American cemeteries that are deemed abandoned or untended have routinely been treated as little more than a nuisance in the path to development. Historic preservation laws and regulations rarely protect them.</p>
+<p>On the campus of the University of Georgia, builders discovered a cemetery of enslaved people, and in 2017 the remains were reportedly loaded onto a moving truck and <a href="https://www.franklin.uga.edu/sites/default/files/Faculty%20Senate%20ad%20hoc%20committee%20report%204-17-19.pdf">reburied “in secret,”</a> according to a faculty review. In Texas in 2018, the graveyard of dozens of men held as convict laborers, a site whose significance was <a href="https://www.click2houston.com/news/local/2021/02/24/3-years-after-discovery-of-sugar-land-95-debate-on-how-best-to-tell-their-story-continues/">long known to community members</a>, was found by construction workers, and the remains were exhumed. In each case, the developers have said they treated the burials with dignity.</p>
+<p>Earlier this year, an agricultural company called Greenfield LLC applied for a federal permit to build a Statue of Liberty-sized grain transfer facility on 248 acres along the Mississippi River in Louisiana. An archaeological firm had initially concluded that the development put several notable Black historic sites, including a restored plantation that serves as a memorial to enslaved people, in harm’s way. But in May, <a href="https://www.propublica.org/article/louisiana-enslaved-grave-sites">ProPublica revealed</a> that the firm changed its report to back away from that conclusion after facing pressure from its client. The firm told ProPublica at the time that no one had forced it to make the revisions and that the report itself was a draft, noting that drafts often change “after clients review them.”</p>
+<p>Without first consulting the communities that live beside the development site and trace their ancestry to the people enslaved on the same land, the Army Corps of Engineers, the agency considering the permit, allowed Greenfield to drive enormous metal beams into a sugar cane field — even before the Corps signed off on the project. That field, researchers and community members say, likely holds unmarked graves of people who were held as slaves. Greenfield has said that it considers the protection of historic sites a priority and that it would stop construction if any such sites were discovered.</p>
+<p>For decades, the Army Corps has been criticized by other federal agencies, advocates and community and tribal organizations for failing to engage with affected groups about potential damage to cultural sites, as the 1966 National Historic Preservation Act requires.</p>
+<p>“The way this is supposed to work is that the Army Corps, or whatever federal agency is issuing a permit, should have told the developers that the descendant community needs to be identified and interviewed and that their perspectives need to be taken into account,” said J.W. Joseph, an archaeologist with New South Associates, a cultural resources firm in Georgia that has done archaeological work in dozens of cemeteries, often as part of projects regulated by the federal law.<br>
+“Far too often, that doesn’t really happen.”</p>
+<p>In Mecklenburg County, before Microsoft took possession of the land — for free, with significant tax breaks, along with state development dollars earmarked for struggling tobacco farming regions — the Army Corps raised no concerns about the development’s compliance with the Preservation Act. Nor did the Virginia Department of Historic Resources, the agency tasked with enforcing state and federal preservation laws, make any effort to step in and protect the site. (The department said it has never denied a landowner application for a reburial permit and preservation experts said Virginia judges almost never do either.)</p>
+<p>The Army Corps and the Department of Historic Resources facilitated the cemetery’s legal erasure. The graves were dug up in near silence.</p>
+<p>“Although the Department’s position is that those laid to rest should be left undisturbed,” a Department of Historic Resources spokesperson said, “we also understand that this is not always possible.”</p>
+<hr />
+<p>Once they had permission from the state Department of Historic Resources to excavate the remains, Microsoft, Mecklenburg County and its consultants showed little concern for anything other than speed and cost. It was a rainy spring in 2015, and the ground was soaked. The graves that an excavation crew dug open would sometimes fill with water. According to one crew member, Eric Mai, who had recently started a master’s program in archaeology, the already-fragile remains were further degraded — exposed, sometimes for days, to the wet muck.</p>
+<p>Everyone knew it was the wrong time for the work. “The conditions on site are about as bad as they can be for exhumation,” Jones, the consultant, wrote to Microsoft and the county, explaining why the dig was taking longer than expected. “It’s a nasty sticky wet clay,” she said of the soil that had primed the land decades ago for prolific tobacco yields. But Jones pressed the gas. “THEY need [to] find additional help and work 7 days a week until it is done.”</p>
+<p>The “remains were saturated and in very poor condition,” according to a report by the firm hired to do the excavation, Circa-Cultural Resource Management LLC. The Department of Historic Resources agreed with Circa that there wasn’t enough physical matter left to justify sending the bones to the Radford University forensic anthropologist they’d planned to hire to study markers of age, race and sex. It “would probably not add any new information to the record,” a Circa report said.</p>
+<p>“WAYNE, this is a GOOD thing!” Jones, the consultant, wrote to Carter, the county administrator. “This would be a huge money and time savings for us.” (This year, Jones took a job with Microsoft, as an environmental permitting program manager, according to her LinkedIn profile.)</p>
+<p>Mai said in an interview that he worried that in the rush to dig up the Moseley cemetery, the Circa team may have missed important artifacts and grave offerings. “I think it would probably be concerning for descendants to learn that the people out there doing the work, me included, did not really know what we were looking at,” said Mai. “Nobody on the team knew anything about African American burials.”</p>
+<p>Circa CEO Carol Tyrer wrote in response to questions that the team members did have “knowledge of African American cemeteries and burial practices.” Tyrer referred other questions about the Moseley cemetery excavation to Microsoft.</p>
+<p>In part because of his ethical concerns, Mai left the field of for-profit archaeological and historic survey work. “There is a disrespect in this process,” Mai said recently. “The people, the descendants, are not really part of what we do.”</p>
+<p>Had the county or any of its consultants made more of an effort to determine who they were digging up, they might have learned from public death certificates and census records that in one of the graves lay the remains of Ellen Walker and likely her husband, James Walker, the parents of Lucy Walker, who married Stephen Moseley, a preacher’s son from one county away. They might also have found living relatives like Mary Taylor, who is now 83 and is one of Stephen and Lucy Moseley’s many great-grandchildren. She lives in Norfolk and keeps a worn folder full of records showing that one of her mother’s brothers was buried in the Moseley cemetery. They might have come upon the records of other cousins and aunts and uncles by marriage, who formed their own branches of the family tree, whose descendants still own other plots of land in Mecklenburg County, and who appear to have been laid to rest there, too.</p>
+<p>In the final weeks of the dig, Microsoft began pushing harder, flying a drone over the Circa workers to monitor their progress. “There will be no hiding place!” a Microsoft project manager wrote in an email as crews prepared to cut down the trees still standing in a ring around the cemetery.</p>
+<p>Once the dig was complete, the Army Corps told Mecklenburg County that it had met its obligations under federal law. Construction crews leveled the ground where the cemetery had been. Ownership of the land was transferred from the county to Microsoft.</p>
+<p>In response to questions, the Corps wrote that it had consulted with the Department of Historic Resources and with Mecklenburg County before issuing the permit. A spokesperson also stated that the Corps had posted a notice on its own website around the same time the county ran its notice in the Sun “soliciting comments on the project.” Nobody responded.</p>
+<p>Aerial photos of Mecklenburg County going back to the 1990s show rows of evergreen trees that wind across both of the old Moseley plots like the whorls and arches of a thumbprint. Then, in a 2016 satellite image of the terrain, the contours of trees and their center point have disappeared. A row of rectangles, the backfilled graves, appear in the tan earth. By 2020, an aerial view shows only an undeveloped dirt patch on the far eastern edge of the Microsoft site, just over the line from the land the Moseleys still own.</p>
+<p>“Because the cemetery has been relocated from its original location,” the final archaeological record on file with the state said, “it is no longer eligible for listing on the National Register of Historic Places.”</p>
+<hr />
+<p>In 2019, four years after the Moseley cemetery was dug up, Mecklenburg County began building a sorely needed new middle and high school. On the uncleared land, surveyors discovered a cluster of headstones inscribed with the last name Tunstall, a white family with a long history in the region. The graves would need to be moved for construction to proceed as planned, and the school board put a notice in the newspaper, like the one that had been placed about the Moseley cemetery. But in this case, the relocation was also discussed in open school board meetings. A construction firm that worked on the project trumpeted its effort to help find relatives.</p>
+<p>A Mecklenburg County sheriff’s deputy named Dustyne Lett saw the news of the cemetery on Facebook. She is a descendant of the Tunstalls.</p>
+<p>“By us being involved, we could have a say about where they would be moved,” Lett said recently.</p>
+<p>A county judge issued an order giving the school board permission to disinter the remains. They were reburied in a family cemetery several towns away.</p>
+<p>“Family members need to be buried with family members,” Lett said. “It’s not like they get together to have dinner. But for us living people, we want to have one spot where we can visit them, talk to them.”</p>
+<p>David and Mike Moseley do not imagine that they would have won a fight against Microsoft or the county to keep the cemetery where it was, though they would have wanted the chance to wage one. They also were denied the chance to decide where their ancestors would be reburied.</p>
+<p>“We would have wanted them to be moved here, where the rest of the family is,” David Moseley told me when we met in the Jerusalem Temple United Holy Church Cemetery, where the Moseleys have buried their relatives since the 1960s, after they moved off the farm. David’s sister Dorothy Tolbert, who passed away in New Jersey in May, is buried there, not far from Lucy Moseley’s grave — a grave that had been publicly logged online three years before the Microsoft project. “That would have been respectful, that would have allowed them to be together,” David said. In 1967, when Lucy Moseley died at the age of 96, relatives figured moving her husband’s grave to the Jerusalem Temple cemetery would have been too expensive. They would let their ancestors rest in peace.</p>
+<p>At least, David Moseley said, Microsoft or the county could have placed a sign or historical marker on the land where the cemetery had been, noting the names of everyone who’d been buried in the old graveyard.</p>
+<p>State and local officials have actively worked to honor and preserve white cemeteries in Mecklenburg County. In a 2003 book about the successful effort to have several historic town centers listed on the National Register of Historic Places, the view from a white cemetery is described as “bucolic.” That view has been protected by a Virginia historic preservation easement. Another cemetery, with only three visible stones, is noted for its impressive gateposts, which are inscribed with the words “Love Makes Memorial Eternal” and which were donated in 1941 by the United Daughters of the Confederacy.</p>
+<p>In August, I met David and Mike Moseley to look for their relatives’ reburied graves in a cemetery in Chase City, 15 minutes north of the Microsoft data center. The final excavation report had said there would be a marker placed “indicating how many remains, where they were removed from, date, and known family names.”</p>
+<p>We drove slowly through the cemetery, looking for a sign. We did not find one. Over lunch at a local restaurant, we called the Chase City municipal office. A clerk told us that she thought she knew what we were talking about; in the new section of the town cemetery, past the mausoleum, we’d find “the graves the county sent.”</p>
+<p>“There are no names. It just says ‘assorted bones,’” she said, reading off a paper on file in the town office. She gave us directions, listing the names on several other stones in the vicinity of the reburial plots.</p>
+<p>Past the mausoleum, we spotted a grave with one of those names and stopped the car. David peered out the window. “I know that stone,” he said quietly. “It’s been a long time since I’ve seen it.”</p>
+<p>Stephen Moseley’s gravestone had been set in the ground. Six feet to the right stood the stone of his toddler son, Fred D. Moseley. There is nothing noting the existence of any other remains, just an unmarked stretch of grass.</p>
+<p>David and Mike Moseley placed their hands on the top of Stephen’s gravestone. “I would not have known where he was buried,” Mike Moseley said, repeatedly, and then sat down in front of the stone, his hand still resting on the top, and cried. Being here with them now, he said, “this connects us.”</p>
+<link rel="canonical" href="https://www.propublica.org/article/how-authorities-erased-historic-black-cemetery-virginia" />
+<meta name="syndication-source" content="https://www.propublica.org/article/how-authorities-erased-historic-black-cemetery-virginia" />
+<script type="text/javascript" src="https://pixel.propublica.org/pixel.js" async></script>
+ 
+Copy HTML
+
+ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up for Dispatches, a newsletter that spotlights wrongdoing around the country, to receive our stories in your inbox every week.
+
+Nobody working to bring a $346 million Microsoft project to rural Virginia expected to find graves in the woods. But in a cluster of yucca plants and cedar that needed to be cleared, surveyors happened upon a cemetery. The largest of the stones bore the name Stephen Moseley, “died December 3, 1930,” in a layer of cracking plaster. Another stone, in near perfect condition and engraved with a branch on the top, belonged to Stephen’s toddler son, Fred, who died in 1906.
+“This is not as bad as it sounds,” an engineering consultant wrote in March 2014 to Microsoft and to an official in Mecklenburg County, Virginia, who was helping clear hurdles for the project — an expansion of a massive data center. “We should be able to relocate these graves.”
+Mecklenburg County, along with Microsoft and a pair of consulting firms, immediately began a campaign to downplay the cemetery’s significance. Their most urgent task was to make sure the cemetery wouldn’t be deemed eligible for the National Register of Historic Places, the federal government’s list of sites worthy of protection. That designation would likely trigger an archaeological investigation overseen by the state and could force the developers to steer clear of the graves. Without such a designation, the graveyard could be moved with relative ease.
+After the discovery of the cemetery, the county and its consultants turned to archaeologists, which federal law required they retain. But that didn’t go as they hoped. In a detailed report, the archaeologists determined that the cemetery “is eligible for inclusion” on the historic registry. The report stressed the cemetery’s significance to African American life and death in Southside Virginia, citing the fact that Stephen Moseley and his relatives were Black. “It is recommended that the area be avoided,” the report said.
+To the county and its consultants, whose costs Microsoft covered, this was unacceptable. “We will challenge his recommendation,” wrote Alexis Jones, a consultant with a firm called Enviro-Utilities.
+The firm and the county pressed the archaeologists to reverse their conclusion that the cemetery belongs on the National Register. And they asked the team to cast doubt on the central finding that made the cemetery historically significant: that all the people buried there — members of a community of landowners who farmed tobacco in the wake of the Civil War and Reconstruction — were Black.
+
+The archaeologists would only comply with the latter request. They edited their report to say, “It cannot be ruled out that the burials are associated with white tenant farmers.” But when they sent Jones and her boss the revised report, they acknowledged that the new assertion was dubious: “All the evidence available at this stage suggests” the cemetery was the final resting place of an African American community, they wrote.
+Asked about the addition of the white tenant farmer claim, one of the archaeologists, David Dutton, told ProPublica: “We hadn’t exhumed any bodies. We hadn’t done any DNA. We hadn’t done any analysis. So could we say 100%? I mean, look, this is archaeology, you don’t know until you actually know.”
+Jones and her colleagues still wanted the eligibility for the historic registry designation nixed, so they sent the report to another archaeologist, seeking a second opinion. But the archaeologist didn’t go along, and in fact he rejected the notion that some of the people buried there might be white. “Jim Crow would not have had whites and blacks buried that closely together,” he wrote.
+He suggested that the original firm conduct additional historical research. “More work needs to be done on Moseley family members to identify who’s in the graves,” he wrote in an email to Jones’ boss, who forwarded it to the county.
+The county and its consultants ignored the advice.
+What the county had to do, because Virginia law requires it, was run a legal notice tucked among the ads and classifieds in several weekly print editions of The Mecklenburg Sun. Even that, Jones had warned in an email to Microsoft and the county, would “risk” the “chance of a local family member coming forward.”
+The second week the notice ran, in November of 2014, the paper published a front-page story about a controversy over new helmets for the high school football team following the death of a player from blunt force trauma. It appeared under the byline Mike Moseley. Moseley is a staff writer. He is also Stephen Moseley’s great-grandson.
+“The Moseleys have been here a long time,” Mike Moseley said of his family’s roots in that part of Virginia.
+When asked if he’d seen the notice in the pages of his own newspaper, he responded: “Do you read the classifieds and the ads? I do not.”
+Mike Moseley would not have been hard to locate, had the county actually tried to find Stephen Moseley’s descendants. The tall, lanky 60-year-old went to high school in Mecklenburg County and played basketball on the school team. After high school, he moved away for a time — he wasn’t interested in following his father into the funeral home business — but he returned to Mecklenburg more than two decades ago. Since then, he’s worked a series of jobs at local papers, including at the Sun, where he is still a reporter.
+“Everyone who works for the county knows me,” he said. “They know who we are. It’s hard to understand how they didn’t come talk to us.”
+Mike and David Moseley Christopher Smith, special to ProPublica
+Mecklenburg County did not reply to detailed questions about the handling of the cemetery and the contents of the emails, which were obtained through state open records requests. But in a phone interview, County Administrator Wayne Carter said that the newspaper notice was sufficient to comply with the law. He added that he asked some people who hunted on the land if they’d noticed anyone visiting the cemetery. “They had not seen anyone down there,” Carter said.
+
+Jones, the consultant, declined to answer questions, referring them to Microsoft. Enviro-Utilities did not respond to emailed questions and multiple calls and text messages. In response to questions, a Microsoft spokesperson said, “the County followed all applicable federal, state and local laws.”
+Like his nephew, David Moseley heard nothing from the county about the threat to the cemetery. The soft-spoken retired schoolteacher and administrator, who is now 85, grew up on the land adjacent to where Microsoft was building its data center and currently lives outside of Lynchburg, Virginia. “Yes,” he said, when asked in August about his relatives’ resting place, “there’s a cemetery there.” He did not at first believe that the remains of his grandfather, Stephen Moseley, were somewhere else. “Somebody would have called me if they moved the cemetery,” he said.
+
+Plaques and a handle found during the archaeological excavation of the Moseley family cemetery Obtained by ProPublica through a public records request
+In the months after the notice that ran in The Mecklenburg Sun, workers kept finding graves, ultimately 37 of them. Some of the plots were marked with pieces of quartz or with yucca plants, which were used by many Southern Black families who could not afford stones. Each burial site added days to the excavation, to the frustration of the county and its consultants. A crew dug up each of the graves, collecting bones, casket fragments, metal handles and hinges, etched epitaph plaques, a pair of eyeglasses, an ivory comb. The remains and other items were packed in plastic crates and stored in an office. Months later, all of it was reburied in four tightly packed, $500 cemetery plots one town to the north.
+
+David Moseley’s grandparents, Stephen and Lucy Moseley, and great-grandparents, James and Ellen Walker, in 1899 purchased 169 acres in a fertile region near the North Carolina border. His father, Douglas Moseley, inherited the Moseley homestead, and as a teenager, David woke in the early mornings to work with an uncle harvesting their tobacco crop. As far back as David knew, his ancestors had been buried on that land. In one of his earliest memories, from when he was about 4, he joined his parents in the graveyard to bury his stillborn sibling. “I remember being out there and the open grave,” he said.
+David, along with his last living sister, Christine Moseley, and their children, nieces and nephews, still own the eastern 83 acres of the property, which they call “the farm.” The family sold the adjacent tract, which Microsoft now owns, generations ago; David said his family entered a handshake agreement with the white people who bought the other half of the property that allowed the Moseleys to continue to visit the graves. Today, the farm is surrounded on nearly every side by land zoned for industrial use, including three of the 17 parcels that Microsoft has acquired in Mecklenburg County for the ongoing expansion of its data center there. Every so often, David Moseley or his niece who lives outside Washington, D.C., gets an offer to buy their remaining land. Sometimes the correspondence is signed by Wayne Carter, the county administrator who oversaw the permitting process for the Microsoft data center.
+“If they can find us to buy the land,” David said, as he sat at his dining room table, beside a stack of papers about the family property, “why couldn’t they find us for the cemetery?”
+The relocated gravestone of Fred D. Moseley, who died in 1906 at the age of 2 Christopher Smith, special to ProPublica
+The cemetery’s disappearance proceeded despite layers of federal and state regulations nominally intended to protect places like it and to facilitate consultation with people who might have an interest in what happens to historic sites.
+But in Virginia, as in most of the country, the power over what ultimately happens to these sites often belongs to whoever owns the land. And the labor of investigating what could make the site historic is often outsourced to for-profit archaeological firms working for property owners who have a financial stake in finding as little as possible.
+“We are among the only developed countries in the world that considers archaeological sites on private property to be private property themselves rather than cultural heritage,” said Fred McGhee, Ph.D., an African American archaeologist in an overwhelmingly white field.
+“Black historic places are some of the first to get maligned,” he said.
+African American cemeteries that are deemed abandoned or untended have routinely been treated as little more than a nuisance in the path to development. Historic preservation laws and regulations rarely protect them.
+On the campus of the University of Georgia, builders discovered a cemetery of enslaved people, and in 2017 the remains were reportedly loaded onto a moving truck and reburied “in secret,” according to a faculty review. In Texas in 2018, the graveyard of dozens of men held as convict laborers, a site whose significance was long known to community members, was found by construction workers, and the remains were exhumed. In each case, the developers have said they treated the burials with dignity.
+
+Earlier this year, an agricultural company called Greenfield LLC applied for a federal permit to build a Statue of Liberty-sized grain transfer facility on 248 acres along the Mississippi River in Louisiana. An archaeological firm had initially concluded that the development put several notable Black historic sites, including a restored plantation that serves as a memorial to enslaved people, in harm’s way. But in May, ProPublica revealed that the firm changed its report to back away from that conclusion after facing pressure from its client. The firm told ProPublica at the time that no one had forced it to make the revisions and that the report itself was a draft, noting that drafts often change “after clients review them.”
+Without first consulting the communities that live beside the development site and trace their ancestry to the people enslaved on the same land, the Army Corps of Engineers, the agency considering the permit, allowed Greenfield to drive enormous metal beams into a sugar cane field — even before the Corps signed off on the project. That field, researchers and community members say, likely holds unmarked graves of people who were held as slaves. Greenfield has said that it considers the protection of historic sites a priority and that it would stop construction if any such sites were discovered.
+For decades, the Army Corps has been criticized by other federal agencies, advocates and community and tribal organizations for failing to engage with affected groups about potential damage to cultural sites, as the 1966 National Historic Preservation Act requires.
+“The way this is supposed to work is that the Army Corps, or whatever federal agency is issuing a permit, should have told the developers that the descendant community needs to be identified and interviewed and that their perspectives need to be taken into account,” said J.W. Joseph, an archaeologist with New South Associates, a cultural resources firm in Georgia that has done archaeological work in dozens of cemeteries, often as part of projects regulated by the federal law.
+“Far too often, that doesn’t really happen.”
+In Mecklenburg County, before Microsoft took possession of the land — for free, with significant tax breaks, along with state development dollars earmarked for struggling tobacco farming regions — the Army Corps raised no concerns about the development’s compliance with the Preservation Act. Nor did the Virginia Department of Historic Resources, the agency tasked with enforcing state and federal preservation laws, make any effort to step in and protect the site. (The department said it has never denied a landowner application for a reburial permit and preservation experts said Virginia judges almost never do either.)
+The Army Corps and the Department of Historic Resources facilitated the cemetery’s legal erasure. The graves were dug up in near silence.
+“Although the Department’s position is that those laid to rest should be left undisturbed,” a Department of Historic Resources spokesperson said, “we also understand that this is not always possible.”
+
+Once they had permission from the state Department of Historic Resources to excavate the remains, Microsoft, Mecklenburg County and its consultants showed little concern for anything other than speed and cost. It was a rainy spring in 2015, and the ground was soaked. The graves that an excavation crew dug open would sometimes fill with water. According to one crew member, Eric Mai, who had recently started a master’s program in archaeology, the already-fragile remains were further degraded — exposed, sometimes for days, to the wet muck.
+Everyone knew it was the wrong time for the work. “The conditions on site are about as bad as they can be for exhumation,” Jones, the consultant, wrote to Microsoft and the county, explaining why the dig was taking longer than expected. “It’s a nasty sticky wet clay,” she said of the soil that had primed the land decades ago for prolific tobacco yields. But Jones pressed the gas. “THEY need [to] find additional help and work 7 days a week until it is done.”
+The “remains were saturated and in very poor condition,” according to a report by the firm hired to do the excavation, Circa-Cultural Resource Management LLC. The Department of Historic Resources agreed with Circa that there wasn’t enough physical matter left to justify sending the bones to the Radford University forensic anthropologist they’d planned to hire to study markers of age, race and sex. It “would probably not add any new information to the record,” a Circa report said.
+“WAYNE, this is a GOOD thing!” Jones, the consultant, wrote to Carter, the county administrator. “This would be a huge money and time savings for us.” (This year, Jones took a job with Microsoft, as an environmental permitting program manager, according to her LinkedIn profile.)
+Mai said in an interview that he worried that in the rush to dig up the Moseley cemetery, the Circa team may have missed important artifacts and grave offerings. “I think it would probably be concerning for descendants to learn that the people out there doing the work, me included, did not really know what we were looking at,” said Mai. “Nobody on the team knew anything about African American burials.”
+
+Circa CEO Carol Tyrer wrote in response to questions that the team members did have “knowledge of African American cemeteries and burial practices.” Tyrer referred other questions about the Moseley cemetery excavation to Microsoft.
+In part because of his ethical concerns, Mai left the field of for-profit archaeological and historic survey work. “There is a disrespect in this process,” Mai said recently. “The people, the descendants, are not really part of what we do.”
+Had the county or any of its consultants made more of an effort to determine who they were digging up, they might have learned from public death certificates and census records that in one of the graves lay the remains of Ellen Walker and likely her husband, James Walker, the parents of Lucy Walker, who married Stephen Moseley, a preacher’s son from one county away. They might also have found living relatives like Mary Taylor, who is now 83 and is one of Stephen and Lucy Moseley’s many great-grandchildren. She lives in Norfolk and keeps a worn folder full of records showing that one of her mother’s brothers was buried in the Moseley cemetery. They might have come upon the records of other cousins and aunts and uncles by marriage, who formed their own branches of the family tree, whose descendants still own other plots of land in Mecklenburg County, and who appear to have been laid to rest there, too.
+In the final weeks of the dig, Microsoft began pushing harder, flying a drone over the Circa workers to monitor their progress. “There will be no hiding place!” a Microsoft project manager wrote in an email as crews prepared to cut down the trees still standing in a ring around the cemetery.
+Microsoft flew a drone over the grave excavation site and took photos of its location in the middle of a ring of trees. Obtained by ProPublica through a public records request
+Once the dig was complete, the Army Corps told Mecklenburg County that it had met its obligations under federal law. Construction crews leveled the ground where the cemetery had been. Ownership of the land was transferred from the county to Microsoft.
+In response to questions, the Corps wrote that it had consulted with the Department of Historic Resources and with Mecklenburg County before issuing the permit. A spokesperson also stated that the Corps had posted a notice on its own website around the same time the county ran its notice in the Sun “soliciting comments on the project.” Nobody responded.
+Aerial photos of Mecklenburg County going back to the 1990s show rows of evergreen trees that wind across both of the old Moseley plots like the whorls and arches of a thumbprint. Then, in a 2016 satellite image of the terrain, the contours of trees and their center point have disappeared. A row of rectangles, the backfilled graves, appear in the tan earth. By 2020, an aerial view shows only an undeveloped dirt patch on the far eastern edge of the Microsoft site, just over the line from the land the Moseleys still own.
+“Because the cemetery has been relocated from its original location,” the final archaeological record on file with the state said, “it is no longer eligible for listing on the National Register of Historic Places.”
+The portion of the Microsoft data center that was built where the Moseley cemetery used to be Christopher Smith, special to ProPublica
+
+In 2019, four years after the Moseley cemetery was dug up, Mecklenburg County began building a sorely needed new middle and high school. On the uncleared land, surveyors discovered a cluster of headstones inscribed with the last name Tunstall, a white family with a long history in the region. The graves would need to be moved for construction to proceed as planned, and the school board put a notice in the newspaper, like the one that had been placed about the Moseley cemetery. But in this case, the relocation was also discussed in open school board meetings. A construction firm that worked on the project trumpeted its effort to help find relatives.
+A Mecklenburg County sheriff’s deputy named Dustyne Lett saw the news of the cemetery on Facebook. She is a descendant of the Tunstalls.
+“By us being involved, we could have a say about where they would be moved,” Lett said recently.
+A county judge issued an order giving the school board permission to disinter the remains. They were reburied in a family cemetery several towns away.
+
+“Family members need to be buried with family members,” Lett said. “It’s not like they get together to have dinner. But for us living people, we want to have one spot where we can visit them, talk to them.”
+David and Mike Moseley do not imagine that they would have won a fight against Microsoft or the county to keep the cemetery where it was, though they would have wanted the chance to wage one. They also were denied the chance to decide where their ancestors would be reburied.
+“We would have wanted them to be moved here, where the rest of the family is,” David Moseley told me when we met in the Jerusalem Temple United Holy Church Cemetery, where the Moseleys have buried their relatives since the 1960s, after they moved off the farm. David’s sister Dorothy Tolbert, who passed away in New Jersey in May, is buried there, not far from Lucy Moseley’s grave — a grave that had been publicly logged online three years before the Microsoft project. “That would have been respectful, that would have allowed them to be together,” David said. In 1967, when Lucy Moseley died at the age of 96, relatives figured moving her husband’s grave to the Jerusalem Temple cemetery would have been too expensive. They would let their ancestors rest in peace.
+At least, David Moseley said, Microsoft or the county could have placed a sign or historical marker on the land where the cemetery had been, noting the names of everyone who’d been buried in the old graveyard.
+Mike and David Moseley visit the cemetery where the family chose to bury many of its members in recent decades. If they’d known that the old family cemetery was being relocated, they would have asked to rebury the remains at this church, they said. Christopher Smith, special to ProPublica
+State and local officials have actively worked to honor and preserve white cemeteries in Mecklenburg County. In a 2003 book about the successful effort to have several historic town centers listed on the National Register of Historic Places, the view from a white cemetery is described as “bucolic.” That view has been protected by a Virginia historic preservation easement. Another cemetery, with only three visible stones, is noted for its impressive gateposts, which are inscribed with the words “Love Makes Memorial Eternal” and which were donated in 1941 by the United Daughters of the Confederacy.
+In August, I met David and Mike Moseley to look for their relatives’ reburied graves in a cemetery in Chase City, 15 minutes north of the Microsoft data center. The final excavation report had said there would be a marker placed “indicating how many remains, where they were removed from, date, and known family names.”
+We drove slowly through the cemetery, looking for a sign. We did not find one. Over lunch at a local restaurant, we called the Chase City municipal office. A clerk told us that she thought she knew what we were talking about; in the new section of the town cemetery, past the mausoleum, we’d find “the graves the county sent.”
+“There are no names. It just says ‘assorted bones,’” she said, reading off a paper on file in the town office. She gave us directions, listing the names on several other stones in the vicinity of the reburial plots.
+Past the mausoleum, we spotted a grave with one of those names and stopped the car. David peered out the window. “I know that stone,” he said quietly. “It’s been a long time since I’ve seen it.”
+Stephen Moseley’s gravestone had been set in the ground. Six feet to the right stood the stone of his toddler son, Fred D. Moseley. There is nothing noting the existence of any other remains, just an unmarked stretch of grass.
+David and Mike Moseley placed their hands on the top of Stephen’s gravestone. “I would not have known where he was buried,” Mike Moseley said, repeatedly, and then sat down in front of the stone, his hand still resting on the top, and cried. Being here with them now, he said, “this connects us.”
+Christopher Smith, special to ProPublica
+
+Corrections
+
+Mollie Simon contributed research.
+
+Filed under — Racial Justice
+
+Support fearless, independent journalism
+The story you just read was made possible by our readers. We hope it inspires you to support ProPublica, so we can continue producing investigations that shine a light on power, uncover the truth and drive real change.
+ProPublica is a nonprofit newsroom dedicated to nonpartisan, evidence-based journalism that holds power accountable. Founded in 2008 to address the decline in investigative reporting, we’ve spent over 15 years uncovering injustice, corruption, and abuse of power — work that is slow, expensive and more critical than ever to our democracy. With eight Pulitzer Prizes and reforms sparked in state and local governments, businesses, institutions and more, our reporting ensures that the public interest comes first.
+Today, the stakes are higher than ever. From ethics in our government offices, to reproductive health care, to the climate crisis and beyond, ProPublica remains on the front lines of the stories that matter most. Your gift helps us keep the powerful accountable and the truth accessible.
+Join over 80,000 supporters nationwide in standing up for investigative journalism that informs, inspires, and creates lasting impact. Thank you for making this work possible.
+DONATE TO PROPUBLICA
+
+Contributors
+
+Seth Freed Wessler
+
+X
+
+	Seth Freed Wessler was a reporter with ProPublica’s South unit who focused on immigration, the justice system and inequality.
+
+More Stories: Seth Freed Wessler
+
+ Need to Get in Touch?  
+
+What We’re Watching
+
+During Donald Trump’s second presidency, ProPublica will focus on the areas most in need of scrutiny. Here are some of the issues our reporters will be watching — and how to get in touch with them securely.
+
+Learn more about our reporting team. We will continue to share our areas of interest as the news develops.
+
+Sharon Lerner
+I cover health and the environment and the agencies that govern them, including the Environmental Protection Agency.
+
+Contact me
+
+Andy Kroll
+I cover justice and the rule of law, including the Justice Department, U.S. attorneys and the courts.
+
+Contact me
+
+Melissa Sanchez
+I report on immigration and labor, and I am based in Chicago.
+
+Contact me
+
+Jesse Coburn
+I cover housing and transportation, including the companies working in those fields and the regulators overseeing them.
+
+Contact me
+
+If you don’t have a specific tip or story in mind, we could still use your help. Sign up to be a member of our federal worker source network to stay in touch.
+
+Slide 1 
+Slide 2 
+Slide 3 
+Slide 4 
+Slide 5 
+Slide 6 
+
+More in Racial Justice
+
+More in Racial Justice Caret  
+
+“I Don’t Feel Safe”: Black Memphis Residents Report Harassment by Trump’s Police Task Force
+
+ProPublica Updates Its Database of Museums’ and Universities’ Compliance With Federal Repatriation Law
+
+The Story of One Mississippi County Shows How Private Schools Are Exacerbating Segregation
+
+Charleston Unveils Historical Marker at the Site of Firm That Held the Largest Known U.S. Slave Trade
+
+Tribal College Campuses Are Falling Apart. The U.S. Hasn’t Fulfilled Its Promise to Fund the Schools.
+
+Cookie & Zo’e: A Georgia Family Wrestles With School Choice 60 Years After the Start of Desegregation
+
+ 
+
+Most Read
+
+Chicago Promoted Two Police Officers After Investigators Found They Engaged in Sexual Misconduct
+
+What a Recorded Interview Between Police and Preachers Reveals About How a Minnesota Church Handled Sexual Abuse
+
+We Found That More Than 170 U.S. Citizens Have Been Held by Immigration Agents. They’ve Been Kicked, Dragged and Detained for Days.
+
+A Death Row Inmate Was Released on Bail After His Conviction Was Overturned. Louisiana Still Wants to Execute Him.
+
+UnitedHealthcare Tried to Deny Coverage to a Chronically Ill Patient. He Fought Back, Exposing the Insurer’s Inner Workings.
+
+Stay informed with the Daily Digest.  Mail Email Address:  Arrow Right Sign Up           ProPublica Investigative Journalism in the Public Interest © Copyright 2025 Pro Publica Inc. Sites ProPublica Local Reporting Network Texas Tribune Partnership Electionland Sections Topics Series Videos News Apps Get Involved The Nerd Blog @ProPublica Events Info About Board and Advisors Officers and Staff Diversity Jobs and FellowshipsMedia Center Reports Impact Awards Corrections Policies Code of Ethics Advertising Policy Gift Acceptance Privacy Policy Follow Newsletters iOS and AndroidRSS Feed More Send Us Tips Steal Our Stories Browse via Tor Contact Us Donate More Ways to Give 
+
+ Journalism That Holds Power to Account Sign up for ProPublica’s Big Story newsletter and get our latest stories delivered straight to your inbox. Please enter your email address:         Get the Newsletter Subscribe

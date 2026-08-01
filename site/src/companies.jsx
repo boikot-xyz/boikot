@@ -1,0 +1,530 @@
+import React from "react";
+import styled from "styled-components";
+import { Link, useParams, useSearchParams } from "react-router-dom";
+import slugify from "slugify";
+import { Helmet } from "react-helmet";
+
+import { getKey, Badge, Card, FlexRow, Icon, IconButton, Page, PillButton, Row, Stack, TagBadge, ForceWrap, PillPopper } from "./components.jsx";
+import { Comments } from "./comments.jsx";
+import { SearchLinks } from "./jsoner.jsx";
+import boikot from "../../boikot.json";
+
+
+const scoreColor = x =>
+    !x ? "#fffb" : `hsl(${x}deg 100% 60%)`;
+
+const ownerName = ownerKey =>
+    boikot.companies[ownerKey]?.names[0] || ownerKey;
+
+let allTags = Object.values(boikot.companies)
+    .flatMap( entry => entry.tags )
+    .toSorted();
+allTags = allTags.filter( (tag,i) => allTags.indexOf(tag) === i );
+
+const clearParams = () => window.history.replaceState(
+    {}, document.title, window.location.pathname );
+
+const Comment = styled.p`
+    line-height: 1.5rem;
+    sup {
+        color: var(--accent);
+    }
+`;
+
+function Tags({ tags }) {
+    return <FlexRow style={{ marginBottom: "0.5rem" }}>
+        { tags?.map( tag =>
+            <TagBadge key={tag} style={{ fontSize: "0.7rem" }}>
+                { tag }
+            </TagBadge>
+        )}
+    </FlexRow>;
+}
+
+function renderReferences({ comment, sources }) {
+    const refs = (comment.match(/\[\d+\]/g) ?? []).map(ref =>
+        <sup key={ref}><a href={sources[ref.match(/\d+/)]}
+            target="_blank" rel="noreferrer noopener">
+            { ref }
+        </a></sup> );
+    const chunks = comment.split(/\[\d+\]/g);
+    return chunks.flatMap( (_,i) => [chunks[i], refs[i]] );
+}
+
+function getOriginalUrl( url ) {
+    // get the original URL from an archive URL that ends with the original URL
+    if( url.match( /.https?:\/\/.+/ ) )
+        return url.match(/.(https?:\/\/.+)/)[1];
+    return url;
+}
+
+function Archives({ url }) {
+    const originalUrl = getOriginalUrl(url);
+    return <PillPopper $outline $small buttonContent="🗄️ archives">
+        <div style={{
+            position: "absolute", top: "1.9rem", right: 0, background: "var(--bg)", zIndex: 1,
+            border: "0.05rem solid var(--fg)", borderRadius: "0.5rem", padding: "0.9rem 1.5rem 0.9rem 1rem",
+            width: "12.5rem", display: "grid", gap: "0.4rem", fontSize: "0.9rem"
+        }}>
+
+            <div style={{
+                position: "absolute", top: "-0.25rem", right: "2.25rem", transform: "rotate(45deg)",
+                background: "var(--bg)", width: "0.5rem", height: "0.5rem", border: "0.05rem solid var(--fg)"
+            }}></div>
+            <p style={{ fontSize: "0.8rem" }}> Check archive sites for this link, in case the original has changed or is removed: </p>
+            <p><a title="🗄️ view on archive.org" target="_blank" href={ `https://web.archive.org/web/20250000000000*/${originalUrl}` }>
+                🗄️ archive.org
+            </a></p>
+            <p><a title="🗃️ view on archive.ph" target="_blank" href={ `https://archive.ph/${originalUrl}` }>
+                🗃️ archive.ph
+            </a></p>
+            <p><a title="👻 view on ghostarchive.org" target="_blank" href={ `https://ghostarchive.org/search?term=${encodeURIComponent(originalUrl)}` }>
+                👻 ghostarchive.org
+            </a></p>
+        </div>
+    </PillPopper>
+}
+
+function Sources({ entry }) {
+    const [ showSources, setShowSources ] = React.useState(false);
+    return <>
+        { showSources && <h3 style={{ fontSize: "1.5rem" }}> 
+            📰 Sources
+        </h3> }
+        { showSources &&
+            Object.entries(entry.sources).map( ([ key, url ]) =>
+                <Row style={{ width: "100%", gridTemplateColumns: "1.6rem 1fr max-content max-content", gap: "0.5rem" }}>
+                    <strong>[{key}]</strong>
+                    <a href={url} target="_blank" style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+                        {url}
+                    </a>
+                    <Archives url={url} />
+                </Row> ) }
+        { !!Object.keys(entry.sources).length &&
+            <PillButton $outline style={{ justifySelf: "left" }}
+                onClick={ () => setShowSources(!showSources) }>
+                { showSources ? "🙈  Hide Sources" : "📰  Show Sources" }
+            </PillButton> }
+    </>;
+}
+
+function ownerString(entry) {
+    let nameList = entry.ownedBy.map( code =>
+        boikot.companies[code]?.names?.[0] || code
+    );
+    try {
+        nameList = (new Intl.ListFormat("en")).format(nameList);
+    } catch {
+        nameList = nameList.join(", ");
+    }
+    return `${entry.names[0]} is ${ entry.ownedBy.length > 1 ? "jointly " : ""} owned by ${ nameList }.`
+}
+
+function Owners({ entry }) {
+    if( !entry.ownedBy.length ) return null;
+
+    return <Stack>
+        <h3 style={{ fontSize: "1.5rem", marginBottom: "0.5rem" }}>
+            { ownerString(entry) }
+        </h3>
+        { entry.ownedBy.map( code =>
+            boikot.companies[code] && <Company
+                key={code} compact entry={boikot.companies[code]} />
+        ) }
+    </Stack>;
+}
+
+function ScrollForMore({ style }) {
+    return <Row style={{ gap: "0.5rem", justifyItems: "center", position: "absolute", bottom: "0.5rem", right: "0.5rem", padding: "0.5rem 1rem", pointerEvents: "none", borderRadius: "1rem", zIndex: 100, background: "#0004", ...style }}>
+        <Icon i="arrow-down" height="1rem" />
+        <p> Scroll for more </p> 
+    </Row>
+}
+
+function Alternatives({ entry }) {
+    const [showScroll, setShowScroll] = React.useState(true);
+    const alternativeEntries = Object.values(boikot.companies)
+        .filter( otherEntry =>
+            otherEntry.tags.includes( entry.tags[0] )
+            && otherEntry.names[0] !== entry.names[0]
+            && !otherEntry.ownedBy.includes(slugify(entry.names[0]).toLowerCase())
+        ).sort( (a,b) =>
+            b.score - a.score
+        );
+    if( !alternativeEntries.length ) return null;
+    return <Card style={{ marginTop: "0.8rem", padding: "1.4rem", paddingBottom: 0, position: "relative" }} gap=".75rem">
+        <h3 style={{ fontSize: "1.5rem" }}> Alternatives to { entry.names[0] } </h3>
+        <Stack style={{
+            maxHeight: "26rem", overflowY: "scroll", paddingBottom: "1.4rem"
+        }} onScroll={showScroll ? (() => setShowScroll(false)) : undefined}>
+            <p> Send your message and feel good about where you shop. These companies are alternatives to { entry.names[0] }. </p>
+            <p style={{ fontSize: "0.85rem", marginBottom: "0.25rem", lineHeight: "1.75rem" }}> <span style={{marginRight: "0.2rem"}}>{alternativeEntries.length} alternative companies tagged:</span> <TagBadge>{ entry.tags[0] }</TagBadge> </p>
+            { alternativeEntries.map( (otherEntry, i) =>
+                <Row style={{ alignItems: "start", maxWidth: "100%" }}>
+                    <p style={{ fontWeight: 600, paddingTop: "0.3rem" }}>{i+1}.</p>
+                    <CompanyHeader
+                        key={otherEntry.names[0]} link entry={otherEntry} showComment />
+                </Row>
+            ) }
+            { alternativeEntries.length > 3 && showScroll && <ScrollForMore style={{ background: "var(--accent-darker-transparent)" }} />}
+            <p> Also consider shopping at small local businesses around you! </p>
+        </Stack>
+    </Card>;
+}
+
+function Subsidiaries({ entry }) {
+    const [showScroll, setShowScroll] = React.useState(true);
+    const subsidiaries = Object.values(boikot.companies).filter(
+        other => other.ownedBy.includes( getKey(entry) ) );
+    if( !subsidiaries.length ) return null;
+    const pluralText = subsidiaries.length <= 1 ? `this company` : `these ${subsidiaries.length} companies`;
+    return <Card style={{ marginTop: "0.8rem", padding: "1.4rem", paddingBottom: 0, background: "#0b0620", borderColor: "#a6f", position: "relative" }} gap=".75rem">
+        <h3 style={{ fontSize: "1.5rem" }}> Companies owned by { entry.names[0] } </h3>
+        <p> {entry.names[0]} is the parent of {pluralText}: </p>
+        <Stack style={{
+            maxHeight: "18rem", overflowY: "scroll", paddingBottom: "1.4rem"
+        }} onScroll={showScroll ? (() => setShowScroll(false)) : undefined}>
+            { subsidiaries.map( entry =>
+                <CompanyHeader link entry={entry} key={entry.names[0]} /> ) }
+            { subsidiaries.length > 4 && showScroll && <ScrollForMore style={{ background: "#0b062088" }} />}
+        </Stack>
+    </Card>;
+}
+
+const getShareLink = entry => {
+    let postText = entry.comment.repeat(1);
+    const maxLength = 300 - ("... Sources: " + window.location.href).length;
+    if( postText.length > maxLength )
+        postText = postText.slice(0, maxLength).replace(/ [^ ]+$/, "") + "...";
+    return `https://bsky.app/intent/compose?text=${encodeURIComponent(postText + " Sources: " + window.location.href)}`;
+};
+
+function CompanyActionButtons({ entry, setShowLinks }) {
+    return <FlexRow style={{ justifySelf: "right", justifyContent: "right" }}>
+        <Link to="/companies">
+            <PillButton $outline>
+                ↩️  Back to All Companies
+            </PillButton>
+        </Link>
+        { entry.comment &&
+            <Link to={getShareLink(entry)} target="_blank" rel="noopener noreferrer">
+                <PillButton $outline>
+                    <Row gap="0.4rem">
+                        <Icon i="bluesky" height="1rem" />
+                        <p> Share on Bluesky</p>
+                    </Row>
+                </PillButton>
+            </Link> }
+        <Link to={`/companies/edit/${getKey(entry)}`}>
+            <PillButton $outline>✏️   Edit this Company</PillButton>
+        </Link>
+        <Link to={`/companies/add-brands/${getKey(entry)}`}>
+            <PillButton $outline>🏷️   Add Brands for this Company</PillButton>
+        </Link>
+        <PillButton $outline onClick={() => setShowLinks(v => !v)}>🔗   External Links</PillButton>
+    </FlexRow>
+}
+
+function EthicsJudgement({ entry }) {
+    
+    if( entry.ownedBy.length || entry.score === null ) return null;
+
+    const ethicsJudgement =
+        entry.score < 20 ? "is highly unethical" :
+        entry.score < 40 ? "is not ethical" :
+        entry.score < 60 ? "is not that bad" :
+        "is an ethical company";
+
+    return <h3 style={{ fontSize: "1.5rem"}}> {entry.names[0]} {ethicsJudgement} </h3>
+}
+
+export function Company({ entry, compact }) {
+    const [ showLinks, setShowLinks ] = React.useState(false);
+
+    if( !entry?.names?.length ) return null;
+
+    return <Stack>
+        <div />
+        <CompanyHeader entry={entry} link={!!compact} />
+        <Tags tags={entry.tags} />
+        { !compact &&
+            <>
+                <p style={{ textTransform: "uppercase", fontSize: "0.7rem", letterSpacing: "0.15rem", margin: "0 0 -0.5rem" }}>
+                    Is {entry.names[0]} Ethical?
+                </p>
+            </>
+        }
+        <EthicsJudgement entry={entry} />
+        { entry.comment && <Comment>
+            { renderReferences(entry) }
+        </Comment> }
+        <Sources entry={entry} />
+        { !compact && <>
+            <Owners entry={entry} />
+            <div />
+            <Alternatives entry={entry} />
+            <Subsidiaries entry={entry} />
+            <CompanyActionButtons entry={entry} setShowLinks={setShowLinks} />
+            { showLinks && <>
+                <h3> External Links </h3>
+                <SearchLinks state={entry} />
+            </> }
+            <Comments entry={entry} />
+        </> }
+    </Stack>;
+}
+
+
+export function CompanyDetail() {
+    const { key } = useParams();
+    const entry = boikot.companies[key];
+    return <Page>
+        <Helmet>
+            <title> {entry.names[0]} Ethics Report | boikot </title>
+            <meta name="description" content={`Is ${entry.names[0]} Ethical? Read about the ethics of ${entry.names[0]}. ${entry.comment?.slice(0,100) ?? ""}`} />
+        </Helmet>
+        <Company entry={entry} />
+    </Page>;
+}
+
+
+export function Score({ score }) {
+    const emoji =
+        !score
+        ? "🤔"
+        : score < 20
+        ? "👺"
+        : score < 40
+        ? "😡"
+        : score < 60
+        ? "😐"
+        : score < 80
+        ? "😊"
+        : "🥰";
+    return <span title={`Ethical Score: ${score}/100`} style={{
+        padding: "0 0.25rem .15rem .3rem",
+        color: scoreColor(score),
+        border: `0.175rem solid ${scoreColor(score)}`,
+        borderRadius: "1.4rem",
+    }}>
+        <span style={{ fontSize: "0.8rem", fontWeight: "600", whiteSpace: "nowrap" }}>
+            { score || "?" } { emoji }
+        </span>
+    </span>
+}
+
+
+function Logo({ entry, load = true }) {
+    const companyName = entry.names[0];
+    const initials = companyName.split(" ").map(s => s[0]?.toUpperCase()).filter(i => !!i).join("");
+    const alt = companyName.length > 12 ? initials : companyName;
+    const [fontFamily, sizeMultiplier] = [
+        ["Michroma", 0.86],
+        ["Cinzel", 1],
+        ["Playfair Display", 1.24]
+    ][companyName.length % 3];
+
+    return <img src={load && entry.logoUrl}
+        alt={alt}
+        style={{
+            fontFamily,
+            maxWidth: "2.5rem",
+            maxHeight: "2.5rem",
+            objectFit: "contain",
+            fontSize: `${(0.8 * 1.09 ** (-alt.length)) * sizeMultiplier}rem`,
+            fontWeight: "600",
+            color: "var(--bg)",
+            wordWrap: "anywhere",
+            textAlign: "center",
+            lineHeight: 1,
+        }}
+    />;
+}
+
+
+export const CompanyHeader = React.memo(({ entry, link = false, loadLogo = true, showComment = false }) => {
+    const companyURL =
+        `/companies/${slugify(entry.names[0]).toLowerCase()}`;
+    const LinkOrFrag = link
+        ? props => <Link {...props} to={companyURL}
+            style={{ textDecoration: "none" }} />
+        : React.Fragment;
+    return <LinkOrFrag>
+        <Stack gap="0.5rem">
+            <Row gap="0.5rem" style={{ maxWidth: "min(100%, calc(100vw - 4rem))" }}>
+                <div
+                    style={{
+                        width: "3rem",
+                        height: "3rem",
+                        padding: "0.25rem",
+                        background: "white",
+                        borderRadius: "0.5rem",
+                        display: "grid",
+                        placeItems: "center",
+                    }}>
+                    <Logo entry={entry} load={loadLogo} />
+                </div>
+                <Stack gap="0" style={{ marginRight: "0.1rem" }}>
+                    <h3 style={{ textDecoration: link && "underline", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
+                        {entry.names[0]}
+                    </h3>
+                    { !!entry.tags.length &&
+                        <p style={{ color: "var(--fg)", fontSize: "0.8rem" }}>
+                            { entry.tags[0] } 
+                        </p> }
+                </Stack>
+                <Score {...entry} />
+            </Row>
+            { showComment &&
+                <p style={{
+                    color: 'white',
+                    whiteSpace: 'nowrap',
+                    textOverflow: 'ellipsis',
+                    overflow: 'hidden',
+                    fontSize: "0.8rem",
+                    fontWeight: 300,
+                }}>
+                    { entry.ownedBy?.length
+                        ? ownerString(entry)
+                        : entry.comment}
+                </p>
+            }
+        </Stack>
+    </LinkOrFrag>;
+});
+
+
+function SearchBar({ value, setValue }) {
+    return <div style={{ display: "grid", position: "relative" }}>
+        <input placeholder="🔎  search companies" value={value}
+            onChange={e => setValue(e.target.value)}
+            style={{ paddingRight: "2rem", minWidth: 0 }}
+            autoFocus />
+        { value &&
+            <IconButton i="x" onClick={() => setValue("")}
+                style={{
+                    position: "absolute",
+                    right: ".25rem",
+                    top: ".5rem",
+                    height: "1.4rem"
+                }}
+            />
+        }
+    </div>;
+}
+
+const disabledSelectStyle = { minWidth: 0, color: "#fff6" };
+const enabledSelectStyle = {
+    minWidth: 0,
+    color: "var(--fg)",
+    borderRight: "none",
+    borderRadius: ".5rem 0 0 .5rem",
+    paddingRight: 0,
+};
+
+function SelectCancelButton({ onClick }) {
+    return <div style={{
+        background: "var(--bg-light)",
+        paddingRight: ".25rem",
+        display: "grid",
+        placeItems: "center",
+        height: "100%",
+        border: "0.05rem solid var(--fg)",
+        borderLeft: 0,
+        borderRadius: "0 .5rem .5rem 0",
+    }}>
+        <IconButton i="x" style={{ height: "1.4rem" }} onClick={onClick} />
+    </div>;
+}
+
+function TagsFilter({ value, setValue }) {
+    return <Row gap="0" style={{ width: "10rem" }}>
+        <select style={ value ? enabledSelectStyle : disabledSelectStyle }
+            value={value}
+            onChange={ e => setValue(e.target.value) + clearParams() }>
+            <option value="" label="filter by tag" hidden />
+            { allTags.map( tag => <option value={tag} label={tag} /> ) }
+        </select>
+        { value && <SelectCancelButton
+            onClick={ () => setValue("") + clearParams() } /> }
+    </Row>;
+}
+
+const sortOptions = {
+    "sort by name":
+        (a, b) => a.names[0].localeCompare(b.names[0]),
+    "sort by score ascending":
+        (a, b) => a.score - b.score,
+    "sort by score descending":
+        (a, b) => b.score - a.score,
+    "sort by industry":
+        (a, b) => a.tags[0].localeCompare(b.tags[0]),
+    "sort by recently added":
+        (a, b) => new Date(b.updatedAt) - new Date(a.updatedAt),
+};
+const defaultSort = Object.keys(sortOptions)[0];
+
+function Sort({ value, setValue }) {
+    return <FlexRow style={{ marginTop: "-.4rem" }}>
+        { Object.keys(sortOptions).map( key =>
+            <PillButton $small key={key} $outline={ value !== key }
+                onClick={() => setValue(key)}>
+                { key }
+            </PillButton> ) }
+    </FlexRow>
+}
+
+export function Companies() {
+    const [ params ] = useSearchParams();
+    const paramSearch = params.get("search");
+    const paramTag = params.get("tag");
+    const paramSort = params.get("sort");
+    const [ search, setSearch ] = React.useState(paramSearch || "");
+    const [ renderAll, setRenderAll ] = React.useState(false);
+    const [ tag, setTag ] = React.useState(paramTag || "");
+    const [ sort, setSort ] = React.useState(paramSort || defaultSort);
+    const [ scrollPos, setScrollPos ] = React.useState(0);
+    const companies = Object.values(boikot.companies)
+        .filter( entry => !tag || entry.tags.includes(tag) )
+        .filter( entry => entry.score !== null )
+        .filter( entry => entry.names.some( name =>
+            name.toLowerCase().startsWith(search.toLowerCase())
+        ) )
+        .toSorted( sortOptions[sort] );
+    React.useEffect( () => { setRenderAll(true) } );
+    React.useEffect( () => {
+        const handleScroll = e => window.scrollY > scrollPos && setScrollPos(window.scrollY);
+        window.addEventListener('scroll', handleScroll);
+        return () => window.removeEventListener('scroll', handleScroll);
+    } );
+    return <Page>
+        <Helmet>
+            <title> Company Ethics Reports | boikot </title>
+            <meta name="description" content="Explore the ethical ratings of the world's biggest companies." />
+        </Helmet>
+        <Stack style={{ maxWidth: "calc(100vw - 4rem)" }}>
+            <h1> Companies </h1>
+            <p> Here you can see all of our company ethics reports, with relevant tags, sources, ethics summaries and scores ranging from 0 to 100. </p>
+            <span />
+            <div style={{ display: "grid", gap: ".5rem",
+                    gridTemplateColumns: "1fr 10rem" }}>
+                <SearchBar value={search} setValue={setSearch} />
+                <TagsFilter value={tag} setValue={setTag} />
+            </div>
+            <Sort value={sort} setValue={setSort} />
+            <span />
+            { companies
+                .slice( 0, renderAll ? undefined : 20 )
+                .map( ( entry, i ) =>
+                    <CompanyHeader entry={entry}
+                        link key={entry.names[0]} loadLogo={(scrollPos + 2000) / 88.5 > i} showComment />
+                )
+            }
+            <p> { companies.length } companies </p>
+            <Link to="/companies/edit">
+                <PillButton $outline>📝  Add a company</PillButton>
+            </Link>
+        </Stack>
+    </Page>;
+}
+

@@ -1,0 +1,266 @@
+Daniel Ek puts €100M into defence startup Helsing.ai, to support democracies | TechCrunch
+
+ TechCrunch Desktop Logo
+
+ TechCrunch Mobile Logo
+
+LatestStartupsVentureAppleSecurityAIAppsre:Invent 2025
+
+EventsPodcastsNewsletters
+
+SearchSubmit
+
+Site Search Toggle
+
+Mega Menu Toggle
+
+Topics
+
+		Latest	
+
+		AI	
+
+		Amazon	
+
+		Apps	
+
+		Biotech & Health	
+
+		Climate	
+
+		Cloud Computing	
+
+		Commerce	
+
+		Crypto	
+
+		Enterprise	
+
+		EVs	
+
+		Fintech	
+
+		Fundraising	
+
+		Gadgets	
+
+		Gaming	
+
+		Google	
+
+		Government & Policy	
+
+		Hardware	
+
+		Instagram	
+
+		Layoffs	
+
+		Media & Entertainment	
+
+		Meta	
+
+		Microsoft	
+
+		Privacy	
+
+		Robotics	
+
+		Security	
+
+		Social	
+
+		Space	
+
+		Startups	
+
+		TikTok	
+
+		Transportation	
+
+		Venture	
+
+More from TechCrunch
+		
+
+		Staff	
+
+		Events	
+
+		Startup Battlefield	
+
+		StrictlyVC	
+
+		Newsletters	
+
+		Podcasts	
+
+		Videos	
+
+		Partner Content	
+
+		TechCrunch Brand Studio	
+
+		Crunchboard	
+
+		Contact Us	
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Daniel Ek puts €100M into defence startup Helsing.ai, to support democracies 
+
+Mike Butcher
+
+12:00 AM PST · November 9, 2021 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Just over a year ago, Spotify co-founder Daniel Ek pledged €1 billion ($1.2 billion) of his personal fortune toward funding deep tech “moonshot projects” spread across the next 10 years. In particular, he was most interested in boosting European tech and European entrepreneurs as he said they were typically underfunded compared to U.S. counterparts.
+Today it looks like he’s also out to boost European (and other) liberal democratic societies with the news that Prima Materia, his investment company, will put €100 million into Helsing, a European defence AI company, which has raised €102.5 million in total as part of its Series A financing. The new funding will be used to grow the team of over 70 (so far), and accelerate product and delivery. It also means Helsing is claiming a valuation north of €400 million.
+
+Following a seed round with European investors earlier this year, Helsing plans to use it’s AI platform to boost defence and national security among the aforementioned democracies by making them more efficient, using live data.
+Ek will join the company’s board, alongside Helsing’s co-founders Torsten Reil, Gundbert Scherf and Niklas Köhler.
+Helsing says its real-time software platform “processes data from multiple sensors directly on vehicles and systems, to provide an integrated view of the operational environment with the aim of faster and more accurate decision-making.” So, unlike some systems which seek to make longer-term organizational changes, this appears to be a highly “live scenario” platform. This would be crucial in scenarios like cyberattacks, as well as “kinetic” scenarios.
+Helsing says this will involve turning unstructured sensor data into “information advantage” for democratic governments, providing the clearest picture possible in any operating environment by using “AI on the edge”. This, quite obviously, would involve gathering data from multiple sensors directly on vehicles and systems.
+Helsing also says it will “focus on serving countries which meet the highest democratic standards.”
+
+ 
+Techcrunch event
+
+Join the Disrupt 2026 Waitlist
+Add yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop. Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen your edge. Plus, meet the hundreds of startups innovating across every sector.
+
+Join the Disrupt 2026 Waitlist
+Add yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop. Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen your edge. Plus, meet the hundreds of startups innovating across every sector.
+
+San Francisco
+|
+October 13-15, 2026
+
+WAITLIST NOW
+
+Founded in 2021 and with offices in London, Munich and Berlin, Helsing plans to serve several countries, starting with teams in the U.K., France and Germany. It recently appointed former senior U.K. MoD official Nick Elliott as CEO of Helsing U.K., and Sir Chris Deverell (formerly head of the U.K.’s Joint Forces Command) as a senior advisor. A French entity will be a third home market in early 2022. Robert Fink joined as CTO from Palantir, where he was chief architect, earlier this year.
+In a statement, Torsten Reil, co-founder and CEO, said: “We founded Helsing with the conviction that liberal democratic values are worth defending, and that artificial intelligence will be an essential capability to keep us safe. Unlike authoritarian regimes, democratically elected governments have a special responsibility to their citizens: the use of technology needs to be transparent and guided by ethical standards set by us all. We believe that the required control and accountability needs to be designed into the technology from the outset.”
+Gundbert Scherf, co-founder and COO/president, added: “Working like a software and tech company, we designed Helsing to overcome another key challenge all democratic governments face: Government works in linear processes that are inherently difficult to square with the exponential speed of technology. At Helsing we don’t wait for the specific requirement to come out of the process, but instead, invest our own resources into our platform to solve entire categories of problems.”
+
+A word about the team: Reil previously built NaturalMotion, which exited to Zynga for $527 million. Scherf (president/ COO) was previously partner at McKinsey & Company and architect of the Bundeswehr’s Cyber and Information Domain Command and the digital directorate-general at the German Ministry of Defence. Koehler (CPO) is a theoretical physicist and has published AI contributions in Nature, Nature Communications, Nature Machine Intelligence. Fink (CTO) was a software engineer at Palantir Technologies. Elliott CBE MBE (CEO Helsing U.K.) was recently director-general of the U.K. Vaccine Taskforce.
+Daniel Ek commented: “We founded Prima Materia to advance ambitious science and technology to solve the world’s biggest challenges and help society progress towards a better future… Europe has a tremendous opportunity to lead in building dynamic AI systems in an ethical, transparent, and responsible manner. Torsten, Gundbert, Niklas, and the entire Helsing team take this responsibility seriously and are driven by the same values and ambition that led us to start Prima Materia.”
+
+Topics
+
+Artificial Intelligence (AI), berlin, computing, daniel ek, Europe, Europe, France, Germany, Helsing.ai, information, Information technology, London, McKinsey & Company, munich, naturalmotion, palantir technologies, Prima Materia, Software Engineer, Spotify, Startups, Startups, United Kingdom, United States, Zynga 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+			Mike Butcher	
+
+Editor At Large
+
+Mike Butcher (M.B.E.), formerly Editor-at-large of TechCrunch, has written for UK national newspapers and magazines and been named one of the most influential people in European technology by Wired UK. He has spoken at the World Economic Forum, Web Summit, and DLD. He has interviewed Tony Blair, Dmitry Medvedev, Kevin Spacey, Lily Cole, Pavel Durov, Jimmy Wales, and many other tech leaders and celebrities. Mike is a regular broadcaster, appearing on BBC News, Sky News, CNBC, Channel 4, Al Jazeera and Bloomberg. He has also advised UK Prime Ministers and the Mayor of London on tech startup policy, as well as being a judge on The Apprentice UK. GQ magazine named him one of the 100 Most Connected Men in the UK. He is the co-founder of TheEuropas.com (Top 100 listing of European startups); and the non-profits Techfugees.com, TechVets.co, and Startup Coalition. He was awarded an MBE in the Queen’s Birthday Honours list in 2016 for services to the UK technology industry and journalism. 
+
+View Bio 
+
+Free online
+TechCrunch Webinar
+
+Show your CFO the marketing proof they want!Join a free webinar hosted by Pantheon on Tuesday December 9 at 10am PT to learn where spend delivers & how to build a 2026 strategy grounded in real results. 
+
+Register Now
+
+Most Popular
+
+ Andy Jassy says Amazon’s Nvidia competitor chip is already a multibillion-dollar business
+
+Julie Bort
+
+ ‘End-to-end encrypted’ smart toilet camera is not actually end-to-end encrypted
+
+Lorenzo Franceschi-Bicchierai
+
+ Company backed by Donald Trump Jr.’s firm nabs $620M government contract
+
+Dominic-Madori Davis
+
+ YouTube releases its first-ever recap of videos you’ve watched
+
+Aisha Malik
+
+ 
+Techcrunch event
+
+Join the Disrupt 2026 Waitlist
+Add yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop. Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen your edge. Plus, meet the hundreds of startups innovating across every sector.
+
+Join the Disrupt 2026 Waitlist
+Add yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop. Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen your edge. Plus, meet the hundreds of startups innovating across every sector.
+
+San Francisco
+|
+October 13-15, 2026
+
+WAITLIST NOW
+
+ Amazon releases an impressive new AI chip and teases an Nvidia-friendly roadmap  
+
+Julie Bort
+
+ Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down
+
+Connie Loizos
+
+ New York state law takes aim at personalized pricing
+
+Anthony Ha
+
+		Loading the next article		
+
+		Error loading the next article	
+
+X
+LinkedIn
+Facebook
+Instagram
+youTube
+Mastodon
+Threads
+Bluesky
+
+TechCrunchStaffContact UsAdvertiseCrunchboard JobsSite Map
+Terms of ServicePrivacy PolicyRSS Terms of UseCode of Conduct
+AWS re:InventApple AIZillowClipbookNvidiaTech LayoffsChatGPT
+
+© 2025 TechCrunch Media LLC.

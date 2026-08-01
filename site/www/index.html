@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="icon" href="/assets/favicon.svg">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title> boikot - Corporate Ethics Database | Keeping Companies Accountable </title>
+
+        <meta name="title" content="Boikot - Corporate Ethics Database | Keeping Companies Accountable">
+        <meta name="description" content="Free, transparent database of corporate ethics records. Research company practices, track business accountability, and make informed consumer choices. Community-curated data under GPL v3.">
+        <meta name="keywords" content="corporate ethics, company accountability, ethical consumer guide, business ethics database, corporate responsibility tracker, ESG alternative, boycott information">
+        <meta name="author" content="boikot">
+        <meta name="robots" content="index, follow">
+        <meta name="language" content="English">
+        <meta name="revisit-after" content="7 days">
+        <meta name="theme-color" content="#000000">
+        <meta name="msapplication-TileColor" content="#000000">
+        <meta name="application-name" content="Boikot">
+        <link rel="canonical" href="https://boikot.xyz/">
+
+        <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "boikot",
+  "description": "Community-curated, transparent, freely accessible collection of corporate ethics records",
+  "url": "https://boikot.xyz",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://boikot.xyz/companies?search={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "boikot",
+    "url": "https://boikot.xyz"
+  }
+}
+        </script>
+
+        <style>
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Michroma&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --bg: #000711;
+    --bg-light: #112;
+    --bg-transparent: #00071199;
+    --fg: white;
+    --fg-transparent: #fff1;
+    --accent: #4ab;
+    --accent-dark: #055;
+    --accent-darker: #002626;
+    --accent-darker-transparent: #002626bb;
+    --success: #0f0;
+}
+
+@font-face {
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: url(/assets/sora-extralight.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/assets/sora.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(/assets/sora-bold.ttf) format('truetype');
+}
+
+body, button, input {
+    font-family: 'Sora', sans-serif;
+    color: var(--fg);
+}
+
+
+body {
+    background: var(--bg);
+    color: var(--fg);
+}
+
+input, textarea, select {
+    background: var(--bg-light);
+    color: var(--fg);
+    padding: 0.6rem;
+    border: 0.05rem solid var(--fg);
+    border-radius: 0.5rem;
+    font-family: 'Sora', sans-serif;
+    font-size: 1rem;
+}
+::placeholder {
+    color: var(--fg);
+    opacity: 0.5;
+}
+select {
+    appearance: none;
+    background-image: url(/assets/arrow.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 1rem;
+}
+
+button {
+    border: none;
+    background: transparent;
+    appearance: none;
+    cursor: pointer;
+}
+
+hr {
+    border: none;
+    border-top: 0.05rem solid var(--fg);
+    color: var(--fg);
+    overflow: visible;
+}
+
+a {
+    color: var(--accent);
+}
+        </style>
+    </head>
+    <body>
+        <div id="react-entrypoint">
+            <div style="width: 100vw; height: 100vh; display: grid; place-items: center; background: #000711">
+                <h2 style="color: white"> boikot 🙅‍♀️ </h2>
+            </div>
+        </div>
+        <div id="modal-portal"></div>
+
+        <div id="netlify-forms" style="display: none">
+            <form name="mailing-list" netlify
+                netlify-honeypot="bot-field" hidden>
+                <input type="email" name="email" />
+            </form>
+
+            <form name="new-comment" netlify
+                netlify-honeypot="bot-field" hidden>
+                <input type="hidden" name="createdAt" />
+                <input type="hidden" name="companyKey" />
+                <input name="username" />
+                <textarea name="commentText"></textarea>
+            </form>
+        </div>
+
+        <script src="/build/app.js"></script>
+        <script>
+            window.onload = () => {
+                pdfjsLib.GlobalWorkerOptions.workerSrc =
+                    "/assets/pdf.worker.min.mjs";
+            };
+        </script>
+    </body>
+</html>

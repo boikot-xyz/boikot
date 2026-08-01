@@ -1,0 +1,291 @@
+Zoom admits to shutting down activist accounts at the request of the Chinese government | TechCrunch
+
+ TechCrunch Desktop Logo
+
+ TechCrunch Mobile Logo
+
+LatestStartupsVentureAppleSecurityAIAppsre:Invent 2025
+
+EventsPodcastsNewsletters
+
+SearchSubmit
+
+Site Search Toggle
+
+Mega Menu Toggle
+
+Topics
+
+		Latest	
+
+		AI	
+
+		Amazon	
+
+		Apps	
+
+		Biotech & Health	
+
+		Climate	
+
+		Cloud Computing	
+
+		Commerce	
+
+		Crypto	
+
+		Enterprise	
+
+		EVs	
+
+		Fintech	
+
+		Fundraising	
+
+		Gadgets	
+
+		Gaming	
+
+		Google	
+
+		Government & Policy	
+
+		Hardware	
+
+		Instagram	
+
+		Layoffs	
+
+		Media & Entertainment	
+
+		Meta	
+
+		Microsoft	
+
+		Privacy	
+
+		Robotics	
+
+		Security	
+
+		Social	
+
+		Space	
+
+		Startups	
+
+		TikTok	
+
+		Transportation	
+
+		Venture	
+
+More from TechCrunch
+		
+
+		Staff	
+
+		Events	
+
+		Startup Battlefield	
+
+		StrictlyVC	
+
+		Newsletters	
+
+		Podcasts	
+
+		Videos	
+
+		Partner Content	
+
+		TechCrunch Brand Studio	
+
+		Crunchboard	
+
+		Contact Us	
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Zoom admits to shutting down activist accounts at the request of the Chinese government 
+
+Jonathan Shieber
+
+4:28 PM PDT · June 11, 2020 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Zoom, the wildly successful video chat service that has been a ubiquitous feature of life during the COVID-19 pandemic, said that it shut down three accounts at the request of the Chinese government for holding memorials for the victims of China’s violent suppression of peaceful protests at Tiananmen Square on June 4, 1989.
+As Axios first reported, the accounts of Lee Cheuk-Yan, Wang Dan and Zhou Fengsuo were closed down by the video communication service for planning and holding vigils and events to commemorate the Tiananmen Square Massacre.
+
+According to Zoom’s own timeline, the company was notified by the Chinese government about four large, June 4th commemoration meetings that were being publicized on social media. The Chinese government demanded that Zoom terminate the meetings and host accounts. Responding to the Chinese government’s request Zoom determined that three of the four events included participants from mainland China and were distributing information or discussing events that were illegal under Chinese law.
+Zoom shut down those meetings.
+The company also suspended the host accounts, which were located in Hong Kong and the U.S.
+In its statement, Zoom blamed the decision on the company’s inability to block participants by country. “We could have anticipated this need,” the company acknowledged.
+To correct its error, Zoom said it would be “developing technology over the next several days that will enable us to remove or block at the participant level based on geography. This will enable us to comply with requests from local authorities when they determine activity on our platform is illegal within their borders; however we will also be able to protect these conversations for participants outside of those borders where the activity is allowed.”
+
+ 
+Techcrunch event
+
+Join the Disrupt 2026 Waitlist
+Add yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop. Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen your edge. Plus, meet the hundreds of startups innovating across every sector.
+
+Join the Disrupt 2026 Waitlist
+Add yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop. Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen your edge. Plus, meet the hundreds of startups innovating across every sector.
+
+San Francisco
+|
+October 13-15, 2026
+
+WAITLIST NOW
+
+Zoom attributed its decision to acquiesce to the Chinese government as a consequence of operating as an international company. “We hope that one day, governments who build barriers to disconnect their people from the world and each other will recognize that they are acting against their own interests, as well as the rights of their citizens and all humanity,” the company wrote in its statement. “The reality is Zoom operates in more than 80 countries and continues to expand, which requires compliance with local laws even as Zoom seeks to promote the open exchange of ideas.”
+This isn’t the first time that Zoom’s privacy and security policies or the company’s potentially too-cozy relationship with the Chinese government has been called into question. The company also came under fire for routing some of its calls through China, something the company called a mistake, when the practice was first reported in April.
+The company has previously acknowledged that much of its technology development is conducted in China and security concerns from governments abound. Taiwan and India have both banned the app for government use, and the U.S. Government and German Ministry of foreign affairs are restricting use of the app for government purposes.
+
+Despite all of the security lapses and criticism, usage of Zoom has skyrocketed. It now counts over 300 million users of its streaming video communication services.
+Zoom admits some calls were routed through China by mistake
+
+The company’s full statement follows below:
+We hope that one day, governments who build barriers to disconnect their people from the world and each other will recognize that they are acting against their own interests, as well as the rights of their citizens and all humanity. The reality is Zoom operates in more than 80 countries and continues to expand, which requires compliance with local laws even as Zoom seeks to promote the open exchange of ideas.”
+Recent articles in the media about adverse actions we took toward Lee Cheuk-yan, Wang Dan, and Zhou Fengsuo have some calling into question our commitment to being a platform for an open exchange of ideas and conversations. To be clear, their accounts have been reinstated, and going forward, we will have a new process for handling similar situations. 
+We will do better as we strive to make Zoom the most secure and trusted way to bring people together.
+Key Facts
+
+In May and early June, we were notified by the Chinese government about four large, public June 4th commemoration meetings on Zoom that were being publicized on social media, including meeting details. The Chinese government informed us that this activity is illegal in China and demanded that Zoom terminate the meetings and host accounts.
+We did not provide any user information or meeting content to the Chinese government. We do not have a backdoor that allows someone to enter a meeting without being visible.
+For one of the meetings, even though the Chinese authorities demanded we take action, we chose to keep the meeting undisturbed because it did not have any participants from mainland China.
+For two of the four meetings, a U.S.-based Zoom team reviewed the meeting metadata (such as IP addresses) while the meeting was in progress, and confirmed a significant number of mainland China participants.
+For the fourth situation, the Chinese government showed us a social media invitation for an upcoming meeting referencing a June 4th commemoration event and demanded we take action. The Chinese authorities also notified us of a prior meeting under this account that they considered to be illegal. A U.S.-based Zoom team confirmed the attendance of mainland China participants in that prior meeting.
+Zoom does not currently have the ability to remove specific participants from a meeting or block participants from a certain country from joining a meeting. As such, we made the decision to end three of the four meetings and suspended or terminated the host accounts associated with the three meetings.
+
+How We Fell Short
+We strive to limit actions taken to only those necessary to comply with local laws. Our response should not have impacted users outside of mainland China. We made two mistakes:
+
+We suspended or terminated the host accounts, one in Hong Kong SAR and two in the U.S. We have reinstated these three host accounts.
+We shut down the meetings instead of blocking the participants by country. We currently do not have the capability to block participants by country. We could have anticipated this need. While there would have been significant repercussions, we also could have kept the meetings running.
+
+Actions We’re Taking
+
+Going forward Zoom will not allow requests from the Chinese government to impact anyone outside of mainland China.
+Zoom is developing technology over the next several days that will enable us to remove or block at the participant level based on geography. This will enable us to comply with requests from local authorities when they determine activity on our platform is illegal within their borders; however, we will also be able to protect these conversations for participants outside of those borders where the activity is allowed.
+We are improving our global policy to respond to these types of requests. We will outline this policy as part of our transparency report, to be published by June 30, 2020.
+
+In addition to connecting people for business, education, healthcare, and other professional endeavors, during this global pandemic Zoom has become the platform people all over the world are choosing for human connection. Zoom is proud of the role we are playing globally and fully supports the open exchange of ideas and conversations that bring communities together to meet, organize, collaborate, and celebrate.
+
+Topics
+
+Policy, TC, zoom 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+			Jonathan Shieber	
+
+Writer
+
+Jonathan was an editor at TechCrunch./p>	
+
+View Bio 
+
+Free online
+TechCrunch Webinar
+
+Show your CFO the marketing proof they want!Join a free webinar hosted by Pantheon on Tuesday December 9 at 10am PT to learn where spend delivers & how to build a 2026 strategy grounded in real results. 
+
+Register Now
+
+Most Popular
+
+ Andy Jassy says Amazon’s Nvidia competitor chip is already a multibillion-dollar business
+
+Julie Bort
+
+ ‘End-to-end encrypted’ smart toilet camera is not actually end-to-end encrypted
+
+Lorenzo Franceschi-Bicchierai
+
+ Company backed by Donald Trump Jr.’s firm nabs $620M government contract
+
+Dominic-Madori Davis
+
+ YouTube releases its first-ever recap of videos you’ve watched
+
+Aisha Malik
+
+ 
+Techcrunch event
+
+Join the Disrupt 2026 Waitlist
+Add yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop. Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen your edge. Plus, meet the hundreds of startups innovating across every sector.
+
+Join the Disrupt 2026 Waitlist
+Add yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop. Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen your edge. Plus, meet the hundreds of startups innovating across every sector.
+
+San Francisco
+|
+October 13-15, 2026
+
+WAITLIST NOW
+
+ Amazon releases an impressive new AI chip and teases an Nvidia-friendly roadmap  
+
+Julie Bort
+
+ Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down
+
+Connie Loizos
+
+ New York state law takes aim at personalized pricing
+
+Anthony Ha
+
+		Loading the next article		
+
+		Error loading the next article	
+
+X
+LinkedIn
+Facebook
+Instagram
+youTube
+Mastodon
+Threads
+Bluesky
+
+TechCrunchStaffContact UsAdvertiseCrunchboard JobsSite Map
+Terms of ServicePrivacy PolicyRSS Terms of UseCode of Conduct
+AWS re:InventApple AIZillowClipbookNvidiaTech LayoffsChatGPT
+
+© 2025 TechCrunch Media LLC.
