@@ -32401,6 +32401,73 @@
             "siteUrl": "http://tnt.com/",
             "updatedAt": "2026-07-29T10:22:34.763Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/TNT_Express"
+        },
+        "toolstation": {
+            "key": "toolstation",
+            "names": [
+                "Toolstation",
+                "Tool Station",
+                "Toolstation Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "construction",
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "travis-perkins"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Toolstation_logo.svg",
+            "siteUrl": "http://toolstation.com/",
+            "updatedAt": "2026-08-01T16:14:12.814Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Toolstation"
+        },
+        "trader-joe's": {
+            "key": "trader-joe's",
+            "names": [
+                "Trader Joe's",
+                "Trader Joe's Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "supermarket",
+                "retail"
+            ],
+            "score": 60,
+            "ownedBy": [
+                "aldi"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Trader_Joes_Logo.svg",
+            "siteUrl": "https://www.traderjoes.com/",
+            "updatedAt": "2026-08-04T11:59:13.803Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Trader_Joe%27s"
+        },
+        "trek-bicycle-corporation": {
+            "key": "trek-bicycle-corporation",
+            "names": [
+                "Trek Bicycle Corporation",
+                "Trek"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear",
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "intrepid-corporation"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/2018_Trek_logo_word_mark_wiki_buffer.svg",
+            "siteUrl": "https://www.trekbikes.com/us/en_US/",
+            "updatedAt": "2026-08-05T07:31:40.081Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Trek_Bicycle_Corporation"
         }
     }
 }
