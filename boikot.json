@@ -32468,6 +32468,155 @@
             "siteUrl": "https://www.trekbikes.com/us/en_US/",
             "updatedAt": "2026-08-05T07:31:40.081Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Trek_Bicycle_Corporation"
+        },
+        "tripadvisor": {
+            "key": "tripadvisor",
+            "names": [
+                "Tripadvisor",
+                "TRIP"
+            ],
+            "comment": "Tripadvisor is an American travel‑review platform that has been accused of predatory pricing practices [1] and of hosting misleading and fake AI‑generated reviews, including the use of AI to produce deceptive summaries of hotel feedback [2][3][4][5][6]. The company has also been implicated in supporting Israeli settlements [7][8][9] and in silencing sexual assault victims who reported abuse on its platform [10][11][12].",
+            "sources": {
+                "1": "https://web.archive.org/web/20200226212356/https://www.latimes.com/business/la-xpm-2012-jul-13-la-fi-mo-tripadvisor-fined-20120713-story.html",
+                "2": "https://www.bbc.co.uk/news/business-49605457",
+                "3": "https://hbr.org/2020/11/how-fake-customer-reviews-do-and-dont-work",
+                "4": "https://web.archive.org/web/20201109032051/https://www.standard.co.uk/news/london/dulwich-shed-becomes-tripadvisors-number-one-ranked-restaurant-in-london-after-fake-reviews-a3712606.html",
+                "5": "https://web.archive.org/web/20171129224653/http://www.bbc.co.uk/news/technology-16823012",
+                "6": "https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints",
+                "7": "https://web.archive.org/web/20210709093910/https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25542",
+                "8": "https://web.archive.org/web/20210709183439/https://reliefweb.int/report/occupied-palestinian-territory/database-all-business-enterprises-involved-certain-activities",
+                "9": "https://www.independent.co.uk/voices/israel-palestine-illegal-settlements-west-bank-air-bnb-trip-advisor-booking-expedia-a8754001.html",
+                "10": "https://web.archive.org/web/20171103220918/https://www.cbsnews.com/news/tripadvisor-accused-of-deleting-reviews-that-raised-red-flags",
+                "11": "https://web.archive.org/web/20200210165945/https://www.jsonline.com/story/news/investigations/2017/11/01/tripadvisor-removed-warnings-rapes-and-injuries-mexico-resorts-tourists-say/817172001/",
+                "12": "https://web.archive.org/web/20190906133638/https://www.nytimes.com/2017/11/14/travel/tripadvisor-warnings-criticism.html"
+            },
+            "sourceNotes": {
+                "1": "predatory pricing",
+                "2": "hosts misleading and fake AI generated reviews",
+                "3": "hosts misleading and fake AI generated reviews",
+                "4": "hosts misleading and fake AI generated reviews",
+                "5": "hosts misleading and fake AI generated reviews",
+                "6": "used AI to generate misleading summaries of hotel reviews",
+                "7": "involvement in Israeli settlements",
+                "8": "involvement in Israeli settlements",
+                "9": "involvement in Israeli settlements",
+                "10": "silenced sexual assault victims",
+                "11": "silenced sexual assault victims",
+                "12": "silenced sexual assault victims"
+            },
+            "tags": [
+                "tech",
+                "travel"
+            ],
+            "score": 18,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Tripadvisor_2025_Logo.svg",
+            "siteUrl": "https://www.tripadvisor.com/",
+            "updatedAt": "2026-08-07T10:34:59.882Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tripadvisor",
+            "error": "TypeError: Cannot read properties of undefined (reading '0')"
+        },
+        "cruise-critic": {
+            "key": "cruise-critic",
+            "names": [
+                "Cruise Critic"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech",
+                "travel"
+            ],
+            "score": 18,
+            "ownedBy": [
+                "tripadvisor"
+            ],
+            "updatedAt": "2026-08-07T11:03:04.518Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cruise_Critic",
+            "siteUrl": "https://www.cruisecritic.com/"
+        },
+        "flipkey": {
+            "key": "flipkey",
+            "names": [
+                "FlipKey"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech",
+                "travel"
+            ],
+            "score": 18,
+            "ownedBy": [
+                "tripadvisor"
+            ],
+            "updatedAt": "2026-08-07T11:03:04.607Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/FlipKey",
+            "siteUrl": "https://www.flipkey.com/"
+        },
+        "thefork": {
+            "key": "thefork",
+            "names": [
+                "TheFork"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech",
+                "travel"
+            ],
+            "score": 18,
+            "ownedBy": [
+                "tripadvisor"
+            ],
+            "updatedAt": "2026-08-07T11:03:04.846Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/TheFork",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c5/Thefork-logo-green.svg",
+            "siteUrl": "https://www.thefork.com.au/"
+        },
+        "niumba": {
+            "key": "niumba",
+            "names": [
+                "Niumba"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech",
+                "travel"
+            ],
+            "score": 18,
+            "ownedBy": [
+                "tripadvisor"
+            ],
+            "updatedAt": "2026-08-07T11:03:04.913Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Niumba",
+            "siteUrl": "https://www.niumba.com/"
+        },
+        "seatguru": {
+            "key": "seatguru",
+            "names": [
+                "SeatGuru"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech",
+                "travel"
+            ],
+            "score": 18,
+            "ownedBy": [
+                "tripadvisor"
+            ],
+            "updatedAt": "2026-08-07T11:03:05.287Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/SeatGuru",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/2020SGLogo.svg",
+            "siteUrl": "https://www.seatguru.com/"
         }
     }
 }
