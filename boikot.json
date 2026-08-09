@@ -32617,6 +32617,29 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/SeatGuru",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/2020SGLogo.svg",
             "siteUrl": "https://www.seatguru.com/"
+        },
+        "tropicana": {
+            "key": "tropicana",
+            "names": [
+                "Tropicana",
+                "Tropicana Brands Group",
+                "Tropicana Products, Inc."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "pai-partners",
+                "pepsico"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b5/Tropicana_green_flat_logo.svg",
+            "siteUrl": "https://www.tropicana.com/",
+            "updatedAt": "2026-08-09T15:47:49.638Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tropicana_Brands_Group"
         }
     }
 }
