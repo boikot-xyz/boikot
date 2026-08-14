@@ -32640,6 +32640,634 @@
             "siteUrl": "https://www.tropicana.com/",
             "updatedAt": "2026-08-09T15:47:49.638Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Tropicana_Brands_Group"
+        },
+        "twinings": {
+            "key": "twinings",
+            "names": [
+                "Twinings"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": null,
+            "ownedBy": [
+                "associated-british-foods"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Twinings_Tea_logo.png",
+            "siteUrl": "http://twinings.co.uk/",
+            "updatedAt": "2026-08-10T19:14:32.194Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Twinings"
+        },
+        "tylenol": {
+            "key": "tylenol",
+            "names": [
+                "Tylenol"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": null,
+            "ownedBy": [
+                "kenvue"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tylenol-red.svg",
+            "siteUrl": "https://www.tylenol.com/",
+            "updatedAt": "2026-08-11T20:10:49.017Z"
+        },
+        "kenvue": {
+            "key": "kenvue",
+            "names": [
+                "Kenvue"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pharmaceuticals"
+            ],
+            "score": null,
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kenvue_Logo_Black_RGB.svg/250px-Kenvue_Logo_Black_RGB.svg.png",
+            "siteUrl": "http://kenvue.com/",
+            "updatedAt": "2026-08-13T19:18:44.090Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenvue"
+        },
+        "kimberly-clark": {
+            "key": "kimberly-clark",
+            "names": [
+                "Kimberly-Clark",
+                "Kimberly-Clark Corporation",
+                "KMB"
+            ],
+            "comment": "Kimberly-Clark is an American consumer goods company that has engaged in price fixing [1], loaded employees' pensions with excessive fees [2], and engaged in greenwashing and deceptive advertising [3]. It has falsely advertised wipes as flushable [4], sold toxic nappies [5][6], used harmful ingredients in baby wipes [7], polluted a town with PFAS [8][9], caused an employee to lose fingers in an unsafe working environment [10], and has been implicated in abuse and trafficking in its supply chain [11].",
+            "sources": {
+                "1": "https://web.archive.org/web/20100214053711/http://www.ag.ny.gov/media_center/2000/jun/jun06a_00.html",
+                "2": "https://www.law360.com/articles/2268547/kimberly-clark-strikes-2-25m-deal-to-end-401-k-fee-suit",
+                "3": "https://lawstreetmedia.com/news/health/kimberly-clark-sued-for-greenwashed-baby-wipes/",
+                "4": "https://www.law360.com/articles/1688217/costco-kimberly-clark-get-ok-for-20m-flushable-wipe-deal",
+                "5": "https://www.courthousenews.com/pure-huggies-diapers-are-toxic-class-claims/",
+                "6": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/baby-food-class-action-lawsuit-and-settlement-news/huggies-class-action-claims-diapers-contain-skin-irritant-that-causes-rash/",
+                "7": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/huggies-baby-wipes-class-action-lawsuit-filed-over-allegedly-harmful-ingredients/",
+                "8": "https://www.nbcnews.com/health/health-news/lawsuit-kleenex-maker-kimberly-clark-pfas-forever-chemicals-rcna141268",
+                "9": "https://www.reuters.com/legal/litigation/kimberly-clark-factory-where-kleenex-made-pollutes-town-with-pfas-lawsuit-says-2024-02-29/",
+                "10": "https://www.osha.gov/ords/imis/establishment.inspection_detail?id=1505143.015",
+                "11": "https://eu.jsonline.com/story/money/business/2024/09/26/kimberly-clark-sued-over-alleged-abuse-of-suppliers-workers/75164931007/"
+            },
+            "sourceNotes": {
+                "1": "engaged in price fixing",
+                "2": "loaded employees' pensions with excessive fees",
+                "3": "greenwashing and deceptive advertising",
+                "4": "falsely advertised wipes as flushable",
+                "5": "sold toxic nappies",
+                "6": "sold toxic nappies",
+                "7": "harmful ingredients in baby wipes",
+                "8": "polluted town with PFAS",
+                "9": "polluted town with PFAS",
+                "10": "employee lost fingers in unsafe working environment",
+                "11": "abuse and trafficking in supply chain"
+            },
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": 17,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kimberly-Clark_Logo.png/250px-Kimberly-Clark_Logo.png",
+            "siteUrl": "https://www.kimberly-clark.com/en-us/",
+            "updatedAt": "2026-08-13T19:18:44.090Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kimberly-Clark"
+        },
+        "kleenex": {
+            "key": "kleenex",
+            "names": [
+                "Kleenex"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:27.596Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kleenex",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kleenex_2024.svg/250px-Kleenex_2024.svg.png",
+            "siteUrl": "https://www.kleenex.com/en-us"
+        },
+        "kotex": {
+            "key": "kotex",
+            "names": [
+                "Kotex"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:28.054Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kotex",
+            "logoUrl": "",
+            "siteUrl": "http://www.kotex.com/"
+        },
+        "depend": {
+            "key": "depend",
+            "names": [
+                "Depend"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:28.324Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Depend_(undergarment)"
+        },
+        "scott": {
+            "key": "scott",
+            "names": [
+                "Scott"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:28.683Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Scott_Paper_Company",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/66/Logo_of_Scott_Paper_Company.jpg"
+        },
+        "cottonelle": {
+            "key": "cottonelle",
+            "names": [
+                "Cottonelle"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:28.857Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cottonelle"
+        },
+        "andrex": {
+            "key": "andrex",
+            "names": [
+                "Andrex"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:28.904Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrex",
+            "siteUrl": "http://andrex.co.uk/"
+        },
+        "huggies-pull-ups": {
+            "key": "huggies-pull-ups",
+            "names": [
+                "Huggies Pull-Ups"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:28.985Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Huggies_Pull-Ups",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Huggies_Pull-Ups_Wetness_Indicator.png/250px-Huggies_Pull-Ups_Wetness_Indicator.png"
+        },
+        "goodnites": {
+            "key": "goodnites",
+            "names": [
+                "GoodNites"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:29.189Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/GoodNites",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/37/Current_2023_Goodnites_Logo.png",
+            "siteUrl": "https://www.goodnites.com/en-us/"
+        },
+        "little-swimmers": {
+            "key": "little-swimmers",
+            "names": [
+                "Little Swimmers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:29.825Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Little_Swimmers",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kimberly-Clark_Logo.png/250px-Kimberly-Clark_Logo.png",
+            "siteUrl": "https://www.kimberly-clark.com/en-us/"
+        },
+        "softex": {
+            "key": "softex",
+            "names": [
+                "Softex"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:30.975Z",
+            "wikipediaUrl": "https://id.wikipedia.org/wiki/Softex%20Indonesia"
+        },
+        "aveeno": {
+            "key": "aveeno",
+            "names": [
+                "Aveeno"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:31.115Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Aveeno",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aveeno_logo.svg/250px-Aveeno_logo.svg.png",
+            "siteUrl": "http://www.aveeno.com/"
+        },
+        "band-aid": {
+            "key": "band-aid",
+            "names": [
+                "Band-Aid"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:31.190Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Band-Aid",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Band-Aid_logo.svg/250px-Band-Aid_logo.svg.png",
+            "siteUrl": "http://band-aid.com/"
+        },
+        "benadryl": {
+            "key": "benadryl",
+            "names": [
+                "Benadryl"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:31.393Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Benadryl",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Benadryl_Itch_Stopping_Gel_%284600729217%29.jpg/250px-Benadryl_Itch_Stopping_Gel_%284600729217%29.jpg",
+            "siteUrl": "https://www.benadryl.com/"
+        },
+        "benylin": {
+            "key": "benylin",
+            "names": [
+                "Benylin"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:31.485Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Benylin"
+        },
+        "calpol": {
+            "key": "calpol",
+            "names": [
+                "Calpol"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:31.666Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Calpol"
+        },
+        "carefree": {
+            "key": "carefree",
+            "names": [
+                "Carefree"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:32.566Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Carefree_(feminine_hygiene)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Carefree_brand_logo.png/250px-Carefree_brand_logo.png",
+            "siteUrl": "https://carefreelinersandpads.com/"
+        },
+        "clean-andamp-clear": {
+            "key": "clean-andamp-clear",
+            "names": [
+                "Clean &amp; Clear"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:32.767Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Clean_&amp;_Clear"
+        },
+        "combantrin": {
+            "key": "combantrin",
+            "names": [
+                "Combantrin"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:33.053Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pyrantel",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Pyrantel_skeletal_formula.svg/250px-Pyrantel_skeletal_formula.svg.png"
+        },
+        "imodium": {
+            "key": "imodium",
+            "names": [
+                "Imodium"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:33.297Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Loperamide",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Loperamide.svg/250px-Loperamide.svg.png"
+        },
+        "listerine": {
+            "key": "listerine",
+            "names": [
+                "Listerine"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:33.517Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Listerine",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Listerine_logo.svg/250px-Listerine_logo.svg.png",
+            "siteUrl": "https://www.listerine.com/"
+        },
+        "motrin": {
+            "key": "motrin",
+            "names": [
+                "Motrin"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:33.646Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibuprofen",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ibuprofen.svg/250px-Ibuprofen.svg.png"
+        },
+        "mylanta": {
+            "key": "mylanta",
+            "names": [
+                "Mylanta"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:33.959Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mylanta"
+        },
+        "johnson's-baby": {
+            "key": "johnson's-baby",
+            "names": [
+                "Johnson's Baby"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:34.519Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Johnson's_Baby",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Johnson%27s_Baby_Product_Shelves_at_Kroger.JPG/500px-Johnson%27s_Baby_Product_Shelves_at_Kroger.JPG",
+            "siteUrl": "http://johnsonsbaby.com/"
+        },
+        "sudafed": {
+            "key": "sudafed",
+            "names": [
+                "Sudafed"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:34.915Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pseudoephedrine",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Pseudoephedrine.svg/250px-Pseudoephedrine.svg.png"
+        },
+        "visine": {
+            "key": "visine",
+            "names": [
+                "Visine"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:35.406Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Visine",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Visine_2020_logo.png/250px-Visine_2020_logo.png",
+            "siteUrl": "http://www.visine.com/"
+        },
+        "zyrtec": {
+            "key": "zyrtec",
+            "names": [
+                "Zyrtec"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "consumer goods",
+                "pharmaceuticals"
+            ],
+            "score": "17",
+            "ownedBy": [
+                "kimberly-clark"
+            ],
+            "updatedAt": "2026-08-14T19:38:35.792Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cetirizine",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cetirizine_structure.svg/250px-Cetirizine_structure.svg.png"
         }
     }
 }
