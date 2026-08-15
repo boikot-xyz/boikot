@@ -12073,7 +12073,9 @@
                 "tech"
             ],
             "score": 42,
-            "ownedBy": [],
+            "ownedBy": [
+                "public-investment-fund"
+            ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Electronic_Arts_Logo_Blue.svg",
             "siteUrl": "https://www.ea.com/",
             "updatedAt": "2025-12-27T14:17:53.295Z",
@@ -33268,6 +33270,157 @@
             "updatedAt": "2026-08-14T19:38:35.792Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Cetirizine",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cetirizine_structure.svg/250px-Cetirizine_structure.svg.png"
+        },
+        "ubisoft": {
+            "key": "ubisoft",
+            "names": [
+                "Ubisoft",
+                "Ubisoft Entertainment SA",
+                "Ubi Soft Entertainment SA",
+                "UBI"
+            ],
+            "comment": "Ubisoft is a French video game company that has designed games to be addictive and financially draining [1][2] and has been accused of toxic and misogynist leadership [3]. The company has also faced allegations of psychological abuse of employees [4] and multiple reports of sexual assault against employees [5][6][7][8].",
+            "sources": {
+                "1": "https://timelinedaily.com/technology/eu-probes-seven-videogame-companies-for-unethical-gaming-practices",
+                "2": "https://fortune.com/europe/2024/09/12/european-video-gaming-majors-supercell-ubisoft-in-game-purchases-complaint-eu/",
+                "3": "https://techculture.biz/ubisoft-verdict-exposes-toxic-leadership-sparks-industry-wide-call-for-diversity-and-ethical-reform/",
+                "4": "https://www.euronews.com/culture/2025/06/02/psychological-humiliation-and-sexual-harassment-three-former-ubisoft-execs-on-trial-in-fra",
+                "5": "https://web.archive.org/web/20200712211317/https://www.eurogamer.net/articles/2020-06-24-assassins-creed-valhalla-creative-director-steps-down",
+                "6": "https://web.archive.org/web/20210104005614/https://kotaku.com/assassin-s-creed-creative-director-fired-from-ubisoft-f-1844724819",
+                "7": "https://web.archive.org/web/20200703070453/https://www.theverge.com/2020/7/2/21312022/ubisoft-internal-changes-allegations-employee-misconduct-ceo",
+                "8": "https://web.archive.org/web/20200706153703/https://kotaku.com/ubisoft-employees-have-grave-concerns-over-toronto-stud-1844277486"
+            },
+            "sourceNotes": {
+                "1": "designed games to be addictive and financially draining",
+                "2": "designed games to be addictive and financially draining",
+                "3": "toxic and misogynist leadership",
+                "4": "psychological abuse of employees",
+                "5": "sexual assault against employees",
+                "6": "sexual assault against employees",
+                "7": "sexual assault against employees",
+                "8": "sexual assault against employees"
+            },
+            "tags": [
+                "videogames",
+                "tech",
+                "entertainment"
+            ],
+            "score": 24,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ubisoft_logo.svg/250px-Ubisoft_logo.svg.png",
+            "siteUrl": "http://ubisoft.com/",
+            "updatedAt": "2026-08-15T08:55:00.785Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ubisoft"
+        },
+        "massive-entertainment": {
+            "key": "massive-entertainment",
+            "names": [
+                "Massive Entertainment"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "videogames",
+                "tech",
+                "entertainment"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "ubisoft"
+            ],
+            "updatedAt": "2026-08-15T09:56:27.170Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Massive_Entertainment",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Massive_Entertainment_logo.svg/250px-Massive_Entertainment_logo.svg.png",
+            "siteUrl": "https://www.massive.se/"
+        },
+        "red-storm-entertainment": {
+            "key": "red-storm-entertainment",
+            "names": [
+                "Red Storm Entertainment"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "videogames",
+                "tech",
+                "entertainment"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "ubisoft"
+            ],
+            "updatedAt": "2026-08-15T09:56:27.559Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Red_Storm_Entertainment",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c9/Red_Storm_Entertainment_Logo.png",
+            "siteUrl": "http://redstorm.com/"
+        },
+        "reflections-interactive": {
+            "key": "reflections-interactive",
+            "names": [
+                "Reflections Interactive"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "videogames",
+                "tech",
+                "entertainment"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "ubisoft"
+            ],
+            "updatedAt": "2026-08-15T09:56:27.790Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Reflections_Interactive",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Ubisoft_Reflections.svg/250px-Ubisoft_Reflections.svg.png",
+            "siteUrl": "https://reflections.ubisoft.com/"
+        },
+        "freestylegames": {
+            "key": "freestylegames",
+            "names": [
+                "FreeStyleGames"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "videogames",
+                "tech",
+                "entertainment"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "ubisoft"
+            ],
+            "updatedAt": "2026-08-15T09:56:28.244Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/FreeStyleGames",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Ubisoft_Leamington.svg/250px-Ubisoft_Leamington.svg.png",
+            "siteUrl": "https://leamington.ubisoft.com/"
+        },
+        "ketchapp": {
+            "key": "ketchapp",
+            "names": [
+                "Ketchapp"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "videogames",
+                "tech",
+                "entertainment"
+            ],
+            "score": 24,
+            "ownedBy": [
+                "ubisoft"
+            ],
+            "updatedAt": "2026-08-15T09:56:28.456Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ketchapp",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ketchapp_logo.svg/250px-Ketchapp_logo.svg.png",
+            "siteUrl": "http://www.ketchappgames.com/"
         }
     }
 }
