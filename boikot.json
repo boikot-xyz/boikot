@@ -33421,6 +33421,907 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Ketchapp",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ketchapp_logo.svg/250px-Ketchapp_logo.svg.png",
             "siteUrl": "http://www.ketchappgames.com/"
+        },
+        "comcast": {
+            "key": "comcast",
+            "names": [
+                "Comcast",
+                "Comcast Corporation",
+                "Comcast Holdings",
+                "American Cable Systems",
+                "CMCSA"
+            ],
+            "comment": "Comcast is an American telecommunications company that has engaged in false advertising [1], unlawful handling of hazardous waste [2], price fixing [3], underpaying employees [4], poor customer service [5][6], leaking private customer information [7], overcharging customers [8] and charging customers for damaged equipment after a hurricane [9]. Comcast has interfered with customers' internet access [10] and then manipulated FCC hearings on its conduct [11], hired family members of politicians to gain influence [12], and racially discriminated against employees [13], and has also donated to anti‑abortion funds [14] and subjected customers to rape and violence and the hands of its subcontractors [15].",
+            "sources": {
+                "1": "https://arstechnica.com/information-technology/2017/02/comcast-should-stop-claiming-it-has-fastest-internet-ad-board-rules/",
+                "2": "https://www.oag.ca.gov/news/press-releases/attorney-general-kamala-d-harris-announces-2595-million-settlement-comcast-over",
+                "3": "https://www.law360.com/articles/789414/comcast-asks-3rd-circ-to-ok-class-for-15-5m-deal",
+                "4": "https://www.law360.com/articles/663278/nbcuniversal-gets-nod-for-6-4m-unpaid-intern-deal",
+                "5": "http://www.dannfuria.com/comcast",
+                "6": "http://www.businessinsider.com/comcast-customer-was-put-on-hold-until-comcast-closed-2014-8",
+                "7": "https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M154/K457/154457136.PDF",
+                "8": "https://www.mprnews.org/story/2018/12/21/minnesota-comcast-suit-overcharging-visa-card-promise",
+                "9": "https://web.archive.org/web/20110629052940/http://abclocal.go.com/ktrk/story?section=news%2Flocal&id=6460278",
+                "10": "https://web.archive.org/web/20150227151532/http://www.nbcnews.com/id/22560491/ns/technology_and_science-internet/t/fcc-probe-comcast-data-discrimination/",
+                "11": "https://www.sfgate.com/business/article/Cable-giant-Comcast-hires-seat-warmers-to-pack-3226430.php",
+                "12": "https://www.washingtonpost.com/wp-dyn/content/article/2006/03/06/AR2006030601594.html",
+                "13": "https://web.archive.org/web/20181212135237/https://www.fiercetelecom.com/installer/comcast-pays-7-2m-to-settle-racial-discrimination-suit-by-chicago-techs",
+                "14": "https://www.thebulwark.com/p/comcast-donation-to-desantis-anti-abortion-pac",
+                "15": "https://stopthecap.com/2014/07/02/new-series-will-you-survive-a-comcast-service-call-answered-by-sketchy-subcontractors/"
+            },
+            "sourceNotes": {
+                "1": "false advertising",
+                "2": "unlawful handling of hazardous waste",
+                "3": "engaged in price fixing",
+                "4": "underpaid employees",
+                "5": "poor customer service",
+                "6": "poor customer service",
+                "7": "leaked private customer information",
+                "8": "overcharged customers",
+                "9": "charged customers for damaged equipment after hurricane",
+                "10": "interfered with customers' internet access",
+                "11": "manipulated fcc hearings on its conduct",
+                "12": "hires family members of politicians to gain influence",
+                "13": "racial discrimination against employees",
+                "14": "donated to anti-abortion fund",
+                "15": "customers have suffered rape and violance by subcontractors"
+            },
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Comcast.svg/250px-Comcast.svg.png",
+            "siteUrl": "https://corporate.comcast.com/",
+            "updatedAt": "2026-08-15T08:55:00.785Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Comcast"
+        },
+        "xfinity": {
+            "key": "xfinity",
+            "names": [
+                "Xfinity"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "comcast"
+            ],
+            "updatedAt": "2026-08-16T13:23:39.423Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Xfinity",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Xfinity_2025.svg/250px-Xfinity_2025.svg.png",
+            "siteUrl": "https://www.xfinity.com/"
+        },
+        "media-one": {
+            "key": "media-one",
+            "names": [
+                "Media One"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "comcast"
+            ],
+            "updatedAt": "2026-08-16T13:23:39.853Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Media_One",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/bf/Media_one_logo.jpg"
+        },
+        "xumo": {
+            "key": "xumo",
+            "names": [
+                "Xumo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "comcast"
+            ],
+            "updatedAt": "2026-08-16T13:23:40.495Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Xumo",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/XUMO-logo-2022.svg/250px-XUMO-logo-2022.svg.png",
+            "siteUrl": "http://www.xumo.com/"
+        },
+        "maine-mariners-(echl)": {
+            "key": "maine-mariners-(echl)",
+            "names": [
+                "Maine Mariners (ECHL)"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "comcast"
+            ],
+            "updatedAt": "2026-08-16T13:23:40.869Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Maine_Mariners_(ECHL)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Maine_Mariners_%28ECHL%29_logo.svg/250px-Maine_Mariners_%28ECHL%29_logo.svg.png",
+            "siteUrl": "https://www.marinersofmaine.com/"
+        },
+        "paciolan": {
+            "key": "paciolan",
+            "names": [
+                "Paciolan"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "comcast"
+            ],
+            "updatedAt": "2026-08-16T13:23:41.124Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Paciolan",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Learfield_logo.png/250px-Learfield_logo.png",
+            "siteUrl": "http://www.learfield.com/"
+        },
+        "philadelphia-flyers": {
+            "key": "philadelphia-flyers",
+            "names": [
+                "Philadelphia Flyers"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "comcast"
+            ],
+            "updatedAt": "2026-08-16T13:23:41.686Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Philadelphia_Flyers",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Philadelphia_Flyers.svg/250px-Philadelphia_Flyers.svg.png"
+        },
+        "gritty": {
+            "key": "gritty",
+            "names": [
+                "Gritty"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "comcast"
+            ],
+            "updatedAt": "2026-08-16T13:23:42.085Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gritty",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gov._Wolf_Joins_Philadelphia_Flyers_Organization_to_Encourage_Pennsylvanians_to_%E2%80%98Take_Your_Shot%E2%80%99_%2851156977424%29_%28cropped%29.jpg/250px-Gov._Wolf_Joins_Philadelphia_Flyers_Organization_to_Encourage_Pennsylvanians_to_%E2%80%98Take_Your_Shot%E2%80%99_%2851156977424%29_%28cropped%29.jpg",
+            "siteUrl": "https://www.nhl.com/flyers/fans/gritty"
+        },
+        "philadelphia-wings": {
+            "key": "philadelphia-wings",
+            "names": [
+                "Philadelphia Wings"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "comcast"
+            ],
+            "updatedAt": "2026-08-16T13:23:42.314Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Philadelphia_Wings",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Philadelphia_Wings.svg/330px-Philadelphia_Wings.svg.png",
+            "siteUrl": "https://wingslax.com/"
+        },
+        "philadelphia-fusion": {
+            "key": "philadelphia-fusion",
+            "names": [
+                "Philadelphia Fusion"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "comcast"
+            ],
+            "updatedAt": "2026-08-16T13:23:43.079Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Philadelphia_Fusion",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Philadelphia_Fusion_logo.svg/250px-Philadelphia_Fusion_logo.svg.png",
+            "siteUrl": "https://fusion.overwatchleague.com/"
+        },
+        "nbcuniversal": {
+            "key": "nbcuniversal",
+            "names": [
+                "NBCUniversal"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "comcast"
+            ],
+            "updatedAt": "2026-08-16T13:24:16.560Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/NBCUniversal",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/NBCUniversal_2026_Logo.svg/250px-NBCUniversal_2026_Logo.svg.png",
+            "siteUrl": "https://nbcuniversal.com/"
+        },
+        "universal-pictures": {
+            "key": "universal-pictures",
+            "names": [
+                "Universal Pictures"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:29.106Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Universal_Pictures",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/250px-Universal_Pictures_logo.svg.png",
+            "siteUrl": "https://universalpictures.com/"
+        },
+        "illumination": {
+            "key": "illumination",
+            "names": [
+                "Illumination"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:29.586Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Illumination_(company)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Illumination_Entertainment_logo.svg/250px-Illumination_Entertainment_logo.svg.png",
+            "siteUrl": "https://www.illumination.com/"
+        },
+        "focus-features": {
+            "key": "focus-features",
+            "names": [
+                "Focus Features"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:29.824Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Focus_Features",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Focus_Features.svg/250px-Focus_Features.svg.png",
+            "siteUrl": "http://focusfeatures.com/"
+        },
+        "dreamworks-animation": {
+            "key": "dreamworks-animation",
+            "names": [
+                "DreamWorks Animation"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:29.977Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/DreamWorks_Animation",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/250px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",
+            "siteUrl": "http://dreamworks.com/"
+        },
+        "classic-media": {
+            "key": "classic-media",
+            "names": [
+                "Classic Media"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:30.446Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/DreamWorks_Classics",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/DreamWorks_Classics_logo.svg/250px-DreamWorks_Classics_logo.svg.png",
+            "siteUrl": "https://www.dreamworks.com/classics"
+        },
+        "harvey-entertainment": {
+            "key": "harvey-entertainment",
+            "names": [
+                "Harvey Entertainment"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:31.158Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Harvey_Films",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Harvey_Entertainment_1994.svg/250px-Harvey_Entertainment_1994.svg.png",
+            "siteUrl": "https://web.archive.org/web/20050403211432/http://www.classicmedia.tv/harvey/pageload/index.html"
+        },
+        "united-international-pictures": {
+            "key": "united-international-pictures",
+            "names": [
+                "United International Pictures"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:31.670Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/United_International_Pictures",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/United_International_Pictures_logo.svg/250px-United_International_Pictures_logo.svg.png",
+            "siteUrl": "http://uip.com/"
+        },
+        "working-title-films": {
+            "key": "working-title-films",
+            "names": [
+                "Working Title Films"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:31.834Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Working_Title_Films",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Working_Title_Films_logo.png/250px-Working_Title_Films_logo.png",
+            "siteUrl": "http://workingtitlefilms.com/"
+        },
+        "emka-ltd.": {
+            "key": "emka-ltd.",
+            "names": [
+                "EMKA, Ltd."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:31.951Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/EMKA,_Ltd."
+        },
+        "snl-studios": {
+            "key": "snl-studios",
+            "names": [
+                "SNL Studios"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:32.122Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/SNL_Studios",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Snlstudios.png/250px-Snlstudios.png"
+        },
+        "carnival-films": {
+            "key": "carnival-films",
+            "names": [
+                "Carnival Films"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:32.295Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Carnival_Films",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Carnival_Films_logo.png/250px-Carnival_Films_logo.png",
+            "siteUrl": "https://carnivalfilms.co.uk/"
+        },
+        "universal-studios-hollywood": {
+            "key": "universal-studios-hollywood",
+            "names": [
+                "Universal Studios Hollywood"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:32.788Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Universal_Studios_Hollywood",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Universal_Studios_Hollywood_2023_logo.png/250px-Universal_Studios_Hollywood_2023_logo.png",
+            "siteUrl": "https://www.universalstudioshollywood.com/"
+        },
+        "national-broadcasting-company": {
+            "key": "national-broadcasting-company",
+            "names": [
+                "National Broadcasting Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:32.956Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/NBC",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/250px-NBC_logo_2022_%28vertical%29.svg.png",
+            "siteUrl": "https://www.nbc.com/"
+        },
+        "nbc-studios": {
+            "key": "nbc-studios",
+            "names": [
+                "NBC Studios"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:33.246Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/NBC_Studios_(New_York_City)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GE_Building_at_dusk.jpg/250px-GE_Building_at_dusk.jpg"
+        },
+        "bravo": {
+            "key": "bravo",
+            "names": [
+                "Bravo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:33.525Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bravo_(American_TV_network)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/250px-Bravo_2024.svg.png",
+            "siteUrl": "https://www.bravotv.com/"
+        },
+        "nbc-sports": {
+            "key": "nbc-sports",
+            "names": [
+                "NBC Sports"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:34.328Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/NBC_Sports",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/250px-NBC_Sports_2023.svg.png",
+            "siteUrl": "https://www.nbcsports.com/"
+        },
+        "nbc-olympics-llc": {
+            "key": "nbc-olympics-llc",
+            "names": [
+                "NBC Olympics, LLC"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:34.572Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/NBC_Olympic_broadcasts",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/NBC_Olympics_2024.svg/250px-NBC_Olympics_2024.svg.png"
+        },
+        "nbcsn": {
+            "key": "nbcsn",
+            "names": [
+                "NBCSN"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:34.997Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/NBCSN",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/NBCSN_2025.svg/250px-NBCSN_2025.svg.png",
+            "siteUrl": "https://www.nbcsports.com/"
+        },
+        "telemundo-deportes": {
+            "key": "telemundo-deportes",
+            "names": [
+                "Telemundo Deportes"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:35.202Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Telemundo_Deportes",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Telemundo_Deportes_2022_vector_logo.svg/250px-Telemundo_Deportes_2022_vector_logo.svg.png"
+        },
+        "affiliate-relations": {
+            "key": "affiliate-relations",
+            "names": [
+                "Affiliate Relations"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:35.437Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/List_of_NBC_television_affiliates_(table)"
+        },
+        "lxtv": {
+            "key": "lxtv",
+            "names": [
+                "LXTV"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:35.934Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/LXTV",
+            "siteUrl": "http://www.lxtv.com/"
+        },
+        "sky-group": {
+            "key": "sky-group",
+            "names": [
+                "Sky Group"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:36.124Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sky_Group",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Sky_logo_2025.svg/250px-Sky_logo_2025.svg.png",
+            "siteUrl": "https://www.skygroup.sky/"
+        },
+        "love-productions": {
+            "key": "love-productions",
+            "names": [
+                "Love Productions"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:36.473Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Love_Productions",
+            "siteUrl": "https://loveproductions.co.uk/"
+        },
+        "sky-q": {
+            "key": "sky-q",
+            "names": [
+                "Sky Q"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:36.650Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sky_Q",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Sky_q_logo.svg/250px-Sky_q_logo.svg.png"
+        },
+        "amstrad": {
+            "key": "amstrad",
+            "names": [
+                "Amstrad"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:36.723Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Amstrad",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Amstrad_logo.svg/250px-Amstrad_logo.svg.png",
+            "siteUrl": "https://web.archive.org/web/20190125111043/http://www.amstrad.com/"
+        },
+        "sky-studios": {
+            "key": "sky-studios",
+            "names": [
+                "Sky Studios"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:36.811Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sky_Studios",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Sky_Studios_Logo_2020_%28production_company%29.png/250px-Sky_Studios_Logo_2020_%28production_company%29.png",
+            "siteUrl": "https://www.skygroup.sky/skystudios"
+        },
+        "jupiter-entertainment": {
+            "key": "jupiter-entertainment",
+            "names": [
+                "Jupiter Entertainment"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:37.010Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Jupiter_Entertainment",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jupiter_Entertainmnet_Logo_designed_by_Tommy_Stokes_2012.jpg/250px-Jupiter_Entertainmnet_Logo_designed_by_Tommy_Stokes_2012.jpg",
+            "siteUrl": "http://jupiterent.com/"
+        },
+        "now-(sky)": {
+            "key": "now-(sky)",
+            "names": [
+                "Now (Sky)"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:37.189Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Now_(Sky)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Now_logo.svg/250px-Now_logo.svg.png",
+            "siteUrl": "https://nowtv.com/"
+        },
+        "the-cloud": {
+            "key": "the-cloud",
+            "names": [
+                "The Cloud"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:37.443Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Cloud_(company)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/The_Cloud_logo.png",
+            "siteUrl": "https://thecloud.net/"
+        },
+        "challenge": {
+            "key": "challenge",
+            "names": [
+                "Challenge"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:37.490Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Challenge_(TV_channel)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Challenge_logo_2016.png/250px-Challenge_logo_2016.png",
+            "siteUrl": "https://www.sky.com/watch/channel/challenge"
+        },
+        "nbc-news": {
+            "key": "nbc-news",
+            "names": [
+                "NBC News"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:37.613Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/NBC_News",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NBC_News_%282023%29.svg/250px-NBC_News_%282023%29.svg.png",
+            "siteUrl": "http://nbcnews.com/"
+        },
+        "hayu": {
+            "key": "hayu",
+            "names": [
+                "Hayu"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:37.873Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hayu_(subscription_service)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hayu_Logo_Coral_svg.svg/250px-Hayu_Logo_Coral_svg.svg.png",
+            "siteUrl": "https://www.hayu.com/"
+        },
+        "peacock": {
+            "key": "peacock",
+            "names": [
+                "Peacock"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment"
+            ],
+            "score": 12,
+            "ownedBy": [
+                "nbcuniversal"
+            ],
+            "updatedAt": "2026-08-16T13:30:37.970Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Peacock_(streaming_service)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NBCUniversal_Peacock_Logo_%282026%29.svg/250px-NBCUniversal_Peacock_Logo_%282026%29.svg.png",
+            "siteUrl": "https://www.peacocktv.com/"
         }
     }
 }
