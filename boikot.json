@@ -34322,6 +34322,91 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Peacock_(streaming_service)",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NBCUniversal_Peacock_Logo_%282026%29.svg/250px-NBCUniversal_Peacock_Logo_%282026%29.svg.png",
             "siteUrl": "https://www.peacocktv.com/"
+        },
+        "ups": {
+            "key": "ups",
+            "names": [
+                "UPS",
+                "United Parcel Service, Inc.",
+                "American Messenger Company",
+                "Merchants Parcel Delivery"
+            ],
+            "comment": "UPS is a American logistics company that has leaked customer information in a data breach [1], overworked [2] and underpaid employees [3], diverted employee wages to undisclosed charities [4], discriminated against disabled employees [5], failed to provide adequate sick leave during COVID [6], discriminated against employees on the basis of religion [7], and engaged in racial discrimination against employees [8]. Employees have also suffered sexual harassment at UPS [9][10].",
+            "sources": {
+                "1": "https://www.techradar.com/pro/ups-discloses-data-breach-after-exposed-customer-info-used-in-sms-phishing",
+                "2": "https://www.law360.com/articles/2260541/ups-hit-with-worker-suit-over-lack-of-bathrooms",
+                "3": "https://www.cnbc.com/2025/12/15/new-york-lawsuit-ups-christmas-wage-steal-seasonal-workers.html",
+                "4": "https://www.huffingtonpost.co.uk/entry/ups-to-pay-1-million-to-workers-over-charitable-paycheck-deductions_n_61b78e76e4b00aca716a614f",
+                "5": "https://www.eeoc.gov/newsroom/ups-pay-2-million-resolve-nationwide-eeoc-disability-discrimination-claims",
+                "6": "https://web.archive.org/web/20210218110714/https://www.nytimes.com/2020/03/21/business/coronavirus-ups-fedex-xpo-workers.html",
+                "7": "https://www.eeoc.gov/newsroom/ups-pay-49-million-settle-eeoc-religious-discrimination-suit",
+                "8": "https://www.lieffcabraser.com/employment/ups/",
+                "9": "https://storage.courtlistener.com/recap/gov.uscourts.ncmd.97870/gov.uscourts.ncmd.97870.41.0.pdf",
+                "10": "https://www.eeoc.gov/newsroom/united-parcel-service-settles-eeoc-sexual-harassment-charge"
+            },
+            "sourceNotes": {
+                "1": "leaked customer information in data breach",
+                "2": "overworking employees",
+                "3": "underpaid employees",
+                "4": "diverted employee wages to undisclosed charities",
+                "5": "discriminated against disabled employees",
+                "6": "failed to give employees adequate sick leave during covid",
+                "7": "discriminated against employees on the basis of religion",
+                "8": "racial discimination against employees",
+                "9": "employees suffered sexual harassment",
+                "10": "employees suffered sexual harassment"
+            },
+            "tags": [
+                "logistics"
+            ],
+            "score": 32,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/United_Parcel_Service_logo_2014.svg/250px-United_Parcel_Service_logo_2014.svg.png",
+            "siteUrl": "https://www.ups.com/",
+            "updatedAt": "2026-08-16T13:35:53.509Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/United_Parcel_Service"
+        },
+        "urban-decay": {
+            "key": "urban-decay",
+            "names": [
+                "Urban Decay"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cosmetics"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "l'oreal"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Urban_Decay_logo.svg/250px-Urban_Decay_logo.svg.png",
+            "siteUrl": "https://www.urbandecay.com/",
+            "updatedAt": "2026-08-16T13:35:53.509Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Urban_Decay_(cosmetics)"
+        },
+        "vans": {
+            "key": "vans",
+            "names": [
+                "Vans",
+                "Van Doren Rubber Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fotwear",
+                "clothing"
+            ],
+            "score": null,
+            "ownedBy": [
+                "vf-outdoor"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vans_%28brand%29_logo.svg/250px-Vans_%28brand%29_logo.svg.png",
+            "siteUrl": "https://www.vans.com/",
+            "updatedAt": "2026-08-20T14:15:03.519Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Vans"
         }
     }
 }
