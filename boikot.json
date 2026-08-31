@@ -34407,6 +34407,368 @@
             "siteUrl": "https://www.vans.com/",
             "updatedAt": "2026-08-20T14:15:03.519Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Vans"
+        },
+        "virgin-media": {
+            "key": "virgin-media",
+            "names": [
+                "Virgin Media",
+                "Virgin Media Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "telecommunications"
+            ],
+            "score": 34,
+            "ownedBy": [
+                "o2"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Virgin_Media.svg/250px-Virgin_Media.svg.png",
+            "siteUrl": "https://www.virginmedia.com/",
+            "updatedAt": "2026-08-20T14:15:03.519Z",
+            "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Virgin_Media"
+        },
+        "verizon": {
+            "key": "verizon",
+            "names": [
+                "Verizon",
+                "Verizon Communications",
+                "Verizon Communications Inc.",
+                "Bell Atlantic Corporation",
+                "VZ"
+            ],
+            "comment": "Verizon is a US telecommunications company that has committed tax avoidance [1], overcharged customers [2], sold customer data without consent [3][4], illegally shared customers' location data [5], leaked customer data in a data breach [6], and committed environmental violations [7]. Verizon has collaborated with NSA to spy on phone calls of millions of people [8], and has several billion in US military contracts [9].",
+            "sources": {
+                "1": "https://web.archive.org/web/20050917015111/http://www.ago.state.ms.us/news/index.php?use=may9-2005",
+                "2": "https://abc7.com/post/class-action-lawsuit-verizon-wireless-settlement/14279373/",
+                "3": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/verizon-class-action-alleges-wireless-carrier-sold-customer-data-without-consent/",
+                "4": "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/",
+                "5": "https://www.reuters.com/legal/litigation/us-court-upholds-verizon-469-million-fine-over-location-data-2025-09-10/",
+                "6": "https://mashable.com/article/verizon-data-breach",
+                "7": "https://da.lacounty.gov/media/news/verizon-wireless-pay-77-million-settle-environmental-violations-following-statewide",
+                "8": "https://www.theguardian.com/world/2013/jun/06/nsa-phone-records-verizon-court-order",
+                "9": "https://www.washingtontechnology.com/rankings/top-100/2024/"
+            },
+            "sourceNotes": {
+                "1": "tax avoidance",
+                "2": "overcharged customers",
+                "3": "sold customer data without consent",
+                "4": "sold customer data without consent",
+                "5": "illegally shared customers location data",
+                "6": "leaked customer data in breach",
+                "7": "environmental violations",
+                "8": "collaborated with NSA to spy on phone calls",
+                "9": "several billion in us military contracts"
+            },
+            "tags": [
+                "telecommunications",
+                "tech"
+            ],
+            "score": 38,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Verizon_2024.svg/250px-Verizon_2024.svg.png",
+            "siteUrl": "https://verizon.com/",
+            "updatedAt": "2026-08-20T15:22:43.592Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Verizon"
+        },
+        "victoria's-secret": {
+            "key": "victoria's-secret",
+            "names": [
+                "Victoria's Secret",
+                "Victoria's Secret & Co.",
+                "VSXY"
+            ],
+            "comment": "",
+            "sources": {
+                "1": "https://www.law360.com/articles/953170/victoria-s-secret-gets-initial-ok-on-12m-clerk-wage-deal",
+                "2": "https://www.nytimes.com/2020/02/03/business/victorias-secret-l-brands-leslie-wexner.html",
+                "3": "https://www.nytimes.com/2020/02/01/business/victorias-secret-razek-harassment.html",
+                "4": "https://www.latimes.com/archives/la-xpm-2002-aug-14-fi-rup14.4-story.html",
+                "5": "https://wreg.com/news/woman-says-she-was-racially-profiled-at-victorias-secret-in-collierville/",
+                "6": "https://www.hollywoodreporter.com/news/victorias-secret-backlash-ed-razeks-comments-trans-size-models-spark-outrage-1160446",
+                "7": "https://www.aspi.org.au/report/uyghurs-for-sale",
+                "8": "https://www.abc.net.au/news/2020-03-02/aspi-uyghur-china-forced-labour-report/12017650",
+                "9": "https://houseandwhips.com/is-les-wexner-jewish/",
+                "10": "https://web.archive.org/web/20130729114046/http://articles.chicagotribune.com/2003-03-05/news/0303050263_1_trademark-dilution-act-brand-famous-mark",
+                "11": "https://www.nytimes.com/2019/07/25/business/jeffrey-epstein-wexner-victorias-secret.html"
+            },
+            "sourceNotes": {
+                "1": "underpaid employees",
+                "2": "verbal abuse of employees",
+                "3": "racist and discriminatory practices",
+                "4": "racist and discriminatory practices",
+                "5": "racist and discriminatory practices",
+                "6": "discriminated against trans and plus size models",
+                "7": "complicity in Uyghur forced labour",
+                "8": "complicity in Uyghur forced labour",
+                "9": "connections to Israel",
+                "10": "connection to Jeffrey Epstein",
+                "11": "connection to Jeffrey Epstein"
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": null,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f1/Victoria%E2%80%99s_Secret_%28logo%2C_2021%29.svg/250px-Victoria%E2%80%99s_Secret_%28logo%2C_2021%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "siteUrl": "http://victoriassecret.com/",
+            "updatedAt": "2026-08-20T15:22:43.592Z",
+            "error": "TypeError: Cannot read properties of undefined (reading 'url')"
+        },
+        "visa": {
+            "key": "visa",
+            "names": [
+                "Visa",
+                "Visa Inc.",
+                "V"
+            ],
+            "comment": "Visa is an American payment processing company that has repeatedly engaged in anticompetitive, monopolistic practices [1][2][3][4][5][6][7].",
+            "sources": {
+                "1": "https://www.prnewswire.com/news-releases/atm-operators-file-antitrust-lawsuit-against-visa-and-mastercard-131605078.html",
+                "2": "https://web.archive.org/web/20240915125940/https://www.justice.gov/archive/atr/public/press_releases/1998/1974.htm",
+                "3": "https://web.archive.org/web/20110727192417/http://marketplace.publicradio.org/display/web/2010/10/04/pm-visa-mastercard-settlement-means-more-flexibility-for-retailers/",
+                "4": "https://web.archive.org/web/20201106182856/https://www.nbcnews.com/businessmain/judge-approves-credit-card-swipe-fee-settlement-2D11741836",
+                "5": "https://web.archive.org/web/20240924184007/https://www.wsj.com/finance/regulation/justice-department-sues-visa-alleges-illegal-monopoly-in-debit-card-payments-a9ecd39c",
+                "6": "https://web.archive.org/web/20181215224703/https://www.accc.gov.au/media-release/visa-ordered-to-pay-18-million-penalty-for-anti-competitive-conduct-following-accc-action",
+                "7": "https://web.archive.org/web/20180704124002/https://www.reuters.com/article/us-eu-payments-cards-idUSKBN0JV2SV20141218"
+            },
+            "sourceNotes": {
+                "1": "anticompetetive monopolistic practices",
+                "2": "anticompetetive monopolistic practices",
+                "3": "anticompetetive monopolistic practices",
+                "4": "anticompetetive monopolistic practices",
+                "5": "anticompetetive monopolistic practices",
+                "6": "anticompetetive monopolistic practices",
+                "7": "anticompetetive monopolistic practices"
+            },
+            "tags": [
+                "finance"
+            ],
+            "score": 44,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Visa_Inc._logo_%282021%E2%80%93present%29.svg",
+            "siteUrl": "https://visa.com/",
+            "updatedAt": "2026-08-26T12:38:18.568Z",
+            "error": "TypeError: Cannot read properties of undefined (reading 'url')"
+        },
+        "walgreens": {
+            "key": "walgreens",
+            "names": [
+                "Walgreens",
+                "Walgreen Drug Co.",
+                "Walgreen Drug Stores",
+                "Walgreen's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "pharmacy",
+                "consumer goods",
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "sycamore-partners"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Walgreens_2020_primary_logo.svg/250px-Walgreens_2020_primary_logo.svg.png",
+            "siteUrl": "http://walgreens.com/",
+            "updatedAt": "2026-08-28T05:03:14.760Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Walgreens"
+        },
+        "waterstones": {
+            "key": "waterstones",
+            "names": [
+                "Waterstones",
+                "Waterstones Booksellers Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "books",
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "elliott-management-corporation"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Waterstones_logo.png/250px-Waterstones_logo.png",
+            "siteUrl": "https://www.waterstones.com/",
+            "updatedAt": "2026-08-28T05:05:17.643Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Waterstones"
+        },
+        "wayfair": {
+            "key": "wayfair",
+            "names": [
+                "Wayfair",
+                "Wayfair Inc.",
+                "CSN Stores",
+                "W"
+            ],
+            "comment": "",
+            "sources": {
+                "1": "https://www.gov.uk/cma-cases/wayfair-consumer-protection-enforcement-case",
+                "2": "https://ww2.arb.ca.gov/wayfair-llc-settlement",
+                "3": "https://www.cbsnews.com/news/wayfair-employees-plan-walkout-after-companys-sales-to-detention-centers/",
+                "4": "https://gizmodo.com/wayfair-ceo-refuses-to-stop-furnishing-concentration-ca-1835850790"
+            },
+            "sourceNotes": {
+                "1": "deceptive pricing",
+                "2": "air pollution violation",
+                "3": "provided goods to child migrant detention centres",
+                "4": "provided goods to child migrant detention centres"
+            },
+            "tags": [],
+            "score": 40,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Wayfair_2024_logo.svg/250px-Wayfair_2024_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "siteUrl": "http://wayfair.com/",
+            "updatedAt": "2026-08-28T05:07:01.867Z"
+        },
+        "waze": {
+            "key": "waze",
+            "names": [
+                "Waze",
+                "Waze Mobile Ltd",
+                "FreeMap Israel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "google"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Logo_for_waze.svg/250px-Logo_for_waze.svg.png",
+            "siteUrl": "https://waze.com/",
+            "updatedAt": "2026-08-28T05:21:56.695Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Waze"
+        },
+        "weetabix": {
+            "key": "weetabix",
+            "names": [
+                "Weetabix"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Weetabix_logo.png/250px-Weetabix_logo.png",
+            "siteUrl": "https://weetabix.co.uk/",
+            "updatedAt": "2026-08-28T05:25:03.308Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Weetabix"
+        },
+        "wells-fargo": {
+            "key": "wells-fargo",
+            "names": [
+                "Wells Fargo",
+                "Wells Fargo & Company",
+                "WFC"
+            ],
+            "comment": "",
+            "sources": {
+                "1": "https://www.inquirer.com/philly/columnists/jeff_gelles/20100815_Consumer_10_0__How_Wells_Fargo_held_up_debit-card_customers.html",
+                "2": "https://www.latimes.com/archives/la-xpm-2010-aug-10-la-fi-wells-20100810-story.html",
+                "3": "https://www.scu.edu/ethics/focus-areas/business-ethics/resources/wells-fargo-banking-scandal/",
+                "4": "https://www.reuters.com/article/business/wells-fargo-to-pay-3-billion-to-us-admits-pressuring-workers-in-fake-account-idUSKBN20F2KM/",
+                "5": "https://www.salon.com/2012/04/11/wells_fargos_prison_cash_cow/",
+                "6": "https://www.consumerfinance.gov/archive/newsroom/cfpb-orders-wells-fargo-to-pay-37-billion-for-widespread-mismanagement-of-auto-loans-mortgages-and-deposit-accounts/",
+                "7": "https://natlawreview.com/article/osha-orders-wells-fargo-to-pay-22-million-to-wrongfully-discharged-whistleblower",
+                "8": "https://www.usatoday.com/story/money/2022/09/02/wells-fargo-22-million-whistleblower-retaliation/7971488001/",
+                "9": "https://ecweb.ecer.com/topic/en/detail-305329-wells_fargo_software_glitch_causes_wrongful_foreclosures_hundreds_displaced.html",
+                "10": "https://www.cbsnews.com/video/wells-fargo-blames-calculation-error-after-hundreds-lose-homes-to-foreclosure/",
+                "11": "https://www.dol.gov/newsroom/releases/ofccp/ofccp20200824",
+                "12": "https://news.bloomberglaw.com/daily-labor-report/wells-fargo-to-pay-7-8-million-to-settle-hiring-bias-claims",
+                "13": "https://www.wsj.com/articles/at-wells-fargo-discontent-simmers-among-female-executives-1535707801",
+                "14": "https://www.cnbc.com/2018/08/31/wells-fargo-investigating-reports-of-gender-bias-in-wealth-division.html",
+                "15": "https://www.baltimoresun.com/2012/07/12/wells-fargo-agrees-to-pay-175m-settlement-in-pricing-discrimination-suit/",
+                "16": "https://www.reuters.com/article/hotStocksNews/idUSTRE56U6Q920090731",
+                "17": "https://www.bloomberg.com/graphics/2022-wells-fargo-black-home-loan-refinancing/"
+            },
+            "sourceNotes": {
+                "1": "misleading fees",
+                "2": "misleading fees",
+                "3": "predatory sales practices",
+                "4": "predatory sales practices",
+                "5": "invested in private for-profit prisons",
+                "6": "predatory and mismanaged loans and mortgages",
+                "7": "fired employee for whistleblowing on fraudulent practices",
+                "8": "fired employee for whistleblowing on fraudulent practices",
+                "9": "foreclosed hundreds of families' homes due to software glitch",
+                "10": "foreclosed hundreds of families' homes due to software glitch",
+                "11": "racism in employment practices",
+                "12": "racism in employment practices",
+                "13": "sexism in employment practices",
+                "14": "sexism in employment practices",
+                "15": "racism in mortgage approval processes",
+                "16": "racism in mortgage approval processes",
+                "17": "racism in mortgage approval processes"
+            },
+            "tags": [
+                "finance",
+                "bank"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Wells_Fargo_Logo_%282020%29.svg",
+            "siteUrl": "http://wellsfargo.com/",
+            "updatedAt": "2026-08-28T05:27:07.604Z",
+            "error": "TypeError: Cannot read properties of undefined (reading 'url')"
+        },
+        "wendy's": {
+            "key": "wendy's",
+            "names": [
+                "Wendy's",
+                "The Wendy's Company",
+                "Wendy's International, LLC",
+                "WEN"
+            ],
+            "comment": "Wendy's is an American fast‑food chain that has refused to support agricultural workers via the Fair Food Program [1][2], engaged in disability and age discrimination [3], and has been accused of underpaying employees and refusing them breaks [4][5]. The company has also sold unsafe food, including E. coli‑contaminated products [6][7], violated child labour laws [8], and faced allegations of sexual harassment of employees [9].",
+            "sources": {
+                "1": "https://www.fastcompany.com/90736978/the-stakes-are-nothing-less-than-life-and-death-why-farmworkers-are-marching-against-wendys",
+                "2": "https://www.business-humanrights.org/en/latest-news/coalition-of-immokalee-workers-calls-on-delivery-companies-to-drop-wendys-until-it-joins-the-fair-food-program",
+                "3": "https://www.eeoc.gov/newsroom/eeoc-sues-wendys-disability-and-age-discrimination",
+                "4": "https://www.law360.com/articles/2262247/wendy-s-to-pay-4m-to-settle-colo-wage-claims",
+                "5": "https://www.law360.com/articles/220629/wendy-s-to-settle-calif-labor-suit-for-1-5m",
+                "6": " https://finance.yahoo.com/healthcare/articles/woman-says-wendy-burger-led-090000534.html",
+                "7": "https://nypost.com/2022/08/23/wendys-e-coli-outbreak-sickens-more-than-100-as-lawsuits-pile-up/",
+                "8": "https://www.mass.gov/news/wendys-resolves-child-labor-law-violations-at-massachusetts-locations",
+                "9": "https://www.qsrmagazine.com/story/wendys-franchisee-ordered-to-pay-7-1m-after-accusations-of-harassment-and-ppp-fraud/"
+            },
+            "sourceNotes": {
+                "1": "refused to support agricultural workers via the Fair Food Program",
+                "2": "refused to support agricultural workers via the Fair Food Program",
+                "3": "disability and age discrimination",
+                "4": "underpaid and refused breaks to employees",
+                "5": "underpaid and refused breaks to employees",
+                "6": "sold unsafe food",
+                "7": "sold unsafe food containing E Coli bacteria",
+                "8": "violation of child labour laws",
+                "9": "sexual harassment of employees"
+            },
+            "tags": [
+                "food",
+                "fast food",
+                "restaurant"
+            ],
+            "score": 34,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/Wendy%27s_full_logo_2012.svg/250px-Wendy%27s_full_logo_2012.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "siteUrl": "http://wendys.com/",
+            "updatedAt": "2026-08-28T06:40:14.710Z",
+            "error": "TypeError: Cannot read properties of undefined (reading 'url')"
         }
     }
 }
