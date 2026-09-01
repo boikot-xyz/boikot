@@ -28652,7 +28652,7 @@
             "tags": [
                 "retail"
             ],
-            "score": null,
+            "score": 42,
             "ownedBy": [
                 "williams-sonoma"
             ],
@@ -34608,7 +34608,7 @@
                 "CSN Stores",
                 "W"
             ],
-            "comment": "",
+            "comment": "Wayfair is an American e-commerce company that has engaged in deceptive pricing practices [1] and violated air pollution regulations [2]. The company has also supplied goods to child migrant detention centers [3][4].",
             "sources": {
                 "1": "https://www.gov.uk/cma-cases/wayfair-consumer-protection-enforcement-case",
                 "2": "https://ww2.arb.ca.gov/wayfair-llc-settlement",
@@ -34677,7 +34677,7 @@
                 "Wells Fargo & Company",
                 "WFC"
             ],
-            "comment": "",
+            "comment": "Wells Fargo is an American bank that has engaged in misleading fees [1][2], predatory sales practices [3][4], and invested in private for-profit prisons [5]. The company has also mismanaged loans and mortgages [6], fired whistleblowers [7][8], foreclosed homes due to software glitches [9][10], and perpetuated racism in employment [11][12] and mortgage approval processes [13][14][15] as well as sexism in employment practices [16][17].",
             "sources": {
                 "1": "https://www.inquirer.com/philly/columnists/jeff_gelles/20100815_Consumer_10_0__How_Wells_Fargo_held_up_debit-card_customers.html",
                 "2": "https://www.latimes.com/archives/la-xpm-2010-aug-10-la-fi-wells-20100810-story.html",
@@ -34691,11 +34691,11 @@
                 "10": "https://www.cbsnews.com/video/wells-fargo-blames-calculation-error-after-hundreds-lose-homes-to-foreclosure/",
                 "11": "https://www.dol.gov/newsroom/releases/ofccp/ofccp20200824",
                 "12": "https://news.bloomberglaw.com/daily-labor-report/wells-fargo-to-pay-7-8-million-to-settle-hiring-bias-claims",
-                "13": "https://www.wsj.com/articles/at-wells-fargo-discontent-simmers-among-female-executives-1535707801",
-                "14": "https://www.cnbc.com/2018/08/31/wells-fargo-investigating-reports-of-gender-bias-in-wealth-division.html",
-                "15": "https://www.baltimoresun.com/2012/07/12/wells-fargo-agrees-to-pay-175m-settlement-in-pricing-discrimination-suit/",
-                "16": "https://www.reuters.com/article/hotStocksNews/idUSTRE56U6Q920090731",
-                "17": "https://www.bloomberg.com/graphics/2022-wells-fargo-black-home-loan-refinancing/"
+                "13": "https://www.baltimoresun.com/2012/07/12/wells-fargo-agrees-to-pay-175m-settlement-in-pricing-discrimination-suit/",
+                "14": "https://www.reuters.com/article/hotStocksNews/idUSTRE56U6Q920090731",
+                "15": "https://www.bloomberg.com/graphics/2022-wells-fargo-black-home-loan-refinancing/",
+                "16": "https://www.wsj.com/articles/at-wells-fargo-discontent-simmers-among-female-executives-1535707801",
+                "17": "https://www.cnbc.com/2018/08/31/wells-fargo-investigating-reports-of-gender-bias-in-wealth-division.html"
             },
             "sourceNotes": {
                 "1": "misleading fees",
@@ -34710,11 +34710,11 @@
                 "10": "foreclosed hundreds of families' homes due to software glitch",
                 "11": "racism in employment practices",
                 "12": "racism in employment practices",
-                "13": "sexism in employment practices",
-                "14": "sexism in employment practices",
+                "13": "racism in mortgage approval processes",
+                "14": "racism in mortgage approval processes",
                 "15": "racism in mortgage approval processes",
-                "16": "racism in mortgage approval processes",
-                "17": "racism in mortgage approval processes"
+                "16": "sexism in employment practices",
+                "17": "sexism in employment practices"
             },
             "tags": [
                 "finance",
@@ -34724,8 +34724,7 @@
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Wells_Fargo_Logo_%282020%29.svg",
             "siteUrl": "http://wellsfargo.com/",
-            "updatedAt": "2026-08-28T05:27:07.604Z",
-            "error": "TypeError: Cannot read properties of undefined (reading 'url')"
+            "updatedAt": "2026-08-28T05:27:07.604Z"
         },
         "wendy's": {
             "key": "wendy's",
@@ -34769,6 +34768,329 @@
             "siteUrl": "http://wendys.com/",
             "updatedAt": "2026-08-28T06:40:14.710Z",
             "error": "TypeError: Cannot read properties of undefined (reading 'url')"
+        },
+        "west-elm": {
+            "key": "west-elm",
+            "names": [
+                "West Elm"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "home",
+                "retail"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "williams-sonoma"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/West_Elm_logo.svg",
+            "siteUrl": "http://westelm.com/",
+            "updatedAt": "2026-08-31T14:00:05.964Z"
+        },
+        "western-union": {
+            "key": "western-union",
+            "names": [
+                "Western Union",
+                "Western Union Company",
+                "WU"
+            ],
+            "comment": "Western Union is an American money transfer company that has engaged in anticompetitive monopolistic practices [1][2]. It has also failed in anti‑money laundering practices [3][4][5] and defrauded customers [6].",
+            "sources": {
+                "1": "https://www.economist.com/news/business-and-finance/21650598-western-union-and-moneygrams-proposed-merger-good-news-shareholders-less-so",
+                "2": "https://www.ifad.org/documents/36783902/4a5640d9-e944-4a8c-8007-a1bc461416e6",
+                "3": "https://www.justice.gov/opa/pr/western-union-admits-anti-money-laundering-and-consumer-fraud-violations-forfeits-586-million",
+                "4": "http://www.irishtimes.com/business/economy/central-bank-fines-western-union-1-75m-1.2218236",
+                "5": "https://openclassactions.com/settlements/western-union-fraud-victims-remission-phase-3.php",
+                "6": "https://www.yahoo.com/news/western-union-defrauded-customers-feds-172025261.html"
+            },
+            "sourceNotes": {
+                "1": "anticompetetive monopolistic practices",
+                "2": "anticompetetive monopolistic practices",
+                "3": "failures in anti-money laundering practices",
+                "4": "failures in anti-money laundering practices",
+                "5": "failures in anti-money laundering practices",
+                "6": "defrauded customers"
+            },
+            "tags": [
+                "finance"
+            ],
+            "score": 42,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Western_Union_current_logo.svg/250px-Western_Union_current_logo.svg.png",
+            "siteUrl": "http://westernunion.com/",
+            "updatedAt": "2026-08-31T14:01:06.150Z",
+            "error": "TypeError: Cannot read properties of undefined (reading 'key')",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Western_Union"
+        },
+        "wetzel's-pretzels": {
+            "key": "wetzel's-pretzels",
+            "names": [
+                "Wetzel's Pretzels",
+                "Wetzel's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "fast food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Wetzel%27s_Pretzels_logo.png/250px-Wetzel%27s_Pretzels_logo.png",
+            "siteUrl": "https://www.wetzels.com/",
+            "updatedAt": "2026-08-31T15:07:15.154Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Wetzel's_Pretzels"
+        },
+        "whataburger": {
+            "key": "whataburger",
+            "names": [
+                "Whataburger"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food",
+                "fast food"
+            ],
+            "score": null,
+            "ownedBy": [
+                "bdt-&-msd-partners"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Whataburger_logo.svg/250px-Whataburger_logo.svg.png",
+            "siteUrl": "http://whataburger.com/",
+            "updatedAt": "2026-08-31T15:09:08.051Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Whataburger"
+        },
+        "whsmith": {
+            "key": "whsmith",
+            "names": [
+                "WHSmith",
+                "WH Smith plc",
+                "Pollquote Limited",
+                "New WH Smith plc",
+                "SMWH"
+            ],
+            "comment": "WHSmith is a British retailer that has failed to pay minimum wage [1][2][3].",
+            "sources": {
+                "1": "https://www.bbc.co.uk/news/business-65968986",
+                "2": "https://www.reuters.com/world/uk/uk-fines-wh-smith-ms-others-not-paying-minimum-wage-2023-06-20/",
+                "3": "https://www.gov.uk/government/news/more-than-200-companies-named-for-not-paying-staff-minimum-wage"
+            },
+            "sourceNotes": {
+                "1": "failed to pay minimum wage",
+                "2": "failed to pay minimum wage",
+                "3": "failed to pay minimum wage"
+            },
+            "tags": [
+                "retail"
+            ],
+            "score": 46,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WHSmith_logo.svg/250px-WHSmith_logo.svg.png",
+            "siteUrl": "http://whsmithplc.co.uk/",
+            "updatedAt": "2026-08-31T15:10:20.941Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/WHSmith"
+        },
+        "wickes": {
+            "key": "wickes",
+            "names": [
+                "Wickes",
+                "Wickes Group plc",
+                "WIX"
+            ],
+            "comment": "Wickes is a British home improvement retailer that has been reported to provide unacceptably poor quality kitchen fittings [1][2]. The company has also failed to pay minimum wage to its workers [3].",
+            "sources": {
+                "1": "https://www.theguardian.com/money/2023/nov/08/wickes-wont-pay-up-for-causing-my-kitchen-chaos",
+                "2": "https://www.theguardian.com/money/2026/feb/22/wickes-kitchen-fitting-complaint",
+                "3": "https://www.gov.uk/government/news/over-500-companies-named-for-not-paying-minimum-wage"
+            },
+            "sourceNotes": {
+                "1": "provides unnaceptably poor quality kitchen fittings",
+                "2": "provides unnaceptably poor quality kitchen fittings",
+                "3": "failed to pay minimum wage"
+            },
+            "tags": [
+                "retail",
+                "home"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wickes_logo.svg/250px-Wickes_logo.svg.png",
+            "siteUrl": "https://www.wickes.co.uk/",
+            "updatedAt": "2026-08-31T15:27:32.833Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Wickes"
+        },
+        "wilko": {
+            "key": "wilko",
+            "names": [
+                "Wilko",
+                "Wilko.com",
+                "Wilko.com Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail"
+            ],
+            "score": null,
+            "ownedBy": [
+                "cds-superstores"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Wilko.svg/250px-Wilko.svg.png",
+            "siteUrl": "https://www.wilko.com/",
+            "updatedAt": "2026-08-31T15:34:51.353Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilko"
+        },
+        "williams-sonoma": {
+            "key": "williams-sonoma",
+            "names": [
+                "Williams-Sonoma",
+                "Williams Sonoma",
+                "Williams-Sonoma, Inc."
+            ],
+            "comment": "Williams-Sonoma is an American company that has been accused of false advertising [1][2] and misleading advertising [3], and has sold unsafe products [4][5]. The company has also faced allegations of race and sex discrimination [6] and has underpaid workers [7].",
+            "sources": {
+                "1": "https://web.archive.org/web/20200404085519/https://www.consumer.ftc.gov/blog/2020/04/williams-sonoma-made-usa",
+                "2": "https://web.archive.org/web/20240426202303/https://apnews.com/article/williams-sonoma-fine-ftc-made-usa-10313984e90fa206d219ed0546a2b9a2",
+                "3": "https://retailboss.co/judge-denies-williams-sonomas-request-in-class-action-over-allegedly-misleading-bedding-claims/",
+                "4": "https://www.cpsc.gov/Newsroom/News-Releases/2013/Williams-Sonoma-Agrees-to-987500-Civil-Penalty-Significant-Internal-Compliance-Improvements-for-Failure-to-Report-Defective-Pottery-Barn-Wooden-Hammock-Stands",
+                "5": "https://www.cpsc.gov/Newsroom/News-Releases/2015/Williams-Sonoma-Agrees-to-Pay-700000-Civil-Penalty-for-Failure-to-Report-Defective-Pottery-Barn-Kids-Roman-Shades",
+                "6": "https://aflegal.org/press-release/america-first-legal-slams-williams-sonoma-inc-for-illegal-race-and-sex-discrimination-files-federal-civil-rights-complaint/",
+                "7": "https://www.law360.com/articles/841937/williams-sonoma-s-1-2m-security-check-suit-deal-gets-nod"
+            },
+            "sourceNotes": {
+                "1": "false advertising",
+                "2": "false advertising",
+                "3": "misleading advertising",
+                "4": "sold unsafe products",
+                "5": "sold unsafe products",
+                "6": "race and sex discrimination",
+                "7": "underpaid workers"
+            },
+            "tags": [
+                "retail",
+                "home"
+            ],
+            "score": 42,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Williams_Sonoma_logo.svg/250px-Williams_Sonoma_logo.svg.png",
+            "siteUrl": "https://www.williams-sonoma.com/",
+            "updatedAt": "2026-08-31T15:35:39.790Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Williams_Sonoma"
+        },
+        "rejuvenation": {
+            "key": "rejuvenation",
+            "names": [
+                "Rejuvenation"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "home"
+            ],
+            "score": 42,
+            "ownedBy": [
+                "williams-sonoma"
+            ],
+            "updatedAt": "2026-08-31T16:00:41.122Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rejuvenation_(company)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Rejuvenation_%28lighting_and_hardware%29_logo.png/250px-Rejuvenation_%28lighting_and_hardware%29_logo.png",
+            "siteUrl": "http://www.rejuvenation.com/"
+        },
+        "xiaomi": {
+            "key": "xiaomi",
+            "names": [
+                "Xiaomi",
+                "Xiaomi Corporation",
+                "小米",
+                "小米集团"
+            ],
+            "comment": "Xiaomi is a Chinese technology company that has been accused of engaging in corruption [1], unfair repair practices [2], environmental violations in its supply chain [3], and selling phones with secret censorship software [4]. The company has also been reported to track customers' phone usage without consent [5][6][7][8] and to participate in Uyghur forced labour [9].",
+            "sources": {
+                "1": "https://www.gizmochina.com/2024/06/15/xiaomi-fires-regional-managers-western-europe-latin-america/",
+                "2": "https://en.agcm.it/en/media/press-releases/2022/7/PS12268",
+                "3": "https://www.ft.com/content/7dfeb4d6-5fef-11e8-9334-2218e7146b04",
+                "4": "https://www.telegraph.co.uk/technology/2021/09/22/stop-using-chinese-smartphones-hidden-censorship-software-consumers/",
+                "5": "https://www.cnet.com/tech/mobile/xiaomi-defends-data-practices-after-being-accused-of-tracking-private-phone-use/",
+                "6": "https://in.mashable.com/tech/13725/xiaomi-accused-of-harvesting-private-data-heres-everything-we-know-so-far",
+                "7": "https://www.androidcentral.com/xiaomi-has-been-accused-collecting-private-data-smartphone-users",
+                "8": "https://www.bitdefender.com/en-us/blog/hotforsecurity/xiaomi-accused-collecting-browser-data-without-consent",
+                "9": "https://www.aspi.org.au/report/uyghurs-sale"
+            },
+            "sourceNotes": {
+                "1": "engaging in corruption",
+                "2": "unfair repair practices",
+                "3": "environmental violations in supply chain",
+                "4": "sold phones with secret censorship software",
+                "5": "tracking customers' phone usage without consent",
+                "6": "tracking customers' phone usage without consent",
+                "7": "tracking customers' phone usage without consent",
+                "8": "tracking customers' phone usage without consent",
+                "9": "participation in Uyghur forced labour"
+            },
+            "tags": [
+                "tech",
+                "electronics",
+                "cars"
+            ],
+            "score": 34,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Xiaomi_logo_%282021-%29.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+            "siteUrl": "https://mi.com",
+            "updatedAt": "2026-08-31T16:27:11.800Z"
+        },
+        "poco": {
+            "key": "poco",
+            "names": [
+                "POCO"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech",
+                "electronics",
+                "cars"
+            ],
+            "score": 34,
+            "ownedBy": [
+                "xiaomi"
+            ],
+            "updatedAt": "2026-08-31T21:07:21.793Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Poco_(company)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Poco_Logo_Transparent.png/250px-Poco_Logo_Transparent.png",
+            "siteUrl": "https://www.po.co/global/"
+        },
+        "redmi": {
+            "key": "redmi",
+            "names": [
+                "Redmi"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech",
+                "electronics",
+                "cars"
+            ],
+            "score": 34,
+            "ownedBy": [
+                "xiaomi"
+            ],
+            "updatedAt": "2026-08-31T21:07:22.505Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Redmi",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/REDMI_logo_%28red%29.svg/250px-REDMI_logo_%28red%29.svg.png",
+            "siteUrl": "https://www.mi.com/"
         }
     }
 }
