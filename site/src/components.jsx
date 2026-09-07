@@ -283,14 +283,38 @@ export function IconBadge({ children, i, flip, ...props }) {
     </Badge>;
 }
 
-export function DeleteableBadgeList({ items, deleteAtIndex = () => {} }) {
+let reorderGracePeriod = false;
+function setReorderGracePeriod() {
+    reorderGracePeriod = true;
+    setTimeout( () => ( reorderGracePeriod = false ), 50 );
+}
+function reorderItems(items, src, tgt) {
+    if( src === tgt || src === -1 || tgt === -1 || reorderGracePeriod)
+        return items;
+    if( src < tgt )
+        return [...items.slice(0, src), ...items.slice(src+1,tgt+1), items[src], ...items.slice(tgt+1)];
+    if( src > tgt )
+        return [...items.slice(0, tgt), items[src], ...items.slice(tgt,src), ...items.slice(src+1)];
+}
+
+export function DeleteableBadgeList({ items, update, deleteAtIndex = () => {} }) {
+    const [dragging, setDragging] = React.useState(null);
     if( !items?.length ) return null;
     return <FlexRow>
         { items.map( (item, i) =>
-            <button onClick={() => deleteAtIndex(i)} key={item}>
-                <IconBadge i="x" flip>
-                    { item }
-                </IconBadge>
+            <button
+                onClick={() => deleteAtIndex(i)} key={item}
+                onDragEnter={e => e.preventDefault() + update(reorderItems(items, items.indexOf(dragging), items.indexOf(e.target.textContent))) + setReorderGracePeriod()}
+                onDragOver={e => e.preventDefault()}
+                onDrop={e => e.preventDefault()}
+                onDragStart={e => setDragging(item)}
+                onDragEnd={e => e.preventDefault()}
+                draggable>
+                <div style={{ pointerEvents: "none" }}>
+                    <IconBadge i="x" flip onDrop={e => e.preventDefault()}>
+                        { item }
+                    </IconBadge>
+                </div>
             </button>
         ) }
     </FlexRow>;

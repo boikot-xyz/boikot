@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 
 import dotenv from "dotenv";
+import { Agent } from "undici";
+
 
 dotenv.config();
 
@@ -217,7 +219,48 @@ export async function askLocalGPTOSS( prompt, body ) {
             }),
         },
     ) ).json();
-    console.log(responseJSON);
+    console.log(JSON.stringify(responseJSON, null, 4));
+    return responseJSON.choices[0].message.content;
+}
+
+
+const defaultSystemPrompt = (
+    "You are an investigative journalist looking into the ethical track record of various companies. " +
+    "You rigourously gather articles about unethical actions by companies and publish information " +
+    "on them online in a format easily understood by the public."
+);
+export async function askLocal( prompt, { body = {}, model = "gemma4:26b", systemPrompt = defaultSystemPrompt } ) {
+    const responseJSON = await ( await fetch(
+        "http://localhost:11434/v1/chat/completions",
+        {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+            },
+            body: JSON.stringify({
+                "messages": [
+                    //{
+                    //    "role": "system",
+                    //    "content": systemPrompt,
+                    //},
+                    {
+                        "role": "user",
+                        "content": prompt
+                    },
+                ],
+                "model": model,
+                "temperature": 1.0,
+                "max_tokens": 8192,
+                "top_p": 0.95,
+                "top_k": 64,
+                "stream": false,
+                "stop": null,
+                ...body,
+            }),
+            signal: AbortSignal.timeout(999 * 1000),
+        },
+    ) ).json();
+    console.log(JSON.stringify(responseJSON, null, 4));
     return responseJSON.choices[0].message.content;
 }
 
@@ -227,18 +270,15 @@ export async function embed( prompt, body={} ) {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            Authorization: `Bearer ${process.env.NOVITA_TOKEN}`,
         },
         body: JSON.stringify({
             "input": prompt,
-            "model": "baai/bge-m3",
-            "encoding_format":"float",
+            "model": "embeddinggemma:latest",
             ...body,
         }),
     };
+    const response = await fetch('http://localhost:11434/api/embed', options);
 
-    const response = await fetch('https://api.novita.ai/v3/openai/embeddings', options);
-
-    return (await response.json()).data[0].embedding;
+    return (await response.json()).embeddings[0];
 }
 

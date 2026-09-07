@@ -312,12 +312,17 @@ function Toast({ children }) {
 }
 
 
+const flattenGotSources = gotSources =>
+    Object.entries(gotSources).reduce( (res, [key, sources]) => [...res, ...sources.map(s => ({...s, key }))], [] );
+
+
 export function Jsoner() {
     const { key } = useParams();
     const [state, setState] = React.useState(getInitialEntryState(key));
     const textareaRef = React.useRef(null);
     const showSources = !!Object.keys(state.sources).length;
     const [dragging, setDragging] = React.useState(null);
+    const [gotSources, setGotSources] = React.useState(null);
     const [backendUp, setBackendUp] = React.useState(false);
     const [toastMessage, setToastMessage] = React.useState(false);
     const [toastMessageClearTimeout, setToastMessageClearTimeout] = React.useState(null);
@@ -471,6 +476,42 @@ export function Jsoner() {
         setToastMessage("Generated comment!");
     };
 
+    const getSources = async () => {
+        setToastMessage("Getting sources...");
+        const response = await fetch(
+            "http://localhost:8014/getSources",
+            {
+                method: "POST",
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(state),
+            }
+        );
+        const body = await response.json();
+        setGotSources(body);
+        setToastMessage("Got sources!");
+    };
+
+    const getNames = async () => {
+        setToastMessage("Getting names...");
+        const response = await fetch(
+            "http://localhost:8014/getNames",
+            {
+                method: "POST",
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(state),
+            }
+        );
+        const names = await response.json();
+        setState( state => mergeJSON(state, names) );
+        setToastMessage("Got names!");
+    };
+
     const saveCompanyData = async () => {
         setToastMessage("Saving company data...");
         const result = {
@@ -504,27 +545,33 @@ export function Jsoner() {
             <PillButton $outline onClick={generateComment} title="Click to generate comment based on source notes" disabled={!backendUp || !state.sourceNotes["1"]}>
                 generate comment  💬
             </PillButton>
+            <PillButton onClick={getSources} disabled={!backendUp || !state.names.length} $outline>
+                get sources  🦉
+            </PillButton>
+            <PillButton onClick={getNames} disabled={!backendUp || !state.names.length} $outline>
+                get names  📇
+            </PillButton>
             <PillButton
                 $outline
                 onClick={ async () => onMergeJSONClick(await navigator.clipboard.readText()) }
                 title="Click to paste json from clipboard and merge it with the company data">
                 merge JSON  🖇️
             </PillButton>
+            <PillButton onClick={saveCompanyData} disabled={!backendUp || !state.names.length}>
+                save company data  💾
+            </PillButton>
+            <PillButton onClick={() => copy(tojson(state))}>
+                copy company data  📋
+            </PillButton>
+            <Link to={`/companies/add-brands/${getKey(state)}`}>
+                <PillButton $outline>🏷️   add brands for this company</PillButton>
+            </Link>
             <PillButton $outline onClick={
                 () => window.confirm("Clear company data?")
                     && setState(initialState)
             }>
                 clear  🧽
             </PillButton>
-            <PillButton onClick={() => copy(tojson(state))}>
-                copy company data  📋
-            </PillButton>
-            <PillButton onClick={saveCompanyData} disabled={!backendUp || !state.names.length}>
-                save company data  💾
-            </PillButton>
-            <Link to={`/companies/add-brands/${getKey(state)}`}>
-                <PillButton $outline>🏷️   add brands for this company</PillButton>
-            </Link>
         </FlexRow>;
 
     return <Stack onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
@@ -533,6 +580,7 @@ export function Jsoner() {
             names & stock ticker
             <DeleteableBadgeList
                 items={state.names}
+                update={names => setState( oldState => ({ ...oldState, names }) )}
                 deleteAtIndex={removeFromStateList("names")} />
             <input
                 placeholder="Type names and press enter after each"
@@ -544,6 +592,7 @@ export function Jsoner() {
             tags
             <DeleteableBadgeList
                 items={state.tags}
+                update={tags => setState( oldState => ({ ...oldState, tags }) )}
                 deleteAtIndex={removeFromStateList("tags")} />
             <input
                 placeholder="Type tags that describe this company and press enter after each"
@@ -574,6 +623,17 @@ export function Jsoner() {
                 placeholder="URL of the company's logo"
                 onChange={setStateField("logoUrl")} />
         </Entry>
+        { gotSources && 
+            <Card style={{ maxHeight: "50vh", overflow: "scroll" }}>
+                { flattenGotSources(gotSources).map((gotSource, i) =>
+                    <>
+                    <p> {i+1}. <a href={gotSource.url} target="_blank">{gotSource.key} | {gotSource.title} </a></p>
+                    <p> { gotSource.url } </p>
+                    <p> {gotSource.description} </p>
+                    </>
+                ) }
+            </Card>
+        }
         { showSources && <>
             <h3> sources </h3>
             { Object.keys(state.sources).map(key =>
@@ -807,10 +867,10 @@ function Brander() {
                 collect brand data  🏷️
             </PillButton>
             <PillButton onClick={() => copy(brandsData)}>
-                copy company data  📋
+                copy brands data  📋
             </PillButton>
             <PillButton onClick={saveBrandsData} disabled={!backendUp || !brandsData.length}>
-                save brand data  💾
+                save brands data  💾
             </PillButton>
         </FlexRow>
         <Entry $valid={!!Object.keys(safeJSONParse(brandsData)).length}>

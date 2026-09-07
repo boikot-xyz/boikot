@@ -1,8 +1,9 @@
 import http from "http";
-import { getWikipediaInfo } from "./wiki.js";
+import { getWikipediaInfo, getNames } from "./wiki.js";
 import { askLocalGPTOSS } from "./llm.js";
 import { addRecord } from "./addRecord.js";
 import { scrapeBrands } from "./brands.js";
+import { getSources } from "./sources.js";
 import boikot from "../../boikot.json" with { type: "json" };
 
 
@@ -80,6 +81,22 @@ async function saveBrandsData(req, res, body) {
 }
 
 
+async function getSourcesData(req, res, body) {
+    console.log(`getting sources for ${body.names[0]}`);
+    const sourcesData = await getSources( body.names[0] );
+    console.log(`returning sources data`);
+    res.end(JSON.stringify(sourcesData));
+}
+
+
+async function getNamesData(req, res, body) {
+    console.log(`getting names for ${body.names[0]}`);
+    const namesData = await getNames( body.names[0] );
+    console.log(`returning names data`);
+    res.end(JSON.stringify({ names: namesData }));
+}
+
+
 async function respondGet(req, res, body) {
     if( req.url == "/check" ) {
         res.end(`{"result": true}`);
@@ -120,6 +137,14 @@ async function respondPost(req, res, body) {
 
     if( req.url.includes("/saveBrandsData") ) {
         return await saveBrandsData(req, res, state);
+    }
+
+    if( req.url.includes("/getSources") ) {
+        return await getSourcesData(req, res, state);
+    }
+
+    if( req.url.includes("/getNames") ) {
+        return await getNamesData(req, res, state);
     }
 
     res.statusCode = 400;

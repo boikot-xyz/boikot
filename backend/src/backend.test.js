@@ -2,11 +2,11 @@ import { describe, it, expect, beforeEach, afterEach } from "vitest";
 import _ from "lodash";
 import * as fs from "fs";
 
-import { getWikipediaInfo, getWikipediaPage } from "./wiki.js";
+import { getWikipediaInfo, getWikipediaPage, getNames } from "./wiki.js";
 import { getRecord } from "./getRecord.js";
 import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
-import { askLlama4, askQwen, askGemma, askGPTOSS, askLocalGPTOSS, embed } from "./llm.js";
+import { askLlama4, askQwen, askGemma, askGPTOSS, askLocalGPTOSS, askLocal, embed } from "./llm.js";
 import { getInvestigationPrompt, getSummarisePrompt, getCombinePrompt } from "./prompts.js";
 import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, appleArticleText, kelloggsArticleText, wagamamaArticleText, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo, nintendoInfo, burberryInfo, hugePrompt } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
@@ -136,7 +136,7 @@ describe("getWikipediaInfo", () => {
 });
 
 
-const targetNames = [
+const targetRecordNames = [
   ["apple", "Apple"],
   ["samsung", "Samsung"],
   ["byd", "BYD"],
@@ -153,7 +153,7 @@ const targetNames = [
 ];
 
 describe("getRecord", () => {
-  targetNames.forEach(([companyName, expectedName]) => {
+  targetRecordNames.forEach(([companyName, expectedName]) => {
     it(`returns correct record for ${companyName}`, async () => {
       const record = getRecord(companyName);
       expect(record).toBeDefined();
@@ -450,114 +450,135 @@ const targetEthicsSummaryResults = [
     },
 ];
 
-const llmOptions = [ askQwen, askLlama4, askGemma, askGPTOSS, askLocalGPTOSS ];
+const targetNames = [
+  ["A24", ["A24", "A24 Films LLC", "A24 Films"], ["A24", "A24 Films LLC", "A24 Films"]],
+  ["Levi's", ["Levi's", "Levi Strauss & Co.", "LEVI"], ["Levi's", "Levi Strauss & Co.", "Levi Strauss", "LEVI"]],
+  ["Oreo", ["Oreo"], ["Oreo", "OREO"]],
+  ["Unilever", ["Unilever", "Unilever plc", "ULVR"], ["Unilever", "Unilever plc", "ULVR", "UNA", "UL"]],
+  ["Five Guys", ["Five Guys", "Five Guys Enterprises, LLC", "Five Guys Burgers and Fries"], ["Five Guys", "Five Guys Enterprises, LLC", "Five Guys Burgers and Fries"]],
+  ["Costco", ["Costco", "Costco Wholesale Corporation", "COST"], ["Costco", "Costco Wholesale Corporation", "COST"]],
+  ["Greggs", ["Greggs", "Greggs plc", "GRG"], ["Greggs", "Greggs plc", "GRG", "Greggs Bakeries Limited"]],
+  ["Sony", ["Sony", "Sony Group Corporation", "Sony Corporation", "Sony Group", "SONY"], ["Sony", "Sony Group Corporation", "Sony Corporation", "Sony Group", "SONY", "Sonī Gurūpu kabushiki-gaisha", "Tokyo Tsushin Kogyo K.K.", "ソニーグループ株式会社", "TYO: 6758", "6758"]],
+  ["Marvel", ["Marvel", "Marvel Comics", "MVL"], ["Marvel", "Marvel Entertainment, LLC", "Marvel Entertainment, Inc.", "Marvel Comics", "Magazine Management", "Marvel Comics Group", "Marvel Entertainment Group", "Marvel Entertainment", "MVL", "MRV", "Toy Biz", "Marvel Enterprises, Inc.", "Marvel Entertainment, Inc.", "Marvel Comics Group", "Marvel Entertainment Group, Inc.", "Marvel Holdings, Inc.", "Marvel Enterprises"]],
+];
 
-llmOptions.forEach( llmFunc =>
-  describe( llmFunc.name, () => {
-    it("responds as asked", async () => {
-      const response = await llmFunc("Please respond to this message with the string \"beans\"")
-      console.log(response);
-      expect(response).toBe("beans");
-    });
-  
-    it("can add up", async () => {
-      const response = await llmFunc("What is nine plus ten? respond with just a number, eg. \"45\" or \"32\". Think briefly but correctly."); // need to tell Qwen not to think too much
-      console.log(response);
-      expect(response).toBe("19");
-    });
-  
-    it("can answer yes or no", async () => {
-      const response = await llmFunc(
-          "Is it generally correct to say sand tastes better than chocolate? " +
-          "Please respond with only one of the following options and no other characters or punctuation: \"Yes\" or \"No\""
-      );
-      console.log(response);
-      expect(response).toBe("No");
-    });
+const targetLineSummaries = [
 
-    targetInvestigationResults.forEach(
-      ({
-          companyName, searchResults,
-          relevantResultNumbers, requiredResultNumbers
-      }) =>
-        it(
-          `can select relevant search results for ${companyName}`, 
-          async () => {
-            const investigationPrompt =
-              getInvestigationPrompt( companyName, searchResults, 3 );
-            const response = await llmFunc(investigationPrompt);
-            console.log(response);
-            expect(response).toMatch(/^(\d+)(, ?\d+){2,9}/);
-            const selectedNumbers = response.split(",").map( x => +x );
-            selectedNumbers.forEach( selectedNumber =>
-              expect(relevantResultNumbers).toContain(selectedNumber)
-            );
-            requiredResultNumbers.forEach( requiredNumber =>
-              expect(selectedNumbers).toContain(requiredNumber)
-            );
-          },
-        )
+];
+
+const askLocalGemma4 = x => askLocal(x, {});
+const askLocalQwen38 = x => askLocal(x, {model: "qwen3.8:27b-mlx"});
+const llmFunc = askLocalQwen38;
+
+describe( "llm", () => {
+  it("responds as asked", async () => {
+    const response = await llmFunc("Please respond to this message with the string \"beans\"")
+    console.log(response);
+    expect(response).toBe("beans");
+  });
+
+  it("can add up", async () => {
+    const response = await llmFunc("What is nine plus ten? respond with just a number, eg. \"45\" or \"32\". Think briefly but correctly."); // need to tell Qwen not to think too much
+    console.log(response);
+    expect(response).toBe("19");
+  });
+
+  it("can answer yes or no", async () => {
+    const response = await llmFunc(
+      "Is it generally correct to say sand tastes better than chocolate? " +
+      "Please respond with only one of the following options and no other characters or punctuation: \"Yes\" or \"No\""
     );
+    console.log(response);
+    expect(response).toBe("No");
+  });
 
-    targetSummariseResults.forEach(
-      ({ companyName, articleText, targetResultCheck }) =>
-        it(
-          `can summarise an article for ${companyName}`, 
-          async () => {
-            const summarisePrompt =
-              getSummarisePrompt( companyName, articleText );
-            const response = await llmFunc(summarisePrompt);
-            console.log(response);
-            await targetResultCheck(response);
-          },
-        )
-    );
-  
-    targetEthicsSummaryResults.forEach(
-        ({
-          companyName, companyInfo,
-          targetResultCheck,
-        }) =>
-            it(`can write an ethics summary for ${companyName}`, async () => {
-                // todo add more test cases
-                const combinePrompt = getCombinePrompt(
-                  companyName, companyInfo
-                );
-                const response = await llmFunc(combinePrompt);
-                console.log(response);
-                await targetResultCheck(response);
-            })
-    );
+  targetInvestigationResults.forEach(
+    ({
+        companyName, searchResults,
+        relevantResultNumbers, requiredResultNumbers
+    }) =>
+      it(
+        `can select relevant search results for ${companyName}`, 
+        async () => {
+          const investigationPrompt =
+            getInvestigationPrompt( companyName, searchResults, 3 );
+          const response = await llmFunc(investigationPrompt);
+          console.log(response);
+          expect(response).toMatch(/^(\d+)(, ?\d+){2,9}/);
+          const selectedNumbers = response.split(",").map( x => +x );
+          selectedNumbers.forEach( selectedNumber =>
+            expect(relevantResultNumbers).toContain(selectedNumber)
+          );
+          requiredResultNumbers.forEach( requiredNumber =>
+            expect(selectedNumbers).toContain(requiredNumber)
+          );
+        },
+      )
+  );
 
-    it("says who it is", async () => {
-        const response = await llmFunc("Who are you?");
-        console.log(response);
-        expect(response).toMatch(/(I am)|(I'm)|(I’m)/);
-        expect(response).toContain("investigative journalist");
-    });
+  targetSummariseResults.forEach(
+    ({ companyName, articleText, targetResultCheck }) =>
+      it(
+        `can summarise an article for ${companyName}`, 
+         async () => {
+           const summarisePrompt =
+             getSummarisePrompt( companyName, articleText );
+           const response = await llmFunc(summarisePrompt);
+           console.log(response);
+           await targetResultCheck(response);
+        },
+      )
+  );
 
-    it("can generate JSON", async () => {
-        const response = await llmFunc(
-            "Please generate some sample JSON data that can be parsed by JSON.parse. Respond with JSON data and nothing else."
+  targetEthicsSummaryResults.forEach(
+    ({
+      companyName, companyInfo,
+      targetResultCheck,
+    }) =>
+      it(`can write an ethics summary for ${companyName}`, async () => {
+        // todo add more test cases
+        const combinePrompt = getCombinePrompt(
+          companyName, companyInfo
         );
+        const response = await llmFunc(combinePrompt);
         console.log(response);
-        JSON.parse(response.match(/{.+}/s)[0]);
-    });
+        await targetResultCheck(response);
+      })
+  );
 
-    it.skip("can take a huge input", async () => {
-        const response = await llmFunc(hugePrompt);
-        console.log(response);
-        expect(response).toMatch(/co.op/i);
-    });
+  targetNames.forEach(([companyName, minExpectedNames, maxExpectedNames]) => {
+    it(`gets the correct names for ${companyName}`, async () => {
+      const result = await getNames(companyName);
+      console.log(result);
+      const lc = s => s.toLowerCase();
 
-    // extract text from webpage including links
-    // todo agentic crawl
-    // todo function that filters youtube etc out of results
-    // todo ability to get company names and ticker
-    // todo ability to get tags
-    // todo ability to set ownedBy
-  })
-);
+      for(const expectedName of minExpectedNames) expect(result.map(lc)).toContain(lc(expectedName));
+      for(const name of result.map(lc)) expect(maxExpectedNames.map(lc)).toContain(lc(name));
+    });
+  });
+
+  it("can generate JSON", async () => {
+    const response = await llmFunc(
+      "Please generate some sample JSON data that can be parsed by JSON.parse. Respond with JSON data and nothing else."
+    );
+    console.log(response);
+    JSON.parse(response.match(/{.+}/s)[0]);
+  });
+
+  targetLineSummaries.forEach(([companyName, article, expectedStrings]) =>
+    it("can summarise an article into a single line", async () => {
+      
+    })
+  );
+
+  // extract text from webpage including links
+  // todo agentic crawl
+  // todo function that filters youtube etc out of results
+  // todo ability to get company names and ticker
+  // todo ability to get tags
+  // todo ability to set ownedBy
+})
+
 
 
 const sortSourcesTargets = [
@@ -713,22 +734,10 @@ describe("cosineSimilarity", () => {
     });
 });
 
-describe("embeddings", () => {
-    it("embeds", async () => {
-        const e1 = await embed( "hot" );
-        const e2 = await embed( "hot" );
-        const e3 = await embed( "warm" );
-        const e4 = await embed( "cold" );
-
-        expect( dist( e1, e2 ) ).toBe( 0 );
-        expect( dist( e1, e3 ) ).toBeLessThan( dist( e1, e4 ) );
-    });
-});
-
-const bpTargetArticle = `
-BP scandal: extremely unethical actions were done by the company
+const targetArticle = companyName => `
+${companyName} scandal: extremely unethical actions were done by the company
 https://www.bbc.co.uk/news/articles/cgmjd8evd0go
-27 Apr 2025 ... BP has been found guilty of unethical actions including human trafficking, murder, election interference, environmental damage, mistreatment of workers ...
+27 Apr 2025 ... ${companyName} has been found guilty of unethical actions including human trafficking, murder, election interference, environmental damage, mistreatment of workers ...
 `;
 
 const bpCandidateArticles = [
@@ -749,21 +758,39 @@ https://www.telegraph.co.uk/politics/2025/06/07/bp-oil-spill-caspian-sea/
 `,
 ];
 
-describe("closestEmbedding", () => {
+describe("embeddings", () => {
+    it("embeds", async () => {
+        const e1 = await embed( "hot" );
+        const e2 = await embed( "hot" );
+        const e3 = await embed( "warm" );
+        const e4 = await embed( "cold" );
+
+        expect( dist( e1, e2 ) ).toBe( 0 );
+        expect( dist( e1, e3 ) ).toBeLessThan( dist( e1, e4 ) );
+    });
+
     it("selects the best article", async () => {
         const result = await closestEmbedding(
-            bpCandidateArticles, bpTargetArticle
+            bpCandidateArticles, targetArticle("BP")
         );
         expect(result).toContain("BP Spills 11 million litres of Oil");
     });
-});
 
-describe("mostAlignedEmbedding", () => {
     it("selects the best article", async () => {
         const result = await mostAlignedEmbedding(
-            bpCandidateArticles, bpTargetArticle
+            bpCandidateArticles, targetArticle("BP")
         );
         expect(result).toContain("BP Spills 11 million litres of Oil");
+    });
+
+    it("selects correct articles", async () => {
+        const { companyName, searchResults, relevantResultNumbers, requiredResultNumbers } = targetInvestigationResults[0];
+        const options = searchResults.split("\n\n").map(x => x.trim().replace(/^\d+\. /,"")).filter(x => !!x);
+        for(const o of options) {
+            console.log(o)
+            console.log(cosineSimilarity(await embed( targetArticle("Meta") ), await embed( o )));
+            console.log("\n");
+        }
     });
 });
 

@@ -14,8 +14,9 @@ const original = JSON.parse( fs.readFileSync( "../boikot.json" ));
 
 console.log( "parsing content, migrating data" );
 for( const key of Object.keys(original.companies) ) {
-    await new Promise(r => setTimeout(r, 1000));
     const entry = original.companies[key];
+    if(new Date(entry.updatedAt) < new Date("2026-04-12T18:44:24.011Z")) continue;
+    await new Promise(r => setTimeout(r, 1000));
 
     if(entry.logoUrl?.includes("upload.wikimedia.org/wikipedia/commons") && !entry.logoUrl?.includes("thumb")) {
         const response = await fetch(entry.logoUrl);

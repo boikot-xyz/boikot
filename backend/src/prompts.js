@@ -12,7 +12,7 @@ ${searchResults}
 Please respond with the numbers of the most relevent news articles to read for an investigation of the ethics of ${companyName}.
 - Select between 3 and 10 articles - only include the most relevant articles.
 - If there are multiple articles covering the same story, its ok to include up to 3 sources on that story.
-- We are looking for hard-hitting, factual journalism, so only include articles from reputable, primary news sources. Compilation sites including wikipedia and lists of unethical actions done by a company are not primary sources.
+- We are looking for hard-hitting, factual journalism, so only include articles from reputable, primary sources. Compilation sites including wikipedia and lists of unethical actions done by a company are not primary sources.
 - Some results come from essay, homework, or study websites, or are broad overviews like "The Ethics of Company X", which are not primary sources - make sure to avoid these.
 - Resources published by the company itself could be biased, like its annual report, sustainability page or ethics statements, so only include articles published by third parties.
 - We can't cite videos easily, so only include written news articles, and make sure to avoid videos published on www.youtube.com or other video hosts
@@ -53,4 +53,15 @@ Please summarise this information into a two-sentence summary of the ethics of $
 - Don't include positive statements about the company that aren't related to specifically ethical actions.
 - You are writing only about the ethics of the company, so only cite sources that contain information specifically about the ethics of ${companyName}.
 - Respond with your two-sentence ethics summary only and no other text.
+`;
+
+export const getNamesPrompt = ( companyName, topText ) => `
+Here is some information about ${companyName}. Please extract any alternative names or stock tickers that also refer to ${companyName} and respond with just those names in a semicolon-seperated list, like this example for Marriott:
+Marriott; Marriott International; Marriott International, Inc.; Marriott Corporation; Marriott Hotels & Resorts; MAR
+- Only extract names and tickers in the following text that refer directly to ${companyName}; there might only be one or two
+- Don't include any names not in the text
+- If including stock tickers, don't include eg. NYSE: or LSE: before the ticker
+- It's ok to include partial names that will commonly be used, like "Mariott International" as well as the full "Marriott International, Inc."
+
+${topText}
 `;
