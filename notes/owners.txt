@@ -1,6 +1,4 @@
 [
-  "take-two",
-  "general-mills",
   "a.g.-barr",
   "eg-group",
   "towerbrook-capital-partners",

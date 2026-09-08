@@ -810,7 +810,8 @@
             ],
             "score": 10,
             "ownedBy": [
-                "nestle"
+                "nestle",
+                "general-mills"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/eb/Cookiecrisp_brand_logo.png",
             "siteUrl": "https://cereals.generalmills.com/products/cookie-crisp/",
@@ -18551,9 +18552,9 @@
                 "food",
                 "confectionery"
             ],
-            "score": 12,
+            "score": 26,
             "ownedBy": [
-                "hershey's"
+                "general-mills"
             ],
             "updatedAt": "2026-02-04T06:28:22.531Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Reese%27s_Puffs",
@@ -18573,7 +18574,8 @@
             ],
             "score": 12,
             "ownedBy": [
-                "hershey's"
+                "nestle",
+                "general-mills"
             ],
             "updatedAt": "2026-02-04T06:28:22.531Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Cocoa_Puffs",
@@ -35200,6 +35202,595 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Ghost_Story_Games",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Ghost_story_logo.png/250px-Ghost_story_logo.png",
             "siteUrl": "https://www.ghoststorygames.com/"
+        },
+        "general-mills": {
+            "key": "general-mills",
+            "names": [
+                "General Mills",
+                "General Mills, Inc.",
+                "Minneapolis Milling Company",
+                "Washburn-Crosby Company",
+                "GIS"
+            ],
+            "comment": "General Mills is an American food company that has discouraged the public from eating healthy [1], committed environmental violations [2][3][4], sold food containing dangerous herbicides [5][6] and pesticides [7], and sells food containing plasticisers [8]. The company has also engaged in racial discrimination against employees [9][10][11], retaliated against employees who reported racism [12][13], purchased palm oil from illegal plantations in wildlife reserves [14], operates in illegal Israeli settlements [15][16], and uses child labour in its supply chain [17].",
+            "sources": {
+                "1": "https://www.washingtonpost.com/wellness/2024/04/03/diet-culture-nutrition-influencers-general-mills-processed-food/",
+                "2": "https://echo.epa.gov/enforcement-case-report?id=05-2019-7523",
+                "3": "https://web.archive.org/web/20210815073911/http://edocpub.epa.ohio.gov/publicportal/ViewDocument.aspx?docid=362275",
+                "4": "https://echo.epa.gov/enforcement-case-report?id=05-2022-7573",
+                "5": "https://people.com/food/general-mills-cheerios-weed-killer-chemical-glyphosate-quaker-oats-response/",
+                "6": "https://www.ecowatch.com/general-mills-glyphosate-lawsuit-2598400768.html",
+                "7": "https://topclassactions.com/lawsuit-settlements/consumer-products/food/cheerios-class-action-alleges-products-contain-dangerous-pesticide-levels/",
+                "8": "https://www.cbsnews.com/news/general-mills-plastic-chemicals-consumer-reports/",
+                "9": "https://www.businesswire.com/news/home/20250924512794/en/Federal-Court-Sends-General-Mills-Racial-Discrimination-Claim-to-Jury-Trial-Ahead-of-Larger-Class-Action-Challenge",
+                "10": "https://www.theroot.com/black-employees-sue-general-mills-alleging-shocking-ra-1851521651",
+                "11": "https://www.thestreet.com/employment/general-mills-faces-lawsuit-alleging-egregious-incidents-of-racism",
+                "12": "https://www.fox9.com/news/general-mills-worker-retaliation-lawsuit-offensive-black-history-month-fun-facts-july-2025",
+                "13": "https://kstp.com/kstp-news/local-news/lawsuit-alleges-general-mills-fired-employee-after-he-reported-racially-offensive-material/",
+                "14": "https://www.ran.org/leuser-watch/the-last-of-the-leuser-lowlands/",
+                "15": "https://reliefweb.int/report/occupied-palestinian-territory/database-all-business-enterprises-involved-certain-activities",
+                "16": "https://web.archive.org/web/20211103173922/https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25542",
+                "17": "https://www.business-humanrights.org/en/latest-news/usa-investigation-finds-migrant-children-working-in-food-processing-factories-and-making-auto-parts-in-violation-of-child-labour-laws-incl-co-responses/"
+            },
+            "sourceNotes": {
+                "1": "discouraged the public from eating healthy",
+                "2": "committed environmental violations",
+                "3": "committed environmental violations",
+                "4": "committed environmental violations",
+                "5": "sold food containing dangerous herbicides",
+                "6": "sold food containing dangerous herbicides",
+                "7": "sold food containing dangerous pesticides",
+                "8": "sells food containing plasticisers",
+                "9": "racial discrimination against employees",
+                "10": "racial discrimination against employees",
+                "11": "racial discrimination against employees",
+                "12": "retaliated against employee who reported racism",
+                "13": "retaliated against employee who reported racism",
+                "14": "purchased palm oil from illegal plantations in wildlife reserves",
+                "15": "operating in illegal Israeli settlements",
+                "16": "operating in illegal Israeli settlements",
+                "17": "child labour in supply chain"
+            },
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/00/General_Mills_logo.svg/250px-General_Mills_logo.svg.png",
+            "siteUrl": "http://generalmills.com/",
+            "updatedAt": "2026-09-08T00:01:39.493Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/General_Mills"
+        },
+        "boo-berry": {
+            "key": "boo-berry",
+            "names": [
+                "Boo-Berry"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:25.463Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Monster_Cereals",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/33/Count-Chocula-Box-Small.jpg"
+        },
+        "chex": {
+            "key": "chex",
+            "names": [
+                "Chex"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:26.184Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Chex",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/62/Chex_cereal.png",
+            "siteUrl": "https://www.chex.com/"
+        },
+        "cinnamon-toast-crunch": {
+            "key": "cinnamon-toast-crunch",
+            "names": [
+                "Cinnamon Toast Crunch"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:26.281Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cinnamon_Toast_Crunch",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cinnamon_toastcrunch_logo.png/250px-Cinnamon_toastcrunch_logo.png",
+            "siteUrl": "https://www.cinnamontoastcrunch.com/"
+        },
+        "fiber-one-fibre-one": {
+            "key": "fiber-one-fibre-one",
+            "names": [
+                "Fiber One / Fibre One"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:26.817Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Fiber_One",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/FiberOneLogoredcircle.png/120px-FiberOneLogoredcircle.png",
+            "siteUrl": "https://www.fiberone.com/"
+        },
+        "french-toast-crunch": {
+            "key": "french-toast-crunch",
+            "names": [
+                "French Toast Crunch"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:28.232Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/French_Toast_Crunch",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/2/2f/French-Toast-Crunch-Box.jpg/250px-French-Toast-Crunch-Box.jpg",
+            "siteUrl": "http://www.blog.generalmills.com/2014/12/weve-got-big-news-about-french-toast-crunch/"
+        },
+        "kix": {
+            "key": "kix",
+            "names": [
+                "Kix"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:28.354Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kix_(cereal)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/Kix_cereal.png",
+            "siteUrl": "http://www.kixcereal.com/"
+        },
+        "lucky-charms": {
+            "key": "lucky-charms",
+            "names": [
+                "Lucky Charms"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:28.673Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucky_Charms",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lucky_charms_brand_logo.png",
+            "siteUrl": "https://www.luckycharms.com/"
+        },
+        "oatmeal-crisp": {
+            "key": "oatmeal-crisp",
+            "names": [
+                "Oatmeal Crisp"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:28.925Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Oatmeal_Crisp",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Oatmeal_Crisp.png",
+            "siteUrl": "https://www.oatmealcrisp.ca/"
+        },
+        "trix": {
+            "key": "trix",
+            "names": [
+                "Trix"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:29.457Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Trix_(cereal)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Trix_brand_logo.png/250px-Trix_brand_logo.png",
+            "siteUrl": "https://www.generalmills.com/Brands/Cereals/Trix.aspx"
+        },
+        "wheaties": {
+            "key": "wheaties",
+            "names": [
+                "Wheaties"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:30.129Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Wheaties",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Wheaties_logo.png/250px-Wheaties_logo.png",
+            "siteUrl": "http://wheaties.com/"
+        },
+        "bugles": {
+            "key": "bugles",
+            "names": [
+                "Bugles"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:30.210Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bugles_(snack)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bugles_brand_snack_food.jpg/250px-Bugles_brand_snack_food.jpg"
+        },
+        "chex-mix": {
+            "key": "chex-mix",
+            "names": [
+                "Chex Mix"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:30.605Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Chex_Mix",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Traditional_Chex_Mix.png/250px-Traditional_Chex_Mix.png",
+            "siteUrl": "https://www.chexmix.com/"
+        },
+        "gardetto's": {
+            "key": "gardetto's",
+            "names": [
+                "Gardetto's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:30.792Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gardetto's"
+        },
+        "nature-valley": {
+            "key": "nature-valley",
+            "names": [
+                "Nature Valley"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:30.999Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Nature_Valley",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nature-valley-logo.png/250px-Nature-valley-logo.png",
+            "siteUrl": "https://www.naturevalley.com/"
+        },
+        "betty-crocker": {
+            "key": "betty-crocker",
+            "names": [
+                "Betty Crocker"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:31.177Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Betty_Crocker",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Betty_Crocker_New_Logo.svg/250px-Betty_Crocker_New_Logo.svg.png",
+            "siteUrl": "https://www.bettycrocker.com/"
+        },
+        "bisquick": {
+            "key": "bisquick",
+            "names": [
+                "Bisquick"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:31.255Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bisquick",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bisquick_Logo.jpg/330px-Bisquick_Logo.jpg",
+            "siteUrl": "http://bisquick.com/"
+        },
+        "jus-rol": {
+            "key": "jus-rol",
+            "names": [
+                "Jus-Rol"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:31.746Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Jus-Rol",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Logo_for_Jus-Rol%2C_Oct_2014.jpg/250px-Logo_for_Jus-Rol%2C_Oct_2014.jpg",
+            "siteUrl": "http://jusrol.co.uk/"
+        },
+        "pillsbury": {
+            "key": "pillsbury",
+            "names": [
+                "Pillsbury"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:32.382Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pillsbury_Company",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pillsbury_company_logo.svg/250px-Pillsbury_company_logo.svg.png",
+            "siteUrl": "https://www.pillsbury.com/"
+        },
+        "diablitos-underwood": {
+            "key": "diablitos-underwood",
+            "names": [
+                "Diablitos Underwood"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:32.490Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Underwood_Company",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/de/Underwood_Meat_Spreads_logo.png",
+            "siteUrl": "http://underwoodspreads.com/"
+        },
+        "old-el-paso": {
+            "key": "old-el-paso",
+            "names": [
+                "Old El Paso"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:32.677Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Old_El_Paso",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Logo_for_Old_El_Paso%2C_Oct_2014.png/250px-Logo_for_Old_El_Paso%2C_Oct_2014.png",
+            "siteUrl": "https://www.oldelpaso.com/"
+        },
+        "wanchai-ferry": {
+            "key": "wanchai-ferry",
+            "names": [
+                "Wanchai Ferry"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:32.728Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Wanchai_Ferry_(brand)"
+        },
+        "cascadian-farm": {
+            "key": "cascadian-farm",
+            "names": [
+                "Cascadian Farm"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:33.239Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cascadian_Farm",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/00/General_Mills_logo.svg/250px-General_Mills_logo.svg.png",
+            "siteUrl": "http://generalmills.com/"
+        },
+        "annie's-homegrown": {
+            "key": "annie's-homegrown",
+            "names": [
+                "Annie's Homegrown"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:34.025Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Annie's_Homegrown",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Annies_logo.png",
+            "siteUrl": "http://www.annies.com/"
+        },
+        "totino's": {
+            "key": "totino's",
+            "names": [
+                "Totino's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:34.566Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Totino's",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Totinos.svg/250px-Totinos.svg.png",
+            "siteUrl": "http://www.totinos.com/"
+        },
+        "progresso": {
+            "key": "progresso",
+            "names": [
+                "Progresso"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:35.017Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Progresso",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/New_progresso_logo.svg/250px-New_progresso_logo.svg.png"
+        },
+        "colombo": {
+            "key": "colombo",
+            "names": [
+                "Colombo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:35.201Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Colombo_Yogurt"
+        },
+        "larabar": {
+            "key": "larabar",
+            "names": [
+                "Lärabar"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "general-mills"
+            ],
+            "updatedAt": "2026-09-08T11:47:35.457Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lärabar",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Larabar_logo.png/250px-Larabar_logo.png",
+            "siteUrl": "https://www.larabar.com/"
         }
     }
 }
