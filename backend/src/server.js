@@ -74,7 +74,9 @@ async function getBrandsData(req, res, body) {
 async function saveBrandsData(req, res, body) {
     for(const entry of Object.values(body) ) {
         console.log(`Saving brand data for ${entry.names[0]}`);
-        await addRecord( entry );
+        try {
+          await addRecord( entry );
+        } catch(e) { console.log(e) }
     }
     console.log(`Saved brand data`);
     res.end(JSON.stringify({ message: "saved ok!" }));
