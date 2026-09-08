@@ -35091,6 +35091,115 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Redmi",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/REDMI_logo_%28red%29.svg/250px-REDMI_logo_%28red%29.svg.png",
             "siteUrl": "https://www.mi.com/"
+        },
+        "take-two": {
+            "key": "take-two",
+            "names": [
+                "Take Two",
+                "Take-Two Interactive",
+                "Take-Two Interactive Software, Inc.",
+                "Take 2",
+                "Take 2 Interactive",
+                "Take-Two",
+                "\tParagon Software",
+                "TTWO"
+            ],
+            "comment": "Take Two is an American video game publisher that has engaged in anti‑union practices [1], stolen music from an independent artist [2], and operated predatory gambling games [3]. The company has also underpaid employees and denied them breaks [4][5][6][7].",
+            "sources": {
+                "1": "https://www.bbc.co.uk/news/articles/c9v10rr1meeo",
+                "2": "https://www.svg.com/378328/why-this-musician-is-suing-rockstar-games/",
+                "3": "https://www.law360.com/articles/1554238/game-maker-zynga-pays-12m-to-end-gambling-app-suit",
+                "4": "https://www.law360.com/articles/416208/gaming-co-settles-meal-break-allegations-with-testers",
+                "5": "https://www.engadget.com/2010-01-15-rockstar-quietly-settled-class-action-lawsuit-with-over-100-ex.html",
+                "6": "https://gamerant.com/rockstar-games-underpaid-workers/",
+                "7": "https://www.business-humanrights.org/en/latest-news/uk-rockstar-games-improves-working-conditions-following-investigation-highlighting-excessive-overtime-temporary-contracts/"
+            },
+            "sourceNotes": {
+                "1": "anti-union practices",
+                "2": "stole music from independent artist",
+                "3": "operated predatory gambling games",
+                "4": "underpaid and denied breaks to employees",
+                "5": "underpaid and denied breaks to employees",
+                "6": "underpaid and denied breaks to employees",
+                "7": "underpaid and denied breaks to employees"
+            },
+            "tags": [
+                "videogames",
+                "entertainment",
+                "tech"
+            ],
+            "score": 43,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Take-Two_Interactive_Logo.svg",
+            "siteUrl": "https://www.take2games.com/",
+            "updatedAt": "2026-09-07T22:19:50.910Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Take_Two"
+        },
+        "zynga": {
+            "key": "zynga",
+            "names": [
+                "Zynga"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "videogames",
+                "entertainment",
+                "tech"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "take-two"
+            ],
+            "updatedAt": "2026-09-08T00:02:16.943Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Zynga",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Zynga.svg/250px-Zynga.svg.png",
+            "siteUrl": "https://www.zynga.com/"
+        },
+        "2k": {
+            "key": "2k",
+            "names": [
+                "2K"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "videogames",
+                "entertainment",
+                "tech"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "take-two"
+            ],
+            "updatedAt": "2026-09-08T00:02:17.500Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/2K_(company)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2K_2021_Logo.svg/250px-2K_2021_Logo.svg.png",
+            "siteUrl": "https://2k.com/"
+        },
+        "ghost-story-games": {
+            "key": "ghost-story-games",
+            "names": [
+                "Ghost Story Games"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "videogames",
+                "entertainment",
+                "tech"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "take-two"
+            ],
+            "updatedAt": "2026-09-08T00:02:17.634Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ghost_Story_Games",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Ghost_story_logo.png/250px-Ghost_story_logo.png",
+            "siteUrl": "https://www.ghoststorygames.com/"
         }
     }
 }
