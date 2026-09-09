@@ -35791,6 +35791,188 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Lärabar",
             "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Larabar_logo.png/250px-Larabar_logo.png",
             "siteUrl": "https://www.larabar.com/"
+        },
+        "a.g.-barr": {
+            "key": "a.g.-barr",
+            "names": [
+                "A.G. Barr",
+                "Barr's",
+                "A.G. Barr p.l.c.",
+                "BAG"
+            ],
+            "comment": "",
+            "sources": {
+                "1": "https://www.heraldscotland.com/news/23746060.irn-bru-manufacturer-accused-union-busting-tactics/"
+            },
+            "sourceNotes": {
+                "1": "anti union practices"
+            },
+            "tags": [
+                "beverages"
+            ],
+            "score": 49,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/2/24/A.G._Barr_logo.svg/250px-A.G._Barr_logo.svg.png",
+            "siteUrl": "https://agbarr.co.uk/",
+            "updatedAt": "2026-09-09T20:13:12.311Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/A.G._Barr"
+        },
+        "barr-cola": {
+            "key": "barr-cola",
+            "names": [
+                "Barr Cola"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 49,
+            "ownedBy": [
+                "a.g.-barr"
+            ],
+            "updatedAt": "2026-09-09T20:25:20.189Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Barr_Cola",
+            "siteUrl": "https://www.agbarr.co.uk/our-brands/barr-soft-drinks/barr-flavours"
+        },
+        "red-kola": {
+            "key": "red-kola",
+            "names": [
+                "Red Kola"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 49,
+            "ownedBy": [
+                "a.g.-barr"
+            ],
+            "updatedAt": "2026-09-09T20:25:20.468Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Red_Kola",
+            "siteUrl": "http://dunnsfoodanddrinks.co.uk/our-range/own-brands/curries-red-kola-3"
+        },
+        "boost-drinks": {
+            "key": "boost-drinks",
+            "names": [
+                "Boost Drinks"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 49,
+            "ownedBy": [
+                "a.g.-barr"
+            ],
+            "updatedAt": "2026-09-09T20:25:20.895Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Boost_Drinks",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/5/5b/Boost_Drinks_logo.png/250px-Boost_Drinks_logo.png",
+            "siteUrl": "https://boostdrinks.com/"
+        },
+        "bundaberg": {
+            "key": "bundaberg",
+            "names": [
+                "Bundaberg"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 49,
+            "ownedBy": [
+                "a.g.-barr"
+            ],
+            "updatedAt": "2026-09-09T20:25:20.994Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bundaberg_Brewed_Drinks",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/3/3e/Bundaberg_Brewed_Drinks_Logo.png/250px-Bundaberg_Brewed_Drinks_Logo.png",
+            "siteUrl": "http://bundaberg.com/"
+        },
+        "rio": {
+            "key": "rio",
+            "names": [
+                "Rio"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 49,
+            "ownedBy": [
+                "a.g.-barr"
+            ],
+            "updatedAt": "2026-09-09T20:25:21.630Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rio_(British_drink)",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e5/Rio_British_drink_logo.png",
+            "siteUrl": "https://drinkrio.com/"
+        },
+        "rubicon": {
+            "key": "rubicon",
+            "names": [
+                "Rubicon"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 49,
+            "ownedBy": [
+                "a.g.-barr"
+            ],
+            "updatedAt": "2026-09-09T20:25:22.152Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rubicon_Drinks",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Rubicon_Drinks.png/250px-Rubicon_Drinks.png",
+            "siteUrl": "http://rubicondrinks.com/"
+        },
+        "tizer": {
+            "key": "tizer",
+            "names": [
+                "Tizer"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 49,
+            "ownedBy": [
+                "a.g.-barr"
+            ],
+            "updatedAt": "2026-09-09T20:25:22.227Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tizer",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tizer.jpg/250px-Tizer.jpg"
+        },
+        "fentimans": {
+            "key": "fentimans",
+            "names": [
+                "Fentimans"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 49,
+            "ownedBy": [
+                "a.g.-barr"
+            ],
+            "updatedAt": "2026-09-09T20:25:22.324Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Fentimans",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/Fentimans.png",
+            "siteUrl": "http://www.fentimans.com/"
         }
     }
 }
