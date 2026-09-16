@@ -7,6 +7,9 @@ import { JSDOM } from "jsdom";
 import { Cookie, CookieJar } from 'tough-cookie'
 import esMain from 'es-main';
 
+import { Camoufox } from 'camoufox-js';
+
+
 
 const resCookie = Cookie.parse(
     //`__cf_bm=9olW3io0S..TLwz3UW6_r7EEohvSLrQOZy8uTCZnXj4-1785180471.5497541-1.0.1.1-BWYAmOcoaumuWOf7yO4ntbKBFSpEYMSfV15kmzNRPqg3agPoHlOU7IGJuKOA02OpGL9UA47NVo7DUBDe73CHMCiO1cXMtt.n_Ygl6e_Vfk5gRh8dVY    NtHHED3AeQe3IP; cf_clearance=2vboI9q58rVGxZW8m3a8wA9.450uqD_LbNok43DQzxk-1785180471-1.2.1.1-ooTdPDodywpRdF.aTtCJzHWiLSYSqYK1yxRpBvxUjJlNkzNxDjZ9nsaC48HY6nFA0l5DT.GHSxAV4AaM8a0VIQZMVsEoruG34y.POVN79IBxEk93MtfN90MS    J3WlYFQGI00IEPqj3OWuIRorctQjbpdB_NCVPWY5RxHf7jkEf0HjDMi5_q3qmkFzZ3YtPkCnePLD3vqyUgvUDXD9g3Ogs533_AcFQ2rX53rMl4uoBl.0AZi.HkO8ftnCX.LdTx6cs5I2dcKA7aS3xoI9RO1M8_Bt8dRZ05xA1P7bCieakJKpIG9Wb9NNbz_yWgu86pXAurDa97fgH40p    Xm_GTSVzsbR7p8cC6oyab3jX2ZXW4Yi7RoP6DvxeNp6JxGwPwdLr1gVkX5q.O4uUJmOZcMt0ELZXwzhxObuPJkC6v4blDOWhh1CG0Es81_nnVb1USA2Mq60wbgzFAOtGgwK1D10VjFWKTmXd1WxaEoWB5PiBkhYmPb6xLW2p0dBP9Y9QX.pDwBOKNL6XIh0yxIsLtDpG.He91hap9d93    aXUptiIKiTAowtLtusrfZCZzEk2RmCoHwMBIy0chzdI7tVOEcbx3dQ`
@@ -39,11 +42,8 @@ export const fetchOptions = {
 
 
 async function scrapeResults( url ) {
-    const pageHTML = await (await fetch(url, fetchOptions)).text();
-    console.log(pageHTML)
-    const pageDOM = new JSDOM( pageHTML );
-    const document = pageDOM.window.document;
-
+    const script = `
+    ( () => {
     const links = [...document.querySelectorAll(".result__title a.result__link")];
     const descriptions = [...document.querySelectorAll("div.result__description")];
     return links.map( (a,i) => ({
@@ -52,6 +52,18 @@ async function scrapeResults( url ) {
         url: a.href,
         description: descriptions[i].textContent.trim()
     }) );
+    } ) ()
+    `;
+    
+    const browser = await Camoufox({ headless: true });
+    const page = await browser.newPage();
+
+    await page.goto(url);
+    await page.waitForSelector('.result__title a.result__link');
+    const result = await page.evaluate(script);
+    await browser.close();
+
+    return result;
 }
 
 export async function searchEcosia( searchQuery, pages=5 ) {

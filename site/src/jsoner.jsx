@@ -7,8 +7,153 @@ import "whatwg-fetch";
 import { Helmet } from "react-helmet";
 
 import boikot from '../../boikot.json';
-import { getKey, Card, CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack, Row, ResizingInput } from "./components.jsx";
+import { getKey, Badge, Card, CodeBlock, copy, DeleteableBadgeList, FlexRow, Icon, Page, PillButton, Stack, Row, ResizingInput } from "./components.jsx";
 import { Company, CompanyHeader } from "./companies.jsx";
+
+const gotSourcesData = {
+  "wikiPage": [],
+  "unethicalResults": [],
+  "scandalResults": [],
+  "violations": [
+    {
+      "source": "violation tracker",
+      "url": "//violationtracker.goodjobsfirst.org/violation-tracker/-tfl-inc-aka-mega-saver",
+      "title": "TFL, INC A/K/A MEGA SAVER - environmental violation - $149,448",
+      "description": "TFL, INC A/K/A MEGA SAVER; Parent company  ; ; environmental violation; 2019; EPA; $149,448"
+    },
+    {
+      "source": "violation tracker",
+      "url": "//violationtracker.goodjobsfirst.org/violation-tracker/ne-tfl-inc",
+      "title": "TFL, Inc. - wage and hour violation - $13,665",
+      "description": "TFL, Inc.; Parent company  ; ; wage and hour violation; 2009; WHD; $13,665"
+    },
+    {
+      "source": "violation tracker",
+      "url": "//violationtracker.goodjobsfirst.org/violation-tracker/nj-tfl-transpoort-inc",
+      "title": "TFL- Transpoort, Inc. - labor relations violation - $7,564",
+      "description": "TFL- Transpoort, Inc.; Parent company  ; ; labor relations violation; 2001; NLRB; $7,564"
+    },
+    {
+      "source": "violation tracker",
+      "url": "//violationtracker.goodjobsfirst.org/violation-tracker/-tfl-do-brasil-industria-quimuc",
+      "title": "TFL DO BRASIL INDUSTRIA QUIMUC - aviation safety violation - $6,600",
+      "description": "TFL DO BRASIL INDUSTRIA QUIMUC; Parent company  ; ; aviation safety violation; 2017; FAA; $6,600"
+    }
+  ],
+  "violationsUk": [
+    {
+      "source": "violation tracker uk",
+      "url": "//violationtrackeruk.goodjobsfirst.org/violation-tracker/TFLI-Limited",
+      "title": "TFLI Limited - privacy violation - £80,000",
+      "description": "TFLI Limited; Parent company  ; ; privacy violation; 2018; UK-ICO; £80,000"
+    },
+    {
+      "source": "violation tracker uk",
+      "url": "//violationtrackeruk.goodjobsfirst.org/violation-tracker/TFL-Service-Centre-Limited-dba-Wimbledon",
+      "title": "TFL Service Centre Limited dba Wimbledon Service Centre - labour standards violation - £18,378",
+      "description": "TFL Service Centre Limited dba Wimbledon Service Centre; Parent company  ; ; labour standards violation; 2023; UK-BEIS; £18,378"
+    },
+    {
+      "source": "violation tracker uk",
+      "url": "//violationtrackeruk.goodjobsfirst.org/violation-tracker/TFL-Company-Limited",
+      "title": "TFL Company Limited - pension plan violation - £250",
+      "description": "TFL Company Limited; Parent company  ; ; pension plan violation; 2015; UK-TPO; £250"
+    },
+    {
+      "source": "violation tracker uk",
+      "url": "//violationtrackeruk.goodjobsfirst.org/violation-tracker/TfL-Trustee-Company-Limited",
+      "title": "TfL Trustee Company Limited - pension plan violation - £0",
+      "description": "TfL Trustee Company Limited; Parent company  ; ; pension plan violation; 2017; UK-TPO; £0"
+    }
+  ],
+  "violationsGlobal": [],
+  "ethicalOrgResults": [
+    {
+      "source": "ethical.org.au",
+      "url": "https://www.greenpeace.org/static/planet4-international-stateless/2017/01/35f0ac1a-clickclean2016-hires.pdf",
+      "title": "D rating at ClickClean.org",
+      "description": "Greenpeace's 2017 report 'Clicking Clean' looks at the energy footprints of large data centre operators and popular websites and applications, and calls on these companies to power their data centres on renewable energy.  Companies are graded (A,B,C,D,F) on their commitment to and procurement of renewable energy, as well as energy efficiency, transparency and advocacy. This company's final grade was D. [Listed under Information due to age of report]"
+    },
+    {
+      "source": "ethical.org.au",
+      "url": "https://www.wemeanbusinesscoalition.org/committed/",
+      "title": "Climate action commitments",
+      "description": "As listed on the We Mean Business website, this company has committed to the following climate action initiatives: adopt a science-based emissions reduction target."
+    },
+    {
+      "source": "ethical.org.au",
+      "url": "https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain",
+      "title": "A grade for operations in Russia",
+      "description": "Since the invasion of Ukraine, Yale University has tracked over 1,500 global companies, grading them from A to F on their degree of withdrawal from Russia. While over 1,000 businesses voluntarily curtailed Russian operations beyond legal sanction requirements, others remain undeterred.  This company received a grade of A, as they are totally halting Russian engagements or completely exiting Russia. According to the Yale list as at September 2026, this company's latest action is \"suspend service in Russia\"."
+    },
+    {
+      "source": "ethical.org.au",
+      "url": "https://www.opensecrets.org/orgs/summary?id=D000036161",
+      "title": "OpenSecrets.org profile",
+      "description": "OpenSecrets.org tracks the influence of money on U.S. politics, and how that money affects policy and citizens' lives. Follow link to see this company's record of political donations, lobbying, outside spending and more."
+    },
+    {
+      "source": "ethical.org.au",
+      "url": "https://justcapital.com/rankings/",
+      "title": "JUST Capital ranking",
+      "description": "JUST Capital polls Americans every year to identify the issues that matter most in defining just business behaviour. For their 2025 rankings the public identified 17 issues, which are organised under the headings Workers, Communities, Customers, Shareholders and Environment. JUST Capital then define metrics that map to those issues and track and analyse the largest, publicly traded U.S. companies. This analysis powers their rankings, in which this company ranked 278th of 940 companies, and 5th of 13 Media companies."
+    },
+    {
+      "source": "ethical.org.au",
+      "url": "https://www.worldbenchmarkingalliance.org/benchmark/just-transition#companies-listing",
+      "title": "0% in Just Transition",
+      "description": "The 2026 Just Transition Benchmark assessed 1,600 companies across multiple industries and sectors on how they integrate social equity, inclusivity and the rights of workers into their climate transition plan. This company received a score of 0/100. The average score was 5.7 and the highest score was 86.7."
+    },
+    {
+      "source": "ethical.org.au",
+      "url": "https://www.worldbenchmarkingalliance.org/gender-benchmark/",
+      "title": "8% in Gender Benchmark",
+      "description": "In 2023 and 2024, the World Benchmarking Alliance assessed 2,000 companies on their efforts to drive gender equality and women's empowerment across their entire value chain. Companies are assessed on governance and strategy, representation, compensation and benefits, health and well-being, and violence and harassment. This company scored 8 out of 100. The average score was 15.3 and the highest score was 51."
+    },
+    {
+      "source": "ethical.org.au",
+      "url": "https://www.worldbenchmarkingalliance.org/benchmark/social-benchmark#companies-listing",
+      "title": "7% in Social Benchmark",
+      "description": "The 2026 Social Benchmark assessed the world's 2,000 most influential companies on their responsibility in meeting society's fundamental expectations towards three measurement areas: respecting human rights, providing decent work, and acting ethically. This company received a score of 7/100. The average score was 20 and the highest score was 75."
+    },
+    {
+      "source": "ethical.org.au",
+      "url": "https://www.worldbenchmarkingalliance.org/benchmark/act-core#companies-listing",
+      "title": "E grade in ACT Core",
+      "description": "The 2026 ACT Core Benchmark assessed 1,600 companies on the credibility of their climate transition plans. Companies are evaluated across six measurement areas; emissions reporting and target definition, planning for the low-carbon transition, governance and policy, low-carbon investments, current target alignment, and performance. Companies receive a letter grade from A to G. This company received a score of E (Committed but not planning)."
+    },
+    {
+      "source": "ethical.org.au",
+      "url": "https://www.worldbenchmarkingalliance.org/benchmark/digital-inclusion-benchmark#companies-listing",
+      "title": "17.5% in Digital Inclusion Benchmark",
+      "description": "The 2026 Digital Inclusion Benchmark assessed 200 digital technology companies on how they are helping to advance a more inclusive digital economy and society. The companies were assessed across five measurement areas: access, skills, use, innovation and sustainable value creation. This company received a score of 17.5/100. The average score was 27.7 and the highest score was 85.2."
+    },
+    {
+      "source": "ethical.org.au",
+      "url": "https://www.ethicalconsumer.org/ethicalcampaigns/tax-justice/tax-avoidance-rankings",
+      "title": "Tax avoidance",
+      "description": "This company scores Ethical Consumer's worst rating for the likely use of tax avoidance strategies, and has at least two high risk subsidiaries in tax havens."
+    },
+    {
+      "source": "ethical.org.au",
+      "url": "https://investyourvalues.org/",
+      "title": "Retirement plan investments",
+      "description": "The Invest Your Values Corporate Retirement Plan Sustainability Scorecard by As You Sow rates retirement plans on seven environmental and social sustainability issues. This company's default corporate retirement plan offered to employees is the Vanguard Target Retirement Fund which is rated Fair for gender equality and civilian firearms, and Poor for fossil fuels, deforestation, prison industrial complex, military weapons and tobacco. This retirement plan has millions of dollars invested in fossil fuels, deforestation-risk agribusiness, and arms manufacturers."
+    },
+    {
+      "source": "ethical.org.au",
+      "url": "https://www.asyousow.org/report-page/the-100-most-overpaid-ceos-2023#appendix-a-ceo-2023",
+      "title": "Excessive CEO pay",
+      "description": "As You Sow's 2023 report, 'The 100 Most Overpaid CEOs', reveals the 100 most overpaid CEOs from USA's 500 largest public companies (as determined by the S&P 500 list). This company's CEOs, Reed Hastings & Ted Sarandos came in at number 25 on the list, having been paid US$79,055,889 in 2022. According to the report, \"Most CEOs have come to be grossly overpaid, and that overpayment is harmful to the companies, the shareholders, the customers, the other employees, the economy, and society as a whole.\""
+    },
+    {
+      "source": "ethical.org.au",
+      "url": "https://aflcio.org/paywatch/NFLX",
+      "title": "CEO Pay Ratio of 287:1",
+      "description": "In 2024 the median pay for a worker at this company was US$215,503. The CEO was paid 287 times this amount. Exorbitant CEO pay is a major contributor to rising inequality. CEOs are getting more because of their power to set pay, not because they are increasing productivity or possess specific, high-demand skills. The economy would suffer no harm if CEOs were paid less (or taxed more). In contrast, the CEO-to-typical-worker compensation ratio was 20-to-1 in 1965 and 58-to-1 in 1989."
+    }
+  ]
+};
 
 const initialState = {
     names: [],
@@ -312,6 +457,26 @@ function Toast({ children }) {
 }
 
 
+function GotSource({ gotSource, sourceSelected, addSource, removeSource, getSourceSummary }) {
+    return <button style={{ textAlign: "left", borderLeft: sourceSelected && "0.25rem solid var(--accent)", paddingLeft: sourceSelected && "1rem" }}
+        onClick={() => sourceSelected ? removeSource(gotSource.url) : (addSource(gotSource.url) + getSourceSummary(gotSource.url))}>
+        <Stack gap="0.25rem">
+            <Row style={{ width: "100%", justifyItems: "space-between", gridTemplateColumns: "max-content auto max-content", marginBottom: "-0.2rem", alignItems: "start", gap: "0.5rem" }}>
+                <input type="checkbox" checked={sourceSelected} />
+                <p style={{ textOverflow: "ellipsis", whiteSpace: "nowrap", overflow: "hidden", opacity: "0.4"  }} onClick={e => e?.stopPropagation()}> <a href={gotSource.url} target="_blank" style={{
+                    fontSize: "0.8rem", color: "white"
+                }}>
+                    https://{ gotSource.url.replace(/(https?:)?\/\//, "") }
+                </a></p>
+                <Badge style={{ justifySelf: "start", fontSize: "0.7rem", padding: "0.2rem 0.5rem", opacity: 0.5 }}>{gotSource.source}</Badge>
+            </Row>
+            <p style={{ fontSize: "1.2rem", color: "var(--accent)" }}> {gotSource.title} </p>
+            <p> {gotSource.description} </p>
+        </Stack>
+    </button>;
+}
+
+
 const flattenGotSources = gotSources =>
     Object.entries(gotSources).reduce( (res, [key, sources]) => [...res, ...sources.map(s => ({...s, key }))], [] );
 
@@ -350,14 +515,25 @@ export function Jsoner() {
             }
         ));
 
-    const addSource = () =>
+    const addSource = url => {
+        const sources = [...Object.values(state.sources).filter(x => x), url || ""];
         setState( oldState => ({
             ...oldState,
-            sources: {
-                ...oldState.sources,
-                [nextKey(oldState.sources)]: "",
-            },
+            sources: Object.fromEntries(sources.map((u,i) => [i+1, u])),
+        }) )
+    }
+ 
+    const removeSource = url => {
+        const sources = Object.entries(state.sources).filter(([k,x]) => x !== url);
+        const sourceNumbers = sources.map(([k, _]) => k);
+        const sourceNotes = Object.entries(state.sourceNotes).filter(([k,_]) => sourceNumbers.includes(k))
+
+        setState( oldState => ({
+            ...oldState,
+            sources: Object.fromEntries(sources.map(([k,u],i) => [i+1, u])),
+            sourceNotes: Object.fromEntries(sourceNotes.map(([k,u],i) => [i+1, u])),
         }) );
+    }
 
     const setSource = key => e =>
         setState( oldState => ({
@@ -537,6 +713,35 @@ export function Jsoner() {
         setToastMessage("Saved data!");
     };
 
+    const getSourceSummary = async url => {
+        setToastMessage("Generating source summary...");
+        const body = { names: state.names, sourceUrl: url };
+        const response = await fetch(
+            "http://localhost:8014/getSourceSummary",
+            {
+                method: "POST",
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(body),
+            }
+        );
+        const { summary } = await response.json();
+        setState( oldState => {
+            const sourceNumber = Object.entries(oldState.sources).find(([k,v]) => v === url)?.[0];
+            const newSourceNote = sourceNumber ? { [sourceNumber]: summary } : {};
+            return {
+                ...oldState,
+                sourceNotes: {
+                    ...oldState.sourceNotes,
+                    ...newSourceNote,
+                },
+            };
+        } );
+        setToastMessage("Generated comment!");
+    };
+
     const actionButtons = 
         <FlexRow style={{ justifyContent: "right" }}>
             <PillButton $outline onClick={populateWikiInfo} title="Click to fetch and populate company information from wikipedia" disabled={!backendUp || !state.names.length}>
@@ -574,150 +779,159 @@ export function Jsoner() {
             </PillButton>
         </FlexRow>;
 
-    return <Stack onKeyDown={ifCtrlC( () => copy(tojson(state)) )}>
-        { actionButtons }
-        <Entry $valid={state.names.length > 0}>
-            names & stock ticker
-            <DeleteableBadgeList
-                items={state.names}
-                update={names => setState( oldState => ({ ...oldState, names }) )}
-                deleteAtIndex={removeFromStateList("names")} />
-            <input
-                placeholder="Type names and press enter after each"
-                onKeyDown={ifEnter(addToStateList("names"))}
-                onKeyUp={ifEnter(e => e.target.value = "")} />
-        </Entry>
-        <SearchLinks state={state} />
-        <Entry $valid={state.tags.length > 0}>
-            tags
-            <DeleteableBadgeList
-                items={state.tags}
-                update={tags => setState( oldState => ({ ...oldState, tags }) )}
-                deleteAtIndex={removeFromStateList("tags")} />
-            <input
-                placeholder="Type tags that describe this company and press enter after each"
-                onKeyDown={ifEnter(addToStateList("tags"))}
-                onKeyUp={ifEnter(e => e.target.value = "")} />
-        </Entry>
-        <Entry $valid={state.ownedBy.length > 0}>
-            owned by
-            <DeleteableBadgeList
-                items={state.ownedBy}
-                deleteAtIndex={removeFromStateList("ownedBy")} />
-            <input
-                placeholder="codes of the companies that own this one"
-                onKeyDown={ifEnter(addToStateList("ownedBy"))}
-                onKeyUp={ifEnter(e => e.target.value = "")} />
-        </Entry>
-        <Entry $valid={!!state.siteUrl}>
-            site URL
-            <input
-                value={state.siteUrl}
-                placeholder="link to the company's website"
-                onChange={setStateField("siteUrl")} />
-        </Entry>
-        <Entry $valid={!!state.logoUrl}>
-            logo URL
-            <input
-                value={state.logoUrl}
-                placeholder="URL of the company's logo"
-                onChange={setStateField("logoUrl")} />
-        </Entry>
-        { gotSources && 
-            <Card style={{ maxHeight: "50vh", overflow: "scroll" }}>
-                { flattenGotSources(gotSources).map((gotSource, i) =>
-                    <>
-                    <p> {i+1}. <a href={gotSource.url} target="_blank">{gotSource.key} | {gotSource.title} </a></p>
-                    <p> { gotSource.url } </p>
-                    <p> {gotSource.description} </p>
-                    </>
-                ) }
-            </Card>
-        }
-        { showSources && <>
-            <h3> sources </h3>
-            { Object.keys(state.sources).map(key =>
-                <SourceRow
-                    key={key} sourceKey={key} state={state}
-                    setSource={setSource} setSourceNote={setSourceNote} setDragging={setDragging}
-                    reorderSources={reorderSources} onChange={(key == Object.keys(state.sources).length) ? addSource : null} />
-            )}
-        </>}
-        <FlexRow style={{ justifyContent: "right" }}>
-            { showSources && <PillButton
-                $outline
-                onClick={() => copy(
-                    generatePrompt(state)
-                )}>
-                copy summarise prompt  📋
-            </PillButton> }
-            { /* <PillButton $outline onClick={addSource}>
-                add source  🔗
-            </PillButton> */ }
-            { showSources &&
-                <PillButton
-                    $outline
-                    style={{ justifySelf: "right" }}
-                    disabled={!state.comment}
-                    onClick={sortSources(setState)}>
-                    sort sources  🃏
-                </PillButton> }
-        </FlexRow>
-        <Entry $valid={!!state.comment}>
-            comment
-            <textarea
-                style={{ height: "15rem" }}
-                placeholder="Enter a short summary of this company's most and least ethical actions. References can be placed by numbers in square brackets eg. [1], [2]"
-                value={state.comment}
-                ref={textareaRef}
-                onChange={setComment}
-                onPaste={handlePaste(setState)} />
-        </Entry>
-        <Entry $valid={parseFloat(state.score) <= 100}>
-            ethical score
-            <input
-                value={state.score}
-                placeholder="Enter a score from 0 to 100"
-                onChange={setStateField("score")} />
-        </Entry>
-        <Entry>
-            output company data
-            <CodeBlock style={{ maxHeight: "10rem", overflowY: "scroll" }}>
-                {tojson(state)}
-            </CodeBlock>
-        </Entry>
-        { actionButtons }
-        { !!state?.names?.length && <>
-            <h2> Preview: </h2>
-            <div style={{ border: "0.05rem solid var(--fg)", borderRadius: "2rem", background: "var(--fg-transparent)", padding: "2rem" }}>
-                <Company entry={state} />
+    return <Stack style={{ maxWidth: !gotSources && "50rem", margin: "0 auto" }}>
+        <h1> Company Editor </h1>
+        <p> To submit a company record, please fill out the form
+            below and copy-paste the company data into a <a
+                href="https://github.com/boikot-xyz/boikot/issues"
+                target="_blank" rel="noreferrer">
+                new Issue on our github repo
+            </a> or email it to <a
+                href="mailto:submissions@boikot.xyz">
+                submissions@boikot.xyz </a>.
+            We will then add it to our database 🤝 please cite
+            your sources!
+        </p>
+        <div style={{ width: "100%", gap: "2rem", display: "flex" }}>
+            <div style={{ display: "flex", flexDirection: "column", flex: 1 }}>
+                <Stack onKeyDown={ifCtrlC( () => copy(tojson(state)) )} style={{ height: "min-content", alignSelf: "center" }}>
+                    { actionButtons }
+                    <Entry $valid={state.names.length > 0}>
+                        names & stock ticker
+                        <DeleteableBadgeList
+                            items={state.names}
+                            update={names => setState( oldState => ({ ...oldState, names }) )}
+                            deleteAtIndex={removeFromStateList("names")} />
+                        <input
+                            placeholder="Type names and press enter after each"
+                            onKeyDown={ifEnter(addToStateList("names"))}
+                            onKeyUp={ifEnter(e => e.target.value = "")} />
+                    </Entry>
+                    <SearchLinks state={state} />
+                    <Entry $valid={state.tags.length > 0}>
+                        tags
+                        <DeleteableBadgeList
+                            items={state.tags}
+                            update={tags => setState( oldState => ({ ...oldState, tags }) )}
+                            deleteAtIndex={removeFromStateList("tags")} />
+                        <input
+                            placeholder="Type tags that describe this company and press enter after each"
+                            onKeyDown={ifEnter(addToStateList("tags"))}
+                            onKeyUp={ifEnter(e => e.target.value = "")} />
+                    </Entry>
+                    <Entry $valid={state.ownedBy.length > 0}>
+                        owned by
+                        <DeleteableBadgeList
+                            items={state.ownedBy}
+                            deleteAtIndex={removeFromStateList("ownedBy")} />
+                        <input
+                            placeholder="codes of the companies that own this one"
+                            onKeyDown={ifEnter(addToStateList("ownedBy"))}
+                            onKeyUp={ifEnter(e => e.target.value = "")} />
+                    </Entry>
+                    <Entry $valid={!!state.siteUrl}>
+                        site URL
+                        <input
+                            value={state.siteUrl}
+                            placeholder="link to the company's website"
+                            onChange={setStateField("siteUrl")} />
+                    </Entry>
+                    <Entry $valid={!!state.logoUrl}>
+                        logo URL
+                        <input
+                            value={state.logoUrl}
+                            placeholder="URL of the company's logo"
+                            onChange={setStateField("logoUrl")} />
+                    </Entry>
+                    { showSources && <>
+                        <h3> sources </h3>
+                        { Object.keys(state.sources).map(key =>
+                            <SourceRow
+                                key={key} sourceKey={key} state={state}
+                                setSource={setSource} setSourceNote={setSourceNote} setDragging={setDragging}
+                                reorderSources={reorderSources} onChange={(key == Object.keys(state.sources).length) ? addSource : null} />
+                        )}
+                    </>}
+                    <FlexRow style={{ justifyContent: "right" }}>
+                        { showSources && <PillButton
+                            $outline
+                            onClick={() => copy(
+                                generatePrompt(state)
+                            )}>
+                            copy summarise prompt  📋
+                        </PillButton> }
+                        <PillButton $outline onClick={() => addSource()}>
+                            add source  🔗
+                        </PillButton>
+                        { showSources &&
+                            <PillButton
+                                $outline
+                                style={{ justifySelf: "right" }}
+                                disabled={!state.comment}
+                                onClick={sortSources(setState)}>
+                                sort sources  🃏
+                            </PillButton> }
+                    </FlexRow>
+                    <Entry $valid={!!state.comment}>
+                        comment
+                        <textarea
+                            style={{ height: "15rem" }}
+                            placeholder="Enter a short summary of this company's most and least ethical actions. References can be placed by numbers in square brackets eg. [1], [2]"
+                            value={state.comment}
+                            ref={textareaRef}
+                            onChange={setComment}
+                            onPaste={handlePaste(setState)} />
+                    </Entry>
+                    <Entry $valid={parseFloat(state.score) <= 100}>
+                        ethical score
+                        <input
+                            value={state.score}
+                            placeholder="Enter a score from 0 to 100"
+                            onChange={setStateField("score")} />
+                    </Entry>
+                    <Entry>
+                        output company data
+                        <CodeBlock style={{ maxHeight: "10rem", overflowY: "scroll" }}>
+                            {tojson(state)}
+                        </CodeBlock>
+                    </Entry>
+                    { actionButtons }
+                    { !!state?.names?.length && <>
+                        <h2> Preview: </h2>
+                        <div style={{ border: "0.05rem solid var(--fg)", borderRadius: "2rem", background: "var(--fg-transparent)", padding: "2rem" }}>
+                            <Company entry={state} />
+                        </div>
+                    </> }
+                    { toastMessage && <Toast> { toastMessage } </Toast> }
+                </Stack>
             </div>
-        </> }
-        { toastMessage && <Toast> { toastMessage } </Toast> }
-    </Stack>;
+
+
+            { gotSources && 
+                <>
+                    <div style={{ width: "1px", background: "#fff5" }} />
+                    <div style={{ display: "flex", flexDirection: "column", flex: 1 }}>
+                        <Stack gap="2rem" style={{ overflow: "scroll", flexBasis: 0, flexGrow: 1 }}>
+                            { flattenGotSources(gotSources).map((gotSource, i) =>
+                                <GotSource key={gotSource.url} gotSource={gotSource}
+                                    sourceSelected={Object.values(state.sources).includes(gotSource.url)}
+                                    addSource={addSource} removeSource={removeSource} getSourceSummary={getSourceSummary} />
+                            ) }
+                        </Stack>
+                    </div>
+                </>
+            }
+        </div>
+    </Stack>
 }
 
 export function CompanyEditor() {
-    return <Page>
+    return <Page style={{ maxWidth: 'unset' }}>
         <Helmet>
             <title> Company Editor | boikot </title>
             <meta name="description" content="boikot is a community-led initiative to collect and make available data on the unethical actions of big companies. On this page you can edit the details of a company to submit it to our database." />
         </Helmet>
-        <Stack>
-            <h1> Company Editor </h1>
-            <p> To submit a company record, please fill out the form
-                below and copy-paste the company data into a <a
-                    href="https://github.com/boikot-xyz/boikot/issues"
-                    target="_blank" rel="noreferrer">
-                    new Issue on our github repo
-                </a> or email it to <a
-                    href="mailto:submissions@boikot.xyz">
-                    submissions@boikot.xyz </a>.
-                We will then add it to our database 🤝 please cite
-                your sources!
-            </p>
-            <Jsoner />
-        </Stack>
+        <Jsoner />
     </Page>;
 }
 

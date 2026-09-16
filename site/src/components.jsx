@@ -320,7 +320,7 @@ export function DeleteableBadgeList({ items, update, deleteAtIndex = () => {} })
     </FlexRow>;
 }
 
-export function Page({ children }) {
+export function Page({ children, style }) {
     React.useEffect(
         () => { window.scrollTo(0, 0); }, []
     );
@@ -332,6 +332,7 @@ export function Page({ children }) {
             minHeight: "100vh",
             gridTemplateRows: "min-content 1fr min-content",
             gridTemplateColumns: "100%",
+            ...style,
         }}>
             <Header />
             <div> { children } </div>

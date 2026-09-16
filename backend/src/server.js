@@ -4,6 +4,8 @@ import { askLocalGPTOSS } from "./llm.js";
 import { addRecord } from "./addRecord.js";
 import { scrapeBrands } from "./brands.js";
 import { getSources } from "./sources.js";
+import { getPageText } from "./scrape.js";
+import { getSummarise1LinePrompt } from "./prompts.js";
 import boikot from "../../boikot.json" with { type: "json" };
 
 
@@ -99,6 +101,17 @@ async function getNamesData(req, res, body) {
 }
 
 
+async function getSourceSummary(req, res, state) {
+    const url = state.sourceUrl;
+    const companyName = state.names[0];
+    console.log(`Generating comment for ${url}`);
+    const pageText = await getPageText( url );
+    const summary = await askLocalGPTOSS( getSummarise1LinePrompt(companyName, pageText) );
+    console.log(`Returning summary: ${summary}`);
+    res.end(JSON.stringify({ summary }));
+}
+
+
 async function respondGet(req, res, body) {
     if( req.url == "/check" ) {
         res.end(`{"result": true}`);
@@ -147,6 +160,10 @@ async function respondPost(req, res, body) {
 
     if( req.url.includes("/getNames") ) {
         return await getNamesData(req, res, state);
+    }
+
+    if( req.url.includes("/getSourceSummary") ) {
+        return await getSourceSummary(req, res, state);
     }
 
     res.statusCode = 400;

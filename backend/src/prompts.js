@@ -30,6 +30,22 @@ Please respond with the article summary and no other text.
 - Ignore other text from the webpage which is not part of the main article, like links or other headlines.
 `;
 
+export const getSummarise1LinePrompt = (companyName, articleText) => `
+*** The following text is taken from an article published online. We need to summarise the article as part of our research into the ethics of ${companyName} and its subsidiaries. Please summarise the article into a single phrase explaining what the company did:
+
+${articleText.slice(0, 10000)}
+
+*** Here are some example summary phrases - you should generate a phrase like this:
+
+animal abuse in supply chain
+sold cheese contaminated with listeria
+committed environmental violations
+racial discrimination against employees
+failed to pay minimum wage
+
+*** Please respond with the article summary phrase and no other text:
+`;
+
 export const getCombinePrompt = (companyName, companyInfo ) => `
 You are an investigative journalist looking into the ethical track record of ${companyName}. You have collected some information about the company and now your task is to compile the information into a two-sentence company ethics report that can be published online.
 

@@ -2,6 +2,7 @@ import { fetch } from 'fetch-h2';
 
 import { JSDOM } from "jsdom";
 import he from "he";
+import { Camoufox } from 'camoufox-js';
 
 
 const fetchOptions = {
@@ -31,3 +32,20 @@ export async function getTitle(url) {
     return he.decode(title[1].replace("\n", " ").trim());
 }
 
+export async function getPageText(url) {
+    
+    const script = `
+        (document.querySelector("main") ?? document.body).innerText;
+    `;
+    
+    const browser = await Camoufox({ headless: true });
+    const page = await browser.newPage();
+
+    const prefix = url.startsWith("//") ? "https:" : "";
+    await page.goto(prefix + url);
+    await new Promise(r => setTimeout(r, 5000));
+    const result = await page.evaluate(script);
+    await browser.close();
+
+    return result;
+}

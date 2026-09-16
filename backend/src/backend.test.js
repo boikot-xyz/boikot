@@ -7,14 +7,16 @@ import { getRecord } from "./getRecord.js";
 import { searchEcosia } from "./search.js";
 import { addRecord, removeRecord } from "./addRecord.js";
 import { askLlama4, askQwen, askGemma, askGPTOSS, askLocalGPTOSS, askLocal, embed } from "./llm.js";
-import { getInvestigationPrompt, getSummarisePrompt, getCombinePrompt } from "./prompts.js";
-import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, appleArticleText, kelloggsArticleText, wagamamaArticleText, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo, nintendoInfo, burberryInfo, hugePrompt } from "./testData.js";
+import { getInvestigationPrompt, getSummarisePrompt, getCombinePrompt, getSummarise1LinePrompt } from "./prompts.js";
+import { metaSearchResults, hondaSearchResults, dysonSearchResults, amazonSearchResults, gildanSearchResults, morrisonsSearchResults, appleArticleText, kelloggsArticleText, wagamamaArticleText, barclaysInfo, pepsicoInfo, ikeaInfo, greggsInfo, nintendoInfo, burberryInfo, hugePrompt, natwestArticle, mrKiplingArticle, bicArticle, schwarzGroupArticle, generalMillsArticle } from "./testData.js";
 import { dist, length, cosineSimilarity } from "./math.js";
 import { closestEmbedding, mostAlignedEmbedding } from "./filter.js";
 import { sortSources } from "./sortSources.js";
 import { getTitle } from "./scrape.js";
 import { rustscrape } from "../rustscrape/rustscrape.js";
 import boikot from "../../boikot.json" with { type: "json" };
+
+const lc = s => s.toLowerCase();
 
 const targetWikipediaPages = [
   ["apple", "https://en.wikipedia.org/wiki/Apple_Inc."],
@@ -463,12 +465,17 @@ const targetNames = [
 ];
 
 const targetLineSummaries = [
-
+    ["NatWest", natwestArticle, [/invest|finance/, /nuclear/]],
+    ["Mr Kipling", mrKiplingArticle, [/free-range|cage-free|barn|welfare|mislead/, /egg/]],
+    ["Bic", bicArticle, [/greenwashing/]],
+    ["Schwarz Group", schwarzGroupArticle, [/sex|gender/, /discrimination|victimisation|harassment/]],
+    ["General Mills", generalMillsArticle, [/palm oil/, /illegal|deforest|destr/]],
 ];
 
+const askLocalGPTOSS = x => askLocal(x, {model: "gpt-oss:latest"});
 const askLocalGemma4 = x => askLocal(x, {});
 const askLocalQwen38 = x => askLocal(x, {model: "qwen3.8:27b-mlx"});
-const llmFunc = askLocalQwen38;
+const llmFunc = askLocalGPTOSS;
 
 describe( "llm", () => {
   it("responds as asked", async () => {
@@ -550,7 +557,6 @@ describe( "llm", () => {
     it(`gets the correct names for ${companyName}`, async () => {
       const result = await getNames(companyName);
       console.log(result);
-      const lc = s => s.toLowerCase();
 
       for(const expectedName of minExpectedNames) expect(result.map(lc)).toContain(lc(expectedName));
       for(const name of result.map(lc)) expect(maxExpectedNames.map(lc)).toContain(lc(name));
@@ -565,9 +571,13 @@ describe( "llm", () => {
     JSON.parse(response.match(/{.+}/s)[0]);
   });
 
-  targetLineSummaries.forEach(([companyName, article, expectedStrings]) =>
-    it("can summarise an article into a single line", async () => {
-      
+  targetLineSummaries.forEach(([companyName, article, expectedPatterns]) =>
+    it(`can summarise an article into a single line for ${companyName}`, async () => {
+      const prompt = getSummarise1LinePrompt(companyName, article);
+      const result = await llmFunc(prompt);
+      console.log(result);
+      for(const pattern of expectedPatterns) expect(lc(result)).toMatch(pattern);
+      expect(result.length).toBeLessThan(140);
     })
   );
 

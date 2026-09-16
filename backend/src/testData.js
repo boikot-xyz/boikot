@@ -3242,3 +3242,653 @@ References
 
 Which of the two companies is more ethical?
 `;
+
+
+export const natwestArticle = `
+
+
+    Newsletters Puzzles Reader Rewards Shop Contact us
+
+The National
+Subscribe
+
+    Digital Edition
+    Puzzles
+
+News
+Politics
+Culture
+Sport
+Community
+Business
+Comment
+Journalists
+Seven Days
+Shop
+Newspaper Archive
+News
+Scottish Independence
+World News
+Europe
+Fact Check
+Economy
+Transport
+Military
+REVEALED: The billions invested by big business in nuclear arms
+25th April 2021
+By Billy Briggs
+The Ferret
+
+Share
+comment icon 0 comments
+Don’t Bank On The Bomb Scotland is campaigning for banks, universities, pension funds and public bodies to divest from companies involved in the production of nuclear weapons
+Don’t Bank On The Bomb Scotland is campaigning for banks, universities, pension funds and public bodies to divest from companies involved in the production of nuclear weapons
+
+The National: -The Ferret logo
+
+THREE major Scottish financial institutions – NatWest Group, Lloyds Banking Group and Standard Life Aberdeen – invested a total of £7 billion in nuclear weapons over a two-year period.
+
+A new report, seen by The Ferret, also reveals two Scots universities held £2.4 million of investments in companies that undertake work related to nuclear weapons, while 11 council pension funds together had £275m invested in 20 firms in the sector.
+
+The study is by Don’t Bank On The Bomb Scotland, a network of organisations campaigning for banks, universities, pension funds and public bodies to divest from companies involved in the production of nuclear weapons. It says these organisations together held investments worth £7.2bn in nuclear weapons producers between 2018 and 2020.
+
+Don’t Bank On The Bomb Scotland is calling for divestment. It argues that organisations investing in nuclear weapon producers are “supporting activities that contravene commitments made under the Nuclear Non-Proliferation Treaty”.
+
+In reply, investors say they have robust environmental, social and ethical policies in place and some fund managers claim engagement is more effective than divestment at changing company behaviour.
+
+Medact Scotland, Scottish CND, Pax Christi Scotland and the Edinburgh Peace and Justice Centre are all members of Don’t Bank On The Bomb Scotland.
+
+The umbrella group says there is a heightened global nuclear risk at the moment. It points to tensions between the US, Israel and Iran over the latter’s nuclear programme, and deadly clashes between nuclear-armed nations India and China in the western Himalayas.
+
+READ MORE: Independent Scotland could be trailblazer for nuclear disarmament, Greens say
+
+In the UK, nuclear weapons are once again a major political issue following the UK Government’s recent announcement it would increase the number of nuclear warheads in its stockpile by up to 44%, a move described by Don’t Bank On The Bomb Scotland as “shocking”.
+
+Its report says that nuclear-armed nations are spending “vast sums of money” maintaining and upgrading their nuclear arsenals, with many companies profiting from these modernisation programmes.
+
+The group argues these programmes are at odds with international treaties. It claims organisations investing in nuclear weapons producers are “supporting activities that contravene commitments” made under the 1968 Nuclear Non-Proliferation Treaty (NPT).
+
+International law on nuclear weapons was strengthened in January 2021 by the UN Treaty on the Prohibition of Nuclear Weapons (TPNW), the study says. The treaty prohibits the development, production, testing, possession, transfer, use and threat of use of nuclear weapons.
+
+Don’t Bank On The Bomb Scotland’s report says the treaty is important to note for investors because financial assistance may be viewed as unlawful under international law.
+
+The roles of three major financial groups based in Edinburgh are highlighted by the report. It says Natwest Group, formerly RBS, held investments worth £2bn in 15 companies between January 2018 and January 2020. These investments were made primarily in the form of loans and through the underwriting of bond issuances, while shareholdings make up a small proportion of the total.
+
+Natwest has a policy which “only partially restricts investment in nuclear weapons producers”, the report claims. Meetings were held with the bank in 2020 and March 2021 and Don’t Bank On The Bomb Scotland said it sent an open letter to it, drawing attention to the “catastrophic humanitarian and environmental consequences of nuclear weapons” and the recent entry into force of the TPNW.
+
+READ MORE: Alba Party MSPs will fight to get Trident out of Scotland, Alex Salmond says
+
+The letter called on the bank to exclude nuclear weapons from investment and was co-signed by more than 40 civil society organisations, including trade unions, faith organisations and environmental NGOs.
+
+In reply, a NatWest Group spokesperson told The Ferret: “We have robust policies and processes relating to the defence sector through our environmental, social and ethical risk management framework.
+
+“Our policies reflect adherence to national and international laws and regulations, wherever they apply. We have also incorporated a number of voluntary standards such as the Equator Principles and the UN Global Compact.”
+
+Lloyds Banking Group, which is registered in Edinburgh, is also named. It invested £3.4bn in 10 nuclear weapons producers between January 2018 and January 2020, the report says. These investments were made primarily in the form of loans and through the underwriting of bond issuances.
+
+THE report says: “Lloyds Banking Group’s defence sector policy states that the group will not support businesses involved in the manufacture, sale, trade, servicing or stockpiling of nuclear weapons other than when these activities are undertaken in connection with the national nuclear weapons programmes of the UK, US or France. Companies that may be involved in the manufacture, trading, storage or servicing of nuclear weapons for the UK, US or France are subject to ‘robust due diligence’. This policy applies to Lloyds’ subsidiaries, including Bank of Scotland.”
+
+But Don’t Bank On The Bomb Scotland argues this policy is “not comprehensive” because nuclear weapons producers are not excluded unless they are involved in the nuclear weapons programme of a non-Nato state.
+
+A spokesperson for Lloyds Banking Group said: “We do not comment on client relationships, viewing them as confidential.”
+
+READ MORE: The last thing we need on the Clyde is more nuclear weapons
+
+A statement on the Lloyds Banking Group website says: “We aim to offer customers sustainable investment choices and challenge companies we invest in to behave more sustainably and responsibly.”
+
+Standard Life Aberdeen, headquartered in Edinburgh, is also cited. The report says the company offers customers some socially responsible investment funds that exclude nuclear weapons producers but adds that most of its funds do not.
+
+“The company owned or managed shares worth over £1.5bn in 20 of the world’s top 28 nuclear weapons producers between January 2018 and January 2020. Standard Life Aberdeen should stop investing in weapons of mass destruction,” the report says.
+
+Standard Life Aberdeen did not reply to our request for a comment. A statement on its website says: “We have been integrating environmental, social and governance considerations into our investment process since the 1990s. Investing responsibly is not only the right thing to do, it also helps us to identify opportunities and manage risks.
+
+“ESG investment is about active engagement, with the goal of improving the performance of assets we manage around the globe. We want to make a difference – for our clients and customers, society and the planet.”
+
+Both Glasgow University and Strathclyde University also invest in the nuclear weapons industry. The former held shares worth £1.9m in 16 companies as of September 30, 2020. Strathclyde University owned shares worth £473,633 in two companies – BAE Systems and Thales.
+
+Don’t Bank On The Bomb Scotland calls for “student activism” to “persuade” these universities to change their investment strategies. It claimed the University of Edinburgh changed its policy on arms investments in 2016 in response to a five-year “responsible investment campaign”, led by students.
+
+The report adds that at least six Scots universities have policies that either explicitly or implicitly restrict investment in nuclear weapons producers. “It is clear that the University of Glasgow and the University of Strathclyde are outliers when it comes to nuclear weapons investments in the Scottish higher education sector,” the study says.
+
+In reply, a spokesperson for Glasgow University said: “The university has taken the decision not to invest in tobacco companies and to actively disinvest in those dealing in fossil fuel.
+
+“The university decided against currently disinvesting in companies in the defence sector (including major local employers such as Thales and BAE Systems) but has lobbied governments and businesses against licences being granted to companies to export arms equipment to countries which are classed by the UK Government as having committed, or are at risk of committing, human rights abuses.”
+
+READ MORE: Greens in pledge to ban Trident before Scottish independence
+
+Strathclyde University did not reply to our requests for a comment.
+
+ON council pension funds, the study found that 11 funds collectively held shares worth more than £275m in 20 companies that undertake work related to nuclear weapons as at September 30, 2020.
+
+Lothian Pension Fund was the largest investor in nuclear weapons, holding shares worth nearly £126m in five nuclear weapons producers. This includes £102m invested in the world’s largest arms company, Lockheed Martin. Strathclyde Pension Fund came second, holding shares worth £120m in 16 companies.
+
+Don’t Bank On The Bomb Scotland said: “Most Scottish local authority pension funds are reluctant to exclude harmful industries from investment. However, a growing number of Scottish councils are taking a stand against nuclear weapons investments by passing a resolution that calls on their pension fund to divest from nuclear weapons producers.
+
+“One fund, Scottish Borders, already has a policy that restricts investment in controversial weapons, including nuclear weapons.”
+
+Council funds say they address environmental, social and governance issues through “engagement” with the companies they invest in. Some funds also point out they are subject to a legal obligation to act in the best interests of fund members which precludes them from divesting from harmful industries.
+
+A spokesman for Strathclyde Pension Fund said: “The previous asset list will have reflected the period when the US index was held directly – and the second the fund’s preferred position to hold indexes in pooled funds.”
+
+The Ferret is an editorially independent, not-for-profit co-operative run by its journalists and subscribers. You can find it at https://theferret.scot/ and can subscribe for £3 a month here: https://theferret.scot/subscribe/
+Military
+
+Share
+comment icon 0 comments
+Get involved
+with the news
+Send your news & photos
+
+    Most read
+    Commented
+
+    Live updates as devolved leaders unite to sign historic independence declaration
+    Man dies and woman in hospital following 3-vehicle crash in Scottish Borders
+    Street outside Rangers pub cordoned off and road closed amid incident
+    SNP, Sinn Fein and Plaid Cymru sign self-determination declaration
+    'Golden chance' to revive Clyde shipbuilding at risk of being scuppered
+    Donald Trump addresses Scottish independence after sparking Irish reunification row
+    Beloved Fife bakery's £11 million major expansion plans approved
+    Scottish Labour leadership hopeful would not 'stand in way' of independence
+    Four arrested at Ibrox during Rangers v Celtic match amid 'sectarian abuse'
+    Major new project aims to win over undecided voters to Scottish independence
+
+Show more articles
+Get in Touch
+Contact Us
+Send Us Your News
+Follow Us
+Facebook
+Follow us on X.com
+Instagram
+Useful Links
+Subscriptions
+Newsletters
+Reader Rewards
+Exchange and Mart
+Archive | Sitemap
+Manage Consent
+AI Notice
+IPSO Regulated image
+
+This website and associated newspapers adhere to the Independent Press Standards Organisation's Editors' Code of Practice. If you have a complaint about the editorial content which relates to inaccuracy or intrusion, then please contact the editor here. If you are dissatisfied with the response provided you can contact IPSO here
+Newsquest
+
+© 2001-2026. The National is owned and operated by Newsquest Media Group Ltd, an audited local newspaper network.
+
+Visit newsquest.co.uk to view our policies, terms and legal agreements.
+
+The Echo Building, 18 Albert Road, Bournemouth, England BH1 1BZ. Registered in England & Wales | 01676637
+Modal headline
+Close
+Automatically injected HTML goes here
+Submit
+Cancel
+`;
+
+export const mrKiplingArticle = `
+
+Wayback Machine
+1 capture
+2 Sep 2025
+Aug 	SEP 	Oct
+	02
+2024 	2025 	2026
+About this capture
+Accessibility Links
+Skip to content
+Search
+
+UK
+World
+Comment
+Life & Style
+Business & Money
+Sport
+Culture
+Travel
+Puzzles
+Magazines
+More
+Mr Kipling not such a good egg after all
+Ben Webster
+Saturday January 23 2016, 12.00am, The Times
+A Mr Kipling advert containing the pledge to use only free range eggs
+A&#160;Mr Kipling advert containing the pledge to use only free range eggs
+
+When Mr Kipling decided to use cheaper eggs in his cakes, a previous promise he had made to be kind to hens became exceedingly inconvenient.
+
+So a decision was made to rewrite history and delete the pledge to use only free-range eggs. A statement from Mr Kipling’s brand manager was altered to remove a reference to the promise.
+
+The British Hen Welfare Trust has accused Premier Foods, owner of Mr Kipling, of not only betraying its commitment but trying to hide from shoppers that it had switched to “barn eggs” from hens that live entirely indoors.
+
+The trust is asking its members, who give homes to hens rescued from intensive laying systems, to send a feather from their bird to the Premier Foods headquarters with a letter protesting about its U-turn on welfare.
+
+In 2011 Mr Kipling ran an advertising campaign promoting its ethical switch to free-range eggs laid by hens with access to the outdoors. An actress playing Mrs Kipling appeared in a commercial with hens strutting along the roof of a farmhouse. The character says: “Mr Kipling is only using free-range eggs in all his cakes now, bless him.”
+Advertisement
+
+The charity Compassion in World Farming (CIWF) gave Mr Kipling a “good egg award” in recognition of its commitment, prompting Premier Foods to issue a self-congratulatory statement. Annette Pledger, the Mr Kipling brand manager, said: “He really is a good egg and that’s why in 2011 he made the switch to baking with only free-range eggs. He uses more than 60 million eggs every single year – that’s a lot of happy hens.”
+
+That quote appeared on CIWF’s website until last year, when it was secretly amended, with the reference to “free-range” replaced with “cage-free”.
+
+Premier Foods removed references on Mr Kipling packaging to using free-range eggs but did not state that it was using barn eggs.
+
+Jane Howorth, founder of the trust, which is rehoming its 500,000th hen today, said Premier Foods had benefited from positive publicity about using free range eggs but had tried to keep quiet about its switch to barn eggs.
+
+A Premier Foods spokesman said: “Premier Foods made the decision to transition from free-range to barn eggs early in 2015 so that we could continue providing good value for money.”
+Advertisement
+
+There was no requirement to state on packaging the type of egg used and the company placed information on its website about those eggs six months later. The spokesman would neither confirm nor deny that Premier Foods had been involved in the decision to amend its quote on the CIWF website.
+
+However, a CIWF spokeswoman said: “We did change the quote to avoid confusion and to ensure the website is correct. The quote was changed in agreement with Mr Kipling.”
+PROMOTED CONTENT
+Back to top
+The Times & The Sunday Times
+Get in touch
+
+    About us
+    Contact us
+    Help
+    The Times Editorial Complaints
+    The Sunday Times Editorial Complaints
+    Place an announcement
+    Classified advertising
+    Display advertising
+    The Times corrections
+    The Sunday Times corrections
+    Careers
+
+More from The Times and The Sunday Times
+
+    The Times e-paper
+    The Sunday Times e-paper
+    The Sunday Times Wine Club
+    Times Print Gallery
+    The Times Archive
+    Times Crossword Club
+    Sunday Times Driving
+    Times+
+    The Sunday Times Rich List
+    Travel
+    Good University Guide
+    Schools Guide
+    Newsletters
+    Best Places to Live
+    Best Places to Stay
+    Times Appointments
+    Podcasts
+    Times Money Mentor
+    Times Luxury
+    Sportswomen of the Year Awards
+    Best Places to Work
+    Puzzles
+    TV guide
+    Times Radio
+    The Sunday Times 100
+    Times Bookshop
+
+More from News Corp
+
+    The Australian
+    Barron's
+    Dow Jones
+    Financial News London
+    Investor's Business Daily
+    Mansion Global
+    MarketWatch
+    Realtor.com
+    The Sun
+    Times Literary Supplement
+    The Wall Street Journal
+
+© Times Media Limited 2025.
+
+Registered in England No. 894646. Registered office: 1 London Bridge Street, SE1 9GF.
+
+    Privacy & cookie policy
+    Generative AI editorial guidelines
+    Licensing
+    Site map
+    Topics
+    Puzzles Archive
+    Authors
+    Commissioning terms
+    Terms and conditions
+
+ipso regulated
+
+`;
+
+export const bicArticle = `
+
+How to save the planet with green graphic design and sustainable marketing
+Monday, June 14, 2010
+Greenwashing - BIC wins our Unethical Marketing Award of the Month
+
+
+Who hasn't heard of BIC ? The company that brought us the disposable pens and razors.... you know, the clear ones with with blue lid that have long been a staple in our North American homes... That's right, we all know who they are. Unfortunately, their brand is so established that even with very irresponsible claims on their packaging, we aren't all aware of what they are doing.
+
+With consumers deciding to purchase environmentally friendly products in unprecedented numbers, companies that simply don't measure up to consumer demands for smarter solutions are simply not earning consumer loyalty (translation: consumer dollars.) While more consumers are looking for environmentally responsible products, like refillable pens, many companies are feeling the pressure to make definite changes in the way that they do business.
+
+Some companies rise to the occasion, while others (ahem - like BIC) decide to take the low-road and create elaborate marketing campaigns that look very "caring and green" without significantly changing the way that they do business. Instead of offering real solutions to non-biodegradable disposable razors and pens, and producing products that really walk the walk, they instead decided to fake the talk with fancy green packaging. Their claims that are, at best, deceptive.
+
+"Made with 62% Pre-Consumer Recycled Plastic."
+
+
+
+
+Any time you see pre-consumer waste claims on any packaging, your guard should go up. Using pre-consumer plastic is not really recycling at all. Scrap raw materials (left over cuts from other industrial processes) have always been used to make other things... this is frugal use of costly materials, not recycling in the traditional sense of the word. Pre-consumer recyclables have never been used in any product. They have never been purchased, and never discarded.  Instead of pre-consumer look for post-consumer.  Post consumer waste is, as it sounds, used after its first round of use. Post-consumer makes use of USED materials; materials that have been placed in the blue-box and picked up for recycling.
+
+While I love the idea of eco-friendly pens, BIC has totally missed the mark with their ecolutions stationary line. Something with 100% recycled materials would work for me- something with refillable ink barrels and a perhaps a new type of ink that has no petroleum by-products. Something to that tune would warrant a "eco-solution" label like eco-lutions.
+
+Their current campaign reeks of greenwashing (a type of unethical advertising campaign that attempts to convince consumers that the company is green and good, when they are not.)
+
+For all of the above, BIC wins my greenwashing wah-wah award of the month - their "ecolutions" line wins an honourable mention for it's well designed and creatively worded eco-logo, and their package claims would entice any earth-conscious consumer to pick it up to purchase it, until reading the fine print and thinking critically about what they are really offering.
+Posted by Chris Donnelly at 11:32 PM
+Labels: Green Office, greenwashing
+No comments:
+
+Post a Comment
+
+Newer Post Older Post Home
+Subscribe to: Post Comments (Atom)
+
+
+
+
+Greener Design Topics
+
+    Design for Change (1)
+    Eco Art (8)
+    Eco Decor (11)
+    ethicalwashing (1)
+    forest sustainability (3)
+    genuine advertising (3)
+    Green Design (10)
+    Green Initiatives (11)
+    Green Office (8)
+    Green Resources (1)
+    greenwashing (2)
+    Mother Nature (3)
+    packaging (2)
+    paper (7)
+    printing (6)
+    Social Media (3)
+    tree free paper (4)
+    Upcycling (13)
+
+follow me on Twitter
+Article Archive
+
+    ▼  2010 (40)
+        ►  May (7)
+        ▼  June (18)
+            Recycled - a tricky word to figure out
+            Eco-font cuts ink down by up to 25%
+            Printing Local vs. Printing Sustainable
+            What is a V.O.C. ? (Volatile Organic Compounds and...
+            Puma's Clever Bag Packaging Makes me Swoon. (Eco-Awe)
+            Eco-Conscious Design that counts trees
+            Recycled Wall Planters Breathe Green and Seethe Style
+            Greenwashing - BIC wins our Unethical Marketing Aw...
+            Upcycled Repurposed Clothes hangers
+            DIY Upcycled Pendant Lampshade (One more reason to...
+            Top Six Reasons to Print with Soy Based Ink
+            Eco Audit your Paper project with Mohawk Papers Fr...
+            How to Offset Carbon
+            Green Printers
+            Um Purses made with recycled organic felt to carry...
+            Turning garbage into landscapes - CD art by Bruce ...
+            Vista Print responds to 100% recycled option reque...
+            I love when designers use their talents to speak t...
+        ►  July (3)
+        ►  August (2)
+        ►  September (8)
+        ►  October (2)
+
+    ►  2011 (18)
+
+    ►  2012 (7)
+
+    ►  2013 (1)
+
+Search This Blog
+
+A List of 50 things to work towards
+My photo
+
+Chris Donnelly
+    Creative Director
+
+View my complete profile
+
+This site uses cookies from Google to deliver its services and to analyse traffic. Your IP address and user agent are shared with Google, together with performance and security metrics, to ensure quality of service, generate usage statistics and to detect and address abuse.Learn moreGot it
+`;
+
+export const schwarzGroupArticle = `
+
+Call us now on:
+020 3397 3603
+Request a callback
+
+    About Us
+    Services
+    Guides
+    Calculator
+    Insights
+    Charges
+    Contact
+
+Call us now on:
+020 3397 3603
+Request a callback
+
+    About Us
+    Services
+    Guides
+    Calculator
+    Insights
+    Charges
+    Contact
+
+ET Awards £22,000 to Lidl Employee in a Sex Discrimination and Victimisation Case
+
+Published : January 10, 2024
+
+In Ms L Callaghan v Lidl Great Britain Ltd, a Lidl employee has been awarded over £22,000 after winning her case. The tribunal found in favour of her sex discrimination and victimisation claims, and below, we explore what happened.
+The Facts in Ms L Callaghan v Lidl Great Britain Ltd
+The Background of the Lidl Employee
+
+Ms Callaghan (“The Claimant”) began working for Lidl Great Britain Ltd (“The Respondent”) on 1 August 2017 as a supply chain administrator. The claimant worked under Mr Lee Clark, her line manager, whom Mr Jonathan Carter, the regional head of supply chain, managed.
+
+Whilst working in this department, Ms Callaghan had a good relationship with Mr Clark and informed him about her knee disability. She told him when it affected her ability to work, and he subsequently helped whenever she required assistance. However, this didn’t impact his opinion of the Lidl employee, thinking highly of her abilities.
+Ms Callaghan Raises a Grievance
+
+On 29 November 2018, Ms Callaghan provided Graham Clark, the Regional Director, with a written grievance. It outlined her complaints about Mr Carter’s actions on several accounts. She told the tribunal she was concerned about complaining, fearing for her career, but continued with Mr Clark’s support.
+
+The claimant explained how she’d been unfairly treated and subject to behaviour, including shouting, unwanted physical contact and intimidation. She then laid out each particular instance in detail and date order.
+The Lidl Employee Outlines Her Complaints
+
+Firstly, the Lidl employee discussed an incident during a team trip to Centre Parcs, organised by Mr Carter. He’d arranged for his team to go between 8 and 11 June 2018, but the claimant left early on 9 June.
+
+Ms Callaghan explained how, during a conversation on the trip, Mr Carter held onto her face with both hands. Despite feeling uncomfortable and asking him to let go, she had to ask a further two times before he did. She also stated that he pressed her about not swimming, telling her it was “ridiculous” to feel uncomfortable.
+
+Then, she discussed an issue arising from an office ‘rule’ where individuals paid 10p to charity if caught wearing coats at their desks. She stated that Mr Carter called her “sneaky” after catching her doing just that. However, Ms Callaghan explained that Mr Carter knew she didn’t like others having access to her belongings, adding that she didn’t want the humiliation of retrieving her sanitary products with colleagues questioning where she was going.
+
+Moving on, the claimant talked about an internal job application she’d made. The Lidl employee outlined how Mr Carter expressed unhappiness with her applying against his suggestion. Furthermore, she alleged he said she was unsuccessful because she lacked experience and he couldn’t “envisage working with her as a manager”.
+
+Finally, the claimant addressed general issues she had with Mr Carter. Ms Callaghan detailed how, on one occasion, he called a pregnant employee fat. She also discussed how he didn’t believe she had a knee disability and had to provide medical evidence. She suggested that Mr Carter should apologise and receive training to ensure his conduct isn’t repeated.
+A Grievance Investigation Takes Place
+
+Following receipt of the letter, the respondent appointed individuals to conduct a grievance investigation despite their lack of equality and diversity training. Those appointed then arranged for interviews with all available on 4 and 5 December 2018. The interviews took place 500 metres from the claimant’s desk, in the administration block.
+
+During Ms Callaghan’s interview, she reiterated the points she made in her grievance letter. When Mr Carter was interviewed, he said the Lidl employee was a good worker but “did not fit into the department”. This sentiment was also held by some other colleagues interviewed.
+
+Concerning the incident at Centre Parcs, Mr Carter denied the allegations, insisting that only a group hug occurred. Moreover, he stated the “sneaky’ comment regarding the coat was only “a bit of a joke and to raise money”. Then, despite denying calling a pregnant colleague fat, he admitted to making a joke about her weight but added that he apologised after she took offence.
+
+Before deliberating on the outcome of Ms Callaghan’s grievance, those in charge of the investigation considered her job application allegation. They concluded that they felt the appropriate person was offered the role, meaning no further action was required.
+The Grievance isn’t Upheld
+
+Ms Callaghan was informed about the outcome of her grievance on 14 December. She learned that her Centre Parcs complaint wasn’t upheld since “no other person witnessed the incident”. She also found that her coat complaint was unsuccessful because “the rule regarding the storage of coats was acceptable”. This was despite the respondent understanding that the comments made “could have been taken in the wrong way”.
+
+Following this, the respondent explained that the matter regarding the pregnant employee had been resolved since Mr Carter had apologised. As such, no further action needed to be taken.
+
+Finally, the claimant learned that her grievance concerning Mr Carter not believing she had a knee disability was rejected. The outcome explained it was acceptable for Mr Carter to request medical evidence but didn’t address his comments about not believing her. Therefore, the only successful complaint made by the Lidl employee concerned Mr Carter shouting at her during a meeting.
+The Lidl Employee Makes a Grievance Appeal
+
+On 19 December, Ms Callaghan appealed her grievance, explaining how the Centre Parcs and coat incident had been unreasonably rejected. She also stated that Mr Carter had ignored her since the investigation.
+
+However, on 5 March 2019, the claimant learned her appeal was unsuccessful. Therefore, the outcome was the same despite an employment law specialist handling the grievance appeal investigation. As a result, Ms Callaghan resigned on 8 March, ending her employment on 24 March. Subsequently, she presented her claim to an employment tribunal on 12 July.
+The Employment Tribunal Judgement
+
+The tribunal found that neither the grievance nor appeal investigation had been conducted correctly. Both Mr Carter’s and Ms Callaghan’s recollections of the Centre Parcs incident were uncorroborated, yet Mr Carter’s was believed. The tribunal concluded that no other explanation could be given for this difference in treatment other than the individuals’ sex. As such, they held the claimant had been subjected to sex discrimination.
+
+Moreover, given that Ms Callaghan had a knee disability, the tribunal established the respondent could have held her interview closer. Rather than making her walk 500 metres, they found it could have been conducted in a meeting room, just 20 meters from her desk. Therefore, they ruled the respondent had failed to make reasonable adjustments.
+
+Finally, the tribunal stated that the grievance made by the Lidl employee was a protected characteristic. This is because her complaints primarily related to her or another colleague’s sex. Therefore, since Mr Carter ignored Ms Callaghan, which they found to be a detriment, they concluded she’d been victimised.
+
+As a result, Ms Callaghan’s claims of sex discrimination and victimisation succeeded, and she was awarded £22,006.01.
+Making a Claim with Redmans
+
+If you have experienced sex discrimination or victimisation and want to claim compensation, contact Redmans Solicitors today. We are employment law specialists who can assess your eligibility to claim compensation and advise on how to proceed. Contact us now by:
+
+    Calling us on 020 3397 3603
+    Completing our online form to request a callback
+
+The information on this page is intended for general informational purposes only and does not constitute legal advice.
+Contact Us
+
+    Call: 020 3397 3603
+    Email: enquiries@redmans.co.uk
+
+Services
+
+    Employment law advice
+    Settlement agreements
+    Employment Tribunal claims
+
+Quick Links
+
+    Calculator
+    Charges
+    Contact
+
+Our Company
+
+    About Us
+    Our People
+
+Redmans Limited is a company registered in England and Wales with registration number 05872980, VAT GB893856068, and registered office Parkshot House, 5 Kew Road, Richmond, TW9 2PR. We are a firm of solicitors authorized and regulated by the Solicitors Regulation Authority (SRA number: 468098).
+
+© 2022 Redmans Solicitors. All Rights Reserved. | Terms of Use | Privacy Policy | Acceptable Use Policy | Cookie Policy | Complaints Procedure
+
+`;
+
+export const generalMillsArticle = `
+We use cookies on our website to enable certain essential functions, to provide analytics, to store your preferences and improve your experience, and to enable us to reach you on social media platforms. By using our website you consent to the use of cookies.
+
+ Cookie Policy
+Customize
+Accept All
+
+Skip to content
+Skip to footer
+Rainforest Action Network
+
+    Issues
+    Campaigns
+    News
+    Give
+    About
+
+September 29, 2019
+The Last of the Leuser Lowlands: Field Investigation Exposes Big Brands Buying Illegal Palm Oil From the Singkil-Bengkung Peatlands
+
+GPS: N 2°50’51.0” E 97°43’14’’
+
+Rainforest Action Network (RAN) conducted a series of undercover investigations in 2019 into the alarming destruction of peat forests occurring within the globally important lowland rainforests of Sumatra’s Leuser Ecosystem. The field research was conducted to determine if the forest clearance was being driven by major snack food brands, even though these brands had adopted policies years ago to end deforestation in their supply chains. The results of the investigations are definitive. Palm oil is being grown illegally inside the nationally protected Rawa Singkil Wildlife Reserve and that oil is being used to manufacture snack foods sold across the world by Unilever, Nestlé, PepsiCo, Mondelēz, General Mills, Kellogg’s, Mars and Hershey’s.
+
+***Click here to jump down to the full report
+Forests of the Singkil-Bengkung region of the Leuser Ecosystem (Photo: Paul Hilton)
+Forests of the Singkil-Bengkung region of the Leuser Ecosystem (Photo: Paul Hilton)
+
+The Leuser Ecosystem’s Singkil-Bengkung region — which includes the Rawa Singkil Wildlife Reserve, the Singkil and Kluet peatlands, and the connecting lowland rainforests — is a global hotspot for biological diversity. It is one of the highest priority conservation landscapes in the world as it consists of ancient, deep, carbon-rich peatlands and provides critical habitat for endangered Sumatran elephants, rhinos and tigers. The area has been called the ‘orangutan capital of the world’ because it is home to the densest populations of orangutans to be found anywhere.
+Rhino, Tiger, Elephant, Orangutan
+(Photos: Paul Hilton)
+
+The brands named here have been found purchasing palm oil from mills that have continued to source palm oil resulting from the illegal clearing of lowland rainforests within the nationally protected Rawa Singkil Wildlife Reserve. These mills are located immediately next to areas of illegal encroachment into the Leuser Ecosystem and lack the necessary procedures to trace the location where the palm oil they sell is grown, a key requirement for complying with the No Deforestation, No Peatlands, No Exploitation (NDPE) policies all of these brands have publicly committed to.
+Peatland drainage and clearance for palm oil plantation expansion in the Singkil-Bengkung lowlands (Photo: Nanang Sujana)
+Peatland drainage and clearance for palm oil plantation expansion in the Singkil-Bengkung lowlands (Photo: Nanang Sujana)
+
+RAN’s investigations also expose glaring hypocrisy by global banks. The expansion of Conflict Palm Oil into this region is being driven by banks who are financing major palm oil traders which are active in the region, most notably Golden Agri-Resources. Japan’s Mitsubishi UFJ Financial Group, Dutch bank ABN Amro and Singapore’s OCBC appear to not even be complying with their own policies as their client continues to source illegal palm oil grown in the Rawa Singkil Wildlife Reserve.
+
+Progress has been made by some companies implementing their NDPE policies, but the findings of these investigations show that paper promises are not enough to keep the forests from falling. The Leuser Ecosystem at large, and the Singkil-Bengkung region in particular, still offers a rare and fleeting opportunity to get it right and avoid the devastating mistakes made throughout so much of Indonesia in the past. It remains possible here to prevent the destruction of habitat which drives iconic wildlife species toward extinction, to avert the human suffering from inevitable floods and landslides caused by deforestation and to end the reckless burning of carbon-filled peatlands contributing to the climate crisis.
+Peatland drainage and clearance for palm oil plantation expansion in the Singkil-Bengkung lowlands (Photo: Nanang Sujana)
+The edge of opportunity… Peatland drainage and clearance for palm oil plantation expansion in the Singkil-Bengkung lowlands (Photo: Nanang Sujana)
+
+RAN is demanding that companies caught contributing to this destruction stop buying palm oil sourced from the rogue mills identified, or financing the culprits processing and shipping illegal palm oil to the global market, until transparent and verifiable monitoring, traceability and compliance systems are established to ensure they are only sourcing truly responsible palm oil.
+
+Conflict Palm Oil Cycle of Destruction
+
+
+
+
+
+***To read the full report, click here or page through it below:
+
+
+
+Hover over the image above then click the arrows shown in the bar along the bottom to review the report or download the report here.
+Post navigation
+Elephant Emergency in the Leuser Ecosystem
+Major Brands Again Caught Sourcing Deforestation-Linked Palm Oil
+About Leuser Watch
+
+The Leuser Ecosystem is a spectacular expanse of rare, intact rainforest that is the only place left on Earth where tigers, orangutans, elephants and rhinos live together in the wild.
+
+RAN and our allies are fighting hard to stop the destruction of this globally important landscape and to protect the millions of people who depend on it. This is a watchdog site for alerts about regional breaches of the Indonesian government moratorium on forest destruction for palm oil as well as a clearinghouse for news on select Leuser-related conservation developments.
+Learn more about the Leuser Ecosystem
+Footer
+Rainforest Action Network Logo
+
+membership@ran.org
+415-398-4404
+
+Headquarters
+425 Bush Street, Suite 300
+San Francisco, CA 94108
+
+Mailing Address
+PO Box 30
+Roseville, CA 95678
+
+    Mission and Values
+    Publications & Reports
+    Media Center
+    How We Win
+    Wildlife Fact Sheets
+    Ways to Give
+    Donor Services
+    Gift & Estate Planning
+    FAQ
+    Contact
+    Jobs
+    Privacy Policy
+    Terms and Conditions
+    Financial and Annual Reports
+    Charitable Solicitation Disclosure Statements
+    Give With Confidence
+
+Follow us on:
+Facebook
+Bluesky Logo Bluesky
+Tiktok
+Instagram
+Youtube
+RAWR Logo CWA Logo
+
+Union Strong - RAN staff are represented by RAWR-CWA, Local 9415
+
+Rainforest Action Network is a nonprofit, tax-exempt 501(c)(3) corporation (tax ID number 94-3045180).
+DONATEHELP NOW!
+`;

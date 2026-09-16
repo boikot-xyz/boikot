@@ -20,7 +20,7 @@ export async function scrapeViolations( violationsUrl, source ) {
         title: slice([...el.querySelectorAll("td")].map(el => el.textContent)).join(" - "),
         description: [...el.querySelectorAll("td")].map(el => el.textContent).join("; ").replace("; ", "; Parent company "),
     }));
-    return data;
+    return data.slice(0,20);
 }
 
 export async function scrapeViolationTrackers( companyName ) {
