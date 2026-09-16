@@ -5574,7 +5574,7 @@
                 "cars",
                 "emissions cheating"
             ],
-            "score": 40,
+            "score": 26,
             "ownedBy": [
                 "geely"
             ],
@@ -5593,9 +5593,9 @@
             "tags": [
                 "cars"
             ],
-            "score": 40,
+            "score": 26,
             "ownedBy": [
-                "volvo"
+                "geely"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Polestar_Logo.svg",
             "siteUrl": "https://www.polestar.com/uk/",
@@ -36058,6 +36058,216 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Prezero",
             "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/PreZero.png/250px-PreZero.png",
             "siteUrl": "http://prezero-international.com/"
+        },
+        "geely": {
+            "key": "geely",
+            "names": [
+                "Geely",
+                "Geely Commercial Vehicles",
+                "ZGH",
+                "浙江吉利控股集团有限公司",
+                "浙江吉利控股集團有限公司",
+                "Zhèjiāng Jílì Kònggǔ Jítuán Yǒuxiàn Gōngsī"
+            ],
+            "comment": "Geely is a Chinese automotive company that has committed fuel economy violations [1], environmental violations [2][3], colluded to avoid paying dismantlers for end‑of‑life vehicle recycling [4][5], and has inadequate human rights due diligence in its battery supply chain [6]. It has paid sub‑minimum wages and discriminated against workers [7], used coerced labour in its supply chain [8], and sponsored aggression by expanding sales in Russia [9].",
+            "sources": {
+                "1": "//violationtrackerglobal.goodjobsfirst.org/violation-tracker-global/united-states-volvo-2",
+                "2": "//violationtrackerglobal.goodjobsfirst.org/violation-tracker-global/china-shandong-tangjun-ouling-automobile",
+                "3": "//violationtracker.goodjobsfirst.org/violation-tracker/ca-volvo-cars-of-north-america",
+                "4": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_881",
+                "5": "//violationtrackerglobal.goodjobsfirst.org/violation-tracker-global/european-commission-volvo",
+                "6": "https://www.amnesty.org/en/latest/news/2024/10/human-rights-ranking-electric-vehicle-industry/",
+                "7": "https://www.theguardian.com/global-development/2021/nov/08/cobalt-drc-miners-toil-for-30p-an-hour-to-fuel-electric-cars",
+                "8": "https://www.thebureauinvestigates.com/stories/2025-05-31/did-coerced-labour-build-your-car",
+                "9": "https://www.business-humanrights.org/en/latest-news/ukraine-chinese-car-manufacturer-geely-is-designated-as-intl-sponsor-of-war-by-govt-over-trade-increase-in-russia/"
+            },
+            "sourceNotes": {
+                "1": "committed fuel economy violations",
+                "2": "committed environmental violations",
+                "3": "committed environmental violations",
+                "4": "colluded to avoid paying dismantlers for end‑of‑life vehicle recycling",
+                "5": "participated in a cartel for end‑of‑life vehicle recycling",
+                "6": "inadequate human rights due diligence in battery supply chain",
+                "7": "paid sub‑minimum wages and discriminated against workers",
+                "8": "used coerced labour in supply chain",
+                "9": "sponsored aggression by expanding sales in Russia"
+            },
+            "tags": [
+                "cars",
+                "manufacturing"
+            ],
+            "score": 26,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Geely_Logo_2022.svg/250px-Geely_Logo_2022.svg.png",
+            "siteUrl": "http://zgh.com/",
+            "updatedAt": "2026-09-16T09:27:51.647Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Geely"
+        },
+        "lynk-and-co": {
+            "key": "lynk-and-co",
+            "names": [
+                "Lynk & Co"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cars",
+                "manufacturing"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "geely"
+            ],
+            "updatedAt": "2026-09-16T11:12:17.300Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lynk_&amp;_Co"
+        },
+        "zeekr": {
+            "key": "zeekr",
+            "names": [
+                "Zeekr"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cars",
+                "manufacturing"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "geely"
+            ],
+            "updatedAt": "2026-09-16T11:12:18.029Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Zeekr",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Zeekr_logo.svg/250px-Zeekr_logo.svg.png",
+            "siteUrl": "https://www.zeekrgroup.com/en"
+        },
+        "proton": {
+            "key": "proton",
+            "names": [
+                "Proton"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cars",
+                "manufacturing"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "geely"
+            ],
+            "updatedAt": "2026-09-16T11:12:18.772Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Proton_Holdings",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/c/c2/PROTON_Holdings_logo_%282019%E2%80%93present%29.svg/250px-PROTON_Holdings_logo_%282019%E2%80%93present%29.svg.png",
+            "siteUrl": "http://proton.com/"
+        },
+        "smart": {
+            "key": "smart",
+            "names": [
+                "Smart"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cars",
+                "manufacturing"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "geely"
+            ],
+            "updatedAt": "2026-09-16T11:12:19.151Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Smart_(marque)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Smart_2022.svg/120px-Smart_2022.svg.png",
+            "siteUrl": "http://smart.com/"
+        },
+        "lotus": {
+            "key": "lotus",
+            "names": [
+                "Lotus"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cars",
+                "manufacturing"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "geely"
+            ],
+            "updatedAt": "2026-09-16T11:12:19.985Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lotus_Cars",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/2/2f/Lotus_Cars_logo.svg/250px-Lotus_Cars_logo.svg.png",
+            "siteUrl": "https://www.lotuscars.com/en"
+        },
+        "london-ev-company": {
+            "key": "london-ev-company",
+            "names": [
+                "London EV Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cars",
+                "manufacturing"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "geely"
+            ],
+            "updatedAt": "2026-09-16T11:12:20.337Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/London_EV_Company",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/8/81/London_EV_Company_logo.svg/250px-London_EV_Company_logo.svg.png",
+            "siteUrl": "http://levc.com/"
+        },
+        "radar-auto": {
+            "key": "radar-auto",
+            "names": [
+                "Radar Auto"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cars",
+                "manufacturing"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "geely"
+            ],
+            "updatedAt": "2026-09-16T11:12:20.449Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Radar_Auto",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Radar_Auto_logo.png/250px-Radar_Auto_logo.png",
+            "siteUrl": "https://www.radar-ev.com/"
+        },
+        "farizon": {
+            "key": "farizon",
+            "names": [
+                "Farizon"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cars",
+                "manufacturing"
+            ],
+            "score": 26,
+            "ownedBy": [
+                "geely"
+            ],
+            "updatedAt": "2026-09-16T11:12:21.053Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Farizon_Auto",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/e/e2/Farizon_Auto_Logo.png/250px-Farizon_Auto_Logo.png",
+            "siteUrl": "https://geelycv.com/"
         }
     }
 }
