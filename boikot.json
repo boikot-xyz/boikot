@@ -36268,6 +36268,205 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Farizon_Auto",
             "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/e/e2/Farizon_Auto_Logo.png/250px-Farizon_Auto_Logo.png",
             "siteUrl": "https://geelycv.com/"
+        },
+        "tata": {
+            "key": "tata",
+            "names": [
+                "Tata",
+                "Tata Group",
+                "Tata Sons"
+            ],
+            "comment": "Tata is an Indian conglomerate that has engaged in bribery in recruitment [1], accepted bribes from staffing firms for job placements [2], failed to pay minimum wage [3], sold cars with defective vehicle suspensions [4], colluded to avoid paying for car recycling [5], blocked spare parts sales to stifle competition [6], committed environmental violations [7][8], released pollution into the environment [9], exploited indigenous communities for industrial expansion [10], and engaged in illegal mining [11]. Its workplace culture has been marred by sexual harassment and coercion of employees [12][13], forced religious conversion [14], inhumane working conditions on tea estates [15], denial of wages and food rations during a 3‑month lockout of workers [16], and an employee death in unsafe working conditions [17].",
+            "sources": {
+                "1": "https://store.hbr.org/product/tata-consultancy-services-tackling-scandal-in-india/W36159?srsltid=AU7gw4Wlt2sbWge8Mi_4HSg0Seqhzhth6mcXsV2W1Rp7reb7Q4t7Bkv6",
+                "2": "https://www.staffingindustry.com/news/global-daily-news/tcs-whistleblower-alleges-bribery-scandal-involving-staffing-firms-media",
+                "3": "https://www.law360.com/articles/417770/tata-to-pay-30m-over-workers-tax-refund-theft-claims",
+                "4": "//https://www.law360.com/articles/1029727/judge-rejects-6-2m-land-rover-deal-as-unfair-to-drivers",
+                "5": "https://www.gov.uk/government/news/car-industry-settles-competition-law-case",
+                "6": "https://www.cci.gov.in/antitrust/orders/details/750/0",
+                "7": "https://www.dutchnews.nl/2026/07/tata-steel-to-face-criminal-charges-for-pollution/",
+                "8": "https://violationtracker.goodjobsfirst.org/violation-tracker/wy-tata-chemicals-soda-ash-partners-1",
+                "9": "https://www.nu.nl/economie/6392914/tata-steel-krijgt-opnieuw-boete-van-85-miljoen-euro-wegens-schadelijke-uitstoot.html?referrer=https%3A%2F%2Fwww.google.com%2F&referrer=https%3A%2F%2Fgmk.center%2F&referrer=https%3A%2F%2Fviolationtrackerglobal.goodjobsfirst.org%2F",
+                "10": "https://www.indiancurrents.org/article-the-dark-side-of-an-iconic-brand-aakash-2323.php",
+                "11": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/rs-6000-cr-fine-on-tata-steel-for-illegal-mining-sources/articleshow/17105624.cms",
+                "12": "https://www.independent.co.uk/asia/india/workplace-sexual-misconduct-tcs-nashik-india-b2957109.html",
+                "13": "https://www.facebook.com/Timesnow/posts/a-major-controversy-has-erupted-at-tata-consultancy-services-nashik-facility-aft/1451880916983166/",
+                "14": "https://openthemagazine.com/business/tata-groups-reputation-tested-by-relentless-troubles",
+                "15": "http://www.bbc.com/news/world-asia-india-34173532",
+                "16": "http://cms.iuf.org/?q=node/711",
+                "17": "https://www.bbc.co.uk/news/articles/clyn5lq1egeo"
+            },
+            "sourceNotes": {
+                "1": "committed bribery in recruitment",
+                "2": "accepted bribes from staffing firms for job placements",
+                "3": "failed to pay minimum wage",
+                "4": "sold cars with defective vehicle suspensions",
+                "5": "colluded to avoid paying for car recycling",
+                "6": "blocked spare parts sales to stifle competition",
+                "7": "committed environmental violations",
+                "8": "committed environmental violations",
+                "9": "released pollution into the environment",
+                "10": "exploited indigenous communities for industrial expansion",
+                "11": "engaged in illegal mining",
+                "12": "sexual harassment and coercion at workplace",
+                "13": "sexual harassment and coercion of employees",
+                "14": "sexual harassment and forced religious conversion",
+                "15": "maintained inhumane working conditions on tea estates",
+                "16": "denied wages and food rations during a 3‑month lockout of workers",
+                "17": "employee died in unsafe working conditions"
+            },
+            "tags": [
+                "conglomerate",
+                "cars",
+                "manufacturing"
+            ],
+            "score": 6,
+            "ownedBy": [],
+            "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/TATA_logo.png/250px-TATA_logo.png",
+            "siteUrl": "http://www.tata.com/",
+            "updatedAt": "2026-09-18T07:57:13.852Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tata_Group",
+            "error": "TypeError: Cannot read properties of undefined (reading '0')"
+        },
+        "air-india": {
+            "key": "air-india",
+            "names": [
+                "Air India"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "airline"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "tata"
+            ],
+            "updatedAt": "2026-09-19T09:45:49.318Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Air_India",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Air_India_2023.svg/330px-Air_India_2023.svg.png",
+            "siteUrl": "https://www.airindia.com/"
+        },
+        "tajair": {
+            "key": "tajair",
+            "names": [
+                "TajAir"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "airline"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "tata"
+            ],
+            "updatedAt": "2026-09-19T09:45:50.634Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/TajAir",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/5/53/TajAir_Logo.svg/250px-TajAir_Logo.svg.png",
+            "siteUrl": "https://www.tajair-tata.aero/"
+        },
+        "indian-hotels-company-limited": {
+            "key": "indian-hotels-company-limited",
+            "names": [
+                "Indian Hotels Company Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "tata"
+            ],
+            "updatedAt": "2026-09-19T09:45:51.074Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Indian_Hotels_Company_Limited",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/9/92/Indian_Hotels_Company_Limited_logo.svg/250px-Indian_Hotels_Company_Limited_logo.svg.png",
+            "siteUrl": "https://www.ihcltata.com/"
+        },
+        "taj-hotels": {
+            "key": "taj-hotels",
+            "names": [
+                "Taj Hotels"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "tata"
+            ],
+            "updatedAt": "2026-09-19T09:45:51.804Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Taj_Hotels",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Taj_Hotels_logo.svg/120px-Taj_Hotels_logo.svg.png",
+            "siteUrl": "https://www.tajhotels.com/"
+        },
+        "vivanta": {
+            "key": "vivanta",
+            "names": [
+                "Vivanta"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "tata"
+            ],
+            "updatedAt": "2026-09-19T09:45:52.364Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Vivanta",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Vivanta_logo.svg/250px-Vivanta_logo.svg.png",
+            "siteUrl": "https://vivantahotels.com/"
+        },
+        "ginger-hotels": {
+            "key": "ginger-hotels",
+            "names": [
+                "Ginger Hotels"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "hospitality"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "tata"
+            ],
+            "updatedAt": "2026-09-19T09:45:53.097Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ginger_Hotels",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/f/fb/Ginger_Hotels.svg/250px-Ginger_Hotels.svg.png",
+            "siteUrl": "https://www.gingerhotels.com/"
+        },
+        "tetley": {
+            "key": "tetley",
+            "names": [
+                "Tetley"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "beverages"
+            ],
+            "score": 6,
+            "ownedBy": [
+                "tata"
+            ],
+            "updatedAt": "2026-09-19T09:45:53.577Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tetley",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Tetley_logo.png",
+            "siteUrl": "http://tetley.com/"
         }
     }
 }
