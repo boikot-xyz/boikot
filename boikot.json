@@ -36467,6 +36467,72 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Tetley",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Tetley_logo.png",
             "siteUrl": "http://tetley.com/"
+        },
+        "golden-casket": {
+            "key": "golden-casket",
+            "names": [
+                "Golden Casket"
+            ],
+            "comment": "Golden Casket is a Scottish family-owned confectionery company.",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "confectionery"
+            ],
+            "score": 50,
+            "ownedBy": [],
+            "logoUrl": "https://goldencasket.co.uk/wp-content/uploads/2025/05/logo-1.png",
+            "siteUrl": "https://goldencasket.co.uk/",
+            "updatedAt": "2026-09-20T16:24:57.481Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Golden_Casket"
+        },
+        "bestseller": {
+            "key": "bestseller",
+            "names": [
+                "Bestseller",
+                "Bestseller A/S"
+            ],
+            "comment": "jack & jones is a Danish clothing brand that has released sexist ads [1], and has faced criticism for unsafe working conditions in its supply chain [2] and for using forced Uyghur labour [3].",
+            "sources": {
+                "1": "https://www.indiatvnews.com/entertainment/bollywood-jack-jones-apologises-for-controversial-ad-featuring-ranveer-withdraws-immediately-358064",
+                "2": "https://www.business-humanrights.org/en/big-issues/labour-rights/myanmar-garment-worker-allegations-tracker/",
+                "3": "https://www.aspi.org.au/report/uyghurs-sale"
+            },
+            "sourceNotes": {
+                "1": "released sexist ad",
+                "2": "unsafe working conditions in supply chain",
+                "3": "used forced Uyghur labour in supply chain"
+            },
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 34,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Bestseller_%28Unternehmen%29_logo.svg/250px-Bestseller_%28Unternehmen%29_logo.svg.png",
+            "siteUrl": "https://www.bestseller.com/",
+            "updatedAt": "2026-09-20T17:29:25.946Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bestseller_(company)"
+        },
+        "jack-and-jones": {
+            "key": "jack-and-jones",
+            "names": [
+                "Jack & Jones"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing",
+                "retail"
+            ],
+            "score": 34,
+            "ownedBy": [
+                "bestseller"
+            ],
+            "logoUrl": "https://logowik.com/content/uploads/images/jack-jones1312.logowik.com.webp",
+            "siteUrl": "https://www.jackjones.com/en-gb",
+            "updatedAt": "2026-09-21T11:11:38.931Z"
         }
     }
 }
