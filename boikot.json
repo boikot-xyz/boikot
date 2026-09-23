@@ -31065,7 +31065,7 @@
                 "consumer goods",
                 "cosmetics"
             ],
-            "score": null,
+            "score": 34,
             "ownedBy": [
                 "lvmh"
             ],
@@ -36533,6 +36533,1645 @@
             "logoUrl": "https://logowik.com/content/uploads/images/jack-jones1312.logowik.com.webp",
             "siteUrl": "https://www.jackjones.com/en-gb",
             "updatedAt": "2026-09-21T11:11:38.931Z"
+        },
+        "lvmh": {
+            "key": "lvmh",
+            "names": [
+                "LVMH",
+                "LVMH Moet Hennessy Louis Vuitton SE",
+                "LVMH Moët Hennessy Louis Vuitton SA",
+                "MC"
+            ],
+            "comment": "LVMH is a French luxury goods conglomerate that has failed to disclose sale of personal data [1], failed to pay minimum wage [2][3], misclassified models and staff as independent contractors to avoid proper wages [4], and failed to pay overtime and meal/rest breaks to employees [5]. The company has also failed to pay overtime and reimburse expenses to employees [6], faced allegations of sweatshop conditions and worker exploitation in its supply chain [7][8][9][10][11][12], committed environmental violations and continued use of microplastics in cosmetics [13][14], bribed public officials [15], and engaged in gender discrimination and unfair dismissal in its drinks division [16] as well as racial discrimination against customers and employees [17][18].",
+            "sources": {
+                "1": "https://www.oag.ca.gov/news/press-releases/attorney-general-bonta-announces-settlement-sephora-part-ongoing-enforcement",
+                "2": "https://www.facebook.com/caspercapitaltv/posts/italian-prosecutors-say-dior-spends-only-57-to-produce-handbags-that-retail-for-/1044986815155121/",
+                "3": "https://www.forbes.com/sites/pamdanziger/2025/07/16/loro-piana-joins-growing-list-of-luxury-brands-tied-to-worker-abuse/",
+                "4": "https://www.law360.com/articles/984955/moet-s-joint-1-95m-wage-deal-with-models-gets-initial-ok",
+                "5": "https://www.law360.com/articles/258690/louis-vuitton-managers-bag-1-5m-payout-in-ot-action",
+                "6": "https://www.law360.com/articles/444120/sephora-to-pay-4m-to-settle-worker-compensation-suit",
+                "7": "https://www.reuters.com/business/retail-consumer/some-investors-demand-change-lvmh-after-probe-into-dior-contractors-2024-07-23/",
+                "8": "https://www.forbes.com/sites/pamdanziger/2024/06/24/italian-court-reveals-diors-unethical-supply-chain-and-puts-other-luxury-brands-on-notice/",
+                "9": "https://www.linkedin.com/posts/glenn-mcmahon-127a00128_completely-mystified-how-loro-piana-did-not-activity-7350931604703260674-KlmH",
+                "10": "https://www.fashioncapital.co.uk/insights/lvmh-labour-scandal-highlights-urgent-need-for-supply-chain-transparency/",
+                "11": "https://www.worldfootwear.com/news/loro-piana-placed-under-court-administration-in-italy-over-worker-exploitation/10791.html",
+                "12": "https://www.lemonde.fr/en/europe/article/2024/07/17/dior-and-armani-under-investigation-for-exploiting-workers-at-chinese-factories-in-italy_6687795_143.html?srsltid=AU7gw4X4oEgBrETZFSqM2DvC-S6IKZCXR5GbhwBXbQbvs4Ku3G9kE9_E",
+                "13": "https://www.sacda.org/2025/09/da-thien-ho-announces-settlement-with-sephora-relating-to-environmental-laws-and-unfair-business-practices/",
+                "14": "https://www.beatthemicrobead.org/product-lists/",
+                "15": "https://web.archive.org/web/20101109014908/http://www.ag.ny.gov/media_center/2008/nov/nov19a_08.html",
+                "16": "https://www.linkedin.com/posts/financial-times_the-accusations-in-the-lawsuit-that-also-activity-7348978072345337858-5fHS",
+                "17": "https://www.law360.com/classaction/articles/928491",
+                "18": "https://www.leagle.com/decision/infdco20170621c78"
+            },
+            "sourceNotes": {
+                "1": "failed to disclose sale of personal data",
+                "2": "failed to pay minimum wage",
+                "3": "failed to pay minimum wage",
+                "4": "misclassified models and staff as independent contractors to avoid proper wages",
+                "5": "failed to pay overtime and meal/rest breaks to employees",
+                "6": "failed to pay overtime and reimburse expenses to employees",
+                "7": "alleged sweatshop conditions in supply chain",
+                "8": "exploited workers in supply chain",
+                "9": "exploited workers in supply chain",
+                "10": "exploited workers in supply chain",
+                "11": "failed to monitor suppliers, leading to worker exploitation",
+                "12": "exploited undocumented workers in supply chain",
+                "13": "committed environmental violations",
+                "14": "continued use of microplastics in cosmetics",
+                "15": "bribed public officials",
+                "16": "gender discrimination and unfair dismissal in drinks division",
+                "17": "racial discrimination against customers",
+                "18": "racial discrimination against employees"
+            },
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/76/LVMH_wordmark.svg/250px-LVMH_wordmark.svg.png",
+            "siteUrl": "https://lvmh.com/",
+            "updatedAt": "2026-09-22T15:47:23.737Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/LVMH"
+        },
+        "ao-yun": {
+            "key": "ao-yun",
+            "names": [
+                "Ao Yun"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:30:54.782Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ao_Yun",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/%E6%A2%85%E9%87%8C%E9%9B%AA%E5%B1%B1.jpg/250px-%E6%A2%85%E9%87%8C%E9%9B%AA%E5%B1%B1.jpg",
+            "siteUrl": "https://www.aoyun-wine.com/"
+        },
+        "ardbeg": {
+            "key": "ardbeg",
+            "names": [
+                "Ardbeg"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:30:55.541Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ardbeg_distillery",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Ardbeg_Distillery%2C_Islay_-_geograph.org.uk_-_4150964.jpg/330px-Ardbeg_Distillery%2C_Islay_-_geograph.org.uk_-_4150964.jpg",
+            "siteUrl": "https://www.ardbeg.com/"
+        },
+        "belvedere": {
+            "key": "belvedere",
+            "names": [
+                "Belvedere"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:30:56.210Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Belvedere_Vodka",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/d/d8/Belvedere_Vodka_%28wordmark_logo%29.svg/250px-Belvedere_Vodka_%28wordmark_logo%29.svg.png",
+            "siteUrl": "https://www.belvederevodka.com/"
+        },
+        "chandon": {
+            "key": "chandon",
+            "names": [
+                "Chandon"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:30:56.306Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Domaine_Chandon_California",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Chandon_California_Brut_sparkling_wine.JPG/250px-Chandon_California_Brut_sparkling_wine.JPG",
+            "siteUrl": "http://www.chandon.com/"
+        },
+        "chateau-d'esclans": {
+            "key": "chateau-d'esclans",
+            "names": [
+                "Château d'Esclans"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:30:56.862Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Château_d'Esclans"
+        },
+        "chateau-cheval-blanc": {
+            "key": "chateau-cheval-blanc",
+            "names": [
+                "Château Cheval Blanc"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:30:58.058Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Château_Cheval_Blanc"
+        },
+        "chateau-d'yquem": {
+            "key": "chateau-d'yquem",
+            "names": [
+                "Château d'Yquem"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:30:58.484Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Château_d'Yquem",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/1/1e/Chateau_d_yquem_logo.jpg/250px-Chateau_d_yquem_logo.jpg",
+            "siteUrl": "http://yquem.fr/"
+        },
+        "chateau-galoupet": {
+            "key": "chateau-galoupet",
+            "names": [
+                "Château Galoupet"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:30:58.595Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Château_Galoupet"
+        },
+        "chateau-minuty": {
+            "key": "chateau-minuty",
+            "names": [
+                "Château Minuty"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:30:59.050Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Château_Minuty"
+        },
+        "cheval-des-andes": {
+            "key": "cheval-des-andes",
+            "names": [
+                "Cheval des Andes"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:30:59.242Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Terrazas_de_los_Andes",
+            "siteUrl": "http://www.terrazasdelosandes.com/"
+        },
+        "clos-des-lambrays": {
+            "key": "clos-des-lambrays",
+            "names": [
+                "Clos des Lambrays"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:30:59.940Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Clos_des_Lambrays"
+        },
+        "cloudy-bay": {
+            "key": "cloudy-bay",
+            "names": [
+                "Cloudy Bay"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:00.112Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cloudy_Bay_Vineyards",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Cloudy_Bay_-_Marlborough.jpg/250px-Cloudy_Bay_-_Marlborough.jpg",
+            "siteUrl": "https://www.cloudybay.com/"
+        },
+        "colgin-cellars": {
+            "key": "colgin-cellars",
+            "names": [
+                "Colgin Cellars"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:00.645Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Colgin_Cellars",
+            "siteUrl": "http://www.colgincellars.com/"
+        },
+        "dom-perignon": {
+            "key": "dom-perignon",
+            "names": [
+                "Dom Pérignon"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:01.197Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Dom_Pérignon",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Logo_-_Dom_P%C3%A9rignon.svg/250px-Logo_-_Dom_P%C3%A9rignon.svg.png",
+            "siteUrl": "http://domperignon.com/"
+        },
+        "glenmorangie": {
+            "key": "glenmorangie",
+            "names": [
+                "Glenmorangie"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:01.317Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Glenmorangie_distillery",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Glenmorangie_Distillery_-_panoramio.jpg/330px-Glenmorangie_Distillery_-_panoramio.jpg"
+        },
+        "hennessy": {
+            "key": "hennessy",
+            "names": [
+                "Hennessy"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:01.483Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hennessy",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/b/bd/Logo_hennessy.svg/250px-Logo_hennessy.svg.png",
+            "siteUrl": "http://www.hennessy.com/"
+        },
+        "krug": {
+            "key": "krug",
+            "names": [
+                "Krug"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:01.605Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Champagne_Krug",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/2/26/Logo_for_Champagne_Krug.jpg/250px-Logo_for_Champagne_Krug.jpg",
+            "siteUrl": "http://krug.com/"
+        },
+        "mercier": {
+            "key": "mercier",
+            "names": [
+                "Mercier"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:01.699Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Champagne_Mercier"
+        },
+        "moet-and-chandon": {
+            "key": "moet-and-chandon",
+            "names": [
+                "Moët & Chandon"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:01.746Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Moët_&amp;_Chandon"
+        },
+        "newton-vineyard": {
+            "key": "newton-vineyard",
+            "names": [
+                "Newton Vineyard"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:02.488Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Newton_Vineyard",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d6/Newton_Vineyard_logo.png",
+            "siteUrl": "http://newtonvineyard.com/"
+        },
+        "ruinart": {
+            "key": "ruinart",
+            "names": [
+                "Ruinart"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:02.700Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruinart_(Champagne)"
+        },
+        "veuve-clicquot": {
+            "key": "veuve-clicquot",
+            "names": [
+                "Veuve Clicquot"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:02.997Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Veuve_Clicquot",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_Veuve_Clicquot.png/250px-Logo_Veuve_Clicquot.png",
+            "siteUrl": "http://www.veuve-clicquot.com/"
+        },
+        "berluti": {
+            "key": "berluti",
+            "names": [
+                "Berluti"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:03.190Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Berluti",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Berluti_logo_%282018%29.svg/250px-Berluti_logo_%282018%29.svg.png",
+            "siteUrl": "http://www.berluti.com/"
+        },
+        "celine": {
+            "key": "celine",
+            "names": [
+                "Celine"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:03.810Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Celine_(brand)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Celine_logo.svg/250px-Celine_logo.svg.png",
+            "siteUrl": "http://www.celine.com/"
+        },
+        "christian-dior-couture": {
+            "key": "christian-dior-couture",
+            "names": [
+                "Christian Dior Couture"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:03.911Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Dior",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Dior_Logo_2022.svg/330px-Dior_Logo_2022.svg.png",
+            "siteUrl": "https://www.dior.com/"
+        },
+        "emilio-pucci": {
+            "key": "emilio-pucci",
+            "names": [
+                "Emilio Pucci"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:04.918Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Emilio_Pucci",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Pucci_logo.svg/250px-Pucci_logo.svg.png",
+            "siteUrl": "http://www.pucci.com/"
+        },
+        "armani": {
+            "key": "armani",
+            "names": [
+                "Armani"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:05.008Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Armani",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Giorgio_Armani.svg/330px-Giorgio_Armani.svg.png",
+            "siteUrl": "https://www.armani.com/"
+        },
+        "fendi": {
+            "key": "fendi",
+            "names": [
+                "Fendi"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:05.173Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Fendi",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Fendi_logo.svg/250px-Fendi_logo.svg.png",
+            "siteUrl": "https://www.fendi.com/"
+        },
+        "givenchy": {
+            "key": "givenchy",
+            "names": [
+                "Givenchy"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:05.320Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Givenchy",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Givenchy_-_wordmark_%28France%2C_2003%29.svg/330px-Givenchy_-_wordmark_%28France%2C_2003%29.svg.png",
+            "siteUrl": "https://www.givenchy.com/"
+        },
+        "jw-anderson": {
+            "key": "jw-anderson",
+            "names": [
+                "JW Anderson"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:05.431Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/JW_Anderson",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/JW_Anderson_logo.svg/250px-JW_Anderson_logo.svg.png",
+            "siteUrl": "http://jwanderson.com/"
+        },
+        "kapital": {
+            "key": "kapital",
+            "names": [
+                "Kapital"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:05.539Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kapital_(fashion_brand)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/b/b9/Kapital_logo.png/250px-Kapital_logo.png",
+            "siteUrl": "https://www.kapital.jp/"
+        },
+        "kenzo": {
+            "key": "kenzo",
+            "names": [
+                "Kenzo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:06.157Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenzo_(brand)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Kenzo_logo_%282022%E2%80%93present%29.svg/250px-Kenzo_logo_%282022%E2%80%93present%29.svg.png",
+            "siteUrl": "http://www.kenzo.com/"
+        },
+        "loewe": {
+            "key": "loewe",
+            "names": [
+                "Loewe"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:06.266Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Loewe_(fashion_brand)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Loewe_logo.svg/250px-Loewe_logo.svg.png",
+            "siteUrl": "http://loewe.com/"
+        },
+        "loro-piana": {
+            "key": "loro-piana",
+            "names": [
+                "Loro Piana"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:06.500Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Loro_Piana",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/8/8d/Loro_Piana_logo.svg/250px-Loro_Piana_logo.svg.png",
+            "siteUrl": "http://loropiana.com/"
+        },
+        "louis-vuitton": {
+            "key": "louis-vuitton",
+            "names": [
+                "Louis Vuitton"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:06.625Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Louis_Vuitton",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/43/LV_Monogram.svg/40px-LV_Monogram.svg.png",
+            "siteUrl": "https://www.louisvuitton.com/"
+        },
+        "moynat": {
+            "key": "moynat",
+            "names": [
+                "Moynat"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:06.836Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Moynat",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/Moynat_logo.png",
+            "siteUrl": "http://moynat.com/"
+        },
+        "patou": {
+            "key": "patou",
+            "names": [
+                "Patou"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:07.498Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Patou",
+            "siteUrl": "https://www.patou.com/"
+        },
+        "phoebe-philo": {
+            "key": "phoebe-philo",
+            "names": [
+                "Phoebe Philo"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:07.737Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Phoebe_Philo",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Phoebe_Philo_2.jpg"
+        },
+        "rimowa": {
+            "key": "rimowa",
+            "names": [
+                "Rimowa"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:08.261Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rimowa",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/3/35/RIMOWA_Monogram.svg/60px-RIMOWA_Monogram.svg.png",
+            "siteUrl": "http://rimowa.com/"
+        },
+        "vuarnet": {
+            "key": "vuarnet",
+            "names": [
+                "Vuarnet"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:09.169Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Vuarnet",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/LOGO_VUARNET_TRICOLORE.jpg/250px-LOGO_VUARNET_TRICOLORE.jpg",
+            "siteUrl": "https://www.vuarnet.com/"
+        },
+        "acqua-di-parma": {
+            "key": "acqua-di-parma",
+            "names": [
+                "Acqua di Parma"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:09.739Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Acqua_di_Parma",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/f/fb/Acqua_di_Parma_logo.svg/250px-Acqua_di_Parma_logo.svg.png",
+            "siteUrl": "https://www.acquadiparma.com/"
+        },
+        "benefit-cosmetics": {
+            "key": "benefit-cosmetics",
+            "names": [
+                "Benefit Cosmetics"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:09.795Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Benefit_Cosmetics",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Benefit_Cosmetics_logo.svg/250px-Benefit_Cosmetics_logo.svg.png",
+            "siteUrl": "https://benefitcosmetics.com/"
+        },
+        "bite-beauty": {
+            "key": "bite-beauty",
+            "names": [
+                "BITE Beauty"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:09.856Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/BITE_Beauty",
+            "siteUrl": "http://www.bitebeauty.com/"
+        },
+        "fenty-beauty": {
+            "key": "fenty-beauty",
+            "names": [
+                "Fenty Beauty"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:10.029Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Fenty_Beauty",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/5/5b/Fenty_beauty_logo.png/250px-Fenty_beauty_logo.png",
+            "siteUrl": "http://fentybeauty.com/"
+        },
+        "rihanna": {
+            "key": "rihanna",
+            "names": [
+                "Rihanna"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:10.183Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rihanna",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Rihanna_Fenty_2018.png/250px-Rihanna_Fenty_2018.png",
+            "siteUrl": "http://rihanna.com/"
+        },
+        "parfums-givenchy": {
+            "key": "parfums-givenchy",
+            "names": [
+                "Parfums Givenchy"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:10.820Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Parfums_Givenchy",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/c/c1/Parfums_Givenchy_Logo.png/250px-Parfums_Givenchy_Logo.png",
+            "siteUrl": "https://givenchybeauty.com/"
+        },
+        "guerlain": {
+            "key": "guerlain",
+            "names": [
+                "Guerlain"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:11.384Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Guerlain",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Guerlain_-_logo_%28France%2C_2022-%29.svg/250px-Guerlain_-_logo_%28France%2C_2022-%29.svg.png",
+            "siteUrl": "https://www.guerlain.com/"
+        },
+        "maison-francis-kurkdjian": {
+            "key": "maison-francis-kurkdjian",
+            "names": [
+                "Maison Francis Kurkdjian"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:12.990Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Francis_Kurkdjian",
+            "siteUrl": "https://www.franciskurkdjian.com/"
+        },
+        "make-up-for-ever": {
+            "key": "make-up-for-ever",
+            "names": [
+                "Make Up For Ever"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:13.551Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Make_Up_For_Ever",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/1/1f/Make_Up_Forever_Logo_2022_updated_version.png/250px-Make_Up_Forever_Logo_2022_updated_version.png",
+            "siteUrl": "http://www.makeupforever.com/"
+        },
+        "officine-universelle-buly": {
+            "key": "officine-universelle-buly",
+            "names": [
+                "Officine Universelle Buly"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:13.943Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Officine_Universelle_Buly",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Paris_75006_Rue_Bonaparte_no_6_shop_windows.jpg/250px-Paris_75006_Rue_Bonaparte_no_6_shop_windows.jpg",
+            "siteUrl": "https://www.buly1803.com/"
+        },
+        "ole-henriksen": {
+            "key": "ole-henriksen",
+            "names": [
+                "Ole Henriksen"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:14.186Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ole_Henriksen",
+            "siteUrl": "http://www.olehenriksen.com/"
+        },
+        "parfums-christian-dior": {
+            "key": "parfums-christian-dior",
+            "names": [
+                "Parfums Christian Dior"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:14.791Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Parfums_Christian_Dior"
+        },
+        "bulgari": {
+            "key": "bulgari",
+            "names": [
+                "Bulgari"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:15.316Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bulgari",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Bulgari_logo.svg/250px-Bulgari_logo.svg.png",
+            "siteUrl": "http://www.bulgari.com/"
+        },
+        "chaumet": {
+            "key": "chaumet",
+            "names": [
+                "Chaumet"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:15.563Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Chaumet",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/f/f4/Chaumet_Logo.svg/250px-Chaumet_Logo.svg.png",
+            "siteUrl": "https://www.chaumet.com/en"
+        },
+        "daniel-roth": {
+            "key": "daniel-roth",
+            "names": [
+                "Daniel Roth"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:16.437Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Roth_(watchmakers)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Danielrothlogo.png/250px-Danielrothlogo.png",
+            "siteUrl": "http://danielroth.com/"
+        },
+        "fred": {
+            "key": "fred",
+            "names": [
+                "Fred"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:16.601Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Fred_Joaillier",
+            "siteUrl": "https://www.fred.com/"
+        },
+        "gerald-genta": {
+            "key": "gerald-genta",
+            "names": [
+                "Gerald Genta"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:17.340Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerald_Genta",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Gerald_Genta.jpg/250px-Gerald_Genta.jpg"
+        },
+        "hublot": {
+            "key": "hublot",
+            "names": [
+                "Hublot"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:17.883Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Hublot",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Hublot-logo.svg/250px-Hublot-logo.svg.png",
+            "siteUrl": "http://www.hublot.com/"
+        },
+        "repossi": {
+            "key": "repossi",
+            "names": [
+                "Repossi"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:18.625Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Repossi",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Repossi-logo.png/250px-Repossi-logo.png",
+            "siteUrl": "http://repossi.com/"
+        },
+        "tag-heuer": {
+            "key": "tag-heuer",
+            "names": [
+                "TAG Heuer"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:19.122Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/TAG_Heuer",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/d/de/TAG_Heuer_Logo.svg/250px-TAG_Heuer_Logo.svg.png",
+            "siteUrl": "http://tagheuer.com/"
+        },
+        "tiffany-and-co.": {
+            "key": "tiffany-and-co.",
+            "names": [
+                "Tiffany & Co."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:19.309Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tiffany_&amp;_Co."
+        },
+        "zenith": {
+            "key": "zenith",
+            "names": [
+                "Zenith"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:19.507Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Zenith_(watchmaker)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Zenith_logo.svg/250px-Zenith_logo.svg.png",
+            "siteUrl": "http://www.zenith-watches.com/"
+        },
+        "la-grande-epicerie": {
+            "key": "la-grande-epicerie",
+            "names": [
+                "La Grande Epicerie"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:20.140Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Le_Bon_Marché",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Le-bon-marche-logo-vector.svg/250px-Le-bon-marche-logo-vector.svg.png",
+            "siteUrl": "https://www.lebonmarche.com/"
+        },
+        "la-samaritaine": {
+            "key": "la-samaritaine",
+            "names": [
+                "La Samaritaine"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:20.225Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Samaritaine",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/La_Samaritaine_rue_de_la_Monnaie_2.jpg/330px-La_Samaritaine_rue_de_la_Monnaie_2.jpg"
+        },
+        "24s": {
+            "key": "24s",
+            "names": [
+                "24S"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:20.301Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/24S",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/24S_Logo.png/250px-24S_Logo.png",
+            "siteUrl": "https://en.wikipedia.org/wiki/Online_shopping"
+        },
+        "belmond": {
+            "key": "belmond",
+            "names": [
+                "Belmond"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:20.704Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Belmond_Limited",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/1/1c/Belmond_Logo.png/250px-Belmond_Logo.png",
+            "siteUrl": "https://www.belmond.com/"
+        },
+        "bulgari-hotel-and-resorts": {
+            "key": "bulgari-hotel-and-resorts",
+            "names": [
+                "Bulgari Hotel and Resorts"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:20.860Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bulgari#Bulgari_hotels_and_resorts",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Bulgari_logo.svg/250px-Bulgari_logo.svg.png",
+            "siteUrl": "http://www.bulgari.com/"
+        },
+        "chez-l'ami-louis": {
+            "key": "chez-l'ami-louis",
+            "names": [
+                "Chez l'Ami Louis"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:21.061Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Chez_l'Ami_Louis"
+        },
+        "connaissance-des-arts": {
+            "key": "connaissance-des-arts",
+            "names": [
+                "Connaissance des Arts"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:21.782Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Connaissance_des_Arts"
+        },
+        "cova": {
+            "key": "cova",
+            "names": [
+                "Cova"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:22.073Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Caffè-Pasticceria_Cova",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/95/Pasticceria_Cova_logo.png",
+            "siteUrl": "http://www.pasticceriacova.com/"
+        },
+        "investir": {
+            "key": "investir",
+            "names": [
+                "Investir"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:23.949Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Investir"
+        },
+        "jardin-d'acclimatation": {
+            "key": "jardin-d'acclimatation",
+            "names": [
+                "Jardin d'Acclimatation"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:24.242Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Jardin_d'Acclimatation",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Jardin_d%27acclimatation_-_Fondation_Louis_Vuitton.jpg/250px-Jardin_d%27acclimatation_-_Fondation_Louis_Vuitton.jpg",
+            "siteUrl": "https://www.jardindacclimatation.fr/"
+        },
+        "le-parisien": {
+            "key": "le-parisien",
+            "names": [
+                "Le Parisien"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:24.960Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Le_Parisien",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Le_Parisien_logo.svg/250px-Le_Parisien_logo.svg.png",
+            "siteUrl": "http://leparisien.fr/"
+        },
+        "les-echos": {
+            "key": "les-echos",
+            "names": [
+                "Les Echos"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:25.468Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Les_Echos_(France)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/1/15/Logo_Les_%C3%89chos.svg/250px-Logo_Les_%C3%89chos.svg.png",
+            "siteUrl": "http://lesechos.fr/"
+        },
+        "paris-match": {
+            "key": "paris-match",
+            "names": [
+                "Paris Match"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:25.901Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Paris_Match",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Paris_Match_1981_logo.svg/250px-Paris_Match_1981_logo.svg.png",
+            "siteUrl": "https://www.parismatch.com/"
+        },
+        "radio-classique": {
+            "key": "radio-classique",
+            "names": [
+                "Radio Classique"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:26.091Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Radio_Classique",
+            "siteUrl": "http://radioclassique.fr/"
+        },
+        "royal-van-lent": {
+            "key": "royal-van-lent",
+            "names": [
+                "Royal Van Lent"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "fashion",
+                "clothing"
+            ],
+            "score": 35,
+            "ownedBy": [
+                "lvmh"
+            ],
+            "updatedAt": "2026-09-23T07:31:26.329Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Feadship",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Feadship_logo.jpg/250px-Feadship_logo.jpg",
+            "siteUrl": "https://www.feadship.nl/"
         }
     }
 }
