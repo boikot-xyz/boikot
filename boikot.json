@@ -11998,7 +11998,7 @@
                 "clothing",
                 "retail"
             ],
-            "score": null,
+            "score": 43,
             "ownedBy": [
                 "dick's-sporting-goods"
             ],
@@ -38756,6 +38756,59 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/PacifiCorp",
             "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/b/b1/PacifCorp_logo.svg/250px-PacifCorp_logo.svg.png",
             "siteUrl": "https://www.pacificorp.com/"
+        },
+        "dick's-sporting-goods": {
+            "key": "dick's-sporting-goods",
+            "names": [
+                "Dick's Sporting Goods",
+                "Dick's Sporting Goods, Inc.",
+                "DICK'S Sporting Goods",
+                "DKS"
+            ],
+            "comment": "Dick's Sporting Goods is an American sporting goods retailer that has been accused of withholding commissions from golf sales associates [1] and failing to pay overtime wages [2][3], while also underpaying employees [4].",
+            "sources": {
+                "1": "https://www.reddit.com/r/golf/comments/1czrjp3/dicks_sporting_goods_sued_for_hiding_golf/",
+                "2": "https://www.law360.com/articles/222904/dick-s-to-pay-up-to-15-5m-to-settle-ot-actions",
+                "3": "https://www.law360.com/articles/735906",
+                "4": "https://www.bigclassaction.com/settlement/7-1m-settlement-final-in-foot-locker-wage-hour.php"
+            },
+            "sourceNotes": {
+                "1": "withheld commissions from golf sales associates",
+                "2": "failed to pay overtime wages",
+                "3": "failed to pay overtime wages",
+                "4": "underpaid employees"
+            },
+            "tags": [
+                "sportswear",
+                "retail"
+            ],
+            "score": 43,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/3/33/New_Dick%27s_Sporting_Goods_logo.svg/250px-New_Dick%27s_Sporting_Goods_logo.svg.png",
+            "siteUrl": "https://www.dickssportinggoods.com/",
+            "updatedAt": "2026-09-26T08:33:23.924Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Dick%27s_Sporting_Goods"
+        },
+        "gamechanger": {
+            "key": "gamechanger",
+            "names": [
+                "GameChanger"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "sportswear",
+                "retail"
+            ],
+            "score": 43,
+            "ownedBy": [
+                "dick's-sporting-goods"
+            ],
+            "updatedAt": "2026-09-26T08:44:37.752Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/GameChanger",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/c/c1/GameChanger_Logo.jpg/250px-GameChanger_Logo.jpg",
+            "siteUrl": "https://en.wikipedia.org/wiki/Mobile_application"
         }
     }
 }
