@@ -38172,6 +38172,589 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Feadship",
             "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Feadship_logo.jpg/250px-Feadship_logo.jpg",
             "siteUrl": "https://www.feadship.nl/"
+        },
+        "berkshire-hathaway": {
+            "key": "berkshire-hathaway",
+            "names": [
+                "Berkshire Hathaway",
+                "Berkshire Hathaway Inc.",
+                "Berkshire",
+                "BRK.A",
+                "BRK.B"
+            ],
+            "comment": "Berkshire Hathaway is an American conglomerate that has ignored climate risk in insurance underwriting [1], financed unsustainable coal power generation [2], polluted its local environment and rivers [3][4], and negligently caused wildfires through faulty electrical lines and failing to shut off power [5][6][7][8]. It has also compromised consumer data security [9], used prison labor [10], engaged in racial discrimination in mortgage lending and redlining [11][12], failed to report safety defects and launch recalls [13], and exposed employees to unsafe working conditions leading to injury [14].",
+            "sources": {
+                "1": "https://global.insure-our-future.com/scorecard/",
+                "2": "https://www.brkenergy.com/energy/coal.aspx",
+                "3": "https://www.justice.gov/opa/pr/epa-requires-global-titanium-manufacturer-investigate-and-clean-pcb-contamination-nevada",
+                "4": "https://nj.gov/oag/newsreleases14/pr20141217a.html",
+                "5": "https://www.justice.gov/usao-or/pr/pacificorp-agrees-pay-575-million-settle-claims-damage-caused-six-wildfires-oregon-and",
+                "6": "https://www.sec.gov/ixviewer/ix.html?doc=/Archives/edgar/data/75594/000007559423000015/pacificorp-20231205.htm",
+                "7": "https://www.sec.gov/ixviewer/ix.html?doc=/Archives/edgar/data/75594/000007559423000020/pacificorp-20231215.htm",
+                "8": "https://justthenews.com/nation/states/center-square/pacific-power-reaches-178-million-settlement-role-2020-labor-day",
+                "9": "https://ag.ny.gov/press-release/2024/attorney-general-james-and-dfs-superintendent-harris-secure-113-million-auto",
+                "10": "https://investigate.afsc.org/company/berkshire-hathaway",
+                "11": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-doj-order-trident-mortgage-company-to-pay-more-than-22-million-for-deliberate-discrimination-against-minority-families/",
+                "12": "https://www.justice.gov/opa/pr/justice-department-and-consumer-financial-protection-bureau-secure-agreement-trident-mortgage",
+                "13": "https://web.archive.org/web/20180423205634/https://www.nhtsa.gov/press-releases/us-dot-fines-spartan-motors-inc-and-forest-river-inc-failure-announce-recalls-and",
+                "14": "https://web.archive.org/web/20230325083008/https://press.hse.gov.uk/2023/03/16/firm-receives-190k-fine-after-worker-seriously-injured/"
+            },
+            "sourceNotes": {
+                "1": "ignored climate risk in insurance underwriting",
+                "2": "finances unsustainable coal power generation",
+                "3": "pollution of local environment",
+                "4": "polluted local rivers",
+                "5": "negligently caused wildfires through faulty electrical lines",
+                "6": "negligently caused wildfires through faulty electrical lines",
+                "7": "negligently caused wildfires through faulty electrical lines",
+                "8": "worsened wildfires by failing to shut off power",
+                "9": "poor information security leading to consumer data breach",
+                "10": "used prison labor",
+                "11": "racial discrimination in mortgage lending",
+                "12": "racial discrimination through redlining",
+                "13": "failed to report safety defects and launch recalls",
+                "14": "employee injured in unsafe working conditions"
+            },
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [],
+            "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Berkshire_Hathaway.svg/250px-Berkshire_Hathaway.svg.png",
+            "siteUrl": "https://www.berkshirehathaway.com/",
+            "updatedAt": "2026-09-24T22:33:33.062Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Berkshire_Hathaway"
+        },
+        "berkshire-hathaway-assurance": {
+            "key": "berkshire-hathaway-assurance",
+            "names": [
+                "Berkshire Hathaway Assurance"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:11.578Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Berkshire_Hathaway_Assurance"
+        },
+        "central-states-indemnity": {
+            "key": "central-states-indemnity",
+            "names": [
+                "Central States Indemnity"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:12.847Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Central_States_Indemnity"
+        },
+        "gen-re": {
+            "key": "gen-re",
+            "names": [
+                "Gen Re"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:13.480Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gen_Re",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Gen_Re_logo.svg/250px-Gen_Re_logo.svg.png",
+            "siteUrl": "http://genre.com/"
+        },
+        "usli": {
+            "key": "usli",
+            "names": [
+                "USLI"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:13.563Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/USLI",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Berkshire_Hathaway.svg/250px-Berkshire_Hathaway.svg.png",
+            "siteUrl": "https://www.berkshirehathaway.com/"
+        },
+        "bnsf-railway": {
+            "key": "bnsf-railway",
+            "names": [
+                "BNSF Railway"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:14.323Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/BNSF_Railway",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/BNSF_Railway_Company_logo.svg/250px-BNSF_Railway_Company_logo.svg.png",
+            "siteUrl": "https://bnsf.com/"
+        },
+        "berkshire-hathaway-energy": {
+            "key": "berkshire-hathaway-energy",
+            "names": [
+                "Berkshire Hathaway Energy"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:14.700Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Berkshire_Hathaway_Energy",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Berkshire_Hathaway_Energy_Logo.svg/250px-Berkshire_Hathaway_Energy_Logo.svg.png",
+            "siteUrl": "https://brkenergy.com/"
+        },
+        "pilot-flying-j": {
+            "key": "pilot-flying-j",
+            "names": [
+                "Pilot Flying J"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:14.915Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pilot_Flying_J",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/8/88/Pilot_Flying_J_logo.svg/250px-Pilot_Flying_J_logo.svg.png",
+            "siteUrl": "http://pilotflyingj.com/"
+        },
+        "benjamin-moore-and-co.": {
+            "key": "benjamin-moore-and-co.",
+            "names": [
+                "Benjamin Moore & Co."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:15.016Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Benjamin_Moore_&amp;_Co."
+        },
+        "clayton-homes": {
+            "key": "clayton-homes",
+            "names": [
+                "Clayton Homes"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:15.248Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Clayton_Homes",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/Clayton_Homes_logo.png",
+            "siteUrl": "http://www.claytonhomes.com/"
+        },
+        "ctb-international": {
+            "key": "ctb-international",
+            "names": [
+                "CTB International"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:15.382Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/CTB_International",
+            "siteUrl": "https://www.ctbinc.com/"
+        },
+        "fruit-of-the-loom": {
+            "key": "fruit-of-the-loom",
+            "names": [
+                "Fruit of the Loom"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:16.044Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Fruit_of_the_Loom",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/0/0d/Fruit_logo.svg/250px-Fruit_logo.svg.png",
+            "siteUrl": "https://www.fruit.com/"
+        },
+        "johns-manville": {
+            "key": "johns-manville",
+            "names": [
+                "Johns Manville"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:16.164Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Johns_Manville",
+            "siteUrl": "http://www.jm.com/"
+        },
+        "lubrizol": {
+            "key": "lubrizol",
+            "names": [
+                "Lubrizol"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:16.904Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lubrizol",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Lubrizol_Logo_2017.png/250px-Lubrizol_Logo_2017.png",
+            "siteUrl": "http://www.lubrizol.com/"
+        },
+        "precision-castparts-corp": {
+            "key": "precision-castparts-corp",
+            "names": [
+                "Precision Castparts Corp"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:17.110Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Precision_Castparts_Corp",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Precision_Castparts_logo.svg/250px-Precision_Castparts_logo.svg.png",
+            "siteUrl": "http://www.precast.com/"
+        },
+        "scott-fetzer-company": {
+            "key": "scott-fetzer-company",
+            "names": [
+                "Scott Fetzer Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:17.604Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Scott_Fetzer_Company",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/48/ScottFetzerLogo.png/250px-ScottFetzerLogo.png",
+            "siteUrl": "https://scottfetzer.com/"
+        },
+        "ben-bridge-jeweler": {
+            "key": "ben-bridge-jeweler",
+            "names": [
+                "Ben Bridge Jeweler"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:18.011Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Bridge_Jeweler",
+            "siteUrl": "http://www.benbridge.com/"
+        },
+        "business-wire": {
+            "key": "business-wire",
+            "names": [
+                "Business Wire"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:18.516Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Business_Wire",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/BusinessWire_Logo.svg/250px-BusinessWire_Logo.svg.png",
+            "siteUrl": "http://businesswire.com/"
+        },
+        "dairy-queen": {
+            "key": "dairy-queen",
+            "names": [
+                "Dairy Queen"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:18.583Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Dairy_Queen",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Dairy_Queen_logo.svg/250px-Dairy_Queen_logo.svg.png",
+            "siteUrl": "http://dairyqueen.com/"
+        },
+        "homeservices-of-america": {
+            "key": "homeservices-of-america",
+            "names": [
+                "HomeServices of America"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:18.889Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/HomeServices_of_America",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/9/95/Logo_of_HomeServices_of_America.png/250px-Logo_of_HomeServices_of_America.png",
+            "siteUrl": "https://www.homeservices.com/"
+        },
+        "mclane-company": {
+            "key": "mclane-company",
+            "names": [
+                "McLane Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:19.319Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/McLane_Company",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2b/McLane_logo.gif",
+            "siteUrl": "http://www.mclaneco.com/"
+        },
+        "netjets": {
+            "key": "netjets",
+            "names": [
+                "NetJets"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:19.636Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/NetJets",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/NetJets_logo.svg/250px-NetJets_logo.svg.png",
+            "siteUrl": "https://www.netjets.com/"
+        },
+        "oriental-trading-company": {
+            "key": "oriental-trading-company",
+            "names": [
+                "Oriental Trading Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:19.796Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Oriental_Trading_Company",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Otc75Logo.gif",
+            "siteUrl": "http://orientaltrading.com/"
+        },
+        "pampered-chef": {
+            "key": "pampered-chef",
+            "names": [
+                "Pampered Chef"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:19.989Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pampered_Chef",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3d/Pamperedchief.png",
+            "siteUrl": "http://www.pamperedchef.com/"
+        },
+        "see's-candies": {
+            "key": "see's-candies",
+            "names": [
+                "See's Candies"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:20.179Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/See's_Candies",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/41/See%27s_Candies_logo.svg/250px-See%27s_Candies_logo.svg.png",
+            "siteUrl": "http://sees.com/"
+        },
+        "star-furniture": {
+            "key": "star-furniture",
+            "names": [
+                "Star Furniture"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:20.905Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Star_Furniture",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Star_furniture_texas_logo.png/250px-Star_furniture_texas_logo.png",
+            "siteUrl": "http://www.starfurniture.com/"
+        },
+        "wplg": {
+            "key": "wplg",
+            "names": [
+                "WPLG"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:21.472Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/WPLG",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg/250px-WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg.png",
+            "siteUrl": "https://www.local10.com/"
+        },
+        "pacificorp": {
+            "key": "pacificorp",
+            "names": [
+                "PacifiCorp"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 17,
+            "ownedBy": [
+                "berkshire-hathaway"
+            ],
+            "updatedAt": "2026-09-26T01:53:21.776Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/PacifiCorp",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/b/b1/PacifCorp_logo.svg/250px-PacifCorp_logo.svg.png",
+            "siteUrl": "https://www.pacificorp.com/"
         }
     }
 }
