@@ -394,15 +394,15 @@ export function SearchLinks({ state }) {
 }
 
 
-function SourceRow({ state, sourceKey, setSource, setSourceNote, setDragging, reorderSources, onChange }) {
+function SourceRow({ state, sourceKey, setSource, getSourceSummary, removeSource, setSourceNote, setDragging, reorderSources, onChange }) {
     const [draggable, setDraggable] = React.useState(false);
     const [focus, setFocus] = React.useState(null);
     const key = sourceKey;
 
     const gridTemplateColumns =
-        focus === "url" ? "1.5rem calc(80% - 1.5rem) calc(20% - 1.32rem) 1.32rem" :
-        (focus === "note" || state.sourceNotes[key]) ? "1.5rem calc(20% - 1.5rem) calc(80% - 1.32rem) 1.32rem" : 
-        "1.5rem calc(50% - 1.5rem) calc(50% - 1.32rem) 1.32rem";
+        focus === "url" ? "1.5rem calc(80% - 1.5rem) calc(20% - 4.5rem) 1.86rem 1.32rem 1.32rem" :
+        (focus === "note" || state.sourceNotes[key]) ? "1.5rem calc(20% - 1.5rem) calc(80% - 4.5rem) 1.86rem 1.32rem 1.32rem" : 
+        "1.5rem calc(50% - 1.5rem) calc(50% - 4.5rem) 1.86rem 1.32rem 1.32rem";
 
     return <Entry
         $valid={!!state.sources[key] && !!state.sourceNotes[key]}
@@ -424,13 +424,21 @@ function SourceRow({ state, sourceKey, setSource, setSourceNote, setDragging, re
             onFocus={() => setFocus("url")}
             onBlur={() => setFocus(null)} />
         <input
-            value={state.sourceNotes[key]}
+            value={state.sourceNotes[key] || ""}
             placeholder={`Summary of source [${key}]`}
             style={{ textOverflow: "ellipsis", minWidth: "5rem", borderRadius: "0 1rem 1rem 0", borderLeft: "1px solid #fff4" }}
             onChange={setSourceNote(key)}
             onDrop={e => e.preventDefault()}
             onFocus={e => setFocus("note") + e.target.select()}
             onBlur={() => setFocus(null)} />
+        <Icon i="refresh"
+            style={{ opacity: 0.32, justifySelf: "end", userSelect: "none", padding: "0.8rem 0 0.6rem", height: "100%", cursor: "pointer", transform: "scale(0.8)" }}
+            onClick={() => getSourceSummary(state.sources[key])}
+        />
+        <Icon i="x"
+            style={{ opacity: 0.32, justifySelf: "start", userSelect: "none", padding: "0.8rem 0 0.6rem", height: "100%", cursor: "pointer" }}
+            onClick={() => removeSource(state.sources[key])}
+        />
         <Icon i="grip"
             style={{ opacity: 0.32, justifySelf: "end", userSelect: "none", padding: "0.8rem 0 0.6rem 1rem", height: "100%" }}
             onPointerDown={setDraggable}
@@ -478,7 +486,7 @@ function GotSource({ gotSource, sourceSelected, addSource, removeSource, getSour
 
 
 const flattenGotSources = gotSources =>
-    Object.entries(gotSources).reduce( (res, [key, sources]) => [...res, ...sources.map(s => ({...s, key }))], [] );
+    Object.entries(gotSources).reduce( (res, [key, sources]) => [...res, ...(sources?.map?.(s => ({...s, key })) || [])], [] );
 
 
 export function Jsoner() {
@@ -849,6 +857,8 @@ export function Jsoner() {
                             <SourceRow
                                 key={key} sourceKey={key} state={state}
                                 setSource={setSource} setSourceNote={setSourceNote} setDragging={setDragging}
+                                removeSource={removeSource}
+                                getSourceSummary={getSourceSummary}
                                 reorderSources={reorderSources} onChange={(key == Object.keys(state.sources).length) ? addSource : null} />
                         )}
                     </>}
