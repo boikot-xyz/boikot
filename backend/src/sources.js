@@ -11,6 +11,5 @@ export async function getSources( companyName ) {
         scrapeEthicalOrg( companyName ),
     ]);
 
-    console.log(wikiPage.length);
     return { wikiPage, unethicalResults, scandalResults, ...violationResults, ethicalOrgResults };
 }
