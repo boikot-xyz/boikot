@@ -400,9 +400,9 @@ function SourceRow({ state, sourceKey, setSource, getSourceSummary, removeSource
     const key = sourceKey;
 
     const gridTemplateColumns =
-        focus === "url" ? "1.5rem calc(80% - 1.5rem) calc(20% - 4.5rem) 1.86rem 1.32rem 1.32rem" :
-        (focus === "note" || state.sourceNotes[key]) ? "1.5rem calc(20% - 1.5rem) calc(80% - 4.5rem) 1.86rem 1.32rem 1.32rem" : 
-        "1.5rem calc(50% - 1.5rem) calc(50% - 4.5rem) 1.86rem 1.32rem 1.32rem";
+        focus === "url" ? "1.5rem calc(80% - 1.5rem) calc(20% - 4.2rem) 1.86rem 1.32rem 1.02rem" :
+        (focus === "note" || state.sourceNotes[key]) ? "1.5rem calc(20% - 1.2rem) calc(80% - 4.5rem) 1.86rem 1.32rem 1.02rem" : 
+        "1.5rem calc(50% - 1.5rem) calc(50% - 4.2rem) 1.86rem 1.32rem 1.02rem";
 
     return <Entry
         $valid={!!state.sources[key] && !!state.sourceNotes[key]}
@@ -440,7 +440,7 @@ function SourceRow({ state, sourceKey, setSource, getSourceSummary, removeSource
             onClick={() => removeSource(state.sources[key])}
         />
         <Icon i="grip"
-            style={{ opacity: 0.32, justifySelf: "end", userSelect: "none", padding: "0.8rem 0 0.6rem 1rem", height: "100%" }}
+            style={{ opacity: 0.32, justifySelf: "end", userSelect: "none", padding: "0.8rem 0 0.6rem 0rem", height: "85%" }}
             onPointerDown={setDraggable}
             onPointerUp={e => setDraggable(false)}
             draggable="false"
@@ -524,10 +524,9 @@ export function Jsoner() {
         ));
 
     const addSource = url => {
-        const sources = [...Object.values(state.sources).filter(x => x), url || ""];
         setState( oldState => ({
             ...oldState,
-            sources: Object.fromEntries(sources.map((u,i) => [i+1, u])),
+            sources: Object.fromEntries([...Object.values(oldState.sources).filter(x => x), url || ""].map((u,i) => [i+1, u])),
         }) )
     }
  
