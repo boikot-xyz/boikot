@@ -12021,9 +12021,9 @@
                 "food",
                 "tech"
             ],
-            "score": null,
+            "score": 43,
             "ownedBy": [
-                "wonder"
+                "wonder-group"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Grubhub_2025_logo.svg",
             "siteUrl": "https://www.grubhub.com/",
@@ -38809,6 +38809,205 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/GameChanger",
             "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/c/c1/GameChanger_Logo.jpg/250px-GameChanger_Logo.jpg",
             "siteUrl": "https://en.wikipedia.org/wiki/Mobile_application"
+        },
+        "wonder-group": {
+            "key": "grubhub",
+            "names": [
+                "Wonder Group"
+            ],
+            "comment": "Wonder Group is an American food delivery company that has engaged in unlawful conduct towards drivers, customers, and restaurants [1], falsely advertised restaurant partnerships [2], and misled customers and drivers about costs and earnings [3]. It has also employed deceptive pricing and subscription practices [4], failed to pay minimum wage [5], and circumvented minimum wage law via subcontracting deliveries [6][7].",
+            "sources": {
+                "1": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-sends-more-238-million-drivers-diners-harmed-grubhubs-deceptive-advertising-claims-other",
+                "2": "https://www.reuters.com/legal/government/grubhub-agrees-pay-restaurants-7-million-false-advertising-case-2025-08-27/",
+                "3": "https://www.nbcnews.com/business/business-news/grubhub-settlement-25-million-charges-allegedly-misled-diners-drivers-rcna184582",
+                "4": "https://www.regulatoryoversight.com/2025/01/ftc-and-illinois-ag-settle-matter-against-grubhub-for-140m/",
+                "5": "https://nypost.com/2026/04/01/lifestyle/grubhub-exploited-legal-loophole-to-avoid-paying-minimum-wage/",
+                "6": "https://nyc.streetsblog.org/2026/03/31/maximum-rage-grubhub-outsourced-delivery-work-to-skirt-city-minimum-wage-docs-show",
+                "7": "https://www.law360.com/articles/2449460/grubhub-s-24-8m-deal-to-end-driver-fight-nears-initial-ok"
+            },
+            "sourceNotes": {
+                "1": "unlawful conduct towards drivers, customers, and restaurants",
+                "2": "falsely advertised restaurant partnerships",
+                "3": "misled customers and drivers about costs and earnings",
+                "4": "engaged in deceptive pricing and subscription practices",
+                "5": "failed to pay minimum wage",
+                "6": "circumvented minimum wage law via subcontracting deliveries",
+                "7": "circumvented minimum wage law via subcontracting deliveries"
+            },
+            "tags": [
+                "fast food"
+            ],
+            "score": 43,
+            "ownedBy": [],
+            "logoUrl": "https://s21.q4cdn.com/947563309/files/design/slider/wonder-logo-snap-pea.png",
+            "siteUrl": "https://about.wonder.com/overview/default.aspx",
+            "updatedAt": "2026-09-27T21:56:26.607Z"
+        },
+        "lindt": {
+            "key": "lindt",
+            "names": [
+                "Lindt",
+                "Chocoladefabriken Lindt & Sprüngli AG",
+                "LISN",
+                "LISP"
+            ],
+            "comment": "Lindt is a Swiss chocolate company that has been accused of committing environmental violations [1][2] and of using child labor in its cocoa supply chain [3][4]. The company has also misled consumers about child labor practices [5] and sold chocolate with lead and cadmium contamination [6][7][8].",
+            "sources": {
+                "1": "https://archive.epa.gov/epapages/newsroom_archive/newsreleases/593c4dbcbfac739785257a2400729d93.html",
+                "2": "https://archive.epa.gov/epapages/newsroom_archive/newsreleases/119f7457e0cf5c6085257911004b0b2f.html",
+                "3": "https://www.sustainalytics.com/esg-research/resource/investors-esg-blog/child-labor-in-cocoa-supply-chains--unveiling-the-layers-of-human-rights-challenges",
+                "4": "https://www.confectionerynews.com/Article/2024/01/17/Lindt-Spruengli-hit-with-child-labor-allegations-in-cocoa-supply-chain/",
+                "5": "https://www.reuters.com/sustainability/land-use-biodiversity/swiss-chocolate-maker-lindt-misleads-consumers-about-child-labor-us-lawsuit-2026-07-23/",
+                "6": "https://m.economictimes.com/news/international/global-trends/heavy-metals-found-in-expertly-crafted-lindt-chocolates-how-safe-is-your-favorite-treat/articleshow/115523807.cms",
+                "7": "https://fortune.com/europe/2024/11/12/lindt-us-lawsuit/",
+                "8": "https://thepalladiumgroup.com/news/Lindt-Lawsuit-is-a-Symptom-the-Chocolate-Industry-Real-Problem-is-Structural"
+            },
+            "sourceNotes": {
+                "1": "committed environmental violations",
+                "2": "committed environmental violations",
+                "3": "child labor in cocoa supply chain",
+                "4": "child labor in cocoa supply chain",
+                "5": "misleading consumers about child labor in cocoa supply chain",
+                "6": "sold chocolate with lead and cadmium contamination",
+                "7": "sold chocolate with lead and cadmium contamination",
+                "8": "sold chocolate with lead and cadmium contamination"
+            },
+            "tags": [
+                "confectionery"
+            ],
+            "score": 29,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/8/8e/Lindt_%26_Spr%C3%BCngli.svg/250px-Lindt_%26_Spr%C3%BCngli.svg.png",
+            "siteUrl": "https://www.lindt-spruengli.com/",
+            "updatedAt": "2026-09-29T09:53:55.057Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lindt"
+        },
+        "russell-stover": {
+            "key": "russell-stover",
+            "names": [
+                "Russell Stover"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "confectionery"
+            ],
+            "score": 29,
+            "ownedBy": [
+                "lindt"
+            ],
+            "updatedAt": "2026-09-29T15:21:34.851Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Russell_Stover_Candies",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Russell_Stover_Candies_logo.svg/250px-Russell_Stover_Candies_logo.svg.png",
+            "siteUrl": "http://www.russellstover.com/"
+        },
+        "caffarel": {
+            "key": "caffarel",
+            "names": [
+                "Caffarel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "confectionery"
+            ],
+            "score": 29,
+            "ownedBy": [
+                "lindt"
+            ],
+            "updatedAt": "2026-09-29T15:21:35.382Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Caffarel"
+        },
+        "itausa": {
+            "key": "itausa",
+            "names": [
+                "Itaúsa",
+                "Itausa",
+                "Itaúsa Investimentos Itaú S.A.",
+                "ITSA3",
+                "ITSA4"
+            ],
+            "comment": "Itaúsa is a Brazilian conglomerate involved in corruption [1] which has also faced anti-money laundering failures [2][3].",
+            "sources": {
+                "1": "https://www.sbs.com.au/news/article/havaianas-the-new-symbol-of-corruption-in-brazil/jkpsekrxn",
+                "2": "https://insightcrime.org/news/paraguay-money-laundering-impunity/",
+                "3": "https://www.moneylaunderingbulletin.com/legalandregulatory/cases/banco-itau-fined-us9.64m-in-paraguay-for-reporting-failures--1.htm"
+            },
+            "sourceNotes": {
+                "1": "involved in corruption",
+                "2": "anti-money laundering failure",
+                "3": "anti-money laundering failure"
+            },
+            "tags": [
+                "finance"
+            ],
+            "score": 44,
+            "ownedBy": [],
+            "logoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Logotipo_da_Ita%C3%BAsa_%282025%29.svg/250px-Logotipo_da_Ita%C3%BAsa_%282025%29.svg.png",
+            "siteUrl": "http://www.itausa.com.br/",
+            "updatedAt": "2026-09-30T07:05:45.274Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Itaúsa"
+        },
+        "duratex": {
+            "key": "duratex",
+            "names": [
+                "Duratex"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "itausa"
+            ],
+            "updatedAt": "2026-09-30T13:14:26.635Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Duratex_S.A.",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_da_Dexco.svg/250px-Logotipo_da_Dexco.svg.png",
+            "siteUrl": "http://www.dex.co/"
+        },
+        "alpargatas-s.a.": {
+            "key": "alpargatas-s.a.",
+            "names": [
+                "Alpargatas S.A."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "itausa"
+            ],
+            "updatedAt": "2026-09-30T13:14:26.694Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Alpargatas_S.A.",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Alpargatas-logo.svg/250px-Alpargatas-logo.svg.png",
+            "siteUrl": "https://alpargatas.com.br/"
+        },
+        "itau-unibanco": {
+            "key": "itau-unibanco",
+            "names": [
+                "Itaú Unibanco"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "finance"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "itausa"
+            ],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ita%C3%BA_Unibanco_logo_2023.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+            "siteUrl": "http://www.itau.com.br/",
+            "updatedAt": "2026-09-30T13:13:03.958Z"
         }
     }
 }
