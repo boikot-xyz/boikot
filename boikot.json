@@ -1,6 +1,27 @@
 {
     "_documentation": "This JSON file is a database of the ethical and unethical practices of different companies. Each item in the \"companies\" object represents a company ethics record. Each of these items has a \"names\" array containing names that can be used for the company, of which the first entry is the most commonly used name. They also have a \"comment\" string which is a comment on the ethics of the company, with sources denoted by numbers in square brackets eg. [1][2]. The URLs for these sources are in the \"sources\" object which is a mapping from the source numbers to URLs. Each company also has tags in the \"tags\" array, which are strings that describe the company. Finally each company has a \"logoUrl\" and \"siteUrl\" which are URLs for the company's logo image and website. There is an \"updatedAt\" timestamp on each item to track when it was last updated. https://boikot.xyz © boikot 2023-2025",
     "companies": {
+        "5": {
+            "key": "5",
+            "names": [
+                "5"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:06.779Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/5_(British_TV_channel)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Channel_5_2025.svg/120px-Channel_5_2025.svg.png",
+            "siteUrl": "http://www.channel5.com/"
+        },
         "barclays": {
             "names": [
                 "Barclays",
@@ -39008,6 +39029,431 @@
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ita%C3%BA_Unibanco_logo_2023.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
             "siteUrl": "http://www.itau.com.br/",
             "updatedAt": "2026-09-30T13:13:03.958Z"
+        },
+        "paramount": {
+            "key": "paramount",
+            "names": [
+                "Paramount",
+                "Paramount Skydance",
+                "Paramount Global",
+                "ViacomCBS",
+                "PARA",
+                "PSKY"
+            ],
+            "comment": "Paramount is an American media company that has engaged in monopolistic price fixing [1], failed to pay overtime [2], and has a record of sex [3] and age [4] discrimination against employees. The company has also been linked to unsafe working conditions that injured employees [5], executed a merger violating antitrust law [6], made illegal promises to secure regulatory approval [7], paid bribes to Trump for merger approval [8], and enabled the abuse of child actors [9][10][11].",
+            "sources": {
+                "1": "https://www.law360.com/articles/1732040/ad-buyers-want-final-ok-for-48m-deal-with-cbs-fox-cox",
+                "2": "https://www.law360.com/articles/1126032/cbs-gets-10m-ot-deal-with-parking-spot-guards-approved",
+                "3": "https://www.eeoc.gov/eeoc/newsroom/release/archive/10-25-00.html",
+                "4": "https://www.eeoc.gov/newsroom/cbs-broadcast-affiliate-texas-pay-215000-settle-eeoc-age-suit-female-reporter",
+                "5": "https://www.osha.gov/ords/imis/establishment.inspection_detail?id=126061597",
+                "6": "https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger",
+                "7": "https://www.latimes.com/entertainment-arts/business/story/2026-07-15/paramount-shareholder-lawsuit-accuses-ellisons-of-corruption",
+                "8": "https://variety.com/2025/tv/news/warren-paramount-skydance-trump-side-deal-investigation-1236476697/",
+                "9": "https://www.nytimes.com/2021/06/30/arts/dan-schneider-nickelodeon.html",
+                "10": "https://www.washingtonpost.com/arts-entertainment/2022/08/05/jennette-mccurdy-memoir-interview/",
+                "11": "https://variety.com/2022/tv/news/jennette-mccurdy-icarly-nickelodeon-hush-money-1235334535/"
+            },
+            "sourceNotes": {
+                "1": "engaged in monopolistic price fixing",
+                "2": "failed to pay overtime",
+                "3": "sex discrimination against employees",
+                "4": "age discrimination against employees",
+                "5": "employees injured in unsafe working conditions",
+                "6": "executed merger violating antitrust law",
+                "7": "made illegal promises to secure regulatory approval",
+                "8": "paid bribes to Trump for merger approval",
+                "9": "enabled abuse of child actors",
+                "10": "enabled abuse of child actors",
+                "11": "enabled abuse of child actors"
+            },
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/250px-Paramount_Global.svg.png",
+            "siteUrl": "https://www.paramount.com/",
+            "updatedAt": "2026-10-01T21:20:02.364Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Paramount_Global"
+        },
+        "bet": {
+            "key": "bet",
+            "names": [
+                "BET"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:07.123Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/BET",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/BET-2021Logo.svg/250px-BET-2021Logo.svg.png",
+            "siteUrl": "https://www.bet.com/"
+        },
+        "cbs": {
+            "key": "cbs",
+            "names": [
+                "CBS"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:07.243Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/CBS",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png",
+            "siteUrl": "https://www.cbs.com/"
+        },
+        "comedy-central": {
+            "key": "comedy-central",
+            "names": [
+                "Comedy Central"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:08.786Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Comedy_Central",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png",
+            "siteUrl": "https://cc.com/"
+        },
+        "mtv": {
+            "key": "mtv",
+            "names": [
+                "MTV"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:08.934Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/MTV",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png",
+            "siteUrl": "https://www.mtv.com/"
+        },
+        "network-10": {
+            "key": "network-10",
+            "names": [
+                "Network 10"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:09.202Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Network_10",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/9/91/Network_10_logo_2025.svg/250px-Network_10_logo_2025.svg.png",
+            "siteUrl": "http://10.com.au/"
+        },
+        "nickelodeon": {
+            "key": "nickelodeon",
+            "names": [
+                "Nickelodeon"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:09.546Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Nickelodeon",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",
+            "siteUrl": "http://nick.com/"
+        },
+        "nick-jr.": {
+            "key": "nick-jr.",
+            "names": [
+                "Nick Jr."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:09.802Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Nick_Jr._Channel",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Nick_Jr._logo_2023.svg/250px-Nick_Jr._logo_2023.svg.png",
+            "siteUrl": "https://web.archive.org/web/20240729053942/http://www.nickjr.com/"
+        },
+        "paramount+": {
+            "key": "paramount+",
+            "names": [
+                "Paramount+"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:10.360Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Paramount+",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/250px-Paramount_Plus.svg.png",
+            "siteUrl": "https://en.wikipedia.org/wiki/File:Paramount+_Website.png"
+        },
+        "paramount-network": {
+            "key": "paramount-network",
+            "names": [
+                "Paramount Network"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:10.741Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Paramount_Network",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Paramount_Network_2024.svg/250px-Paramount_Network_2024.svg.png",
+            "siteUrl": "https://www.paramountnetwork.com/"
+        },
+        "paramount-pictures": {
+            "key": "paramount-pictures",
+            "names": [
+                "Paramount Pictures"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:10.935Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Paramount_Pictures",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Paramount_Pictures_with_Skydance_byline.svg/250px-Paramount_Pictures_with_Skydance_byline.svg.png",
+            "siteUrl": "https://www.paramountpictures.com/"
+        },
+        "paramount-animation": {
+            "key": "paramount-animation",
+            "names": [
+                "Paramount Animation"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:11.279Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Paramount_Animation",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/8/8f/Paramount_Animation_2025.svg/250px-Paramount_Animation_2025.svg.png",
+            "siteUrl": "http://www.paramountanimation.com/"
+        },
+        "pluto-tv": {
+            "key": "pluto-tv",
+            "names": [
+                "Pluto TV"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:11.568Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pluto_TV",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Pluto_TV_logo_2024_black.svg/250px-Pluto_TV_logo_2024_black.svg.png",
+            "siteUrl": "https://en.wikipedia.org/wiki/Entertainment"
+        },
+        "pop": {
+            "key": "pop",
+            "names": [
+                "Pop"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:11.752Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pop_(American_TV_channel)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Pop_Network_Logo.svg/250px-Pop_Network_Logo.svg.png",
+            "siteUrl": "https://www.poptv.com/"
+        },
+        "showtime": {
+            "key": "showtime",
+            "names": [
+                "Showtime"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:12.363Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Showtime_(TV_network)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/250px-Showtime.svg.png"
+        },
+        "skydance-animation": {
+            "key": "skydance-animation",
+            "names": [
+                "Skydance Animation"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:12.699Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Skydance_Animation",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Skydance_Animation_Logo_2020.svg/250px-Skydance_Animation_Logo_2020.svg.png",
+            "siteUrl": "https://skydance.com/animation/"
+        },
+        "skydance-sports": {
+            "key": "skydance-sports",
+            "names": [
+                "Skydance Sports"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:13.557Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Skydance_Sports",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Skydance_Media_2020.svg/250px-Skydance_Media_2020.svg.png",
+            "siteUrl": "https://skydance.com/sports"
+        },
+        "smithsonian-channel": {
+            "key": "smithsonian-channel",
+            "names": [
+                "Smithsonian Channel"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:14.192Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Smithsonian_Channel",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/b/b6/Smithsonian_Channel_current_logo.png/330px-Smithsonian_Channel_current_logo.png",
+            "siteUrl": "https://www.smithsonianchannel.com/"
+        },
+        "tv-land": {
+            "key": "tv-land",
+            "names": [
+                "TV Land"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "entertainment",
+                "media"
+            ],
+            "score": 36,
+            "ownedBy": [
+                "paramount"
+            ],
+            "updatedAt": "2026-10-01T22:15:14.687Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/TV_Land",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/250px-TV_Land_2015_logo.svg.png",
+            "siteUrl": "https://www.tvland.com/"
         }
     }
 }
