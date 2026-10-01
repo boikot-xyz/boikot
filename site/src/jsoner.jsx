@@ -472,7 +472,7 @@ function GotSource({ gotSource, sourceSelected, addSource, removeSource, getSour
             <Row style={{ width: "100%", justifyItems: "space-between", gridTemplateColumns: "max-content auto max-content", marginBottom: "-0.2rem", alignItems: "start", gap: "0.5rem" }}>
                 <input type="checkbox" checked={sourceSelected} />
                 <p style={{ textOverflow: "ellipsis", whiteSpace: "nowrap", overflow: "hidden", opacity: "0.4"  }} onClick={e => e?.stopPropagation()}> <a href={gotSource.url} target="_blank" style={{
-                    fontSize: "0.8rem", color: "white"
+                    fontSize: "0.8rem", color: "var(--fg)"
                 }}>
                     https://{ gotSource.url.replace(/(https?:)?\/\//, "") }
                 </a></p>

@@ -70,7 +70,7 @@ function NewComment({ entry, setAddingComment }) {
 }
 
 function ExistingComment({ comment }) {
-    return <Card style={{ borderColor: "white", background: "#fff1" }}>
+    return <Card style={{ borderColor: "var(--fg)", background: "var(--fg-transparent)" }}>
         <Stack gap="0.4rem">
             <Row gap="0.5rem" style={{ alignItems: "end" }}>
                 <h3> { comment.username } </h3>

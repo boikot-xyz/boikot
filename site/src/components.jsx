@@ -258,7 +258,7 @@ export const Badge = styled.span`
     font-size: 0.85rem;
     font-weight: 600;
     padding: 0.3rem 0.6rem;
-    color: white;
+    color: var(--fg);
     ${ props => props.$inactive && css`
         background: transparent;
         border-color: grey;

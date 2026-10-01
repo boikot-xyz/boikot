@@ -377,7 +377,7 @@ export const CompanyHeader = React.memo(({ entry, link = false, loadLogo = true,
             </Row>
             { showComment &&
                 <p style={{
-                    color: 'white',
+                    color: 'var(--fg)',
                     whiteSpace: 'nowrap',
                     textOverflow: 'ellipsis',
                     overflow: 'hidden',
