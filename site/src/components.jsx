@@ -35,7 +35,6 @@ export const PillButton = styled.button`
     border-radius: 1.5rem;
     padding: 0.6rem 1.4rem;
     font-size: 0.85rem;
-    border: 0.05rem solid var(--fg);
     transition: background 0.12s, color 0.12s;
     white-space: pre-wrap;
     
@@ -46,9 +45,8 @@ export const PillButton = styled.button`
     ` }
 
     ${ props => props.$outline && css`
-        background: var(--bg);
+        background: var(--bg-light);
         color: var(--fg);
-        border: 0.05rem solid var(--fg);
     ` }
     ${ props => props.disabled && css`
         cursor: not-allowed;
@@ -87,7 +85,6 @@ export const FlexRow = styled.div`
 export const Card = styled(Stack)`
     padding: 1rem;
     border-radius: 1.5rem;
-    border: 0.05rem solid var(--accent);
     background: var(--accent-darker);
 `;
 
@@ -204,13 +201,13 @@ function Menu({ open, close }) {
                 </Link>
                 <IconButton i="x" onClick={close} alt="close menu" />
             </Row>
-            <MenuLink to="/"> 🏠  home </MenuLink>
-            <MenuLink to="/companies"> ⚖️  company ethics reports </MenuLink>
-            <MenuLink to="/companies/edit"> ➕  add a company </MenuLink>
-            <MenuLink to="/statement-score"> 🖨️  scan a document </MenuLink>
+            <span style={{ fontSize: "1.5rem" }}> 🏠  <MenuLink to="/"> home </MenuLink></span>
+            <span style={{ fontSize: "1.5rem" }}> ⚖️  <MenuLink to="/companies"> company ethics reports </MenuLink></span>
+            <span style={{ fontSize: "1.5rem" }}> ➕  <MenuLink to="/companies/edit"> add a company </MenuLink></span>
+            <span style={{ fontSize: "1.5rem" }}> 🖨️  <MenuLink to="/statement-score"> scan a document </MenuLink></span>
             {/* <MenuLink to="/search"> 🔎  search </MenuLink> */}
             {/* <MenuLink to="/blog"> blog </MenuLink> */}
-            <MenuLink to="/contact-us"> 📬  contact us </MenuLink>
+            <span style={{ fontSize: "1.5rem" }}> 📬  <MenuLink to="/contact-us"> contact us </MenuLink></span>
             <h3 style={{ marginTop: "1.5rem" }}>
                 boikot makes company ethics data transparent and accessible.
             </h3>
@@ -254,14 +251,12 @@ export const VersionNumber = () =>
 export const Badge = styled.span`
     background: var(--accent-dark);
     border-radius: 1.2rem;
-    border: 0.05rem solid var(--accent);
     font-size: 0.85rem;
     font-weight: 600;
     padding: 0.3rem 0.6rem;
     color: var(--fg);
     ${ props => props.$inactive && css`
         background: transparent;
-        border-color: grey;
     ` }
 `;
 
@@ -345,6 +340,7 @@ export const isEmail = email => email.match( /.+@.+\..+/ );
 
 function MailingList() {
     const [ email, setEmail ] = React.useState("");
+    const borderColour = !!email.length && !isEmail(email) ? "red" : "var(--bg)";
     return <form name="mailing-list" method="post">
         <input type="hidden" name="form-name" value="mailing-list" />
         <Stack>
@@ -355,8 +351,8 @@ function MailingList() {
             }}>
                 <input type="email" name="email"
                     placeholder="enter your email" value={ email }
-                    style={{ borderColor:
-                        !!email.length && !isEmail(email) && "red",
+                    style={{
+                        border: `1px solid ${borderColour}`,
                         minWidth: 0
                     }}
                     onChange={ e => setEmail(e.target.value) }/>
@@ -370,7 +366,7 @@ function MailingList() {
 
 export function Footer() {
     React.useLayoutEffect( () => { window.renderCallback?.(); }, [] );
-    const footerLinkStyle = { fontSize: "1rem", textDecoration: "underline", whiteSpace: "unset" };
+    const footerLinkStyle = { fontSize: "1rem", whiteSpace: "unset", textDecoration: "revert" };
     return <Stack style={{ marginTop: "3rem", fontSize: "0.9rem" }}>
         <hr />
         <Stack>

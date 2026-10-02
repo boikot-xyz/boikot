@@ -25,7 +25,7 @@ export function Home() {
                 and data are offered free to the public under the terms of
                 the GPL v3 licence. </p>
             <Link to="/companies"
-                style={{ textDecoration: "none", border: "0.05rem solid var(--fg)",
+                style={{ textDecoration: "none",
                     borderRadius: "0.5rem", padding: "0.6rem",
                     background: "var(--bg-light)", color: "var(--fg)" }}>
                 <p style={{ opacity: 0.5, whiteSpace: 'pre-wrap' }}>

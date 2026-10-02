@@ -11,7 +11,7 @@ import boikot from "../../boikot.json";
 
 
 const scoreColor = x =>
-    !x ? "#fffb" : `hsl(${x}deg 100% 60%)`;
+    !x ? "var(--fg-half)" : `hsl(${x}deg 100% 60%)`;
 
 const ownerName = ownerKey =>
     boikot.companies[ownerKey]?.names[0] || ownerKey;
@@ -62,24 +62,24 @@ function Archives({ url }) {
     const originalUrl = getOriginalUrl(url);
     return <PillPopper $outline $small buttonContent="🗄️ archives">
         <div style={{
-            position: "absolute", top: "1.9rem", right: 0, background: "var(--bg)", zIndex: 1,
-            border: "0.05rem solid var(--fg)", borderRadius: "0.5rem", padding: "0.9rem 1.5rem 0.9rem 1rem",
+            position: "absolute", top: "1.9rem", right: 0, background: "var(--bg-light)", zIndex: 1,
+            borderRadius: "0.5rem", padding: "0.9rem 1.5rem 0.9rem 1rem", border: "0.1rem solid var(--bg)",
             width: "12.5rem", display: "grid", gap: "0.4rem", fontSize: "0.9rem"
         }}>
 
             <div style={{
                 position: "absolute", top: "-0.25rem", right: "2.25rem", transform: "rotate(45deg)",
-                background: "var(--bg)", width: "0.5rem", height: "0.5rem", border: "0.05rem solid var(--fg)"
+                background: "var(--bg-light)", width: "0.5rem", height: "0.5rem"
             }}></div>
             <p style={{ fontSize: "0.8rem" }}> Check archive sites for this link, in case the original has changed or is removed: </p>
-            <p><a title="🗄️ view on archive.org" target="_blank" href={ `https://web.archive.org/web/20250000000000*/${originalUrl}` }>
-                🗄️ archive.org
+            <p>🗄️ <a title="🗄️ view on archive.org" target="_blank" href={ `https://web.archive.org/web/20250000000000*/${originalUrl}` }>
+                archive.org
             </a></p>
-            <p><a title="🗃️ view on archive.ph" target="_blank" href={ `https://archive.ph/${originalUrl}` }>
-                🗃️ archive.ph
+            <p>🗃️ <a title="🗃️ view on archive.ph" target="_blank" href={ `https://archive.ph/${originalUrl}` }>
+                archive.ph
             </a></p>
-            <p><a title="👻 view on ghostarchive.org" target="_blank" href={ `https://ghostarchive.org/search?term=${encodeURIComponent(originalUrl)}` }>
-                👻 ghostarchive.org
+            <p>👻 <a title="👻 view on ghostarchive.org" target="_blank" href={ `https://ghostarchive.org/search?term=${encodeURIComponent(originalUrl)}` }>
+                ghostarchive.org
             </a></p>
         </div>
     </PillPopper>
@@ -135,7 +135,7 @@ function Owners({ entry }) {
 }
 
 function ScrollForMore({ style }) {
-    return <Row style={{ gap: "0.5rem", justifyItems: "center", position: "absolute", bottom: "0.5rem", right: "0.5rem", padding: "0.5rem 1rem", pointerEvents: "none", borderRadius: "1rem", zIndex: 100, background: "#0004", ...style }}>
+    return <Row style={{ gap: "0.5rem", justifyItems: "center", position: "absolute", bottom: "0.5rem", right: "0.5rem", padding: "0.5rem 1rem", pointerEvents: "none", borderRadius: "1rem", zIndex: 100, ...style }}>
         <Icon i="arrow-down" height="1rem" />
         <p> Scroll for more </p> 
     </Row>
@@ -178,7 +178,7 @@ function Subsidiaries({ entry }) {
         other => other.ownedBy.includes( getKey(entry) ) );
     if( !subsidiaries.length ) return null;
     const pluralText = subsidiaries.length <= 1 ? `this company` : `these ${subsidiaries.length} companies`;
-    return <Card style={{ marginTop: "0.8rem", padding: "1.4rem", paddingBottom: 0, background: "#0b0620", borderColor: "#a6f", position: "relative" }} gap=".75rem">
+    return <Card style={{ marginTop: "0.8rem", padding: "1.4rem", paddingBottom: 0, background: "#0b0a2a", position: "relative" }} gap=".75rem">
         <h3 style={{ fontSize: "1.5rem" }}> Companies owned by { entry.names[0] } </h3>
         <p> {entry.names[0]} is the parent of {pluralText}: </p>
         <Stack style={{
@@ -186,7 +186,7 @@ function Subsidiaries({ entry }) {
         }} onScroll={showScroll ? (() => setShowScroll(false)) : undefined}>
             { subsidiaries.map( entry =>
                 <CompanyHeader link entry={entry} key={entry.names[0]} /> ) }
-            { subsidiaries.length > 4 && showScroll && <ScrollForMore style={{ background: "#0b062088" }} />}
+            { subsidiaries.length > 4 && showScroll && <ScrollForMore />}
         </Stack>
     </Card>;
 }
@@ -413,7 +413,7 @@ function SearchBar({ value, setValue }) {
     </div>;
 }
 
-const disabledSelectStyle = { minWidth: 0, color: "#fff6" };
+const disabledSelectStyle = { minWidth: 0, color: "var(--fg-half)" };
 const enabledSelectStyle = {
     minWidth: 0,
     color: "var(--fg)",
@@ -429,7 +429,6 @@ function SelectCancelButton({ onClick }) {
         display: "grid",
         placeItems: "center",
         height: "100%",
-        border: "0.05rem solid var(--fg)",
         borderLeft: 0,
         borderRadius: "0 .5rem .5rem 0",
     }}>

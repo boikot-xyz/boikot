@@ -46,7 +46,7 @@ function NewComment({ entry, setAddingComment }) {
             <input type="hidden" name="form-name" value="new-comment" />
             <input type="hidden" name="createdAt" value={ createdAt } />
             <input type="hidden" name="companyKey" value={ getKey(entry) } />
-            <Row style={{ width: "100%", justifySelf: "stretch", gridTemplateColumns: "max-content 1fr", gap: "0.5rem", background: "#fff1", paddingLeft: "0.75rem", borderRadius: "0.5rem" }}>
+            <Row style={{ width: "100%", justifySelf: "stretch", gridTemplateColumns: "max-content 1fr", gap: "0.5rem", background: "var(--fg-transparent)", paddingLeft: "0.75rem", borderRadius: "0.5rem" }}>
                 <p style={{ opacity: 0.5 }}> Username: </p>
                 <input
                     autoFocus name="username" placeholder="Enter your name"
@@ -56,7 +56,7 @@ function NewComment({ entry, setAddingComment }) {
             <textarea
                 name="commentText" placeholder="Enter your comment"
                     value={commentText} onChange={e => setCommentText(e.target.value)}
-                style={{ border: "none", height: "6rem", background: "#fff1", fontWeight: 200 }} />
+                style={{ border: "none", height: "6rem", background: "var(--fg-transparent)", fontWeight: 200 }} />
             <p style={{ fontSize: "0.8rem", textAlign: "justify" }}>
                 ℹ️  Only the username and comment text you provide above will be stored!
                 By clicking submit, you agree to let boikot store the provided username

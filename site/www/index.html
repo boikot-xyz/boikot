@@ -50,9 +50,10 @@
 
 :root {
     --bg: #000711;
-    --bg-light: #112;
+    --bg-light: #223;
     --bg-transparent: #00071199;
     --fg: white;
+    --fg-half: #fff6;
     --fg-transparent: #fff1;
     --accent: #4ab;
     --accent-dark: #055;
@@ -98,7 +99,7 @@ input, textarea, select {
     background: var(--bg-light);
     color: var(--fg);
     padding: 0.6rem;
-    border: 0.05rem solid var(--fg);
+    border: none;
     border-radius: 0.5rem;
     font-family: 'Sora', sans-serif;
     font-size: 1rem;
@@ -140,7 +141,7 @@ a {
     </head>
     <body>
         <div id="react-entrypoint">
-            <div style="width: 100vw; height: 100vh; display: grid; place-items: center; background: #000711">
+            <div style="width: 100vw; height: 100vh; display: grid; place-items: center; background: var(--bg)">
                 <h2 style="color: white"> boikot 🙅‍♀️ </h2>
             </div>
         </div>

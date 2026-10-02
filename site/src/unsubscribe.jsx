@@ -6,6 +6,7 @@ import { Page, Row, Stack, PillButton, isEmail } from "./components.jsx";
 
 export function Unsubscribe() {
     const [ email, setEmail ] = React.useState("");
+    const borderColour = !!email.length && !isEmail(email) ? "red" : "var(--bg)";
 
     return <Page>
         <Helmet>
@@ -15,7 +16,7 @@ export function Unsubscribe() {
         <Stack>
             <h1> Unsubscribe </h1>
             <p> Enter your email below to unsubscribe
-                from our mailing list. We're sad to lose you
+                from our mailing list. <br/> We're sad to lose you
                 from our community!!
             </p>
             <form name="unsubscribe" method="post">
@@ -29,8 +30,7 @@ export function Unsubscribe() {
                         placeholder="enter your email"
                         value={ email }
                         style={{ 
-                            borderColor: !!email.length
-                                && !isEmail(email) && "red",
+                            border: `1px solid ${borderColour}`,
                             minWidth: 0
                         }}
                         onChange={ e =>
