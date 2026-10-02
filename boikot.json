@@ -39454,6 +39454,303 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/TV_Land",
             "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/250px-TV_Land_2015_logo.svg.png",
             "siteUrl": "https://www.tvland.com/"
+        },
+        "groupe-seb": {
+            "key": "groupe-seb",
+            "names": [
+                "Groupe SEB",
+                "SEB S.A.",
+                "SEB",
+                "SK"
+            ],
+            "comment": "Groupe SEB is a French company that has engaged in tax avoidance [1], price fixing of household appliances [2][3], monopolistic restriction of competition [4], and suppression of competitors through legal action [5]. It has sold unsafe products and cookware [6][7][8], released toxic and forever chemicals into products [9][10], polluted local water supplies [11], illegally avoided recycling waste [12], and continued business in Russia after pledging to exit [13].",
+            "sources": {
+                "1": "https://www.nytimes.com/2019/09/24/nyregion/nj-tax-break.html",
+                "2": "https://www.reuters.com/business/retail-consumer/france-fines-12-household-appliance-firms-635-million-price-fixing-2024-12-19/",
+                "3": "https://www.autoritedelaconcurrence.fr/en/press-release/autorite-imposes-fines-eu611-million-10-manufacturers-and-2-distributors-household",
+                "4": "https://uohs.gov.cz/cs/informacni-centrum/tiskove-zpravy/hospodarska-soutez/3849-urad-ulozil-pokutu-72-milionu-korun-distributorovi-vyrobku-moulinex-rowenta-krups-ci-tefal.html",
+                "5": "https://www.inc.com/amaya-nichole/caraway-was-just-sued-by-its-competitors-here-is-how-its-ceo-responded/91350828",
+                "6": "https://web.archive.org/web/20161221021543/https://www.cpsc.gov/PageFiles/94304/seb.pdf",
+                "7": "https://www.classaction.org/media/mears-v-all-clad-metalcrafters-llc-et-al.pdf",
+                "8": "https://www.petersandpeters.com/case/seb-group-and-its-subsidiary-tefal-faced-with-complaint-for-misleading-commercial-practices/",
+                "9": "https://oag.ca.gov/system/files/prop65/settlements/2020-00526S8903.pdf",
+                "10": "https://www.novethic.fr/economie-et-social/business-model-en-transition/scandale-pfas-seb-tefal-risque-reputationnel",
+                "11": "https://www.lemonde.fr/en/les-decodeurs/article/2023/02/24/rumilly-france-the-world-capital-of-the-frying-pan-and-a-forever-chemical-hotspot_6017093_8.html?srsltid=AU7gw4WaXj9uqfRhH-p_1-CVPD2_BZpGFqoOXLPzSCkEQaaVkxBseH_2",
+                "12": "https://web.archive.org/web/20210608153410/https://www.360environmental.co.uk/documents/Enforcement%20Undertakings%20accepted%20by%20the%20Environment%20Agency%20160620%20-%20GOV.UK.pdf",
+                "13": "https://leave-russia.org/groupe-seb"
+            },
+            "sourceNotes": {
+                "1": "engaged in tax avoidance",
+                "2": "price fixing of household appliances",
+                "3": "practiced vertical price fixing to keep appliance prices high",
+                "4": "monopolistic restriction of competition",
+                "5": "supressed competitors through legal action",
+                "6": "sold unsafe products",
+                "7": "sold unsafe cookware",
+                "8": "sold unsafe cookware",
+                "9": "sold products containing toxic chemicals",
+                "10": "sold products containing forever checmicals",
+                "11": "polluted local water supplies",
+                "12": "illegally avoided recycling waste",
+                "13": "continued business in Russia after pledging to exit"
+            },
+            "tags": [
+                "appliances",
+                "home"
+            ],
+            "score": 30,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/4/41/Groupe_SEB_logo.svg/120px-Groupe_SEB_logo.svg.png",
+            "siteUrl": "http://www.groupeseb.com/en",
+            "updatedAt": "2026-10-02T07:44:11.625Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Groupe_SEB"
+        },
+        "all-clad": {
+            "key": "all-clad",
+            "names": [
+                "All-Clad"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "appliances",
+                "home"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "groupe-seb"
+            ],
+            "updatedAt": "2026-10-02T08:28:15.356Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/All-Clad",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/9/99/All-Clad_logo.jpg/250px-All-Clad_logo.jpg",
+            "siteUrl": "http://www.all-clad.com/"
+        },
+        "emsa": {
+            "key": "emsa",
+            "names": [
+                "Emsa"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "appliances",
+                "home"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "groupe-seb"
+            ],
+            "updatedAt": "2026-10-02T08:28:16.070Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Emsa_(company)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/70/EMSA-logo.svg/250px-EMSA-logo.svg.png",
+            "siteUrl": "https://www.emsa.com/"
+        },
+        "krampouz": {
+            "key": "krampouz",
+            "names": [
+                "Krampouz"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "appliances",
+                "home"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "groupe-seb"
+            ],
+            "updatedAt": "2026-10-02T08:28:16.328Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Krampouz",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_Krampouz.jpg/250px-Logo_Krampouz.jpg"
+        },
+        "lagostina": {
+            "key": "lagostina",
+            "names": [
+                "Lagostina"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "appliances",
+                "home"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "groupe-seb"
+            ],
+            "updatedAt": "2026-10-02T08:28:16.994Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lagostina",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Lagostina_19561971.png/250px-Lagostina_19561971.png",
+            "siteUrl": "http://www.lagostina.com/"
+        },
+        "mirro": {
+            "key": "mirro",
+            "names": [
+                "Mirro"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "appliances",
+                "home"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "groupe-seb"
+            ],
+            "updatedAt": "2026-10-02T08:28:17.048Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mirro_Aluminum_Company",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/f/fc/Mirro_Brand_Logo.png/250px-Mirro_Brand_Logo.png"
+        },
+        "moulinex": {
+            "key": "moulinex",
+            "names": [
+                "Moulinex"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "appliances",
+                "home"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "groupe-seb"
+            ],
+            "updatedAt": "2026-10-02T08:28:17.882Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Moulinex",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Moulinex_Logo.svg/250px-Moulinex_Logo.svg.png",
+            "siteUrl": "https://www.moulinex.com/"
+        },
+        "obh-nordica": {
+            "key": "obh-nordica",
+            "names": [
+                "OBH Nordica"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "appliances",
+                "home"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "groupe-seb"
+            ],
+            "updatedAt": "2026-10-02T08:28:18.382Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/OBH_Nordica",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/OBH_Nordica_Logo.png"
+        },
+        "rowenta": {
+            "key": "rowenta",
+            "names": [
+                "Rowenta"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "appliances",
+                "home"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "groupe-seb"
+            ],
+            "updatedAt": "2026-10-02T08:28:18.823Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Rowenta",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Logo_Rowenta_%2B_techline.svg/250px-Logo_Rowenta_%2B_techline.svg.png",
+            "siteUrl": "http://rowenta.com/"
+        },
+        "schaerer": {
+            "key": "schaerer",
+            "names": [
+                "Schaerer"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "appliances",
+                "home"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "groupe-seb"
+            ],
+            "updatedAt": "2026-10-02T08:28:18.889Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Schaerer_Ltd",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/3/39/Schaerer_logo.svg/250px-Schaerer_logo.svg.png",
+            "siteUrl": "https://schaerer.com/"
+        },
+        "supor": {
+            "key": "supor",
+            "names": [
+                "Supor"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "appliances",
+                "home"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "groupe-seb"
+            ],
+            "updatedAt": "2026-10-02T08:28:19.237Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Supor",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Supor_logo_2.png/250px-Supor_logo_2.png",
+            "siteUrl": "https://www.supor.com/"
+        },
+        "wearever": {
+            "key": "wearever",
+            "names": [
+                "WearEver"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "appliances",
+                "home"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "groupe-seb"
+            ],
+            "updatedAt": "2026-10-02T08:28:19.905Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/WearEver_Cookware"
+        },
+        "wmf-group": {
+            "key": "wmf-group",
+            "names": [
+                "WMF Group"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "appliances",
+                "home"
+            ],
+            "score": 30,
+            "ownedBy": [
+                "groupe-seb"
+            ],
+            "updatedAt": "2026-10-02T08:28:20.431Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/WMF_Group",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/6/69/WMF-Logo.svg/250px-WMF-Logo.svg.png",
+            "siteUrl": "https://www.wmf.com/"
         }
     }
 }
