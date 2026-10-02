@@ -906,10 +906,11 @@ export function Jsoner() {
                     </Entry>
                     { actionButtons }
                     { !!state?.names?.length && <>
-                        <h2> Preview: </h2>
-                        <div style={{ border: "0.05rem solid var(--fg)", borderRadius: "2rem", background: "var(--fg-transparent)", padding: "2rem" }}>
-                            <Company entry={state} />
-                        </div>
+                        <Row style={{ width: "100%", gridTemplateColumns: "max-content 1fr" }}>
+                            <h2> Preview </h2>
+                            <hr />
+                        </Row>
+                        <Company entry={state} />
                     </> }
                     { toastMessage && <Toast> { toastMessage } </Toast> }
                 </Stack>
@@ -1104,14 +1105,15 @@ function Brander() {
                 value={brandsData} />
         </Entry>
         { !!Object.keys(safeJSONParse(brandsData)).length && <>
-            <h2> Preview: </h2>
-            <div style={{ border: "0.05rem solid var(--fg)", borderRadius: "2rem", background: "var(--fg-transparent)", padding: "2rem" }}>
-                <Stack>
-                    { Object.values(safeJSONParse(brandsData)).map( entry => 
-                        <CompanyHeader entry={entry} link={false} key={entry.key} showComment />
-                    ) }
-                </Stack>
-            </div>
+            <Row style={{ width: "100%", gridTemplateColumns: "max-content 1fr", marginTop: "1.5rem", marginBottom: "0.5rem" }}>
+                <h2> Preview </h2>
+                <hr />
+            </Row>
+            <Stack>
+                { Object.values(safeJSONParse(brandsData)).map( entry => 
+                    <CompanyHeader entry={entry} link={false} key={entry.key} showComment />
+                ) }
+            </Stack>
         </> }
         { toastMessage && <Toast> { toastMessage } </Toast> }
     </Stack>;

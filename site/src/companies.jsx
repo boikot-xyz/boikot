@@ -413,13 +413,17 @@ function SearchBar({ value, setValue }) {
     </div>;
 }
 
-const disabledSelectStyle = { minWidth: 0, color: "var(--fg-half)" };
+const disabledSelectStyle = {
+    minWidth: 0,
+    color: "var(--fg-half)",
+    borderRight: "0.32rem solid var(--bg-light)"
+};
 const enabledSelectStyle = {
     minWidth: 0,
     color: "var(--fg)",
     borderRight: "none",
     borderRadius: ".5rem 0 0 .5rem",
-    paddingRight: 0,
+    paddingRight: "1.5rem",
 };
 
 function SelectCancelButton({ onClick }) {
@@ -457,7 +461,7 @@ const sortOptions = {
     "sort by score descending":
         (a, b) => b.score - a.score,
     "sort by industry":
-        (a, b) => a.tags[0].localeCompare(b.tags[0]),
+        (a, b) => (a.tags[0] || "").localeCompare(b.tags[0] || ""),
     "sort by recently added":
         (a, b) => new Date(b.updatedAt) - new Date(a.updatedAt),
 };

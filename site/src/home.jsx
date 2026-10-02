@@ -26,7 +26,7 @@ export function Home() {
                 the GPL v3 licence. </p>
             <Link to="/companies"
                 style={{ textDecoration: "none",
-                    borderRadius: "0.5rem", padding: "0.6rem",
+                    borderRadius: "0.5rem", padding: "0.8rem 1.2rem",
                     background: "var(--bg-light)", color: "var(--fg)" }}>
                 <p style={{ opacity: 0.5, whiteSpace: 'pre-wrap' }}>
                     🔎  search companies
