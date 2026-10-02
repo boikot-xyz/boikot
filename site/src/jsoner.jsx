@@ -426,7 +426,7 @@ function SourceRow({ state, sourceKey, setSource, getSourceSummary, removeSource
         <input
             value={state.sourceNotes[key] || ""}
             placeholder={`Summary of source [${key}]`}
-            style={{ textOverflow: "ellipsis", minWidth: "5rem", borderRadius: "0 1rem 1rem 0", borderLeft: "1px solid #fff4" }}
+            style={{ textOverflow: "ellipsis", minWidth: "5rem", borderRadius: "0 1rem 1rem 0", borderLeft: "1px solid var(--bg)" }}
             onChange={setSourceNote(key)}
             onDrop={e => e.preventDefault()}
             onFocus={e => setFocus("note") + e.target.select()}
