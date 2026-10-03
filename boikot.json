@@ -39751,6 +39751,44 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/WMF_Group",
             "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/6/69/WMF-Logo.svg/250px-WMF-Logo.svg.png",
             "siteUrl": "https://www.wmf.com/"
+        },
+        "jingdong-group": {
+            "key": "jingdong-group",
+            "names": [
+                "Jingdong Group",
+                "JD.com, Inc.",
+                "京东集团",
+                "Jīngdōng Jítuán",
+                "360buy",
+                "京东",
+                "360Buy",
+                "JD"
+            ],
+            "comment": "Jingdong Group is a Chinese e-commerce company that failed to prevent a breach of sensitive customer data [1], engaged in corruption [2], and continues operations in Russia [3]. The founder has been accused of raping a young woman, a claim cited in two separate reports [4][5].",
+            "sources": {
+                "1": "https://dailysecurityreview.com/security-spotlight/jd-com-data-breach-babuk-ransomware-cartel-claims-massive-data-theft/",
+                "2": "https://english.visitbeijing.com.cn/article/47ONg3z2TcF",
+                "3": "https://leave-russia.org/jd-com",
+                "4": "https://www.cnbc.com/2022/10/02/jdcom-founder-and-billionaire-liu-settles-us-rape-civil-suit.html",
+                "5": "https://www.bbc.co.uk/news/world-asia-china-63070735"
+            },
+            "sourceNotes": {
+                "1": "failed to prevent breach of sensitive customer data",
+                "2": "engaged in corruption",
+                "3": "continuing operations in russia",
+                "4": "founder raped a young woman",
+                "5": "founder raped a young woman"
+            },
+            "tags": [
+                "technology",
+                "electronics"
+            ],
+            "score": 24,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/JD.com_logo.png",
+            "siteUrl": "https://corporate.jd.com/",
+            "updatedAt": "2026-10-03T13:41:19.118Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/JD.com"
         }
     }
 }
