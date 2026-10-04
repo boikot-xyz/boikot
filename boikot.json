@@ -39789,6 +39789,232 @@
             "siteUrl": "https://corporate.jd.com/",
             "updatedAt": "2026-10-03T13:41:19.118Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/JD.com"
+        },
+        "darden-restaurants": {
+            "key": "darden-restaurants",
+            "names": [
+                "Darden Restaurants",
+                "Darden Restaurants, Inc.",
+                "Darden",
+                "DRI"
+            ],
+            "comment": "Darden Restaurants is an American restaurant conglomerate that has faced multiple ethical concerns. The company has been accused of underpaying staff [1][2], firing an employee who received a large tip and refusing to pay her [3], discriminating against employees on the basis of race [4][5][6] and age in hiring [7], and maintaining unsafe restaurant decor that has caused customer injuries [8].",
+            "sources": {
+                "1": "https://www.sec.gov/Archives/edgar/data/940944/000119312507068488/d10q.htm#tx46295_12",
+                "2": "https://ecf.nysd.uscourts.gov/cgi-bin/DktRpt.pl?387941",
+                "3": "https://creators.yahoo.com/lifestyle/story/an-olive-garden-server-was-fired-after-a-700-tiphere-is-what-the-restaurant-got-wrong-103802074.html",
+                "4": "https://www.eandblaw.com/one-fair-wage-says-darden-restaurants-tips-policy-caused-racial-and-gender-discrimination/",
+                "5": "https://www.cnbc.com/2021/04/15/lawsuit-alleges-dardens-tipping-policy-causes-discrimination-harassment.html",
+                "6": "https://www.eeoc.gov/eeoc/newsroom/release/12-14-09a.cfm",
+                "7": "https://www.eeoc.gov/eeoc/newsroom/release/5-3-18a.cfm",
+                "8": "https://www.independent.co.uk/news/world/americas/longhorn-steakhouse-taxidermy-antlers-severe-injuries-b2926070.html"
+            },
+            "sourceNotes": {
+                "1": "underpaid staff",
+                "2": "underpaid staff",
+                "3": "fired employee who received a large tip, refusing to pay her",
+                "4": "racial discrimination against employees",
+                "5": "racial discrimination against employees",
+                "6": "racial discrimination against employees",
+                "7": "age discrimination in hiring",
+                "8": "unsafe restarant decor safety causing injuries to customers"
+            },
+            "tags": [
+                "restaurant"
+            ],
+            "score": 32,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/4/4c/Darden_logo.svg/250px-Darden_logo.svg.png",
+            "siteUrl": "http://darden.com/",
+            "updatedAt": "2026-10-04T07:13:54.676Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Darden_Restaurants"
+        },
+        "longhorn-steakhouse": {
+            "key": "longhorn-steakhouse",
+            "names": [
+                "LongHorn Steakhouse"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurant",
+                "food"
+            ],
+            "score": "32",
+            "ownedBy": [
+                "darden-restaurants"
+            ],
+            "updatedAt": "2026-10-04T08:15:10.357Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/LongHorn_Steakhouse",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/7/7f/LongHornSteakhouseLogo.PNG/250px-LongHornSteakhouseLogo.PNG",
+            "siteUrl": "https://www.longhornsteakhouse.com/"
+        },
+        "cheddar's-scratch-kitchen": {
+            "key": "cheddar's-scratch-kitchen",
+            "names": [
+                "Cheddar's Scratch Kitchen"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurant",
+                "food"
+            ],
+            "score": "32",
+            "ownedBy": [
+                "darden-restaurants"
+            ],
+            "updatedAt": "2026-10-04T08:15:10.429Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cheddar's_Scratch_Kitchen",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Cheddar%27s_Scratch_Kitchen_logo.png/250px-Cheddar%27s_Scratch_Kitchen_logo.png",
+            "siteUrl": "https://cheddars.com/"
+        },
+        "yard-house": {
+            "key": "yard-house",
+            "names": [
+                "Yard House"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurant",
+                "food"
+            ],
+            "score": "32",
+            "ownedBy": [
+                "darden-restaurants"
+            ],
+            "updatedAt": "2026-10-04T08:15:10.598Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Yard_House",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Yard_House_logo.svg/250px-Yard_House_logo.svg.png",
+            "siteUrl": "https://www.yardhouse.com/"
+        },
+        "the-capital-grille": {
+            "key": "the-capital-grille",
+            "names": [
+                "The Capital Grille"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurant",
+                "food"
+            ],
+            "score": "32",
+            "ownedBy": [
+                "darden-restaurants"
+            ],
+            "updatedAt": "2026-10-04T08:15:10.979Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Capital_Grille",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Capital_Grille.svg/250px-Capital_Grille.svg.png",
+            "siteUrl": "http://www.thecapitalgrille.com/"
+        },
+        "seasons-52": {
+            "key": "seasons-52",
+            "names": [
+                "Seasons 52"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurant",
+                "food"
+            ],
+            "score": "32",
+            "ownedBy": [
+                "darden-restaurants"
+            ],
+            "updatedAt": "2026-10-04T08:15:11.036Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Seasons_52"
+        },
+        "bahama-breeze": {
+            "key": "bahama-breeze",
+            "names": [
+                "Bahama Breeze"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurant",
+                "food"
+            ],
+            "score": "32",
+            "ownedBy": [
+                "darden-restaurants"
+            ],
+            "updatedAt": "2026-10-04T08:15:11.514Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bahama_Breeze",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/9/90/Bahama_Breeze.svg/250px-Bahama_Breeze.svg.png",
+            "siteUrl": "http://www.bahamabreeze.com/"
+        },
+        "eddie-v's": {
+            "key": "eddie-v's",
+            "names": [
+                "Eddie V's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurant",
+                "food"
+            ],
+            "score": "32",
+            "ownedBy": [
+                "darden-restaurants"
+            ],
+            "updatedAt": "2026-10-04T08:15:11.572Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Eddie_V's",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Eddie_v_logo.jpg/330px-Eddie_v_logo.jpg",
+            "siteUrl": "http://www.eddiev.com/"
+        },
+        "ruth's-chris-steak-house": {
+            "key": "ruth's-chris-steak-house",
+            "names": [
+                "Ruth's Chris Steak House"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurant",
+                "food"
+            ],
+            "score": "32",
+            "ownedBy": [
+                "darden-restaurants"
+            ],
+            "updatedAt": "2026-10-04T08:15:11.893Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruth's_Chris_Steak_House",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ruths_Chris_Logo.svg/250px-Ruths_Chris_Logo.svg.png",
+            "siteUrl": "http://www.ruthschris.com/"
+        },
+        "chuy's": {
+            "key": "chuy's",
+            "names": [
+                "Chuy's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurant",
+                "food"
+            ],
+            "score": "32",
+            "ownedBy": [
+                "darden-restaurants"
+            ],
+            "updatedAt": "2026-10-04T08:15:12.423Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Chuy's",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/2/2d/Chuy%27s.png/250px-Chuy%27s.png",
+            "siteUrl": "http://chuys.com/"
         }
     }
 }
