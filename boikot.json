@@ -40015,6 +40015,140 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Chuy's",
             "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/2/2d/Chuy%27s.png/250px-Chuy%27s.png",
             "siteUrl": "http://chuys.com/"
+        },
+        "oppo": {
+            "key": "oppo",
+            "names": [
+                "Oppo",
+                "OPPO广东移动通信有限公司",
+                "OPPO廣東移動通信有限公司",
+                "OPPO Guangdong Mobile Telecommunications Corp., Ltd.",
+                "OPPO Guǎngdōng Yídòng Tōngxìn Yǒuxiàn Gōngsī"
+            ],
+            "comment": "Oppo is a Chinese smartphone manufacturer that has been implicated in evading customs duties [1][2] and unlawfully pre‑installing loan apps that collect personal data without consent [3][4]. The company has also been linked to forced labor and wage theft in its electronics factories [6], complicit in forced Uyghur labour in its supply chain [5], and continues operations in Russia [7].",
+            "sources": {
+                "1": "https://web.archive.org/web/20220714030554/https://www.caixinglobal.com/2022-07-14/india-accuses-chinas-oppo-of-evading-551-million-of-taxes-101912684.html",
+                "2": "https://www.reuters.com/world/india/india-accuses-chinas-oppo-551-mln-tax-evasion-2022-07-13/",
+                "3": "https://www.bangkokpost.com/business/general/2938775/oppo-realme-phone-brands-in-hot-seat-for-data-breach",
+                "4": "https://developingtelecoms.com/telecom-technology/financial-services/17868-oppo-apologises-to-thai-users-over-pre-installed-loan-apps.html",
+                "5": "https://www.aspi.org.au/report/uyghurs-sale",
+                "6": "https://chinalaborwatch.org/labor-conditions-in-chinas-consumer-electronics-sector/",
+                "7": "https://leave-russia.org/oppo"
+            },
+            "sourceNotes": {
+                "1": "evaded customs duties",
+                "2": "evaded customs duty on imported goods",
+                "3": "unlawfully pre‑installed loan app collecting personal data without consent",
+                "4": "pre-installed unauthorized loan apps on phones",
+                "5": "complicit in forced Uyghur labour in supply chain",
+                "6": "forced labor and wage theft in electronics factories",
+                "7": "continuing operations in russia"
+            },
+            "tags": [
+                "electronics",
+                "tech"
+            ],
+            "score": 29,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/OPPO_LOGO_2019.svg/250px-OPPO_LOGO_2019.svg.png",
+            "siteUrl": "https://www.oppo.com/en/",
+            "updatedAt": "2026-10-05T08:40:12.860Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Oppo"
+        },
+        "bloomin'-brands": {
+            "key": "bloomin'-brands",
+            "names": [
+                "Bloomin' Brands",
+                "Bloomin' Brands, Inc.",
+                "BLMN"
+            ],
+            "comment": "Bloomin' Brands is a U.S. restaurant chain that has been accused of unlawful tip pooling of servers' gratuities [1], failing to pay minimum wage [2] and to pay employees for pre‑shift work [3], and engaging in gender-based pay discrimination and retaliation against a female employee [4]. The company has also faced allegations of sex discrimination against women [5], sexual harassment of female employees [6], using a racist marketing term [7], causing a norovirus outbreak through food safety violations [8], negligent slip and fall hazard leading to customer injury [9], negligent restroom maintenance causing injury to customer [10], and unsafe working conditions resulting in employee injury [11].",
+            "sources": {
+                "1": "https://www.bigclassaction.com/settlement/1-25m-settlement-approved-outback-steakhouse.php",
+                "2": "https://finance.yahoo.com/news/class-action-filed-against-outback-043504610.html",
+                "3": "https://www.law360.com/articles/786690/outback-workers-get-nod-for-3m-wage-deal",
+                "4": "https://www.eeoc.gov/eeoc/newsroom/release/archive/9-19-01.html",
+                "5": "https://www.eeoc.gov/eeoc/newsroom/release/12-29-09a.cfm",
+                "6": "https://www.eeoc.gov/newsroom/carrabbas-pay-690000-settle-eeoc-lawsuit-sexual-harassment",
+                "7": "https://www.news.com.au/lifestyle/food/restaurants-bars/australianthemed-food-chain-outback-steakhouse-taken-to-task-over-aussie-slur/news-story/3a99fb57295f13d1c2c4ab1640057c1e",
+                "8": "https://marlerclark.com/news_events/carrabbas-has-history-of-violations",
+                "9": "https://www.thetakeout.com/2187584/why-outback-steakhouse-mashed-potatoes-million-dollar-lawsuit/",
+                "10": "https://www.thesun.co.uk/news/37756641/diner-loses-bodily-function-toilet-seat-shatters/",
+                "11": "https://www.osha.gov/ords/imis/establishment.inspection_detail?id=1350749.015"
+            },
+            "sourceNotes": {
+                "1": "unlawful tip pooling of servers' gratuities",
+                "2": "failed to pay minimum wage",
+                "3": "failed to pay employees for pre‑shift work",
+                "4": "gender-based pay discrimination and retaliation against a female employee",
+                "5": "sex discrimination against women",
+                "6": "sexual harassment of female employees",
+                "7": "used a racist marketing term",
+                "8": "caused norovirus outbreak through food safety violations",
+                "9": "negligent slip and fall hazard leading to customer injury",
+                "10": "negligent restroom maintenance causing injury to customer",
+                "11": "employee injured in unsafe working conditions"
+            },
+            "tags": [],
+            "score": 22,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/6/68/Bloomin%27_Brands_logo.svg/250px-Bloomin%27_Brands_logo.svg.png",
+            "siteUrl": "http://www.bloominbrands.com/",
+            "updatedAt": "2026-10-06T10:04:55.823Z",
+            "error": "Error [ERR_HTTP2_INVALID_SESSION]: The session has been destroyed",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bloomin%27_Brands"
+        },
+        "carrabba's-italian-grill": {
+            "key": "carrabba's-italian-grill",
+            "names": [
+                "Carrabba's Italian Grill"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [],
+            "score": 22,
+            "ownedBy": [
+                "bloomin'-brands"
+            ],
+            "updatedAt": "2026-10-06T10:59:35.606Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Carrabba's_Italian_Grill",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/6/67/Carrabba%27s_Italian_Grill_logo.svg/250px-Carrabba%27s_Italian_Grill_logo.svg.png",
+            "siteUrl": "https://www.carrabbas.com/"
+        },
+        "bonefish-grill": {
+            "key": "bonefish-grill",
+            "names": [
+                "Bonefish Grill"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [],
+            "score": 22,
+            "ownedBy": [
+                "bloomin'-brands"
+            ],
+            "updatedAt": "2026-10-06T10:59:35.671Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bonefish_Grill",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/b/b9/Bonefish_Grill_logo.svg/250px-Bonefish_Grill_logo.svg.png",
+            "siteUrl": "http://www.bonefishgrill.com/"
+        },
+        "fleming's-prime-steakhouse-andamp-wine-bar": {
+            "key": "fleming's-prime-steakhouse-andamp-wine-bar",
+            "names": [
+                "Fleming's Prime Steakhouse &amp; Wine Bar"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [],
+            "score": 22,
+            "ownedBy": [
+                "bloomin'-brands"
+            ],
+            "updatedAt": "2026-10-06T10:59:35.735Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Fleming's_Prime_Steakhouse_&amp;_Wine_Bar"
         }
     }
 }
