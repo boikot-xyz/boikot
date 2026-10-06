@@ -204,9 +204,10 @@ const ownedBy = "mars";
 export async function scrapeBrands( html, tags, score, ownedBy ) {
 
     const pages = _.uniqBy(
-        [...html.matchAll(/<a.+?href="(.+?)".*?>(.+?)<\/a>/g)]
+        [...html.matchAll(/<a.+?href="(.+?)".*?>(.*?)<\/a>/g)]
             .filter(m => !m[1].includes("#cite"))
             .filter(m => m[1].includes("/wiki"))
+            .filter(m => !!m[2].length)
             .map(m => [m[1], m[2]]),
         m => m[0],
     );
