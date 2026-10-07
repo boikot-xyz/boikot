@@ -13,7 +13,8 @@ async function getDeepSourceUrl(url) {
     const pageDOM = new JSDOM( pageHTML );
     const document = pageDOM.window.document;
 
-    if( document.querySelector("body").textContent.includes("Link to OSHA") ) {
+    const text = document.querySelector("body").textContent;
+    if( text.includes("Link to OSHA") || text.includes("ECHO") ) {
         const links = [...document.querySelectorAll("a")].filter(l => l.textContent === "here");
         return links[0]?.href || url;
     }
