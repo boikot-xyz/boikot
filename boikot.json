@@ -28655,7 +28655,7 @@
             "tags": [
                 "fast food"
             ],
-            "score": null,
+            "score": 37,
             "ownedBy": [
                 "racetrac"
             ],
@@ -40149,6 +40149,66 @@
             ],
             "updatedAt": "2026-10-06T10:59:35.735Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Fleming's_Prime_Steakhouse_&amp;_Wine_Bar"
+        },
+        "racetrac": {
+            "key": "racetrac",
+            "names": [
+                "Racetrac",
+                "RaceTrac, Inc.",
+                "Carl Bolch Trackside Stations"
+            ],
+            "comment": "Racetrac is an American convenience store chain that has repeatedly failed to pay minimum wage [1][2][3] and committed multiple environmental violations [4][5][6][7], including discharging fill material into wetlands [8].",
+            "sources": {
+                "1": "https://violationtracker.goodjobsfirst.org/violation-tracker/mn-potbelly-sandwich-shop",
+                "2": "https://violationtracker.goodjobsfirst.org/violation-tracker/mn-potbelly-sandwich-shop-0",
+                "3": "https://violationtrackerglobal.goodjobsfirst.org/violation-tracker-global/united-states-potbelly-sandwich-shop-0",
+                "4": "https://violationtracker.goodjobsfirst.org/violation-tracker/tx-racetrac-petroleum-inc-7",
+                "5": "https://wayback.archive-it.org/414/20210527112017/https://www.tceq.texas.gov/assets/public/compliance/enforcement/enf_reports/AER/FY16/enfrptfy16.pdf",
+                "6": "https://wayback.archive-it.org/414/20210527112017/https://www.tceq.texas.gov/assets/public/compliance/enforcement/enf_reports/AER/FY13/enfrptfy13.pdf",
+                "7": "https://wayback.archive-it.org/414/20150906000656/https://www.tceq.texas.gov/assets/public/compliance/enforcement/enf_reports/AER/historical/Annual-Enforcement-Report-FY2007.pdf",
+                "8": "https://echo.epa.gov/enforcement-case-report?id=04-2010-5500"
+            },
+            "sourceNotes": {
+                "1": "failed to pay minimum wage",
+                "2": "failed to pay minimum wage",
+                "3": "failed to pay minimum wage",
+                "4": "committed environmental violations",
+                "5": "committed environmental violations",
+                "6": "committed environmental violations",
+                "7": "committed environmental violations",
+                "8": "discharged fill material into wetlands without permit"
+            },
+            "tags": [
+                "petroleum",
+                "retail"
+            ],
+            "score": 37,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/RaceTrac_logo.svg/250px-RaceTrac_logo.svg.png",
+            "siteUrl": "https://racetrac.com/",
+            "updatedAt": "2026-10-06T19:42:02.599Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/RaceTrac"
+        },
+        "gulf-oil": {
+            "key": "gulf-oil",
+            "names": [
+                "Gulf Oil"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "petroleum",
+                "retail"
+            ],
+            "score": 37,
+            "ownedBy": [
+                "racetrac"
+            ],
+            "updatedAt": "2026-10-07T08:34:06.496Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gulf_Oil_LP",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Gulf_Oil_logo.svg/250px-Gulf_Oil_logo.svg.png",
+            "siteUrl": "https://www.gulfoilltd.com/"
         }
     }
 }
