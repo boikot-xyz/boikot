@@ -40209,6 +40209,178 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Gulf_Oil_LP",
             "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Gulf_Oil_logo.svg/250px-Gulf_Oil_logo.svg.png",
             "siteUrl": "https://www.gulfoilltd.com/"
+        },
+        "coty": {
+            "key": "coty",
+            "names": [
+                "COTY",
+                "Coty Inc.",
+                "Coty"
+            ],
+            "comment": "COTY is an American cosmetics company that has used microplastics in its products [1], engaged in anticompetitive practices [2], and tested products on animals [3]. The company has sold asbestos-tainted talc products [4] and sourced mica mined with child labour  [5][6].",
+            "sources": {
+                "1": "https://www.beatthemicrobead.org/product-lists/",
+                "2": "https://legalblogs.wolterskluwer.com/competition-blog/french-competition-authority-revisits-platform-ban-in-a-post-coty-world/",
+                "3": "https://crueltyfree.peta.org/wp-content/uploads/companies-do-test.pdf",
+                "4": "https://www.mesothelioma.com/asbestos-exposure/companies/coty/",
+                "5": "https://www.telegraph.co.uk/beauty/make-up/dark-truth-really-inside-make-up/",
+                "6": "https://www.theaustralian.com.au/the-oz/news/crushed-skulls-broken-ribs-the-human-cost-of-shimmery-makeup/news-story/6f2a2540b8d5d372c003f51a10328881?eafs_enabled=false"
+            },
+            "sourceNotes": {
+                "1": "used microplastics in cosmetic products",
+                "2": "anticompetetive practices",
+                "3": "tests products on animals",
+                "4": "sold asbestos-tainted talc products",
+                "5": "used mica mined with child labor",
+                "6": "child labor in mica mining supply chain"
+            },
+            "tags": [
+                "cosmetics"
+            ],
+            "score": 19,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Coty_logo.svg/250px-Coty_logo.svg.png",
+            "siteUrl": "https://www.coty.com/",
+            "updatedAt": "2026-10-07T15:49:08.104Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Coty"
+        },
+        "bourjois": {
+            "key": "bourjois",
+            "names": [
+                "Bourjois"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cosmetics"
+            ],
+            "score": 19,
+            "ownedBy": [
+                "coty"
+            ],
+            "updatedAt": "2026-10-07T15:58:38.059Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bourjois",
+            "siteUrl": "http://www.bourjois.fr/"
+        },
+        "covergirl": {
+            "key": "covergirl",
+            "names": [
+                "CoverGirl"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cosmetics"
+            ],
+            "score": 19,
+            "ownedBy": [
+                "coty"
+            ],
+            "updatedAt": "2026-10-07T15:58:38.408Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/CoverGirl",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/COVERGIRL_logo_2017.svg/250px-COVERGIRL_logo_2017.svg.png",
+            "siteUrl": "http://www.covergirl.com/"
+        },
+        "ghd": {
+            "key": "ghd",
+            "names": [
+                "ghd"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cosmetics"
+            ],
+            "score": 19,
+            "ownedBy": [
+                "coty"
+            ],
+            "updatedAt": "2026-10-07T15:58:39.124Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Good_Hair_Day",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a9/Good_Hair_Day_%28logo%29.png",
+            "siteUrl": "http://ghdhair.com/"
+        },
+        "kylie-cosmetics": {
+            "key": "kylie-cosmetics",
+            "names": [
+                "Kylie Cosmetics"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cosmetics"
+            ],
+            "score": 19,
+            "ownedBy": [
+                "coty"
+            ],
+            "updatedAt": "2026-10-07T15:58:39.320Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kylie_Cosmetics",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Kylie_Cosmetics_Logo.svg/250px-Kylie_Cosmetics_Logo.svg.png",
+            "siteUrl": "http://kyliecosmetics.com/"
+        },
+        "max-factor": {
+            "key": "max-factor",
+            "names": [
+                "Max Factor"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cosmetics"
+            ],
+            "score": 19,
+            "ownedBy": [
+                "coty"
+            ],
+            "updatedAt": "2026-10-07T15:58:39.423Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Max_Factor",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/MaxFactor_New_Logo_Wht.jpg/250px-MaxFactor_New_Logo_Wht.jpg",
+            "siteUrl": "https://maxfactor.com/"
+        },
+        "sally-hansen": {
+            "key": "sally-hansen",
+            "names": [
+                "Sally Hansen"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cosmetics"
+            ],
+            "score": 19,
+            "ownedBy": [
+                "coty"
+            ],
+            "updatedAt": "2026-10-07T15:58:40.259Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sally_Hansen#Sally_Hansen,_Inc.",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Sally_Hansen_mirror.jpg/250px-Sally_Hansen_mirror.jpg"
+        },
+        "wella": {
+            "key": "wella",
+            "names": [
+                "Wella"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "cosmetics"
+            ],
+            "score": 19,
+            "ownedBy": [
+                "coty"
+            ],
+            "updatedAt": "2026-10-07T15:58:40.443Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Wella",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Wella-Company-logo.jpg/250px-Wella-Company-logo.jpg",
+            "siteUrl": "http://www.wellacompany.com/"
         }
     }
 }
