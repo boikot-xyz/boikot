@@ -29516,7 +29516,7 @@
                 "clothing",
                 "retail"
             ],
-            "score": null,
+            "score": 34,
             "ownedBy": [
                 "kmd-brands"
             ],
@@ -40381,6 +40381,76 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Wella",
             "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Wella-Company-logo.jpg/250px-Wella-Company-logo.jpg",
             "siteUrl": "http://www.wellacompany.com/"
+        },
+        "kmd-brands": {
+            "key": "kmd-brands",
+            "names": [
+                "KMD Brands",
+                "Kathmandu Holdings",
+                "KMD"
+            ],
+            "comment": "KMD Brands is an Australian clothing company that has faced accusations of misleading sale advertising [1] and has also been linked to the use of slave‑like labor in North Korea [2][3][4].",
+            "sources": {
+                "1": "https://web.archive.org/web/20180203162406/http://www.comcom.govt.nz/the-commission/media-centre/media-releases/2006/kathmandufindsoutthetruecostofsale",
+                "2": "https://blogs.soas.ac.uk/ssai-notes/2016/05/23/a-survey-of-delhi-garment-workers-suggests-poverty-comes-in-many-sizes/",
+                "3": "https://www.smh.com.au/business/surf-clothing-label-rip-curl-using-slave-labour-to-manufacture-clothes-in-north-korea-20160220-gmz375.html",
+                "4": "https://www.theguardian.com/australia-news/2016/feb/22/rip-curls-use-of-north-korean-factories-leads-to-calls-for-industry-transparency"
+            },
+            "sourceNotes": {
+                "1": "misleading sale advertising",
+                "2": "used slave‑like labor in North Korea",
+                "3": "exploited slave labour in North Korea",
+                "4": "manufactured garments in North Korea"
+            },
+            "tags": [
+                "clothing",
+                "sportswear",
+                "retail"
+            ],
+            "score": 34,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/48/KMD_Brands_Masterbrand_Logo_Black_%28RGB%29_HR_%281%29.png/250px-KMD_Brands_Masterbrand_Logo_Black_%28RGB%29_HR_%281%29.png",
+            "siteUrl": "https://www.kmdbrands.com/",
+            "updatedAt": "2026-10-08T12:01:57.916Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/KMD_Brands"
+        },
+        "kathmandu": {
+            "key": "kathmandu",
+            "names": [
+                "Kathmandu"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 34,
+            "ownedBy": [
+                "kmd-brands"
+            ],
+            "logoUrl": "https://www.kathmandu.co.uk/cdn/shop/files/full-light.svg?height=20&v=1750127941",
+            "siteUrl": "https://www.kathmandu.co.uk/",
+            "updatedAt": "2026-10-08T12:13:37.087Z"
+        },
+        "oboz": {
+            "key": "oboz",
+            "names": [
+                "Oboz"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 34,
+            "ownedBy": [
+                "kmd-brands"
+            ],
+            "logoUrl": "https://obozfootwear.com/cdn/shop/files/Oboz_Wordmark_Bison.svg?height=24&v=1789082395",
+            "siteUrl": "https://obozfootwear.com/",
+            "updatedAt": "2026-10-08T12:13:37.087Z"
         }
     }
 }
