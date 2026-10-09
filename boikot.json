@@ -40451,6 +40451,131 @@
             "logoUrl": "https://obozfootwear.com/cdn/shop/files/Oboz_Wordmark_Bison.svg?height=24&v=1789082395",
             "siteUrl": "https://obozfootwear.com/",
             "updatedAt": "2026-10-08T12:13:37.087Z"
+        },
+        "deutsche-telecom": {
+            "key": "deutsche-telecom",
+            "names": [
+                "Deutsche Telecom",
+                "Deutsche Telekom AG",
+                "Deutsche Telekom",
+                "Telekom",
+                "Deutsche Bundespost",
+                "DTE"
+            ],
+            "comment": "Deutsche Telecom is a German telecommunications company that has abused its monopoly position [1] and exploited monopoly power to squeeze margins [2], while being linked to corruption in South Africa [3] and engaging in bribery and falsifying records to secure contracts [4][5]. The company has also committed data breaches and illegal processing of customer call records [6], illegally accessed employee call records [7], spied on journalists, customers, executives, shareholders, and engaged in illegal wiretapping and coverups [8][9][10].",
+            "sources": {
+                "1": "https://www.antimon.gov.sk/6812-sk/ns-sr-potvrdil-rozhodnutie-rady-pmu-sr-v-spojeni-s-rozhodnutim-pmu-sr-vo-veci-zneuzitia-dominantneho-postavenia-spolocnostou-slovak-telekom-a-s/?csrt=16762170205131931356",
+                "2": "https://www.antimon.gov.sk/6812-sk/ns-sr-potvrdil-rozhodnutie-rady-pmu-sr-v-spojeni-s-rozhodnutim-pmu-sr-vo-veci-zneuzitia-dominantneho-postavenia-spolocnostou-slovak-telekom-a-s/?csrt=16762170205131931356",
+                "3": "https://www.telcotitans.com/deutsche-telekomwatch/t-systems-probed-over-south-african-state-capture-links/5359.article",
+                "4": "https://www.justice.gov/opa/pr/magyar-telekom-and-deutsche-telekom-resolve-foreign-corrupt-practices-act-investigation-and",
+                "5": "https://web.archive.org/web/20150908022916/https://www.sec.gov/news/press/2011/2011-279.htm",
+                "6": "https://www.dpa.gr/el/enimerwtiko/prakseisArxis/epiboli-prostimoy-gia-peristatiko-parabiasis-prosopikon-dedomenon-kai-mi",
+                "7": "https://www.lightreading.com/services/spying-scandal-rocks-deutsche-telekom",
+                "8": "https://www.sciencedirect.com/science/article/abs/pii/S0363811116301497",
+                "9": "https://digitalcommons.emerson.edu/cgi/viewcontent.cgi?article=2400&context=arc",
+                "10": "https://www.dw.com/en/macedonian-prosecutors-say-telecom-company-holds-key-to-surveillance-scandal/a-36602198"
+            },
+            "sourceNotes": {
+                "1": "abuse of monopoly position",
+                "2": "exploited monopoly power to squeeze margins",
+                "3": "linked to corruption in South Africa",
+                "4": "committed bribery and falsified records",
+                "5": "bribed officials to secure telecom contracts",
+                "6": "data breach and illegal processing of customer call records",
+                "7": "illegally accessed employee call records",
+                "8": "spied on journalists and customers' data",
+                "9": "spied on executives, shareholders, and journalists",
+                "10": "illegal wiretapping and coverup"
+            },
+            "tags": [
+                "telecommunications"
+            ],
+            "score": 33,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsche_Telekom_2022.svg/120px-Deutsche_Telekom_2022.svg.png",
+            "siteUrl": "https://www.telekom.com/",
+            "updatedAt": "2026-10-08T12:16:18.467Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Deutsche_Telekom"
+        },
+        "magyar-telekom": {
+            "key": "magyar-telekom",
+            "names": [
+                "Magyar Telekom"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "telecommunications"
+            ],
+            "score": 33,
+            "ownedBy": [
+                "deutsche-telecom"
+            ],
+            "updatedAt": "2026-10-09T15:09:52.934Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Magyar_Telekom",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsche_Telekom_2022.svg/250px-Deutsche_Telekom_2022.svg.png",
+            "siteUrl": "http://www.telekom.hu/"
+        },
+        "makedonski-telekom": {
+            "key": "makedonski-telekom",
+            "names": [
+                "Makedonski Telekom"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "telecommunications"
+            ],
+            "score": 33,
+            "ownedBy": [
+                "deutsche-telecom"
+            ],
+            "updatedAt": "2026-10-09T15:09:53.102Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Makedonski_Telekom",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsche_Telekom_2022.svg/250px-Deutsche_Telekom_2022.svg.png",
+            "siteUrl": "https://www.telekom.mk/"
+        },
+        "magenta-telekom": {
+            "key": "magenta-telekom",
+            "names": [
+                "Magenta Telekom"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "telecommunications"
+            ],
+            "score": 33,
+            "ownedBy": [
+                "deutsche-telecom"
+            ],
+            "updatedAt": "2026-10-09T15:09:53.179Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Magenta_Telekom",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Magenta_Telekom_Logo.svg/250px-Magenta_Telekom_Logo.svg.png",
+            "siteUrl": "http://magenta.at/"
+        },
+        "slovak-telekom-a.s.": {
+            "key": "slovak-telekom-a.s.",
+            "names": [
+                "Slovak Telekom, a.s."
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "telecommunications"
+            ],
+            "score": 33,
+            "ownedBy": [
+                "deutsche-telecom"
+            ],
+            "updatedAt": "2026-10-09T15:09:53.263Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Slovak_Telekom",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsche_Telekom_2022.svg/250px-Deutsche_Telekom_2022.svg.png",
+            "siteUrl": "https://www.telekom.sk/"
         }
     }
 }
