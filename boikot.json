@@ -40576,6 +40576,635 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Slovak_Telekom",
             "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsche_Telekom_2022.svg/250px-Deutsche_Telekom_2022.svg.png",
             "siteUrl": "https://www.telekom.sk/"
+        },
+        "pfiefer-and-langen": {
+            "key": "pfiefer-and-langen",
+            "names": [
+                "Pfiefer & Langen",
+                "Pfeifer & Langen GmbH & Co. KG"
+            ],
+            "comment": "Pfiefer & Langen is an Austrian company that has been involved in a monopolistic cartel to divide the industrial sugar market [1].",
+            "sources": {
+                "1": "https://www.bwb.gv.at/en/news/news-2022/detail-1-1/cartel-court-imposes-a-fine-of-eur-42-million-on-suedzucker-ag-at-afcas-request-the-decision-is-final"
+            },
+            "sourceNotes": {
+                "1": "monopolistic cartel to divide the Austrian industrial sugar market"
+            },
+            "tags": [
+                "food"
+            ],
+            "score": 45,
+            "ownedBy": [],
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e2/Pfeifer_%26_Langen_logo.png",
+            "siteUrl": "http://www.pfeifer-langen.com/",
+            "updatedAt": "2026-10-10T09:04:17.046Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pfeifer_%26_Langen"
+        },
+        "vf-corporation": {
+            "key": "vf-corporation",
+            "names": [
+                "VF Corporation",
+                "VF Corporation",
+                "Vanity Fair Mills",
+                "VFC",
+                "Reading Glove and Mitten Manufacturing Company"
+            ],
+            "comment": "VF Corporation is an American apparel company that failed to protect personal data of 35.5 million customers in a ransomware attack [1][2][3], and has failed to pay wages to workers [4][5]. VF Corporation has also been linked to migrant worker abuse [6], used sweatshop labour ad forced labour [7][8], bypassed forced labour laws in its supply chain [9], violated workers' rights in sportswear factories [10], exploited workers in Haiti [11] and Cambodian factories [12], sourced cotton from forced labour in Xinjiang [13], and employed child labour in its supply chain [14].",
+            "sources": {
+                "1": "https://www.securityweek.com/vf-corp-says-data-breach-resulting-from-ransomware-attack-impacts-35-million/",
+                "2": "https://www.bleepingcomputer.com/news/security/vans-and-north-face-owner-vf-corp-hit-by-ransomware-attack/",
+                "3": "https://www.reuters.com/business/retail-consumer/vf-corps-cyber-incident-causes-data-breach-355-million-consumers-2024-01-18/",
+                "4": "https://www.publiceye.ch/en/topics/fashion/fashion-brands-fail-to-address-pandemic-era-wage-theft-in-cambodia-garment-workers-deprived-of-109-million",
+                "5": "https://asia.floorwage.org/big-fashion-and-wall-street-cash-in-on-wage-theft/",
+                "6": "https://www.hcamag.com/us/specialization/employment-law/nearly-600-companies-linked-to-global-migrant-worker-abuse-in-2025/567742",
+                "7": "https://www.stuff.co.nz/business/industries/103624255/icebreaker-buyer-vf-corp-investigated-over-sweatshop-labour",
+                "8": "https://committees.parliament.uk/publications/5095/documents/52855/default/",
+                "9": "https://www.business-humanrights.org/en/latest-news/us-and-eu-brands-accused-of-bypassing-forced-labour-laws-through-chinese-and-vietnamese-supply-routes/",
+                "10": "https://www.ituc-csi.org/itglwf-report-an-overview-of",
+                "11": "https://web.archive.org/web/20170228170228/https://www.workersrights.org/freports/WRC%20Haiti%20Minimum%20Wage%20Report%2010%2015%2013.pdf",
+                "12": "https://www.theguardian.com/business/2017/jun/25/female-cambodian-garment-workers-mass-fainting",
+                "13": "https://web.archive.org/web/20220301105102/https://www.shu.ac.uk/helena-kennedy-centre-international-justice/research-and-projects/all-projects/laundered-cotton",
+                "14": "https://www.somo.nl/branded-childhood/"
+            },
+            "sourceNotes": {
+                "1": "failed to protect personal data of 35.5 million customers in ransomware attack",
+                "2": "suffered a ransomware attack",
+                "3": "failed to protect personal data of 35.5 million customers in ransomware attack",
+                "4": "failed to pay wages during pandemic lockdown",
+                "5": "failed to pay minimum wage",
+                "6": "linked to migrant worker abuse",
+                "7": "used sweatshop labour",
+                "8": "used forced labour in supply chain",
+                "9": "bypassing forced labour laws in supply chain",
+                "10": "violated workers' rights in sportswear factories",
+                "11": "exploited workers in Haiti",
+                "12": "exploited workers in Cambodian factories",
+                "13": "sourced cotton from forced labor in Xinjiang",
+                "14": "child labour in supply chain"
+            },
+            "tags": [
+                "clothing"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/VF_Corporation_logo.svg/250px-VF_Corporation_logo.svg.png",
+            "siteUrl": "https://vfc.com/",
+            "updatedAt": "2026-10-10T09:22:50.335Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/VF_Corporation"
+        },
+        "altra-running": {
+            "key": "altra-running",
+            "names": [
+                "Altra Running"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "vf-corporation"
+            ],
+            "updatedAt": "2026-10-10T11:11:59.485Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Altra_Running",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Altra_running_logo.png/250px-Altra_running_logo.png",
+            "siteUrl": "http://altrarunning.com/"
+        },
+        "eastpak": {
+            "key": "eastpak",
+            "names": [
+                "Eastpak"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "vf-corporation"
+            ],
+            "updatedAt": "2026-10-10T11:11:59.919Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Eastpak",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Eastpak_logo.svg/250px-Eastpak_logo.svg.png",
+            "siteUrl": "http://www.eastpak.com/"
+        },
+        "jansport": {
+            "key": "jansport",
+            "names": [
+                "JanSport"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "vf-corporation"
+            ],
+            "updatedAt": "2026-10-10T11:12:00.126Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/JanSport",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Jansportlogo.jpg/250px-Jansportlogo.jpg",
+            "siteUrl": "https://www.jansport.com/"
+        },
+        "icebreaker": {
+            "key": "icebreaker",
+            "names": [
+                "Icebreaker"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "vf-corporation"
+            ],
+            "updatedAt": "2026-10-10T11:12:00.216Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Icebreaker_(clothing)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/3/36/Icebreaker_logo.png/250px-Icebreaker_logo.png",
+            "siteUrl": "https://www.icebreaker.com/"
+        },
+        "kipling": {
+            "key": "kipling",
+            "names": [
+                "Kipling"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "vf-corporation"
+            ],
+            "updatedAt": "2026-10-10T11:12:00.439Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kipling_(brand)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Kipling_wordmark.svg/250px-Kipling_wordmark.svg.png",
+            "siteUrl": "https://www.kipling.com/"
+        },
+        "napapijri": {
+            "key": "napapijri",
+            "names": [
+                "Napapijri"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "vf-corporation"
+            ],
+            "updatedAt": "2026-10-10T11:12:00.872Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Napapijri",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Napapijri_logo.svg/250px-Napapijri_logo.svg.png",
+            "siteUrl": "http://www.napapijri.com/"
+        },
+        "smartwool": {
+            "key": "smartwool",
+            "names": [
+                "SmartWool"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "clothing"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "vf-corporation"
+            ],
+            "updatedAt": "2026-10-10T11:12:01.191Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/SmartWool",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/2/25/Smartwool_logo.svg/250px-Smartwool_logo.svg.png",
+            "siteUrl": "http://www.smartwool.com/"
+        },
+        "block": {
+            "key": "block",
+            "names": [
+                "Block",
+                "Square, Inc.",
+                "Block, Inc.",
+                "XYZ",
+                "SQ"
+            ],
+            "comment": "Block is a US company that has violated anti‑money laundering regulations [1] and failed to prevent data breaches exposing personal data [2][3]. It has also failed to investigate and prevent fraud [4][5][6][7][8][9] and has withheld payments from small businesses [10].",
+            "sources": {
+                "1": "https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-joins-80-million-enforcement-action-against-block-inc-and-cash-app-for-bsa-aml-violations/",
+                "2": "https://www.law360.com/articles/1809699/cash-app-block-reach-15m-deal-to-end-data-breach-suit",
+                "3": "https://topclassactions.com/lawsuit-settlements/open-lawsuit-settlements/15m-cash-app-data-breach-class-action-settlement/",
+                "4": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-orders-operator-of-cash-app-to-pay-175-million-and-fix-its-failures-on-fraud/",
+                "5": "https://hindenburgresearch.com/block/",
+                "6": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/cash-app-parent-block-to-pay-45m-to-settle-states-fraud-protection-claims/",
+                "7": "https://techcrunch.com/2018/06/11/squares-caviar-agrees-to-pay-2-2-million-to-settle-class-action-lawsuit-over-gratuity/",
+                "8": "https://www.consumerfinance.gov/enforcement/actions/block-inc/",
+                "9": "https://www.paymentsdive.com/news/block-payments-cfpb-state-regulators-fine-penalty-cash-app-tool/737530/",
+                "10": "https://www.nytimes.com/2020/06/23/technology/square-jack-dorsey-pandemic-withholding.html"
+            },
+            "sourceNotes": {
+                "1": "violated anti‑money laundering regulations",
+                "2": "failed to prevent data breach exposing personal data",
+                "3": "failed to prevent data breach exposing personal data",
+                "4": "failed to investigate and prevent fraud",
+                "5": "failed to investigate and prevent fraud",
+                "6": "failed to investigate and prevent fraud",
+                "7": "failed to investigate and prevent fraud",
+                "8": "failed to investigate and prevent fraud",
+                "9": "failed to investigate and prevent fraud",
+                "10": "withholding payments from small businesses"
+            },
+            "tags": [
+                "tech"
+            ],
+            "score": 37,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Block-lockup_black.svg/250px-Block-lockup_black.svg.png",
+            "siteUrl": "https://block.xyz/",
+            "updatedAt": "2026-10-11T20:58:26.157Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Block,_Inc."
+        },
+        "square": {
+            "key": "square",
+            "names": [
+                "Square"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 37,
+            "ownedBy": [
+                "block"
+            ],
+            "updatedAt": "2026-10-11T21:29:07.098Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Square_(payment_system)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Square_%28Block%2C_Inc.%29_Logo_08.2022.svg/250px-Square_%28Block%2C_Inc.%29_Logo_08.2022.svg.png"
+        },
+        "cash-app": {
+            "key": "cash-app",
+            "names": [
+                "Cash App"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 37,
+            "ownedBy": [
+                "block"
+            ],
+            "updatedAt": "2026-10-11T21:29:07.844Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cash_App",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Square_Cash_app_logo.svg/120px-Square_Cash_app_logo.svg.png",
+            "siteUrl": "https://cash.app/"
+        },
+        "afterpay": {
+            "key": "afterpay",
+            "names": [
+                "Afterpay"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 37,
+            "ownedBy": [
+                "block"
+            ],
+            "updatedAt": "2026-10-11T21:29:07.977Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Afterpay",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/c/c3/Afterpay_logo.svg/250px-Afterpay_logo.svg.png",
+            "siteUrl": "https://afterpay.com/"
+        },
+        "bitkey": {
+            "key": "bitkey",
+            "names": [
+                "Bitkey"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 37,
+            "ownedBy": [
+                "block"
+            ],
+            "updatedAt": "2026-10-11T21:29:08.111Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bitkey",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/1/16/Bitkey_logo.svg/250px-Bitkey_logo.svg.png",
+            "siteUrl": "https://bitkey.world/"
+        },
+        "weebly": {
+            "key": "weebly",
+            "names": [
+                "Weebly"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 37,
+            "ownedBy": [
+                "block"
+            ],
+            "updatedAt": "2026-10-11T21:29:09.890Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Weebly",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Weebly_Logo.svg/250px-Weebly_Logo.svg.png",
+            "siteUrl": "https://en.wikipedia.org/wiki/Web_hosting_service"
+        },
+        "buzz": {
+            "key": "buzz",
+            "names": [
+                "Buzz"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 37,
+            "ownedBy": [
+                "block"
+            ],
+            "updatedAt": "2026-10-11T21:29:09.956Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Block_Buzz"
+        },
+        "bytedance": {
+            "key": "bytedance",
+            "names": [
+                "ByteDance",
+                "ByteDance Ltd",
+                "字节跳动有限公司",
+                "Beijing ByteDance Technology Co., Ltd.",
+                "Douyin Group (HK) Ltd.",
+                "字节跳动",
+                "Zìjié Tiàodòng",
+                "ㄗˋ ㄐㄧㄝˊ ㄊㄧㄠˋ ㄉㄨㄥˋ",
+                "Tzu4-chieh2 T'iao4-tung4",
+                "Zìh-jié Tiào-dòng"
+            ],
+            "comment": "ByteDance is a Chinese company that has been accused of having a toxic work culture and dismissal of maternity leave [1], building addictive features against regulations [2], misleading users about data storage and location tracking [3], and violating children's privacy by collecting data on minors [4][5][6][7]. ByteDance has also been implicated in illegally spying on journalists investigating the company [8][9][10][11], sharing user data with the Chinese Communist Party [12], and collaborating with Chinese authorities to spread propaganda on Xinjiang [13].",
+            "sources": {
+                "1": "https://www.ft.com/content/174ed2e2-f88e-4759-9a7f-133629aab94a?syn-25a6b1a6=1",
+                "2": "https://www.reuters.com/business/media-telecom/tiktok-hit-with-charges-breaching-eu-online-content-rules-app-may-have-change-2026-02-06/",
+                "3": "https://techworkerscoalition.org/blog/2023/03/22/issue-3/",
+                "4": "https://www.ftc.gov/news-events/news/press-releases/2024/08/ftc-investigation-leads-lawsuit-against-tiktok-bytedance-flagrantly-violating-childrens-privacy-law",
+                "5": "https://www.bbc.com/news/articles/cwyr0l45xjro",
+                "6": "https://www.reuters.com/legal/government/brazil-fines-tiktok-owner-bytedance-unlawful-processing-teenagers-data-2026-08-25/",
+                "7": "https://www.justice.gov/archives/opa/pr/justice-department-sues-tiktok-and-parent-company-bytedance-widespread-violations-childrens",
+                "8": "https://english.elpais.com/science-tech/2022-12-23/tiktok-spied-on-forbes-journalists-investigating-the-social-network-in-the-us.html",
+                "9": "https://www.politico.eu/article/tiktoks-parent-company-admits-accessing-journalists-data/",
+                "10": "https://edition.cnn.com/2023/06/08/tech/tiktok-data-china/index.html",
+                "11": "https://www.theguardian.com/technology/2022/dec/22/tiktok-bytedance-workers-fired-data-access-journalists",
+                "12": "https://www.courthousenews.com/tiktok-whistleblower-asks-ninth-circuit-to-vacate-sanction-order/",
+                "13": "https://www.businessinsider.com/tiktok-parent-company-bytedance-spreads-chinese-propaganda-report-2019-11"
+            },
+            "sourceNotes": {
+                "1": "toxic work culture and dismissal of maternity leave",
+                "2": "built addictive features against regulations",
+                "3": "misled users about data storage and location tracking",
+                "4": "violated children's privacy by collecting data on minors",
+                "5": "violated children's privacy by collecting data on minors",
+                "6": "violated children's privacy by collecting data on minors",
+                "7": "violated children's privacy by collecting data on minors",
+                "8": "illegally spied on journalists investigating the company",
+                "9": "illegally spied on journalists investigating the company",
+                "10": "illegally spied on journalists investigating the company",
+                "11": "illegally spied on journalists investigating the company",
+                "12": "shared user data with the Chinese Communist Party",
+                "13": "collaborated with Chinese authorities to spread propaganda on Xinjiang"
+            },
+            "tags": [
+                "tech"
+            ],
+            "score": 20,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/07/ByteDance_logo_English.svg/250px-ByteDance_logo_English.svg.png",
+            "siteUrl": "https://bytedance.com/",
+            "updatedAt": "2026-10-12T08:57:48.800Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/ByteDance"
+        },
+        "doubao": {
+            "key": "doubao",
+            "names": [
+                "Doubao"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "bytedance"
+            ],
+            "updatedAt": "2026-10-12T11:51:54.231Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Doubao",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/f/ff/Doubao_logo.jpg/250px-Doubao_logo.jpg",
+            "siteUrl": "https://www.doubao.com/"
+        },
+        "seedance": {
+            "key": "seedance",
+            "names": [
+                "Seedance"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "bytedance"
+            ],
+            "updatedAt": "2026-10-12T11:51:54.297Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Seedance_2.0",
+            "siteUrl": "https://seed.bytedance.com/en/seedance2_5"
+        },
+        "capcut": {
+            "key": "capcut",
+            "names": [
+                "CapCut"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "bytedance"
+            ],
+            "updatedAt": "2026-10-12T11:51:54.388Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/CapCut",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/a/a0/Capcut-logo.svg/330px-Capcut-logo.svg.png",
+            "siteUrl": "https://www.capcut.com/"
+        },
+        "toutiao": {
+            "key": "toutiao",
+            "names": [
+                "Toutiao"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "bytedance"
+            ],
+            "updatedAt": "2026-10-12T11:51:54.580Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Toutiao",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Toutiao_logo.svg/250px-Toutiao_logo.svg.png",
+            "siteUrl": "https://en.wikipedia.org/wiki/File:Toutiao_logo.svg"
+        },
+        "whee": {
+            "key": "whee",
+            "names": [
+                "Whee"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "bytedance"
+            ],
+            "updatedAt": "2026-10-12T11:51:54.659Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Whee_(social_network)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/07/ByteDance_logo_English.svg/250px-ByteDance_logo_English.svg.png",
+            "siteUrl": "https://bytedance.com/"
+        },
+        "lark": {
+            "key": "lark",
+            "names": [
+                "Lark"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "bytedance"
+            ],
+            "updatedAt": "2026-10-12T11:51:55.323Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lark_(software)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Lark_Suite_logo_2022.png/250px-Lark_Suite_logo_2022.png",
+            "siteUrl": "https://larksuite.com/"
+        },
+        "pico": {
+            "key": "pico",
+            "names": [
+                "PICO"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "bytedance"
+            ],
+            "updatedAt": "2026-10-12T11:51:55.389Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/PICO_4",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Pico_website_logo.svg/250px-Pico_website_logo.svg.png",
+            "siteUrl": "https://www.picoxr.com/global/products/pico4"
+        },
+        "lemon8": {
+            "key": "lemon8",
+            "names": [
+                "Lemon8"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "bytedance"
+            ],
+            "updatedAt": "2026-10-12T11:51:55.450Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Lemon8",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/3/35/Lemon8_icon.png/250px-Lemon8_icon.png",
+            "siteUrl": "https://lemon8-app.com/"
+        },
+        "soundon": {
+            "key": "soundon",
+            "names": [
+                "SoundOn"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "bytedance"
+            ],
+            "updatedAt": "2026-10-12T11:51:55.929Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/SoundOn",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Soundon.jpg/250px-Soundon.jpg"
+        },
+        "baike.com": {
+            "key": "baike.com",
+            "names": [
+                "Baike.com"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "tech"
+            ],
+            "score": 20,
+            "ownedBy": [
+                "bytedance"
+            ],
+            "updatedAt": "2026-10-12T11:51:55.985Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Baike.com",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Douyin_Baike_logo.svg/250px-Douyin_Baike_logo.svg.png",
+            "siteUrl": "https://en.wikipedia.org/wiki/Wiki"
         }
     }
 }
