@@ -41205,6 +41205,56 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Baike.com",
             "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Douyin_Baike_logo.svg/250px-Douyin_Baike_logo.svg.png",
             "siteUrl": "https://en.wikipedia.org/wiki/Wiki"
+        },
+        "travis-perkins": {
+            "key": "travis-perkins",
+            "names": [
+                "Travis Perkins",
+                "Travis Perkins plc",
+                "TPK"
+            ],
+            "comment": "Travis Perkins is a UK-based building materials supplier that has engaged in age discrimination and unfair dismissal [1][2], as well as disability discrimination and harassment [3]. The company has sold timber linked to deforestation and human rights abuses [4], engaged in unsafe loading practices that caused a fatal accident [5], and was involved in a fatal road traffic incident [6].",
+            "sources": {
+                "1": "https://assets.publishing.service.gov.uk/media/5d0107ebed915d097e54a0fb/Mr_P_Hodgkiss_v_Travis_Perkins_Trading_Company_Limited_2411659_2018_-_Judgment.pdf",
+                "2": "https://www.gov.uk/employment-tribunal-decisions/mr-a-wise-v-travis-perkins-trading-company-ltd-6021417-slash-2024",
+                "3": "https://assets.publishing.service.gov.uk/media/6596d332c23a10000d8d0ba0/Mr_D._Cooper_v_Travis_Perkins_Trading_Company_Ltd_3300006.2022_-_judgment_on_remedy.pdf",
+                "4": "https://www.earthsight.org.uk/news/malaysian-timber-uk",
+                "5": "https://www.lewes-eastbourne.gov.uk/article/3087/Court-fines-Travis-Perkins-2million-for-health-and-safety-breaches-after-man-s-death",
+                "6": "https://www.dailyecho.co.uk/news/18174676.woman-dies-hit-lorry-new-milton-crash/"
+            },
+            "sourceNotes": {
+                "1": "age discrimination and unfair dismissal of employee",
+                "2": "unfair dismissal of employee",
+                "3": "disability discrimination and harassment of employee",
+                "4": "sold timber linked to deforestation and human rights abuses",
+                "5": "unsafe loading practices causing fatal accident",
+                "6": "caused fatal road traffic accident"
+            },
+            "tags": [],
+            "score": 17,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Travis_Perkins_logo.svg/250px-Travis_Perkins_logo.svg.png",
+            "siteUrl": "http://www.travisperkinsplc.co.uk/",
+            "updatedAt": "2026-10-13T10:00:57.404Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Travis_Perkins"
+        },
+        "bss": {
+            "key": "bss",
+            "names": [
+                "BSS"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [],
+            "score": 17,
+            "ownedBy": [
+                "travis-perkins"
+            ],
+            "updatedAt": "2026-10-13T10:37:20.967Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/BSS_Group",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/4/4e/BSS_Industrial_logo.svg/250px-BSS_Industrial_logo.svg.png",
+            "siteUrl": "http://www.bssindustrial.co.uk/"
         }
     }
 }
