@@ -4386,7 +4386,7 @@
                 "poor working conditions",
                 "forced labour"
             ],
-            "score": 25,
+            "score": 10,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Primark_Stores_Logo.svg",
             "siteUrl": "http://primark.com/",
@@ -41255,6 +41255,147 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/BSS_Group",
             "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/4/4e/BSS_Industrial_logo.svg/250px-BSS_Industrial_logo.svg.png",
             "siteUrl": "http://www.bssindustrial.co.uk/"
+        },
+        "associated-british-foods": {
+            "key": "associated-british-foods",
+            "names": [
+                "Associated British Foods",
+                "Associated British Foods plc",
+                "ABF",
+                "George Weston Holdings plc"
+            ],
+            "comment": "Associated British Foods is a British company that has been criticized for lack of transparency in its supply chain [1], failing to pay minimum wage [2], discriminating against a transgender employee [3], and violating environmental regulations by failing to report nitrate compounds [4] and polluting a creek with untreated wastewater [5]. The company has also breached occupational health and safety standards [6], resulting in an employee losing a finger in a workplace accident [7], another being injured in a fire due to unsafe conditions [8], and it has diverted floodwater into a village, causing multiple deaths [9][10].",
+            "sources": {
+                "1": "https://www.theguardian.com/sustainable-business/associated-british-foods-transparent-nestle-coca-cola",
+                "2": "https://www.gov.uk/government/news/17m-back-pay-identified-for-a-record-16000-workers-as-260-employers-are-named-and-shamed-for-underpaying-minimum-wage-rates",
+                "3": "https://assets.publishing.service.gov.uk/media/5a7aed66ed915d670dd7f91e/Miss_A_de_Souza_E_Souza_v_Primark_Strores_Ltd_-_2206063-2017_-_Final.pdf",
+                "4": "https://echo.epa.gov/enforcement-case-report?id=HQ-2001-3070",
+                "5": "https://web.archive.org/web/20220328092459/https://www.epa.vic.gov.au/about-epa/news-media-and-updates/media-releases-and-news/court-orders-100000-to-environmental-program",
+                "6": "https://www.worksafe.vic.gov.au/prosecution-result-summaries-enforceable-undertakings",
+                "7": "https://www.osha.gov/pls/imis/establishment.inspection_detail?id=125709774",
+                "8": "https://www.osha.gov/pls/imis/establishment.inspection_detail?id=300877677",
+                "9": "https://www.doughtystreet.co.uk/news/margherita-cornaglia-represents-malawian-villagers-legal-action-against-primark-owner",
+                "10": "https://www.leighday.co.uk/news/press-releases/2025-news/malawian-villagers-take-legal-action-against-primark-owner-associated-british-foods-after-flooding-destroyed-their-village-and-left-seven-people-dead/"
+            },
+            "sourceNotes": {
+                "1": "lack of transparency in supply chain",
+                "2": "failed to pay minimum wage",
+                "3": "discrimination against transgender employee",
+                "4": "environmental violation failing to report nitrate compounds",
+                "5": "polluted a creek with untreated wastewater",
+                "6": "violated occupational health and safety regulations",
+                "7": "employee lost finger in workplace accident",
+                "8": "employee injured in fire in unsafe working conditions",
+                "9": "diverted floodwater into village causing multiple deaths",
+                "10": "diverted floodwater into village causing multiple deaths"
+            },
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Associated_British_Foods_Logo.svg/250px-Associated_British_Foods_Logo.svg.png",
+            "siteUrl": "https://abf.co.uk/",
+            "updatedAt": "2026-10-13T23:51:01.668Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Associated_British_Foods"
+        },
+        "ab-mauri": {
+            "key": "ab-mauri",
+            "names": [
+                "AB Mauri"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "associated-british-foods"
+            ],
+            "updatedAt": "2026-10-14T09:37:03.882Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/AB_Mauri"
+        },
+        "british-sugar": {
+            "key": "british-sugar",
+            "names": [
+                "British Sugar"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "associated-british-foods"
+            ],
+            "updatedAt": "2026-10-14T09:37:04.158Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/British_Sugar",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/3/32/BritishSugar.png/250px-BritishSugar.png",
+            "siteUrl": "http://britishsugar.co.uk/"
+        },
+        "dorset-cereals": {
+            "key": "dorset-cereals",
+            "names": [
+                "Dorset Cereals"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "associated-british-foods"
+            ],
+            "updatedAt": "2026-10-14T09:37:04.274Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Dorset_Cereals",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/1c/Dorset_Cereals_logo.jpg",
+            "siteUrl": "http://dorsetcereals.co.uk/"
+        },
+        "illovo-sugar": {
+            "key": "illovo-sugar",
+            "names": [
+                "Illovo Sugar"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "associated-british-foods"
+            ],
+            "updatedAt": "2026-10-14T09:37:04.635Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Illovo_Sugar",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/27/ILLOVO_SUGAR_AFRICA_logo.png/250px-ILLOVO_SUGAR_AFRICA_logo.png",
+            "siteUrl": "https://illovosugarsa.co.za/"
+        },
+        "wander-ag": {
+            "key": "wander-ag",
+            "names": [
+                "Wander AG"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 10,
+            "ownedBy": [
+                "associated-british-foods"
+            ],
+            "updatedAt": "2026-10-14T09:37:05.377Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Wander_AG",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Wander_AG_Logo.svg/250px-Wander_AG_Logo.svg.png",
+            "siteUrl": "http://www.wander.ch/"
         }
     }
 }
