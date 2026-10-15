@@ -34424,7 +34424,7 @@
             ],
             "score": null,
             "ownedBy": [
-                "vf-outdoor"
+                "vf-corporation"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vans_%28brand%29_logo.svg/250px-Vans_%28brand%29_logo.svg.png",
             "siteUrl": "https://www.vans.com/",
@@ -34684,7 +34684,7 @@
             "tags": [
                 "food"
             ],
-            "score": null,
+            "score": 15,
             "ownedBy": [
                 "post-holdings"
             ],
@@ -41396,6 +41396,438 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Wander_AG",
             "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Wander_AG_Logo.svg/250px-Wander_AG_Logo.svg.png",
             "siteUrl": "http://www.wander.ch/"
+        },
+        "post-holdings": {
+            "key": "post-holdings",
+            "names": [
+                "Post Holdings",
+                "Post Holdings, Inc.",
+                "POST"
+            ],
+            "comment": "Post Holdings is an American company that has been accused of monopolistic price‑fixing [1], underpaying employees [2], and engaging in discriminatory employment practices [3]. The company has also faced environmental violations, including air pollution violations [4] and illegal ammonia releases [5][6], and has been linked to unsafe working conditions that resulted in an employee death [7].",
+            "sources": {
+                "1": "https://www.law360.com/articles/870885",
+                "2": "https://www.law360.com/articles/1068232/bob-evans-strikes-deal-to-end-servers-tip-credit-suit",
+                "3": "https://web.archive.org/web/20090813022716/http://eeoc.gov/litigation/settlements/settlement01-05.html",
+                "4": "https://archive.epa.gov/epapages/newsroom_archive/newsreleases/74157cc43982ed4f85257be5006495f0.html",
+                "5": "https://echo.epa.gov/enforcement-case-report?id=05-2022-7579",
+                "6": "https://echo.epa.gov/enforcement-case-report?id=05-2024-7825",
+                "7": "https://www.osha.gov/pls/imis/establishment.inspection_detail?id=1266349.015"
+            },
+            "sourceNotes": {
+                "1": "monopolistic price‑fixing",
+                "2": "underpaid employees",
+                "3": "engaged in discriminatory employment practices",
+                "4": "air pollution violations",
+                "5": "illiegally released ammonia into the environment",
+                "6": "illiegally released ammonia into the environment",
+                "7": "employee died in unsafe working conditions"
+            },
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Post_Holdings_logo.svg/250px-Post_Holdings_logo.svg.png",
+            "siteUrl": "https://www.postholdings.com/",
+            "updatedAt": "2026-10-13T23:51:01.668Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Post_Holdings"
+        },
+        "post-consumer-brands": {
+            "key": "post-consumer-brands",
+            "names": [
+                "Post Consumer Brands"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:23.448Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Post_Consumer_Brands",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Postconsumerbrands_logo.png/250px-Postconsumerbrands_logo.png",
+            "siteUrl": "https://www.postconsumerbrands.com/"
+        },
+        "michael-foods": {
+            "key": "michael-foods",
+            "names": [
+                "Michael Foods"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:23.564Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Foods",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Postconsumerbrands_logo.png/250px-Postconsumerbrands_logo.png",
+            "siteUrl": "https://www.postconsumerbrands.com/"
+        },
+        "bob-evans-farms": {
+            "key": "bob-evans-farms",
+            "names": [
+                "Bob Evans Farms"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:23.670Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Evans_Farms",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/7/73/Bob_Evans_logo.png/250px-Bob_Evans_logo.png",
+            "siteUrl": "https://www.bobevans.com/"
+        },
+        "weetabix-limited": {
+            "key": "weetabix-limited",
+            "names": [
+                "Weetabix Limited"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:23.738Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Weetabix_Limited",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e3/Weetabix_Food_Company_logo.png",
+            "siteUrl": "https://weetabixfoodcompany.co.uk/"
+        },
+        "8th-avenue": {
+            "key": "8th-avenue",
+            "names": [
+                "8th Avenue"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:23.809Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Attune_Foods"
+        },
+        "mom-brands": {
+            "key": "mom-brands",
+            "names": [
+                "MOM Brands"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:23.844Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/MOM_Brands",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/e/e3/MOM_Brands_Logo.png/250px-MOM_Brands_Logo.png",
+            "siteUrl": "http://www.postconsumerbrands.com/"
+        },
+        "9lives": {
+            "key": "9lives",
+            "names": [
+                "9Lives"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:23.898Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/9Lives",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/9lives_brand_logo.png",
+            "siteUrl": "https://www.9lives.com/"
+        },
+        "grape-nuts": {
+            "key": "grape-nuts",
+            "names": [
+                "Grape-Nuts"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:24.509Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Grape-Nuts",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Grape_nuts_logo.png/250px-Grape_nuts_logo.png",
+            "siteUrl": "https://www.grapenuts.com/"
+        },
+        "gravy-train": {
+            "key": "gravy-train",
+            "names": [
+                "Gravy Train"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:24.563Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Gravy_Train_(dog_food)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/3/33/Gravy_train_food_logo.png/250px-Gravy_train_food_logo.png",
+            "siteUrl": "https://www.gravytraindog.com/"
+        },
+        "honey-bunches-of-oats": {
+            "key": "honey-bunches-of-oats",
+            "names": [
+                "Honey Bunches of Oats"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:24.729Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Honey_Bunches_of_Oats",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/0/08/Honey_bunches_oat_logo.png/250px-Honey_bunches_oat_logo.png",
+            "siteUrl": "https://www.honeybunchesofoats.com/"
+        },
+        "honeycomb": {
+            "key": "honeycomb",
+            "names": [
+                "Honeycomb"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:24.931Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Honeycomb_(cereal)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Honeycomb_brand_logo.png/250px-Honeycomb_brand_logo.png",
+            "siteUrl": "https://www.postconsumerbrands.com/honeycomb/"
+        },
+        "kibbles-'n-bits": {
+            "key": "kibbles-'n-bits",
+            "names": [
+                "Kibbles 'n Bits"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:25.323Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kibbles_'n_Bits",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Kibbles_bits_logo.png/250px-Kibbles_bits_logo.png",
+            "siteUrl": "https://www.kibblesnbits.com/"
+        },
+        "pebbles": {
+            "key": "pebbles",
+            "names": [
+                "Pebbles"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:25.936Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pebbles_(cereal)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/6/62/Pebbles_cereal_brand_logo.png/250px-Pebbles_cereal_brand_logo.png",
+            "siteUrl": "https://www.pebblescereal.com/"
+        },
+        "peter-pan-peanut-butter": {
+            "key": "peter-pan-peanut-butter",
+            "names": [
+                "Peter Pan peanut butter"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:26.030Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Pan_(peanut_butter)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/3/31/Peter_Pan_%28peanut_butter%29_logo.png/250px-Peter_Pan_%28peanut_butter%29_logo.png",
+            "siteUrl": "https://www.peterpanpb.com/"
+        },
+        "raisin-bran": {
+            "key": "raisin-bran",
+            "names": [
+                "Raisin Bran"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:26.245Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Raisin_Bran",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Raisin-Bran-Bowl.jpg/250px-Raisin-Bran-Bowl.jpg"
+        },
+        "shredded-wheat": {
+            "key": "shredded-wheat",
+            "names": [
+                "Shredded Wheat"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:26.612Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Shredded_wheat",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Shredded_wheat_brand_logo.png/250px-Shredded_wheat_brand_logo.png",
+            "siteUrl": "https://www.postconsumerbrands.com/shredded-wheat/"
+        },
+        "ready-brek": {
+            "key": "ready-brek",
+            "names": [
+                "Ready Brek"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:26.840Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ready_Brek",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/7/7a/Ready_Brek_logo.jpg/250px-Ready_Brek_logo.jpg"
+        },
+        "weetos": {
+            "key": "weetos",
+            "names": [
+                "Weetos"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:26.942Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Weetos",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/a/a2/Weetos_logo.jpg/250px-Weetos_logo.jpg",
+            "siteUrl": "https://www.weetabixfoodcompany.co.uk/our-brands/weetos"
+        },
+        "airly-foods": {
+            "key": "airly-foods",
+            "names": [
+                "Airly Foods"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:27.129Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Airly_Foods",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Airly_Foods_Logo.png/250px-Airly_Foods_Logo.png",
+            "siteUrl": "https://airlyfoods.com/"
+        },
+        "dakota-growers-pasta-company": {
+            "key": "dakota-growers-pasta-company",
+            "names": [
+                "Dakota Growers Pasta Company"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "food"
+            ],
+            "score": 15,
+            "ownedBy": [
+                "post-holdings"
+            ],
+            "updatedAt": "2026-10-15T08:37:27.603Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Dakota_Growers",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/44/Dakota_growers_co_logo.png",
+            "siteUrl": "https://www.8avepasta.com/"
         }
     }
 }
