@@ -41828,6 +41828,648 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Dakota_Growers",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/44/Dakota_growers_co_logo.png",
             "siteUrl": "https://www.8avepasta.com/"
+        },
+        "mty-food-group": {
+            "key": "mty-food-group",
+            "names": [
+                "MTY Food Group",
+                "MTY Food Group Inc.",
+                "Golden Sky Resources",
+                "Golden Sky Ventures International",
+                "iNsu Innovations Group",
+                "Le Paradis du Pacifique",
+                "MTY"
+            ],
+            "comment": "MTY Food Group is a Canadian restaurant company that has made misleading statements about cage‑free egg usage [1].",
+            "sources": {
+                "1": "https://sustainablefoodbusiness.com/mty-food-group-false-statements-sustainability-filing/"
+            },
+            "sourceNotes": {
+                "1": "misleading statements about cage‑free egg usage"
+            },
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/MTY_Food_Group_logo_%282016%29.svg/250px-MTY_Food_Group_logo_%282016%29.svg.png",
+            "siteUrl": "http://www.mtygroup.com/",
+            "updatedAt": "2026-10-16T08:03:49.698Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/MTY_Food_Group"
+        },
+        "thai-express": {
+            "key": "thai-express",
+            "names": [
+                "Thaï Express"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:45.206Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Thaï_Express",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/3/34/Thai_Express_%28Canada%29_logo.svg/250px-Thai_Express_%28Canada%29_logo.svg.png",
+            "siteUrl": "http://www.thaiexpress.ca/"
+        },
+        "country-style": {
+            "key": "country-style",
+            "names": [
+                "Country Style"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:45.358Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Country_Style",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Country_Style_Logo.png",
+            "siteUrl": "https://countrystyle.com/"
+        },
+        "groupe-valentine": {
+            "key": "groupe-valentine",
+            "names": [
+                "Groupe Valentine"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:45.576Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Groupe_Valentine_Inc.",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Valentine_%28restaurant%29_logo.svg/250px-Valentine_%28restaurant%29_logo.svg.png",
+            "siteUrl": "http://valentine.ca/"
+        },
+        "vanelli's": {
+            "key": "vanelli's",
+            "names": [
+                "Vanelli's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:45.631Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/List_of_Canadian_restaurant_chains"
+        },
+        "extreme-pita": {
+            "key": "extreme-pita",
+            "names": [
+                "Extreme Pita"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:46.582Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Extreme_Pita",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/8/87/Extreme_Pita_logo.svg/250px-Extreme_Pita_logo.svg.png",
+            "siteUrl": "http://extremepita.com/"
+        },
+        "taco-time": {
+            "key": "taco-time",
+            "names": [
+                "Taco Time"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:47.149Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Taco_Time",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/a/aa/TacoTime_logo.svg/250px-TacoTime_logo.svg.png",
+            "siteUrl": "http://www.tacotime.com/"
+        },
+        "yogen-fruz": {
+            "key": "yogen-fruz",
+            "names": [
+                "Yogen Früz"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:47.458Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Yogen_Früz",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Yogen_Fruz_Logo.svg/330px-Yogen_Fruz_Logo.svg.png",
+            "siteUrl": "http://www.yogenfruz.com/"
+        },
+        "kahala-brands": {
+            "key": "kahala-brands",
+            "names": [
+                "Kahala Brands"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:47.648Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Kahala_Brands",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/2/29/Kahala_Brands_logo.svg/250px-Kahala_Brands_logo.svg.png",
+            "siteUrl": "http://kahalamgmt.com/"
+        },
+        "baja-fresh": {
+            "key": "baja-fresh",
+            "names": [
+                "Baja Fresh"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:47.718Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Baja_Fresh",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/8/8c/Logo_of_Baja_Fresh_%28Current%29.png/250px-Logo_of_Baja_Fresh_%28Current%29.png",
+            "siteUrl": "https://www.bajafresh.com/"
+        },
+        "cold-stone-creamery": {
+            "key": "cold-stone-creamery",
+            "names": [
+                "Cold Stone Creamery"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:47.804Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Cold_Stone_Creamery",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/e/eb/Cold_Stone_Creamery_logo.svg/250px-Cold_Stone_Creamery_logo.svg.png",
+            "siteUrl": "http://coldstonecreamery.com/"
+        },
+        "famous-dave's": {
+            "key": "famous-dave's",
+            "names": [
+                "Famous Dave's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:48.029Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Famous_Dave's",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/d/df/Famous_Dave%27s_logo.png/250px-Famous_Dave%27s_logo.png",
+            "siteUrl": "http://famousdaves.com/home"
+        },
+        "papa-murphy's": {
+            "key": "papa-murphy's",
+            "names": [
+                "Papa Murphy's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:48.335Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Papa_Murphy's",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Papa_Murphy%27s_2021.png/250px-Papa_Murphy%27s_2021.png",
+            "siteUrl": "http://papamurphys.com/"
+        },
+        "pinkberry": {
+            "key": "pinkberry",
+            "names": [
+                "Pinkberry"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:48.400Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pinkberry",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/d/dc/Pinkberry_logo.svg/250px-Pinkberry_logo.svg.png",
+            "siteUrl": "http://pinkberry.com/"
+        },
+        "planet-smoothie": {
+            "key": "planet-smoothie",
+            "names": [
+                "Planet Smoothie"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:48.602Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Planet_Smoothie",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Planet_Smoothie_logo.svg/250px-Planet_Smoothie_logo.svg.png",
+            "siteUrl": "http://planetsmoothie.com/"
+        },
+        "sweet-frog": {
+            "key": "sweet-frog",
+            "names": [
+                "Sweet Frog"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:49.148Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Sweet_Frog",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/9/96/Sweet_Frog_-_Premium_Frozen_Yogurt_logo_%28frogs_right%29.jpg/250px-Sweet_Frog_-_Premium_Frozen_Yogurt_logo_%28frogs_right%29.jpg",
+            "siteUrl": "http://www.sweetfrog.com/"
+        },
+        "manchu-wok": {
+            "key": "manchu-wok",
+            "names": [
+                "Manchu Wok"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:50.137Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Manchu_Wok",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Manchu_Wok_logo.svg/250px-Manchu_Wok_logo.svg.png",
+            "siteUrl": "https://www.manchuwok.com/"
+        },
+        "jugo-juice": {
+            "key": "jugo-juice",
+            "names": [
+                "Jugo Juice"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:50.210Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Jugo_Juice",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/MTY_Food_Group_logo_%282016%29.svg/250px-MTY_Food_Group_logo_%282016%29.svg.png",
+            "siteUrl": "http://www.mtygroup.com/"
+        },
+        "mr.-sub": {
+            "key": "mr.-sub",
+            "names": [
+                "Mr. Sub"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:50.912Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mr._Sub",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Mr._Sub_logo.svg/250px-Mr._Sub_logo.svg.png",
+            "siteUrl": "http://www.mrsub.ca/"
+        },
+        "imvescor-restaurant-group": {
+            "key": "imvescor-restaurant-group",
+            "names": [
+                "Imvescor Restaurant Group"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:51.450Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Imvescor_Restaurant_Group",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/MTY_Food_Group_logo_%282016%29.svg/250px-MTY_Food_Group_logo_%282016%29.svg.png",
+            "siteUrl": "http://www.mtygroup.com/"
+        },
+        "toujours-mikes": {
+            "key": "toujours-mikes",
+            "names": [
+                "Toujours Mikes"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:52.050Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Toujours_Mikes",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/6/68/IMV1602005-MikesLogo-Outlines_EN.jpg/250px-IMV1602005-MikesLogo-Outlines_EN.jpg",
+            "siteUrl": "http://www.mikes.ca/"
+        },
+        "pizza-delight": {
+            "key": "pizza-delight",
+            "names": [
+                "Pizza Delight"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:52.460Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Pizza_Delight",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pizza_Delight_logo.jpg",
+            "siteUrl": "http://www.pizzadelight.com/"
+        },
+        "scores-rotisserie": {
+            "key": "scores-rotisserie",
+            "names": [
+                "Scores Rotisserie"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:52.856Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Scores_Rotisserie",
+            "siteUrl": "http://www.scores.ca/"
+        },
+        "baton-rouge": {
+            "key": "baton-rouge",
+            "names": [
+                "Bâton Rouge"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:53.178Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Baton_Rouge_(restaurant)",
+            "siteUrl": "http://www.batonrouge.ca/en/"
+        },
+        "ben-and-florentine": {
+            "key": "ben-and-florentine",
+            "names": [
+                "Ben & Florentine"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:53.566Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_&amp;_Florentine",
+            "logoUrl": "https://benetflorentine.com/wp-content/uploads/2020/02/cropped-benflorentine_logo.png"
+        },
+        "van-houtte": {
+            "key": "van-houtte",
+            "names": [
+                "Van Houtte"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:53.854Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Van_Houtte",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/e/e5/Van_Houtte_Logo.svg/250px-Van_Houtte_Logo.svg.png",
+            "siteUrl": "https://www.vanhoutte.com/"
+        },
+        "la-salsa": {
+            "key": "la-salsa",
+            "names": [
+                "La Salsa"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:54.410Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Salsa",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/d/d5/La_Salsa_logo.svg/250px-La_Salsa_logo.svg.png",
+            "siteUrl": "https://www.lasalsa.com/"
+        },
+        "timothy's-world-coffee": {
+            "key": "timothy's-world-coffee",
+            "names": [
+                "Timothy's World Coffee"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:54.644Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Timothy's_World_Coffee",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/33/Timothy%27s_World_Coffee_logo.png",
+            "siteUrl": "http://timothyscafes.com/"
+        },
+        "mmmuffins": {
+            "key": "mmmuffins",
+            "names": [
+                "Mmmuffins"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:55.059Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Mmmuffins",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Mmmuffins.jpg/250px-Mmmuffins.jpg"
+        },
+        "bakers-square": {
+            "key": "bakers-square",
+            "names": [
+                "Bakers Square"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:55.433Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bakers_Square",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Bakers_Square.svg/250px-Bakers_Square.svg.png",
+            "siteUrl": "http://www.bakerssquare.com/"
+        },
+        "village-inn": {
+            "key": "village-inn",
+            "names": [
+                "Village Inn"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:55.824Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Village_Inn",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Village_Inn_logo.png",
+            "siteUrl": "https://www.villageinn.com/"
+        },
+        "tahoe-joe's": {
+            "key": "tahoe-joe's",
+            "names": [
+                "Tahoe Joe's"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "restaurants"
+            ],
+            "score": 47,
+            "ownedBy": [
+                "mty-food-group"
+            ],
+            "updatedAt": "2026-10-16T09:00:56.255Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Tahoe_Joe's",
+            "logoUrl": "https://www.tahoejoes.com/wp-content/uploads/2020/06/TahoeJoes_Logo_web@2x.png",
+            "siteUrl": "https://tahoejoes.com/"
         }
     }
 }
