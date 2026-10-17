@@ -1981,7 +1981,7 @@
             "tags": [
                 "beverages"
             ],
-            "score": null,
+            "score": 49,
             "ownedBy": [
                 "a.g.-barr"
             ],
@@ -8619,7 +8619,7 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 34,
             "ownedBy": [
                 "lvmh"
             ],
@@ -11593,9 +11593,9 @@
             "tags": [
                 "consumer goods"
             ],
-            "score": null,
+            "score": 6,
             "ownedBy": [
-                "reckitt-benckiser"
+                "reckitt"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/New_Logo_Durex.svg",
             "siteUrl": "https://durex.com/",
@@ -25132,9 +25132,9 @@
                 "retail",
                 "electronics"
             ],
-            "score": null,
+            "score": 24,
             "ownedBy": [
-                "jd.com"
+                "jingdong-group"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ceconomy_2017_logo.svg",
             "siteUrl": "https://www.ceconomy.de/",
@@ -25153,7 +25153,7 @@
                 "retail",
                 "electronics"
             ],
-            "score": null,
+            "score": 24,
             "ownedBy": [
                 "ceconomy"
             ],
@@ -25174,7 +25174,7 @@
                 "retail",
                 "electronics"
             ],
-            "score": null,
+            "score": 24,
             "ownedBy": [
                 "ceconomy"
             ],
@@ -25194,7 +25194,7 @@
             "tags": [
                 "toys"
             ],
-            "score": null,
+            "score": 36,
             "ownedBy": [
                 "spin-master"
             ],
@@ -31921,7 +31921,7 @@
             "tags": [
                 "telecommunications"
             ],
-            "score": null,
+            "score": 33,
             "ownedBy": [
                 "deutsche-telekom-ag"
             ],
@@ -34962,9 +34962,9 @@
             "tags": [
                 "retail"
             ],
-            "score": null,
+            "score": 44,
             "ownedBy": [
-                "cds-superstores"
+                "the-range"
             ],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Wilko.svg/250px-Wilko.svg.png",
             "siteUrl": "https://www.wilko.com/",
@@ -42470,6 +42470,97 @@
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Tahoe_Joe's",
             "logoUrl": "https://www.tahoejoes.com/wp-content/uploads/2020/06/TahoeJoes_Logo_web@2x.png",
             "siteUrl": "https://tahoejoes.com/"
+        },
+        "the-range": {
+            "key": "the-range",
+            "names": [
+                "The Range",
+                "CDS (Superstores International) Limited",
+                "Chris Dawson Superstores"
+            ],
+            "comment": "The Range is a UK-based retailer that failed to properly consult employees before redundancies [1] and engaged in unauthorized wage deductions [2][3].",
+            "sources": {
+                "1": "https://vinciworks.com/blog/wilkos-costly-collapse-the-employment-rights-bill-and-collective-consultation/",
+                "2": "https://assets.publishing.service.gov.uk/media/62a1f2dfd3bf7f037097be72/Mrs_T_Norton_V_The_Range_-_1404276.2021_-_Judgment.pdf",
+                "3": "https://assets.publishing.service.gov.uk/media/623b26538fa8f540f127aad2/Mr_D_Bessant___Others_-v-_Wilko_Retail_Ltd_1601269.2020___Others_-_Judgment.pdf"
+            },
+            "sourceNotes": {
+                "1": "failed to properly consult employees before redundancies",
+                "2": "unauthorized wage deductions",
+                "3": "unauthorized wage deductions"
+            },
+            "tags": [
+                "retail",
+                "home"
+            ],
+            "score": 44,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/6/60/The_Range_logo_22.png/250px-The_Range_logo_22.png",
+            "siteUrl": "https://www.therange.co.uk/",
+            "updatedAt": "2026-10-17T07:51:39.867Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Range_(retailer)"
+        },
+        "homebase": {
+            "key": "homebase",
+            "names": [
+                "Homebase"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "home"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "the-range"
+            ],
+            "updatedAt": "2026-10-17T08:16:23.036Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Homebase_(brand)",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/6/60/The_Range_logo_22.png/250px-The_Range_logo_22.png",
+            "siteUrl": "https://www.therange.co.uk/"
+        },
+        "bathstore": {
+            "key": "bathstore",
+            "names": [
+                "Bathstore"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "home"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "the-range"
+            ],
+            "updatedAt": "2026-10-17T08:16:23.426Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Bathstore",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/5/56/Bathstore-Logo.png/250px-Bathstore-Logo.png",
+            "siteUrl": "http://www.bathstore.com/"
+        },
+        "texas-homecare": {
+            "key": "texas-homecare",
+            "names": [
+                "Texas Homecare"
+            ],
+            "comment": "",
+            "sources": {},
+            "sourceNotes": {},
+            "tags": [
+                "retail",
+                "home"
+            ],
+            "score": 44,
+            "ownedBy": [
+                "the-range"
+            ],
+            "updatedAt": "2026-10-17T08:16:23.594Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Texas_Homecare",
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/0/08/Texas_Homecare_DIY_Logo.png/250px-Texas_Homecare_DIY_Logo.png"
         }
     }
 }
