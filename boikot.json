@@ -42561,6 +42561,61 @@
             "updatedAt": "2026-10-17T08:16:23.594Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Texas_Homecare",
             "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/0/08/Texas_Homecare_DIY_Logo.png/250px-Texas_Homecare_DIY_Logo.png"
+        },
+        "eli-lilly": {
+            "key": "eli-lilly",
+            "names": [
+                "Eli Lilly",
+                "Eli Lilly and Company",
+                "Lilly",
+                "LLY"
+            ],
+            "comment": "Eli Lilly is a U.S. pharmaceutical company that has inflated insulin prices through collusion [1][2][3], blocked whistleblowers and falsified manufacturing records [4], manipulated documents to cover up quality control issues [5], failed to disclose state lobbying spending [6], committed bribery to secure contracts in foreign markets [7], offered illegal kickbacks to doctors to boost prescriptions [8][9][10], and illegally promoted drugs for unapproved uses [11][12][13][14][15]. The company has also engaged in sex discrimination and harassment of female employees [16].",
+            "sources": {
+                "1": "https://www.drugwatch.com/manufacturers/eli-lilly/",
+                "2": "https://web.archive.org/web/20190131230558/https://www.reuters.com/article/us-usa-healthcare-insulin/u-s-lawmakers-request-info-from-insulin-makers-on-rising-prices-idUSKCN1PO2LQ",
+                "3": "https://www.wfyi.org/health/2026-01-05/indiana-attorney-general-sues-eli-lilly-insulin-prices-rokita",
+                "4": "https://www.foxbusiness.com/healthcare/insider-alleges-eli-lilly-blocked-her-efforts-to-sound-alarms-about-u-s-drug-factory",
+                "5": "https://www.reuters.com/business/healthcare-pharmaceuticals/exclusive-lilly-hit-by-staff-accusations-fda-scrutiny-covid-drug-factories-2021-05-05/",
+                "6": "https://www.citizen.org/news/despite-company-claims-eli-lilly-fails-to-disclose-its-state-lobbying-spending-for-half-the-country/",
+                "7": "https://www.anti-corruption.com/2572416/pharma-giant-eli-lilly-agrees-to-and36294-million-consent-judgment-to-settle-sec-charges-of-fcpa-violations-arising-out-of-its-operations-in-russia-china-brazil-and-poland.thtml",
+                "8": "https://www.fiercepharma.com/pharma/eli-lilly-pledges-vigorous-defense-texas-ag-and-return-relator-sue-over-alleged-kickback",
+                "9": "https://www.mckoolsmith.com/newsroom-pressreleases-383",
+                "10": "https://texasscorecard.com/state/texas-ag-sues-big-pharma-company-eli-lilly-for-bribery/",
+                "11": "https://www.justice.gov/archive/opa/pr/2009/January/09-civ-038.html",
+                "12": "https://www.bmj.com/content/338/bmj.b217",
+                "13": "https://www.justice.gov/archive/opa/pr/2005/December/05_civ_685.html",
+                "14": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1781986/",
+                "15": "https://www.sec.gov/Archives/edgar/data/59478/000129993305004762/htm_7115.htm",
+                "16": "https://www.fiercepharma.com/pharma/biopharma-lobbying-powerhouse-sues-lilly-over-sex-discrimination-hostile-workplace"
+            },
+            "sourceNotes": {
+                "1": "inflated insulin prices through collusion",
+                "2": "inflated insulin prices through collusion",
+                "3": "inflated insulin prices through collusion",
+                "4": "blocked whistleblower and falsified manufacturing records",
+                "5": "manipulated documents to cover up quality control issues",
+                "6": "failed to disclose state lobbying spending",
+                "7": "committed bribery to secure contracts in foreign markets",
+                "8": "offered illegal kickbacks to doctors to boost drug prescriptions",
+                "9": "offered illegal kickbacks to doctors to boost drug prescriptions",
+                "10": "offered illegal kickbacks to doctors to boost drug prescriptions",
+                "11": "illegally promoted drug for unapproved uses",
+                "12": "illegally promoted drug for unapproved uses",
+                "13": "illegally promoted drug for unapproved uses",
+                "14": "illegally promoted drug for unapproved uses",
+                "15": "illegally promoted drug for unapproved uses",
+                "16": "sex discrimination and harassment of female employees"
+            },
+            "tags": [
+                "healthcare"
+            ],
+            "score": 18,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Eli_Lilly_and_Company.svg/250px-Eli_Lilly_and_Company.svg.png",
+            "siteUrl": "https://www.lilly.com/",
+            "updatedAt": "2026-10-18T20:45:47.814Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company"
         }
     }
 }
