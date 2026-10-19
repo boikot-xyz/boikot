@@ -50,7 +50,13 @@
                 "unsustainable",
                 "anticompetitive",
                 "tax avoidance",
-                "poor working conditions"
+                "poor working conditions",
+                "anticompetitive practices",
+                "unsustainable practices",
+                "privacy violations",
+                "environmental violations",
+                "fossil fuels",
+                "deception"
             ],
             "score": 20,
             "ownedBy": [],
@@ -87,7 +93,10 @@
             "tags": [
                 "bank",
                 "corruption",
-                "greenwashing"
+                "greenwashing",
+                "tax avoidance",
+                "unsustainable practices",
+                "fossil fuels"
             ],
             "score": 35,
             "ownedBy": [],
@@ -115,7 +124,9 @@
                 "electronics",
                 "corruption",
                 "anticompetitive",
-                "antiunion"
+                "antiunion",
+                "anti-union practices",
+                "anticompetitive practices"
             ],
             "score": 45,
             "ownedBy": [],
@@ -152,7 +163,10 @@
                 "proprivacy",
                 "anticompetitive",
                 "greenwashing",
-                "poor working conditions"
+                "poor working conditions",
+                "anticompetitive practices",
+                "unsafe working conditions",
+                "deception"
             ],
             "score": 55,
             "ownedBy": [],
@@ -190,7 +204,10 @@
                 "anticompetitive",
                 "sexual harassment",
                 "poor working conditions",
-                "unsustainable"
+                "unsustainable",
+                "anti-union practices",
+                "environmental violations",
+                "anticompetitive practices"
             ],
             "score": 37,
             "ownedBy": [],
@@ -256,7 +273,11 @@
                 "electronics",
                 "anticompetitive",
                 "antiprivacy",
-                "tax avoidance"
+                "tax avoidance",
+                "anticompetitive practices",
+                "privacy violations",
+                "environmental violations",
+                "unsustainable practices"
             ],
             "score": 35,
             "ownedBy": [],
@@ -277,7 +298,8 @@
             },
             "tags": [
                 "tech",
-                "ai"
+                "ai",
+                ""
             ],
             "score": 70,
             "ownedBy": [],
@@ -307,7 +329,9 @@
             "tags": [
                 "tech",
                 "media",
-                "antiprivacy"
+                "antiprivacy",
+                "privacy violations",
+                "unsafe practices"
             ],
             "score": 20,
             "ownedBy": [
@@ -337,7 +361,10 @@
                 "cars",
                 "discrimination",
                 "unsustainable",
-                "unsafe working conditions"
+                "unsafe working conditions",
+                "environment violations",
+                "unsafe practices",
+                "racial discrimination"
             ],
             "score": 45,
             "ownedBy": [],
@@ -367,7 +394,9 @@
                 "beverages",
                 "plastic",
                 "water depletion",
-                "unsustainable"
+                "unsustainable",
+                "unsustainable practices",
+                "environmental violations"
             ],
             "score": 10,
             "ownedBy": [],
@@ -591,7 +620,8 @@
             },
             "tags": [
                 "video games",
-                "poor working conditions"
+                "poor working conditions",
+                "deception"
             ],
             "score": 50,
             "ownedBy": [
@@ -620,7 +650,9 @@
                 "beverages",
                 "plastic",
                 "water depletion",
-                "deforestation"
+                "deforestation",
+                "unsustainable practices",
+                "environmental violations"
             ],
             "score": 20,
             "ownedBy": [],
@@ -647,7 +679,8 @@
                 "food",
                 "beverages",
                 "child labour",
-                "russia"
+                "russia",
+                "connections to russia"
             ],
             "score": 10,
             "ownedBy": [],
@@ -1243,7 +1276,15 @@
                 "15": "founded by a nazi"
             },
             "tags": [
-                "consumer goods"
+                "consumer goods",
+                "antico‑competitive practices",
+                "deception",
+                "racial discrimination",
+                "gender discrimination",
+                "child labour",
+                "greenwashing",
+                "connections to israel",
+                "environmental violations"
             ],
             "score": 15,
             "ownedBy": [],
@@ -1264,7 +1305,8 @@
             },
             "tags": [
                 "beverages",
-                "plastic"
+                "plastic",
+                "unsustainable practices"
             ],
             "score": 50,
             "ownedBy": [],
@@ -1533,7 +1575,9 @@
             "tags": [
                 "beverages",
                 "water depletion",
-                "plastic"
+                "plastic",
+                "unsustainable practices",
+                "environmental violations"
             ],
             "score": 30,
             "ownedBy": [],
@@ -1890,7 +1934,8 @@
                 "5": "https://www.redbullracing.com/int-en/tackling-global-sustainability-with-global-standard"
             },
             "tags": [
-                "beverages"
+                "beverages",
+                "unsafe practices"
             ],
             "score": 50,
             "ownedBy": [],
@@ -1933,7 +1978,10 @@
             "tags": [
                 "transport",
                 "public transport",
-                "unfair pay"
+                "unfair pay",
+                "deception",
+                "privacy violations",
+                "data breach"
             ],
             "score": 65,
             "ownedBy": [],
@@ -1958,7 +2006,8 @@
             },
             "tags": [
                 "ecommerce",
-                "retail"
+                "retail",
+                ""
             ],
             "score": 70,
             "ownedBy": [],
@@ -2016,7 +2065,12 @@
                 "discrimination",
                 "tax avoidance",
                 "animal abuse",
-                "proisrael"
+                "proisrael",
+                "racial discrimination",
+                "unsustainable practices",
+                "environmental violations",
+                "connections to israel",
+                "fossil fuels"
             ],
             "score": 5,
             "ownedBy": [],
@@ -2118,7 +2172,9 @@
             "tags": [
                 "fast food",
                 "poor working conditions",
-                "russia"
+                "russia",
+                "unfair pay",
+                "connections to russia"
             ],
             "score": 25,
             "ownedBy": [],
@@ -2141,7 +2197,8 @@
             },
             "tags": [
                 "bank",
-                "building society"
+                "building society",
+                "none"
             ],
             "score": 80,
             "ownedBy": [],
@@ -2171,7 +2228,9 @@
             },
             "tags": [
                 "bank",
-                "unsustainable"
+                "unsustainable",
+                "fossil fuels",
+                "unsustainable practices"
             ],
             "score": 35,
             "ownedBy": [],
@@ -2193,7 +2252,8 @@
             "tags": [
                 "tech",
                 "entertainment",
-                "antiprivacy"
+                "antiprivacy",
+                "privacy violations"
             ],
             "score": 50,
             "ownedBy": [],
@@ -2227,7 +2287,10 @@
                 "tech",
                 "social media",
                 "antiprivacy",
-                "tax avoidance"
+                "tax avoidance",
+                "privacy violations",
+                "data breach",
+                "deception"
             ],
             "score": 10,
             "ownedBy": [],
@@ -2528,7 +2591,8 @@
             "tags": [
                 "beverages",
                 "poor working conditions",
-                "sexual harassment"
+                "sexual harassment",
+                "gender discrimination"
             ],
             "score": 35,
             "ownedBy": [],
@@ -2556,7 +2620,11 @@
             "tags": [
                 "toys",
                 "plastic",
-                "unsustainable"
+                "unsustainable",
+                "fossil fuels",
+                "gender discrimination",
+                "unsustainable practices",
+                "environmental violations"
             ],
             "score": 60,
             "ownedBy": [],
@@ -2587,7 +2655,8 @@
             "tags": [
                 "supermarket",
                 "retail",
-                "propalestine"
+                "propalestine",
+                "connections to israel"
             ],
             "score": 85,
             "ownedBy": [],
@@ -2651,7 +2720,8 @@
                 "retail",
                 "unfair pay",
                 "poor working conditions",
-                "anticompetitive"
+                "anticompetitive",
+                "forced labour"
             ],
             "score": 40,
             "ownedBy": [],
@@ -2698,7 +2768,11 @@
                 "retail",
                 "poor working conditions",
                 "antiprivacy",
-                "deforestation"
+                "deforestation",
+                "environmental violations",
+                "unsustainable practices",
+                "privacy violations",
+                "unsafe practices"
             ],
             "score": 15,
             "ownedBy": [],
@@ -2724,7 +2798,8 @@
                 "retail",
                 "forced labour",
                 "anticompetitive",
-                "unsustainable"
+                "unsustainable",
+                "forced uyghur labour"
             ],
             "score": 20,
             "ownedBy": [],
@@ -2850,7 +2925,9 @@
                 "fast fashion",
                 "discrimination",
                 "greenwashing",
-                "unsustainable"
+                "unsustainable",
+                "connections to israel",
+                "racial discrimination"
             ],
             "score": 30,
             "ownedBy": [],
@@ -2945,7 +3022,11 @@
                 "retail",
                 "child labour",
                 "discrimination",
-                "poor working conditions"
+                "poor working conditions",
+                "forced labour",
+                "unfair pay",
+                "unsafe working conditions",
+                "connections to israel"
             ],
             "score": 40,
             "ownedBy": [],
@@ -2973,7 +3054,10 @@
                 "retail",
                 "discrimination",
                 "unsustainable",
-                "animal abuse"
+                "animal abuse",
+                "deception",
+                "greenwashing",
+                "unsustainable practices"
             ],
             "score": 35,
             "ownedBy": [],
@@ -3017,7 +3101,17 @@
                 "discrimination",
                 "poor working conditions",
                 "anticompetitive",
-                "antiunion"
+                "antiunion",
+                "anticompetitive practices",
+                "anti-union practices",
+                "racial discrimination",
+                "gender discrimination",
+                "tax avoidance",
+                "privacy violations",
+                "unsustainable practices",
+                "greenwashing",
+                "environmental violations",
+                "deception"
             ],
             "score": 5,
             "ownedBy": [],
@@ -3047,7 +3141,10 @@
             "tags": [
                 "ecommerce",
                 "poor working conditions",
-                "unsafe working conditions"
+                "unsafe working conditions",
+                "tax avoidance",
+                "unsustainable practices",
+                "unsafe practices"
             ],
             "score": 45,
             "ownedBy": [],
@@ -3073,7 +3170,8 @@
             },
             "tags": [
                 "tech",
-                "tax avoidance"
+                "tax avoidance",
+                "poor working conditions"
             ],
             "score": 40,
             "ownedBy": [],
@@ -3107,7 +3205,11 @@
                 "anticompetitive",
                 "deforestation",
                 "animal abuse",
-                "forced labour"
+                "forced labour",
+                "anticompetitive practices",
+                "deception",
+                "unsustainable practices",
+                "environmental violations"
             ],
             "score": 30,
             "ownedBy": [],
@@ -3131,7 +3233,10 @@
             "tags": [
                 "cars",
                 "unsustainable",
-                "emissions cheating"
+                "emissions cheating",
+                "deception",
+                "unsustainable practices",
+                "environmental violations"
             ],
             "score": 36,
             "ownedBy": [],
@@ -3156,7 +3261,8 @@
             "tags": [
                 "restaurant",
                 "beverages",
-                "food"
+                "food",
+                ""
             ],
             "score": 70,
             "ownedBy": [],
@@ -3248,7 +3354,10 @@
                 "antiprivacy",
                 "antiunion",
                 "anticompetitive",
-                "tax avoidance"
+                "tax avoidance",
+                "anti-union practices",
+                "anticompetitive practices",
+                "privacy violations"
             ],
             "score": 20,
             "ownedBy": [],
@@ -3277,7 +3386,9 @@
                 "entertainment",
                 "electronics",
                 "antiprivacy",
-                "anticompetitive"
+                "anticompetitive",
+                "anticompetitive practices",
+                "privacy violations"
             ],
             "score": 50,
             "ownedBy": [],
@@ -3300,7 +3411,8 @@
             "tags": [
                 "retail",
                 "supermarket",
-                "poor working conditions"
+                "poor working conditions",
+                "unfair pay"
             ],
             "score": 45,
             "ownedBy": [],
@@ -3324,7 +3436,9 @@
                 "2": "https://www.fastcompany.com/1665003/dell-lawsuit-highlights-broken-pcs-dirty-business-dealings"
             },
             "tags": [
-                "tech"
+                "tech",
+                "deception",
+                "greenwashing"
             ],
             "score": 65,
             "ownedBy": [],
@@ -3346,7 +3460,11 @@
             },
             "tags": [
                 "tech",
-                "unsustainable"
+                "unsustainable",
+                "deception",
+                "environmental violations",
+                "unsafe practices",
+                "fossil fuels"
             ],
             "score": 40,
             "ownedBy": [],
@@ -3376,7 +3494,10 @@
                 "clothing",
                 "child labour",
                 "tax avoidance",
-                "forced labour"
+                "forced labour",
+                "forced uyghur labour",
+                "environmental violations",
+                "unsustainable practices"
             ],
             "score": 40,
             "ownedBy": [],
@@ -3398,7 +3519,8 @@
             "tags": [
                 "restaurant",
                 "fast food",
-                "food"
+                "food",
+                ""
             ],
             "score": 70,
             "ownedBy": [
@@ -3452,7 +3574,9 @@
                 "restaurant",
                 "bar",
                 "pub",
-                "poor working conditions"
+                "poor working conditions",
+                "unfair pay",
+                "environmental violations"
             ],
             "score": 45,
             "ownedBy": [],
@@ -3609,7 +3733,10 @@
                 "beverages",
                 "tax avoidance",
                 "poor working conditions",
-                "antiunion"
+                "antiunion",
+                "unfair pay",
+                "racial discrimination",
+                "anti-union practices"
             ],
             "score": 35,
             "ownedBy": [],
@@ -3655,7 +3782,12 @@
             },
             "tags": [
                 "retail",
-                "supermarket"
+                "supermarket",
+                "animal abuse",
+                "forced labour",
+                "unsafe working conditions",
+                "deforestation",
+                "environmental violations"
             ],
             "score": 7,
             "ownedBy": [],
@@ -3675,7 +3807,8 @@
             },
             "tags": [
                 "restaurant",
-                "poor working conditions"
+                "poor working conditions",
+                "unfair pay"
             ],
             "score": 40,
             "ownedBy": [
@@ -3700,7 +3833,8 @@
             "tags": [
                 "restaurant",
                 "food",
-                "discrimination"
+                "discrimination",
+                "unsafe practices"
             ],
             "score": 39,
             "ownedBy": [],
@@ -3724,7 +3858,10 @@
             "tags": [
                 "fast food",
                 "discrimination",
-                "poor working conditions"
+                "poor working conditions",
+                "gender discrimination",
+                "sexual harassment",
+                "unfair pay"
             ],
             "score": 40,
             "ownedBy": [],
@@ -3749,7 +3886,9 @@
                 "pizza",
                 "sexual harassment",
                 "discrimination",
-                "poor working conditions"
+                "poor working conditions",
+                "racial discrimination",
+                "gender discrimination"
             ],
             "score": 40,
             "ownedBy": [],
@@ -3790,7 +3929,8 @@
             "tags": [
                 "restaurant",
                 "food",
-                "fast food"
+                "fast food",
+                ""
             ],
             "score": 75,
             "ownedBy": [],
@@ -3819,7 +3959,9 @@
                 "food",
                 "poor working conditions",
                 "discrimination",
-                "sexual harassment"
+                "sexual harassment",
+                "gender discrimination",
+                "unfair pay"
             ],
             "score": 40,
             "ownedBy": [],
@@ -3847,7 +3989,9 @@
                 "food",
                 "fast food",
                 "poor working conditions",
-                "unsafe working conditions"
+                "unsafe working conditions",
+                "unfair pay",
+                "unsafe practices"
             ],
             "score": 40,
             "ownedBy": [],
@@ -3870,7 +4014,10 @@
             "tags": [
                 "clothing",
                 "poor working conditions",
-                "discrimination"
+                "discrimination",
+                "racial discrimination",
+                "forced labour",
+                "unsafe working conditions"
             ],
             "score": 42,
             "ownedBy": [],
@@ -3898,7 +4045,9 @@
                 "fast fashion",
                 "retail",
                 "poor working conditions",
-                "forced labour"
+                "forced labour",
+                "unsafe working conditions",
+                "connections to russia"
             ],
             "score": 25,
             "ownedBy": [],
@@ -3927,7 +4076,8 @@
                 "social media",
                 "news",
                 "tech",
-                "media"
+                "media",
+                "racial discrimination"
             ],
             "score": 48,
             "ownedBy": [],
@@ -4018,7 +4168,8 @@
             },
             "tags": [
                 "finance",
-                "tech"
+                "tech",
+                "corruption"
             ],
             "score": 41,
             "ownedBy": [],
@@ -4074,7 +4225,8 @@
             },
             "tags": [
                 "tech",
-                "music"
+                "music",
+                "unfair pay"
             ],
             "score": 40,
             "ownedBy": [],
@@ -4111,7 +4263,12 @@
                 "deforestation",
                 "child labour",
                 "anticompetitive",
-                "unsustainable"
+                "unsustainable",
+                "connections to israel",
+                "anticompetitive practices",
+                "racial discrimination",
+                "unsustainable practices",
+                "connections to russia"
             ],
             "score": 5,
             "ownedBy": [],
@@ -4195,7 +4352,11 @@
                 "unsustainable",
                 "deforestation",
                 "child labour",
-                "russia"
+                "russia",
+                "connections to russia",
+                "unsustainable practices",
+                "environmental violations",
+                "greenwashing"
             ],
             "score": 20,
             "ownedBy": [],
@@ -4384,7 +4545,11 @@
                 "clothing",
                 "retail",
                 "poor working conditions",
-                "forced labour"
+                "forced labour",
+                "anti-union practices",
+                "gender discrimination",
+                "unfair pay",
+                "deception"
             ],
             "score": 10,
             "ownedBy": [],
@@ -4413,7 +4578,10 @@
                 "clothing",
                 "retail",
                 "animal abuse",
-                "unsustainable"
+                "unsustainable",
+                "deception",
+                "unsustainable practices",
+                "greenwashing"
             ],
             "score": 45,
             "ownedBy": [],
@@ -4435,7 +4603,11 @@
             },
             "tags": [
                 "food",
-                "unsustainable"
+                "unsustainable",
+                "deception",
+                "environmental violations",
+                "unsustainable practices",
+                "deforestation"
             ],
             "score": 40,
             "ownedBy": [],
@@ -4593,7 +4765,8 @@
                 "retail",
                 "poor working conditions",
                 "child labour",
-                "unsafe working conditions"
+                "unsafe working conditions",
+                "anti‑union practices"
             ],
             "score": 20,
             "ownedBy": [],
@@ -4635,7 +4808,8 @@
             "tags": [
                 "supermarket",
                 "retail",
-                "poor working conditions"
+                "poor working conditions",
+                "unfair pay"
             ],
             "score": 60,
             "ownedBy": [],
@@ -4662,7 +4836,10 @@
                 "antiprivacy",
                 "poor working conditions",
                 "animal abuse",
-                "antiunion"
+                "antiunion",
+                "anti-union practices",
+                "privacy violations",
+                "deception"
             ],
             "score": 30,
             "ownedBy": [
@@ -4689,7 +4866,10 @@
                 "retail",
                 "unfair pay",
                 "animal abuse",
-                "discrimination"
+                "discrimination",
+                "greenwashing",
+                "gender discrimination",
+                "deception"
             ],
             "score": 38,
             "ownedBy": [],
@@ -4733,7 +4913,9 @@
                 "fast food",
                 "restaurant",
                 "discrimination",
-                "unsustainable"
+                "unsustainable",
+                "gender discrimination",
+                "unsustainable practices"
             ],
             "score": 15,
             "ownedBy": [
@@ -4784,7 +4966,8 @@
                 "fast food",
                 "animal abuse",
                 "sexual harassment",
-                "poor working conditions"
+                "poor working conditions",
+                "unfair pay"
             ],
             "score": 20,
             "ownedBy": [],
@@ -4862,7 +5045,11 @@
             },
             "tags": [
                 "confectionary",
-                "food"
+                "food",
+                "deception",
+                "environmental violations",
+                "unsustainable practices",
+                "corruption"
             ],
             "score": 45,
             "ownedBy": [],
@@ -4885,7 +5072,8 @@
             "tags": [
                 "restaurant",
                 "food",
-                "animal abuse"
+                "animal abuse",
+                "deception"
             ],
             "score": 35,
             "ownedBy": [],
@@ -4907,7 +5095,8 @@
             "tags": [
                 "fast food",
                 "restaurant",
-                "poor working conditions"
+                "poor working conditions",
+                "unfair pay"
             ],
             "score": 45,
             "ownedBy": [],
@@ -4931,7 +5120,8 @@
             "tags": [
                 "restaurant",
                 "food",
-                "poor working conditions"
+                "poor working conditions",
+                "unfair pay"
             ],
             "score": 46,
             "ownedBy": [],
@@ -4955,7 +5145,11 @@
             },
             "tags": [
                 "cars",
-                "emissions cheating"
+                "emissions cheating",
+                "deception",
+                "environmental violations",
+                "greenwashing",
+                "unsustainable practices"
             ],
             "score": 35,
             "ownedBy": [],
@@ -5141,7 +5335,12 @@
                 "cars",
                 "poor working conditions",
                 "emissions cheating",
-                "unsustainable"
+                "unsustainable",
+                "unsafe working conditions",
+                "deception",
+                "environmental violations",
+                "unsafe practices",
+                "greenwashing"
             ],
             "score": 35,
             "ownedBy": [],
@@ -5180,7 +5379,9 @@
             },
             "tags": [
                 "cars",
-                "emissions cheating"
+                "emissions cheating",
+                "deception",
+                "environmental violations"
             ],
             "score": 38,
             "ownedBy": [],
@@ -5428,7 +5629,9 @@
             },
             "tags": [
                 "cars",
-                "emissions cheating"
+                "emissions cheating",
+                "environmental violations",
+                "deception"
             ],
             "score": 40,
             "ownedBy": [],
@@ -5453,7 +5656,11 @@
             "tags": [
                 "cars",
                 "unsafe working conditions",
-                "emissions cheating"
+                "emissions cheating",
+                "corruption",
+                "deception",
+                "environmental violations",
+                "unsafe practices"
             ],
             "score": 38,
             "ownedBy": [],
@@ -5478,7 +5685,10 @@
             },
             "tags": [
                 "cars",
-                "emissions cheating"
+                "emissions cheating",
+                "corruption",
+                "deception",
+                "environmental violations"
             ],
             "score": 37,
             "ownedBy": [],
@@ -5503,7 +5713,12 @@
             "tags": [
                 "cars",
                 "emissions cheating",
-                "child labour"
+                "child labour",
+                "deception",
+                "environmental violations",
+                "unsafe practices",
+                "greenwashing",
+                "unsustainable practices"
             ],
             "score": 35,
             "ownedBy": [],
@@ -5552,7 +5767,10 @@
             "tags": [
                 "cars",
                 "russia",
-                "emissions cheating"
+                "emissions cheating",
+                "connections to russia",
+                "deception",
+                "environmental violations"
             ],
             "score": 35,
             "ownedBy": [],
@@ -5593,7 +5811,13 @@
             },
             "tags": [
                 "cars",
-                "emissions cheating"
+                "emissions cheating",
+                "deception",
+                "environmental violations",
+                "greenwashing",
+                "unsustainable practices",
+                "fossil fuels",
+                "unsafe practices"
             ],
             "score": 26,
             "ownedBy": [
@@ -5636,7 +5860,9 @@
             },
             "tags": [
                 "cars",
-                "emissions cheating"
+                "emissions cheating",
+                "deception",
+                "environmental violations"
             ],
             "score": 40,
             "ownedBy": [],
@@ -5657,7 +5883,9 @@
             },
             "tags": [
                 "cars",
-                "emissions cheating"
+                "emissions cheating",
+                "deception",
+                "environmental violations"
             ],
             "score": 30,
             "ownedBy": [],
@@ -5681,7 +5909,11 @@
             },
             "tags": [
                 "cars",
-                "emissions cheating"
+                "emissions cheating",
+                "deception",
+                "environmental violations",
+                "unsustainable practices",
+                "fossil fuels"
             ],
             "score": 40,
             "ownedBy": [
@@ -5705,7 +5937,9 @@
                 "1": "https://money.cnn.com/2016/04/26/news/companies/mitsubishi-cheating-fuel-tests-25-years/index.html"
             },
             "tags": [
-                "cars"
+                "cars",
+                "deception",
+                "greenwashing"
             ],
             "score": 35,
             "ownedBy": [],
@@ -5730,7 +5964,10 @@
             "tags": [
                 "cars",
                 "forced labour",
-                "unsafe working conditions"
+                "unsafe working conditions",
+                "racial discrimination",
+                "forced uyghur labour",
+                "unsafe practices"
             ],
             "score": 15,
             "ownedBy": [],
@@ -5838,7 +6075,11 @@
                 "poor working conditions",
                 "sexual harassment",
                 "antiprivacy",
-                "tax avoidance"
+                "tax avoidance",
+                "deception",
+                "unfair pay",
+                "privacy violations",
+                "unsafe working conditions"
             ],
             "score": 30,
             "ownedBy": [],
@@ -5869,7 +6110,12 @@
                 "media",
                 "entertainment",
                 "forced labour",
-                "sexual harassment"
+                "sexual harassment",
+                "poor working conditions",
+                "unfair pay",
+                "gender discrimination",
+                "privacy violations",
+                "unsafe working conditions"
             ],
             "score": 20,
             "ownedBy": [],
@@ -5895,7 +6141,9 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "forced uyghur labour",
+                "unfair pay"
             ],
             "score": 44,
             "ownedBy": [],
@@ -5992,7 +6240,8 @@
             },
             "tags": [
                 "healthcare",
-                "tech"
+                "tech",
+                "none"
             ],
             "score": 85,
             "ownedBy": [],
@@ -6148,7 +6397,10 @@
                 "5": "https://www.mirror.co.uk/2011/07/11/phone-hacking-9-11-victims-may-have-had-mobiles-tapped-by-news-of-the-world-reporters-115875-23262694/"
             },
             "tags": [
-                "news"
+                "news",
+                "corruption",
+                "privacy violations",
+                "data breach"
             ],
             "score": 25,
             "ownedBy": [
@@ -6174,7 +6426,10 @@
                 "4": "https://en.archive.maquilasolidarity.org/en/node/369"
             },
             "tags": [
-                "clothing"
+                "clothing",
+                "unfair pay",
+                "unsustainable practices",
+                "environmental violations"
             ],
             "score": 40,
             "ownedBy": [],
@@ -6194,7 +6449,9 @@
                 "3": "https://www.telegraph.co.uk/food-and-drink/drinks/the-great-bottled-water-scandal/"
             },
             "tags": [
-                "beverages"
+                "beverages",
+                "environmental violations",
+                "unsustainable practices"
             ],
             "score": 30,
             "ownedBy": [],
@@ -6213,7 +6470,8 @@
                 "1": "https://web.archive.org/web/20240715143848/https://www.tp-link.com/uk/sustainability/"
             },
             "tags": [
-                "electronics"
+                "electronics",
+                "greenwashing"
             ],
             "score": 48,
             "ownedBy": [],
@@ -6236,7 +6494,9 @@
             },
             "tags": [
                 "electronics",
-                "antiprivacy"
+                "antiprivacy",
+                "privacy violations",
+                "deception"
             ],
             "score": 38,
             "ownedBy": [],
@@ -6293,7 +6553,8 @@
             },
             "tags": [
                 "beverages",
-                "food"
+                "food",
+                "deception"
             ],
             "score": 44,
             "ownedBy": [],
@@ -6313,7 +6574,8 @@
             "sources": {},
             "tags": [
                 "retail",
-                "food"
+                "food",
+                ""
             ],
             "score": 50,
             "ownedBy": [],
@@ -6449,7 +6711,11 @@
             },
             "tags": [
                 "ecommerce",
-                "retail"
+                "retail",
+                "tax avoidance",
+                "unsustainable practices",
+                "environmental violations",
+                "sexual harassment"
             ],
             "score": 60,
             "ownedBy": [],
@@ -6470,7 +6736,8 @@
                 "3": "https://www.walesonline.co.uk/lifestyle/tv/moonpig-remove-divisive-nella-card-28211586"
             },
             "tags": [
-                "retail"
+                "retail",
+                "privacy violations"
             ],
             "score": 50,
             "ownedBy": [],
@@ -6513,7 +6780,9 @@
             "tags": [
                 "clothing",
                 "anticompetitive",
-                "antiunion"
+                "antiunion",
+                "anticompetitive practices",
+                "anti-union practices"
             ],
             "score": 44,
             "ownedBy": [],
@@ -6610,7 +6879,9 @@
                 "3": "https://web.archive.org/web/20130512185359/https://www.fs.fed.us/t-d/pubs/pdfpubs/pdf08512348/pdf08512348dpi72.pdf"
             },
             "tags": [
-                "clothing"
+                "clothing",
+                "animal abuse",
+                "unsafe practices"
             ],
             "score": 42,
             "ownedBy": [],
@@ -6638,7 +6909,9 @@
             },
             "tags": [
                 "clothing",
-                "fastfashion"
+                "fastfashion",
+                "racial discrimination",
+                "anti-union practices"
             ],
             "score": 35,
             "ownedBy": [],
@@ -6697,7 +6970,9 @@
             },
             "tags": [
                 "consumer goods",
-                "pharmaceuticals"
+                "pharmaceuticals",
+                "anticompetitive practices",
+                "unsafe products"
             ],
             "score": 40,
             "ownedBy": [],
@@ -6833,7 +7108,8 @@
             },
             "tags": [
                 "electronics",
-                "antiprivacy"
+                "antiprivacy",
+                "privacy violations"
             ],
             "score": 47,
             "ownedBy": [
@@ -6859,7 +7135,11 @@
                 "3": "https://fortune.com/2023/09/29/guess-settlement-marciano-sexual-misconduct-lawsuit/"
             },
             "tags": [
-                "clothing"
+                "clothing",
+                "forced uyghur labour",
+                "forced labour",
+                "poor working conditions",
+                "sexual harassment"
             ],
             "score": 40,
             "ownedBy": [],
@@ -6887,7 +7167,9 @@
             "tags": [
                 "video games",
                 "anticompetitive",
-                "sexual harassment"
+                "sexual harassment",
+                "anticompetitive practices",
+                "gender discrimination"
             ],
             "score": 43,
             "ownedBy": [],
@@ -6910,7 +7192,10 @@
                 "4": "https://abcnews.go.com/US/fisher-price-warnings-rock-play-sleepers-led-dozens/story?id=78128719"
             },
             "tags": [
-                "toys"
+                "toys",
+                "poor working conditions",
+                "unsafe working conditions",
+                "unsafe practices"
             ],
             "score": 10,
             "ownedBy": [],
@@ -6990,7 +7275,11 @@
                 "6": "https://web.archive.org/web/20211209051128/https://www.businessinsider.com/kellogg-replacing-1400-striking-workers-reject-deal-wage-increase-2021-12"
             },
             "tags": [
-                "food"
+                "food",
+                "deception",
+                "child labour",
+                "forced labour",
+                "anti‑union practices"
             ],
             "score": 17,
             "ownedBy": [],
@@ -7014,7 +7303,10 @@
             },
             "tags": [
                 "alcohol",
-                "anticompetitive"
+                "anticompetitive",
+                "anticompetitive practices",
+                "corruption",
+                "connections to russia"
             ],
             "score": 15,
             "ownedBy": [],
@@ -7044,7 +7336,12 @@
             },
             "tags": [
                 "manufacturing",
-                "cars"
+                "cars",
+                "forced Uyghur labour",
+                "forced labour",
+                "poor working conditions",
+                "unsafe working conditions",
+                "environmental violations"
             ],
             "score": 20,
             "ownedBy": [],
@@ -7072,7 +7369,13 @@
                 "6": "https://archive.is/GSvdC"
             },
             "tags": [
-                "clothing"
+                "clothing",
+                "child labour",
+                "forced labour",
+                "forced uyghur labour",
+                "sexual harassment",
+                "poor working conditions",
+                "unfair pay"
             ],
             "score": 15,
             "ownedBy": [],
@@ -7140,7 +7443,9 @@
             },
             "tags": [
                 "retail",
-                "supermarket"
+                "supermarket",
+                "unfair pay",
+                "poor working conditions"
             ],
             "score": 46,
             "ownedBy": [],
@@ -7163,7 +7468,11 @@
                 "5": "https://www.theguardian.com/global-development/2017/oct/06/laptop-firms-accused-of-labour-abuses-against-chinese-students-sony-hp-acer"
             },
             "tags": [
-                "electronics"
+                "electronics",
+                "connections to russia",
+                "forced labour",
+                "forced uyghur labour",
+                "racial discrimination"
             ],
             "score": 35,
             "ownedBy": [],
@@ -7196,7 +7505,10 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "racial discrimination",
+                "forced uyghur labour",
+                "sexual harassment"
             ],
             "score": 25,
             "ownedBy": [],
@@ -7327,7 +7639,9 @@
             "tags": [
                 "news",
                 "media",
-                "entertainment"
+                "entertainment",
+                "racial discrimination",
+                "gender discrimination"
             ],
             "score": 75,
             "ownedBy": [],
@@ -7400,7 +7714,11 @@
             },
             "tags": [
                 "tech",
-                "travel"
+                "travel",
+                "tax avoidance",
+                "privacy violations",
+                "sexual harassment",
+                "connections to israel"
             ],
             "score": 19,
             "ownedBy": [],
@@ -7428,7 +7746,11 @@
             },
             "tags": [
                 "insurance",
-                "finance"
+                "finance",
+                "anticompetitive practices",
+                "deception",
+                "corruption",
+                "connections to Israel"
             ],
             "score": 26,
             "ownedBy": [],
@@ -7495,7 +7817,10 @@
             },
             "tags": [
                 "tech",
-                "electronics"
+                "electronics",
+                "anticompetitive practices",
+                "unfair pay",
+                "deception"
             ],
             "score": 44,
             "ownedBy": [],
@@ -7544,7 +7869,11 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "forced labour",
+                "unfair pay",
+                "poor working conditions",
+                "deception"
             ],
             "score": 42,
             "ownedBy": [],
@@ -7578,7 +7907,11 @@
             },
             "tags": [
                 "finance",
-                "tech"
+                "tech",
+                "anticompetitive practices",
+                "deception",
+                "gender discrimination",
+                "racial discrimination"
             ],
             "score": 43,
             "ownedBy": [],
@@ -7601,7 +7934,8 @@
             },
             "tags": [
                 "tech",
-                "ai"
+                "ai",
+                "deception"
             ],
             "score": 46,
             "ownedBy": [],
@@ -7630,7 +7964,11 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "child labour",
+                "sexual harassment",
+                "unsafe working conditions",
+                "poor working conditions"
             ],
             "score": 36,
             "ownedBy": [],
@@ -7736,7 +8074,12 @@
                 "9": "price fixing and anticompetetive inflation of drug prices"
             },
             "tags": [
-                "pharmaceuticals"
+                "pharmaceuticals",
+                "connections to russia",
+                "corruption",
+                "anticompetitive practices",
+                "deception",
+                "unsafe practices"
             ],
             "score": 24,
             "ownedBy": [],
@@ -7766,7 +8109,9 @@
             },
             "tags": [
                 "electronics",
-                "tech"
+                "tech",
+                "forced labour",
+                "forced uyghur labour"
             ],
             "score": 50,
             "ownedBy": [],
@@ -7794,7 +8139,9 @@
             },
             "tags": [
                 "electronics",
-                "tech"
+                "tech",
+                "privacy violations",
+                "anti-union practices"
             ],
             "score": 44,
             "ownedBy": [],
@@ -7832,7 +8179,10 @@
             },
             "tags": [
                 "electronics",
-                "tech"
+                "tech",
+                "anticompetitive practices",
+                "forced uyghur labour",
+                "connections to israel"
             ],
             "score": 37,
             "ownedBy": [],
@@ -7865,7 +8215,9 @@
                 "3": "connected to investments in and insurance for isaeli arms manufacturers"
             },
             "tags": [
-                "insurance"
+                "insurance",
+                "connections to israel",
+                "unsafe practices"
             ],
             "score": 37,
             "ownedBy": [],
@@ -8013,7 +8365,13 @@
                 "5": "invests in israeli banks and arms manufacturers"
             },
             "tags": [
-                "insurance"
+                "insurance",
+                "unfair pay",
+                "deforestation",
+                "fossil fuels",
+                "animal abuse",
+                "connections to israel",
+                "unsustainable practices"
             ],
             "score": 33,
             "ownedBy": [],
@@ -8111,7 +8469,11 @@
                 "6": "failed to pay minimum wage"
             },
             "tags": [
-                "retail"
+                "retail",
+                "racial discrimination",
+                "gender discrimination",
+                "unfair pay",
+                "poor working conditions"
             ],
             "score": 45,
             "ownedBy": [],
@@ -8134,7 +8496,8 @@
             "tags": [
                 "retail",
                 "clothing",
-                "sport"
+                "sport",
+                "deception"
             ],
             "score": 48,
             "ownedBy": [],
@@ -8187,7 +8550,10 @@
             },
             "tags": [
                 "food",
-                "beverages"
+                "beverages",
+                "anticompetitive practices",
+                "unsafe working conditions",
+                "greenwashing"
             ],
             "score": 43,
             "ownedBy": [],
@@ -8554,7 +8920,13 @@
             },
             "tags": [
                 "pharmaceuticals",
-                "chemicals"
+                "chemicals",
+                "corruption",
+                "deception",
+                "environmental violations",
+                "unsustainable practices",
+                "unsafe practices",
+                "unsafe working conditions"
             ],
             "score": 2,
             "ownedBy": [],
@@ -8648,7 +9020,11 @@
                 "3": "animal testing"
             },
             "tags": [
-                "manufacturing"
+                "manufacturing",
+                "greenwashing",
+                "deception",
+                "gender discrimination",
+                "animal abuse"
             ],
             "score": 47,
             "ownedBy": [],
@@ -8675,7 +9051,10 @@
                 "3": "failed to pay overtime to employees"
             },
             "tags": [
-                "clothing"
+                "clothing",
+                "environmental violations",
+                "forced uyghur labour",
+                "unfair pay"
             ],
             "score": 45,
             "ownedBy": [],
@@ -9051,7 +9430,8 @@
                 "1": "connected to forced labour in china"
             },
             "tags": [
-                "private equity"
+                "private equity",
+                "forced labour"
             ],
             "score": 40,
             "ownedBy": [],
@@ -9107,7 +9487,11 @@
             },
             "tags": [
                 "retail",
-                "electronics"
+                "electronics",
+                "corruption",
+                "deception",
+                "unfair pay",
+                "unsafe practices"
             ],
             "score": 24,
             "ownedBy": [],
@@ -9169,7 +9553,8 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "gender discrimination"
             ],
             "score": 45,
             "ownedBy": [],
@@ -9227,7 +9612,11 @@
                 "8": "fined after an employee died in unsafe working conditions"
             },
             "tags": [
-                "retail"
+                "retail",
+                "racial discrimination",
+                "unfair pay",
+                "environmental violations",
+                "unsafe working conditions"
             ],
             "score": 17,
             "ownedBy": [],
@@ -9410,7 +9799,10 @@
             },
             "tags": [
                 "travel",
-                "tech"
+                "tech",
+                "anticompetitive practices",
+                "unfair pay",
+                "connections to israel"
             ],
             "score": 34,
             "ownedBy": [],
@@ -9466,7 +9858,11 @@
                 "7": "unsafe working conditions and lack of training led to a technician's death"
             },
             "tags": [
-                "telecommunications"
+                "telecommunications",
+                "anticompetitive practices",
+                "unfair pay",
+                "unsafe working conditions",
+                "deception"
             ],
             "score": 20,
             "ownedBy": [],
@@ -9587,7 +9983,10 @@
             },
             "tags": [
                 "tech",
-                "telecommunications"
+                "telecommunications",
+                "privacy violations",
+                "data breach",
+                "deception"
             ],
             "score": 42,
             "ownedBy": [],
@@ -9631,7 +10030,10 @@
                 "3": "sold shampoo containing carcinogens"
             },
             "tags": [
-                "consumer goods"
+                "consumer goods",
+                "connections to israel",
+                "deception",
+                "unsafe practices"
             ],
             "score": 43,
             "ownedBy": [],
@@ -9665,7 +10067,10 @@
             },
             "tags": [
                 "retail",
-                "tech"
+                "tech",
+                "unfair pay",
+                "deception",
+                "unsafe practices"
             ],
             "score": 46,
             "ownedBy": [],
@@ -9714,7 +10119,8 @@
             },
             "tags": [
                 "manufacturing",
-                "music"
+                "music",
+                "anticompetitive practices"
             ],
             "score": 48,
             "ownedBy": [],
@@ -9743,7 +10149,10 @@
             },
             "tags": [
                 "cars",
-                "manufacturing"
+                "manufacturing",
+                "deception",
+                "greenwashing",
+                "environmental violations"
             ],
             "score": 45,
             "ownedBy": [],
@@ -9799,7 +10208,11 @@
             },
             "tags": [
                 "retail",
-                "sport"
+                "sport",
+                "deception",
+                "unsafe working conditions",
+                "sexual harassment",
+                "unfair pay"
             ],
             "score": 38,
             "ownedBy": [],
@@ -9865,7 +10278,10 @@
             },
             "tags": [
                 "electronics",
-                "manufacturing"
+                "manufacturing",
+                "anticompetitive practices",
+                "unfair pay",
+                "environmental violations"
             ],
             "score": 42,
             "ownedBy": [],
@@ -9950,7 +10366,12 @@
             "tags": [
                 "consumer goods",
                 "coffee",
-                "fast food"
+                "fast food",
+                "privacy violations",
+                "unsafe working conditions",
+                "unsafe practices",
+                "poor working conditions",
+                "racial discrimination"
             ],
             "score": 35,
             "ownedBy": [],
@@ -9995,7 +10416,12 @@
             },
             "tags": [
                 "retail",
-                "supermarket"
+                "supermarket",
+                "animal abuse",
+                "forced labour",
+                "deforestation",
+                "unsustainable practices",
+                "unsafe working conditions"
             ],
             "score": 4,
             "ownedBy": [],
@@ -10166,7 +10592,10 @@
                 "6": "fired worker in retaliation for discrimination complaint"
             },
             "tags": [
-                "food"
+                "food",
+                "animal abuse",
+                "unfair pay",
+                "forced labour"
             ],
             "score": 22,
             "ownedBy": [],
@@ -10214,7 +10643,9 @@
                 "5": "underpaid employees"
             },
             "tags": [
-                "food"
+                "food",
+                "animal abuse",
+                "unfair pay"
             ],
             "score": 25,
             "ownedBy": [],
@@ -10268,7 +10699,11 @@
                 "6": "employee was killed in unsafe working conditions"
             },
             "tags": [
-                "food"
+                "food",
+                "unfair pay",
+                "animal abuse",
+                "unsafe working conditions",
+                "environmental violations"
             ],
             "score": 18,
             "ownedBy": [],
@@ -10482,7 +10917,12 @@
             },
             "tags": [
                 "consumer goods",
-                "cosmetics"
+                "cosmetics",
+                "anticompetitive practices",
+                "unfair pay",
+                "child labour",
+                "sexual harassment",
+                "connections to israel"
             ],
             "score": 15,
             "ownedBy": [],
@@ -10738,7 +11178,12 @@
                 "9": "involved in exploitative toothpaste trials using chinese schoolchildren"
             },
             "tags": [
-                "consumer goods"
+                "consumer goods",
+                "anticompetitive practices",
+                "unsafe practices",
+                "racial discrimination",
+                "deforestation",
+                "child labour"
             ],
             "score": 20,
             "ownedBy": [],
@@ -10840,7 +11285,8 @@
             },
             "tags": [
                 "education",
-                "tech"
+                "tech",
+                ""
             ],
             "score": 49,
             "ownedBy": [],
@@ -10866,7 +11312,8 @@
                 "2": "supressed negative reviews"
             },
             "tags": [
-                "clothing"
+                "clothing",
+                "deception"
             ],
             "score": 46,
             "ownedBy": [],
@@ -10924,7 +11371,10 @@
                 "8": "negligently induced abortion in a woman undergoing IVF"
             },
             "tags": [
-                "healthcare"
+                "healthcare",
+                "corruption",
+                "deception",
+                "unsafe practices"
             ],
             "score": 7,
             "ownedBy": [],
@@ -11079,7 +11529,14 @@
                 "7": "illegally constructed a plastic recycling facility that impacted the local community's health"
             },
             "tags": [
-                "food"
+                "food",
+                "anticompetitive practices",
+                "deception",
+                "corruption",
+                "unsustainable practices",
+                "water depletion",
+                "environmental violations",
+                "unsafe practices"
             ],
             "score": 14,
             "ownedBy": [],
@@ -11232,7 +11689,8 @@
             "sourceNotes": {},
             "tags": [
                 "food",
-                "private equity"
+                "private equity",
+                ""
             ],
             "score": 50,
             "ownedBy": [],
@@ -11288,7 +11746,9 @@
             },
             "tags": [
                 "tech",
-                "music"
+                "music",
+                "data breach",
+                "privacy violations"
             ],
             "score": 49,
             "ownedBy": [],
@@ -11345,7 +11805,10 @@
             "tags": [
                 "tech",
                 "food",
-                "poorworkingconditions"
+                "poorworkingconditions",
+                "anticompetitive practices",
+                "poor working conditions",
+                "unfair pay"
             ],
             "score": 37,
             "ownedBy": [],
@@ -11384,7 +11847,8 @@
             "sourceNotes": {},
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                ""
             ],
             "score": 50,
             "ownedBy": [],
@@ -11422,7 +11886,14 @@
                 "8": "sold lethal humidifier steriliser products that killed over 100 people"
             },
             "tags": [
-                "consumer-goods"
+                "consumer-goods",
+                "anticompetitive practices",
+                "connections to russia",
+                "forced labour",
+                "child labour",
+                "environmental violations",
+                "unsafe products",
+                "deception"
             ],
             "score": 6,
             "ownedBy": [],
@@ -11703,7 +12174,8 @@
             },
             "tags": [
                 "furniture",
-                "retail"
+                "retail",
+                "deception"
             ],
             "score": 48,
             "ownedBy": [],
@@ -11764,7 +12236,12 @@
             },
             "tags": [
                 "delivery",
-                "shipping"
+                "shipping",
+                "anticompetitive practices",
+                "anti-union practices",
+                "racial discrimination",
+                "sexual harassment",
+                "poor working conditions"
             ],
             "score": 35,
             "ownedBy": [],
@@ -11852,7 +12329,11 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "unfair pay",
+                "poor working conditions",
+                "unsafe working conditions",
+                "connections to russia"
             ],
             "score": 36,
             "ownedBy": [],
@@ -11878,7 +12359,8 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "deception"
             ],
             "score": 46,
             "ownedBy": [],
@@ -11901,7 +12383,9 @@
                 "2": "nonconsenual use of user data for research"
             },
             "tags": [
-                "tech"
+                "tech",
+                "gender discrimination",
+                "privacy violations"
             ],
             "score": 44,
             "ownedBy": [],
@@ -11950,7 +12434,8 @@
             },
             "tags": [
                 "tech",
-                "education"
+                "education",
+                ""
             ],
             "score": 45,
             "ownedBy": [],
@@ -11999,7 +12484,10 @@
                 "4": "forced labour in supply chain"
             },
             "tags": [
-                "electronics"
+                "electronics",
+                "corruption",
+                "tax avoidance",
+                "forced labour"
             ],
             "score": 37,
             "ownedBy": [],
@@ -12092,7 +12580,10 @@
             },
             "tags": [
                 "entertainment",
-                "tech"
+                "tech",
+                "anticompetitive practices",
+                "unfair pay",
+                "poor working conditions"
             ],
             "score": 42,
             "ownedBy": [
@@ -12230,7 +12721,12 @@
                 "8": "included carcinogens in suncream"
             },
             "tags": [
-                "consumer-goods"
+                "consumer-goods",
+                "anticompetitive practices",
+                "deception",
+                "greenwashing",
+                "connections to russia",
+                "unsafe practices"
             ],
             "score": 38,
             "ownedBy": [],
@@ -12327,7 +12823,12 @@
             },
             "tags": [
                 "travel",
-                "tech"
+                "tech",
+                "anticompetitive practices",
+                "deception",
+                "tax avoidance",
+                "sexual harassment",
+                "connections to Israel"
             ],
             "score": 15,
             "ownedBy": [],
@@ -12527,7 +13028,10 @@
                 "7": "underpaying journalists"
             },
             "tags": [
-                "news"
+                "news",
+                "privacy violations",
+                "deception",
+                "unfair pay"
             ],
             "score": 24,
             "ownedBy": [],
@@ -14485,7 +14989,12 @@
                 "11": "overworking and child labour in supply chain"
             },
             "tags": [
-                "food"
+                "food",
+                "deception",
+                "child labour",
+                "racial discrimination",
+                "unfair pay",
+                "unsafe products"
             ],
             "score": 22,
             "ownedBy": [],
@@ -14780,7 +15289,12 @@
                 "11": "biggest gender pay gap in the UK"
             },
             "tags": [
-                "travel"
+                "travel",
+                "deception",
+                "animal abuse",
+                "unsafe practices",
+                "gender discrimination",
+                "unfair pay"
             ],
             "score": 25,
             "ownedBy": [],
@@ -14869,7 +15383,11 @@
             },
             "tags": [
                 "electronics",
-                "consumer goods"
+                "consumer goods",
+                "anticompetitive practices",
+                "deception",
+                "unsafe working conditions",
+                "unsafe practices"
             ],
             "score": 34,
             "ownedBy": [],
@@ -14974,7 +15492,8 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "animal abuse"
             ],
             "score": 40,
             "ownedBy": [],
@@ -15152,7 +15671,8 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "deception"
             ],
             "score": 49,
             "ownedBy": [],
@@ -15204,7 +15724,8 @@
                 "6": "sent customers to closed hotels"
             },
             "tags": [
-                "travel"
+                "travel",
+                "deception"
             ],
             "score": 45,
             "ownedBy": [],
@@ -15240,7 +15761,10 @@
             },
             "tags": [
                 "retail",
-                "toys"
+                "toys",
+                "deception",
+                "unsustainable practices",
+                "environmental violations"
             ],
             "score": 40,
             "ownedBy": [],
@@ -15273,7 +15797,11 @@
             "tags": [
                 "videogames",
                 "entertainment",
-                "retail"
+                "retail",
+                "gender discrimination",
+                "poor working conditions",
+                "privacy violations",
+                "data breach"
             ],
             "score": 41,
             "ownedBy": [],
@@ -15302,7 +15830,9 @@
             },
             "tags": [
                 "electronics",
-                "tech"
+                "tech",
+                "deception",
+                "gender discrimination"
             ],
             "score": 37,
             "ownedBy": [],
@@ -15442,7 +15972,13 @@
             },
             "tags": [
                 "pharmaceuticals",
-                "consumer goods"
+                "consumer goods",
+                "anticompetitive practices",
+                "tax avoidance",
+                "connections to russia",
+                "corruption",
+                "deception",
+                "unsafe practices"
             ],
             "score": 5,
             "ownedBy": [],
@@ -15484,7 +16020,11 @@
                 "9": "misuse of personal data"
             },
             "tags": [
-                "retail"
+                "retail",
+                "deception",
+                "privacy violations",
+                "racial discrimination",
+                "unsafe practices"
             ],
             "score": 42,
             "ownedBy": [],
@@ -15548,7 +16088,9 @@
             "tags": [
                 "sports",
                 "retail",
-                "clothing"
+                "clothing",
+                "environmental violations",
+                "unsustainable practices"
             ],
             "score": 50,
             "ownedBy": [],
@@ -15651,7 +16193,13 @@
             },
             "tags": [
                 "cars",
-                "vehicles"
+                "vehicles",
+                "environmental violations",
+                "unsustainable practices",
+                "deception",
+                "unsafe products",
+                "unsafe working conditions",
+                "gender discrimination"
             ],
             "score": 15,
             "ownedBy": [],
@@ -15690,7 +16238,12 @@
             },
             "tags": [
                 "toys",
-                "retail"
+                "retail",
+                "gender discrimination",
+                "racial discrimination",
+                "child labour",
+                "forced labour",
+                "unsafe practices"
             ],
             "score": 25,
             "ownedBy": [],
@@ -17730,7 +18283,10 @@
             },
             "tags": [
                 "retail",
-                "logistics"
+                "logistics",
+                "privacy violations",
+                "unfair pay",
+                "forced labour"
             ],
             "score": 23,
             "ownedBy": [],
@@ -18683,7 +19239,17 @@
             },
             "tags": [
                 "food",
-                "confectionery"
+                "confectionery",
+                "child labour",
+                "forced labour",
+                "deforestation",
+                "unsustainable practices",
+                "poor working conditions",
+                "unfair pay",
+                "corruption",
+                "deception",
+                "unsafe practices",
+                "environmental violations"
             ],
             "score": 12,
             "ownedBy": [],
@@ -18729,7 +19295,13 @@
                 "10": "facilitated sex trafficking"
             },
             "tags": [
-                "hospitality"
+                "hospitality",
+                "anticompetitive practices",
+                "greenwashing",
+                "deception",
+                "racial discrimination",
+                "sexual harassment",
+                "unsafe practices"
             ],
             "score": 14,
             "ownedBy": [],
@@ -19161,7 +19733,14 @@
                 "13": "ignored construction safety recommendations after employees died in a store collapse"
             },
             "tags": [
-                "retail"
+                "retail",
+                "deception",
+                "privacy violations",
+                "racial discrimination",
+                "unsafe working conditions",
+                "environmental violations",
+                "connections to israel",
+                "unsustainable practices"
             ],
             "score": 10,
             "ownedBy": [],
@@ -19231,7 +19810,14 @@
                 "12": "abusive treatment towards female employees"
             },
             "tags": [
-                "retail"
+                "retail",
+                "anticompetitive practices",
+                "unfair pay",
+                "poor working conditions",
+                "privacy violations",
+                "data breach",
+                "sexual harassment",
+                "gender discrimination"
             ],
             "score": 24,
             "ownedBy": [],
@@ -19981,7 +20567,10 @@
                 "6": "engaged in illegal surveillance on users' devices"
             },
             "tags": [
-                "electronics"
+                "electronics",
+                "unsafe products",
+                "poor working conditions",
+                "privacy violations"
             ],
             "score": 27,
             "ownedBy": [],
@@ -20034,7 +20623,12 @@
                 "15": "participated in oppression of Uyghur minorities and human rights abuses"
             },
             "tags": [
-                "electronics"
+                "electronics",
+                "forced labour",
+                "forced uyghur labour",
+                "privacy violations",
+                "racial discrimination",
+                "poor working conditions"
             ],
             "score": 14,
             "ownedBy": [],
@@ -20195,7 +20789,11 @@
                 "10": "censored political music and criticism of the war in iraq"
             },
             "tags": [
-                "media"
+                "media",
+                "forced labour",
+                "corruption",
+                "deception",
+                "unfair pay"
             ],
             "score": 40,
             "ownedBy": [],
@@ -20457,7 +21055,8 @@
             },
             "tags": [
                 "coffee",
-                "beverages"
+                "beverages",
+                "forced labour"
             ],
             "score": 49,
             "ownedBy": [],
@@ -20506,7 +21105,9 @@
                 "14": "opposed improved climate change regulations"
             },
             "tags": [
-                "food"
+                "food",
+                "racial discrimination",
+                "unsustainable practices"
             ],
             "score": 36,
             "ownedBy": [],
@@ -20545,7 +21146,14 @@
                 "8": "prive fixing and anti competetive practices"
             },
             "tags": [
-                "bank"
+                "bank",
+                "anticompetitive practices",
+                "corruption",
+                "connections to russia",
+                "fossil fuels",
+                "racial discrimination",
+                "unsustainable practices",
+                "environmental violations"
             ],
             "score": 40,
             "ownedBy": [],
@@ -20607,7 +21215,11 @@
             },
             "tags": [
                 "food",
-                "logistics"
+                "logistics",
+                "deception",
+                "unfair pay",
+                "poor working conditions",
+                "data breach"
             ],
             "score": 44,
             "ownedBy": [],
@@ -20724,7 +21336,14 @@
             },
             "tags": [
                 "tech",
-                "electronics"
+                "electronics",
+                "anticompetitive practices",
+                "tax avoidance",
+                "unfair pay",
+                "poor working conditions",
+                "connections to israel",
+                "unsafe practices",
+                "sexual harassment"
             ],
             "score": 25,
             "ownedBy": [],
@@ -21065,7 +21684,13 @@
             },
             "tags": [
                 "retail",
-                "sports"
+                "sports",
+                "anticompetitive practices",
+                "poor working conditions",
+                "unsafe working conditions",
+                "unfair pay",
+                "tax avoidance",
+                "unsustainable practices"
             ],
             "score": 35,
             "ownedBy": [],
@@ -21183,7 +21808,11 @@
                 "16": "bribed doctors to prescribe their products"
             },
             "tags": [
-                "health"
+                "health",
+                "deception",
+                "unsafe practices",
+                "corruption",
+                "racial discrimination"
             ],
             "score": 1,
             "ownedBy": [],
@@ -21222,7 +21851,8 @@
             },
             "tags": [
                 "food",
-                "tech"
+                "tech",
+                "deception"
             ],
             "score": 44,
             "ownedBy": [
@@ -21286,7 +21916,11 @@
                 "11": "sold defective fridges that led to the fire in Grenfell Tower killing 72 people"
             },
             "tags": [
-                "electronics"
+                "electronics",
+                "deception",
+                "environmental violations",
+                "unsafe practices",
+                "unsustainable practices"
             ],
             "score": 8,
             "ownedBy": [],
@@ -21550,7 +22184,9 @@
                 "6": "underpaid employees"
             },
             "tags": [
-                "retail"
+                "retail",
+                "deception",
+                "unfair pay"
             ],
             "score": 43,
             "ownedBy": [],
@@ -21577,7 +22213,9 @@
                 "4": "sold unsafe toys leading to pet death"
             },
             "tags": [
-                "pets"
+                "pets",
+                "environmental violations",
+                "unsafe practices"
             ],
             "score": 35,
             "ownedBy": [],
@@ -21622,7 +22260,14 @@
             },
             "tags": [
                 "retail",
-                "supermarket"
+                "supermarket",
+                "unsafe practices",
+                "unsafe working conditions",
+                "unfair pay",
+                "child labour",
+                "forced labour",
+                "racial discrimination",
+                "environmental violations"
             ],
             "score": 12,
             "ownedBy": [],
@@ -22078,7 +22723,11 @@
                 "7": "child labour in supply chain"
             },
             "tags": [
-                "consumer goods"
+                "consumer goods",
+                "deception",
+                "greenwashing",
+                "child labour",
+                "connections to russia"
             ],
             "score": 30,
             "ownedBy": [],
@@ -22169,7 +22818,10 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "deception",
+                "privacy violations",
+                "unsafe practices"
             ],
             "score": 45,
             "ownedBy": [],
@@ -22207,7 +22859,12 @@
             },
             "tags": [
                 "coffee",
-                "beverages"
+                "beverages",
+                "deception",
+                "deforestation",
+                "forced labour",
+                "unsafe practices",
+                "environmental violations"
             ],
             "score": 15,
             "ownedBy": [],
@@ -22229,7 +22886,9 @@
                 "1": "sold pans containing potentially toxic checmicals"
             },
             "tags": [
-                "retail"
+                "retail",
+                "unsafe practices",
+                "environmental violations"
             ],
             "score": 49,
             "ownedBy": [],
@@ -22314,7 +22973,12 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "forced labour",
+                "sexual harassment",
+                "unfair pay",
+                "anti-union practices",
+                "deception"
             ],
             "score": 19,
             "ownedBy": [],
@@ -22362,7 +23026,10 @@
             },
             "tags": [
                 "insurance",
-                "finance"
+                "finance",
+                "deception",
+                "unfair pay",
+                "corruption"
             ],
             "score": 38,
             "ownedBy": [],
@@ -22483,7 +23150,12 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "deception",
+                "sexual harassment",
+                "gender discrimination",
+                "unsafe practices",
+                "forced uyghur labour"
             ],
             "score": 36,
             "ownedBy": [],
@@ -22534,7 +23206,11 @@
             },
             "tags": [
                 "bank",
-                "finance"
+                "finance",
+                "tax avoidance",
+                "deception",
+                "greenwashing",
+                "connections to israel"
             ],
             "score": 20,
             "ownedBy": [],
@@ -22567,7 +23243,11 @@
             },
             "tags": [
                 "electronics",
-                "tech"
+                "tech",
+                "corruption",
+                "deception",
+                "privacy violations",
+                "poor working conditions"
             ],
             "score": 40,
             "ownedBy": [],
@@ -22626,7 +23306,15 @@
             },
             "tags": [
                 "retail",
-                "diy"
+                "diy",
+                "deception",
+                "privacy violations",
+                "anti-union practices",
+                "unfair pay",
+                "forced labour",
+                "deforestation",
+                "environmental violations",
+                "unsustainable practices"
             ],
             "score": 20,
             "ownedBy": [],
@@ -22679,7 +23367,12 @@
             "tags": [
                 "clothing",
                 "retail",
-                "sports"
+                "sports",
+                "deception",
+                "greenwashing",
+                "gender discrimination",
+                "racial discrimination",
+                "poor working conditions"
             ],
             "score": 35,
             "ownedBy": [],
@@ -22714,7 +23407,10 @@
             },
             "tags": [
                 "retail",
-                "consumer goods"
+                "consumer goods",
+                "unfair pay",
+                "unsafe working conditions",
+                "anti‑union practices"
             ],
             "score": 42,
             "ownedBy": [],
@@ -22761,7 +23457,12 @@
             },
             "tags": [
                 "tech",
-                "transportation"
+                "transportation",
+                "anticompetitive practices",
+                "privacy violations",
+                "unfair pay",
+                "poor working conditions",
+                "deception"
             ],
             "score": 10,
             "ownedBy": [],
@@ -22873,7 +23574,17 @@
                 "12": "ignored and profited from sex trafficking"
             },
             "tags": [
-                "hospitality"
+                "hospitality",
+                "corruption",
+                "tax avoidance",
+                "animal abuse",
+                "deception",
+                "environmental violations",
+                "anti-union practices",
+                "poor working conditions",
+                "unfair pay",
+                "forced labour",
+                "sexual harassment"
             ],
             "score": 22,
             "ownedBy": [],
@@ -23004,7 +23715,17 @@
             },
             "tags": [
                 "confectionery",
-                "food"
+                "food",
+                "anticompetitive practices",
+                "unfair pay",
+                "deception",
+                "deforestation",
+                "child labour",
+                "forced labour",
+                "connections to Israel",
+                "connections to Russia",
+                "environmental violations",
+                "unsustainable practices"
             ],
             "score": 17,
             "ownedBy": [],
@@ -25031,7 +25752,12 @@
             },
             "tags": [
                 "finance",
-                "tech"
+                "tech",
+                "anticompetitive practices",
+                "deception",
+                "privacy violations",
+                "racial discrimination",
+                "gender discrimination"
             ],
             "score": 34,
             "ownedBy": [],
@@ -25070,7 +25796,12 @@
             },
             "tags": [
                 "retail",
-                "supermarket"
+                "supermarket",
+                "forced labour",
+                "poor working conditions",
+                "unsafe working conditions",
+                "privacy violations",
+                "sexual harassment"
             ],
             "score": 37,
             "ownedBy": [],
@@ -25256,7 +25987,14 @@
             },
             "tags": [
                 "retail",
-                "diy"
+                "diy",
+                "deception",
+                "anti‑union practices",
+                "poor working conditions",
+                "sexual harassment",
+                "corruption",
+                "environmental violations",
+                "unsafe working conditions"
             ],
             "score": 20,
             "ownedBy": [],
@@ -25307,7 +26045,12 @@
                 "14": "sold medication that killed 25,000 people and refused to compensate victims fairly"
             },
             "tags": [
-                "pharmaceuticals"
+                "pharmaceuticals",
+                "tax avoidance",
+                "unsafe practices",
+                "environmental violations",
+                "deception",
+                "corruption"
             ],
             "score": 3,
             "ownedBy": [],
@@ -25330,7 +26073,8 @@
             },
             "tags": [
                 "retail",
-                "electronics"
+                "electronics",
+                "deception"
             ],
             "score": 50,
             "ownedBy": [],
@@ -25371,7 +26115,9 @@
                 "9": "wrongly denied refunds to scam victims"
             },
             "tags": [
-                "finance"
+                "finance",
+                "deception",
+                "privacy violations"
             ],
             "score": 45,
             "ownedBy": [],
@@ -26689,7 +27435,11 @@
                 "9": "discriminated against employee based on cancer diagnosis",
                 "10": "refused to hire people who have been involved in unions"
             },
-            "tags": [],
+            "tags": [
+                "privacy violations",
+                "anti-union practices",
+                "deception"
+            ],
             "score": 40,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Mozilla_2024_logo.svg",
@@ -26737,7 +27487,15 @@
                 "13": "founding family committed paedophilic crimes"
             },
             "tags": [
-                "consumer goods"
+                "consumer goods",
+                "anticompetitive practices",
+                "deception",
+                "tax avoidance",
+                "unfair pay",
+                "greenwashing",
+                "connections to russia",
+                "environmental violations",
+                "unsustainable practices"
             ],
             "score": 32,
             "ownedBy": [],
@@ -27103,7 +27861,10 @@
             },
             "tags": [
                 "food",
-                "dairy"
+                "dairy",
+                "environmental violations",
+                "unsafe working conditions",
+                "animal abuse"
             ],
             "score": 37,
             "ownedBy": [],
@@ -27156,7 +27917,10 @@
                 "6": "opposed employees forming a union"
             },
             "tags": [
-                "finance"
+                "finance",
+                "anti-union practices",
+                "corruption",
+                "privacy violations"
             ],
             "score": 45,
             "ownedBy": [],
@@ -27219,7 +27983,15 @@
             "tags": [
                 "sportswear",
                 "retail",
-                "clothing"
+                "clothing",
+                "greenwashing",
+                "unsustainable practices",
+                "environmental violations",
+                "unsafe practices",
+                "poor working conditions",
+                "racial discrimination",
+                "deception",
+                "connections to israel"
             ],
             "score": 30,
             "ownedBy": [],
@@ -27318,7 +28090,13 @@
             },
             "tags": [
                 "retail",
-                "clothing"
+                "clothing",
+                "anticompetitive practices",
+                "deception",
+                "unfair pay",
+                "poor working conditions",
+                "racial discrimination",
+                "gender discrimination"
             ],
             "score": 40,
             "ownedBy": [],
@@ -27372,7 +28150,14 @@
             },
             "tags": [
                 "pharamceuticals",
-                "pharamceuticals"
+                "pharamceuticals",
+                "corruption",
+                "deception",
+                "anticompetitive practices",
+                "sexual harassment",
+                "gender discrimination",
+                "privacy violations",
+                "unsafe practices"
             ],
             "score": 38,
             "ownedBy": [],
@@ -27482,7 +28267,13 @@
                 "10": "poor working conditions leading to suicides"
             },
             "tags": [
-                "telecommunications"
+                "telecommunications",
+                "anticompetitive practices",
+                "deception",
+                "privacy violations",
+                "corruption",
+                "poor working conditions",
+                "unsafe working conditions"
             ],
             "score": 25,
             "ownedBy": [],
@@ -27559,7 +28350,9 @@
             },
             "tags": [
                 "tech",
-                "ai"
+                "ai",
+                "deception",
+                "unsafe practices"
             ],
             "score": 18,
             "ownedBy": [],
@@ -27627,7 +28420,13 @@
                 "11": "poisioning of workers in battery factories"
             },
             "tags": [
-                "electronics"
+                "electronics",
+                "corruption",
+                "deception",
+                "anticompetitive practices",
+                "poor working conditions",
+                "unsafe working conditions",
+                "unsafe practices"
             ],
             "score": 20,
             "ownedBy": [],
@@ -27677,7 +28476,19 @@
             "tags": [
                 "food",
                 "restaurant",
-                "fast food"
+                "fast food",
+                "data breach",
+                "privacy violations",
+                "deception",
+                "anticompetitive practices",
+                "unfair pay",
+                "unsafe working conditions",
+                "poor working conditions",
+                "unsafe practices",
+                "racial discrimination",
+                "sexual harassment",
+                "environmental violations",
+                "unsustainable practices"
             ],
             "score": 19,
             "ownedBy": [],
@@ -27730,7 +28541,11 @@
                 "4": "historically profited from human rights abuses in gold supply chain"
             },
             "tags": [
-                "jewellery"
+                "jewellery",
+                "data breach",
+                "privacy violations",
+                "forced labour",
+                "poor working conditions"
             ],
             "score": 45,
             "ownedBy": [],
@@ -27763,7 +28578,12 @@
             "tags": [
                 "sportswear",
                 "clothing",
-                "retail"
+                "retail",
+                "animal abuse",
+                "forced labour",
+                "poor working conditions",
+                "unsustainable practices",
+                "greenwashing"
             ],
             "score": 40,
             "ownedBy": [],
@@ -27815,7 +28635,9 @@
             },
             "tags": [
                 "finance",
-                "tech"
+                "tech",
+                "deception",
+                "connections to russia"
             ],
             "score": 35,
             "ownedBy": [],
@@ -27844,7 +28666,8 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "unfair pay"
             ],
             "score": 46,
             "ownedBy": [],
@@ -27923,7 +28746,8 @@
             },
             "tags": [
                 "pets",
-                "retail"
+                "retail",
+                "animal abuse"
             ],
             "score": 30,
             "ownedBy": [],
@@ -28032,7 +28856,12 @@
                 "22": "explosion at pfizer plant injured 5 people"
             },
             "tags": [
-                "pharmaceuticals"
+                "pharmaceuticals",
+                "deception",
+                "corruption",
+                "tax avoidance",
+                "unsafe practices",
+                "unsafe working conditions"
             ],
             "score": 3,
             "ownedBy": [],
@@ -28457,7 +29286,11 @@
             "tags": [
                 "electronics",
                 "tech",
-                "healthcare"
+                "healthcare",
+                "anticompetitive practices",
+                "corruption",
+                "deception",
+                "unsafe practices"
             ],
             "score": 12,
             "ownedBy": [],
@@ -28499,7 +29332,12 @@
                 "10": "sexism and racial discrimination"
             },
             "tags": [
-                "tech"
+                "tech",
+                "privacy violations",
+                "unfair pay",
+                "racial discrimination",
+                "gender discrimination",
+                "deception"
             ],
             "score": 35,
             "ownedBy": [],
@@ -28545,7 +29383,8 @@
                 "2": "perpetuated racism through toys"
             },
             "tags": [
-                "toys"
+                "toys",
+                "racial discrimination"
             ],
             "score": 48,
             "ownedBy": [],
@@ -28717,7 +29556,12 @@
             },
             "tags": [
                 "retail",
-                "clothing"
+                "clothing",
+                "deforestation",
+                "racial discrimination",
+                "animal abuse",
+                "environmental violations",
+                "unsustainable practices"
             ],
             "score": 38,
             "ownedBy": [],
@@ -28891,7 +29735,9 @@
             },
             "tags": [
                 "food",
-                "beverages"
+                "beverages",
+                "anti-union practices",
+                "unsustainable practices"
             ],
             "score": 43,
             "ownedBy": [],
@@ -29013,7 +29859,11 @@
             },
             "tags": [
                 "insurance",
-                "finance"
+                "finance",
+                "data breach",
+                "privacy violations",
+                "deception",
+                "unfair pay"
             ],
             "score": 38,
             "ownedBy": [],
@@ -29062,7 +29912,17 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "deception",
+                "unfair pay",
+                "forced labour",
+                "forced uyghur labour",
+                "racial discrimination",
+                "connections to israel",
+                "deforestation",
+                "unsustainable practices",
+                "environmental violations",
+                "corruption"
             ],
             "score": 32,
             "ownedBy": [],
@@ -29103,7 +29963,10 @@
             "tags": [
                 "supermarket",
                 "food",
-                "retail"
+                "retail",
+                "unfair pay",
+                "racial discrimination",
+                "gender discrimination"
             ],
             "score": 35,
             "ownedBy": [],
@@ -29140,7 +30003,12 @@
             },
             "tags": [
                 "sportswear",
-                "retail"
+                "retail",
+                "unfair pay",
+                "forced labour",
+                "forced uyghur labour",
+                "poor working conditions",
+                "unsafe working conditions"
             ],
             "score": 15,
             "ownedBy": [],
@@ -29173,7 +30041,12 @@
                 "5": "sexist advertising"
             },
             "tags": [
-                "electronics"
+                "electronics",
+                "deception",
+                "privacy violations",
+                "gender discrimination",
+                "unsustainable practices",
+                "unsafe practices"
             ],
             "score": 44,
             "ownedBy": [],
@@ -29231,7 +30104,13 @@
             },
             "tags": [
                 "retail",
-                "sportswear"
+                "sportswear",
+                "anti-union practices",
+                "poor working conditions",
+                "unfair pay",
+                "unsafe working conditions",
+                "unsafe practices",
+                "environmental violations"
             ],
             "score": 44,
             "ownedBy": [],
@@ -29291,7 +30170,11 @@
             },
             "tags": [
                 "finance",
-                "tech"
+                "tech",
+                "deception",
+                "corruption",
+                "poor working conditions",
+                "unfair pay"
             ],
             "score": 44,
             "ownedBy": [],
@@ -29326,7 +30209,13 @@
             },
             "tags": [
                 "retail",
-                "supermarket"
+                "supermarket",
+                "anticompetitive practices",
+                "privacy violations",
+                "data breach",
+                "deception",
+                "unsustainable practices",
+                "environmental violations"
             ],
             "score": 43,
             "ownedBy": [],
@@ -29552,7 +30441,12 @@
             },
             "tags": [
                 "retail",
-                "clothing"
+                "clothing",
+                "gender discrimination",
+                "unfair pay",
+                "poor working conditions",
+                "forced labour",
+                "connections to israel"
             ],
             "score": 42,
             "ownedBy": [],
@@ -29575,7 +30469,9 @@
                 "1": "poor customer service",
                 "2": "poor customer service"
             },
-            "tags": [],
+            "tags": [
+                "none"
+            ],
             "score": 50,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cd/Robert_Dyas.png",
@@ -29627,7 +30523,15 @@
                 "13": "collaborated with Nazis in WW2"
             },
             "tags": [
-                "pharmaceuticals"
+                "pharmaceuticals",
+                "anticompetitive practices",
+                "deception",
+                "environmental violations",
+                "unfair pay",
+                "forced labour",
+                "poor working conditions",
+                "unsafe practices",
+                "connections to russia"
             ],
             "score": 20,
             "ownedBy": [],
@@ -29689,7 +30593,12 @@
                 "8": "tax avoidance"
             },
             "tags": [
-                "airline"
+                "airline",
+                "anticompetitive practices",
+                "anti-union practices",
+                "greenwashing",
+                "deception",
+                "tax avoidance"
             ],
             "score": 44,
             "ownedBy": [],
@@ -29731,7 +30640,11 @@
                 "7": "chemical poisoning of workers in supply chain"
             },
             "tags": [
-                "electronics"
+                "electronics",
+                "tax avoidance",
+                "environmental violations",
+                "unsafe working conditions",
+                "poor working conditions"
             ],
             "score": 40,
             "ownedBy": [],
@@ -29776,7 +30689,13 @@
             },
             "tags": [
                 "supermarket",
-                "retail"
+                "retail",
+                "deception",
+                "unfair pay",
+                "privacy violations",
+                "environmental violations",
+                "unsafe working conditions",
+                "racial discrimination"
             ],
             "score": 24,
             "ownedBy": [],
@@ -30085,7 +31004,10 @@
             },
             "tags": [
                 "sportswear",
-                "clothing"
+                "clothing",
+                "forced labour",
+                "forced uyghur labour",
+                "connections to russia"
             ],
             "score": 25,
             "ownedBy": [],
@@ -30371,7 +31293,14 @@
             },
             "tags": [
                 "finance",
-                "bank"
+                "bank",
+                "poor working conditions",
+                "unfair pay",
+                "deception",
+                "tax avoidance",
+                "fossil fuels",
+                "deforestation",
+                "unsustainable practices"
             ],
             "score": 21,
             "ownedBy": [],
@@ -30468,7 +31397,9 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "unfair pay",
+                "gender discrimination"
             ],
             "score": 45,
             "ownedBy": [],
@@ -30599,7 +31530,8 @@
                 "1": "exploitation of farmers"
             },
             "tags": [
-                "food"
+                "food",
+                "unfair pay"
             ],
             "score": 42,
             "ownedBy": [],
@@ -30867,7 +31799,12 @@
             },
             "tags": [
                 "manufacturing",
-                "chemicals"
+                "chemicals",
+                "unfair pay",
+                "corruption",
+                "environmental violations",
+                "unsafe practices",
+                "unsustainable practices"
             ],
             "score": 19,
             "ownedBy": [],
@@ -30983,7 +31920,10 @@
             },
             "tags": [
                 "electronics",
-                "retail"
+                "retail",
+                "data breach",
+                "privacy violations",
+                "anticompetitive practices"
             ],
             "score": 49,
             "ownedBy": [],
@@ -31143,7 +32083,18 @@
             "tags": [
                 "clothing",
                 "retail",
-                "fast fashion"
+                "fast fashion",
+                "data breach",
+                "privacy violations",
+                "deception",
+                "forced uyghur labour",
+                "unsustainable practices",
+                "environmental violations",
+                "greenwashing",
+                "unsafe practices",
+                "poor working conditions",
+                "unsafe working conditions",
+                "child labour"
             ],
             "score": 23,
             "ownedBy": [],
@@ -31183,7 +32134,12 @@
                 "9": "BDS target due to building electricity infrastructure in Israel"
             },
             "tags": [
-                "tech"
+                "tech",
+                "corruption",
+                "unfair pay",
+                "connections to russia",
+                "connections to israel",
+                "environmental violations"
             ],
             "score": 25,
             "ownedBy": [],
@@ -31314,7 +32270,8 @@
             "sources": {},
             "sourceNotes": {},
             "tags": [
-                "appliances"
+                "appliances",
+                ""
             ],
             "score": 50,
             "ownedBy": [],
@@ -31355,7 +32312,10 @@
                 "9": "facilited abuse of children leading to suicides"
             },
             "tags": [
-                "tech"
+                "tech",
+                "gender discrimination",
+                "deception",
+                "unsafe practices"
             ],
             "score": 10,
             "ownedBy": [],
@@ -31382,7 +32342,9 @@
             },
             "tags": [
                 "tech",
-                "music"
+                "music",
+                "data breach",
+                "privacy violations"
             ],
             "score": 44,
             "ownedBy": [],
@@ -31410,7 +32372,10 @@
                 "2": "sold unsafe toys"
             },
             "tags": [
-                "toys"
+                "toys",
+                "forced labour",
+                "poor working conditions",
+                "unsafe practices"
             ],
             "score": 36,
             "ownedBy": [],
@@ -31687,7 +32652,9 @@
                 "3": "uses potentially harmful and exploitative sales targets"
             },
             "tags": [
-                "healthcare"
+                "healthcare",
+                "tax avoidance",
+                "deception"
             ],
             "score": 46,
             "ownedBy": [],
@@ -31747,7 +32714,14 @@
             },
             "tags": [
                 "finance",
-                "insurance"
+                "insurance",
+                "corruption",
+                "greenwashing",
+                "fossil fuels",
+                "gender discrimination",
+                "racial discrimination",
+                "privacy violations",
+                "unfair pay"
             ],
             "score": 20,
             "ownedBy": [],
@@ -31784,7 +32758,12 @@
                 "7": "knowingly sold cars with defective airbags"
             },
             "tags": [
-                "cars"
+                "cars",
+                "deception",
+                "unfair pay",
+                "privacy violations",
+                "unsafe practices",
+                "environmental violations"
             ],
             "score": 24,
             "ownedBy": [],
@@ -31846,7 +32825,11 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "greenwashing",
+                "racial discrimination",
+                "forced uyghur labour",
+                "sexual harassment"
             ],
             "score": 25,
             "ownedBy": [],
@@ -31874,7 +32857,9 @@
                 "3": "historical inolvement with the Nazi party"
             },
             "tags": [
-                "jewellery"
+                "jewellery",
+                "environmental violations",
+                "unsustainable practices"
             ],
             "score": 44,
             "ownedBy": [],
@@ -31995,7 +32980,13 @@
             },
             "tags": [
                 "supermarket",
-                "retail"
+                "retail",
+                "anticompetitive practices",
+                "data breach",
+                "privacy violations",
+                "unfair pay",
+                "racial discrimination",
+                "animal abuse"
             ],
             "score": 31,
             "ownedBy": [],
@@ -32072,7 +33063,9 @@
                 "5": "employees suffered sexual harassment"
             },
             "tags": [
-                "telecommunications"
+                "telecommunications",
+                "corruption",
+                "sexual harassment"
             ],
             "score": 34,
             "ownedBy": [],
@@ -32195,7 +33188,14 @@
             "tags": [
                 "clothing",
                 "sportswear",
-                "retail"
+                "retail",
+                "environmental violations",
+                "forced labour",
+                "poor working conditions",
+                "sexual harassment",
+                "unfair pay",
+                "unsafe working conditions",
+                "unsafe practices"
             ],
             "score": 17,
             "ownedBy": [],
@@ -32334,7 +33334,12 @@
                 "12": "participation in state surveillance"
             },
             "tags": [
-                "telecommunications"
+                "telecommunications",
+                "anticompetitive practices",
+                "tax avoidance",
+                "deception",
+                "privacy violations",
+                "poor working conditions"
             ],
             "score": 38,
             "ownedBy": [],
@@ -32531,7 +33536,11 @@
             },
             "tags": [
                 "tech",
-                "travel"
+                "travel",
+                "anticompetitive practices",
+                "deception",
+                "sexual harassment",
+                "connections to israel"
             ],
             "score": 18,
             "ownedBy": [],
@@ -32761,7 +33770,14 @@
             },
             "tags": [
                 "consumer goods",
-                "pharmaceuticals"
+                "pharmaceuticals",
+                "anticompetitive practices",
+                "greenwashing",
+                "deception",
+                "environmental violations",
+                "unsafe working conditions",
+                "forced labour",
+                "unfair pay"
             ],
             "score": 17,
             "ownedBy": [],
@@ -33326,7 +34342,10 @@
             "tags": [
                 "videogames",
                 "tech",
-                "entertainment"
+                "entertainment",
+                "sexual harassment",
+                "gender discrimination",
+                "deception"
             ],
             "score": 24,
             "ownedBy": [],
@@ -33490,7 +34509,17 @@
                 "15": "customers have suffered rape and violance by subcontractors"
             },
             "tags": [
-                "entertainment"
+                "entertainment",
+                "anticompetitive practices",
+                "deception",
+                "unfair pay",
+                "racial discrimination",
+                "sexual harassment",
+                "corruption",
+                "privacy violations",
+                "data breach",
+                "environmental violations",
+                "unsustainable practices"
             ],
             "score": 12,
             "ownedBy": [],
@@ -34380,7 +35409,13 @@
                 "10": "employees suffered sexual harassment"
             },
             "tags": [
-                "logistics"
+                "logistics",
+                "data breach",
+                "privacy violations",
+                "unfair pay",
+                "poor working conditions",
+                "racial discrimination",
+                "sexual harassment"
             ],
             "score": 32,
             "ownedBy": [],
@@ -34487,7 +35522,12 @@
             },
             "tags": [
                 "telecommunications",
-                "tech"
+                "tech",
+                "tax avoidance",
+                "privacy violations",
+                "data breach",
+                "environmental violations",
+                "deception"
             ],
             "score": 38,
             "ownedBy": [],
@@ -34567,7 +35607,8 @@
                 "7": "anticompetetive monopolistic practices"
             },
             "tags": [
-                "finance"
+                "finance",
+                "anticompetitive practices"
             ],
             "score": 44,
             "ownedBy": [],
@@ -34644,7 +35685,11 @@
                 "3": "provided goods to child migrant detention centres",
                 "4": "provided goods to child migrant detention centres"
             },
-            "tags": [],
+            "tags": [
+                "deception",
+                "environmental violations",
+                "child labour"
+            ],
             "score": 40,
             "ownedBy": [],
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Wayfair_2024_logo.svg/250px-Wayfair_2024_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
@@ -34741,7 +35786,10 @@
             },
             "tags": [
                 "finance",
-                "bank"
+                "bank",
+                "deception",
+                "racial discrimination",
+                "gender discrimination"
             ],
             "score": 20,
             "ownedBy": [],
@@ -34783,7 +35831,12 @@
             "tags": [
                 "food",
                 "fast food",
-                "restaurant"
+                "restaurant",
+                "unfair pay",
+                "poor working conditions",
+                "unsafe practices",
+                "child labour",
+                "sexual harassment"
             ],
             "score": 34,
             "ownedBy": [],
@@ -34837,7 +35890,10 @@
                 "6": "defrauded customers"
             },
             "tags": [
-                "finance"
+                "finance",
+                "anticompetitive practices",
+                "corruption",
+                "deception"
             ],
             "score": 42,
             "ownedBy": [],
@@ -34911,7 +35967,8 @@
                 "3": "failed to pay minimum wage"
             },
             "tags": [
-                "retail"
+                "retail",
+                "unfair pay"
             ],
             "score": 46,
             "ownedBy": [],
@@ -34940,7 +35997,9 @@
             },
             "tags": [
                 "retail",
-                "home"
+                "home",
+                "unfair pay",
+                "poor working conditions"
             ],
             "score": 45,
             "ownedBy": [],
@@ -34999,7 +36058,12 @@
             },
             "tags": [
                 "retail",
-                "home"
+                "home",
+                "deception",
+                "unsafe practices",
+                "unfair pay",
+                "racial discrimination",
+                "gender discrimination"
             ],
             "score": 42,
             "ownedBy": [],
@@ -35063,7 +36127,12 @@
             "tags": [
                 "tech",
                 "electronics",
-                "cars"
+                "cars",
+                "corruption",
+                "deception",
+                "privacy violations",
+                "forced Uyghur labour",
+                "environmental violations"
             ],
             "score": 34,
             "ownedBy": [],
@@ -35149,7 +36218,11 @@
             "tags": [
                 "videogames",
                 "entertainment",
-                "tech"
+                "tech",
+                "anti-union practices",
+                "unfair pay",
+                "poor working conditions",
+                "unsafe practices"
             ],
             "score": 43,
             "ownedBy": [],
@@ -35273,7 +36346,13 @@
                 "17": "child labour in supply chain"
             },
             "tags": [
-                "food"
+                "food",
+                "environmental violations",
+                "unsustainable practices",
+                "deforestation",
+                "racial discrimination",
+                "child labour",
+                "connections to israel"
             ],
             "score": 26,
             "ownedBy": [],
@@ -36031,7 +37110,15 @@
                 "12": "animal abuse in supply chain"
             },
             "tags": [
-                "retail"
+                "retail",
+                "anticompetitive practices",
+                "deception",
+                "unfair pay",
+                "poor working conditions",
+                "privacy violations",
+                "gender discrimination",
+                "unsafe products",
+                "animal abuse"
             ],
             "score": 25,
             "ownedBy": [],
@@ -36115,7 +37202,14 @@
             },
             "tags": [
                 "cars",
-                "manufacturing"
+                "manufacturing",
+                "corruption",
+                "forced labour",
+                "unfair pay",
+                "connections to russia",
+                "environmental violations",
+                "unsustainable practices",
+                "poor working conditions"
             ],
             "score": 26,
             "ownedBy": [],
@@ -36339,7 +37433,15 @@
             "tags": [
                 "conglomerate",
                 "cars",
-                "manufacturing"
+                "manufacturing",
+                "corruption",
+                "unfair pay",
+                "anticompetitive practices",
+                "sexual harassment",
+                "unsafe working conditions",
+                "poor working conditions",
+                "environmental violations",
+                "unsustainable practices"
             ],
             "score": 6,
             "ownedBy": [],
@@ -36498,7 +37600,8 @@
             "sources": {},
             "sourceNotes": {},
             "tags": [
-                "confectionery"
+                "confectionery",
+                ""
             ],
             "score": 50,
             "ownedBy": [],
@@ -36526,7 +37629,10 @@
             },
             "tags": [
                 "clothing",
-                "retail"
+                "retail",
+                "gender discrimination",
+                "unsafe working conditions",
+                "forced uyghur labour"
             ],
             "score": 34,
             "ownedBy": [],
@@ -36606,7 +37712,16 @@
             },
             "tags": [
                 "fashion",
-                "clothing"
+                "clothing",
+                "privacy violations",
+                "unfair pay",
+                "poor working conditions",
+                "environmental violations",
+                "corruption",
+                "gender discrimination",
+                "racial discrimination",
+                "unsustainable practices",
+                "unsafe working conditions"
             ],
             "score": 35,
             "ownedBy": [],
@@ -38238,7 +39353,17 @@
                 "14": "employee injured in unsafe working conditions"
             },
             "tags": [
-                "finance"
+                "finance",
+                "unsustainable practices",
+                "fossil fuels",
+                "environmental violations",
+                "privacy violations",
+                "data breach",
+                "forced labour",
+                "racial discrimination",
+                "unsafe working conditions",
+                "unsafe practices",
+                "greenwashing"
             ],
             "score": 17,
             "ownedBy": [],
@@ -38801,7 +39926,8 @@
             },
             "tags": [
                 "sportswear",
-                "retail"
+                "retail",
+                "unfair pay"
             ],
             "score": 43,
             "ownedBy": [],
@@ -38856,7 +39982,9 @@
                 "7": "circumvented minimum wage law via subcontracting deliveries"
             },
             "tags": [
-                "fast food"
+                "fast food",
+                "deception",
+                "unfair pay"
             ],
             "score": 43,
             "ownedBy": [],
@@ -38894,7 +40022,11 @@
                 "8": "sold chocolate with lead and cadmium contamination"
             },
             "tags": [
-                "confectionery"
+                "confectionery",
+                "child labour",
+                "deception",
+                "environmental violations",
+                "unsustainable practices"
             ],
             "score": 29,
             "ownedBy": [],
@@ -38962,7 +40094,8 @@
                 "3": "anti-money laundering failure"
             },
             "tags": [
-                "finance"
+                "finance",
+                "corruption"
             ],
             "score": 44,
             "ownedBy": [],
@@ -39069,7 +40202,14 @@
             },
             "tags": [
                 "entertainment",
-                "media"
+                "media",
+                "anticompetitive practices",
+                "unfair pay",
+                "gender discrimination",
+                "unsafe working conditions",
+                "deception",
+                "corruption",
+                "child labour"
             ],
             "score": 36,
             "ownedBy": [],
@@ -39496,7 +40636,13 @@
             },
             "tags": [
                 "appliances",
-                "home"
+                "home",
+                "tax avoidance",
+                "anticompetitive practices",
+                "unsafe practices",
+                "environmental violations",
+                "unsustainable practices",
+                "connections to russia"
             ],
             "score": 30,
             "ownedBy": [],
@@ -39781,7 +40927,12 @@
             },
             "tags": [
                 "technology",
-                "electronics"
+                "electronics",
+                "data breach",
+                "privacy violations",
+                "corruption",
+                "connections to russia",
+                "sexual harassment"
             ],
             "score": 24,
             "ownedBy": [],
@@ -39820,7 +40971,10 @@
                 "8": "unsafe restarant decor safety causing injuries to customers"
             },
             "tags": [
-                "restaurant"
+                "restaurant",
+                "unfair pay",
+                "racial discrimination",
+                "unsafe practices"
             ],
             "score": 32,
             "ownedBy": [],
@@ -40046,7 +41200,13 @@
             },
             "tags": [
                 "electronics",
-                "tech"
+                "tech",
+                "tax avoidance",
+                "privacy violations",
+                "forced labour",
+                "forced uyghur labour",
+                "connections to russia",
+                "unfair pay"
             ],
             "score": 29,
             "ownedBy": [],
@@ -40089,7 +41249,14 @@
                 "10": "negligent restroom maintenance causing injury to customer",
                 "11": "employee injured in unsafe working conditions"
             },
-            "tags": [],
+            "tags": [
+                "unfair pay",
+                "gender discrimination",
+                "sexual harassment",
+                "racial discrimination",
+                "unsafe working conditions",
+                "unsafe practices"
+            ],
             "score": 22,
             "ownedBy": [],
             "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/6/68/Bloomin%27_Brands_logo.svg/250px-Bloomin%27_Brands_logo.svg.png",
@@ -40180,7 +41347,9 @@
             },
             "tags": [
                 "petroleum",
-                "retail"
+                "retail",
+                "unfair pay",
+                "environmental violations"
             ],
             "score": 37,
             "ownedBy": [],
@@ -40235,7 +41404,12 @@
                 "6": "child labor in mica mining supply chain"
             },
             "tags": [
-                "cosmetics"
+                "cosmetics",
+                "anticompetitive practices",
+                "animal abuse",
+                "child labour",
+                "unsustainable practices",
+                "environmental violations"
             ],
             "score": 19,
             "ownedBy": [],
@@ -40405,7 +41579,9 @@
             "tags": [
                 "clothing",
                 "sportswear",
-                "retail"
+                "retail",
+                "deception",
+                "forced labour"
             ],
             "score": 34,
             "ownedBy": [],
@@ -40488,7 +41664,12 @@
                 "10": "illegal wiretapping and coverup"
             },
             "tags": [
-                "telecommunications"
+                "telecommunications",
+                "anticompetitive practices",
+                "corruption",
+                "data breach",
+                "privacy violations",
+                "deception"
             ],
             "score": 33,
             "ownedBy": [],
@@ -40591,7 +41772,8 @@
                 "1": "monopolistic cartel to divide the Austrian industrial sugar market"
             },
             "tags": [
-                "food"
+                "food",
+                "anticompetitive practices"
             ],
             "score": 45,
             "ownedBy": [],
@@ -40643,7 +41825,13 @@
                 "14": "child labour in supply chain"
             },
             "tags": [
-                "clothing"
+                "clothing",
+                "data breach",
+                "privacy violations",
+                "unfair pay",
+                "forced labour",
+                "child labour",
+                "forced Uyghur labour"
             ],
             "score": 20,
             "ownedBy": [],
@@ -40827,7 +42015,12 @@
                 "10": "withholding payments from small businesses"
             },
             "tags": [
-                "tech"
+                "tech",
+                "corruption",
+                "deception",
+                "privacy violations",
+                "unfair pay",
+                "data breach"
             ],
             "score": 37,
             "ownedBy": [],
@@ -40999,7 +42192,12 @@
                 "13": "collaborated with Chinese authorities to spread propaganda on Xinjiang"
             },
             "tags": [
-                "tech"
+                "tech",
+                "deception",
+                "privacy violations",
+                "gender discrimination",
+                "unsafe working conditions",
+                "poor working conditions"
             ],
             "score": 20,
             "ownedBy": [],
@@ -41230,7 +42428,10 @@
                 "5": "unsafe loading practices causing fatal accident",
                 "6": "caused fatal road traffic accident"
             },
-            "tags": [],
+            "tags": [
+                "deforestation",
+                "unsafe practices"
+            ],
             "score": 17,
             "ownedBy": [],
             "logoUrl": "//thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Travis_Perkins_logo.svg/250px-Travis_Perkins_logo.svg.png",
@@ -41290,7 +42491,15 @@
                 "10": "diverted floodwater into village causing multiple deaths"
             },
             "tags": [
-                "food"
+                "food",
+                "deception",
+                "unfair pay",
+                "gender discrimination",
+                "environmental violations",
+                "unsafe working conditions",
+                "unsafe practices",
+                "poor working conditions",
+                "unsustainable practices"
             ],
             "score": 10,
             "ownedBy": [],
@@ -41424,7 +42633,14 @@
                 "7": "employee died in unsafe working conditions"
             },
             "tags": [
-                "food"
+                "food",
+                "anticompetitive practices",
+                "unfair pay",
+                "racial discrimination",
+                "gender discrimination",
+                "environmental violations",
+                "unsafe working conditions",
+                "unsustainable practices"
             ],
             "score": 15,
             "ownedBy": [],
@@ -41848,7 +43064,8 @@
                 "1": "misleading statements about cage‑free egg usage"
             },
             "tags": [
-                "restaurants"
+                "restaurants",
+                "deception"
             ],
             "score": 47,
             "ownedBy": [],
@@ -42491,7 +43708,8 @@
             },
             "tags": [
                 "retail",
-                "home"
+                "home",
+                "unfair pay"
             ],
             "score": 44,
             "ownedBy": [],
@@ -42608,7 +43826,12 @@
                 "16": "sex discrimination and harassment of female employees"
             },
             "tags": [
-                "healthcare"
+                "healthcare",
+                "anticompetitive practices",
+                "deception",
+                "corruption",
+                "gender discrimination",
+                "sexual harassment"
             ],
             "score": 18,
             "ownedBy": [],
