@@ -13,6 +13,7 @@ export function Home() {
             <meta name="description" content="Which companies are most ethical? boikot is unearthing and recording unethical actions by global companies to help the public make informed decisions." />
         </Helmet>
         <Stack>
+            <span />
             <h1> boikot makes company ethics data transparent and accessible.
             </h1>
             <p> We are building a community-curated, transparent, freely
@@ -32,6 +33,7 @@ export function Home() {
                     🔎  search companies
                 </p>
             </Link>
+            <span style={{ height: "1rem" }}/>
             <h1> worst offenders 💩 </h1>
             { Object.values(boikot.companies)
                 .filter( entry => !!entry.comment )
@@ -42,6 +44,7 @@ export function Home() {
             <Link to="/companies?sort=sort by score ascending">
                 <PillButton $outline>💩  more worst offenders</PillButton>
             </Link>
+            <span />
             <h1> newly added 👀 </h1>
             { Object.values(boikot.companies)
                 .toSorted( (a,b) =>
@@ -61,7 +64,8 @@ export function Home() {
                     </PillButton>
                 </Link>
             </FlexRow>
-            <h2 style={{ marginTop: "1rem" }}> Score your Statement 📊 </h2>
+            <span />
+            <h2> Score your Statement 📊 </h2>
             <p> run a bank statement against our database to see how
                 ethical the purchases you have made are. your files stay
                 on your own device with complete privacy. </p>
@@ -70,14 +74,16 @@ export function Home() {
                     🏆  score your statement!
                 </PillButton>
             </Link>
-            <h2 style={{ marginTop: "1rem" }}> our ratings  ⚖️  </h2>
+            <span />
+            <h2> our ratings  ⚖️  </h2>
             <p style={{ lineHeight: "1.4rem" }}>
                 We rank companies on a scale from <Score score="0" />{" "}
                 to <Score score="100"/>, based on their positive and
                 negative actions, with <Score score="50" /> being a
                 neutral score. If you disagree with a company score,
                 please submit an updated record for it! </p>
-            <h2 style={{ marginTop: "1rem" }}> our data 📜 </h2>
+            <span />
+            <h2> our data 📜 </h2>
             <p style={{ lineHeight: "1.4rem" }}>
                 You can download our companies dataset from our{" "}
                 <a href="https://github.com/boikot-xyz/boikot">
@@ -96,7 +102,8 @@ export function Home() {
                 MCP server, which is hosted
                 at <a href="https://mcp.boikot.xyz/mcp"> https://mcp.boikot.xyz/mcp </a> </p>
             */}
-            <h2 style={{ marginTop: "1rem" }}> contact us 📬  </h2>
+            <span />
+            <h2> contact us 📬  </h2>
             <p> if you would like to work with us or have any other
                 enquiries please reach out! </p>
             <Link to="/contact-us">

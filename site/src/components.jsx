@@ -138,15 +138,20 @@ export const Centerer = ({ children, style }) =>
 export const Header = () =>
     <Row style={{
         width: "100%",
-        gridTemplateColumns: "max-content auto",
-        justifyItems: "right",
+        gridTemplateColumns: "max-content 1fr max-content",
         marginBottom: "1rem",
         position: "sticky",
         top: "2rem",
+        padding: "1rem 1.5rem",
+        borderRadius: "5rem",
+        background: "var(--accent-dark)",
+        zIndex: 1,
+        gap: "0.6rem",
     }}>
         <Link to="/" style={{ textDecoration: 'none' }}>
-            <h2 style={{ color: "var(--fg)" }}> boikot 🙅‍♀️ </h2>
+            <h2 style={{ color: "var(--fg)", whiteSpace: "nowrap" }}> boikot &nbsp;🙅‍♀️ </h2>
         </Link>
+        <p style={{ fontSize: "0.85rem", textAlign: "start"}}> transparent and accessible corporate ethics data </p>
         <MenuButton />
     </Row>;
 
@@ -191,14 +196,20 @@ function Menu({ open, close }) {
         <Centerer>
             <Row style={{
                 width: "100%",
-                gridTemplateColumns: "auto min-content",
+                gridTemplateColumns: "max-content 1fr max-content",
                 marginBottom: "1rem",
                 position: "sticky",
                 top: "2rem",
+                padding: "1rem 1.5rem",
+                borderRadius: "5rem",
+                background: "var(--accent-dark)",
+                zIndex: 1,
+                gap: "0.6rem",
             }}>
                 <Link to="/" style={{ textDecoration: 'none' }}>
-                    <h2 style={{ color: "var(--fg)" }}> boikot 🙅‍♀️ </h2>
+                    <h2 style={{ color: "var(--fg)", whiteSpace: "nowrap" }}> boikot &nbsp;🙅‍♀️ </h2>
                 </Link>
+                <p style={{ fontSize: "0.85rem", textAlign: "start"}}> transparent and accessible corporate ethics data </p>
                 <IconButton i="x" onClick={close} alt="close menu" />
             </Row>
             <span style={{ fontSize: "1.5rem" }}> 🏠  <MenuLink to="/"> home </MenuLink></span>
