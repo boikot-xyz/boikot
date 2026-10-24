@@ -144,14 +144,14 @@ export const Header = () =>
         top: "2rem",
         padding: "1rem 1.5rem",
         borderRadius: "5rem",
-        background: "var(--accent-dark)",
+        background: "var(--fg)",
         zIndex: 1,
         gap: "0.6rem",
     }}>
         <Link to="/" style={{ textDecoration: 'none' }}>
-            <h2 style={{ color: "var(--fg)", whiteSpace: "nowrap" }}> boikot &nbsp;🙅‍♀️ </h2>
+            <h2 style={{ color: "var(--bg)", whiteSpace: "nowrap" }}> boikot &nbsp;🙅‍♀️ </h2>
         </Link>
-        <p style={{ fontSize: "0.85rem", textAlign: "start"}}> transparent and accessible corporate ethics data </p>
+        <p style={{ color: "var(--bg)", fontSize: "0.85rem", textAlign: "start"}}> transparent and accessible corporate ethics data </p>
         <MenuButton />
     </Row>;
 
@@ -202,15 +202,15 @@ function Menu({ open, close }) {
                 top: "2rem",
                 padding: "1rem 1.5rem",
                 borderRadius: "5rem",
-                background: "var(--accent-dark)",
+                background: "var(--fg)",
                 zIndex: 1,
                 gap: "0.6rem",
             }}>
                 <Link to="/" style={{ textDecoration: 'none' }}>
-                    <h2 style={{ color: "var(--fg)", whiteSpace: "nowrap" }}> boikot &nbsp;🙅‍♀️ </h2>
+                    <h2 style={{ color: "var(--bg-light)", whiteSpace: "nowrap" }}> boikot &nbsp;🙅‍♀️ </h2>
                 </Link>
-                <p style={{ fontSize: "0.85rem", textAlign: "start"}}> transparent and accessible corporate ethics data </p>
-                <IconButton i="x" onClick={close} alt="close menu" />
+                <p style={{ color: "var(--bg)", fontSize: "0.85rem", textAlign: "start"}}> transparent and accessible corporate ethics data </p>
+                <IconButton i="x" onClick={close} alt="close menu" style={{ filter: "invert(1)" }} />
             </Row>
             <span style={{ fontSize: "1.5rem" }}> 🏠  <MenuLink to="/"> home </MenuLink></span>
             <span style={{ fontSize: "1.5rem" }}> ⚖️  <MenuLink to="/companies"> company ethics reports </MenuLink></span>
@@ -251,6 +251,7 @@ export function MenuButton() {
 
     return <>
         <IconButton i="menu" alt="open menu"
+            style={{ filter: "invert(1)" }}
             onClick={ () => setOpen(true) } />
         <Menu open={open} close={ () => setOpen(false) } />
     </>;
