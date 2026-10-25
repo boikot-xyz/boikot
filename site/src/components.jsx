@@ -137,8 +137,9 @@ export const Centerer = ({ children, style }) =>
 
 export const Header = () =>
     <Row style={{
-        width: "100%",
+        width: "calc(100% + 2rem)",
         gridTemplateColumns: "max-content 1fr max-content",
+        margin: "0 -1rem",
         marginBottom: "1rem",
         position: "sticky",
         top: "2rem",
@@ -195,8 +196,9 @@ function Menu({ open, close }) {
     }}>
         <Centerer>
             <Row style={{
-                width: "100%",
+                width: "calc(100% + 2rem)",
                 gridTemplateColumns: "max-content 1fr max-content",
+                margin: "0 -1rem",
                 marginBottom: "1rem",
                 position: "sticky",
                 top: "2rem",
