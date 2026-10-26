@@ -152,7 +152,7 @@ export const Header = () =>
         <Link to="/" style={{ textDecoration: 'none' }}>
             <h2 style={{ color: "var(--bg)", whiteSpace: "nowrap" }}> boikot &nbsp;🙅‍♀️ </h2>
         </Link>
-        <p style={{ color: "var(--bg)", fontSize: "0.85rem", textAlign: "start"}}> {window.matchMedia("(width > 38rem)").matches && "transparent and accessible corporate ethics data" } </p>
+        <p style={{ color: "var(--bg)", fontSize: "0.85rem", textAlign: "start"}}> {window.matchMedia?.("(width > 38rem)")?.matches && "transparent and accessible corporate ethics data" } </p>
         <MenuButton />
     </Row>;
 
@@ -211,7 +211,7 @@ function Menu({ open, close }) {
                 <Link to="/" style={{ textDecoration: 'none' }}>
                     <h2 style={{ color: "var(--bg-light)", whiteSpace: "nowrap" }}> boikot &nbsp;🙅‍♀️ </h2>
                 </Link>
-                <p style={{ color: "var(--bg)", fontSize: "0.85rem", textAlign: "start"}}> {window.matchMedia("(width > 38rem)").matches && "transparent and accessible corporate ethics data" } </p>
+                <p style={{ color: "var(--bg)", fontSize: "0.85rem", textAlign: "start"}}> {window.matchMedia?.("(width > 38rem)")?.matches && "transparent and accessible corporate ethics data" } </p>
                 <IconButton i="x" onClick={close} alt="close menu" style={{ filter: "invert(1)" }} />
             </Row>
             <span style={{ fontSize: "1.5rem" }}> 🏠  <MenuLink to="/"> home </MenuLink></span>
