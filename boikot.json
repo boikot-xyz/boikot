@@ -43839,6 +43839,31 @@
             "siteUrl": "https://www.lilly.com/",
             "updatedAt": "2026-10-18T20:45:47.814Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company"
+        },
+        "the-works": {
+            "key": "the-works",
+            "names": [
+                "The Works",
+                "TheWorks.co.uk PLC"
+            ],
+            "comment": "The Works is a company that has faced environmental violations [1] and has also failed to pay minimum wage [2].",
+            "sources": {
+                "1": "https://web.archive.org/web/20210608153410/https://www.360environmental.co.uk/documents/Enforcement%20Undertakings%20accepted%20by%20the%20Environment%20Agency%20160620%20-%20GOV.UK.pdf",
+                "2": "https://www.gov.uk/government/news/17m-back-pay-identified-for-a-record-16000-workers-as-260-employers-are-named-and-shamed-for-underpaying-minimum-wage-rates"
+            },
+            "sourceNotes": {
+                "1": "environmental violations",
+                "2": "failed to pay minimum wage"
+            },
+            "tags": [
+                "retail"
+            ],
+            "score": 43,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/e/e0/The_Works_logo.svg/250px-The_Works_logo.svg.png",
+            "siteUrl": "http://theworks.co.uk/",
+            "updatedAt": "2026-11-04T00:16:06.975Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Works_(retailer)"
         }
     }
 }
