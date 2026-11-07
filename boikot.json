@@ -43864,6 +43864,76 @@
             "siteUrl": "http://theworks.co.uk/",
             "updatedAt": "2026-11-04T00:16:06.975Z",
             "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Works_(retailer)"
+        },
+        "shell": {
+            "key": "shell",
+            "names": [
+                "Shell",
+                "Shell plc",
+                "Royal Dutch Shell plc",
+                "SHEL",
+                "SHELL"
+            ],
+            "comment": "Shell is a British‑Dutch multinational oil company that has misled consumers with false carbon‑neutral claims [1], engaged in greenwashing and profiteering [2], profited from fossil fuel extraction while ignoring climate change [3], traded Russian gas after pledging to stop [4], paid bribes to Nigerian customs officials to import equipment [5], and conducted surveillance and spying on governments and journalists [6]. The company has repeatedly violated environmental and safety regulations [7][8][9], including the Clean Air Act [10] , causing MTBE contamination [11] and unsafe working conditions at a pesticide plant [12], selling nematicide with undisclosed TCP that contaminated water supplies [13], committing widespread oil spills and environmental damage in the Niger Delta [14][15], evading oil cleanup responsibilities and allowing pollution while ignoring corruption in oil spill cleanup [16][17], and injuring employees in unsafe working conditions [18].",
+            "sources": {
+                "1": "https://www.petersandpeters.com/case/shell-accused-of-greenwashing-by-dutch-advertising-code-committee/",
+                "2": "https://www.ijceas.com/ijceas/article/download/814/467/4286",
+                "3": "https://www.thenational.scot/news/23897278.shell-faces-backlash-recording-immoral-profits/",
+                "4": "https://www.bbc.co.uk/news/business-66021325",
+                "5": "https://www.justice.gov/opa/pr/oil-services-companies-and-freight-forwarding-company-agree-resolve-foreign-bribery",
+                "6": "https://royaldutchshellplc.com/2026/07/13/shell-and-the-spies-a-country-by-country-evidence-audit/",
+                "7": "https://www.amnesty.org/en/latest/news/2024/05/nigeria-shell-must-be-held-fully-accountable-for-human-rights-harms-before-being-allowed-to-sell-its-niger-delta-business/",
+                "8": "https://www.oag.ca.gov/news/press-releases/brown-wins-195-million-judgment-against-shell-oil-co-environmental-violations",
+                "9": "https://environment.data.gov.uk/public-register/view/search-enforcement-action",
+                "10": "https://www.justice.gov/opa/pr/shell-oil-spend-over-115-million-reduce-harmful-air-pollution-houston-area-refinery-and",
+                "11": "https://nj.gov/oag/newsreleases18/pr20180312a.html",
+                "12": "https://www.reuters.com/article/idUSL1N0C40IE/",
+                "13": "http://www.mercedgwnews.com/63-million-dollars-awarded-to-the-city-of-atwater-for-tcp-contamination-of-water-supply/",
+                "14": "https://www.theguardian.com/business/2023/nov/23/shell-to-face-human-rights-claims-uk-over-chronic-oil-spills-niger-delta",
+                "15": "https://www.durham.ac.uk/departments/academic/law/research/law-school-blog/shells-dirty-legacy-oil-insecurity-and-injustice-in-the-niger-delta/",
+                "16": "https://oilchange.org/blogs/explosive-new-documents-reveal-shells-collusion-nepotism-and-corruption-in-the-niger-delta-bolsted-claims-the-company-divested-to-avoid-paying-us10-9bn-in-clean-up-costs/",
+                "17": "https://www.youtube.com/watch?v=k3OyqSRRgNM",
+                "18": "https://press.hse.gov.uk/2023/12/14/offshore-companies-fined-after-grandfather-injured-on-north-sea-gangway/"
+            },
+            "sourceNotes": {
+                "1": "misled consumers with false carbon‑neutral claims",
+                "2": "greenwashing & profiteering",
+                "3": "profited from fossil fuel extraction while ignoring climate change",
+                "4": "traded Russian gas after pledge to stop",
+                "5": "paid bribes to Nigerian customs officials to import equipment",
+                "6": "conducted surveillance and spying on governments and journalists",
+                "7": "committed environmental violations",
+                "8": "committed environmental violations",
+                "9": "committed environmental violations",
+                "10": "violated Clean Air Act",
+                "11": "caused environmental damage by MTBE contamination",
+                "12": "caused chemical contamination and unsafe working conditions at pesticide plant",
+                "13": "sold nematicide with undisclosed TCP that contaminated water supply",
+                "14": "committed environmental violations in Niger Delta",
+                "15": "caused widespread oil spills and environmental damage",
+                "16": "evaded oil cleanup responsibilities and allowed pollution",
+                "17": "ignored corruption in oil spill cleanup",
+                "18": "employees injured in unsafe working conditions"
+            },
+            "tags": [
+                "petroleum",
+                "corruption",
+                "greenwashing",
+                "connections to russia",
+                "privacy violations",
+                "deception",
+                "unsustainable practices",
+                "unsafe working conditions",
+                "environmental violations",
+                "fossil fuels",
+                "unsafe practices"
+            ],
+            "score": 3,
+            "ownedBy": [],
+            "logoUrl": "//thumb.wikimedia.org/wikipedia/en/thumb/e/e8/Shell_logo.svg/250px-Shell_logo.svg.png",
+            "siteUrl": "https://www.shell.com/",
+            "updatedAt": "2026-11-06T12:58:04.442Z",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Shell_plc"
         }
     }
 }
