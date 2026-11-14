@@ -43874,7 +43874,7 @@
                 "SHEL",
                 "SHELL"
             ],
-            "comment": "Shell is a British‑Dutch multinational oil company that has misled consumers with false carbon‑neutral claims [1], engaged in greenwashing and profiteering [2], profited from fossil fuel extraction while ignoring climate change [3], traded Russian gas after pledging to stop [4], paid bribes to Nigerian customs officials to import equipment [5], and conducted surveillance and spying on governments and journalists [6]. The company has repeatedly violated environmental and safety regulations [7][8][9], including the Clean Air Act [10] , causing MTBE contamination [11] and unsafe working conditions at a pesticide plant [12], selling nematicide with undisclosed TCP that contaminated water supplies [13], committing widespread oil spills and environmental damage in the Niger Delta [14][15], evading oil cleanup responsibilities and allowing pollution while ignoring corruption in oil spill cleanup [16][17], and injuring employees in unsafe working conditions [18].",
+            "comment": "Shell is a British‑Dutch multinational oil company that has misled consumers with false carbon‑neutral claims [1], engaged in greenwashing and profiteering [2], profited from fossil fuel extraction while ignoring climate change [3], traded Russian gas after pledging to stop [4], paid bribes to Nigerian customs officials to import equipment [5], and conducted surveillance and spying on governments and journalists [6]. The company has repeatedly violated environmental and safety regulations [7][8][9], including the Clean Air Act [10] , causing MTBE contamination [11] and unsafe working conditions at a pesticide plant [12], selling nematicide with undisclosed TCP that contaminated water supplies [13], committing widespread oil spills and environmental damage in the Niger Delta [14][15], evading oil cleanup responsibilities and allowing pollution while ignoring corruption in oil spill cleanup [16][17], and injuring employees in unsafe working conditions [18][19].",
             "sources": {
                 "1": "https://www.petersandpeters.com/case/shell-accused-of-greenwashing-by-dutch-advertising-code-committee/",
                 "2": "https://www.ijceas.com/ijceas/article/download/814/467/4286",
@@ -43893,7 +43893,8 @@
                 "15": "https://www.durham.ac.uk/departments/academic/law/research/law-school-blog/shells-dirty-legacy-oil-insecurity-and-injustice-in-the-niger-delta/",
                 "16": "https://oilchange.org/blogs/explosive-new-documents-reveal-shells-collusion-nepotism-and-corruption-in-the-niger-delta-bolsted-claims-the-company-divested-to-avoid-paying-us10-9bn-in-clean-up-costs/",
                 "17": "https://www.youtube.com/watch?v=k3OyqSRRgNM",
-                "18": "https://press.hse.gov.uk/2023/12/14/offshore-companies-fined-after-grandfather-injured-on-north-sea-gangway/"
+                "18": "https://press.hse.gov.uk/2023/12/14/offshore-companies-fined-after-grandfather-injured-on-north-sea-gangway/",
+                "19": "https://press.hse.gov.uk/2026/05/27/worker-burned-after-shell-safety-failures-triggered-violent-propane-release-at-firth-of-forth-terminal/?utm_source=chatgpt.com"
             },
             "sourceNotes": {
                 "1": "misled consumers with false carbon‑neutral claims",
@@ -43913,7 +43914,8 @@
                 "15": "caused widespread oil spills and environmental damage",
                 "16": "evaded oil cleanup responsibilities and allowed pollution",
                 "17": "ignored corruption in oil spill cleanup",
-                "18": "employees injured in unsafe working conditions"
+                "18": "employees injured in unsafe working conditions",
+                "19": "employees injured in unsafe working conditions"
             },
             "tags": [
                 "petroleum",
