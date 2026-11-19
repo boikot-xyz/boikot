@@ -17,6 +17,7 @@
         <meta name="theme-color" content="#000000">
         <meta name="msapplication-TileColor" content="#000000">
         <meta name="application-name" content="Boikot">
+        <link rel="canonical" href="https://boikot.org/">
 
         <script type="application/ld+json">
 {
@@ -24,16 +25,16 @@
   "@type": "WebSite",
   "name": "boikot",
   "description": "Community-curated, transparent, freely accessible collection of corporate ethics records",
-  "url": "https://boikot.xyz",
+  "url": "https://boikot.org",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://boikot.xyz/companies?search={search_term_string}",
+    "target": "https://boikot.org/companies?search={search_term_string}",
     "query-input": "required name=search_term_string"
   },
   "publisher": {
     "@type": "Organization",
     "name": "boikot",
-    "url": "https://boikot.xyz"
+    "url": "https://boikot.org"
   }
 }
         </script>
@@ -167,6 +168,11 @@ a {
                 pdfjsLib.GlobalWorkerOptions.workerSrc =
                     "/assets/pdf.worker.min.mjs";
             };
+        </script>
+        <script>
+            if(window.location.href.includes("http://localhost:8015"))
+                document.querySelectorAll("link")[1].setAttribute("href", (window.location.href.replace("http://localhost:8015", "https://boikot.org") + "/").replace(/\/\/$/, "/"));
+            document.currentScript.remove();
         </script>
     </body>
 </html>
