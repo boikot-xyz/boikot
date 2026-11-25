@@ -216,10 +216,10 @@ function Menu({ open, close }) {
             </Row>
             <span style={{ fontSize: "1.5rem" }}> 🏠  <MenuLink to="/"> home </MenuLink></span>
             <span style={{ fontSize: "1.5rem" }}> ⚖️  <MenuLink to="/companies"> company ethics reports </MenuLink></span>
+            <span style={{ fontSize: "1.5rem" }}> 📜  <MenuLink to="/blog"> blog </MenuLink></span>
             <span style={{ fontSize: "1.5rem" }}> ➕  <MenuLink to="/companies/edit"> add a company </MenuLink></span>
             <span style={{ fontSize: "1.5rem" }}> 🖨️  <MenuLink to="/statement-score"> scan a document </MenuLink></span>
             {/* <MenuLink to="/search"> 🔎  search </MenuLink> */}
-            {/* <MenuLink to="/blog"> blog </MenuLink> */}
             <span style={{ fontSize: "1.5rem" }}> 📬  <MenuLink to="/contact-us"> contact us </MenuLink></span>
             <h3 style={{ marginTop: "1.5rem" }}>
                 boikot makes company ethics data transparent and accessible.
